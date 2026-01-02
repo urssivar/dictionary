@@ -133,6 +133,23 @@ Kaitag uses 42 letters including digraphs (stored in `/data/alphabet.yaml`):
 - YAML→JSON converter for static website
 - Audio pronunciation files
 
+## Published Dictionary
+
+This repository contains the **source data** for editing and development.
+
+For browsing and using the dictionary, visit:
+
+### **[📖 Kaitag Dictionary at Urssivar.com](https://urssivar.com/language/dictionary/intro)**
+
+The published dictionary includes:
+- **Online browsing** - Search and explore all 5,171 entries
+- **PDF download** - Printable offline version
+- **Google Sheets** - Spreadsheet format for analysis
+- **Grammar guide** - Phonetics, orthography, and grammatical reference
+- **Additional tools** - Keyboards, text converter, video introduction
+
+---
+
 ## Authors
 
 **Magomed Magomedov** and **Uzlipat Gasanova**
