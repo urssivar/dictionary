@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    ".vscode/lexeme-schema.json": "lexicon/**/*.yaml"
+  }
+}
