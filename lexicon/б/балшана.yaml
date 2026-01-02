@@ -1,0 +1,17 @@
+id: u1Wb2Im5ei09MeSdridq
+headword: балшана
+ipa: balˈʃana
+tags: [v, intr, cls]
+forms:
+  - text: башана
+    gloss: pfv
+  - text: башун
+    gloss: aor
+  - text: балшана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get dirty
+      ru: пачкаться
+    aliases:
+      en: [stain, smudge]

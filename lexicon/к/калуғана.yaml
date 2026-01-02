@@ -1,0 +1,21 @@
+id: VBaHWa5e4l0qYkbRy0Gq
+headword: калуғана
+ipa: kaluˈʁana
+tags: [v, tr, cls]
+forms:
+  - text: кабалғана
+    gloss: pfv
+  - text: кабалғун
+    gloss: aor
+  - text: калуғана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cut
+      ru: разрезать
+    aliases:
+      en: [slice]
+    examples:
+      - text: кабалға бацбикь
+        translation:
+          en: cut the chudu

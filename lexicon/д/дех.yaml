@@ -1,0 +1,19 @@
+id: YxhPdaUUsipRU2t1mAHP
+headword: дех
+ipa: ˈdeχ
+tags: [n]
+note:
+  en: '*харал*, *тавра*'
+forms:
+  - text: дех
+    gloss: sg
+  - text: дехан
+    gloss: obl, loc
+  - text: дихбе
+    gloss: pl
+definitions:
+  - translation:
+      en: sack
+      ru: мешок
+    aliases:
+      en: [bag, pack]

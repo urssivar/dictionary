@@ -1,0 +1,15 @@
+id: fxTBls0aYpoVge4cDi09
+headword: ҡвяш бирара
+ipa: ˌqʷæʃ biˈrara
+tags: [v, cls, tr, phr]
+forms:
+  - text: ҡвяш барара
+    gloss: pfv
+  - text: ҡвяш барив
+    gloss: aor
+  - text: ҡвяш бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to wipe
+      ru: вытирать

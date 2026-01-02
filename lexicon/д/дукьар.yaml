@@ -1,0 +1,17 @@
+id: grCYhmZkAgvjLG1PYbpo
+headword: дукьар
+ipa: duˈkʼar
+tags: [n]
+note:
+  en: '*дикьери*'
+forms:
+  - text: дукьар
+    gloss: sg
+  - text: дукьарун
+    gloss: obl
+definitions:
+  - translation:
+      en: leakage
+      ru: протечка
+    aliases:
+      en: [water]

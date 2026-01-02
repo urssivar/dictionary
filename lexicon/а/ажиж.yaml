@@ -1,0 +1,16 @@
+id: gvu1Tu5OylNtjzs5f4WD
+headword: ажиж
+ipa: aˈʒiʒ
+tags: [adj, nmlz]
+etymology:
+  en: Hyp. of *аргара* "to happen".
+definitions:
+  - translation:
+      en: probable
+      ru: вероятный
+    aliases:
+      en: [likely]
+    examples:
+      - text: ижал марка ажижле це
+        translation:
+          en: possible rain today

@@ -1,0 +1,17 @@
+id: bQpUaGNKjqC5WOJeLsN6
+headword: улкартара
+ipa: ulkarˈtara
+tags: [v, tr]
+forms:
+  - text: улкатара
+    gloss: pfv
+  - text: улкатур
+    gloss: aor
+  - text: улкартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to look
+      ru: смотреть
+    aliases:
+      en: [see]

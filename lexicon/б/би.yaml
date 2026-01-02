@@ -1,0 +1,19 @@
+id: Mhs9c57KBcVsGzJQISRe
+headword: би
+ipa: ˈbi
+tags: [adj, cls]
+etymology:
+  en: Cf. the copula *би* "to be".
+definitions:
+  - translation:
+      en: existing
+      ru: являющийся, имеющийся
+    aliases:
+      en: [available, being]
+    examples:
+      - text: итин дите цаҡҡа
+        translation:
+          en: bring what's there
+      - text: мяҡье ви дярьяй бекка
+        translation:
+          en: give it to the child nearby

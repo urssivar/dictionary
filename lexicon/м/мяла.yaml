@@ -1,0 +1,20 @@
+id: HK74UtK8hu57Ffi1YZhG
+headword: мяла
+ipa: ˈmæla
+tags: [n]
+note:
+  en: '*меъле*'
+forms:
+  - text: мяла
+    gloss: sg
+  - text: мялбе
+    gloss: pl
+definitions:
+  - translation:
+      en: window
+      ru: окно
+    tags: [house]
+    examples:
+      - text: мялала бур
+        translation:
+          en: windowsill

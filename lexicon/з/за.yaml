@@ -1,0 +1,15 @@
+id: eUVQMdRUwJSre6DFdPEw
+headword: за
+ipa: ˈza
+tags: [n]
+forms:
+  - text: за
+    gloss: sg
+  - text: зал
+    gloss: obl
+definitions:
+  - translation:
+      en: colostrum
+      ru: молозиво
+    aliases:
+      en: [milk, foremilk]

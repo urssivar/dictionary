@@ -1,0 +1,18 @@
+id: 67yNrdnEjnlzzlhaxrfo
+headword: музидиг
+ipa: muziˈdig
+tags: [n]
+forms:
+  - text: музидиг
+    gloss: sg
+  - text: музидигу
+    gloss: obl
+  - text: музидигбе
+    gloss: pl
+definitions:
+  - translation:
+      en: fillet
+      ru: филе
+    tags: [food]
+    aliases:
+      en: [meat]

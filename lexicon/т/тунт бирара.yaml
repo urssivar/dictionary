@@ -1,0 +1,21 @@
+id: 5zoDuY35awSkYYKjAwry
+headword: тунт бирара
+ipa: ˌtunt biˈrara
+tags: [v, cls, phr]
+forms:
+  - text: тунт барара
+    gloss: pfv
+  - text: тунт барив
+    gloss: aor
+  - text: тунт бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to increase
+      ru: усиливать
+    aliases:
+      en: [over]
+    examples:
+      - text: ккирцце ццелла тунт мадират
+        translation:
+          en: don't oversalt dumplings

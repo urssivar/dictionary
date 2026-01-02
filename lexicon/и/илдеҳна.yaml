@@ -1,0 +1,18 @@
+id: 00yFQMnQZOPqOBlW8RdG
+headword: илдеҳна
+ipa: ˈildexna
+tags: [conj]
+etymology:
+  en: From *ьел* "it" + *даҳ* "because".
+note:
+  en: '*ьелдеҳни*'
+definitions:
+  - translation:
+      en: therefore
+      ru: потому
+    aliases:
+      en: [thanks, so, thus]
+    examples:
+      - text: явра аулши, илдеҳна зарал ра калгун
+        translation:
+          en: didn't work a lot therefore stayed healthy

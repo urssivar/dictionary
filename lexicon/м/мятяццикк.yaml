@@ -1,0 +1,15 @@
+id: znLE36G2C2334bJCCHf7
+headword: мятяццикк
+ipa: mætæˈtsːikː
+tags: [n, loan, russian]
+forms:
+  - text: мятяццикк
+    gloss: sg
+  - text: мятяццикке
+    gloss: pl
+definitions:
+  - translation:
+      en: motorbike
+      ru: мотоцикл
+    aliases:
+      en: [bike]

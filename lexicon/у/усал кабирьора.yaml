@@ -1,0 +1,17 @@
+id: H3UYh1PMHFJnJNodMnKZ
+headword: усал кабирьора
+ipa: uˈsal kabirˌhora
+tags: [v, intr, cls, phr]
+forms:
+  - text: усал кабиьора
+    gloss: pfv
+  - text: усал кабиьяв
+    gloss: aor
+  - text: усал кабирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to peter
+      ru: скудеть
+    aliases:
+      en: [rare, thin, bad, poor]

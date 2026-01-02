@@ -1,0 +1,17 @@
+id: E8CsMZCmwVdmbAHjM9o0
+headword: черьабирара
+ipa: tʃerhabiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: черьабарара
+    gloss: pfv
+  - text: черьабарив
+    gloss: aor
+  - text: черьабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to upend
+      ru: переворачивать, листать
+    aliases:
+      en: [turn, over, roll, coup]

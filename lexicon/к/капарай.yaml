@@ -1,0 +1,16 @@
+id: tOSqhxHLnjQOEDfT7xy2
+headword: капарай
+ipa: kapaˈraj
+tags: [n]
+forms:
+  - text: капарай
+    gloss: sg
+  - text: капарайте
+    gloss: pl
+definitions:
+  - translation:
+      en: steppe
+      ru: степь
+    tags: [nature]
+    aliases:
+      en: [plain, field]

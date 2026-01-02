@@ -1,0 +1,28 @@
+id: CKCB9ekDj7MLphEVFFny
+headword: ьердирара
+ipa: herdiˈrara
+tags: [v, tr]
+note:
+  en: Forzen class
+forms:
+  - text: ьердарара
+    gloss: pfv
+  - text: ьердарив
+    gloss: aor
+  - text: ьердирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to repeat
+      ru: повторять
+    aliases:
+      en: [mimic]
+    examples:
+      - text: дила ьердара
+        translation:
+          en: repeat after me
+  - translation:
+      en: to tease
+      ru: дразнить
+    aliases:
+      en: [bait]

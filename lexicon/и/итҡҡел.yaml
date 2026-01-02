@@ -1,0 +1,20 @@
+id: hgpPVth4yx2lQDjQ4IuR
+headword: итҡҡел
+ipa: ˈitqːel
+tags: [conj]
+etymology:
+  en: From *ьел* "that" + *ҡҡел* "when".
+note:
+  en: |-
+    *ьетҡҡялла*
+    *илҡҡел*
+definitions:
+  - translation:
+      en: then
+      ru: тогда
+    aliases:
+      en: [when]
+    examples:
+      - text: итҡҡел марка бейччу
+        translation:
+          en: it was not raining then

@@ -1,0 +1,15 @@
+id: UxvqZTb7F5RbnLug4RCY
+headword: буз
+ipa: ˈbuz
+tags: [n, nmlz]
+forms:
+  - text: буз
+    gloss: sg
+  - text: бузре
+    gloss: pl
+definitions:
+  - translation:
+      en: fiber
+      ru: волокно
+    aliases:
+      en: [tissue]

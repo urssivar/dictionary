@@ -1,0 +1,19 @@
+id: SGRTk2aGfYhDpak6bNkF
+headword: шаппа
+ipa: ʃaˈpːa
+tags: [n]
+note:
+  en: '*чаппа*'
+forms:
+  - text: шаппа
+    gloss: sg
+  - text: шаппан
+    gloss: obl, loc
+  - text: шиппне
+    gloss: pl
+definitions:
+  - translation:
+      en: rag
+      ru: тряпка
+    aliases:
+      en: [clout]

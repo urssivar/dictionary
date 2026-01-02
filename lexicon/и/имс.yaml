@@ -1,0 +1,14 @@
+id: tNQzriZa9qFyDB7DWaXG
+headword: имс
+ipa: ˈims
+tags: [n]
+forms:
+  - text: имс
+    gloss: sg
+  - text: имсре
+    gloss: pl
+definitions:
+  - translation:
+      en: moth
+      ru: моль
+    tags: [animal, insect]

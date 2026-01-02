@@ -1,0 +1,17 @@
+id: 4GD8OPm2NFU9eQpQETob
+headword: чиьабикьара
+ipa: tʃihabiˈkʼara
+tags: [v, cls, intr]
+forms:
+  - text: чиьабакьара
+    gloss: pfv
+  - text: чиьабачьив
+    gloss: aor
+  - text: чиьабикьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stare
+      ru: пялиться
+    aliases:
+      en: [watch, see, look]

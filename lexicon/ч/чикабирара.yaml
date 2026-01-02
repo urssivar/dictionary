@@ -1,0 +1,22 @@
+id: wmId3Fjwp2bXYYSTrT9o
+headword: чикабирара
+ipa: tʃikabiˈrara
+tags: [v, cls, tr]
+forms:
+  - text: чикабарара
+    gloss: pfv
+  - text: чикабарив
+    gloss: aor
+  - text: чикабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to add on
+      ru: дополнять
+    aliases:
+      en: [plus, complement]
+  - translation:
+      en: to throw on
+      ru: накидывать
+    aliases:
+      en: [cover, put, overlay]

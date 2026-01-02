@@ -1,0 +1,17 @@
+id: hiRA1cJl8O5zBs4GNmAw
+headword: риштяь биргара
+ipa: riʃˌtæh birˈgara
+tags: [v, cls, intr, phr]
+forms:
+  - text: риштяь бигара
+    gloss: pfv
+  - text: риштяь бижив
+    gloss: aor
+  - text: риштяь биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to leap
+      ru: делать рывок
+    aliases:
+      en: [jump, dash]

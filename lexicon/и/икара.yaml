@@ -1,0 +1,17 @@
+id: DaWgcSIudjmpj8zjgVGD
+headword: икара
+ipa: iˈkara
+tags: [v, cls, intr]
+forms:
+  - text: акара
+    gloss: pfv
+  - text: ачив
+    gloss: aor
+  - text: икара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to take offense
+      ru: обижаться
+    aliases:
+      en: [resent]

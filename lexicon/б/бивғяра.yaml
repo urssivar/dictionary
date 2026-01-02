@@ -1,0 +1,17 @@
+id: oL36mn8uUORfeFaWnQIg
+headword: бивғяра
+ipa: bivˈʁæra
+tags: [v, cls, tr]
+forms:
+  - text: бявғяра
+    gloss: pfv
+  - text: бявғив
+    gloss: aor
+  - text: бивғяра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to smash
+      ru: раздавливать
+    aliases:
+      en: [crush]

@@ -1,0 +1,17 @@
+id: hq9WdCu5iuJci7OdliuK
+headword: бучихана
+ipa: butʃiˈχana
+tags: [v, tr, cls]
+forms:
+  - text: берчухана
+    gloss: pfv
+  - text: берчухун
+    gloss: aor
+  - text: бучихана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to give to eat
+      ru: давать еду
+    aliases:
+      en: [feed]

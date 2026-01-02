@@ -1,0 +1,20 @@
+id: 6ssPFlA7rewYjfwBH8YD
+headword: барьан
+ipa: barˈhan
+tags: [n, nmlz, cls]
+etymology:
+  en: Oblg. of *барьара* "to know".
+forms:
+  - text: барьан
+    gloss: sg
+  - text: барьанил
+    gloss: obl
+  - text: барьанте
+    gloss: pl
+definitions:
+  - translation:
+      en: familiar
+      ru: знакомый
+    tags: []
+    aliases:
+      en: [friend, contact]

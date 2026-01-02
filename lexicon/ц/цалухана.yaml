@@ -1,0 +1,17 @@
+id: yQWtlENIa182Jtmo1H8E
+headword: цалухана
+ipa: tsaluˈχana
+tags: [v, cls, tr]
+note:
+  en: '*балхана*~*булхана*'
+forms:
+  - text: цабалхана
+    gloss: pfv
+  - text: цабалхун
+    gloss: aor
+  - text: цалухана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pull together
+      ru: стягивать, присобирать

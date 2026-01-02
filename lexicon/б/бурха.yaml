@@ -1,0 +1,17 @@
+id: uS2c0YVPK6vHi0moWSeT
+headword: бурха
+ipa: ˈburχa
+tags: [n]
+forms:
+  - text: бурха
+    gloss: sg
+  - text: бурхан
+    gloss: obl
+  - text: бурхме
+    gloss: pl
+definitions:
+  - translation:
+      en: house
+      ru: дом
+    aliases:
+      en: [home, building]

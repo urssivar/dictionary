@@ -1,0 +1,16 @@
+id: zOFYXYQcsN0D6CAmqG77
+headword: аттуба
+ipa: atːuˈba
+tags: [n]
+note:
+  en: '*аттаба*'
+forms:
+  - text: аттуба
+    gloss: sg
+  - text: аттубне
+    gloss: pl
+definitions:
+  - translation:
+      en: paternal grandmother
+      ru: бабушка по отцу
+    tags: [kinship]

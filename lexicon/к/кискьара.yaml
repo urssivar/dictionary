@@ -1,0 +1,23 @@
+id: KeccsjrwVKfu1fk7f2rb
+headword: кискьара
+ipa: kisˈkʼara
+tags: [v, tr]
+note:
+  en: '*кускьара* (ipfv)'
+forms:
+  - text: кескьара
+    gloss: pfv
+  - text: кескьур
+    gloss: aor
+  - text: кискьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to attach
+      ru: цеплять
+    aliases:
+      en: [hook, append]
+    examples:
+      - text: ила мяял кескьа
+        translation:
+          en: blow your nose

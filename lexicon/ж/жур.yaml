@@ -1,0 +1,16 @@
+id: Ldjf5DsYidt7h52Tl9we
+headword: жур
+ipa: ˈʒur
+tags: [n]
+forms:
+  - text: жур
+    gloss: sg
+  - text: журбе
+    gloss: pl
+definitions:
+  - translation:
+      en: vane
+      ru: лопасть
+    tags: [tool]
+    aliases:
+      en: [blade, fan]

@@ -1,0 +1,16 @@
+id: 0Ts4ZUiHXJeunkPviofi
+headword: чьунть
+ipa: ˈtʃʼuntʼ
+tags: [n]
+note:
+  en: '*чимчим*'
+forms:
+  - text: чьунть
+    gloss: sg
+  - text: чьунтьре
+    gloss: pl
+definitions:
+  - translation:
+      en: lip
+      ru: губа
+    tags: [body]

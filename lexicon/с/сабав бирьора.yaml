@@ -1,0 +1,21 @@
+id: qXpyeVPi5X8WkBv3Qqjk
+headword: сабав бирьора
+ipa: saˌbav birˈhora
+tags: [v, intr, cls, phr]
+forms:
+  - text: сабав биьора
+    gloss: pfv
+  - text: сабав биьяв
+    gloss: aor
+  - text: сабав бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to heal
+      ru: исцелять
+    aliases:
+      en: [cure]
+    examples:
+      - text: ьел шин сабав диьяв дами
+        translation:
+          en: that water healed me

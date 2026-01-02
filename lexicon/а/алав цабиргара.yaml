@@ -1,0 +1,17 @@
+id: wpozQwyM22kvNpZSmmil
+headword: алав цабиргара
+ipa: aˌlav tsabirˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: алав цабигара
+    gloss: pfv
+  - text: алав цабижив
+    gloss: aor
+  - text: алав цабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to gather
+      ru: собираться
+    aliases:
+      en: [gather, meet]

@@ -1,0 +1,14 @@
+id: 7jyU1Xl7bAcgygL7tjkw
+headword: ккутан
+ipa: kːuˈtan
+tags: [n]
+forms:
+  - text: ккутан
+    gloss: sg
+  - text: ккутанте
+    gloss: pl
+definitions:
+  - translation:
+      en: plough
+      ru: соха
+    tags: [tool]

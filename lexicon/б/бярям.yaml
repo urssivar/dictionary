@@ -1,0 +1,15 @@
+id: IWbC3Y2T1ptdJcaOQsGg
+headword: бярям
+ipa: bæˈræm
+tags: [n, loan, turkic]
+etymology:
+  en: Kumyk *боран* "blizzard".
+note:
+  en: '*швярбярям*'
+definitions:
+  - translation:
+      en: storm
+      ru: буря
+    tags: [nature]
+    aliases:
+      en: [wind, tempest]

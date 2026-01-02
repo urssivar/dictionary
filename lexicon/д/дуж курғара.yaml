@@ -1,0 +1,17 @@
+id: tk9tsBWDdb9XvNUjoU4g
+headword: дуж курғара
+ipa: ˌduʒ kurˈʁara
+tags: [v, tr, phr]
+forms:
+  - text: дуж кағара
+    gloss: pfv
+  - text: дуж кағив
+    gloss: aor
+  - text: дуж курғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to define
+      ru: обозначать, определять
+    aliases:
+      en: [clarify, certain]

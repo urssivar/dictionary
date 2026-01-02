@@ -1,0 +1,15 @@
+id: OzeQkteb20CxUvCOAX56
+headword: пир
+ipa: ˈpir
+tags: [n, loan, persian]
+forms:
+  - text: пир
+    gloss: sg
+  - text: пирте
+    gloss: pl
+definitions:
+  - translation:
+      en: shrine
+      ru: святилище
+    aliases:
+      en: [sanctuary]

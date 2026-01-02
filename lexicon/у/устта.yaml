@@ -1,0 +1,15 @@
+id: CykXooeQFcxDcpgnTDEF
+headword: устта
+ipa: usˈtːa
+tags: [n, loan]
+forms:
+  - text: устта
+    gloss: sg
+  - text: усттре
+    gloss: pl
+definitions:
+  - translation:
+      en: craftsman
+      ru: мастер
+    aliases:
+      en: [master, specialist]

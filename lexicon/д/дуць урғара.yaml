@@ -1,0 +1,17 @@
+id: Z7ecYtnp6123tgez5ec2
+headword: дуць урғара
+ipa: ˌdutsʼ urˈʁara
+tags: [v, tr]
+forms:
+  - text: дуць ағара
+    gloss: pfv
+  - text: дуць ағив
+    gloss: aor
+  - text: дуць урғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to race
+      ru: гнать
+    aliases:
+      en: [run]

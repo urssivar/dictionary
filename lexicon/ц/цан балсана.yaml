@@ -1,0 +1,19 @@
+id: 4w6nGdxfwUSS4fRHq27E
+headword: цан балсана
+ipa: ˌtsan balˈsana
+tags: [v, cls, phr, tr]
+note:
+  en: '*цан руцьара*, *барх балсана*'
+forms:
+  - text: цан басана
+    gloss: pfv
+  - text: цан басун
+    gloss: aor
+  - text: цан балсана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to glue
+      ru: склеивать
+    aliases:
+      en: [attack, connect, merge]

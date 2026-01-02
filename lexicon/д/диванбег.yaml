@@ -1,0 +1,15 @@
+id: jhDgkVv7FHCrx5ouJS70
+headword: диванбег
+ipa: divanˈbeg
+tags: [n, loan]
+forms:
+  - text: диванбег
+    gloss: sg
+  - text: диванбегме
+    gloss: pl
+definitions:
+  - translation:
+      en: assembly host
+      ru: ведущий собрания
+    aliases:
+      en: [leader, moderator, minister]

@@ -1,0 +1,18 @@
+id: JfPgZmogTsisd4tWFPxn
+headword: беретта
+ipa: beˈretːa
+tags: [n]
+note:
+  en: '*биратта*'
+forms:
+  - text: беретта
+    gloss: sg
+  - text: береттан
+    gloss: obl
+  - text: бирттме
+    gloss: pl
+definitions:
+  - translation:
+      en: axe
+      ru: топор
+    tags: [tool, warfare]

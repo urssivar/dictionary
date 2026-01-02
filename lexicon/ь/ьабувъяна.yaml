@@ -1,0 +1,17 @@
+id: 7FPXzykR0s4FVL7Bn1BQ
+headword: ьабувъяна
+ipa: habuvˈʔæna
+tags: [v, intr, cls]
+forms:
+  - text: ьабявъяна
+    gloss: pfv
+  - text: ьабявъун
+    gloss: aor
+  - text: ьабувъяна
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get turbid
+      ru: мутнеть
+    aliases:
+      en: [cloudy, dirty]

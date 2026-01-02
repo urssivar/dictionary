@@ -1,0 +1,15 @@
+id: 5nxsk33zsvA4tfCDkIEq
+headword: пиша
+ipa: ˈpiʃa
+tags: [n]
+forms:
+  - text: пиша
+    gloss: sg
+  - text: пишне
+    gloss: pl
+definitions:
+  - translation:
+      en: trick
+      ru: проделка
+    aliases:
+      en: [action, print, gig]

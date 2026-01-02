@@ -1,0 +1,17 @@
+id: OUoB5gSXNbbxzQ3yQ3ye
+headword: бус кальана
+ipa: ˌbus kalˈhana
+tags: [v, intr, cls]
+etymology:
+  en: The first part is the root of *бусана* "to sleep".
+forms:
+  - text: бус каьана
+    gloss: pfv
+  - text: бус каьун
+    gloss: aor
+  - text: бус кальана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fall asleep
+      ru: засыпать

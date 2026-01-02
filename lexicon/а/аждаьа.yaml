@@ -1,0 +1,18 @@
+id: gNLukVNccL4EggO0bVTo
+headword: аждаьа
+ipa: aʒdaˈha
+tags: [n, loan, iranian]
+note:
+  en: '*айдаьа*'
+forms:
+  - text: аждаьа
+    gloss: sg
+  - text: аждиьне
+    gloss: pl
+definitions:
+  - translation:
+      en: dragon
+      ru: дракон
+    tags: [mythology, animal]
+    aliases:
+      en: [crocodile]

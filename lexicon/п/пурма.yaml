@@ -1,0 +1,15 @@
+id: CI8BAUO6dwX1AGzHHghB
+headword: пурма
+ipa: ˈpurma
+tags: [n, loan, russian]
+forms:
+  - text: пурма
+    gloss: sg
+  - text: пурмабе
+    gloss: pl
+definitions:
+  - translation:
+      en: form
+      ru: форма
+    aliases:
+      en: [format, mode, way]

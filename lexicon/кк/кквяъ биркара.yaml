@@ -1,0 +1,23 @@
+id: kTHV6i5AS99ABFD2yUuS
+headword: кквяъ биркара
+ipa: ˌkːvæʔ birˈkara
+tags: [v, intr, phr]
+note:
+  en: Class is frozen.
+forms:
+  - text: кквяъ бикара
+    gloss: pfv
+  - text: кквяъ бичив
+    gloss: aor
+  - text: кквяъ биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to scent
+      ru: чуять
+    aliases:
+      en: [smell]
+    examples:
+      - text: дам ьелела кквяъ бичив
+        translation:
+          en: i scent it

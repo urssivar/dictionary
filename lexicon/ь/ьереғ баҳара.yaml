@@ -1,0 +1,20 @@
+id: 8CAuiJXPBETs2IKjbejk
+headword: ьереғ баҳара
+ipa: heˌreʁ baˈxara
+tags: [v, cls, intr]
+forms:
+  - text: ьереғ башив
+    gloss: aor
+  - text: ьереғ баҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to follow
+      ru: следовать
+    aliases:
+      en: [track]
+  - translation:
+      en: to be of service
+      ru: услуживать
+    aliases:
+      en: [help, care]

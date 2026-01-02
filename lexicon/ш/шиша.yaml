@@ -1,0 +1,18 @@
+id: qdpMrIlnqWEujrZSgF4b
+headword: шиша
+ipa: ʃiˈʃa
+tags: [n, loan]
+forms:
+  - text: шиша
+    gloss: sg
+  - text: шишан
+    gloss: loc, obl
+  - text: шишме
+    gloss: pl
+definitions:
+  - translation:
+      en: bottle
+      ru: бутыль
+  - translation:
+      en: glass
+      ru: стекло

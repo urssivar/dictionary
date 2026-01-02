@@ -1,0 +1,17 @@
+id: 9c1Fdz6bKKtX52SgO7hT
+headword: цьиз бирццара
+ipa: ˌtsʼiz birˈtsːara
+tags: [v, intr, cls, phr]
+forms:
+  - text: цьиз биццара
+    gloss: pfv
+  - text: цьиз биццур
+    gloss: aor
+  - text: цьиз бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to squint
+      ru: щуриться
+    aliases:
+      en: [eye]

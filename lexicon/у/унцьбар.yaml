@@ -1,0 +1,20 @@
+id: WnHgkOloOB72UAZlos5T
+headword: унцьбар
+ipa: untsʼˈbar
+tags: [n]
+etymology:
+  en: From *унць* "godet".
+note:
+  en: ST2004
+forms:
+  - text: унцьбар
+    gloss: sg
+  - text: унцьбарте
+    gloss: pl
+definitions:
+  - translation:
+      en: frock
+      ru: платье
+    tags: [clothing]
+    aliases:
+      en: [dress]

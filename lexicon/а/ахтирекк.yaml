@@ -1,0 +1,18 @@
+id: tkZ5jGKiyUr5CcPe4M1s
+headword: ахтирекк
+ipa: aχtiˈrekː
+tags: [n, loan, turkic]
+note:
+  en: '*шан ахтирекк*, *цьяв ахтирекк*'
+forms:
+  - text: ахтирекк
+    gloss: sg
+  - text: ахтирекке
+    gloss: pl
+definitions:
+  - translation:
+      en: poplar
+      ru: тополь
+    tags: [nature, plant, tree]
+    aliases:
+      en: [poplar]

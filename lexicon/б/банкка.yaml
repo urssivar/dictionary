@@ -1,0 +1,19 @@
+id: 4hMzc16aYnUg7LKqU2rX
+headword: банкка
+ipa: banˈkːa
+tags: [n, loan, russian]
+note:
+  en: '*банкьа*'
+forms:
+  - text: банкка
+    gloss: sg
+  - text: банккан
+    gloss: obl, loc
+  - text: бинккне
+    gloss: pl
+definitions:
+  - translation:
+      en: jar
+      ru: банка
+    aliases:
+      en: [can]

@@ -1,0 +1,17 @@
+id: DU9SGBupRNexeEPsDb7E
+headword: кабирчихара
+ipa: kabirtʃiˈχara
+tags: [v, tr, cls]
+forms:
+  - text: кабичихара
+    gloss: pfv
+  - text: кабичихив
+    gloss: aor
+  - text: кабирчихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to drop
+      ru: ронять
+    aliases:
+      en: [fall]

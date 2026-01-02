@@ -1,0 +1,18 @@
+id: A2pjonbX7vFrqES7LLPr
+headword: ппирппиған
+ipa: pːirˈpːiʁan
+tags: [n]
+note:
+  en: '*думдумак*, *ччирччиған*'
+forms:
+  - text: ппирппиған
+    gloss: sg
+  - text: ппирппиғне
+    gloss: pl
+definitions:
+  - translation:
+      en: spinning top
+      ru: юла
+    tags: [tool]
+    aliases:
+      en: [whirligig]

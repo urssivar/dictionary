@@ -1,0 +1,19 @@
+id: LldLkIc81b2pxxQ1Ojqj
+headword: ҡҡяж уттара
+ipa: ˌqːæʒ uˈtːara
+tags: [v, lbl, cls, phr]
+note:
+  en: '*ҡҡяғ ~*'
+forms:
+  - text: ҡҡяж берттара
+    gloss: pfv
+  - text: ҡҡяж берттив
+    gloss: aor
+  - text: ҡҡяж уттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rupture
+      ru: разрываться
+    aliases:
+      en: [breach, rip, tear]

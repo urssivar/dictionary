@@ -1,0 +1,22 @@
+id: OpdxHZeSOW2w6sQrDpxb
+headword: ккурццут
+ipa: kːurˈtsːut
+tags: [n]
+etymology:
+  en: From *ккурцц* "dumpling".
+note:
+  en: |-
+    *ккурццутти*, *ккурццбуть*
+    *хинчьит*, *хинтьичь* (from *хинкь* "empty dumpling").
+forms:
+  - text: ккурццут
+    gloss: sg
+  - text: ккурццутне
+    gloss: pl
+definitions:
+  - translation:
+      en: skimmer
+      ru: шкумовка
+    tags: [tool]
+    aliases:
+      en: [sieve]

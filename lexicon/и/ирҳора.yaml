@@ -1,0 +1,17 @@
+id: G6rstkkOQh1Zh70s6iBe
+headword: ирҳора
+ipa: irˈxora
+tags: [v, tr]
+forms:
+  - text: иҳора
+    gloss: pfv
+  - text: ишур
+    gloss: aor
+  - text: ирҳора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cast
+      ru: метать
+    aliases:
+      en: [throw]

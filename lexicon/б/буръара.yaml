@@ -1,0 +1,22 @@
+id: LcQLdfj1Zu7jwlaLPRnz
+headword: буръара
+ipa: burˈʔara
+tags: [v, intr, cls]
+forms:
+  - text: бяръяра
+    gloss: pfv
+  - text: бяръив
+    gloss: aor
+  - text: буръара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cool down
+      ru: остывать
+    aliases:
+      en: [chill, flue]
+  - translation:
+      en: to catch a cold
+      ru: простывать
+    aliases:
+      en: [ill]

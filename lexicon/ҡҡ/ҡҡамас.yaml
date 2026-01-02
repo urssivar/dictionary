@@ -1,0 +1,21 @@
+id: nHzmSUWpUoVElrRMLHVe
+headword: ҡҡамас
+ipa: qːaˈmas
+tags: [n]
+forms:
+  - text: ҡҡамас
+    gloss: sg
+  - text: ҡҡамасе
+    gloss: pl
+definitions:
+  - translation:
+      en: granite
+      ru: гранит
+    tags: [nature]
+    aliases:
+      en: [rock, stone]
+  - translation:
+      en: cupboard
+      ru: буфет
+    aliases:
+      en: [wardrobe, storage, rack]

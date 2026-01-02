@@ -1,0 +1,17 @@
+id: lGl1iXF7ec1GMKeRmLGi
+headword: ьалутьана
+ipa: haluˈtʼana
+tags: [v, tr, cls]
+forms:
+  - text: ьабалтьана
+    gloss: pfv
+  - text: ьабалтьун
+    gloss: aor
+  - text: ьалутьана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to unseam
+      ru: распарывать
+    aliases:
+      en: [rip]

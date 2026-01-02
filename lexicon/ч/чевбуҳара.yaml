@@ -1,0 +1,15 @@
+id: NvWZUQNBt4q1s1ZH7jzk
+headword: чевбуҳара
+ipa: tʃevbuˈxara
+tags: [v, intr, cls]
+forms:
+  - text: чевбушив
+    gloss: aor
+  - text: чевбуҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to slander
+      ru: клеветать
+    aliases:
+      en: [gossip]

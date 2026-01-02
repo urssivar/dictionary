@@ -1,0 +1,16 @@
+id: PT5A2JlfmwZo4Y609FsZ
+headword: буға
+ipa: buˈʁa
+tags: [n]
+forms:
+  - text: буға
+    gloss: sg
+  - text: буғне
+    gloss: pl
+definitions:
+  - translation:
+      en: bull
+      ru: бык
+    tags: [animal]
+    aliases:
+      en: [bison]

@@ -1,0 +1,17 @@
+id: QhYD1FcqPBw902gvPVNn
+headword: иғала
+ipa: iˈʁala
+tags: [n]
+forms:
+  - text: иғала
+    gloss: sg
+  - text: иғле
+    gloss: obl
+  - text: иғлиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: ill will
+      ru: зложелание
+    aliases:
+      en: [spell, curse, malice]

@@ -1,0 +1,17 @@
+id: hWn6hX7MJcXGPULK7gAG
+headword: пис дирара
+ipa: ˌpis diˈrara
+tags: [v, tr, phr]
+forms:
+  - text: пис дарара
+    gloss: pfv
+  - text: пис дарив
+    gloss: aor
+  - text: пис дирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sprinkle
+      ru: посыпать
+    aliases:
+      en: [pour]

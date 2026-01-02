@@ -1,0 +1,15 @@
+id: zP7Oj48SswWof8PO6Qqo
+headword: тукен
+ipa: tuˈken
+tags: [n, loan]
+forms:
+  - text: тукен
+    gloss: sg
+  - text: тукенте
+    gloss: pl
+definitions:
+  - translation:
+      en: shop
+      ru: магазин
+    aliases:
+      en: [store]

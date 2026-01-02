@@ -1,0 +1,17 @@
+id: utvPDPcf5Pe7nMcGimlj
+headword: тамаша бирара
+ipa: tamaˌʃa biˈrara
+tags: [v, phr, tr, cls]
+forms:
+  - text: тамаша барара
+    gloss: pfv
+  - text: тамаша барив
+    gloss: aor
+  - text: тамаша бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be interested
+      ru: интересоваться
+    aliases:
+      en: [wonder]

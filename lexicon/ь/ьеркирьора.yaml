@@ -1,0 +1,17 @@
+id: 6fKoW84HB5zYjTXtnIjm
+headword: ьеркирьора
+ipa: herkirˈhora
+tags: [v, intr, cls]
+forms:
+  - text: ьеркабиьора
+    gloss: pfv
+  - text: ьеркабиьяв
+    gloss: aor
+  - text: ьеркабирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to thrive
+      ru: процветать, жить хорошо
+    aliases:
+      en: [prosper, live]

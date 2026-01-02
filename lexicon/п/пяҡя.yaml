@@ -1,0 +1,18 @@
+id: vYet3zgaQZ48NBgNN4rg
+headword: пяҡя
+ipa: pæˈqæ
+tags: [n]
+forms:
+  - text: пяҡя
+    gloss: sg
+  - text: пяҡян
+    gloss: obl
+  - text: пяҡне
+    gloss: pl
+definitions:
+  - translation:
+      en: bat
+      ru: бита
+    tags: [tool]
+    aliases:
+      en: [club, stick]

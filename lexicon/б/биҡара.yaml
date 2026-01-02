@@ -1,0 +1,15 @@
+id: CBsPOpL4zharxdCfpKSq
+headword: биҡара
+ipa: biˈqara
+tags: [v, cls, intr]
+note:
+  en: '*ьиҡара*, *киҡара*'
+forms:
+  - text: биҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to go
+      ru: идти
+    aliases:
+      en: [move, walk]

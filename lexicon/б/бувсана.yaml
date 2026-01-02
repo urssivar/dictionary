@@ -1,0 +1,15 @@
+id: rlPNjZ3eHVfMfEonETIw
+headword: бувсана
+ipa: buvˈsana
+tags: [v, intr, cls]
+forms:
+  - text: бавсана
+    gloss: pfv
+  - text: бавсун
+    gloss: aor
+  - text: бувсана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get wet
+      ru: мокнуть

@@ -1,0 +1,17 @@
+id: HrqU6W2lF97NCGLRzMw2
+headword: биж буччара
+ipa: ˌbiʒ buˈtʃːara
+tags: [v, intr, cls, phr]
+forms:
+  - text: биж берччара
+    gloss: pfv
+  - text: биж берччив
+    gloss: aor
+  - text: биж буччара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to absorb
+      ru: впитывать
+    aliases:
+      en: [drink]

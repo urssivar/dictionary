@@ -1,0 +1,19 @@
+id: Dh32c9sYPm4T7mflJ8pm
+headword: ивҡьара
+ipa: ivˈqʼara
+tags: [v, tr]
+forms:
+  - text: ивҡьив
+    gloss: aor
+  - text: ивҡьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to prop
+      ru: подпирать
+    aliases:
+      en: [support]
+    examples:
+      - text: '* муҡь ивҡьара'
+        translation:
+          en: to rely on someone

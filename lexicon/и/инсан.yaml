@@ -1,0 +1,15 @@
+id: rmawKrzIFrO2lXzXW3HS
+headword: инсан
+ipa: inˈsan
+tags: [n, loan, arabic]
+forms:
+  - text: инсан
+    gloss: sg
+  - text: инсанте
+    gloss: pl
+definitions:
+  - translation:
+      en: human
+      ru: человек, личность
+    aliases:
+      en: [man]

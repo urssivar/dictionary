@@ -1,0 +1,17 @@
+id: UUniVNXJmSEDnLleEjXO
+headword: куццара
+ipa: kuˈtsːara
+tags: [v, tr, cls]
+note:
+  en: '*киццара*'
+forms:
+  - text: кабирццара
+    gloss: pfv
+  - text: кабирццив
+    gloss: aor
+  - text: куццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to milk
+      ru: доить

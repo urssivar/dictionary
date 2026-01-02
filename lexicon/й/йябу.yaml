@@ -1,0 +1,14 @@
+id: 3FUfxz9gxr82ojMuyeyn
+headword: йябу
+ipa: jæˈbu
+tags: [n, loan, turkic]
+forms:
+  - text: йябу
+    gloss: sg
+  - text: йябне
+    gloss: pl
+definitions:
+  - translation:
+      en: horse
+      ru: лошадь, кляча
+    tags: [animal]

@@ -1,0 +1,21 @@
+id: mgaDvASNCWFb8QTtly8V
+headword: ьех
+ipa: ˈheχ
+tags: [pro]
+etymology:
+  en: Recent semantic shift of the original meaning *that down there* (cf. *ьет* "that").
+note:
+  en: '*ьях*'
+forms:
+  - text: ьех
+    gloss: sg
+  - text: ьехе
+    gloss: obl
+  - text: ьехтти
+    gloss: pl
+definitions:
+  - translation:
+      en: aforementioned
+      ru: вышеупомянутый
+    aliases:
+      en: [that, it]

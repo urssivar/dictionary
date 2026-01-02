@@ -1,0 +1,18 @@
+id: sOltrM2HasCMcVeIVSXA
+headword: мялъум
+ipa: mælˈʔum
+tags: [n, loan, arabic]
+note:
+  en: '*мялъун*'
+forms:
+  - text: мялъум
+    gloss: sg
+  - text: мялъумте
+    gloss: pl
+definitions:
+  - translation:
+      en: serpent
+      ru: змей
+    tags: [animal]
+    aliases:
+      en: [snake]

@@ -1,0 +1,18 @@
+id: zoko22QvxCeeAwJU75vS
+headword: чялда
+ipa: ˈtʃælda
+tags: [n]
+forms:
+  - text: чялда
+    gloss: sg
+  - text: чялдан
+    gloss: obl
+  - text: чялдне
+    gloss: pl
+definitions:
+  - translation:
+      en: ankle
+      ru: щиколотка
+    tags: [body]
+    aliases:
+      en: [leg]

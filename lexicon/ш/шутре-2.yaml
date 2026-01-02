@@ -1,0 +1,13 @@
+id: aFPKF0jsurFv57WC9KSZ
+headword: шутре
+ipa: ʃutˈre
+tags: [n, pl, loan, russian]
+etymology:
+  en: Pl. of *шут* "calculation".
+definitions:
+  - translation:
+      en: abacus
+      ru: счеты
+    tags: [tool]
+    aliases:
+      en: [calculator]

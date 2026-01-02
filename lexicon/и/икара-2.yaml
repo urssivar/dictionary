@@ -1,0 +1,21 @@
+id: UY5vtTjlSqTWPMjoNbxF
+headword: икара
+ipa: iˈkara
+tags: [v, tr, cls]
+forms:
+  - text: биркара
+    gloss: pfv
+  - text: бирчив
+    gloss: aor
+  - text: икара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to scrub
+      ru: тереть, скрести
+    aliases:
+      en: [clean]
+    examples:
+      - text: чьявар бирчивда
+        translation:
+          en: washed the floor

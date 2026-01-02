@@ -1,0 +1,17 @@
+id: mkFUUaVIkezo16sGX1xM
+headword: цан цабирара
+ipa: ˌtsan tsabiˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: цан цабарара
+    gloss: pfv
+  - text: цан цабарив
+    gloss: aor
+  - text: цан цабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to aggromerate
+      ru: скоплять
+    aliases:
+      en: [summon, gather]

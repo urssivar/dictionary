@@ -1,0 +1,15 @@
+id: jxT8DOd62MYekGCSQCND
+headword: бикьара
+ipa: biˈkʼara
+tags: [v, cls, intr]
+forms:
+  - text: бакьара
+    gloss: pfv
+  - text: бачьив
+    gloss: aor
+  - text: бикьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to grow
+      ru: рости

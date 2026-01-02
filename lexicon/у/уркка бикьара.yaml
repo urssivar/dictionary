@@ -1,0 +1,17 @@
+id: 8XGSEc7jsGNKu0B0l2kg
+headword: уркка бикьара
+ipa: urˌkːa biˈkʼara
+tags: [v, intr, cls, phr]
+forms:
+  - text: уркка бекьара
+    gloss: pfv
+  - text: уркка бечьив
+    gloss: aor
+  - text: уркка бикьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pull apart
+      ru: разнимать
+    aliases:
+      en: [mediate]

@@ -1,0 +1,21 @@
+id: tPZVt7kq0e4WaMa9h2gZ
+headword: кам кабиғара
+ipa: ˌkam kabiˈʁara
+tags: [v, intr, cls, phr]
+forms:
+  - text: кам кабағара
+    gloss: pfv
+  - text: кам кабағив
+    gloss: aor
+  - text: кам кабиғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shrink
+      ru: сокращаться
+    aliases:
+      en: [lessen]
+    examples:
+      - text: еркь кам кабағив
+        translation:
+          en: the river shrunk

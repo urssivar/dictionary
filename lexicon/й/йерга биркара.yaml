@@ -1,0 +1,21 @@
+id: vADO9swyBVIE1I4qYgPQ
+headword: йерга биркара
+ipa: jerˌga birˈkara
+tags: [v, intr, cls]
+forms:
+  - text: йерга бикара
+    gloss: pfv
+  - text: йерга бичив
+    gloss: aor
+  - text: йерга биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to go over
+      ru: проходить
+    aliases:
+      en: [traverse, iterate]
+    examples:
+      - text: йерга вичил суккелцци баьихур
+        translation:
+          en: get over everyone to inform about it

@@ -1,0 +1,17 @@
+id: CHnV302t2S0wmhK3ZAor
+headword: черциччара
+ipa: tʃertsiˈtʃːara
+tags: [v, cls, tr]
+forms:
+  - text: черцабиччара
+    gloss: pfv
+  - text: черцабиччив
+    gloss: aor
+  - text: черциччара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to slash
+      ru: отсекать
+    aliases:
+      en: [cut, amputate]

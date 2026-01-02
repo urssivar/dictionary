@@ -1,0 +1,16 @@
+id: Isf2xk3OGzhCtEEpe7UC
+headword: бакьре
+ipa: ˈbakʼre
+tags: [n, nmlz]
+etymology:
+  en: From *бикьара* "to grow".
+forms:
+  - text: бакьре
+    gloss: sg
+  - text: бакьунде
+    gloss: pl
+definitions:
+  - translation:
+      en: abscess
+      ru: нарыв
+    tags: [body]

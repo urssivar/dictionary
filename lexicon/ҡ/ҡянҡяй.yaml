@@ -1,0 +1,16 @@
+id: 6Ju5masrhQmRfc3dGnIn
+headword: ҡянҡяй
+ipa: qænˈqæj
+tags: [n]
+note:
+  en: '*ҡяйҡяй*'
+forms:
+  - text: ҡянҡяй
+    gloss: sg
+  - text: ҡянҡяйте
+    gloss: pl
+definitions:
+  - translation:
+      en: jaw
+      ru: челюсть
+    tags: [body]

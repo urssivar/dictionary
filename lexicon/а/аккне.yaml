@@ -1,0 +1,16 @@
+id: TFPIioIyLaZHzACIoud9
+headword: аккне
+ipa: ˈakːne
+tags: [n]
+etymology:
+  en: Likely the msd. of the origin verb of *аккор* "lacking".
+definitions:
+  - translation:
+      en: absence
+      ru: отсутствие
+    aliases:
+      en: [lack]
+    examples:
+      - text: атта ҡил аккне абаьурда
+        translation:
+          en: i didn't know that father is not home

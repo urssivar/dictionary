@@ -1,0 +1,21 @@
+id: OGwBXQwX2XnlFWW1CoqY
+headword: тьялҡе
+ipa: ˈtʼælqe
+tags: [n]
+etymology:
+  en: Cf. *тья* "leg".
+note:
+  en: '*тант*'
+forms:
+  - text: тьялҡе
+    gloss: sg
+  - text: тьялҡин
+    gloss: obl
+  - text: тьялҡне
+    gloss: pl
+definitions:
+  - translation:
+      en: step
+      ru: ступенька
+    aliases:
+      en: [stair, rung]

@@ -1,0 +1,16 @@
+id: jqkRmIgBdaI9jspdaDH3
+headword: ғиппе
+ipa: ˈʁipːe
+tags: [n]
+forms:
+  - text: ғиппе
+    gloss: sg
+  - text: ғиппре
+    gloss: pl
+definitions:
+  - translation:
+      en: haystack
+      ru: стог
+    tags: [agriculture]
+    aliases:
+      en: [hay]

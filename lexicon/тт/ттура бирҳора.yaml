@@ -1,0 +1,17 @@
+id: NHuFPZSFUoHRBvwlwcbw
+headword: ттура бирҳора
+ipa: tːuˌra birˈxora
+tags: [v, cls, tr, phr]
+forms:
+  - text: ттура биҳора
+    gloss: pfv
+  - text: ттура бишур
+    gloss: aor
+  - text: ттура бирҳора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to expel
+      ru: изгонять
+    aliases:
+      en: [cast, banish, out]

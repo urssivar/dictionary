@@ -1,0 +1,16 @@
+id: aljlLgxcqLSkEJypG0ZF
+headword: вачаг
+ipa: vaˈtʃag
+tags: [n]
+forms:
+  - text: вачаг
+    gloss: sg
+  - text: вачиге
+    gloss: pl
+definitions:
+  - translation:
+      en: pants
+      ru: штаны
+    tags: [clothing]
+    aliases:
+      en: [trousers]

@@ -1,0 +1,20 @@
+id: TaXixQsqFUvHBTr6XWOL
+headword: зянҡҡяр
+ipa: zænˈqːær
+tags: [n]
+forms:
+  - text: зянҡҡяр
+    gloss: sg
+  - text: зянҡҡярте
+    gloss: pl
+definitions:
+  - translation:
+      en: bell
+      ru: колокол
+    tags: [tool]
+    aliases:
+      en: [tocsin]
+    examples:
+      - text: зянҡҡяр бикьул це
+        translation:
+          en: it's ringing

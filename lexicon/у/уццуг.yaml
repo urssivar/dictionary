@@ -1,0 +1,19 @@
+id: Y1KRPdtLOOQFJXTwtWqa
+headword: уццуг
+ipa: uˈtsːug
+tags: [n]
+etymology:
+  en: From *уцца* "door".
+forms:
+  - text: уццуг
+    gloss: sg
+  - text: уццугу
+    gloss: obl
+  - text: уццугне
+    gloss: pl
+definitions:
+  - translation:
+      en: vestibule
+      ru: прихожая
+    aliases:
+      en: [foyer]

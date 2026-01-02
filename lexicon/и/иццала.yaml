@@ -1,0 +1,19 @@
+id: 4FZgYvflp6rHl5P7HKPB
+headword: иццала
+ipa: iˈtsːala
+tags: [n, nmlz]
+etymology:
+  en: From *иццара* "to hurt".
+forms:
+  - text: иццала
+    gloss: sg
+  - text: иццле
+    gloss: obl
+  - text: иццлуме
+    gloss: pl
+definitions:
+  - translation:
+      en: disease
+      ru: болезнь
+    aliases:
+      en: [illness]

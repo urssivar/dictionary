@@ -1,0 +1,15 @@
+id: 6p2zGvX2LxPvmkWb6vLG
+headword: шигурт
+ipa: ʃiˈgurt
+tags: [n, loan]
+forms:
+  - text: шигурт
+    gloss: sg
+  - text: шигурте
+    gloss: pl
+definitions:
+  - translation:
+      en: apprentice
+      ru: подмастерье
+    aliases:
+      en: [journeyman, student]

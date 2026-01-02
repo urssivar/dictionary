@@ -1,0 +1,17 @@
+id: nUZzUbmBNbKFVQJp36kT
+headword: чилукьана
+ipa: tʃiluˈkʼana
+tags: [v, tr, cls]
+forms:
+  - text: чибелкьана
+    gloss: pfv
+  - text: чибелкьун
+    gloss: aor
+  - text: чилукьана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to impose
+      ru: навязывать
+    aliases:
+      en: [enforce]

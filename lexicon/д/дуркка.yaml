@@ -1,0 +1,16 @@
+id: fBs3TTDZ8kjAdzvpROES
+headword: дуркка
+ipa: durˈkːa
+tags: [n]
+forms:
+  - text: дуркка
+    gloss: sg
+  - text: дурккан
+    gloss: obl
+  - text: дурккме
+    gloss: pl
+definitions:
+  - translation:
+      en: sleeve
+      ru: рукав
+    tags: [clothing]

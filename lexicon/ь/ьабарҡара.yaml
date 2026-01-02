@@ -1,0 +1,23 @@
+id: 8QAM4yjZ47AEAvQhGZLo
+headword: ьабарҡара
+ipa: habarˈqara
+tags: [v, cls, tr]
+note:
+  en: '*ьабаҡа сар*'
+forms:
+  - text: ьабаҡара
+    gloss: pfv
+  - text: ьабаҡив
+    gloss: aor
+  - text: ьабарҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cease
+      ru: прекращать
+    aliases:
+      en: [stop, rid, forskae]
+    examples:
+      - text: ьадаҡа ьелтти пишне
+        translation:
+          en: cease these actions

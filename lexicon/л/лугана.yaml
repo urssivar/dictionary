@@ -1,0 +1,17 @@
+id: oM20XR1cGBKaQAsxPB2H
+headword: лугана
+ipa: luˈgana
+tags: [v, tr]
+note:
+  en: '*лигона*'
+forms:
+  - text: белгона
+    gloss: pfv
+  - text: белгун
+    gloss: aor
+  - text: лугана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to count
+      ru: считать

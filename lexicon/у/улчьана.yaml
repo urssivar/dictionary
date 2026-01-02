@@ -1,0 +1,17 @@
+id: 7Q92q83wZ6icyCmxhbhg
+headword: улчьана
+ipa: ulˈtʃʼana
+tags: [v, tr]
+forms:
+  - text: ялчьана
+    gloss: pfv
+  - text: ялчьун
+    gloss: aor
+  - text: улчьана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to squeeze
+      ru: выжимать
+    aliases:
+      en: [dry]

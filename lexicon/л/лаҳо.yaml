@@ -1,0 +1,16 @@
+id: qUX9bpQEgBpX2uRT6RYX
+headword: лаҳо
+ipa: ˈlaxo
+tags: [n]
+forms:
+  - text: лаҳо
+    gloss: sg
+  - text: лаҳне
+    gloss: pl
+definitions:
+  - translation:
+      en: pidgeon
+      ru: голубь
+    tags: [animal, bird]
+    aliases:
+      en: [dove]

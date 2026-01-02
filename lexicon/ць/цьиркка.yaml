@@ -1,0 +1,17 @@
+id: ePzhoCv34RPzQwWJZBRH
+headword: цьиркка
+ipa: ˈtsʼirkːa
+tags: [n]
+forms:
+  - text: цьиркка
+    gloss: sg
+  - text: цьирккан
+    gloss: obl
+  - text: цьирккме
+    gloss: pl
+definitions:
+  - translation:
+      en: feeder
+      ru: кормушка
+    aliases:
+      en: [trough]

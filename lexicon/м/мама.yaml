@@ -1,0 +1,14 @@
+id: uyMN1FMagLceCo742VXg
+headword: мама
+ipa: ˈmama
+tags: [n]
+forms:
+  - text: мама
+    gloss: sg
+  - text: мимре
+    gloss: pl
+definitions:
+  - translation:
+      en: breast
+      ru: молочная железа
+    tags: [body]

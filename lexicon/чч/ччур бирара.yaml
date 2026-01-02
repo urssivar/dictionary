@@ -1,0 +1,17 @@
+id: gYUZShqoLSLkwJAT0h8b
+headword: ччур бирара
+ipa: ˌtʃːur biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ччур барара
+    gloss: pfv
+  - text: ччур барив
+    gloss: aor
+  - text: ччур бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tour
+      ru: совершать обход
+    aliases:
+      en: [travel]

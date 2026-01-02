@@ -1,0 +1,24 @@
+id: YcMRKGFEa0A6xyzrP6wL
+headword: кьанть
+ipa: ˈkʼantʼ
+tags: [n, adv]
+forms:
+  - text: кьанть
+    gloss: sg
+  - text: кьинтьре
+    gloss: pl
+definitions:
+  - translation:
+      en: dot
+      ru: точка
+    aliases:
+      en: [point]
+  - translation:
+      en: not at all
+      ru: нисколько
+    aliases:
+      en: [particle, part]
+    examples:
+      - text: кьанть абарив
+        translation:
+          en: didn't do at all

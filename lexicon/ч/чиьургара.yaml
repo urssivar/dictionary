@@ -1,0 +1,17 @@
+id: O8bwjYAzdrtrrfyFszHg
+headword: чиьургара
+ipa: tʃihurˈgara
+tags: [v, tr]
+forms:
+  - text: чиьагара
+    gloss: pfv
+  - text: чиьагур
+    gloss: aor
+  - text: чиьургара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to put on through legs
+      ru: надевать через ноги
+    aliases:
+      en: [wear]

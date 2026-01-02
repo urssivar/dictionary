@@ -1,0 +1,17 @@
+id: GowjiybBeTpF6Lkn2OmE
+headword: исппуклан
+ipa: ispːukˈlan
+tags: [n, loan, russian]
+note:
+  en: '*ариш-вериш дарьан*'
+forms:
+  - text: исппуклан
+    gloss: sg
+  - text: исппукланте
+    gloss: pl
+definitions:
+  - translation:
+      en: profiteer
+      ru: спекулянт
+    aliases:
+      en: [trader]

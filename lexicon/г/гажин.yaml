@@ -1,0 +1,14 @@
+id: fsY0IkewvHdLUAqTNXGa
+headword: гажин
+ipa: gaˈʒin
+tags: [n, loan]
+forms:
+  - text: гажин
+    gloss: sg
+  - text: гажниппе
+    gloss: pl
+definitions:
+  - translation:
+      en: pitcher
+      ru: кувшин
+    tags: [tool]

@@ -1,0 +1,16 @@
+id: hAJKyR3onp8DHX8nyCY3
+headword: белки
+ipa: ˈbelki
+tags: [conj]
+note:
+  en: '*белики*'
+definitions:
+  - translation:
+      en: maybe
+      ru: может быть
+    aliases:
+      en: [perhaps]
+    examples:
+      - text: белки ацариғанне
+        translation:
+          en: perhaps she will not come

@@ -1,0 +1,15 @@
+id: CVOYWhAA1U0Rejee5Nl8
+headword: исттарчин
+ipa: istːarˈtʃin
+tags: [n, loan, russian]
+forms:
+  - text: исттарчин
+    gloss: sg
+  - text: исттарчинте
+    gloss: pl
+definitions:
+  - translation:
+      en: sergeant
+      ru: сержант
+    aliases:
+      en: [foreman]

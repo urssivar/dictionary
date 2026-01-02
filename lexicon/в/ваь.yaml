@@ -1,0 +1,16 @@
+id: aBP5xGj2fmB3fJ11OuoF
+headword: ваь
+ipa: ˈvah
+tags: [pro]
+etymology:
+  en: Frozen class of *баь* "owner".
+definitions:
+  - translation:
+      en: own
+      ru: сам
+    aliases:
+      en: [self, me, i]
+    examples:
+      - text: ьеж ваьи ьаса
+        translation:
+          en: take it for yourself

@@ -1,0 +1,16 @@
+id: AXEyIcYCE7fwlRRuZz3w
+headword: пак
+ipa: ˈpak
+tags: [n]
+note:
+  en: '*бицьа*'
+forms:
+  - text: пак
+    gloss: sg
+  - text: пакре
+    gloss: pl
+definitions:
+  - translation:
+      en: sausage
+      ru: колбаса
+    tags: [food]

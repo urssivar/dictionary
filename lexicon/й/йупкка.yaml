@@ -1,0 +1,18 @@
+id: FKSimfvidsAkogbxPR4y
+headword: йупкка
+ipa: jupˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: йупкка
+    gloss: sg
+  - text: йупккан
+    gloss: obl, loc
+  - text: йупккне
+    gloss: pl
+definitions:
+  - translation:
+      en: skirt
+      ru: юбка
+    tags: [clothing]
+    aliases:
+      en: [dress]

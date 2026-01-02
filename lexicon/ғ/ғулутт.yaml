@@ -1,0 +1,16 @@
+id: 7WMwLaygSbmMpTpMjs2Y
+headword: ғулутт
+ipa: ʁuˈlutː
+tags: [n]
+forms:
+  - text: ғулутт
+    gloss: sg
+  - text: ғулттин
+    gloss: obl
+  - text: ғилттме
+    gloss: pl
+definitions:
+  - translation:
+      en: stake
+      ru: кол
+    tags: [warfare, tool]

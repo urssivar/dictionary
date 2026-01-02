@@ -1,0 +1,20 @@
+id: LaCsYdVazPw0kzYAN4j1
+headword: калусана
+ipa: kaluˈsana
+tags: [v, lbl, cls]
+forms:
+  - text: кабелсана
+    gloss: pfv
+  - text: кабелсун
+    gloss: aor
+  - text: калусана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to distaste
+      ru: недолюбливать
+    aliases:
+      en: [dislike]
+  - translation:
+      en: to twine
+      ru: обвивать

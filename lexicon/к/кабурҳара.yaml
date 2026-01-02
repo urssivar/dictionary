@@ -1,0 +1,17 @@
+id: KCq5JzvEYQ28unRY2PQv
+headword: кабурҳара
+ipa: kaburˈxara
+tags: [v, tr, cls]
+forms:
+  - text: кабарҳара
+    gloss: pfv
+  - text: кабаршив
+    gloss: aor
+  - text: кабурҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to direct
+      ru: направлять
+    aliases:
+      en: [route]

@@ -1,0 +1,14 @@
+id: 9r2Ic0QerkTQp7Pyn2iz
+headword: йерга
+ipa: jerˈga
+tags: [n, loan, turkic]
+definitions:
+  - translation:
+      en: turn
+      ru: ход, очередь
+    aliases:
+      en: [queue, attempt, try, sequence]
+    examples:
+      - text: йергал
+        translation:
+          en: in turns

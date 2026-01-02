@@ -1,0 +1,17 @@
+id: rPiNLiZQUavmGCFWAwoI
+headword: акка иҡара
+ipa: aˌkːa iˈqara
+tags: [v, intr]
+forms:
+  - text: акка аҡара
+    gloss: pfv
+  - text: акка аҡив
+    gloss: aor
+  - text: акка иҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to break up
+      ru: расходиться
+    aliases:
+      en: [part, leave]

@@ -1,0 +1,17 @@
+id: MhUpoTDXO7lEXL9ziQVU
+headword: чибуғара
+ipa: tʃibuˈʁara
+tags: [v, intr, cls]
+forms:
+  - text: чибярғара
+    gloss: pfv
+  - text: чибярғур
+    gloss: aor
+  - text: чибуғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to wither
+      ru: иссыхать
+    aliases:
+      en: [dry, dehydrate]

@@ -1,0 +1,16 @@
+id: k8UrKBCMGznNvIUFikKQ
+headword: бижбижи
+ipa: biʒbiˈʒi
+tags: [n]
+note:
+  en: '*бизбизи*'
+forms:
+  - text: бижбижи
+    gloss: sg
+  - text: бижбижне
+    gloss: pl
+definitions:
+  - translation:
+      en: insect
+      ru: насекомое
+    tags: [nature, animal]

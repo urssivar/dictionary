@@ -1,0 +1,22 @@
+id: I02WwdvJvCemaiMK7MOJ
+headword: чикурсара
+ipa: tʃikurˈsara
+tags: [v, intr, cls]
+forms:
+  - text: чикасара
+    gloss: pfv
+  - text: чикасив
+    gloss: aor
+  - text: чикурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tolerate
+      ru: терпеть, выносить
+    aliases:
+      en: [suffer]
+  - translation:
+      en: to intend
+      ru: намереваться
+    aliases:
+      en: [plan, mean]

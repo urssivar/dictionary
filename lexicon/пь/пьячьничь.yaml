@@ -1,0 +1,16 @@
+id: jHSx1shYjmGUE8HonP3i
+headword: пьячьничь
+ipa: pʼætʃʼˈnitʃʼ
+tags: [n]
+note:
+  en: '*мячьа*, *пьячьан*'
+forms:
+  - text: пьячьничь
+    gloss: sg
+  - text: пьячьничье
+    gloss: pl
+definitions:
+  - translation:
+      en: eye pus
+      ru: глазной гной
+    tags: [body]

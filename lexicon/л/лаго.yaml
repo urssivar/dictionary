@@ -1,0 +1,17 @@
+id: qmXf1zgpTStdfcnYBzw4
+headword: лаго
+ipa: ˈlago
+tags: [n]
+note:
+  en: This is said to be a name to grass with which the cheese is made, and the cheese is more precisely *лагу*.
+forms:
+  - text: лаго
+    gloss: sg
+  - text: лагон
+    gloss: obl
+  - text: лагне
+    gloss: pl
+definitions:
+  - translation:
+      en: cheese circle
+      ru: круг сыра

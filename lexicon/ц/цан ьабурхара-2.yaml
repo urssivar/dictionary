@@ -1,0 +1,17 @@
+id: iH70rZUwoQVCHt26BQNN
+headword: цан ьабурхара
+ipa: ˌtsan haburˈχara
+tags: [v, phr, intr, cls]
+forms:
+  - text: цан ьаберхора
+    gloss: pfv
+  - text: цан ьаберхур
+    gloss: aor
+  - text: цан ьабурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be friends with
+      ru: дружить
+    aliases:
+      en: [get, along]

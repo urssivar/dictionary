@@ -1,0 +1,17 @@
+id: hHHmtic4QVZszEw4FIUw
+headword: иҡора
+ipa: iˈqora
+tags: [v, intr, cls]
+forms:
+  - text: беҡора
+    gloss: pfv
+  - text: беҡур
+    gloss: aor
+  - text: иҡора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to disintegrate
+      ru: распадаться
+    aliases:
+      en: [decay, break, apart]

@@ -1,0 +1,24 @@
+id: aWHpb07GWYS9NzmFK3DI
+headword: иғне
+ipa: ˈiʁne
+tags: [n]
+forms:
+  - text: иғне
+    gloss: sg
+  - text: иғниппе
+    gloss: pl
+definitions:
+  - translation:
+      en: necessity
+      ru: необходимость
+    aliases:
+      en: [need]
+    examples:
+      - text: иғне бяҡил цяун
+        translation:
+          en: came as a need arose
+  - translation:
+      en: device
+      ru: принадлежность, прибор
+    aliases:
+      en: [utensil, tool, gear]

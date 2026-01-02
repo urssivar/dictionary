@@ -1,0 +1,21 @@
+id: yRyTOpTYjXhvYH4NvkYF
+headword: цьалсила
+ipa: tsʼalˈsila
+tags: [n]
+etymology:
+  en: From *цьа* "fire" + locative case *-са* "by".
+forms:
+  - text: цьалсила
+    gloss: sg
+  - text: цьалсилал
+    gloss: obl
+  - text: цьалсилабе
+    gloss: pl
+definitions:
+  - note:
+      en: Usually unplanned.
+    translation:
+      en: night get-together
+      ru: ночная посиделка
+    aliases:
+      en: [dinner]

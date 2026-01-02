@@ -1,0 +1,20 @@
+id: ebDD41b0uLV0pS6Gsk01
+headword: ҡҡяндар
+ipa: qːænˈdar
+tags: [n]
+note:
+  en: '*ҡҡини*'
+forms:
+  - text: ҡҡяндар
+    gloss: sg
+  - text: ҡҡяндре
+    gloss: obl
+  - text: ҡҡяндриппе
+    gloss: pl
+definitions:
+  - translation:
+      en: carrying vessel
+      ru: водоносный кувшин
+    tags: [tool]
+    aliases:
+      en: [jug]

@@ -1,0 +1,16 @@
+id: sVnyX4VHiPP9ckSBzPHf
+headword: ағлав
+ipa: aʁˈlav
+tags: [n, loan]
+note:
+  en: '*ағлаба*'
+forms:
+  - text: ағлав
+    gloss: sg
+  - text: ағлавте
+    gloss: pl
+definitions:
+  - translation:
+      en: pan
+      ru: сковорода
+    tags: [tool, house]

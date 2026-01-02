@@ -1,0 +1,14 @@
+id: 7Se64M6jjbMRfnm8fZWh
+headword: дурлама
+ipa: durlaˈma
+tags: [n, loan, turkic]
+forms:
+  - text: дурлама
+    gloss: sg
+  - text: дурламабе
+    gloss: pl
+definitions:
+  - translation:
+      en: binoculars
+      ru: бинокль
+    tags: [tool]

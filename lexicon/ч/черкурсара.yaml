@@ -1,0 +1,15 @@
+id: NWKY9bQCBgxixq13HOtb
+headword: черкурсара
+ipa: tʃerkurˈsara
+tags: [v, tr]
+forms:
+  - text: черкасара
+    gloss: pfv
+  - text: черкасив
+    gloss: aor
+  - text: черкурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to unload
+      ru: разгружать

@@ -1,0 +1,19 @@
+id: t3z21pLIUZx2ycsx6txr
+headword: чикурьара
+ipa: tʃikurˈhara
+tags: [v, tr]
+note:
+  en: '*чикарьара*'
+forms:
+  - text: чикаьара
+    gloss: pfv
+  - text: чикаьур
+    gloss: aor
+  - text: чикурьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to put on through head
+      ru: надевать через голову
+    aliases:
+      en: [dress]

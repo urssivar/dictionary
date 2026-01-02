@@ -1,0 +1,23 @@
+id: gQGAO722xN5aZFyvPUvO
+headword: лишан
+ipa: liˈʃan
+tags: [n, loan, persian]
+forms:
+  - text: лишан
+    gloss: sg
+  - text: лишанте
+    gloss: pl
+definitions:
+  - translation:
+      en: sign
+      ru: знак
+    aliases:
+      en: [symbol]
+  - translation:
+      en: sight
+      ru: прицел
+    aliases:
+      en: [aim]
+  - translation:
+      en: omen
+      ru: примета

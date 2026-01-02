@@ -1,0 +1,17 @@
+id: OaAYk94ul5Fa7NliZCkm
+headword: чибурхара
+ipa: tʃiburˈχara
+tags: [v, tr, cls]
+forms:
+  - text: чиберхора
+    gloss: pfv
+  - text: чиберхур
+    gloss: aor
+  - text: чибурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to reach
+      ru: достигать
+    aliases:
+      en: [arrive, come, get]

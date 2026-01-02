@@ -1,0 +1,16 @@
+id: ri7sBJY6XrPGtf3cDgSL
+headword: ғичьу
+ipa: ʁiˈtʃʼu
+tags: [n]
+forms:
+  - text: ғичьу
+    gloss: sg
+  - text: ғичьне
+    gloss: pl
+definitions:
+  - translation:
+      en: accordion
+      ru: гармонь
+    tags: [tool, music]
+    aliases:
+      en: [harmonic, squeezebox]

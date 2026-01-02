@@ -1,0 +1,17 @@
+id: fbLihPcmmnBIm5TpT1c1
+headword: бисуть
+ipa: biˈsːutʼ
+tags: [n, nmlz]
+etymology:
+  en: From *бисара* "to cry".
+forms:
+  - text: бисуть
+    gloss: sg
+  - text: бисутье
+    gloss: pl
+definitions:
+  - translation:
+      en: crybaby
+      ru: плакса
+    aliases:
+      en: [weeper]

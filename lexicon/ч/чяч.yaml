@@ -1,0 +1,18 @@
+id: k5zyaODil3nYqiBwCvBk
+headword: чяч
+ipa: ˈtʃætʃ
+tags: [n]
+note:
+  en: '*пасҡьо*'
+forms:
+  - text: чяч
+    gloss: sg
+  - text: чячре
+    gloss: pl
+definitions:
+  - translation:
+      en: haircut
+      ru: причёска
+    tags: [body]
+    aliases:
+      en: [hairstyle]

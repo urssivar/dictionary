@@ -1,0 +1,17 @@
+id: 2EXJPOWcmPHQOINYB2Q3
+headword: учецурғара
+ipa: utʃetsurˈʁara
+tags: [v, tr, cls, phr]
+forms:
+  - text: учецағара
+    gloss: pfv
+  - text: учецағив
+    gloss: aor
+  - text: учецурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to convene
+      ru: созывать
+    aliases:
+      en: [gather, assemble]

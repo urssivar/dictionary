@@ -1,0 +1,17 @@
+id: iayeh7vr3LEfWTAaZojM
+headword: цирьяра
+ipa: tsirˈhæra
+tags: [v, tr]
+note:
+  en: '*ирьяра*'
+forms:
+  - text: цирьяв
+    gloss: aor
+  - text: цирьяра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to skin walnut
+      ru: снимать кожуру ореха
+    aliases:
+      en: [rind, peel, clean]

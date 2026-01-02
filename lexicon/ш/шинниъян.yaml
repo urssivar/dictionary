@@ -1,0 +1,17 @@
+id: x5ozDyWJLbNURxY9liRO
+headword: шинниъян
+ipa: ʃinniˈʔæn
+tags: [n]
+etymology:
+  en: From *шин* "water", cf. *мисриъян* "land animal".
+forms:
+  - text: шинниъян
+    gloss: sg
+  - text: шинниъне
+    gloss: pl
+definitions:
+  - translation:
+      en: water animal
+      ru: водное животное
+    aliases:
+      en: [fish]

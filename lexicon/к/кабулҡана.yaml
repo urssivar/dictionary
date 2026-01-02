@@ -1,0 +1,20 @@
+id: qEoNZgcJlkFWjTE78zJP
+headword: кабулҡана
+ipa: kabulˈqana
+tags: [v, intr, cls]
+forms:
+  - text: кабуҡана
+    gloss: pfv
+  - text: кабуҡун
+    gloss: aor
+  - text: кабулҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to roll
+      ru: кататься
+  - translation:
+      en: to sled
+      ru: кататься на санях
+    aliases:
+      en: [sledge, ride]

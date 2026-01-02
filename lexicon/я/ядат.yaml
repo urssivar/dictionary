@@ -1,0 +1,15 @@
+id: fNLbfdl5SW0rsIAvsJni
+headword: ядат
+ipa: æˈdat
+tags: [n, loan, arabic]
+forms:
+  - text: ядат
+    gloss: sg
+  - text: ядате
+    gloss: pl
+definitions:
+  - translation:
+      en: custom
+      ru: обычай
+    aliases:
+      en: [tradition]

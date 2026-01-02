@@ -1,0 +1,15 @@
+id: edUc2uNmAdcEq9XSnDlV
+headword: кканццирт
+ipa: kːanˈtsːirt
+tags: [n, loan, russian]
+forms:
+  - text: кканццирт
+    gloss: sg
+  - text: кканццирте
+    gloss: pl
+definitions:
+  - translation:
+      en: concert
+      ru: концерт
+    aliases:
+      en: [performance]

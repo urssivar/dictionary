@@ -1,0 +1,16 @@
+id: WIHeyiZakcL0Ah91oeYn
+headword: гатт
+ipa: ˈgatː
+tags: [n]
+note:
+  en: '*гатти*'
+forms:
+  - text: гатт
+    gloss: sg
+  - text: гаттиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: hill
+      ru: холм
+    tags: [nature]

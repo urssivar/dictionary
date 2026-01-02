@@ -1,0 +1,16 @@
+id: NAA2L5Rb9TNHJuRfzue3
+headword: шушкка
+ipa: ʃuʃˈkːa
+tags: [n, loan]
+forms:
+  - text: шушкка
+    gloss: sg
+  - text: шушккан
+    gloss: obl
+  - text: шушккне
+    gloss: pl
+definitions:
+  - translation:
+      en: saber
+      ru: сабля
+    tags: [warfare, tool]

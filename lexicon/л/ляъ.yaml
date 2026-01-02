@@ -1,0 +1,16 @@
+id: eo4xk78pFHGsQnmnk2eA
+headword: ляъ
+ipa: ˈlæʔ
+tags: [n]
+forms:
+  - text: ляъ
+    gloss: sg
+  - text: ляъун
+    gloss: obl
+  - text: ляъбе
+    gloss: pl
+definitions:
+  - translation:
+      en: ear
+      ru: ухо
+    tags: [body]

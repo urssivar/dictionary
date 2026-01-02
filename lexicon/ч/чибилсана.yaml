@@ -1,0 +1,19 @@
+id: cw1Yy4VteFXamVDp61Gy
+headword: чибилсана
+ipa: tʃibilˈsana
+tags: [v, intr, cls]
+note:
+  en: '*чицабилсана*'
+forms:
+  - text: чибисана
+    gloss: pfv
+  - text: чибисун
+    gloss: aor
+  - text: чибилсана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lean
+      ru: прислоняться
+    aliases:
+      en: [rely, recline]

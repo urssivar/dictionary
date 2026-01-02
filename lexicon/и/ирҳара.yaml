@@ -1,0 +1,15 @@
+id: SthvTMuwnxAZ39Ohvpqz
+headword: ирҳара
+ipa: irˈxara
+tags: [v, tr]
+forms:
+  - text: иршив
+    gloss: aor
+  - text: ирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to reap
+      ru: жать
+    aliases:
+      en: [harvest]

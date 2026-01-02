@@ -1,0 +1,21 @@
+id: 7fqoGRfi1TTSoM73aKwV
+headword: женигор
+ipa: ʒeniˈgor
+tags: [n, loan, persian]
+note:
+  en: '*мицьир жан*'
+forms:
+  - text: женигор
+    gloss: sg
+  - text: женигорте
+    gloss: pl
+definitions:
+  - translation:
+      en: beast
+      ru: животное
+    aliases:
+      en: [animal, wild]
+    examples:
+      - text: дуццала женигор
+        translation:
+          en: wild beast

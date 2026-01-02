@@ -1,0 +1,17 @@
+id: I47wCL7wdeR2rIa7oFCa
+headword: сарцабикьара
+ipa: sartsabiˈkʼara
+tags: [v, intr, cls]
+forms:
+  - text: сарцабакьара
+    gloss: pfv
+  - text: сарцабачьив
+    gloss: aor
+  - text: сарцабикьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to peep
+      ru: выглядывать
+    aliases:
+      en: [peak, look]

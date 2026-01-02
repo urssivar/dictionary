@@ -1,0 +1,15 @@
+id: GsHeW8WTt7hqjR3kl59p
+headword: инисттут
+ipa: inisˈtːut
+tags: [n, loan, russian]
+forms:
+  - text: инисттут
+    gloss: sg
+  - text: инисттуте
+    gloss: pl
+definitions:
+  - translation:
+      en: university
+      ru: университет
+    aliases:
+      en: [college, school]

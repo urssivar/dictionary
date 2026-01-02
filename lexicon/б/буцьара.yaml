@@ -1,0 +1,28 @@
+id: 0NMy56xAm8cOL996ruyx
+headword: буцьара
+ipa: buˈtsʼara
+tags: [v, lbl, cls]
+forms:
+  - text: берцьара
+    gloss: pfv
+  - text: берцьив
+    gloss: aor
+  - text: буцьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to bake
+      ru: выпекать
+    tags: [food]
+    aliases:
+      en: [fry]
+  - translation:
+      en: to ripen
+      ru: созревать
+    aliases:
+      en: [mature, mellow]
+  - translation:
+      en: to tan
+      ru: загорать
+    aliases:
+      en: [burn]

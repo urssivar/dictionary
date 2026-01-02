@@ -1,0 +1,17 @@
+id: XNcl96Mkqz17yg4Ul0so
+headword: черуттара
+ipa: tʃeruˈtːara
+tags: [v, tr, cls]
+forms:
+  - text: черберттара
+    gloss: pfv
+  - text: черберттив
+    gloss: aor
+  - text: черуттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to interrupt
+      ru: прерывать
+    aliases:
+      en: [discontinue, halt, break]

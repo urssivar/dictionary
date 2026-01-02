@@ -1,0 +1,19 @@
+id: 2khhqSqTr6JLH6L86R4c
+headword: ҡум уртара
+ipa: ˌqum urˈtara
+tags: [v, intr, phr]
+etymology:
+  en: Both the nomal and the verbal parts are not used anywhere else.
+forms:
+  - text: ҡум ертара
+    gloss: pfv
+  - text: ҡум ертур
+    gloss: aor
+  - text: ҡум уртара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to forget
+      ru: забыть, оставить
+    aliases:
+      en: [leave, lose]

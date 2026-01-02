@@ -1,0 +1,21 @@
+id: Pyk7LlUVuh0RCYfl57Vq
+headword: берҡара
+ipa: berˈqara
+tags: [v, tr, cls]
+forms:
+  - text: беҡара
+    gloss: pfv
+  - text: берҡив
+    gloss: aor
+  - text: берҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to complete
+      ru: завершать
+    aliases:
+      en: [end, finish]
+    examples:
+      - text: деҡив дунцра
+        translation:
+          en: completed fasting

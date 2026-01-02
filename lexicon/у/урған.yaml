@@ -1,0 +1,17 @@
+id: MDFUvtN608bfJJMDXCKp
+headword: урған
+ipa: urˈʁan
+tags: [n, nmlz]
+etymology:
+  en: From *урғара* "to battle".
+forms:
+  - text: урған
+    gloss: sg
+  - text: урғанте
+    gloss: pl
+definitions:
+  - translation:
+      en: soldier
+      ru: солдат
+    aliases:
+      en: [fighter, militant]

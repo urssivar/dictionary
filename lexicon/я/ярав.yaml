@@ -1,0 +1,18 @@
+id: nlmJp3HkpTNlfOIqzuPT
+headword: ярав
+ipa: æˈrav
+tags: [n, adj, loan, arabic]
+forms:
+  - text: ярав
+    gloss: sg
+  - text: яравте
+    gloss: pl
+definitions:
+  - translation:
+      en: arab
+      ru: араб, арабский
+    tags: [demonym]
+    examples:
+      - text: ярав даьаг
+        translation:
+          en: horrible

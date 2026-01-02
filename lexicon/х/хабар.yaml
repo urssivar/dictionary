@@ -1,0 +1,15 @@
+id: 6lrczRP3Uh30KX4pWOVC
+headword: хабар
+ipa: χaˈbar
+tags: [n, loan, arabic]
+forms:
+  - text: хабар
+    gloss: sg
+  - text: хабарте
+    gloss: pl
+definitions:
+  - translation:
+      en: story
+      ru: рассказ
+    aliases:
+      en: [news]

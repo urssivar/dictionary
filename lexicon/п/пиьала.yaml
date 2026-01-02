@@ -1,0 +1,17 @@
+id: 3sP9PC113Ei1vrbtZPQn
+headword: пиьала
+ipa: piˈhala
+tags: [n, loan]
+forms:
+  - text: пиьала
+    gloss: sg
+  - text: пиьалан
+    gloss: loc
+  - text: пиьунде
+    gloss: pl
+definitions:
+  - translation:
+      en: piala
+      ru: пиала
+    aliases:
+      en: [bowl]

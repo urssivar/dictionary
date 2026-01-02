@@ -1,0 +1,21 @@
+id: WlVgbbIYQSDg49LrJjuW
+headword: ялда бирццара
+ipa: ˌælda birˈtsːara
+tags: [v, phr, intr, cls]
+forms:
+  - text: ялда биццара
+    gloss: pfv
+  - text: ялда бирццара
+    gloss: aor
+  - text: ялда бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to swing
+      ru: замахиваться
+    aliases:
+      en: [charge, prepare]
+    examples:
+      - text: ялда виццур хат цабяҡив
+        translation:
+          en: swung his palm and

@@ -1,0 +1,17 @@
+id: LJ6ImVyvqP6FYJra3aaQ
+headword: ғай луккана
+ipa: ˌʁaj luˈkːana
+tags: [v, tr, phr]
+forms:
+  - text: ғай деккара
+    gloss: pfv
+  - text: ғай деччив
+    gloss: aor
+  - text: ғай луккана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to promise
+      ru: обещать
+    aliases:
+      en: [agree]

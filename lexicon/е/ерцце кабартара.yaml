@@ -1,0 +1,17 @@
+id: tJAKiQNJ90sjOEWMKcSK
+headword: ерцце кабартара
+ipa: ˌertsːe kabarˈtara
+tags: [v, tr, cls, phr]
+forms:
+  - text: ерцце кабатара
+    gloss: pfv
+  - text: ерцце кабатур
+    gloss: aor
+  - text: ерцце кабартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to mark
+      ru: помечать
+    aliases:
+      en: [brand]

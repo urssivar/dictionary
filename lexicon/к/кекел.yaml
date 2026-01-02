@@ -1,0 +1,16 @@
+id: S4nP4yleJ79fNegwxNb5
+headword: кекел
+ipa: keˈkel
+tags: [n]
+forms:
+  - text: кекел
+    gloss: sg
+  - text: кекелте
+    gloss: pl
+definitions:
+  - translation:
+      en: gums
+      ru: десна
+    tags: [body]
+    aliases:
+      en: [gingiva]

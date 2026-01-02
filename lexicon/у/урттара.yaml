@@ -1,0 +1,17 @@
+id: vRfktMXyw05AQ6YC08jC
+headword: урттара
+ipa: urˈtːara
+tags: [v, tr, cls]
+forms:
+  - text: бурттара
+    gloss: pfv
+  - text: бурттив
+    gloss: aor
+  - text: урттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to chop
+      ru: рубить
+    aliases:
+      en: [slash, cut]

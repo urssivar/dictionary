@@ -1,0 +1,16 @@
+id: tF0A2rqgEBUT2tlHhqo4
+headword: лаган
+ipa: laˈgan
+tags: [n, loan, russian]
+forms:
+  - text: лаган
+    gloss: sg
+  - text: лаганте
+    gloss: pl
+definitions:
+  - translation:
+      en: revolver
+      ru: револьвер
+    tags: [tool]
+    aliases:
+      en: [gun, pistol]

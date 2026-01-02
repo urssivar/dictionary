@@ -1,0 +1,15 @@
+id: 9cUINmY6qnDMT7Ajuq87
+headword: яв
+ipa: ˈæv
+tags: [n]
+forms:
+  - text: яв
+    gloss: sg
+  - text: явне
+    gloss: pl
+definitions:
+  - translation:
+      en: noose
+      ru: петля
+    aliases:
+      en: [loop]

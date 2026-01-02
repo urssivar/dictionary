@@ -1,0 +1,15 @@
+id: 88utyDMWy8RkoD3hNQON
+headword: ахран
+ipa: aχˈran
+tags: [n, loan, russian]
+forms:
+  - text: ахран
+    gloss: sg
+  - text: ахранте
+    gloss: pl
+definitions:
+  - translation:
+      en: security guard
+      ru: охранник
+    aliases:
+      en: [watch]

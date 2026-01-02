@@ -1,0 +1,19 @@
+id: gNItLkxQdsi222xg6Vzq
+headword: чевкулгана
+ipa: tʃevkulˈgana
+tags: [v, intr]
+note:
+  en: '*ьереғ кулгана*'
+forms:
+  - text: чевкалгана
+    gloss: pfv
+  - text: чевкалгана
+    gloss: aor
+  - text: чевкулгана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get remembered
+      ru: запоминаться
+    aliases:
+      en: [stay, memorize]

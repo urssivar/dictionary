@@ -1,0 +1,14 @@
+id: XcWs8X3fhbpGXuK2EW8O
+headword: ривзи
+ipa: ˈrivzi
+tags: [n, loan, russian]
+definitions:
+  - translation:
+      en: audit
+      ru: ревизия
+    aliases:
+      en: [inspection]
+    examples:
+      - text: тукенцци ривзи бара
+        translation:
+          en: conduct an audit of the store

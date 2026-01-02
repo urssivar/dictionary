@@ -1,0 +1,18 @@
+id: btP3jOyQzhPTEuxvwS5r
+headword: жульа
+ipa: ˈʒulha
+tags: [n]
+note:
+  en: '*кур*, *дурҡьал*'
+forms:
+  - text: жульа
+    gloss: sg
+  - text: жульан
+    gloss: obl
+  - text: жульме
+    gloss: pl
+definitions:
+  - translation:
+      en: loom
+      ru: ткацкий станок
+    tags: [tool]

@@ -1,0 +1,20 @@
+id: JbRm7nkmgzPslFHYPPDk
+headword: ҡҡаттила
+ipa: qːaˈtːila
+tags: [n]
+etymology:
+  en: From *ҡҡатта* "ravine".
+forms:
+  - text: ҡҡаттила
+    gloss: sg
+  - text: ҡҡаттилал
+    gloss: obl
+  - text: ҡҡаттилабе
+    gloss: pl
+definitions:
+  - translation:
+      en: gully
+      ru: овраг
+    tags: [nature]
+    aliases:
+      en: [ravine]

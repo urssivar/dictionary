@@ -1,0 +1,17 @@
+id: DACLcpNsU8ge3rwDU8Ky
+headword: исара
+ipa: iˈsːara
+tags: [v, tr, cls]
+forms:
+  - text: бирсара
+    gloss: pfv
+  - text: бирсив
+    gloss: aor
+  - text: исара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tailor
+      ru: кроить
+    aliases:
+      en: [sew, cut]

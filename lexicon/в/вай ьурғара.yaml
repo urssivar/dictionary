@@ -1,0 +1,17 @@
+id: f8NbY9wulq0oliXnQuGF
+headword: вай ьурғара
+ipa: ˌvaj hurˈʁara
+tags: [v, phr, tr]
+forms:
+  - text: вай ьағара
+    gloss: pfv
+  - text: вай ьағив
+    gloss: aor
+  - text: вай ьурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to graze
+      ru: выпасывать
+    aliases:
+      en: [pasture]

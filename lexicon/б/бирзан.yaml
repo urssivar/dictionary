@@ -1,0 +1,15 @@
+id: T4S697e51pWIAHTfIWbI
+headword: бирзан
+ipa: birˈzan
+tags: [n, nmlz]
+forms:
+  - text: бирзан
+    gloss: sg
+  - text: дирзанте
+    gloss: pl
+definitions:
+  - translation:
+      en: rug
+      ru: коврик
+    aliases:
+      en: [mat, carpet]

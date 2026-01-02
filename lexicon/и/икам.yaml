@@ -1,0 +1,16 @@
+id: zklHqYe16YUcuE0Kd9vT
+headword: икам
+ipa: iˈkam
+tags: [n, nmlz]
+note:
+  en: '*кьаркь*'
+forms:
+  - text: икам
+    gloss: sg
+  - text: икме
+    gloss: pl
+definitions:
+  - translation:
+      en: rolling pin
+      ru: скалка
+    tags: [tool, house]

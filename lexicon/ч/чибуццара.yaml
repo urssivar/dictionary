@@ -1,0 +1,17 @@
+id: KhWYzVPVnjk8f6tnS3DU
+headword: чибуццара
+ipa: tʃibuˈtsːara
+tags: [v, lbl, cls]
+note:
+  en: '*сацабаҳара*'
+forms:
+  - text: чибуццив
+    gloss: aor
+  - text: чибуццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to develop
+      ru: развиваться
+    aliases:
+      en: [progress, improve]

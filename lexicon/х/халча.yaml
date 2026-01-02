@@ -1,0 +1,19 @@
+id: osAzezZHS2ninu2jukQ8
+headword: халча
+ipa: χalˈtʃa
+tags: [n]
+note:
+  en: '*хали*, *халича*'
+forms:
+  - text: халча
+    gloss: sg
+  - text: халчан
+    gloss: obl
+  - text: хилчне
+    gloss: pl
+definitions:
+  - translation:
+      en: carpet
+      ru: ковёр
+    aliases:
+      en: [rag]

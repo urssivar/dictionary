@@ -1,0 +1,18 @@
+id: 9gTIh9mzNW3bhc7K4vLO
+headword: мико
+ipa: ˈmiko
+tags: [n]
+forms:
+  - text: мико
+    gloss: sg
+  - text: микон
+    gloss: obl
+  - text: микуппе
+    gloss: pl
+definitions:
+  - translation:
+      en: fingernail
+      ru: ноготь
+    tags: [body]
+    aliases:
+      en: [nail]

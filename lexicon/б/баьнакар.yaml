@@ -1,0 +1,15 @@
+id: bvrNaYW77wKpEZMmcImy
+headword: баьнакар
+ipa: bahnaˈkar
+tags: [n, loan]
+forms:
+  - text: баьнакар
+    gloss: sg
+  - text: баьнакарте
+    gloss: pl
+definitions:
+  - translation:
+      en: culprit
+      ru: виновник
+    aliases:
+      en: [causer, author]

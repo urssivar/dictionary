@@ -1,0 +1,18 @@
+id: 1YTtw457dqwpihC024A0
+headword: ппереппа
+ipa: pːeˈrepːa
+tags: [n]
+note:
+  en: '*ппираппа*'
+forms:
+  - text: ппереппа
+    gloss: sg
+  - text: ппереппан
+    gloss: obl
+  - text: ппирппне
+    gloss: pl
+definitions:
+  - translation:
+      en: needle
+      ru: игла
+    tags: [tool]

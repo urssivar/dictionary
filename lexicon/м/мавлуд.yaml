@@ -1,0 +1,15 @@
+id: 9CBtSDYQ2O75WZM1rg9i
+headword: мавлуд
+ipa: mavˈlud
+tags: [n, loan]
+forms:
+  - text: мавлуд
+    gloss: sg
+  - text: мавлуде
+    gloss: pl
+definitions:
+  - translation:
+      en: religious celebration
+      ru: религиозное празднование
+    aliases:
+      en: [ceremony, rite]

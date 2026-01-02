@@ -1,0 +1,18 @@
+id: 6PkGVXW70IpQbb4iL8rv
+headword: ҡяйҡ
+ipa: ˈqæjq
+tags: [n, loan, turkic]
+note:
+  en: '*луткка*'
+forms:
+  - text: ҡяйҡ
+    gloss: sg
+  - text: ҡяйҡре
+    gloss: pl
+definitions:
+  - translation:
+      en: boat
+      ru: лодка
+    tags: [tool]
+    aliases:
+      en: [ship]

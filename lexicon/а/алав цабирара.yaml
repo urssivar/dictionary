@@ -1,0 +1,17 @@
+id: GkF986e3UedxQzeYQ8zk
+headword: алав цабирара
+ipa: aˌlav tsabiˈrara
+tags: [v, phr, cls, tr]
+forms:
+  - text: алав цабарара
+    gloss: pfv
+  - text: алав цабарив
+    gloss: aor
+  - text: алав цабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to enclose
+      ru: огораживать
+    aliases:
+      en: [encircle, surround, fence, 'off']

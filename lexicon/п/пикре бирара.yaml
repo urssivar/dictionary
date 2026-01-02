@@ -1,0 +1,17 @@
+id: 6eT4i6tPsBWW9ioZmaTB
+headword: пикре бирара
+ipa: ˌpikre biˈrara
+tags: [v, cls, tr, phr]
+forms:
+  - text: пикре барара
+    gloss: pfv
+  - text: пикре барив
+    gloss: aor
+  - text: пикре бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to consider
+      ru: обдумывать
+    aliases:
+      en: [think, over]

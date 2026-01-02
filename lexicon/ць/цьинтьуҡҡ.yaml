@@ -1,0 +1,16 @@
+id: dQEq071RZSh7YMh2sTDi
+headword: цьинтьуҡҡ
+ipa: tsʼinˈtʼuqː
+tags: [n]
+note:
+  en: '*цьинть*, *шахруть*, *елумцан*'
+forms:
+  - text: цьинтьуҡҡ
+    gloss: sg
+  - text: цьинтьуҡҡе
+    gloss: pl
+definitions:
+  - translation:
+      en: caterpillar
+      ru: гусеница
+    tags: [nature, animal, insect]

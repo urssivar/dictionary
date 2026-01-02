@@ -1,0 +1,19 @@
+id: h94hvaZbwnEst2hqoiBE
+headword: чиликкона
+ipa: tʃiliˈkːona
+tags: [v, cls, tr]
+note:
+  en: '*чибелҳана/чилуҳана*'
+forms:
+  - text: чибелккона
+    gloss: pfv
+  - text: чибелккун
+    gloss: aor
+  - text: чиликкона
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to scorch
+      ru: опалять
+    aliases:
+      en: [sear, burn]

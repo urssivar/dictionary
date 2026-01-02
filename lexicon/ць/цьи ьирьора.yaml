@@ -1,0 +1,17 @@
+id: Gffc0iDMfH8509Ue537O
+headword: цьи ьирьора
+ipa: ˌtsʼi hirˈhora
+tags: [v, intr, cls, phr]
+forms:
+  - text: цьи ьабиьора
+    gloss: pfv
+  - text: цьи ьабиьяв
+    gloss: aor
+  - text: цьи ьабирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to revive
+      ru: возрождаться
+    aliases:
+      en: [reborn, resurrect]

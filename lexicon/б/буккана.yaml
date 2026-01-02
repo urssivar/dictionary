@@ -1,0 +1,17 @@
+id: QnnSkboeuvvzAmxSdhNN
+headword: буккана
+ipa: buˈkːana
+tags: [v, lbl, cls]
+forms:
+  - text: берккона
+    gloss: pfv
+  - text: берккун
+    gloss: aor
+  - text: буккана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to devour
+      ru: пожирать
+    aliases:
+      en: [eat, consume]

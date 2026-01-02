@@ -1,0 +1,17 @@
+id: d1YdRUyT5T62k9fJd2gN
+headword: чербурҡара
+ipa: tʃerburˈqara
+tags: [v, tr, cls]
+forms:
+  - text: чербяҡара
+    gloss: pfv
+  - text: чербяҡив
+    gloss: aor
+  - text: чербурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to end a ritual
+      ru: завершать ритуал
+    aliases:
+      en: [complete, finish, wait]

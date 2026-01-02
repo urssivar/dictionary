@@ -1,0 +1,17 @@
+id: ssepMAYsGrsixAbB7sT5
+headword: чицабирара
+ipa: tʃitsabiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: чицабарара
+    gloss: pfv
+  - text: чицабарив
+    gloss: aor
+  - text: чицабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to accumulate
+      ru: скапливать
+    aliases:
+      en: [gather, collect]

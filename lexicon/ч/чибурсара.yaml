@@ -1,0 +1,17 @@
+id: SPGKXDRv2TtV4xIgO4Q1
+headword: чибурсара
+ipa: tʃiburˈsara
+tags: [v, tr, cls]
+note:
+  en: '*ьербурсара*'
+forms:
+  - text: чибурсара
+    gloss: aor
+  - text: чибурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to teach
+      ru: подсказывать
+    aliases:
+      en: [suggest, advice, tell, guide]

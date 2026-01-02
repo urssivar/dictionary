@@ -1,0 +1,21 @@
+id: oG6LOlCB6HiHYqW9Nkec
+headword: иккара
+ipa: aˈkːara
+tags: [v]
+forms:
+  - text: аккара
+    gloss: pfv
+  - text: аччив
+    gloss: pret
+  - text: иккара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to affect
+      ru: действовать, влиять
+    aliases:
+      en: [work, effect]
+    examples:
+      - text: дурсивте аччив
+        translation:
+          en: what was said had effect

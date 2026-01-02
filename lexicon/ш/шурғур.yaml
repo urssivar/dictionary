@@ -1,0 +1,18 @@
+id: 4abc91M0w4Xd3sS5pUAi
+headword: шурғур
+ipa: ʃurˈʁur
+tags: [n]
+note:
+  en: '*пана ғулуҳ*'
+forms:
+  - text: шурғур
+    gloss: sg
+  - text: шурғре
+    gloss: pl
+definitions:
+  - translation:
+      en: gyrfalcon
+      ru: кречет
+    tags: [animal, bird]
+    aliases:
+      en: [falcon]

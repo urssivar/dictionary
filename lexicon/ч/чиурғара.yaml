@@ -1,0 +1,24 @@
+id: ZJi2gS3mHTWpeYpJQuRZ
+headword: чиурғара
+ipa: tʃiurˈʁara
+tags: [v, tr]
+note:
+  en: '*чибирчихара* (1), *чиьурғара* (2)'
+forms:
+  - text: чиағара
+    gloss: pfv
+  - text: чиағив
+    gloss: aor
+  - text: чиурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to set on
+      ru: натравливать
+    aliases:
+      en: [incite, attack]
+  - translation:
+      en: to enamel
+      ru: эмалировать
+    aliases:
+      en: [cover]

@@ -1,0 +1,15 @@
+id: 7QdJbm8nn6WGYqv31ndT
+headword: черкабиркара
+ipa: tʃerkabirˈkara
+tags: [v, cls, intr]
+forms:
+  - text: черкабикара
+    gloss: pfv
+  - text: черкабичив
+    gloss: aor
+  - text: черкабиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fall out
+      ru: отваливаться

@@ -1,0 +1,30 @@
+id: JfOF07xaXYxB5AuFce9q
+headword: бирғара
+ipa: birˈʁara
+tags: [v, tr, cls]
+note:
+  en: '*барғара* (pfv)'
+forms:
+  - text: бирғив
+    gloss: aor
+  - text: бирғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to assemble
+      ru: собрать
+    aliases:
+      en: [construct]
+    examples:
+      - text: тупанг бирғил де
+        translation:
+          en: the rifle was assembled
+  - translation:
+      en: to gather
+      ru: собирать
+    aliases:
+      en: [collect]
+    examples:
+      - text: дивҳне дирға
+        translation:
+          en: gather the dishes

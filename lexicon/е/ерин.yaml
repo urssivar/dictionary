@@ -1,0 +1,28 @@
+id: ZszA8Zw3oFX7QgNa8cHs
+headword: ерин
+ipa: eˈrin
+tags: [adj]
+note:
+  en: '*арин*'
+definitions:
+  - translation:
+      en: entire
+      ru: целый
+    aliases:
+      en: [total, full, complete]
+    examples:
+      - text: еринле вегул це
+        translation:
+          en: he is entirely gone
+      - text: ерин кулпет цабағив
+        translation:
+          en: the entire family arrived
+  - translation:
+      en: particular
+      ru: особенный
+    aliases:
+      en: [very]
+    examples:
+      - text: еринле музи удар
+        translation:
+          en: particularly sweet fruit

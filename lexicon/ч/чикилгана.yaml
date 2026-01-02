@@ -1,0 +1,15 @@
+id: pTmem4rUJ4rx7qt8CTfl
+headword: чикилгана
+ipa: tʃikilˈgana
+tags: [v, tr]
+forms:
+  - text: чикилгун
+    gloss: aor
+  - text: чикилгана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tie up
+      ru: завязывать
+    aliases:
+      en: [string, fasten]

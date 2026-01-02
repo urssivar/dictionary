@@ -1,0 +1,24 @@
+id: 0R4fxeK1uCWWPfLeVYZG
+headword: кабиржихара
+ipa: kabirʒiˈχara
+tags: [v, tr, cls]
+etymology:
+  en: Caus. of *кабиргара* "to sit".
+forms:
+  - text: кабижихара
+    gloss: pfv
+  - text: кабижихив
+    gloss: aor
+  - text: кабиржихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to embed
+      ru: вставлять
+    aliases:
+      en: [install, place, seat]
+  - translation:
+      en: to draw
+      ru: рисовать
+    aliases:
+      en: [paint, plot, chart]

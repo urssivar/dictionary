@@ -1,0 +1,20 @@
+id: dTPzgVTgxtKxfYmQwPvk
+headword: кьа
+ipa: ˈkʼa
+tags: [n]
+forms:
+  - text: кьа
+    gloss: sg
+  - text: кьиме
+    gloss: pl
+definitions:
+  - translation:
+      en: petal
+      ru: лепесток
+    aliases:
+      en: [leaf]
+  - translation:
+      en: amulet
+      ru: оберег
+    aliases:
+      en: [talisman]

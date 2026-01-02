@@ -1,0 +1,16 @@
+id: YjgkRqSgc9IPGOlN8ysk
+headword: ттякко
+ipa: ˈtːækːo
+tags: [n]
+forms:
+  - text: ттякко
+    gloss: sg
+  - text: ттяккне
+    gloss: pl
+definitions:
+  - translation:
+      en: donkey kid
+      ru: ослёнок
+    tags: [animal]
+    aliases:
+      en: [pony, colt, foal]

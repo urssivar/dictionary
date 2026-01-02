@@ -1,0 +1,17 @@
+id: dDM1Jra7mpXyN4gw7b5w
+headword: гумьилтьана
+ipa: gumhilˈtʼana
+tags: [v, intr]
+forms:
+  - text: гумьитьана
+    gloss: pfv
+  - text: гумьитьун
+    gloss: aor
+  - text: гумьилтьана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to worry
+      ru: волноваться
+    aliases:
+      en: [bother, excite]

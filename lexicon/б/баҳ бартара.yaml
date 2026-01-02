@@ -1,0 +1,23 @@
+id: jIzeAn2pVRh5dXyn8AOL
+headword: баҳ бартара
+ipa: ˌbax barˈtara
+tags: [v, tr, cls]
+note:
+  en: The first part is unclear.
+forms:
+  - text: баҳ батара
+    gloss: pfv
+  - text: баҳ батур
+    gloss: aor
+  - text: баҳ бартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to skip
+      ru: пропускать
+    aliases:
+      en: [leave, miss]
+    examples:
+      - text: ила дирсле даҳ мадартатте
+        translation:
+          en: don't skip your lessons

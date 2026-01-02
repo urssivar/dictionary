@@ -1,0 +1,22 @@
+id: n9yftRkO6LuiL8SgzGLs
+headword: бат булҡана
+ipa: ˌbat bulˈqana
+tags: [v, intr, cls, phr]
+forms:
+  - text: бат буҡана
+    gloss: pfv
+  - text: бат буҡун
+    gloss: aor
+  - text: бат булҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to break free
+      ru: вырываться, освобождаться
+    aliases:
+      en: [release]
+  - translation:
+      en: to have fun
+      ru: веселиться
+    aliases:
+      en: [rejoice]

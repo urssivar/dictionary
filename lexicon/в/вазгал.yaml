@@ -1,0 +1,13 @@
+id: mBJgD6y2rbRPNn6CCLIl
+headword: вазгал
+ipa: vazˈgal
+tags: [n, loan, russian]
+forms:
+  - text: вазгал
+    gloss: sg
+  - text: вазгалте
+    gloss: pl
+definitions:
+  - translation:
+      en: railway station
+      ru: вокзал

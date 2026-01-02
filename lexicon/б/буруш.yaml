@@ -1,0 +1,17 @@
+id: rWu7ksCnqOsCxyjKroHT
+headword: буруш
+ipa: buˈruʃ
+tags: [n]
+forms:
+  - text: буруш
+    gloss: sg
+  - text: буршан
+    gloss: obl
+  - text: буршме
+    gloss: pl
+definitions:
+  - translation:
+      en: mattress
+      ru: матрас
+    aliases:
+      en: [bed]

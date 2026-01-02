@@ -1,0 +1,17 @@
+id: RMPRF1E7sLcgqPd5HUy0
+headword: унхаг
+ipa: unˈχag
+tags: [n]
+etymology:
+  en: From *унх* "hollow".
+forms:
+  - text: унхаг
+    gloss: sg
+  - text: унхаге
+    gloss: pl
+definitions:
+  - translation:
+      en: cavity
+      ru: полость, дупло
+    aliases:
+      en: [hollow, cavern]

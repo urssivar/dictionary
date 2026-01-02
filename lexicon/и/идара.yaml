@@ -1,0 +1,17 @@
+id: liUYtd8kvhritE25PHYR
+headword: идара
+ipa: iˈdara
+tags: [n, loan, arabic]
+forms:
+  - text: идара
+    gloss: sg
+  - text: идарал
+    gloss: obl
+  - text: идарте
+    gloss: pl
+definitions:
+  - translation:
+      en: institution
+      ru: учреждение
+    aliases:
+      en: [office, company]

@@ -1,0 +1,19 @@
+id: e1Kjrn3bTyxcNLENgWmO
+headword: ҡьулҡьус биркара
+ipa: qʼulˌqʼus birˈkara
+tags: [v, intr, cls, phr]
+etymology:
+  en: From *ҡьоҡь* "knee".
+note:
+  en: '*ҡьуҡьмус*, *ҡьулҡьмус*'
+forms:
+  - text: ҡьулҡьус бикара
+    gloss: pfv
+  - text: ҡьулҡьус бичив
+    gloss: aor
+  - text: ҡьулҡьус биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to kneel
+      ru: вставать на колени

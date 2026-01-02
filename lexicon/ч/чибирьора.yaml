@@ -1,0 +1,21 @@
+id: tF74Ki32pQiiHS4qwZF1
+headword: чибирьора
+ipa: tʃibirˈhora
+tags: [v, intr, cls]
+forms:
+  - text: чибиьора
+    gloss: pfv
+  - text: чибиьяв
+    gloss: aor
+  - text: чибирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fight
+      ru: драться
+    aliases:
+      en: [brawl]
+    examples:
+      - text: хвя чибиьяв дуццил
+        translation:
+          en: the dog fought me

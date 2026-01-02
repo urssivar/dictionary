@@ -1,0 +1,24 @@
+id: tEiIMyPQ2uReWzytLu4C
+headword: урхам
+ipa: urˈχam
+tags: [n]
+etymology:
+  en: Likely shares the root with *урха* "mill".
+forms:
+  - text: урхам
+    gloss: sg
+  - text: урхамте
+    gloss: pl
+definitions:
+  - translation:
+      en: millstone
+      ru: жернов
+    tags: [tool]
+    aliases:
+      en: [grind]
+  - translation:
+      en: grindstone
+      ru: точило
+    tags: [tool]
+    aliases:
+      en: [sharpener]

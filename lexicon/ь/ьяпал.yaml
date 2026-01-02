@@ -1,0 +1,16 @@
+id: FDz5EILgZZHjHPHj2ovI
+headword: ьяпал
+ipa: hæˈpal
+tags: [n]
+forms:
+  - text: ьяпал
+    gloss: sg
+  - text: ьяпле
+    gloss: pl
+definitions:
+  - translation:
+      en: hayrick
+      ru: копна
+    tags: [agriculture]
+    aliases:
+      en: [hay]

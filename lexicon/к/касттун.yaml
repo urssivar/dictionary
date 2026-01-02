@@ -1,0 +1,18 @@
+id: lb2mJ3HSFjDozA3laCej
+headword: касттун
+ipa: kasˈtːun
+tags: [n, loan, russian]
+forms:
+  - text: касттун
+    gloss: sg
+  - text: касттунте
+    gloss: pl
+definitions:
+  - translation:
+      en: suit
+      ru: костюм
+    tags: [clothing]
+  - translation:
+      en: blazer
+      ru: пиджак
+    tags: [clothing]

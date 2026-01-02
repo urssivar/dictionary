@@ -1,0 +1,17 @@
+id: ooJuqS4cEAaTgA8aLOay
+headword: чибалсана
+ipa: tʃibalˈsana
+tags: [v, tr, cls]
+forms:
+  - text: чабасана
+    gloss: pfv
+  - text: чибасун
+    gloss: aor
+  - text: чибалсана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stick
+      ru: приклеивать
+    aliases:
+      en: [stick, attach]

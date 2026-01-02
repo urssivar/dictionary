@@ -1,0 +1,19 @@
+id: VfvKl8Ga300HT5KFMcns
+headword: луғ руккара
+ipa: ˌluʁ ruˈkːara
+tags: [v, intr, cls, phr]
+note:
+  en: '*луғ бергара*'
+forms:
+  - text: луғ берккора
+    gloss: pfv
+  - text: луғ берккур
+    gloss: aor
+  - text: луғ руккара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to wilt
+      ru: вянуть
+    aliases:
+      en: [dry, weak]

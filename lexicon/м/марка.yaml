@@ -1,0 +1,20 @@
+id: qfio7QdYo2kvSGYND2AW
+headword: марка
+ipa: ˈmarka
+tags: [n]
+forms:
+  - text: марка
+    gloss: sg
+  - text: маркан
+    gloss: obl
+  - text: миркне
+    gloss: pl
+definitions:
+  - translation:
+      en: rain
+      ru: дождь
+    tags: [nature]
+    examples:
+      - text: марка кабаҳул це
+        translation:
+          en: it's raining

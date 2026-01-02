@@ -1,0 +1,16 @@
+id: I5Xq3cZvlin5FHVpjmmf
+headword: дигитан
+ipa: digiˈtan
+tags: [n, nmlz]
+forms:
+  - text: дигитан
+    gloss: sg
+  - text: дигитанте
+    gloss: pl
+definitions:
+  - translation:
+      en: meat grinder
+      ru: мясорубка
+    tags: [tool]
+    aliases:
+      en: [mincer]

@@ -1,0 +1,14 @@
+id: I2KZzdDfLXtD566zFFMT
+headword: ядийал
+ipa: ædiˈjal
+tags: [n, loan, russian]
+forms:
+  - text: ядийал
+    gloss: sg
+  - text: ядийалте
+    gloss: pl
+definitions:
+  - translation:
+      en: blanket
+      ru: одеяло
+    tags: [clothing]

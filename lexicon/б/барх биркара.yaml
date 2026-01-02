@@ -1,0 +1,19 @@
+id: Mhl85gkN4GdSOYhTZArU
+headword: барх биркара
+ipa: ˌbarχ birˈkara
+tags: [v, phr, intr, case]
+note:
+  en: '*барх бирццара*'
+forms:
+  - text: барх бикара
+    gloss: pfv
+  - text: барх бичив
+    gloss: aor
+  - text: барх биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to join
+      ru: присоединяться
+    aliases:
+      en: [enter]

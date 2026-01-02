@@ -1,0 +1,33 @@
+id: rD0Jlug7z5VzIQtXQPKm
+headword: курғара
+ipa: kurˈʁara
+tags: [v, tr]
+forms:
+  - text: кағара
+    gloss: pfv
+  - text: кағив
+    gloss: aor
+  - text: курғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to set
+      ru: располагать
+    aliases:
+      en: [place, situate]
+    examples:
+      - text: машин ижин кағара
+        translation:
+          en: park the car here
+      - text: бекь буццара кағив
+        translation:
+          en: turned on his head
+  - translation:
+      en: to make do
+      ru: заставлять
+    aliases:
+      en: [force]
+    examples:
+      - text: улчьана кағив
+        translation:
+          en: made him study

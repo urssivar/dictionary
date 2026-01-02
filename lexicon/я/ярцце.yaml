@@ -1,0 +1,18 @@
+id: scaTug1J5pQ3L5B1Bh5A
+headword: ярцце
+ipa: ˈærtsːe
+tags: [n]
+note:
+  en: '*ьиць* (?)'
+forms:
+  - text: ярцце
+    gloss: sg
+  - text: ярццин
+    gloss: obl
+definitions:
+  - translation:
+      en: greater burdock
+      ru: репейник
+    tags: [nature, plant]
+    aliases:
+      en: [arctium, lappa]

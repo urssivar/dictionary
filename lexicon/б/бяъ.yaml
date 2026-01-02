@@ -1,0 +1,22 @@
+id: 0MdeZh4cMvPZ25eztxKV
+headword: бяъ
+ipa: ˈbæʔ
+tags: [n]
+forms:
+  - text: бяъ
+    gloss: sg
+  - text: бяъя
+    gloss: obl
+  - text: бяъре
+    gloss: pl
+definitions:
+  - translation:
+      en: surface
+      ru: поверхность
+    aliases:
+      en: [wall]
+  - translation:
+      en: sheet
+      ru: лист
+    aliases:
+      en: [page]

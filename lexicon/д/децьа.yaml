@@ -1,0 +1,20 @@
+id: tGcx2OENdQax0kgUm0Yv
+headword: децьа
+ipa: ˈdetsʼa
+tags: [n]
+forms:
+  - text: децьа
+    gloss: sg
+  - text: децьирбе
+    gloss: pl
+definitions:
+  - translation:
+      en: despair
+      ru: отчаяние
+    tags: [emotion]
+    aliases:
+      en: [trouble, depression, sorrow]
+    examples:
+      - text: децьирбал децьирбе аккун ациҡҡу
+        translation:
+          en: despair brings only despair

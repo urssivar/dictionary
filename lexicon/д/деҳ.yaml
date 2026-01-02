@@ -1,0 +1,18 @@
+id: oquGx7kDQICeDbZNDjK5
+headword: деҳ
+ipa: ˈdex
+tags: [n]
+forms:
+  - text: деҳ
+    gloss: sg
+  - text: деҳо
+    gloss: obl
+  - text: диҳбе
+    gloss: pl
+definitions:
+  - translation:
+      en: beam
+      ru: балка
+    tags: [tool]
+    aliases:
+      en: [wood]

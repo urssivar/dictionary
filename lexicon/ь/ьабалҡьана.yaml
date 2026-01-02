@@ -1,0 +1,17 @@
+id: ZRV8F67QwXEnuZCuyUvp
+headword: ьабалҡьана
+ipa: habalˈqʼana
+tags: [v, lbl, cls]
+forms:
+  - text: ьабаҡьана
+    gloss: pfv
+  - text: ьабаҡьун
+    gloss: aor
+  - text: ьабалҡьана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to disturb
+      ru: тормошить
+    aliases:
+      en: [bother]

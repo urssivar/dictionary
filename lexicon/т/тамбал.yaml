@@ -1,0 +1,15 @@
+id: sVy9hhMidvubw0rTImgL
+headword: тамбал
+ipa: tamˈbal
+tags: [n]
+forms:
+  - text: тамбал
+    gloss: sg
+  - text: тамбалте
+    gloss: pl
+definitions:
+  - translation:
+      en: slacker
+      ru: бездельник
+    aliases:
+      en: [idler, lazy]

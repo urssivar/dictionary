@@ -1,0 +1,17 @@
+id: j0Rsaiyee1sOR3CbMQG6
+headword: цабурхара
+ipa: tsaburˈχara
+tags: [v, cls, intr]
+forms:
+  - text: цаберхора
+    gloss: pfv
+  - text: цаберхур
+    gloss: aor
+  - text: цабурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be active
+      ru: проворничать, действовать
+    aliases:
+      en: [nimble, act, dare]

@@ -1,0 +1,18 @@
+id: UkXsg8G4gv77LB6zykLS
+headword: дяв
+ipa: ˈdæv
+tags: [n, loan, arabic]
+forms:
+  - text: дяв
+    gloss: sg
+  - text: дявте
+    gloss: pl
+definitions:
+  - translation:
+      en: war
+      ru: война
+    aliases:
+      en: [conflict]
+  - translation:
+      en: conflict
+      ru: конфликт

@@ -1,0 +1,15 @@
+id: so9cAmgUF15sA7dVtlDO
+headword: рурцьара
+ipa: rurˈtsʼara
+tags: [v, intr]
+forms:
+  - text: рурцьив
+    gloss: aor
+  - text: рурцьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sting
+      ru: щипеть
+    aliases:
+      en: [hurt]

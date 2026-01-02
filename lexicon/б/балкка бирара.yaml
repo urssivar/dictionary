@@ -1,0 +1,17 @@
+id: wBPLukg5WpaV4pKrRsHh
+headword: балкка бирара
+ipa: ˌbalkːa biˈrara
+tags: [v, tr, phr]
+forms:
+  - text: балкка барара
+    gloss: pfv
+  - text: балкка барив
+    gloss: aor
+  - text: балкка бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pray
+      ru: молить
+    aliases:
+      en: [supplicate]

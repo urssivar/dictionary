@@ -1,0 +1,17 @@
+id: RcBqYiv6HnBfbb755CTw
+headword: мяғя биркара
+ipa: mæˌʁæ birˈkara
+tags: [v, cls, intr, phr]
+forms:
+  - text: мяғя бикара
+    gloss: pfv
+  - text: мяғя бичив
+    gloss: aor
+  - text: мяғя биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lag
+      ru: отставать
+    aliases:
+      en: [fall, behind]

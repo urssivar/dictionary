@@ -1,0 +1,21 @@
+id: KteR9fITBEEXckXqOwzQ
+headword: пьяць
+ipa: ˈpʼætsʼ
+tags: [n, adj]
+forms:
+  - text: пьяць
+    gloss: sg
+  - text: пьяцьне
+    gloss: pl
+definitions:
+  - translation:
+      en: imprint
+      ru: отпечаток
+    aliases:
+      en: [stamp, mark, print]
+  - translation:
+      en: sticky
+      ru: липкий
+  - translation:
+      en: flat
+      ru: плоский

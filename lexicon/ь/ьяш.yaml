@@ -1,0 +1,20 @@
+id: f3oj9gfZC1F24AjFxeBx
+headword: ьяш
+ipa: ˈhæʃ
+tags: [n, loan, arabic]
+etymology:
+  en: Possibly contraction of *ьяжат* "need".
+forms:
+  - text: ьяш
+    gloss: sg
+  - text: ьяшан
+    gloss: loc
+  - text: ьяшре
+    gloss: pl
+definitions:
+  - translation:
+      en: toilet
+      ru: туалет
+    tags: [house]
+    aliases:
+      en: [wc]

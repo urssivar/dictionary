@@ -1,0 +1,27 @@
+id: 9Vy7uzqKMf2ikNjaWfv5
+headword: чев
+ipa: ˈtʃev
+tags: [adj]
+etymology:
+  en: Related to *че* "on". Semantically corresponds to English suffix -ful.
+forms:
+  - text: чев
+    gloss: adj
+  - text: челле
+    gloss: adv
+definitions:
+  - translation:
+      en: with
+      ru: с, имеющий
+    aliases:
+      en: [ful, having]
+    examples:
+      - text: йяь чев
+        translation:
+          en: honorous
+      - text: ирхе чев
+        translation:
+          en: fearful
+      - text: арц челле вя
+        translation:
+          en: go with money

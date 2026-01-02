@@ -1,0 +1,17 @@
+id: 2wbhYntM9iOBs6PHavBc
+headword: пикре биргара
+ipa: ˌpikre birˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: пикре бигара
+    gloss: pfv
+  - text: пикре бижив
+    gloss: aor
+  - text: пикре биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to ponder
+      ru: размышлять
+    aliases:
+      en: [think, consider]

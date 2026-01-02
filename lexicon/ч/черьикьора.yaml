@@ -1,0 +1,17 @@
+id: fRuFtSLgvuNA2Etx8ClV
+headword: черьикьора
+ipa: tʃerhiˈkʼora
+tags: [v, intr]
+forms:
+  - text: черьакьора
+    gloss: pfv
+  - text: черьачьур
+    gloss: aor
+  - text: черьикьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to branch out
+      ru: отпочковываться
+    aliases:
+      en: [split]

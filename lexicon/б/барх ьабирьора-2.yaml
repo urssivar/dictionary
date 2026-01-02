@@ -1,0 +1,17 @@
+id: eoslVeT81jNTCg9vsyid
+headword: барх ьабирьора
+ipa: ˌbarχ habirˈhora
+tags: [v, intr, cls, phr]
+forms:
+  - text: барх ьабиьора
+    gloss: pfv
+  - text: барх ьабиьяв
+    gloss: aor
+  - text: барх ьабирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to confuse
+      ru: запутываться
+    aliases:
+      en: [tangle, snarl]

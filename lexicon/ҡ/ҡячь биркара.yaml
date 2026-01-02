@@ -1,0 +1,17 @@
+id: FoDyBunIZBJPpAwG7OTt
+headword: ҡячь биркара
+ipa: ˌqætʃʼ birˈkara
+tags: [v, intr, cls, phr]
+forms:
+  - text: ҡячь бикара
+    gloss: pfv
+  - text: ҡячь бичив
+    gloss: aor
+  - text: ҡячь биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hasten
+      ru: торопиться
+    aliases:
+      en: [speed, hurry]

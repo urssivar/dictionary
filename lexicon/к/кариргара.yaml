@@ -1,0 +1,22 @@
+id: tAwFPY7zJo2bg1YRsGr3
+headword: кариргара
+ipa: karirˈgara
+tags: [v, tr]
+etymology:
+  en: Female class *кабиргара* "to sit".
+note:
+  en: '*ҳулум кариргара*'
+forms:
+  - text: каригара
+    gloss: pfv
+  - text: карижив
+    gloss: aor
+  - text: кариргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to marry (a woman)
+      ru: брать в жёны
+    tags: [kinship]
+    aliases:
+      en: [wife]

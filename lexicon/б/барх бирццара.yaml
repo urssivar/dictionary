@@ -1,0 +1,17 @@
+id: N58JzTRQ3vERBB7hp45s
+headword: барх бирццара
+ipa: ˌbarχ birˈtsːara
+tags: [v, cls, intr, phr]
+forms:
+  - text: барх биццара
+    gloss: pfv
+  - text: барх биццур
+    gloss: aor
+  - text: барх бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get used to
+      ru: свыкаться
+    aliases:
+      en: [come, to, terms]

@@ -1,0 +1,17 @@
+id: 8eBYuI102e75veXIkYal
+headword: рурцара
+ipa: rurˈtsara
+tags: [v, tr]
+forms:
+  - text: руцара
+    gloss: pfv
+  - text: руцив
+    gloss: aor
+  - text: рурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to betroth
+      ru: помолвить
+    aliases:
+      en: [woo, engage]

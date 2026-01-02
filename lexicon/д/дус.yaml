@@ -1,0 +1,16 @@
+id: pKRD9rPidYrBrHtJfJet
+headword: дус
+ipa: ˈdus
+tags: [n]
+forms:
+  - text: дус
+    gloss: sg
+  - text: дусе
+    gloss: obl
+  - text: дусме
+    gloss: pl
+definitions:
+  - translation:
+      en: year
+      ru: год
+    tags: [time]

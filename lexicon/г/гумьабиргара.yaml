@@ -1,0 +1,19 @@
+id: HI4Y0yiZ7U9ERX9AkP1K
+headword: гумьабиргара
+ipa: gumhabirˈgara
+tags: [v, intr, cls]
+note:
+  en: There's also *гумьабартара* for transitive.
+forms:
+  - text: гумьабигара
+    gloss: pfv
+  - text: гумьабижив
+    gloss: aor
+  - text: гумьабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to position oneself for feeding
+      ru: расположиться для кормления
+    aliases:
+      en: [milk]

@@ -1,0 +1,17 @@
+id: d99iOy28MGOexFZxbjA3
+headword: бакк уттара
+ipa: ˌbakː uˈtːara
+tags: [v, cls, intr, phr]
+forms:
+  - text: бакк берттара
+    gloss: pfv
+  - text: бакк берттив
+    gloss: aor
+  - text: бакк уттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to burst
+      ru: лопаться
+    aliases:
+      en: [explode, rip]

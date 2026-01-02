@@ -1,0 +1,17 @@
+id: wORmsCT402j10y2LjjNP
+headword: берккола
+ipa: berˈkːola
+tags: [n, nmlz]
+forms:
+  - text: берккола
+    gloss: sg
+  - text: берккле
+    gloss: obl
+  - text: беркклуме
+    gloss: pl
+definitions:
+  - translation:
+      en: scroll
+      ru: свиток
+    aliases:
+      en: [roll]

@@ -1,0 +1,16 @@
+id: 8mf8DzepbDoBa31BiHJu
+headword: дис
+ipa: ˈdis
+tags: [n]
+forms:
+  - text: дис
+    gloss: sg
+  - text: дису
+    gloss: obl
+  - text: дисбе
+    gloss: pl
+definitions:
+  - translation:
+      en: knife
+      ru: нож
+    tags: [tool]

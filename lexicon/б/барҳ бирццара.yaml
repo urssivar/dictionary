@@ -1,0 +1,30 @@
+id: 9ffcs8D2K2Dw8ZjpfQy0
+headword: барҳ бирццара
+ipa: ˌbarx birˈtsːara
+tags: [v, phr, cls, intr]
+forms:
+  - text: барҳ биццара
+    gloss: pfv
+  - text: барҳ биццур
+    gloss: aor
+  - text: барҳ бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to suit
+      ru: соответствовать
+    aliases:
+      en: [agree, correspond]
+    examples:
+      - text: дул баривил ьелей барҳ биццур
+        translation:
+          en: what i did suited him
+  - translation:
+      en: to fulfill
+      ru: сбываться
+    aliases:
+      en: [come, 'true']
+    examples:
+      - text: дила мижен барҳ биццур
+        translation:
+          en: my dream came true

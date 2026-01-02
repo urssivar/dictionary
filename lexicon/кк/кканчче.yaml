@@ -1,0 +1,18 @@
+id: 5hpVxpQFUnT1RqdT51VX
+headword: кканчче
+ipa: ˈkːantʃːe
+tags: [n]
+forms:
+  - text: кканчче
+    gloss: sg
+  - text: кканччин
+    gloss: obl
+  - text: кканччиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: fang
+      ru: клык
+    tags: [body]
+    aliases:
+      en: [tooth]

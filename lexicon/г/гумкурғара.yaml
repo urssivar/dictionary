@@ -1,0 +1,26 @@
+id: US88TmHuk3Mf7BYGy88w
+headword: гумкурғара
+ipa: gumkurˈʁara
+tags: [v, tr]
+forms:
+  - text: гумкағара
+    gloss: pfv
+  - text: гумкағив
+    gloss: aor
+  - text: гумкурғара
+    gloss: ipfv
+definitions:
+  - note:
+      en: For something negative.
+    translation:
+      en: to induce
+      ru: склонять
+    aliases:
+      en: [convince, reason, persuade]
+  - note:
+      en: Also *учекурғара*.
+    translation:
+      en: to ruin
+      ru: рушить
+    aliases:
+      en: [destroy]

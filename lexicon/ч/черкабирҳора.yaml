@@ -1,0 +1,17 @@
+id: CvAsarNNW7KxZodJa5dN
+headword: черкабирҳора
+ipa: tʃerkabirˈxora
+tags: [v, cls, tr]
+forms:
+  - text: черкабиҳора
+    gloss: pfv
+  - text: черкабишур
+    gloss: aor
+  - text: черкабирҳора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to terminate
+      ru: расторгать
+    aliases:
+      en: [cancel, dissolve]

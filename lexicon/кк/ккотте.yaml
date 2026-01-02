@@ -1,0 +1,16 @@
+id: 6LdGYBVxZaE9ckwkcEkJ
+headword: ккотте
+ipa: kːoˈtːe
+tags: [ptcl]
+note:
+  en: '*ккол*, *кко*'
+definitions:
+  - translation:
+      en: right?
+      ru: же
+    aliases:
+      en: [but, and]
+    examples:
+      - text: баривде ккотте
+        translation:
+          en: you did it, right?

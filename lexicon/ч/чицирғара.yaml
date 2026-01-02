@@ -1,0 +1,15 @@
+id: ywmpyUnWt8lOUeTtWBhv
+headword: чицирғара
+ipa: tʃitsirˈʁara
+tags: [v, intr]
+forms:
+  - text: чицирғив
+    gloss: aor
+  - text: чицирғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to regain consciousness
+      ru: приходить в сознание
+    aliases:
+      en: [wake, revive]

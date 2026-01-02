@@ -1,0 +1,19 @@
+id: FB4lpYqg6ixSDG2gwN04
+headword: кабаҳара
+ipa: kabaˈxara
+tags: [v, intr, cls]
+forms:
+  - text: кабашив
+    gloss: aor
+  - text: кабаҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to precipitate
+      ru: выпадать
+    aliases:
+      en: [fall, emit]
+    examples:
+      - text: марка кадаҳул це
+        translation:
+          en: it is raining

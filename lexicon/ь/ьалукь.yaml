@@ -1,0 +1,14 @@
+id: fqKKXQKjFEHNq0RAYhtK
+headword: ьалукь
+ipa: haˈlukʼ
+tags: [n]
+forms:
+  - text: ьалукь
+    gloss: sg
+  - text: ьалукье
+    gloss: pl
+definitions:
+  - translation:
+      en: crowbar
+      ru: лом
+    tags: [tool]

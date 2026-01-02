@@ -1,0 +1,16 @@
+id: bCRDVoQgnCsrot35k9Vu
+headword: дуцца
+ipa: ˈdutsːa
+tags: [n]
+forms:
+  - text: дуцца
+    gloss: sg
+  - text: дуццан
+    gloss: loc
+  - text: дуццурбе
+    gloss: pl
+definitions:
+  - translation:
+      en: forest
+      ru: лес
+    tags: [nature]

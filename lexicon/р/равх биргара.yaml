@@ -1,0 +1,17 @@
+id: oxsAXegmMturS9hoTOFS
+headword: равх биргара
+ipa: ˌravχ birˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: равх бигара
+    gloss: pfv
+  - text: равх бижив
+    gloss: ipfv
+  - text: равх биргара
+    gloss: aor
+definitions:
+  - translation:
+      en: to combust
+      ru: воспламеняться
+    aliases:
+      en: [burn, ignite, fire]

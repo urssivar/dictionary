@@ -1,0 +1,17 @@
+id: TDsyBwZGhPMG110ZMP9T
+headword: лус цабиргара
+ipa: ˌlus tsabirˈgara
+tags: [v, cls, intr, phr]
+forms:
+  - text: лус цабигара
+    gloss: pfv
+  - text: лус цабигара
+    gloss: aor
+  - text: лус цабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to side
+      ru: примыкать
+    aliases:
+      en: [ally]

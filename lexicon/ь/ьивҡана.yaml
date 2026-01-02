@@ -1,0 +1,20 @@
+id: 0XDSEhN2QhiJVQw7cJhB
+headword: ьивҡана
+ipa: hivˈqana
+tags: [v, tr]
+forms:
+  - text: ьивҡун
+    gloss: aor
+  - text: ьивҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to suspend
+      ru: подвешивать
+    aliases:
+      en: [hang]
+  - translation:
+      en: to execute by hanging
+      ru: казнить через повешение
+    aliases:
+      en: [kill]

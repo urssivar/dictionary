@@ -1,0 +1,18 @@
+id: CNfe5eCxz9vXkTNs6awq
+headword: силмикк
+ipa: silˈmikː
+tags: [n]
+forms:
+  - text: силмикк
+    gloss: sg
+  - text: силмикко
+    gloss: obl
+definitions:
+  - translation:
+      en: hazelnut
+      ru: фундук
+    tags: [food]
+  - translation:
+      en: hazel
+      ru: лещина
+    tags: [nature, tree]

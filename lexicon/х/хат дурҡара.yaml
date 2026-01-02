@@ -1,0 +1,17 @@
+id: 5EFjEJXhWTULXhlSf1Vw
+headword: хат дурҡара
+ipa: ˌχat durˈqara
+tags: [v, tr]
+forms:
+  - text: хат дяҡара
+    gloss: pfv
+  - text: хат дяҡив
+    gloss: aor
+  - text: хат дурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to clap
+      ru: хлопать
+    aliases:
+      en: [applaude]

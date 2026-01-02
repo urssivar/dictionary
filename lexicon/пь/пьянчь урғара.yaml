@@ -1,0 +1,17 @@
+id: gYLEiNEsGA9YtLmD173M
+headword: пьянчь урғара
+ipa: ˌpʼæntʃʼ urˈʁara
+tags: [v, tr, phr]
+forms:
+  - text: пьянчь ағара
+    gloss: aor
+  - text: пьянчь ағив
+    gloss: aor
+  - text: пьянчь урғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pop
+      ru: выдавливать
+    aliases:
+      en: [squeeze]

@@ -1,0 +1,15 @@
+id: YVL207zAYBY2CKPVLdhm
+headword: киҡҡора
+ipa: kiˈqːora
+tags: [v, tr, cls]
+forms:
+  - text: кабирҡҡора
+    gloss: pfv
+  - text: кабирҡҡур
+    gloss: aor
+  - text: киҡҡора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dig
+      ru: копать

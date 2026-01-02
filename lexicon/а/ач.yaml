@@ -1,0 +1,16 @@
+id: 8XsotvXd3ljVqr0rEBnJ
+headword: ач
+ipa: ˈatʃ
+tags: [adj, loan, turkic]
+note:
+  en: '*яч*'
+definitions:
+  - translation:
+      en: open
+      ru: открытый
+    aliases:
+      en: [unblock, access]
+    examples:
+      - text: уцца ач дара
+        translation:
+          en: open the door

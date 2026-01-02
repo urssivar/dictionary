@@ -1,0 +1,17 @@
+id: Fac2uNDqufLVOWhwbEpM
+headword: бургула
+ipa: burˈgula
+tags: [n]
+forms:
+  - text: бургула
+    gloss: sg
+  - text: бургле
+    gloss: obl
+  - text: бурглиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: lair
+      ru: логово
+    aliases:
+      en: [lie, camp]

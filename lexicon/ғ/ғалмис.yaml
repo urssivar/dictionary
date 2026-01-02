@@ -1,0 +1,16 @@
+id: zmchzuvpdnNtMcy859fF
+headword: ғалмис
+ipa: ʁalˈmis
+tags: [n]
+forms:
+  - text: ғалмис
+    gloss: sg
+  - text: ғалмисе
+    gloss: pl
+definitions:
+  - translation:
+      en: hanging loop
+      ru: петля для подвешивания
+    tags: [tool]
+    aliases:
+      en: [hinge]

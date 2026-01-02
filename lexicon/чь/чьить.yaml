@@ -1,0 +1,17 @@
+id: mAspjzf98awDGcIvhGLr
+headword: чьить
+ipa: tʃʼiˈtʼ
+tags: [n]
+note:
+  en: '*замар*'
+forms:
+  - text: чьитьа
+    gloss: sg
+  - text: чьитьан
+    gloss: obl, loc
+definitions:
+  - translation:
+      en: chimney
+      ru: дымоход
+    aliases:
+      en: [vent]

@@ -1,0 +1,26 @@
+id: NR0l93DeHQdhhSHD1W5u
+headword: биркара
+ipa: birˈkara
+tags: [v, intr, cls]
+forms:
+  - text: бикара
+    gloss: pfv
+  - text: бичив
+    gloss: aor
+  - text: биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to receive
+      ru: получать
+    aliases:
+      en: [get]
+  - translation:
+      en: to occur
+      ru: наступать
+    aliases:
+      en: [turn, arrive]
+    examples:
+      - text: сяят швел дичил це
+        translation:
+          en: it's 5 o'clock already

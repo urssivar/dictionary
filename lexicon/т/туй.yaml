@@ -1,0 +1,15 @@
+id: eJCv6AIHMSuEvrqZD0JQ
+headword: туй
+ipa: ˈtuj
+tags: [n, loan, turkic]
+forms:
+  - text: туй
+    gloss: sg
+  - text: туйре
+    gloss: pl
+definitions:
+  - translation:
+      en: banquet
+      ru: банкет
+    aliases:
+      en: [feast, wedding, celebration]

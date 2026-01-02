@@ -1,0 +1,15 @@
+id: 16qkLP4ZjoWyv6im90XQ
+headword: яра
+ipa: ˈæra
+tags: [n]
+forms:
+  - text: яра
+    gloss: sg
+  - text: яран
+    gloss: obl
+definitions:
+  - translation:
+      en: mud
+      ru: грязь
+    aliases:
+      en: [slush]

@@ -1,0 +1,17 @@
+id: QJQZCw2KQc0TpF2G6gjD
+headword: рази биркара
+ipa: raˈzi birˌkara
+tags: [v, intr, cls]
+forms:
+  - text: рази бикара
+    gloss: pfv
+  - text: рази бичив
+    gloss: aor
+  - text: рази биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to agree
+      ru: соглашаться
+    aliases:
+      en: [accept, consent]

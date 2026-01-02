@@ -1,0 +1,22 @@
+id: tk84htSpOZFdxxp0stsw
+headword: сук биркара
+ipa: ˌsuk birˈkara
+tags: [v, cls, phr, intr]
+forms:
+  - text: сук бикара
+    gloss: pfv
+  - text: сук бичив
+    gloss: aor
+  - text: сук биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to match
+      ru: совпадать, сходиться
+    aliases:
+      en: [suit, fit, correspond]
+  - translation:
+      en: to get in touch
+      ru: связываться, контактировать
+    aliases:
+      en: [see, meet, contact]

@@ -1,0 +1,19 @@
+id: LYq7AXSLbnr2NIpu96Yo
+headword: чидирара
+ipa: tʃidiˈrara
+tags: [v, tr]
+note:
+  en: Frozen class.
+forms:
+  - text: чидарара
+    gloss: pfv
+  - text: чидарив
+    gloss: aor
+  - text: чидирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to imitate
+      ru: подражать
+    aliases:
+      en: [pretend]

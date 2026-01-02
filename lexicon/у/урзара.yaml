@@ -1,0 +1,23 @@
+id: CGciYcjS0m9s58RJx3zj
+headword: урзара
+ipa: urˈzara
+tags: [v, intr]
+note:
+  en: '*ерзур* (AOR)'
+forms:
+  - text: ерзара
+    gloss: pfv
+  - text: ерзив
+    gloss: aor
+  - text: урзара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to erode
+      ru: разъедать
+    aliases:
+      en: [chaf]
+    examples:
+      - text: вачагла ҡьулҡьуппе ерзил це
+        translation:
+          en: the pants' knees are eroded

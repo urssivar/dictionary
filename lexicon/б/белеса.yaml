@@ -1,0 +1,20 @@
+id: 0Tbt7IeQ4gmT61yvQEnB
+headword: белеса
+ipa: beˈlesːa
+tags: [n, nmlz]
+etymology:
+  en: Probably from *лусана* "to twist".
+note:
+  en: '*биласа*'
+forms:
+  - text: белеса
+    gloss: sg
+  - text: белсан
+    gloss: obl
+  - text: билсме
+    gloss: pl
+definitions:
+  - translation:
+      en: twisted bracelet
+      ru: крученый браслет
+    tags: [clothing]

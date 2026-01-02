@@ -1,0 +1,17 @@
+id: 8PD5iyKSiPwbV8Bid3gk
+headword: чямҡра бирара
+ipa: tʃæmqˌra biˈrara
+tags: [v, cls, tr]
+forms:
+  - text: чямҡра барара
+    gloss: pfv
+  - text: чямҡра барив
+    gloss: aor
+  - text: чямҡра бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to churn
+      ru: взбивать
+    aliases:
+      en: [stir]

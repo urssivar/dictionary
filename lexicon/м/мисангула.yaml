@@ -1,0 +1,18 @@
+id: g4rga5v0hRlNqgLiHZ64
+headword: мисангула
+ipa: misanˈgula
+tags: [n]
+forms:
+  - text: мисангула
+    gloss: sg
+  - text: мисангулал
+    gloss: obl
+  - text: мисангулабе
+    gloss: pl
+definitions:
+  - translation:
+      en: bit (horse)
+      ru: удила
+    tags: [tool]
+    aliases:
+      en: [horse, mouth]

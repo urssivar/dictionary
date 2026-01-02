@@ -1,0 +1,17 @@
+id: FInjTa3WANvO00BRdDs7
+headword: хус уттара
+ipa: ˌχus uˈtːara
+tags: [v, intr, cls, phr]
+forms:
+  - text: хус берттара
+    gloss: pfv
+  - text: хус берттив
+    gloss: aor
+  - text: хус уттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to slide off
+      ru: соскальзывать
+    aliases:
+      en: [down]

@@ -1,0 +1,17 @@
+id: wEXlAbecYONgnC92xV3p
+headword: ҡьуть дирара
+ipa: ˌqʼutʼ diˈrara
+tags: [v, tr, phr]
+note:
+  en: '*ҡьуть бикьора*'
+forms:
+  - text: ҡьуть дарара
+    gloss: pfv
+  - text: ҡьуть дарив
+    gloss: aor
+  - text: ҡьуть дирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to knock
+      ru: стучать

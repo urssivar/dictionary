@@ -1,0 +1,18 @@
+id: hcyrjvYfrKSwLefuJQox
+headword: мирҡьал
+ipa: ˈmirqʼal
+tags: [n]
+note:
+  en: '*шурҡь*'
+forms:
+  - text: мирҡьал
+    gloss: sg
+  - text: мирҡьле
+    gloss: obl
+definitions:
+  - translation:
+      en: wormwood
+      ru: полынь
+    tags: [nature, plant, grass]
+    aliases:
+      en: [artemisia, sagebrush]

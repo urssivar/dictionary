@@ -1,0 +1,16 @@
+id: haDnUfO9NSQDauId2rzd
+headword: чакма
+ipa: ˈtʃakma
+tags: [n, loan]
+forms:
+  - text: чакма
+    gloss: sg
+  - text: чакмал
+    gloss: obl
+  - text: чакмунде
+    gloss: pl
+definitions:
+  - translation:
+      en: riding boot
+      ru: сапог
+    tags: [clothing]

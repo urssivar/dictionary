@@ -1,0 +1,17 @@
+id: WR9sHFWAU1Hj8y5fR4h7
+headword: мяркка
+ipa: mærˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: мяркка
+    gloss: sg
+  - text: мярккан
+    gloss: obl
+  - text: мярккне
+    gloss: pl
+definitions:
+  - translation:
+      en: brand
+      ru: марка
+    aliases:
+      en: [brand, mark]

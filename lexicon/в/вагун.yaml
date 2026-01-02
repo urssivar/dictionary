@@ -1,0 +1,15 @@
+id: XS0RaBKUFojdS7W5BsRB
+headword: вагун
+ipa: vaˈgun
+tags: [n, loan, russian]
+forms:
+  - text: вагун
+    gloss: sg
+  - text: вагунте
+    gloss: pl
+definitions:
+  - translation:
+      en: railcar
+      ru: вагон
+    aliases:
+      en: [railroad, wagon, carriage, truck]

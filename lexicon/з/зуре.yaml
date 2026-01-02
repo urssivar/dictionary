@@ -1,0 +1,16 @@
+id: z225iF0yiOWXe4wuSoFD
+headword: зуре
+ipa: ˈzure
+tags: [n]
+forms:
+  - text: зуре
+    gloss: sg
+  - text: зурин
+    gloss: obl
+  - text: зурме
+    gloss: pl
+definitions:
+  - translation:
+      en: star
+      ru: звезда
+    tags: [nature]

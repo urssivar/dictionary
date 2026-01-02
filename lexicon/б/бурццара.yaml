@@ -1,0 +1,26 @@
+id: gqA92Rt5Q3VrGjCIAh7i
+headword: бурццара
+ipa: burˈtsːara
+tags: [v, intr, cls]
+forms:
+  - text: барццара
+    gloss: pfv
+  - text: барццур
+    gloss: aor
+  - text: бурццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get tired
+      ru: уставать
+    aliases:
+      en: [fatigue]
+  - translation:
+      en: to stall
+      ru: застаиваться
+    aliases:
+      en: [still, halt, stop]
+    examples:
+      - text: дарццур шин
+        translation:
+          en: still water

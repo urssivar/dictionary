@@ -1,0 +1,17 @@
+id: n8ApAwXWYPt0N0mXnjy8
+headword: цурсара
+ipa: tsurˈsːara
+tags: [v, tr]
+forms:
+  - text: цасара
+    gloss: pfv
+  - text: цасив
+    gloss: aor
+  - text: цурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to take
+      ru: брать
+    aliases:
+      en: [buy]

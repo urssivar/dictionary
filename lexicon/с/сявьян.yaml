@@ -1,0 +1,17 @@
+id: wpVnoMgzMIPvbMSd9VEk
+headword: сявьян
+ipa: sævˈhæn
+tags: [n, loan, arabic]
+note:
+  en: '*сувьяна*'
+forms:
+  - text: сявьян
+    gloss: sg
+  - text: сявьянте
+    gloss: pl
+definitions:
+  - translation:
+      en: roasry
+      ru: чётки
+    aliases:
+      en: [counter]

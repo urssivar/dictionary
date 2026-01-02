@@ -1,0 +1,17 @@
+id: 5UQ5BQPuiNuismiSBt1l
+headword: чибурҳара
+ipa: tʃiburˈxara
+tags: [v, tr, cls]
+forms:
+  - text: чибарҳара
+    gloss: pfv
+  - text: чибаршив
+    gloss: aor
+  - text: чибурҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to point
+      ru: указывать
+    aliases:
+      en: [aim]

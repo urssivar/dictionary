@@ -1,0 +1,17 @@
+id: 6DSG1fzKQ3JeUU6XOej5
+headword: руҡҡяра
+ipa: ruˈqːæra
+tags: [v, cls, tr]
+forms:
+  - text: бярҡҡяра
+    gloss: pfv
+  - text: бярҡҡив
+    gloss: aor
+  - text: руҡҡяра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to upbring
+      ru: воспитывать
+    aliases:
+      en: [educate]

@@ -1,0 +1,17 @@
+id: reGMAuuZTh8anDIGUXnd
+headword: ьабиргара
+ipa: habirˈgara
+tags: [v, cls, intr]
+forms:
+  - text: ьабигара
+    gloss: pfv
+  - text: ьабижив
+    gloss: aor
+  - text: ьабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to perch
+      ru: сидеть на насесте
+    aliases:
+      en: [hold, sit, rest, land]

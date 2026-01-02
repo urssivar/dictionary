@@ -1,0 +1,24 @@
+id: SaZFtrg5rkjmNmX7pMDn
+headword: абиккан
+ipa: abiˈkːan
+tags: [n, nmlz]
+etymology:
+  en: Neg. obl. of *биккара* "to want", cf. *биккан* "wish".
+forms:
+  - text: абиккан
+    gloss: sg
+  - text: абикканил
+    gloss: obl
+  - text: адикканте
+    gloss: pl
+definitions:
+  - translation:
+      en: disappointment
+      ru: огорчение
+    examples:
+      - text: дами абиккан агур
+        translation:
+          en: i got disappointed
+      - text: ил ьелей абиккан баривде
+        translation:
+          en: you disappointed him

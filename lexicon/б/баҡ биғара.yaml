@@ -1,0 +1,17 @@
+id: uH6NkgmsKzhNENfgzSEd
+headword: баҡ биғара
+ipa: ˌbaq biˈʁara
+tags: [v, intr, cls]
+forms:
+  - text: баҡ беғара
+    gloss: pfv
+  - text: баҡ беғив
+    gloss: aor
+  - text: баҡ биғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to spread
+      ru: распространяться
+    aliases:
+      en: [multiple]

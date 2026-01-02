@@ -1,0 +1,17 @@
+id: BEoyfBbhRvPFcKInysEB
+headword: гумлуккана
+ipa: gumluˈkːana
+tags: [v, tr, cls]
+forms:
+  - text: гумбеккара
+    gloss: pfv
+  - text: гумбеччив
+    gloss: aor
+  - text: гумлуккана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to let down
+      ru: подводить
+    aliases:
+      en: [betray]

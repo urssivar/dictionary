@@ -1,0 +1,17 @@
+id: 0YSWcbKH8m5xIRmtlNl3
+headword: луғана
+ipa: balˈʁana
+tags: [v, tr, cls]
+forms:
+  - text: балғана
+    gloss: pfv
+  - text: балғун
+    gloss: aor
+  - text: луғана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to clip
+      ru: стричь
+    aliases:
+      en: [cut, hair]

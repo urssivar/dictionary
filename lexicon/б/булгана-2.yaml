@@ -1,0 +1,28 @@
+id: pCsMSUhvOYZksini97F9
+headword: булгана
+ipa: bulˈgana
+tags: [v, tr, cls]
+note:
+  en: '*лугана* (IPFV)'
+forms:
+  - text: балгана
+    gloss: pfv
+  - text: балгун
+    gloss: aor
+  - text: булгана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to furnish
+      ru: обставлять
+    aliases:
+      en: [decorate]
+  - translation:
+      en: to charge
+      ru: заряжать
+    aliases:
+      en: [prepare]
+    examples:
+      - text: тупанг балга
+        translation:
+          en: charge the rifle

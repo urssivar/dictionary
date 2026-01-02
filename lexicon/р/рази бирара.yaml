@@ -1,0 +1,17 @@
+id: FxlQLhbWV5qBFiT0tUgn
+headword: рази бирара
+ipa: raˌzi biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: рази барара
+    gloss: pfv
+  - text: рази барив
+    gloss: aor
+  - text: рази бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to please
+      ru: радовать
+    aliases:
+      en: [satisfy]

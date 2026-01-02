@@ -1,0 +1,16 @@
+id: rwgQwcDKRXcAi2jPFeJm
+headword: диг
+ipa: ˈdig
+tags: [n]
+forms:
+  - text: диг
+    gloss: sg
+  - text: дигу
+    gloss: obl
+  - text: дигбе
+    gloss: pl
+definitions:
+  - translation:
+      en: meat
+      ru: мясо
+    tags: [food]

@@ -1,0 +1,19 @@
+id: rqMbPI2I2RMfWMIjjSHn
+headword: уркка бурҡара
+ipa: urˌkːa burˈqara
+tags: [v, phr, tr]
+note:
+  en: There's also *урккабяҡ* "reproach".
+forms:
+  - text: уркка бяҡара
+    gloss: pfv
+  - text: уркка бяҡив
+    gloss: aor
+  - text: уркка бурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to reproach
+      ru: упрекать
+    aliases:
+      en: [rebuke]

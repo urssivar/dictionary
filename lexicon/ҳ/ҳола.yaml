@@ -1,0 +1,18 @@
+id: 70pCPZHQ2R5yuvtGAz5J
+headword: ҳола
+ipa: ˈxola
+tags: [n]
+forms:
+  - text: ҳола
+    gloss: sg
+  - text: ҳолан
+    gloss: obl
+  - text: ҳолме
+    gloss: pl
+definitions:
+  - translation:
+      en: bird crop
+      ru: зоб птиц
+    tags: [body]
+    aliases:
+      en: [sublingual, pouch]

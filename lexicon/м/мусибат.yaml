@@ -1,0 +1,15 @@
+id: idNkYetoLAeomhIRqOSK
+headword: мусибат
+ipa: musiˈbat
+tags: [n, loan, arabic]
+forms:
+  - text: мусибат
+    gloss: sg
+  - text: мусибате
+    gloss: pl
+definitions:
+  - translation:
+      en: disaster
+      ru: катастрофа
+    aliases:
+      en: [trouble, problem]

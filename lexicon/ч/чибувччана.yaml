@@ -1,0 +1,17 @@
+id: 2XNTzfBwqIlx9nKSnVij
+headword: чибувччана
+ipa: tʃibuvˈtʃːana
+tags: [v, intr, cls]
+forms:
+  - text: чибевччана
+    gloss: pfv
+  - text: чибевччун
+    gloss: aor
+  - text: чибувччана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to intensify
+      ru: разгораться, усиливаться
+    aliases:
+      en: [fire, burn]

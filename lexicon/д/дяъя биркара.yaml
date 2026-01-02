@@ -1,0 +1,17 @@
+id: 1FU009hQ2qTadiH8S22N
+headword: дяъя биркара
+ipa: dæˌʔæ birˈkara
+tags: [v, intr, phr]
+forms:
+  - text: дяъя бикара
+    gloss: pfv
+  - text: дяъя бичив
+    gloss: aor
+  - text: дяъя биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stray
+      ru: плутать
+    aliases:
+      en: [astray, wander, lose]

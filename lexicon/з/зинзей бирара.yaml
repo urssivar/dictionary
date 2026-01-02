@@ -1,0 +1,17 @@
+id: YnzQgSdTpy6IaEpXrAjk
+headword: зинзей бирара
+ipa: zinˌzej biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: зинзей барара
+    gloss: pfv
+  - text: зинзей барив
+    gloss: aor
+  - text: зинзей бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shred
+      ru: кромсать
+    aliases:
+      en: [hack, mangle]

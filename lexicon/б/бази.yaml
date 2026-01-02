@@ -1,0 +1,17 @@
+id: wkTEyRREWdTcYWf7ONKW
+headword: бази
+ipa: baˈzi
+tags: [n, loan]
+forms:
+  - text: бази
+    gloss: sg
+  - text: базне
+    gloss: pl
+definitions:
+  - translation:
+      en: dance
+      ru: танец
+    examples:
+      - text: бази бирара
+        translation:
+          en: to dance

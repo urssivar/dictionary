@@ -1,0 +1,30 @@
+id: UzuwdbR1S7vXOGo317MI
+headword: биргара
+ipa: birˈgara
+tags: [v, cls, lbl, primary]
+forms:
+  - text: бигара
+    gloss: pfv
+  - text: бижив
+    gloss: aor
+  - text: биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to install
+      ru: устанавливать
+    aliases:
+      en: [setup]
+    examples:
+      - text: уцца бига
+        translation:
+          en: install the door
+  - translation:
+      en: to inhabit
+      ru: заводится
+    aliases:
+      en: [start]
+    examples:
+      - text: милҡҡвя дижив
+        translation:
+          en: worms appeared

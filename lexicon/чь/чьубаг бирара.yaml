@@ -1,0 +1,23 @@
+id: gHCtGjUaMQTdSlVnRamc
+headword: чьубаг бирара
+ipa: tʃʼuˌbag biˈrara
+tags: [v, tr, cls, phr]
+etymology:
+  en: From *чьу* "two" + *баг* "core".
+forms:
+  - text: чьубаг барара
+    gloss: pfv
+  - text: чьубаг барив
+    gloss: aor
+  - text: чьубаг бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to halve
+      ru: делить пополам
+    aliases:
+      en: [half]
+    examples:
+      - text: чьубаг бара гариҳан
+        translation:
+          en: halve the watermelon

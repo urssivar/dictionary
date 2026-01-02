@@ -1,0 +1,18 @@
+id: lZcBeoh5BDEdEtyeeTsT
+headword: исут
+ipa: iˈsːut
+tags: [n, loan]
+forms:
+  - text: исут
+    gloss: sg
+  - text: исуте
+    gloss: pl
+definitions:
+  - translation:
+      en: pepper
+      ru: перец
+    tags: [food]
+    examples:
+      - text: тунт исут
+        translation:
+          en: hot pepper

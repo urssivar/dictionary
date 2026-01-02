@@ -1,0 +1,14 @@
+id: cBw48D4y1HGg0ds5Ho42
+headword: чячян
+ipa: tʃæˈtʃæn
+tags: [n, adj, loan, russian]
+forms:
+  - text: чячян
+    gloss: sg
+  - text: чячянте
+    gloss: pl
+definitions:
+  - translation:
+      en: chechen
+      ru: чеченец, чеченский
+    tags: [demonym]

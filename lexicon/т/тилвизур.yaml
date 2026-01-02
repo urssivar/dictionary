@@ -1,0 +1,16 @@
+id: GVCQ45DwIcfxT41ZHMI2
+headword: тилвизур
+ipa: tilviˈzur
+tags: [n, loan, russian]
+forms:
+  - text: тилвизур
+    gloss: sg
+  - text: тилвизурте
+    gloss: pl
+definitions:
+  - translation:
+      en: tv
+      ru: телевизор
+    tags: [tool]
+    aliases:
+      en: [television]

@@ -1,0 +1,19 @@
+id: wh1r4yf50Wel4bsLEMOk
+headword: черцурғара
+ipa: tʃertsurˈʁara
+tags: [v, tr]
+note:
+  en: '*черкағара*'
+forms:
+  - text: черцағара
+    gloss: pfv
+  - text: черцағив
+    gloss: aor
+  - text: черцурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to block the flow
+      ru: перекрывать поток
+    aliases:
+      en: [cut, stop]

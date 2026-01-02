@@ -1,0 +1,16 @@
+id: 2wRRXQyuu4173PLAgeG0
+headword: дерше
+ipa: ˈderʃe
+tags: [n]
+forms:
+  - text: дерше
+    gloss: sg
+  - text: дерши
+    gloss: obl
+definitions:
+  - translation:
+      en: wayfaring tree
+      ru: гордовина
+    tags: [nature, plant]
+    aliases:
+      en: [viburnum, lantana]

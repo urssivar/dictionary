@@ -1,0 +1,18 @@
+id: QTSt35F7O0LUCsQHKx2r
+headword: ляучч
+ipa: læˈutʃː
+tags: [n]
+note:
+  en: '*ляучь*'
+forms:
+  - text: ляучч
+    gloss: sg
+  - text: ляучче
+    gloss: pl
+definitions:
+  - translation:
+      en: earwig
+      ru: уховертка
+    tags: [animal, insect]
+    aliases:
+      en: [earworm]

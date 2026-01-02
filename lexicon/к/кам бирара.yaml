@@ -1,0 +1,21 @@
+id: WkGMaJXlUCGusqnzWxVN
+headword: кам бирара
+ipa: ˌkam biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: кам барара
+    gloss: pfv
+  - text: кам барив
+    gloss: aor
+  - text: кам бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to decrease
+      ru: убавлять
+    aliases:
+      en: [little]
+    examples:
+      - text: цьа кам дара
+        translation:
+          en: decrease the fire

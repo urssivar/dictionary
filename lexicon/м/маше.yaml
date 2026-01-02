@@ -1,0 +1,16 @@
+id: b3Uio45JlbjCqwQm9MIs
+headword: маше
+ipa: maˈʃe
+tags: [n, loan, turkic]
+forms:
+  - text: маше
+    gloss: sg
+  - text: маширбе
+    gloss: pl
+definitions:
+  - translation:
+      en: shrub
+      ru: кустарник
+    tags: [nature]
+    aliases:
+      en: [bush, grove]

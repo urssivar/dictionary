@@ -1,0 +1,17 @@
+id: MlrfALn4I9dY7MbsZt7W
+headword: шилкутт
+ipa: ʃilˈkutː
+tags: [n]
+note:
+  en: '*ширкьут*, *шиликутти*'
+forms:
+  - text: шилкутт
+    gloss: sg
+  - text: шилкуттне
+    gloss: pl
+definitions:
+  - translation:
+      en: bridesmaid
+      ru: подруга невесты
+    aliases:
+      en: [convoy, escort]

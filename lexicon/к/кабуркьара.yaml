@@ -1,0 +1,17 @@
+id: wGgsifyoqVZ90FYGAbEL
+headword: кабуркьара
+ipa: kaburˈkʼara
+tags: [v, tr, cls]
+forms:
+  - text: кабаркьара
+    gloss: pfv
+  - text: кабарчьив
+    gloss: aor
+  - text: кабуркьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lay an egg
+      ru: сносить яйцо
+    aliases:
+      en: [make, produce]

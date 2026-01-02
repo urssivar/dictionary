@@ -1,0 +1,19 @@
+id: A3AGuxMVV2rqoYhfMbRJ
+headword: бекьле
+ipa: ˈbekʼle
+tags: [adv]
+etymology:
+  en: Adv. of *бекь* "head".
+definitions:
+  - translation:
+      en: at all
+      ru: совсем
+    aliases:
+      en: [completely]
+    examples:
+      - text: дам ьел бекьле бажил акку
+        translation:
+          en: i don't need that at all
+      - text: бекьле арц дейкку
+        translation:
+          en: no money at all

@@ -1,0 +1,14 @@
+id: 0g7kM3RpVouPKED4OXtY
+headword: бура
+ipa: ˈbura
+tags: [n]
+forms:
+  - text: бура
+    gloss: sg
+  - text: бурме
+    gloss: pl
+definitions:
+  - translation:
+      en: udder
+      ru: вымя
+    tags: [animal, body]

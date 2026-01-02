@@ -1,0 +1,18 @@
+id: LEYAOXitIO3AsJ4p9o2Q
+headword: сяят
+ipa: sæˈæt
+tags: [n, loan, arabic]
+forms:
+  - text: сяят
+    gloss: sg
+  - text: сяяте
+    gloss: pl
+definitions:
+  - translation:
+      en: hour
+      ru: час
+    tags: [time]
+  - translation:
+      en: clock
+      ru: часы
+    tags: [tool]

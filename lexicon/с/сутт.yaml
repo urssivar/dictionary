@@ -1,0 +1,15 @@
+id: 0EBMfyuVjMjJz7FHXiuz
+headword: сутт
+ipa: ˈsutː
+tags: [n, loan, russian]
+forms:
+  - text: сутт
+    gloss: sg
+  - text: суттре
+    gloss: pl
+definitions:
+  - translation:
+      en: court
+      ru: суд
+    aliases:
+      en: [tribunal]

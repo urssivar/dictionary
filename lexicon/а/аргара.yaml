@@ -1,0 +1,19 @@
+id: zXPlPKSRavp4tcQlpaUv
+headword: аргара
+ipa: arˈgara
+tags: [v, intr]
+note:
+  en: There seems to be also *алгана/агана* with related meaning "to plan".
+forms:
+  - text: агара
+    gloss: pfv
+  - text: агур
+    gloss: aor
+  - text: аргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to happen
+      ru: случаться
+    aliases:
+      en: [to, become]

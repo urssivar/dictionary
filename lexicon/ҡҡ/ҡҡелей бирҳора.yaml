@@ -1,0 +1,15 @@
+id: 13PRpQDuc6wStlmSsWZu
+headword: ҡҡелей бирҳора
+ipa: qːeˌlej birˈxora
+tags: [v, tr, cls, phr]
+forms:
+  - text: ҡҡелей биҳора
+    gloss: pfv
+  - text: ҡҡелей бишур
+    gloss: aor
+  - text: ҡҡелей бирҳора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to wake
+      ru: будить

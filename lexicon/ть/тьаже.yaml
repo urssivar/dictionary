@@ -1,0 +1,17 @@
+id: c02tXpEz3zzVy36vjkEG
+headword: тьаже
+ipa: ˈtʼaʒe
+tags: [n]
+forms:
+  - text: тьаже
+    gloss: sg
+  - text: тьажин
+    gloss: obl
+  - text: тьажирбе
+    gloss: pl
+definitions:
+  - translation:
+      en: path
+      ru: тропа
+    aliases:
+      en: [trail]

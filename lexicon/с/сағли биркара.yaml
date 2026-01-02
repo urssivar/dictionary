@@ -1,0 +1,21 @@
+id: oCgQ6osHBgNAZKnJGXi8
+headword: сағли биркара
+ipa: saʁˌli birˈkara
+tags: [v, intr, cls]
+note:
+  en: '*ҡарши ~*'
+forms:
+  - text: сағли бикара
+    gloss: pfv
+  - text: сағли бичив
+    gloss: aor
+  - text: сағли биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to meet
+      ru: встречаться
+    examples:
+      - text: сағли дирканда ғурш
+        translation:
+          en: we'll meet tomorrow

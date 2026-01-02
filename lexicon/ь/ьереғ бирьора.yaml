@@ -1,0 +1,17 @@
+id: n5AnSCG64nbkcNOMKsVo
+headword: ьереғ бирьора
+ipa: heˌreʁ birˈhora
+tags: [v, cls, tr, phr]
+forms:
+  - text: ьереғ биьора
+    gloss: pfv
+  - text: ьереғ биьяв
+    gloss: aor
+  - text: ьереғ бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to chase
+      ru: гнаться
+    aliases:
+      en: [run]

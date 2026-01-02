@@ -1,0 +1,22 @@
+id: AEFi1wIXLKHbGrr6XvBF
+headword: яь кабирццара
+ipa: ˌæh kabirˈtsːara
+tags: [v, phr, cls, intr]
+forms:
+  - text: яь кабиццара
+    gloss: pfv
+  - text: яь кабиццур
+    gloss: aor
+  - text: яь кабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to like
+      ru: нравиться
+    tags: [emotion]
+    aliases:
+      en: [fond]
+    examples:
+      - text: дам ьеж ҡати яь кабирццул акку
+        translation:
+          en: i don't like this hat

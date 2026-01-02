@@ -1,0 +1,16 @@
+id: 1uFN8jsepKXNw5MZDjwu
+headword: ппяни
+ipa: pːæˈni
+tags: [n]
+note:
+  en: '*ппяйни*, *ппяъни*'
+forms:
+  - text: ппяни
+    gloss: sg
+  - text: ппяниппе
+    gloss: pl
+definitions:
+  - translation:
+      en: belt
+      ru: пояс
+    tags: [clothing]

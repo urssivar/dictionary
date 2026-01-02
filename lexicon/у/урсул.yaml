@@ -1,0 +1,17 @@
+id: WMoFOGMZ76xJDsXGfoQD
+headword: урсул
+ipa: urˈsul
+tags: [n]
+forms:
+  - text: урсул
+    gloss: sg
+  - text: урсле
+    gloss: pl
+definitions:
+  - translation:
+      en: pancreas
+      ru: поджелудочная железа
+    tags: [body]
+  - translation:
+      en: abomasum
+      ru: сычуг

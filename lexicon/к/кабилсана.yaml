@@ -1,0 +1,17 @@
+id: Hpfljej3lc30xO6v1BVa
+headword: кабилсана
+ipa: kabilˈsːana
+tags: [v, intr, cls]
+forms:
+  - text: кабисана
+    gloss: pfv
+  - text: кабисун
+    gloss: aor
+  - text: кабилсана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lie down
+      ru: лежать
+    aliases:
+      en: [sleep]

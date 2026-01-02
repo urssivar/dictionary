@@ -1,0 +1,18 @@
+id: Xzr4Om0kkwMa3WgiNoN4
+headword: ҡҡупе
+ipa: ˈqːupe
+tags: [n]
+forms:
+  - text: ҡҡупе
+    gloss: sg
+  - text: ҡҡупин
+    gloss: obl
+  - text: ҡҡупре
+    gloss: pl
+definitions:
+  - translation:
+      en: mattock
+      ru: тяпка
+    tags: [tool]
+    aliases:
+      en: [hoe]

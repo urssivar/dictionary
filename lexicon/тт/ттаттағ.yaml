@@ -1,0 +1,18 @@
+id: X5Y2hkhfHyA7pSiIRJDL
+headword: ттаттағ
+ipa: tːaˈtːaʁ
+tags: [n]
+note:
+  en: |-
+    *ттағу*
+    *терҡа*
+forms:
+  - text: ттаттағ
+    gloss: sg
+  - text: ттаттиғе
+    gloss: pl
+definitions:
+  - translation:
+      en: rooster
+      ru: петух
+    tags: [animal]

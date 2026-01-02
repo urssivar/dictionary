@@ -1,0 +1,16 @@
+id: QYTb60FcEwFW03IjWXGJ
+headword: мурккул
+ipa: murˈkːul
+tags: [n]
+forms:
+  - text: мурккул
+    gloss: sg
+  - text: мирккле
+    gloss: pl
+definitions:
+  - translation:
+      en: meadow
+      ru: луг
+    tags: [nature]
+    aliases:
+      en: [field]

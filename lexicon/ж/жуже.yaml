@@ -1,0 +1,16 @@
+id: YOBywYmj4AZdOoYo7YDL
+headword: жуже
+ipa: ˈʒuʒe
+tags: [n]
+note:
+  en: '*жужу*, *жужа*'
+forms:
+  - text: жуже
+    gloss: sg
+  - text: жужме
+    gloss: pl
+definitions:
+  - translation:
+      en: flower
+      ru: цветок
+    tags: [nature]

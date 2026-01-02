@@ -1,0 +1,20 @@
+id: Cv0rVsjJIpzGBoyyXvlH
+headword: рижгула
+ipa: riʒˈgula
+tags: [n]
+note:
+  en: '*яларжи*'
+forms:
+  - text: рижгула
+    gloss: sg
+  - text: рижгулал
+    gloss: obl
+  - text: рижгулабе
+    gloss: pl
+definitions:
+  - translation:
+      en: crupper
+      ru: подхвостник
+    tags: [tool]
+    aliases:
+      en: [undertail, crupper]

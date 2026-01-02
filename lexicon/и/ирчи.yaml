@@ -1,0 +1,16 @@
+id: s9SW1LsJ8ru0POxBgmpY
+headword: ирчи
+ipa: irˈtʃi
+tags: [n]
+forms:
+  - text: ирчи
+    gloss: sg
+  - text: ирчне
+    gloss: pl
+definitions:
+  - translation:
+      en: steed
+      ru: конь
+    tags: [animal]
+    aliases:
+      en: [horse, knight]

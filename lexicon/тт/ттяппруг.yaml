@@ -1,0 +1,19 @@
+id: I7ldMURWqAMr8qBwZI8J
+headword: ттяппруг
+ipa: tːæpːˈrug
+tags: [n]
+forms:
+  - text: ттяппруг
+    gloss: sg
+  - text: ттяппруге
+    gloss: pl
+definitions:
+  - translation:
+      en: rod
+      ru: прут
+    aliases:
+      en: [stick]
+    examples:
+      - text: бялиҡҡе дурцан ттяппруг
+        translation:
+          en: finshing rod

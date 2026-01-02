@@ -1,0 +1,16 @@
+id: 52gmVYXYpsrEB3JdNVVo
+headword: ҡьялса
+ipa: ˈqʼælsa
+tags: [n]
+forms:
+  - text: ҡьялса
+    gloss: sg
+  - text: ҡьялсне
+    gloss: pl
+definitions:
+  - translation:
+      en: sparrowhawk
+      ru: ястреб-перепелятник
+    tags: [animal, bird]
+    aliases:
+      en: [hawk]

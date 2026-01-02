@@ -1,0 +1,15 @@
+id: D0uROE6YWujMdGSBt923
+headword: биҡна биғара
+ipa: viqˌna viˈʁara
+tags: [v, intr, cls]
+forms:
+  - text: биҡна беғара
+    gloss: pfv
+  - text: биҡна беғив
+    gloss: aor
+  - text: биҡна биғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to age
+      ru: стареть

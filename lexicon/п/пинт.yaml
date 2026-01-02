@@ -1,0 +1,15 @@
+id: PbAflmuNLwxfRHpuSgMe
+headword: пинт
+ipa: ˈpint
+tags: [n]
+forms:
+  - text: пинт
+    gloss: sg
+  - text: пинтре
+    gloss: pl
+definitions:
+  - translation:
+      en: hinge
+      ru: петля, шарнир
+    aliases:
+      en: [door]

@@ -1,0 +1,21 @@
+id: RON6E2BXPLbFPUQ3Aj3P
+headword: муса
+ipa: ˈmusːa
+tags: [n]
+forms:
+  - text: муса
+    gloss: sg
+  - text: мусан
+    gloss: obl, loc
+  - text: мусуппе
+    gloss: pl
+definitions:
+  - translation:
+      en: place
+      ru: место
+    aliases:
+      en: [location]
+    examples:
+      - text: муса-сана
+        translation:
+          en: habitat

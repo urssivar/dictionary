@@ -1,0 +1,19 @@
+id: bDw2J0JB92mxwwSaUhy0
+headword: чевла
+ipa: tʃevˈla
+tags: [n]
+etymology:
+  en: Gen. of *че* "above".
+forms:
+  - text: чевла
+    gloss: sg
+  - text: чевлан
+    gloss: obl
+  - text: чевлуме
+    gloss: pl
+definitions:
+  - translation:
+      en: debt
+      ru: долг
+    aliases:
+      en: [duty]

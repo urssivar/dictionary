@@ -1,0 +1,16 @@
+id: hFqirmV9fsVjMnT8LwVg
+headword: пьирзикьан
+ipa: pʼirˈzikʼan
+tags: [n]
+forms:
+  - text: пьирзикьан
+    gloss: sg
+  - text: пьирзикьне
+    gloss: pl
+definitions:
+  - translation:
+      en: fife
+      ru: дудка
+    tags: [tool]
+    aliases:
+      en: [flute]

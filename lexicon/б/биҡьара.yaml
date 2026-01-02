@@ -1,0 +1,15 @@
+id: awV5fxVpqetgz5JHLjFu
+headword: биҡьара
+ipa: biˈqʼara
+tags: [v, tr, cls]
+forms:
+  - text: баҡьара
+    gloss: pfv
+  - text: баҡьив
+    gloss: aor
+  - text: биҡьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hear
+      ru: слышать

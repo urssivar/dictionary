@@ -1,0 +1,17 @@
+id: SxLOQbDhXDX6jQIZh5gC
+headword: бялхана
+ipa: bælˈχana
+tags: [v, cls, tr]
+forms:
+  - text: бяхана
+    gloss: pfv
+  - text: бяхун
+    gloss: aor
+  - text: бялхана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to let out
+      ru: выпускать
+    aliases:
+      en: [release]

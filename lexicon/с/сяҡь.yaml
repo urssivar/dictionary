@@ -1,0 +1,18 @@
+id: 4CyegoPT2FrshUzLdgyX
+headword: сяҡь
+ipa: ˈsæqʼ
+tags: [n]
+note:
+  en: '*сиҡья*'
+forms:
+  - text: сяҡь
+    gloss: sg
+  - text: сяҡьре
+    gloss: pl
+definitions:
+  - translation:
+      en: mite
+      ru: клещ
+    tags: [animal, insect]
+    aliases:
+      en: [acari, tick]

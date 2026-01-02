@@ -1,0 +1,21 @@
+id: Y8IjM16m2AzxW4z5o489
+headword: миннат бирара
+ipa: minˌnat biˈrara
+tags: [n, loan, arabic, phr]
+forms:
+  - text: миннат барара
+    gloss: pfv
+  - text: миннат барив
+    gloss: aor
+  - text: миннат бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to persuade
+      ru: уговаривать
+    aliases:
+      en: [convince]
+    examples:
+      - text: миннат бара ьелецци
+        translation:
+          en: persuade him

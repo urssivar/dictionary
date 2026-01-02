@@ -1,0 +1,18 @@
+id: 3DjAQxYp1fg83udxSBwR
+headword: автт ьабиркара
+ipa: ˌavtː habirˈkara
+tags: [v, intr, phr, cls]
+forms:
+  - text: автт ьабикара
+    gloss: pfv
+  - text: автт ьабичив
+    gloss: aor
+  - text: автт ьабиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to strife
+      ru: междоусобить
+    tags: [social]
+    aliases:
+      en: [feud]

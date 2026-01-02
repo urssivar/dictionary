@@ -1,0 +1,18 @@
+id: bYrFII5WEjGMkRLtPQER
+headword: ляв кабирара
+ipa: ˌlæv kabiˈrara
+tags: [v, cls, tr, phr]
+forms:
+  - text: ляв кабарара
+    gloss: pfv
+  - text: ляв кабарив
+    gloss: aor
+  - text: ляв кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to soothe
+      ru: успокаивать
+    tags: [emotion]
+    aliases:
+      en: [pet, fondle]

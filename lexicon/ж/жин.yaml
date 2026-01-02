@@ -1,0 +1,17 @@
+id: 7YtPsGndzQiJ3txhSQPc
+headword: жин
+ipa: ˈʒin
+tags: [n, loan, arabic]
+note:
+  en: '*жинд*'
+forms:
+  - text: жин
+    gloss: sg
+  - text: жинбе
+    gloss: pl
+definitions:
+  - translation:
+      en: jinn
+      ru: джин
+    aliases:
+      en: [demon]

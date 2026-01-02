@@ -1,0 +1,26 @@
+id: XDapjou62SUFyGSql7iM
+headword: це
+ipa: ˈtse
+tags: [cop]
+note:
+  en: '*цави*, *цай*, *ца*'
+forms:
+  - text: да
+    gloss: 1, 2 pl
+  - text: де
+    gloss: 2 sg, pst
+  - text: це
+    gloss: '3'
+definitions:
+  - translation:
+      en: is
+      ru: является
+    aliases:
+      en: [am, are, were]
+    examples:
+      - text: ьештти цаҡҡивте ниса да
+        translation:
+          en: were're the ones who brought these
+      - text: бицци хурег це
+        translation:
+          en: the dish is tasty

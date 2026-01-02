@@ -1,0 +1,15 @@
+id: eOhzgoeKlEAeEiNTEKyl
+headword: ккуш бурҡара
+ipa: ˌkːuʃ burˈqara
+tags: [v, intr, cls]
+forms:
+  - text: ккуш бяҡара
+    gloss: pfv
+  - text: ккуш бяҡив
+    gloss: aor
+  - text: ккуш бурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get hungry
+      ru: проголодаться

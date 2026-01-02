@@ -1,0 +1,17 @@
+id: jciZDlmeXHaL6DInzb28
+headword: гунер кикара
+ipa: guˌner kiˈkara
+tags: [v, tr, cls, phr]
+forms:
+  - text: гунер какара
+    gloss: pfv
+  - text: гунер качив
+    gloss: aor
+  - text: гунер кикара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to relocate
+      ru: переселять
+    aliases:
+      en: [move, migrate]

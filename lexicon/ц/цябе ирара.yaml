@@ -1,0 +1,17 @@
+id: xfn7BrxwaVUQHo02YAHm
+headword: цябе ирара
+ipa: ˌtsæbe iˈrara
+tags: [v, tr, cls]
+forms:
+  - text: цябе биара
+    gloss: pfv
+  - text: цябе биив
+    gloss: aor
+  - text: цябе ирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to call
+      ru: звать
+    aliases:
+      en: [ask, invite]

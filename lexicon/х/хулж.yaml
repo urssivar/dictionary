@@ -1,0 +1,17 @@
+id: UbeMMKwTwwD9h2efsh0a
+headword: хулж
+ipa: ˈχulʒ
+tags: [n, loan]
+forms:
+  - text: хулж
+    gloss: sg
+  - text: хулжан
+    gloss: obl, loc
+  - text: хулже
+    gloss: pl
+definitions:
+  - translation:
+      en: saddlebag
+      ru: седельная сумка
+    aliases:
+      en: [bag]

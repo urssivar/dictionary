@@ -1,0 +1,16 @@
+id: o1Vry3Ddn7CL5NcDBMKy
+headword: пьинҡьичь
+ipa: pʼinˈqʼitʃʼ
+tags: [n]
+forms:
+  - text: пьинҡьичь
+    gloss: sg
+  - text: пьинҡьичье
+    gloss: pl
+definitions:
+  - translation:
+      en: snap fastener
+      ru: кнопка
+    tags: [clothing]
+    aliases:
+      en: [button]

@@ -1,0 +1,23 @@
+id: qLjiLeuv6WB0oMFYd7zz
+headword: биккан
+ipa: biˈkːan
+tags: [n, nmlz]
+etymology:
+  en: Obl. of *биккара* "to wish"
+forms:
+  - text: биккан
+    gloss: sg
+  - text: бикканил
+    gloss: obl
+  - text: дикканте
+    gloss: pl
+definitions:
+  - translation:
+      en: wish
+      ru: желание
+    aliases:
+      en: [sentiment]
+    examples:
+      - text: цара биккан бел баал бурса
+        translation:
+          en: tell me if you have another wish

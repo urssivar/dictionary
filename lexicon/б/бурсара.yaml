@@ -1,0 +1,24 @@
+id: 7x7j98SMzoiZSpB9oMZg
+headword: бурсара
+ipa: burˈsara
+tags: [v, tr, cls]
+forms:
+  - text: бурсив
+    gloss: aor
+  - text: бурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tell
+      ru: рассказывать
+    aliases:
+      en: [say]
+  - translation:
+      en: to invite
+      ru: приглашать
+    aliases:
+      en: [call, ask]
+    examples:
+      - text: суккелцци миҡҡцци бурсив
+        translation:
+          en: invited all to the wedding

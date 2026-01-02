@@ -1,0 +1,19 @@
+id: Mu1dOWh1ofRduMGF9xAH
+headword: биццала
+ipa: biˈtsːala
+tags: [n, nmlz]
+etymology:
+  en: From *биццара* "to bathe".
+forms:
+  - text: биццала
+    gloss: sg
+  - text: биццле
+    gloss: obl
+  - text: биццлуме
+    gloss: pl
+definitions:
+  - translation:
+      en: bath
+      ru: ванна
+    aliases:
+      en: [tub]

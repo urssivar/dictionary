@@ -1,0 +1,21 @@
+id: iFAdCMHuppekXwEmLWND
+headword: итлил
+ipa: itˈlil
+tags: [adj, pro]
+etymology:
+  en: From *ьет* "that".
+forms:
+  - text: итлил
+    gloss: sg
+  - text: иттите
+    gloss: pl
+definitions:
+  - translation:
+      en: other
+      ru: другой
+    aliases:
+      en: [another, else]
+    examples:
+      - text: ьеж беччида у? итлил бекка
+        translation:
+          en: should i give this? give the other

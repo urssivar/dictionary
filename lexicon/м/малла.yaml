@@ -1,0 +1,15 @@
+id: R0i1TpkCKqyz5gtjRymO
+headword: малла
+ipa: malˈla
+tags: [n, loan, arabic]
+forms:
+  - text: малла
+    gloss: sg
+  - text: маллубне
+    gloss: pl
+definitions:
+  - translation:
+      en: clergyman
+      ru: священнослужитель
+    aliases:
+      en: [priest, mullah]

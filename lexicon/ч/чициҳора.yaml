@@ -1,0 +1,17 @@
+id: 0GwMr2uoeYdxSVX5Xfod
+headword: чициҳора
+ipa: tʃitsiˈxora
+tags: [v, intr]
+forms:
+  - text: чицаҳора
+    gloss: pfv
+  - text: чицашур
+    gloss: aor
+  - text: чициҳора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to flock
+      ru: стекаться, толпиться
+    aliases:
+      en: [gather]

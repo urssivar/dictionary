@@ -1,0 +1,15 @@
+id: 07wx6v4ACVXwRpefqWky
+headword: парписур
+ipa: parpiˈsur
+tags: [n, loan, russian]
+forms:
+  - text: парписур
+    gloss: sg
+  - text: парписурте
+    gloss: pl
+definitions:
+  - translation:
+      en: professor
+      ru: профессор
+    aliases:
+      en: [scientist, scholar]

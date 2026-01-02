@@ -1,0 +1,16 @@
+id: JfXyZxQlOWysjr2qcRTc
+headword: ширкка
+ipa: ˈʃirkːa
+tags: [n]
+forms:
+  - text: ширкка
+    gloss: sg
+  - text: ширккан
+    gloss: obl
+  - text: ширккме
+    gloss: pl
+definitions:
+  - translation:
+      en: horn
+      ru: рог
+    tags: [animal]

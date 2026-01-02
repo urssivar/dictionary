@@ -1,0 +1,19 @@
+id: xeSBROqgE47RZWTOGoTm
+headword: хус бирара
+ipa: ˌχus biˈrara
+tags: [v, tr, cls, phr]
+note:
+  en: '*ҡус*'
+forms:
+  - text: хус барара
+    gloss: pfv
+  - text: хус барив
+    gloss: aor
+  - text: хус бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lug
+      ru: волочить
+    aliases:
+      en: [drag]

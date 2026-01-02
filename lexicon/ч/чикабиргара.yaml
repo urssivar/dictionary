@@ -1,0 +1,22 @@
+id: PyiHSmeOrGo8HRXdajhK
+headword: чикабиргара
+ipa: tʃikabirˈgara
+tags: [v, cls, lbl]
+forms:
+  - text: чикабигара
+    gloss: pfv
+  - text: чикабижив
+    gloss: aor
+  - text: чикабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to put on the head
+      ru: надевать на голову
+    aliases:
+      en: [cap]
+  - translation:
+      en: to set onto
+      ru: наседать
+    aliases:
+      en: [rest]

@@ -1,0 +1,22 @@
+id: fxLaR1iOs14XkNvNbCFH
+headword: бирара
+ipa: biˈrara
+tags: [v, cls, tr]
+forms:
+  - text: барара
+    gloss: pfv
+  - text: барив
+    gloss: aor
+  - text: бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to do
+      ru: делать
+    aliases:
+      en: [implement]
+  - translation:
+      en: to create
+      ru: создавать
+    aliases:
+      en: [make]

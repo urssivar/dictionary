@@ -1,0 +1,17 @@
+id: Si6IHGzNJZQbIvL67y7z
+headword: йяь бирара
+ipa: ˌjæh biˈrara
+tags: [v, phr]
+forms:
+  - text: йяь барара
+    gloss: pfv
+  - text: йяь барив
+    gloss: aor
+  - text: йяь бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to refrain
+      ru: воздерживаться
+    aliases:
+      en: [stand, bear]

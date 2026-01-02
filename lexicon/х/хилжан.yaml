@@ -1,0 +1,16 @@
+id: p5TEBEqcGBz4rPhNHpcG
+headword: хилжан
+ipa: χilˈʒan
+tags: [n, loan, arabic]
+note:
+  en: '*хинжар*'
+forms:
+  - text: хилжан
+    gloss: sg
+  - text: хилжанте
+    gloss: pl
+definitions:
+  - translation:
+      en: dagger
+      ru: кинжал
+    tags: [tool]

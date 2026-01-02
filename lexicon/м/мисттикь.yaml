@@ -1,0 +1,17 @@
+id: YHFpkEK1noPIvG2BGLuJ
+headword: мисттикь
+ipa: misˈtːikʼ
+tags: [n, loan, arabic]
+note:
+  en: '*мистьа*'
+forms:
+  - text: мисттикь
+    gloss: sg
+  - text: мисттикьан
+    gloss: loc
+  - text: мисттикье
+    gloss: pl
+definitions:
+  - translation:
+      en: mosque
+      ru: мечеть

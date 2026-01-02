@@ -1,0 +1,17 @@
+id: p57NJkZmfa4rLu9JKzN8
+headword: бурси бирьора
+ipa: burˌsi birˈhora
+tags: [v, cls, intr]
+forms:
+  - text: бурси биьора
+    gloss: pfv
+  - text: бурси биьяв
+    gloss: aor
+  - text: бурси бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to learn
+      ru: приучаться
+    aliases:
+      en: [study, accustom]

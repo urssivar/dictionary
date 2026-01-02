@@ -1,0 +1,17 @@
+id: 3YlM67iP7ejVZctU9erO
+headword: бирхутте
+ipa: birˈχutːe
+tags: [n, nmlz, cls]
+etymology:
+  en: From *бирхара* "to believe".
+forms:
+  - text: бирхутте
+    gloss: sg
+  - text: бирхуттне
+    gloss: pl
+definitions:
+  - translation:
+      en: faith
+      ru: вера
+    aliases:
+      en: [belief]

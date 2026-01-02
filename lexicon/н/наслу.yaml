@@ -1,0 +1,18 @@
+id: IfvXCmYMUsKW9nwdSX77
+headword: наслу
+ipa: ˈnaslu
+tags: [n, loan, arabic]
+note:
+  en: '*аслу*'
+forms:
+  - text: наслу
+    gloss: sg
+  - text: наслубе
+    gloss: pl
+definitions:
+  - translation:
+      en: descendant
+      ru: потомок
+    tags: [kinship]
+    aliases:
+      en: [progeny, seed, offspring, child]

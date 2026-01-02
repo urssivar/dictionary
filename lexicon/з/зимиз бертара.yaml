@@ -1,0 +1,21 @@
+id: 22VJDcmt42hxUTdQmyAt
+headword: зимиз бертара
+ipa: ziˌmiz berˈtara
+tags: [v, intr, cls, phr]
+forms:
+  - text: зимиз бетара
+    gloss: pfv
+  - text: зимиз бетур
+    gloss: aor
+  - text: зимиз бертара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to go numb
+      ru: неметь
+    aliases:
+      en: [anesthesia, senseless]
+    examples:
+      - text: дила тья зимиз бетур
+        translation:
+          en: my leg got numb

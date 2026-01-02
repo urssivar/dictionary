@@ -1,0 +1,15 @@
+id: sZkPUAYIwMAzVHUN2gzl
+headword: душман
+ipa: duʃˈman
+tags: [n, loan]
+forms:
+  - text: душман
+    gloss: sg
+  - text: душманте
+    gloss: pl
+definitions:
+  - translation:
+      en: enemy
+      ru: враг
+    aliases:
+      en: [foe]

@@ -1,0 +1,20 @@
+id: vubS9UgJXzZjRMQui0Px
+headword: гута
+ipa: guˈta
+tags: [n]
+note:
+  en: '*ялиҳон*, *маьракь*'
+forms:
+  - text: гута
+    gloss: sg
+  - text: гутан
+    gloss: obl
+  - text: гутне
+    gloss: pl
+definitions:
+  - translation:
+      en: pillow
+      ru: подушка
+    tags: [house]
+    aliases:
+      en: [bed]

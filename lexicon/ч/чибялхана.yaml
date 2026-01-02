@@ -1,0 +1,19 @@
+id: mMOotGjqYgK2EFT0VV61
+headword: чибялхана
+ipa: tʃibælˈχana
+tags: [v, intr, cls]
+note:
+  en: '*чибяна*'
+forms:
+  - text: чибяхана
+    gloss: pfv
+  - text: чибяхун
+    gloss: aor
+  - text: чибялхана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to infect
+      ru: заражать
+    aliases:
+      en: [propagate, contaminate]

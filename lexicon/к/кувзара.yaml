@@ -1,0 +1,17 @@
+id: P0Xf1k3lxauiBljpB3co
+headword: кувзара
+ipa: kuvˈzara
+tags: [v, tr]
+note:
+  en: '*кунзана*'
+forms:
+  - text: кувзив
+    gloss: aor
+  - text: кувзара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to strain
+      ru: цедить
+    aliases:
+      en: [filter]

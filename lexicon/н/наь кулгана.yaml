@@ -1,0 +1,17 @@
+id: CmeNFjL6Cer0p7qhFNDv
+headword: наь кулгана
+ipa: ˌnah kulˈgana
+tags: [v, intr, phr]
+forms:
+  - text: наь кугана
+    gloss: pfv
+  - text: наь кугун
+    gloss: aor
+  - text: наь кулгана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get confused
+      ru: быть в смятении
+    aliases:
+      en: [baffle]

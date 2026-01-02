@@ -1,0 +1,16 @@
+id: hTu8Chlf1B2qwx8ZICiG
+headword: янччишин
+ipa: æntʃːiˈʃin
+tags: [n]
+etymology:
+  en: Lit. *clay-water*.
+forms:
+  - text: янччишин
+    gloss: sg
+  - text: янччишине
+    gloss: obl
+definitions:
+  - translation:
+      en: whitewash
+      ru: побелка
+    tags: [house]

@@ -1,0 +1,18 @@
+id: CV2YKKnrZvPF4kqSmaLY
+headword: букана
+ipa: buˈkana
+tags: [v, intr, cls]
+forms:
+  - text: букун
+    gloss: aor
+  - text: букана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to eat
+      ru: кушать
+    aliases:
+      en: [meal, food]
+  - translation:
+      en: to itch
+      ru: зудить

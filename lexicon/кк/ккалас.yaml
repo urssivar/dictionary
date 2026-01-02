@@ -1,0 +1,15 @@
+id: eWCaBf8I1Ur5aBTcT9ze
+headword: ккалас
+ipa: kːaˈlas
+tags: [n, loan, russian]
+forms:
+  - text: ккалас
+    gloss: sg
+  - text: ккаласе
+    gloss: pl
+definitions:
+  - translation:
+      en: class
+      ru: класс
+    aliases:
+      en: [grade]

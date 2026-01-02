@@ -1,0 +1,16 @@
+id: nds76uYL651jJJEX9bg4
+headword: зимзар
+ipa: zimˈzar
+tags: [n]
+note:
+  en: '*зинзар*'
+forms:
+  - text: зимзар
+    gloss: sg
+  - text: зимзре
+    gloss: pl
+definitions:
+  - translation:
+      en: ant
+      ru: муравей
+    tags: [animal, insect]

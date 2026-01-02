@@ -1,0 +1,19 @@
+id: v5EKV4Qh3o4ruJFvJuBd
+headword: ьей бирҳара
+ipa: ˌhej birˈxara
+tags: [v, phr, intr]
+forms:
+  - text: ьей биҳара
+    gloss: pfv
+  - text: ьей бишив
+    gloss: aor
+  - text: ьей бирҳара
+    gloss: ipfv
+definitions:
+  - note:
+      en: Usually about a car.
+    translation:
+      en: to get going
+      ru: трогаться
+    aliases:
+      en: [proceed]

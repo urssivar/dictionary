@@ -1,0 +1,21 @@
+id: aC8BkucKYWiGFYvDfQyA
+headword: бузара
+ipa: buˈzara
+tags: [v, tr, cls]
+forms:
+  - text: берзара
+    gloss: pfv
+  - text: берзив
+    gloss: aor
+  - text: бузара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to spin
+      ru: прясть
+    tags: [house]
+    aliases:
+      en: [rope, thread]
+  - translation:
+      en: to fluff up
+      ru: распушивать

@@ -1,0 +1,15 @@
+id: KQKsTrfhS13d2LKY0GHP
+headword: минара
+ipa: miˈnara
+tags: [n, loan, arabic]
+forms:
+  - text: минара
+    gloss: sg
+  - text: минарал
+    gloss: obl
+  - text: минарте
+    gloss: pl
+definitions:
+  - translation:
+      en: beacon
+      ru: маяк

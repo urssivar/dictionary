@@ -1,0 +1,18 @@
+id: nhMhx5NFChCpdNqbeIUf
+headword: ляккиш
+ipa: læˈkːiʃ
+tags: [n]
+note:
+  en: '*ляшккан*'
+forms:
+  - text: ляккиш
+    gloss: sg
+  - text: ляккише
+    gloss: pl
+definitions:
+  - translation:
+      en: sidelock
+      ru: пейс
+    tags: [body]
+    aliases:
+      en: [payot, hair]

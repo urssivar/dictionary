@@ -1,0 +1,18 @@
+id: kN76b0SRi1hClx8b4RUT
+headword: ттура цурғара
+ipa: tːuˌra tsurˈʁara
+tags: [v, tr, phr]
+forms:
+  - text: ттура цағара
+  - text: ттура цағив
+  - text: ттура цурғара
+definitions:
+  - translation:
+      en: to issue
+      ru: выдавать
+    aliases:
+      en: [release, publish]
+    examples:
+      - text: ҡҡиғре ттура цаға
+        translation:
+          en: print the papers

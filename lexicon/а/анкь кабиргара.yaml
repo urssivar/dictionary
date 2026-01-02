@@ -1,0 +1,21 @@
+id: dEfPtGMSBObTKPjWLp2A
+headword: анкь кабиргара
+ipa: ˌankʼ kabirˈgara
+tags: [v, intr, cls, phr]
+etymology:
+  en: The first part is related to *анкьала* "sleep".
+note:
+  en: '*чибусана*'
+forms:
+  - text: анкь кабигара
+    gloss: pfv
+  - text: анкь кабижив
+    gloss: aor
+  - text: анкь кабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to doze
+      ru: кимарить
+    aliases:
+      en: [sleep]

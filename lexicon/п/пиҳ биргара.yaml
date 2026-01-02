@@ -1,0 +1,17 @@
+id: sYdkeJCrXHFEi5GlRNXi
+headword: пиҳ биргара
+ipa: ˌpix birˈgara
+tags: [v, intr, cls]
+forms:
+  - text: пиҳ бигара
+    gloss: pfv
+  - text: пиҳ бижив
+    gloss: aor
+  - text: пиҳ биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be overly scrupulous
+      ru: быть чрезмерно щепетильным
+    aliases:
+      en: [queasy, meticulous]

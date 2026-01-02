@@ -1,0 +1,19 @@
+id: CJlG4r3HAdTaRRvxAqGy
+headword: саҡла
+ipa: ˈsaqla
+tags: [adv]
+etymology:
+  en: From *саҡ* "once".
+definitions:
+  - translation:
+      en: yet
+      ru: пока
+    aliases:
+      en: [for, now]
+    examples:
+      - text: саҡла варццул аккод
+        translation:
+          en: i'm not tired yet
+      - text: саҡла ьеж бара
+        translation:
+          en: do this for now

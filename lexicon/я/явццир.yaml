@@ -1,0 +1,17 @@
+id: cBKYKVI5kpxi8Z9lbTHo
+headword: явццир
+ipa: ævˈtsːir
+tags: [n, loan, russian]
+note:
+  en: There's also *йянарал* "general" attested.
+forms:
+  - text: явццир
+    gloss: sg
+  - text: явццирте
+    gloss: pl
+definitions:
+  - translation:
+      en: officer
+      ru: офицер
+    aliases:
+      en: [soldier, sergeant]

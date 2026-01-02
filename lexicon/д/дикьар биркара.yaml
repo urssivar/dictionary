@@ -1,0 +1,17 @@
+id: oL5zI3B5My0pvC9tX1Zs
+headword: дикьар биркара
+ipa: diˌkʼar birˈkara
+tags: [v, cls, intr]
+forms:
+  - text: дикьар бикара
+    gloss: pfv
+  - text: дикьар бичив
+    gloss: aor
+  - text: дикьар биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to detach
+      ru: отделяться
+    aliases:
+      en: [split, separate, secede]

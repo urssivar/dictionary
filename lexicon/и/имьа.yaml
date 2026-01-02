@@ -1,0 +1,16 @@
+id: gAXSMJhDY0b7CTmj6eqs
+headword: имьа
+ipa: ˈimha
+tags: [n]
+forms:
+  - text: имьа
+    gloss: sg
+  - text: имьне
+    gloss: pl
+definitions:
+  - translation:
+      en: donkey
+      ru: осёл
+    tags: [animal]
+    aliases:
+      en: [ass]

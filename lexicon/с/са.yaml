@@ -1,0 +1,14 @@
+id: RCoTZGWueZBagZndXzHH
+headword: са
+ipa: ˈsːa
+tags: [n, adv]
+forms:
+  - text: са
+    gloss: sg
+  - text: сал
+    gloss: obl
+definitions:
+  - translation:
+      en: yesterday
+      ru: вчера
+    tags: [time]

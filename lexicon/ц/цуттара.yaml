@@ -1,0 +1,17 @@
+id: 8OSwtZwY09adpa1Aa0Dz
+headword: цуттара
+ipa: tsuˈtːara
+tags: [v, cls, tr]
+forms:
+  - text: цаберттара
+    gloss: pfv
+  - text: цаберттив
+    gloss: aor
+  - text: цуттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tear
+      ru: отрывать
+    aliases:
+      en: [piece, take]

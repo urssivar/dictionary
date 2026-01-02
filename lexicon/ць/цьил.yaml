@@ -1,0 +1,20 @@
+id: HNcYhc5jV57SsNTg3uT2
+headword: цьил
+ipa: ˈtsʼil
+tags: [adv]
+etymology:
+  en: Adv. of *цьи* "new".
+definitions:
+  - translation:
+      en: then
+      ru: потом
+    tags: [time]
+    aliases:
+      en: [afterwards, further]
+    examples:
+      - text: цьил атта ра цяун
+        translation:
+          en: then father came too
+      - text: цьил ци йа?
+        translation:
+          en: what then?

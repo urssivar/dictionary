@@ -1,0 +1,15 @@
+id: 3bMiGFfoRZE7kDQmYCvw
+headword: хус биргара
+ipa: ˌχus birˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: хус бигара
+    gloss: pfv
+  - text: хус бижив
+    gloss: aor
+  - text: хус биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to move aside
+      ru: отодвигаться

@@ -1,0 +1,16 @@
+id: 5id5gmts4J6CxyY32Qh3
+headword: ҡусар
+ipa: quˈsar
+tags: [n]
+note:
+  en: '*урчье-миҡинде*'
+forms:
+  - text: ҡусар
+    gloss: sg
+  - text: ҡусунде
+    gloss: pl
+definitions:
+  - translation:
+      en: lung
+      ru: лёгкое
+    tags: [body]

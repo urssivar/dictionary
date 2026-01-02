@@ -1,0 +1,23 @@
+id: fn5sTwMk7Ouu7TChEPgw
+headword: сала
+ipa: ˈsala
+tags: [n]
+note:
+  en: '*ғяҡҡя*'
+forms:
+  - text: сала
+    gloss: sg
+  - text: силан
+    gloss: obl
+  - text: силе
+    gloss: pl
+definitions:
+  - translation:
+      en: wedge
+      ru: клин
+    tags: [tool]
+  - translation:
+      en: slice
+      ru: ломтик
+    aliases:
+      en: [piece]

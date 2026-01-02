@@ -1,0 +1,19 @@
+id: iyYz0luToC89hOBVd0q2
+headword: ҡҡатт
+ipa: ˈqːatː
+tags: [n]
+forms:
+  - text: ҡҡатт
+    gloss: sg
+  - text: ҡҡиттре
+    gloss: pl
+definitions:
+  - translation:
+      en: trunk
+      ru: ствол
+    aliases:
+      en: [layer]
+    examples:
+      - text: '* ҡҡаттцци ца ҡяр гон агурда'
+        translation:
+          en: very angry

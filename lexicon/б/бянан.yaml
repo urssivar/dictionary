@@ -1,0 +1,14 @@
+id: m16PlJbbbOiURCtFuL0T
+headword: бянан
+ipa: ˈbænan
+tags: [n, loan, russian]
+forms:
+  - text: бянан
+    gloss: sg
+  - text: бянанте
+    gloss: pl
+definitions:
+  - translation:
+      en: banana
+      ru: банан
+    tags: [food, fruit]

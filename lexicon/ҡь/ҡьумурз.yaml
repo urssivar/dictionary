@@ -1,0 +1,16 @@
+id: hN2Bn78qN3BCLZeSTGgT
+headword: ҡьумурз
+ipa: qʼuˈmurz
+tags: [n, loan, turkic]
+forms:
+  - text: ҡьумурз
+    gloss: sg
+  - text: ҡьумурзе
+    gloss: pl
+definitions:
+  - translation:
+      en: kumuz
+      ru: кумуз
+    tags: [tool, music]
+    aliases:
+      en: [guitar]

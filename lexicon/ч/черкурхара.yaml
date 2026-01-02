@@ -1,0 +1,17 @@
+id: GFvjC8Nm5EWmSkjk6wdk
+headword: черкурхара
+ipa: tʃerkurˈχara
+tags: [v, intr, cls]
+forms:
+  - text: черкаберхора
+    gloss: pfv
+  - text: черкаберхур
+    gloss: aor
+  - text: черкабурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to expire
+      ru: истекать
+    aliases:
+      en: [end, pass]

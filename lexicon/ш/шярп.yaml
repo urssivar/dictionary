@@ -1,0 +1,14 @@
+id: KBggvkZcMdEBmdHWkcwY
+headword: шярп
+ipa: ˈʃærp
+tags: [n, loan, russian]
+forms:
+  - text: шярп
+    gloss: sg
+  - text: шярпре
+    gloss: pl
+definitions:
+  - translation:
+      en: scarf
+      ru: шарф
+    tags: [clothing]

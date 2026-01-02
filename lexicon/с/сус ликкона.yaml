@@ -1,0 +1,17 @@
+id: zoPSArbdCc8FqFqzYPnK
+headword: сус ликкона
+ipa: ˌsus liˈkːona
+tags: [v, intr, cls, phr]
+forms:
+  - text: сус белккона
+    gloss: pfv
+  - text: сус белккун
+    gloss: aor
+  - text: сус ликкона
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to overbake
+      ru: перепекаться, выгорать
+    aliases:
+      en: [burn, bake]

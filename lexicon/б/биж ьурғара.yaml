@@ -1,0 +1,17 @@
+id: Q4KwUL3ervMem2I9xBAo
+headword: биж ьурғара
+ipa: ˌbiʒ hurˈʁara
+tags: [v, tr, cls, phr]
+forms:
+  - text: биж ьағара
+    gloss: pfv
+  - text: биж ьағив
+    gloss: aor
+  - text: биж ьурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to drive in
+      ru: загонять
+    aliases:
+      en: [huddle]

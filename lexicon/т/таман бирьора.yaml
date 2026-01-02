@@ -1,0 +1,19 @@
+id: TiN84eEsstHfOb8bIoTS
+headword: таман бирьора
+ipa: taˌman birˈhora
+tags: [v, intr, cls, phr]
+forms:
+  - text: таман биьора
+    gloss: pfv
+  - text: таман биьяв
+    gloss: aor
+  - text: таман бирьора
+    gloss: ipfv
+definitions:
+  - note:
+      en: To die after disease.
+    translation:
+      en: to succumb
+      ru: скончаться
+    aliases:
+      en: [die]

@@ -1,0 +1,16 @@
+id: cG7QZoTm1cb3daGPW0id
+headword: амьамуҡь
+ipa: amhaˈmuqʼ
+tags: [n]
+forms:
+  - text: амьамуҡь
+    gloss: sg
+  - text: амьамуҡье
+    gloss: pl
+definitions:
+  - translation:
+      en: woodlouse
+      ru: мокрица
+    tags: [animal, insect]
+    aliases:
+      en: [bug]

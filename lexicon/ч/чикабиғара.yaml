@@ -1,0 +1,17 @@
+id: df7jqkklMUnzAMRbtTwB
+headword: чикабиғара
+ipa: tʃikabiˈʁara
+tags: [v, intr, cls]
+forms:
+  - text: чикабеғара
+    gloss: pfv
+  - text: чикабеғив
+    gloss: aor
+  - text: чикабиғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to calm down
+      ru: успокаиваться
+    aliases:
+      en: [settle, quiet]

@@ -1,0 +1,16 @@
+id: OXfP3DZ2jHXlRujaoKFW
+headword: ккапан
+ipa: kːaˈpan
+tags: [n]
+note:
+  en: '*биҳре*'
+forms:
+  - text: ккапан
+    gloss: sg
+  - text: ккапанте
+    gloss: pl
+definitions:
+  - translation:
+      en: shroud
+      ru: саван
+    tags: [clothing]

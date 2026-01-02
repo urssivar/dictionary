@@ -1,0 +1,17 @@
+id: ffvNVb4a7QX2YwWiyjxE
+headword: гумбергара
+ipa: gumberˈgara
+tags: [v, intr, cls]
+forms:
+  - text: гумбегара
+    gloss: pfv
+  - text: гумбегур
+    gloss: aor
+  - text: гумбергара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get pregnant (about an animal)
+      ru: беременеть (о животном)
+    aliases:
+      en: [conceive]

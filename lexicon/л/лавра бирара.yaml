@@ -1,0 +1,15 @@
+id: sz1V7UWp7MrkRZr3qBiD
+headword: лавра бирара
+ipa: lavˌra biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: лавра барара
+    gloss: pfv
+  - text: лавра барив
+    gloss: aor
+  - text: лавра бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to roll with tongue
+      ru: крутить языком

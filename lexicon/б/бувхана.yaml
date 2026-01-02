@@ -1,0 +1,17 @@
+id: p1UtiImBA2TP1PUcs73m
+headword: бувхана
+ipa: buvˈχana
+tags: [v, tr, cls]
+forms:
+  - text: бевхана
+    gloss: pfv
+  - text: бевхун
+    gloss: aor
+  - text: бувхана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to braid
+      ru: заплетать
+    aliases:
+      en: [plait, twine]

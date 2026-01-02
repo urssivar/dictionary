@@ -1,0 +1,19 @@
+id: znsCK6LNLS6q735qTJmk
+headword: ҡар бирара
+ipa: ˌqar biˈrara
+tags: [v, tr, phr]
+note:
+  en: '*буйруҡҡ ~*'
+forms:
+  - text: ҡар барара
+    gloss: pfv
+  - text: ҡар барив
+    gloss: aor
+  - text: ҡар бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to order
+      ru: приказывать
+    aliases:
+      en: [command]

@@ -1,0 +1,14 @@
+id: KO8OAAtBh0YBTQ6I4Ul5
+headword: турт
+ipa: ˈturt
+tags: [n, loan, russian]
+forms:
+  - text: турт
+    gloss: sg
+  - text: туртре
+    gloss: pl
+definitions:
+  - translation:
+      en: cake
+      ru: торт
+    tags: [food]

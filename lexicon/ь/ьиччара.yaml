@@ -1,0 +1,19 @@
+id: 7mwT82mOlTQh2ciXOWiv
+headword: ьиччара
+ipa: hiˈtʃːara
+tags: [v, cls, tr]
+note:
+  en: '*ьабиччур* (aor), *черьиччара*'
+forms:
+  - text: ьабиччара
+    gloss: pfv
+  - text: ьабиччив
+    gloss: aor
+  - text: ьиччара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to carve
+      ru: вырезать
+    aliases:
+      en: [cut, out]

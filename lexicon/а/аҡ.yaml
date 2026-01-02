@@ -1,0 +1,16 @@
+id: Dwbn2SIZy3leW9m5osy8
+headword: аҡ
+ipa: ˈaq
+tags: [n]
+forms:
+  - text: аҡ
+    gloss: sg
+  - text: аҡа
+    gloss: obl
+  - text: иҡре
+    gloss: pl
+definitions:
+  - translation:
+      en: vineyard
+      ru: виноградник
+    tags: [agriculture]

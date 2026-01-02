@@ -1,0 +1,21 @@
+id: OW1PuUED4zrvPLToXql1
+headword: мята
+ipa: ˈmæta
+tags: [n]
+note:
+  en: '*мятай*'
+forms:
+  - text: мята
+    gloss: sg
+  - text: мятне
+    gloss: pl
+definitions:
+  - translation:
+      en: game
+      ru: игра
+    aliases:
+      en: [play]
+    examples:
+      - text: ҡале-мята
+        translation:
+          en: house-building game

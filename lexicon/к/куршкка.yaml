@@ -1,0 +1,17 @@
+id: VR3bqu4K0UdSTcNTR4TM
+headword: куршкка
+ipa: kurʃˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: куршкка
+    gloss: sg
+  - text: куршккан
+    gloss: loc, obl
+  - text: куршккне
+    gloss: pl
+definitions:
+  - translation:
+      en: mug
+      ru: кружка
+    aliases:
+      en: [cup]

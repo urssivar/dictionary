@@ -1,0 +1,16 @@
+id: KKasyQDcSQT5UgMX8pxX
+headword: ҡьялта
+ipa: ˈqʼælta
+tags: [n]
+forms:
+  - text: ҡьялта
+    gloss: sg
+  - text: ҡьялтан
+    gloss: obl
+  - text: ҡьялтиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: torch
+      ru: факел
+    tags: [tool]

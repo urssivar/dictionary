@@ -1,0 +1,22 @@
+id: orTRCJJzw2qv5DNasqkT
+headword: кабурцара
+ipa: kaburˈtsara
+tags: [v, tr, cls]
+forms:
+  - text: кабуцара
+    gloss: pfv
+  - text: кабуцив
+    gloss: aor
+  - text: кабурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to contain
+      ru: вмещать
+    aliases:
+      en: [fit]
+  - translation:
+      en: to lower
+      ru: спускать
+    aliases:
+      en: [down]

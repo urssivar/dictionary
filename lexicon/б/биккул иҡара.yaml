@@ -1,0 +1,23 @@
+id: yQJ8fQohEGekycVNcDSl
+headword: биккул иҡара
+ipa: ˌbikːul iˈqara
+tags: [v, intr, cls, phr]
+etymology:
+  en: Lit. "to pass wanting".
+forms:
+  - text: биккул аҡара
+    gloss: pfv
+  - text: биккул аҡив
+    gloss: aor
+  - text: биккул иҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to crave
+      ru: сильно желать
+    aliases:
+      en: [wish, desire]
+    examples:
+      - text: ьел машин биккул аҡивда
+        translation:
+          en: i craved for that car

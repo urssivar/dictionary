@@ -1,0 +1,17 @@
+id: jUrtx04AD25xmWSAXnKK
+headword: кам бирьора
+ipa: ˌkam birˈhora
+tags: [v, intr, phr, cls]
+forms:
+  - text: кам биьора
+    gloss: pfv
+  - text: кам биьяв
+    gloss: aor
+  - text: кам бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to diminish
+      ru: уменьшаться
+    aliases:
+      en: [lower]

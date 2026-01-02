@@ -1,0 +1,15 @@
+id: tHacB9TSQoAjS8HKUxgY
+headword: чирдях
+ipa: tʃirˈdæχ
+tags: [n, loan, russian]
+forms:
+  - text: чирдях
+    gloss: sg
+  - text: чирдяхе
+    gloss: pl
+definitions:
+  - translation:
+      en: attic
+      ru: чердак
+    aliases:
+      en: [loft, garret, room]

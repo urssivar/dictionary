@@ -1,0 +1,20 @@
+id: rBvYTtXecLuXNX9uxOSc
+headword: ппима
+ipa: ˈpːima
+tags: [n]
+note:
+  en: '*буғбуғи*'
+forms:
+  - text: ппима
+    gloss: sg
+  - text: ппиман
+    gloss: obl
+  - text: ппимре
+    gloss: pl
+definitions:
+  - translation:
+      en: bumblebee
+      ru: шмель
+    tags: [animal, insect]
+    aliases:
+      en: [bee]

@@ -1,0 +1,17 @@
+id: L3DJK2mMp4XTNDzVs29j
+headword: барх цабирара
+ipa: ˌbarχ tsabiˈrara
+tags: [v, phr, tr, cls]
+forms:
+  - text: барх цабарара
+    gloss: pfv
+  - text: барх цабарив
+    gloss: aor
+  - text: барх цабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to mix
+      ru: смешивать
+    aliases:
+      en: [blend]

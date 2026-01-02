@@ -1,0 +1,16 @@
+id: ey0cwVNfScpuJr3gOcFC
+headword: уба
+ipa: ˈuba
+tags: [n]
+note:
+  en: '*аба*'
+forms:
+  - text: уба
+    gloss: sg
+  - text: убне
+    gloss: pl
+definitions:
+  - translation:
+      en: mother
+      ru: мать
+    tags: [kinship]

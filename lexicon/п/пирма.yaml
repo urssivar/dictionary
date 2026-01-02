@@ -1,0 +1,17 @@
+id: nhrkhOLV5ExfDIx78DVp
+headword: пирма
+ipa: ˈpirma
+tags: [n, loan, russian]
+forms:
+  - text: пирма
+    gloss: sg
+  - text: пирмал
+    gloss: obl
+  - text: пирмунде
+    gloss: pl
+definitions:
+  - translation:
+      en: firm
+      ru: фирма
+    aliases:
+      en: [company, business]

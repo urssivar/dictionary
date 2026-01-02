@@ -1,0 +1,16 @@
+id: 4t09LAZYDDMhST1n6sRb
+headword: гонне
+ipa: gonˈne
+tags: [adv]
+etymology:
+  en: Adv. of *гон* "like".
+definitions:
+  - translation:
+      en: approximately
+      ru: примерно, около
+    aliases:
+      en: [around, about]
+    examples:
+      - text: ца сяятли гонне таман бирьонне
+        translation:
+          en: will finish in about an hour

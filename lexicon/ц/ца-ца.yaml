@@ -1,0 +1,14 @@
+id: IJVMJBs4MchOggNkrAqo
+headword: ца-ца
+ipa: ˈtsa-tsa
+tags: [adv, num]
+definitions:
+  - translation:
+      en: by one
+      ru: по одному
+    aliases:
+      en: [sequential, individual]
+    examples:
+      - text: ца-ца кадиҳа
+        translation:
+          en: put one by one

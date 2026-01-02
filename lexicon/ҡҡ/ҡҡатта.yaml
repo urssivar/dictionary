@@ -1,0 +1,20 @@
+id: O5i1Fv3F8fVX0w3dCUGr
+headword: ҡҡатта
+ipa: ˈqːatːа
+tags: [n]
+note:
+  en: '*ҡҡатте*'
+forms:
+  - text: ҡҡатта
+    gloss: sg
+  - text: ҡҡаттан
+    gloss: loc
+  - text: ҡҡаттирбе
+    gloss: pl
+definitions:
+  - translation:
+      en: ravine
+      ru: ущелье
+    tags: [nature]
+    aliases:
+      en: [gorge, canyon]

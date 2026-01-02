@@ -1,0 +1,19 @@
+id: blOUOOSKwSQXpm0n9VbF
+headword: унзе
+ipa: ˈunze
+tags: [n]
+etymology:
+  en: Maybe from *кувзара* "to strain".
+note:
+  en: '*унзей*'
+forms:
+  - text: унзе
+    gloss: sg
+  - text: унзен
+    gloss: obl
+definitions:
+  - translation:
+      en: chaff remains
+      ru: остатки мякны
+    aliases:
+      en: [peel, chaff, dust]

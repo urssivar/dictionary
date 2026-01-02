@@ -1,0 +1,24 @@
+id: 2vEa7l0YrQ4llSD0SdhJ
+headword: дунцра
+ipa: duntsˈra
+tags: [n]
+etymology:
+  en: From old meaning of *дум* "edge" and *бурцара* "to hold".
+note:
+  en: '*думцра*, *думуцри*, *думуце*'
+definitions:
+  - translation:
+      en: fasting
+      ru: пост
+    aliases:
+      en: [abstinence]
+    examples:
+      - text: дунцрала бацц
+        translation:
+          en: ramadan
+      - text: дунцра диршара
+        translation:
+          en: to stop fasting
+      - text: дунцра вигара
+        translation:
+          en: to fast

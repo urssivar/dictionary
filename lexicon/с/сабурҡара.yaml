@@ -1,0 +1,17 @@
+id: BqykCT4NZbauxdMIIFIM
+headword: сабурҡара
+ipa: saburˈqara
+tags: [v, tr, cls]
+forms:
+  - text: сабяҡара
+    gloss: pfv
+  - text: сабяҡив
+    gloss: aor
+  - text: сабурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to repel
+      ru: отгонять
+    aliases:
+      en: [chase, drive]

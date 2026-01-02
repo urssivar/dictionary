@@ -1,0 +1,17 @@
+id: c6Gx3aKcxtEceMSUHWQS
+headword: барҳ кабирара
+ipa: ˌbarx kabiˈrara
+tags: [v, tr, phr, cls]
+forms:
+  - text: барҳ кабарара
+    gloss: pfv
+  - text: барҳ кабарив
+    gloss: aor
+  - text: барҳ кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to see off
+      ru: провожать
+    aliases:
+      en: [escort, lead]

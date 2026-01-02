@@ -1,0 +1,29 @@
+id: DFT2IFEmOJB77jA2PnjV
+headword: биккара
+ipa: biˈkːara
+tags: [v, cls, intr]
+definitions:
+  - translation:
+      en: to want
+      ru: хотеть
+    aliases:
+      en: [wish, attract]
+    examples:
+      - text: дам шин диккул да
+        translation:
+          en: i want water
+      - text: дуцци ци биккул де йа и?
+        translation:
+          en: what do you want from me?
+      - text: ду ижин угара биккул да
+        translation:
+          en: i want to stay here
+  - translation:
+      en: to attract
+      ru: привлекать
+    aliases:
+      en: [like]
+    examples:
+      - text: уцций машинте диккар
+        translation:
+          en: my brother is attracted to cars

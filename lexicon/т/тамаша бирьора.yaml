@@ -1,0 +1,17 @@
+id: jOaZI5hgdJ1Pr3UmiEu6
+headword: тамаша бирьора
+ipa: tamaˌʃa birˈhora
+tags: [v, intr, cls, phr]
+forms:
+  - text: тамаша биьора
+    gloss: pfv
+  - text: тамаша биьяв
+    gloss: aor
+  - text: тамаша бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be surprised
+      ru: удивляться
+    aliases:
+      en: [wonder]

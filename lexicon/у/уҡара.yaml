@@ -1,0 +1,17 @@
+id: c6DJYbPl6U3jKEQQhaKb
+headword: уҡара
+ipa: uˈqara
+tags: [v, tr, cls]
+forms:
+  - text: бурҡара
+    gloss: pfv
+  - text: бурҡив
+    gloss: aor
+  - text: уҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to castrate
+      ru: кастрировать
+    aliases:
+      en: [geld]

@@ -1,0 +1,17 @@
+id: VfpYEvnwcmSkVQDJUE8Z
+headword: сарбирҳара
+ipa: sarbirˈxara
+tags: [v, cls, tr]
+forms:
+  - text: сарбиҳара
+    gloss: pfv
+  - text: сарбишив
+    gloss: aor
+  - text: сарбирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to conceal
+      ru: скрывать
+    aliases:
+      en: [hide, disguise]

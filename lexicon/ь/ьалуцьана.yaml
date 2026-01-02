@@ -1,0 +1,22 @@
+id: BniGr4shQFwg6utOnmfx
+headword: ьалуцьана
+ipa: haluˈtsʼana
+tags: [v, tr, cls]
+forms:
+  - text: ьабалцьана
+    gloss: pfv
+  - text: ьабалцьун
+    gloss: aor
+  - text: ьалуцьана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stir up
+      ru: ворошить
+    aliases:
+      en: [mess, up]
+  - translation:
+      en: to sort through
+      ru: перебирать
+    aliases:
+      en: [inspect]

@@ -1,0 +1,19 @@
+id: cSHaXApf92v9abtMHu70
+headword: рай бирьора
+ipa: ˌraj birˈhora
+tags: [v, intr, cls]
+note:
+  en: '*бяъ бирьора*'
+forms:
+  - text: рай биьора
+    gloss: pfv
+  - text: рай биьяв
+    gloss: aor
+  - text: рай бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to surrender
+      ru: сдаваться
+    aliases:
+      en: [yield]

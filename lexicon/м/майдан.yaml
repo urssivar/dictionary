@@ -1,0 +1,16 @@
+id: OzQJ632qZSTXFiqr7b5j
+headword: майдан
+ipa: majˈdan
+tags: [n, loan]
+forms:
+  - text: майдан
+    gloss: sg
+  - text: майданте
+    gloss: pl
+definitions:
+  - translation:
+      en: field
+      ru: поле
+    tags: [nature]
+    aliases:
+      en: [site, valley]

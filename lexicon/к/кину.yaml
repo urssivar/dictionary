@@ -1,0 +1,17 @@
+id: bWwBenSTMgA4dlfP5ypq
+headword: кину
+ipa: kiˈnu
+tags: [n, loan, russian]
+forms:
+  - text: кину
+    gloss: sg
+  - text: кинул
+    gloss: obl
+  - text: кинубе
+    gloss: pl
+definitions:
+  - translation:
+      en: movie
+      ru: фильм
+    aliases:
+      en: [cinema]

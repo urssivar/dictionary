@@ -1,0 +1,19 @@
+id: rPrNlY1zvGuRx0kKxjn0
+headword: билле
+ipa: ˈbille
+tags: [adv, cls]
+etymology:
+  en: From cop. *би* "to be".
+definitions:
+  - translation:
+      en: while
+      ru: в то время как
+    aliases:
+      en: [during, because, as]
+    examples:
+      - text: никьол вилле шилцци ужи
+        translation:
+          en: while he was little he stayed in the village
+      - text: атта ҡил вилле уцци ра цяун
+        translation:
+          en: brother came too while father was home

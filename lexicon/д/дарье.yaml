@@ -1,0 +1,18 @@
+id: jQqEgcR3YoOuEPEqyA7z
+headword: дарье
+ipa: ˈdarhe
+tags: [n, nmlz]
+forms:
+  - text: дарье
+    gloss: sg
+  - text: дарьиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: stitch
+      ru: стёжка
+    aliases:
+      en: [seam]
+  - translation:
+      en: embroidery
+      ru: вышивка

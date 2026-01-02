@@ -1,0 +1,37 @@
+id: JKZxydbf5LcOShLQlWH6
+headword: гон
+ipa: ˈgon
+tags: [adv, pro, adj]
+forms:
+  - text: гон
+    gloss: nom
+  - text: гонил
+    gloss: obl
+  - text: гонте
+    gloss: pl
+definitions:
+  - translation:
+      en: like
+      ru: как
+    tags: [measure]
+    aliases:
+      en: [as]
+    examples:
+      - text: бизи гон тяь вижив
+        translation:
+          en: jumped like a cat
+      - text: шилцци яьле це шаьарцци гон аккол
+        translation:
+          en: it's good in the village unlike in the city
+      - text: марка барара гон це
+        translation:
+          en: '[looks like] it''s going to rain'
+  - translation:
+      en: as soon as
+      ru: как только
+    aliases:
+      en: [immediately]
+    examples:
+      - text: убал биив гон биранда
+        translation:
+          en: i'll do it as soon as mother tells

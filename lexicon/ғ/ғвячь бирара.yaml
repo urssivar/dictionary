@@ -1,0 +1,17 @@
+id: OrR1lwaluXfGWv1IAExF
+headword: ғвячь бирара
+ipa: ˌʁʷætʃʼ biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: ғвячь барара
+    gloss: pfv
+  - text: ғвячь барив
+    gloss: aor
+  - text: ғвячь бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pressure
+      ru: давить
+    aliases:
+      en: [push, press]

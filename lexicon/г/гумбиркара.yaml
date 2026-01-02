@@ -1,0 +1,17 @@
+id: T7bliS9yNKqbZFFn9SH7
+headword: гумбиркара
+ipa: gumbirˈkara
+tags: [v, intr, cls]
+forms:
+  - text: гумбикара
+    gloss: pfv
+  - text: гумбичив
+    gloss: aor
+  - text: гумбиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get caught
+      ru: попадаться
+    aliases:
+      en: [lose]

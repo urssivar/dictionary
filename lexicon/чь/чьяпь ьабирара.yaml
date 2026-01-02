@@ -1,0 +1,17 @@
+id: 2GUUgUpYOvqFYxHXIWtj
+headword: чьяпь ьабирара
+ipa: ˌtʃʼæpʼ habiˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: чьяпь ьабарара
+    gloss: pfv
+  - text: чьяпь ьабарив
+    gloss: aor
+  - text: чьяпь ьабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pump out
+      ru: выкачивать
+    aliases:
+      en: [dry]

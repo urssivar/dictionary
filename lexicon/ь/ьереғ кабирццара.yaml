@@ -1,0 +1,17 @@
+id: kTqZy53EATGgpkmKoQrJ
+headword: ьереғ кабирццара
+ipa: heˌreʁ kabirˈtsːara
+tags: [v, intr, cls, phr]
+forms:
+  - text: ьереғ кабиццара
+    gloss: pfv
+  - text: ьереғ кабиццур
+    gloss: aor
+  - text: ьереғ кабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to support
+      ru: поддерживать, содействовать
+    aliases:
+      en: [facilitate]

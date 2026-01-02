@@ -1,0 +1,17 @@
+id: wok1x47tr3Kg1MsKKGyD
+headword: хяр
+ipa: ˈχær
+tags: [n]
+note:
+  en: '*дере*'
+forms:
+  - text: хяр
+    gloss: sg
+  - text: хярме
+    gloss: pl
+definitions:
+  - translation:
+      en: boundary
+      ru: межа
+    aliases:
+      en: [border, region]

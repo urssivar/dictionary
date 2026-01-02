@@ -1,0 +1,19 @@
+id: CViEuGCJmsG9xciTvP5I
+headword: ҳар биғара
+ipa: ˌxar biˈʁara
+tags: [v, intr, cls, phr]
+etymology:
+  en: Lit. "to reach bottom".
+forms:
+  - text: ҳар беғара
+    gloss: pfv
+  - text: ҳар беғив
+    gloss: aor
+  - text: ҳар биғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to ask
+      ru: выяснять, спрашивать
+    aliases:
+      en: [question, find, out]

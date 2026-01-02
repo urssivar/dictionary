@@ -1,0 +1,17 @@
+id: PPEGnYf7Rg2lBHeU6Sdq
+headword: ьербирьора
+ipa: herbirˈhora
+tags: [v, cls, intr]
+forms:
+  - text: ьербиьора
+    gloss: pfv
+  - text: ьербиьяв
+    gloss: aor
+  - text: ьербирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to live
+      ru: жить
+    aliases:
+      en: [dwell]

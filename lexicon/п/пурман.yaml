@@ -1,0 +1,19 @@
+id: Oc68eynZN0yXMOi2SVA0
+headword: пурман
+ipa: purˈman
+tags: [n, loan, persian]
+forms:
+  - text: пурман
+    gloss: sg
+  - text: пурманте
+    gloss: pl
+definitions:
+  - translation:
+      en: permission
+      ru: разрешение
+    aliases:
+      en: [authorization]
+    examples:
+      - text: пурман беччив
+        translation:
+          en: permited

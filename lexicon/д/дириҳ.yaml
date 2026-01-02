@@ -1,0 +1,21 @@
+id: u3pulxng0rgOH6hatyxb
+headword: дириҳ
+ipa: diˈrix
+tags: [n]
+forms:
+  - text: дириҳ
+    gloss: sg
+  - text: дирҳан
+    gloss: obl
+definitions:
+  - translation:
+      en: fog
+      ru: туман
+    tags: [nature]
+    examples:
+      - text: дирҳанли буцил це
+        translation:
+          en: it's foggy
+      - text: пьяць дириҳ
+        translation:
+          en: thick fog

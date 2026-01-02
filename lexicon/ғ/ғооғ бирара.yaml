@@ -1,0 +1,17 @@
+id: 0oC187jvC5pdOKydCNJx
+headword: ғооғ бирара
+ipa: ˌʁooʁ biˌrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: ғооғ барара
+    gloss: pfv
+  - text: ғооғ барив
+    gloss: aor
+  - text: ғооғ бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to gargle
+      ru: полоскать
+    aliases:
+      en: [rinse]

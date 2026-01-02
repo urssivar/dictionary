@@ -1,0 +1,17 @@
+id: ky4Xdsm2BZFtJIohpek2
+headword: хабар бирара
+ipa: χaˌbar biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: хабар барара
+    gloss: pfv
+  - text: хабар барив
+    gloss: aor
+  - text: хабар бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to notice
+      ru: замечать
+    aliases:
+      en: [note]

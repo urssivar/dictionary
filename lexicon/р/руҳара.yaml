@@ -1,0 +1,17 @@
+id: AehMX6KGzMsDEbga8IsC
+headword: руҳара
+ipa: ruˈxːara
+tags: [v, tr, cls]
+forms:
+  - text: берҳора
+    gloss: pfv
+  - text: берҳур
+    gloss: aor
+  - text: руҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to paint
+      ru: красить
+    aliases:
+      en: [dye, color]

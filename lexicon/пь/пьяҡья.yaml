@@ -1,0 +1,16 @@
+id: BmyjgBABgR1UNT9p5iO1
+headword: пьяҡья
+ipa: ˈpʼæqʼæ
+tags: [n]
+forms:
+  - text: пьяҡья
+    gloss: sg
+  - text: пьяҡьян
+    gloss: obl
+  - text: пьяҡьне
+    gloss: pl
+definitions:
+  - translation:
+      en: callus
+      ru: мозоль
+    tags: [body]

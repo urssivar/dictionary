@@ -1,0 +1,23 @@
+id: zVUKZIEz686iPkWtJ63S
+headword: у
+ipa: u
+tags: [ptcl]
+note:
+  en: Pronounced *в* after vowels.
+forms:
+  - text: '''в'
+  - text: '''у'
+definitions:
+  - translation:
+      en: '[polar question]'
+      ru: '[полярный вопрос]'
+    examples:
+      - text: акку у?
+        translation:
+          en: isn't it?
+      - text: ьеж у?
+        translation:
+          en: is it this one?
+      - text: ҡил у?
+        translation:
+          en: at home?

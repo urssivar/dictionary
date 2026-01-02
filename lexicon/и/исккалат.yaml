@@ -1,0 +1,17 @@
+id: 2vmdUpFtM9C4SGHuCN1j
+headword: исккалат
+ipa: iskːaˈlat
+tags: [n, loan, russian]
+note:
+  en: '*вирмянкка*'
+forms:
+  - text: исккалат
+    gloss: sg
+  - text: исккалате
+    gloss: pl
+definitions:
+  - translation:
+      en: warehouse
+      ru: склад
+    aliases:
+      en: [store, depot]

@@ -1,0 +1,31 @@
+id: hgK9g1zGxk3PHfR21iMA
+headword: ямру
+ipa: ˈæmru
+tags: [n, loan, arabic]
+etymology:
+  en: '*янру*'
+forms:
+  - text: ямру
+    gloss: sg
+  - text: ямрул
+    gloss: obl
+definitions:
+  - translation:
+      en: age
+      ru: возраст
+    aliases:
+      en: [living]
+    examples:
+      - text: ямрулцци веғив
+        translation:
+          en: elderly
+  - translation:
+      en: life
+      ru: жизнь
+    examples:
+      - text: ямру деччив
+        translation:
+          en: lived long
+      - text: ямру деркьора
+        translation:
+          en: to spend life

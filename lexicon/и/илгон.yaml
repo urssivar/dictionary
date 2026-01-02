@@ -1,0 +1,18 @@
+id: R1lL3GH65kxacSkgGajl
+headword: илгон
+ipa: ilˈgon
+tags: [det]
+etymology:
+  en: From *ьел* "that" + *гон* "like".
+note:
+  en: '*ьелгон*'
+definitions:
+  - translation:
+      en: suchlike
+      ru: такой
+    aliases:
+      en: [like]
+    examples:
+      - text: илгон мациҡҡатт
+        translation:
+          en: dont bring such things

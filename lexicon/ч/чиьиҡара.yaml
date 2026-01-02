@@ -1,0 +1,17 @@
+id: RfZsTkTawmLq5Ha5cR0o
+headword: чиьиҡара
+ipa: tʃihiˈqara
+tags: [v, intr, cls]
+forms:
+  - text: чиьаҡара
+    gloss: pfv
+  - text: чиьаҡив
+    gloss: aor
+  - text: чиьиҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to suffice
+      ru: быть достаточным
+    aliases:
+      en: [enough]

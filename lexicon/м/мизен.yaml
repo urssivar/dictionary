@@ -1,0 +1,16 @@
+id: I92YCfmhwO2MDutBVksG
+headword: мизен
+ipa: miˈzen
+tags: [n, loan]
+forms:
+  - text: мизен
+    gloss: sg
+  - text: мизенте
+    gloss: pl
+definitions:
+  - translation:
+      en: stilyard
+      ru: безмен
+    tags: [tool]
+    aliases:
+      en: [scales]

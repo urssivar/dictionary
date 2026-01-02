@@ -1,0 +1,16 @@
+id: RXfDRpU8diR5OsJFxIaG
+headword: ьяка
+ipa: hæˈka
+tags: [n]
+forms:
+  - text: ьяка
+    gloss: sg
+  - text: ьякан
+    gloss: obl
+  - text: ьякне
+    gloss: pl
+definitions:
+  - translation:
+      en: fur coat
+      ru: шуба
+    tags: [clothing]

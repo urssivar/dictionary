@@ -1,0 +1,20 @@
+id: vMw9pTCbJGRX5xVorHxR
+headword: верал
+ipa: ˈveral
+tags: [num]
+forms:
+  - text: верал
+    gloss: card
+  - text: вер
+    gloss: root, obl
+definitions:
+  - translation:
+      en: seven
+      ru: семь
+    examples:
+      - text: верда жан
+        translation:
+          en: tenacious (lit. 7 lifes)
+      - text: верда аже
+        translation:
+          en: deceitful (lit. 7 melodies)

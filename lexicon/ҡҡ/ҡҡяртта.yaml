@@ -1,0 +1,18 @@
+id: K0H0pImJed9GDrfqOZ2A
+headword: ҡҡяртта
+ipa: qːærˈtːa
+tags: [n]
+forms:
+  - text: ҡҡяртта
+    gloss: sg
+  - text: ҡҡярттан
+    gloss: obl
+  - text: ҡҡярттиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: peg
+      ru: колышек
+    tags: [tool]
+    aliases:
+      en: [stake, pole, bar]

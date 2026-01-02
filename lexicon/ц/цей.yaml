@@ -1,0 +1,27 @@
+id: bAGNOBa7fqeFOhB4wKR5
+headword: цей
+ipa: ˈtsej
+tags: [pro, cls]
+note:
+  en: '*цеви* (nom m), *цинни* (erg)'
+forms:
+  - text: цей
+    gloss: nom m
+  - text: цере
+    gloss: nom f
+  - text: цебе
+    gloss: nom n
+  - text: цине
+    gloss: obl
+  - text: цинна
+    gloss: gen
+definitions:
+  - translation:
+      en: oneself
+      ru: сам
+    aliases:
+      en: [himself, myself, itself, own]
+    examples:
+      - text: цинна палтар цаҡҡив
+        translation:
+          en: he brought his clothes

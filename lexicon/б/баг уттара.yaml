@@ -1,0 +1,17 @@
+id: LKpVkZgMBNOXKmQwS9Q1
+headword: баг уттара
+ipa: ˌbag uˈtːara
+tags: [v, lbl, phr, cls]
+forms:
+  - text: баг берттара
+    gloss: pfv
+  - text: баг берттив
+    gloss: aor
+  - text: баг уттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tear
+      ru: рваться
+    aliases:
+      en: [break, split, rip]

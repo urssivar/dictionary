@@ -1,0 +1,17 @@
+id: 6LVpGifOEEfiv6UsQVfQ
+headword: кабирҳара
+ipa: kabirˈxara
+tags: [v, tr, cls]
+forms:
+  - text: кабиҳара
+    gloss: pfv
+  - text: кабишив
+    gloss: aor
+  - text: кабирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to put down
+      ru: ложить
+    aliases:
+      en: [place, lay]

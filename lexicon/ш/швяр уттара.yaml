@@ -1,0 +1,19 @@
+id: ScurIhQmJp0zVRDWC56Q
+headword: швяр уттара
+ipa: ˌʃʷær uˈtːara
+tags: [v, cls, intr, phr]
+note:
+  en: '*гур бикьора*'
+forms:
+  - text: швяр берттара
+    gloss: pfv
+  - text: швяр берттив
+    gloss: aor
+  - text: швяр уттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dash
+      ru: проноситься
+    aliases:
+      en: [race, run]

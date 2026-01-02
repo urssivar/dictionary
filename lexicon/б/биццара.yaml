@@ -1,0 +1,17 @@
+id: A6GOhdyTm9ZY9fHT3EAE
+headword: биццара
+ipa: biˈtsːara
+tags: [v, lbl, cls]
+forms:
+  - text: баццара
+    gloss: pfv
+  - text: баццив
+    gloss: aor
+  - text: биццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to bathe
+      ru: купаться
+    aliases:
+      en: [wash]

@@ -1,0 +1,16 @@
+id: hGYrLSIfdRJWArGoyieM
+headword: чикабивццара
+ipa: tʃikabivˈtsːara
+tags: [v, tr, cls]
+forms:
+  - text: чикабивццив
+    gloss: aor
+  - text: чикабивццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to ornament
+      ru: орнаментировать
+    tags: []
+    aliases:
+      en: [sew, decorate]

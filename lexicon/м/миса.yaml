@@ -1,0 +1,18 @@
+id: RYPeMuYc6614hnPbCnrG
+headword: миса
+ipa: ˈmisa
+tags: [n]
+forms:
+  - text: миса
+    gloss: sg
+  - text: мисан
+    gloss: obl, loc
+  - text: мисуппе
+    gloss: pl
+definitions:
+  - translation:
+      en: maw
+      ru: ротовая полость, пасть
+    tags: [body]
+    aliases:
+      en: [mouth, oral, cavity]

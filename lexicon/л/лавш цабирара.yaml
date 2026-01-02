@@ -1,0 +1,17 @@
+id: tLp0PLrYdy4g2yeZSRDk
+headword: лавш цабирара
+ipa: ˌlavʃ tsabiˈrara
+tags: [v, cls, tr]
+forms:
+  - text: лавш цабарара
+    gloss: pfv
+  - text: лавш цабарив
+    gloss: aor
+  - text: лавш цабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rake in
+      ru: загребать
+    aliases:
+      en: [amass, take]

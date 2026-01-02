@@ -1,0 +1,15 @@
+id: Cx1q3rm7DQAbMIzOsWCz
+headword: деза
+ipa: ˈdeza
+tags: [n, loan]
+forms:
+  - text: деза
+    gloss: sg
+  - text: дезне
+    gloss: pl
+definitions:
+  - translation:
+      en: ode
+      ru: ода
+    aliases:
+      en: [song, poem]

@@ -1,0 +1,17 @@
+id: Jmgw6adkr3K3VWMKn6iD
+headword: чьявар
+ipa: tʃʼæˈvar
+tags: [n]
+forms:
+  - text: чьявар
+    gloss: sg
+  - text: чьявре
+    gloss: obl
+  - text: чьявруме
+    gloss: pl
+definitions:
+  - translation:
+      en: floor
+      ru: пол
+    aliases:
+      en: [ground]

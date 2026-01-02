@@ -1,0 +1,17 @@
+id: e1e5z0xZoYwlnW63ePcW
+headword: сағли цурсара
+ipa: saʁˌli tsurˈsara
+tags: [v, tr, cls]
+forms:
+  - text: сағли цасара
+    gloss: pfv
+  - text: сағли цасив
+    gloss: aor
+  - text: сағли цурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to borrow
+      ru: заимствовать
+    aliases:
+      en: [take, loan]

@@ -1,0 +1,21 @@
+id: 1MpSiCpSZT2yVEam8S9H
+headword: калуъяна
+ipa: kaluˈʔæna
+tags: [v, cls, intr]
+forms:
+  - text: кабялъяна
+    gloss: pfv
+  - text: кабялъун
+    gloss: aor
+  - text: калуъяна
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to soften
+      ru: распариться, размягчиться
+    aliases:
+      en: [relax, crumble]
+    examples:
+      - text: кабялъун бацбикь
+        translation:
+          en: softened pie

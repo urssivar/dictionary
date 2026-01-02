@@ -1,0 +1,17 @@
+id: ypvxNmOpAA5wjmCSPjtI
+headword: ттура ьирара
+ipa: tːuˌra hiˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: ттура ьабарара
+    gloss: pfv
+  - text: ттура ьабарив
+    gloss: aor
+  - text: ттура ьабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to take out
+      ru: вытаскивать
+    aliases:
+      en: [pull, bring]

@@ -1,0 +1,17 @@
+id: ctOrdqUy4tV5ZsGnPeBl
+headword: кулҡьана
+ipa: kulˈqʼana
+tags: [v, tr, cls]
+forms:
+  - text: куҡьана
+    gloss: pfv
+  - text: куҡьун
+    gloss: aor
+  - text: кулҡьана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to confine
+      ru: ограничивать
+    aliases:
+      en: [limit, constrain]

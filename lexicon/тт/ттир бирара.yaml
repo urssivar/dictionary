@@ -1,0 +1,17 @@
+id: POmiNGgsLdrb6ifQSQDf
+headword: ттир бирара
+ipa: ˌtːir biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: ттир барара
+    gloss: pfv
+  - text: ттир барив
+    gloss: ipfv
+  - text: ттир бирара
+    gloss: aor
+definitions:
+  - translation:
+      en: to distance
+      ru: отдалять
+    aliases:
+      en: [keep, away]

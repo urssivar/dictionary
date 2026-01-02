@@ -1,0 +1,17 @@
+id: UOXDLDYj2zLdpO6922tE
+headword: бат кабулҡана
+ipa: ˌbat kabulˈqana
+tags: [v, intr, cls]
+forms:
+  - text: бат кабуҡана
+    gloss: pfv
+  - text: бат кабуҡун
+    gloss: aor
+  - text: бат кабулҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to break away
+      ru: срываться
+    aliases:
+      en: [fall, slip]

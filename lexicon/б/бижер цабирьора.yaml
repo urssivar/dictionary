@@ -1,0 +1,17 @@
+id: 7mRpFtLVORQtBTLAdsW2
+headword: бижер цабирьора
+ipa: biˌʒer tsabirˈhora
+tags: [v, intr, cls, phr]
+forms:
+  - text: бижер цабиьора
+    gloss: pfv
+  - text: бижер цабиьяв
+    gloss: aor
+  - text: бижер цабирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to traverse
+      ru: обходить
+    aliases:
+      en: [travel]

@@ -1,0 +1,19 @@
+id: ILT9PMOWfhh0vjDFspx7
+headword: биьер
+ipa: biˈher
+tags: [adv, nmlz, cls]
+etymology:
+  en: Possible from *бирьора* "to be".
+forms:
+  - text: биьер
+    gloss: adv
+definitions:
+  - translation:
+      en: entirely
+      ru: весь
+    aliases:
+      en: [total, all]
+    examples:
+      - text: ачье диьер цаҡҡа
+        translation:
+          en: bring all the wheat

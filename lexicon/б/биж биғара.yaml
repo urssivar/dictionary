@@ -1,0 +1,17 @@
+id: 5BCwc5TVANWnFvf1rddQ
+headword: биж биғара
+ipa: ˌbiʒ biˈʁara
+tags: [v, intr, cls, phr]
+forms:
+  - text: биж беғара
+    gloss: pfv
+  - text: биж беғив
+    gloss: aor
+  - text: биж биғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be friendly
+      ru: дружить
+    aliases:
+      en: [kind, nice, respond]

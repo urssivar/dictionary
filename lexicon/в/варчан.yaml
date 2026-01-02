@@ -1,0 +1,16 @@
+id: 9TYxyO6Z1XR5q5Y4yhxo
+headword: варчан
+ipa: varˈtʃan
+tags: [n]
+forms:
+  - text: варчан
+    gloss: sg
+  - text: варчанте
+    gloss: pl
+definitions:
+  - translation:
+      en: stream
+      ru: поток
+    tags: [nature]
+    aliases:
+      en: [torrent, flow]

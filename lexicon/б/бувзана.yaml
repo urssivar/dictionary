@@ -1,0 +1,17 @@
+id: Fg7ysYvx3AepvXZelSVv
+headword: бувзана
+ipa: buvˈzana
+tags: [v, intr, cls]
+forms:
+  - text: бевзана
+    gloss: pfv
+  - text: бевзун
+    gloss: aor
+  - text: бувзана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to flee
+      ru: удирать
+    aliases:
+      en: [escape, run]

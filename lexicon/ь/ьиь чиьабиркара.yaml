@@ -1,0 +1,17 @@
+id: 0hFjuI89xKPk3t45QB2j
+headword: ьиь чиьабиркара
+ipa: ˌhih tʃihabirˈkara
+tags: [v, intr]
+forms:
+  - text: ьиь чиьабикара
+    gloss: pfv
+  - text: ьиь чиьабичив
+    gloss: aor
+  - text: ьиь чиьабиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be out of breath
+      ru: запыхаться
+    aliases:
+      en: [suffocate, cough]

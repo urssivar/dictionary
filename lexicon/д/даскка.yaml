@@ -1,0 +1,17 @@
+id: qaxPwiAYBVj7k3hrab8H
+headword: даскка
+ipa: dasˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: даскка
+    gloss: sg
+  - text: дасккан
+    gloss: obl, loc
+  - text: дасккне
+    gloss: pl
+definitions:
+  - translation:
+      en: blackboard
+      ru: классная доска
+    aliases:
+      en: [board, billboard]

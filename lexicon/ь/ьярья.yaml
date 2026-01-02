@@ -1,0 +1,18 @@
+id: r0uj5EZlNcSBAkbVRal5
+headword: ьярья
+ipa: ˈhærhæ
+tags: [n]
+forms:
+  - text: ьярья
+    gloss: sg
+  - text: ьярьян
+    gloss: obl
+  - text: ьярьне
+    gloss: pl
+definitions:
+  - translation:
+      en: bullet
+      ru: пуля
+    tags: [warfare]
+    aliases:
+      en: [projectile]

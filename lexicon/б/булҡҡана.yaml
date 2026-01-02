@@ -1,0 +1,17 @@
+id: lOtFeDuci94AwZO3ZhPI
+headword: булҡҡана
+ipa: bulˈqːana
+tags: [v, cls, tr]
+forms:
+  - text: белҡҡана
+    gloss: pfv
+  - text: белҡҡун
+    gloss: aor
+  - text: булҡҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sate
+      ru: насыщаться, наедаться
+    aliases:
+      en: [cram, satiate]

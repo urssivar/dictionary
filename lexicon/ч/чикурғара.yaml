@@ -1,0 +1,24 @@
+id: gn5BQGwxALogNRFzYnsG
+headword: чикурғара
+ipa: tʃikurˈʁara
+tags: [v, tr]
+forms:
+  - text: чикағара
+    gloss: pfv
+  - text: чикағив
+    gloss: aor
+  - text: чикурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shut
+      ru: прикрывать
+    examples:
+      - text: мяла чикаға
+        translation:
+          en: shut the window
+  - translation:
+      en: to bank
+      ru: насыпать
+    aliases:
+      en: [heap, pile]

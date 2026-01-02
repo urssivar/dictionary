@@ -1,0 +1,17 @@
+id: m7NlF9Od3KlBB7Tl1AWz
+headword: биж бикьара
+ipa: ˌbiʒ biˈkʼara
+tags: [v, cls, tr, phr]
+forms:
+  - text: биж бекьара
+    gloss: pfv
+  - text: биж бечьив
+    gloss: aor
+  - text: биж бикьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tuck
+      ru: засовывать
+    aliases:
+      en: [shove, push]

@@ -1,0 +1,17 @@
+id: fIaQIWB3dcEXpwr9kaJI
+headword: цан урғара
+ipa: ˌtsan urˈʁara
+tags: [v, tr, phr]
+forms:
+  - text: цан ағара
+    gloss: pfv
+  - text: цан ағив
+    gloss: aor
+  - text: цан урғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to play matchmaker
+      ru: сводничать
+    aliases:
+      en: [bring, together]

@@ -1,0 +1,19 @@
+id: lwDDkGtXiYo21NvRseA4
+headword: бирьухара
+ipa: birhuˈχara
+tags: [v, cls, tr]
+etymology:
+  en: Caus. of *бирьора* "to be".
+forms:
+  - text: биьухара
+    gloss: pfv
+  - text: биьухяв
+    gloss: aor
+  - text: бирьухара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to make
+      ru: осуществлять
+    aliases:
+      en: [deal, do, cause]

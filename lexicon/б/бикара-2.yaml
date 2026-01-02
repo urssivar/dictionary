@@ -1,0 +1,22 @@
+id: g7U8IZxSPBbXUurjRIvi
+headword: бикара
+ipa: biˈkara
+tags: [v, tr, cls]
+forms:
+  - text: бакара
+    gloss: pfv
+  - text: бачив
+    gloss: aor
+  - text: бикара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to coat
+      ru: мазать
+    aliases:
+      en: [oint, smear]
+  - translation:
+      en: to fool
+      ru: дурачить
+    aliases:
+      en: [lie]

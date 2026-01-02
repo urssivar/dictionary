@@ -1,0 +1,24 @@
+id: sSPNNw0oBNfZrVOOGCqI
+headword: кочьа
+ipa: ˈkotʃʼa
+tags: [n]
+forms:
+  - text: кочьа
+    gloss: sg
+  - text: кочьан
+    gloss: obl
+  - text: кочьне
+    gloss: pl
+definitions:
+  - translation:
+      en: paw
+      ru: лапа
+    tags: [animal]
+    aliases:
+      en: [hand, palm]
+  - translation:
+      en: cuff
+      ru: манжета
+    tags: [clothing]
+    aliases:
+      en: [sleeve]

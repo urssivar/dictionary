@@ -1,0 +1,17 @@
+id: ZEq1R5E430pvhpI2cu0X
+headword: чиьабирҳара
+ipa: tʃihabirˈxara
+tags: [v, tr, cls]
+forms:
+  - text: чиьабиҳара
+    gloss: pfv
+  - text: чиьабишив
+    gloss: aor
+  - text: чиьабирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to upload
+      ru: нагружать
+    aliases:
+      en: [load, place]

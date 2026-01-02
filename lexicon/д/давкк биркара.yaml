@@ -1,0 +1,17 @@
+id: jrofGadA8nGIEB1h8JmC
+headword: давкк биркара
+ipa: ˌdavkː birˈkara
+tags: [v, cls, tr, phr]
+forms:
+  - text: давкк бикара
+    gloss: pfv
+  - text: давкк бичив
+    gloss: aor
+  - text: давкк биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fit
+      ru: подходить
+    aliases:
+      en: [dapt]

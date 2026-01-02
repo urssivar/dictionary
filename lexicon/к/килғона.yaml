@@ -1,0 +1,17 @@
+id: hs3Xgj97H6bxYlsiIhQb
+headword: килғона
+ipa: kilˈʁona
+tags: [v, intr]
+forms:
+  - text: киғона
+    gloss: pfv
+  - text: киғун
+    gloss: aor
+  - text: килғона
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to boil away
+      ru: выкипать
+    aliases:
+      en: [steam, run, out]

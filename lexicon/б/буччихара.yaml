@@ -1,0 +1,15 @@
+id: qIdlHbNDIGyH5IqieiWg
+headword: буччихара
+ipa: butʃːiˈχara
+tags: [v, cls, tr]
+forms:
+  - text: берччихара
+    gloss: pfv
+  - text: берччихив
+    gloss: aor
+  - text: буччихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to give to drink
+      ru: давать пить

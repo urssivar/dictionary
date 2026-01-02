@@ -1,0 +1,17 @@
+id: I7ORnvCCBIJkztlY0B4b
+headword: ва иҡара
+ipa: ˌva iˈqara
+tags: [v, tr, cls]
+forms:
+  - text: ва аҡара
+    gloss: pfv
+  - text: ва аҡив
+    gloss: aor
+  - text: ва иҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to address
+      ru: обращаться
+    aliases:
+      en: [call]

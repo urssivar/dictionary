@@ -1,0 +1,21 @@
+id: OsDAzXHfF4kEZIEd2S1U
+headword: ҳулум
+ipa: xuˈlum
+tags: [n]
+forms:
+  - text: ҳулум
+    gloss: sg
+  - text: ҳумре
+    gloss: pl
+definitions:
+  - translation:
+      en: woman
+      ru: женщина
+    aliases:
+      en: [female]
+  - translation:
+      en: wife
+      ru: жена
+    tags: [kinship]
+    aliases:
+      en: [spouse]

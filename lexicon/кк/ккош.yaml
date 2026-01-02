@@ -1,0 +1,19 @@
+id: rpje7KCkcQF5rPetG9eJ
+headword: ккош
+ipa: ˈkːoʃ
+tags: [n]
+forms:
+  - text: ккош
+    gloss: sg
+  - text: ккоша
+    gloss: obl
+  - text: ккошан
+    gloss: loc
+  - text: ккошне
+    gloss: pl
+definitions:
+  - translation:
+      en: handful
+      ru: горсть
+    aliases:
+      en: [palm, hand]

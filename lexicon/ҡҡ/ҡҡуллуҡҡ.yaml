@@ -1,0 +1,17 @@
+id: hsz0LWCFNo2OpkmPyEJW
+headword: ҡҡуллуҡҡ
+ipa: qːulˈluqː
+tags: [n, loan, turkic]
+note:
+  en: '*дилу*'
+forms:
+  - text: ҡҡуллуҡҡ
+    gloss: sg
+  - text: ҡҡуллуҡҡе
+    gloss: pl
+definitions:
+  - translation:
+      en: business
+      ru: дело, работа
+    aliases:
+      en: [job, work, task, mission]

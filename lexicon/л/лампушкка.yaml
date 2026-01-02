@@ -1,0 +1,18 @@
+id: HyHSQyeJ489Caao4Dfm2
+headword: лампушкка
+ipa: lampuʃˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: лампушкка
+    gloss: sg
+  - text: лампушккан
+    gloss: obl
+  - text: лампушккне
+    gloss: pl
+definitions:
+  - translation:
+      en: bulb
+      ru: лампочка
+    tags: [tool]
+    aliases:
+      en: [lamp, lightbulb]

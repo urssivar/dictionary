@@ -1,0 +1,20 @@
+id: 5XnyQBgld6uzrfNlnhVC
+headword: ччу
+ipa: ˈtʃːu
+tags: [n]
+note:
+  en: '*ччве*'
+forms:
+  - text: ччу
+    gloss: sg
+  - text: ччум
+    gloss: obl
+  - text: ччуме
+    gloss: pl
+definitions:
+  - translation:
+      en: tendon
+      ru: сухожилие
+    tags: [body]
+    aliases:
+      en: [string]

@@ -1,0 +1,15 @@
+id: 8DGszC4BS8FAeMj3vClt
+headword: буруғ
+ipa: buˈruʁ
+tags: [n, loan, turkic]
+forms:
+  - text: буруғ
+    gloss: sg
+  - text: буруғе
+    gloss: pl
+definitions:
+  - translation:
+      en: bore
+      ru: скважина
+    aliases:
+      en: [rig, hole, well]

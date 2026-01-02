@@ -1,0 +1,14 @@
+id: SyzAHSTmblWcB6YUGyOg
+headword: таман
+ipa: taˈman
+tags: [n, loan, arabic]
+definitions:
+  - translation:
+      en: finish
+      ru: окончание
+    aliases:
+      en: [end, complete]
+    examples:
+      - text: таман бара ила яче
+        translation:
+          en: finish your job

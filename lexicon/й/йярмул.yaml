@@ -1,0 +1,15 @@
+id: a1llbYUFAoEpkupuoQmW
+headword: йярмул
+ipa: jærˈmul
+tags: [n, loan, russian]
+forms:
+  - text: йярмул
+    gloss: sg
+  - text: йярмулте
+    gloss: pl
+definitions:
+  - translation:
+      en: tyrant
+      ru: тиран
+    aliases:
+      en: [opressor, invader]

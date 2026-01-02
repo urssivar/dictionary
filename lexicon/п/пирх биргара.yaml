@@ -1,0 +1,17 @@
+id: pIP6pgQEnpDB2rzFEAT5
+headword: пирх биргара
+ipa: ˌpirχ birˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: пирх бигара
+    gloss: pfv
+  - text: пирх бижив
+    gloss: aor
+  - text: пирх биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to flare
+      ru: вспыхивать
+    aliases:
+      en: [spark, burn, fire]

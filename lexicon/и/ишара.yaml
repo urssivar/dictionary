@@ -1,0 +1,22 @@
+id: h4YIXOQ8952FipXDwA9u
+headword: ишара
+ipa: iˈʃara
+tags: [v, cls, tr]
+forms:
+  - text: биршара
+    gloss: pfv
+  - text: биршив
+    gloss: aor
+  - text: ишара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to extinguish
+      ru: тушить, гасить
+    aliases:
+      en: [put, out]
+  - translation:
+      en: to turn off
+      ru: выключать
+    aliases:
+      en: [shut]

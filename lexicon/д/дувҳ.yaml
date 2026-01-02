@@ -1,0 +1,22 @@
+id: lS0jY07mO7QnITEDyY6D
+headword: дувҳ
+ipa: ˈduvx
+tags: [n]
+note:
+  en: |-
+    *дувҳа-ҳана*
+    *тьальяна*
+forms:
+  - text: дувҳ
+    gloss: sg
+  - text: дувҳан
+    gloss: obl
+  - text: дивҳне
+    gloss: pl
+definitions:
+  - translation:
+      en: dish
+      ru: посуда
+    tags: [home]
+    aliases:
+      en: [utensil]

@@ -1,0 +1,18 @@
+id: YfQc2sfUF9cPyNzUpkk4
+headword: деччлуҡҡ
+ipa: detʃːˈluqː
+tags: [n, nmlz]
+etymology:
+  en: From *дечч* "drink".
+forms:
+  - text: деччлуҡҡ
+    gloss: sg
+  - text: деччлуҡҡе
+    gloss: pl
+definitions:
+  - translation:
+      en: drunkard
+      ru: пьяница
+    tags: [profession]
+    aliases:
+      en: [drinker, alcoholic]

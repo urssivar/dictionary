@@ -1,0 +1,21 @@
+id: 0XePuKyVYN9UntxHWQRf
+headword: ҡҡил
+ipa: ˈqːil
+tags: [n]
+note:
+  en: '*ҡҡел*'
+forms:
+  - text: ҡҡил
+    gloss: sg
+  - text: ҡҡилбе
+    gloss: pl
+definitions:
+  - translation:
+      en: trace
+      ru: след
+    aliases:
+      en: [footprint, track, mark]
+  - translation:
+      en: stripe
+      ru: полоса
+    tags: [tool]

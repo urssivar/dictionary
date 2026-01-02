@@ -1,0 +1,17 @@
+id: 1ePRc3kf3IgaqVJyQhtB
+headword: калукана
+ipa: kaluˈkana
+tags: [v, tr, cls]
+forms:
+  - text: кабалкана
+    gloss: pfv
+  - text: кабалкун
+    gloss: aor
+  - text: калукана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to smooth
+      ru: разглаживать
+    aliases:
+      en: [iron, flat]

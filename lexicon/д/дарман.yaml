@@ -1,0 +1,15 @@
+id: SPSQqwz2SH8efDBU5E3j
+headword: дарман
+ipa: darˈman
+tags: [n, loan]
+forms:
+  - text: дарман
+    gloss: sg
+  - text: дарманте
+    gloss: pl
+definitions:
+  - translation:
+      en: medicine
+      ru: лекарство
+    aliases:
+      en: [drug]

@@ -1,0 +1,17 @@
+id: Nr55XScpUboLd6ZSHTPx
+headword: гумцабиғара
+ipa: gumtsabiˈʁara
+tags: [v, intr, cls]
+forms:
+  - text: гумцабағара
+    gloss: pfv
+  - text: гумцабағив
+    gloss: aor
+  - text: гумцабиғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to prosper
+      ru: обогатиться, процветать
+    aliases:
+      en: [enrich]

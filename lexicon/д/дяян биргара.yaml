@@ -1,0 +1,17 @@
+id: NmvkAIkJeNSBiyWCZe7c
+headword: дяян биргара
+ipa: dæˌæn birˈgara
+tags: [v, intr, cls]
+forms:
+  - text: дяян бигара
+    gloss: pfv
+  - text: дяян бижив
+    gloss: aor
+  - text: дяян биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hide
+      ru: прятаться
+    aliases:
+      en: [conceal]

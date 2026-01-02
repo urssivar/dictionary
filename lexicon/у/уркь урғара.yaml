@@ -1,0 +1,17 @@
+id: 90VSzl05uLUIyAWs23lB
+headword: уркь урғара
+ipa: ˌurkʼ urˈʁara
+tags: [v, tr, phr]
+forms:
+  - text: уркь ағара
+    gloss: pfv
+  - text: уркь ағив
+    gloss: aor
+  - text: уркь урғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stun
+      ru: шокировать
+    aliases:
+      en: [shock]

@@ -1,0 +1,17 @@
+id: 1GYf7N8IloNuGdcjbIR0
+headword: сабур бирара
+ipa: ˌsabur biˈrara
+tags: [v, phr, tr]
+forms:
+  - text: сабур барара
+    gloss: pfv
+  - text: сабур барив
+    gloss: aor
+  - text: сабур бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to endure
+      ru: выносить, терпеть
+    aliases:
+      en: [last, bear]

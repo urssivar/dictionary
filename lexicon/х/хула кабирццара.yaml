@@ -1,0 +1,19 @@
+id: tMg6z8kkj9ojqyTPu5uJ
+headword: хула кабирццара
+ipa: ˌχula kabirˈtsːara
+tags: [v, cls, intr]
+note:
+  en: '*~ бурхара*, *~ бирьора*'
+forms:
+  - text: хула кабиццара
+    gloss: pfv
+  - text: хула кабиццур
+    gloss: aor
+  - text: хула кабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pride
+      ru: гордиться
+    aliases:
+      en: [boast, brag, swell]

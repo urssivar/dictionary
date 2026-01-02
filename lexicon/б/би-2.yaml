@@ -1,0 +1,26 @@
+id: yYbirMpn5RMTer9wTrnI
+headword: би
+ipa: ˈbi
+tags: [cop, cls]
+note:
+  en: '*биъра* (3)'
+forms:
+  - text: бида
+    gloss: 1, 2 pl
+  - text: биде
+    gloss: 2 sg, pst
+  - text: би
+    gloss: '3'
+definitions:
+  - translation:
+      en: is
+      ru: есть
+    aliases:
+      en: [be]
+    examples:
+      - text: ила рицци илин ри
+        translation:
+          en: your sister is there
+      - text: са марка биде
+        translation:
+          en: there was rain yesterday

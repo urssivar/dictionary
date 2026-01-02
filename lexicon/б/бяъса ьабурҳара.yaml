@@ -1,0 +1,20 @@
+id: 17xCcDd3w9eL8gIYYuOm
+headword: бяъса ьабурҳара
+ipa: bæʔˌsa haburˈxara
+tags: [v, cls, intr]
+note:
+  en: The nominal part is unclear.
+forms:
+  - text: бяъса ьабарҳара
+    gloss: pfv
+  - text: бяъса ьабаршив
+    gloss: aor
+  - text: бяъса ьабурҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to have temperature
+      ru: температурить
+    tags: [body]
+    aliases:
+      en: [ill, fever]

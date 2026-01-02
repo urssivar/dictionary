@@ -1,0 +1,16 @@
+id: zb9r83ZoxWt8ZCsf3NFf
+headword: ьабурҡара
+ipa: haburˈqara
+tags: [v, cls, tr]
+forms:
+  - text: ьабяҡара
+  - text: ьабяҡив
+  - text: ьабурҡара
+definitions:
+  - translation:
+      en: to kick
+      ru: пинать
+    examples:
+      - text: туп ьабяҡа
+        translation:
+          en: kick the ball

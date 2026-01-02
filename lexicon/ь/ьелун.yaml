@@ -1,0 +1,17 @@
+id: bAH1F91W58mvQwk7iCKi
+headword: ьелун
+ipa: heˈlun
+tags: [n]
+note:
+  en: '*ьерун*'
+forms:
+  - text: ьелун
+    gloss: sg
+  - text: ьелунте
+    gloss: pl
+definitions:
+  - translation:
+      en: gesture
+      ru: жест
+    aliases:
+      en: [demeanor]

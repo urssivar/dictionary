@@ -1,0 +1,17 @@
+id: aDWhJbTM908H4xM2iylQ
+headword: черьабулҡана
+ipa: tʃerhabulˈqana
+tags: [v, cls, intr]
+forms:
+  - text: черьабуҡана
+    gloss: pfv
+  - text: черьабуҡун
+    gloss: aor
+  - text: черьабулҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sprout
+      ru: прорастать
+    aliases:
+      en: [emerge, grow]

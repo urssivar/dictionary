@@ -1,0 +1,17 @@
+id: pyGUZ8XBu73su85tRQbw
+headword: бувхара
+ipa: buvˈχara
+tags: [v, intr, cls]
+forms:
+  - text: бевхара
+    gloss: pfv
+  - text: бевхив
+    gloss: aor
+  - text: бувхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to have edema
+      ru: отекать
+    aliases:
+      en: [swelling]

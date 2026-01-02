@@ -1,0 +1,15 @@
+id: 1v5lVBCCp7ri58tH4xY4
+headword: гаур
+ipa: gaˈur
+tags: [n, loan, turkic]
+forms:
+  - text: гаур
+    gloss: sg
+  - text: гаурте
+    gloss: pl
+definitions:
+  - translation:
+      en: rogue
+      ru: пройдоха
+    aliases:
+      en: [badit]

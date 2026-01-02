@@ -1,0 +1,20 @@
+id: 1aVQCleaZ4Zav9bvw6JV
+headword: ивккара
+ipa: ivˈkːara
+tags: [v, tr]
+forms:
+  - text: ивччив
+    gloss: aor
+  - text: ивккара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to eliminate
+      ru: устранять
+    aliases:
+      en: [liquidate, remove, kill]
+  - translation:
+      en: to tidy
+      ru: прибираться
+    aliases:
+      en: [clean]

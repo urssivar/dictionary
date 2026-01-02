@@ -1,0 +1,17 @@
+id: oTeJBGQehISGHsR7WGrk
+headword: бат урғара
+ipa: ˈbat urˈʁara
+tags: [v, tr, cls, phr]
+forms:
+  - text: бат ағара
+    gloss: pfv
+  - text: бат ағив
+    gloss: aor
+  - text: бат урғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to let go
+      ru: отпускать
+    aliases:
+      en: [release]

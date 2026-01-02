@@ -1,0 +1,17 @@
+id: A9jFxUiF78MfpaZfr54D
+headword: шиҡь бирара
+ipa: ˌʃiqʼ biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: шиҡь барара
+    gloss: pfv
+  - text: шиҡь барив
+    gloss: aor
+  - text: шиҡь бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to move
+      ru: шевелить
+    aliases:
+      en: [stir]

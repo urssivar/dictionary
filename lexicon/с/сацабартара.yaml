@@ -1,0 +1,17 @@
+id: KdeE91npBVqe3br0oLcV
+headword: сацабартара
+ipa: satsabarˈtara
+tags: [v, tr, cls]
+forms:
+  - text: сацабатара
+    gloss: pfv
+  - text: сацабатур
+    gloss: aor
+  - text: сацабартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to submit
+      ru: подавать
+    aliases:
+      en: [give, serve, supply]

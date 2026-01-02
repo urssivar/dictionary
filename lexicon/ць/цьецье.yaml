@@ -1,0 +1,20 @@
+id: HsyMHJvKKKaw0a4bqnBt
+headword: цьецье
+ipa: ˈtsʼetsʼe
+tags: [n]
+note:
+  en: '*женигор*'
+forms:
+  - text: цьецье
+    gloss: sg
+  - text: цьицьи
+    gloss: obl
+  - text: цьицьбе
+    gloss: pl
+definitions:
+  - translation:
+      en: snake
+      ru: змея
+    tags: [animal]
+    aliases:
+      en: [serpent]

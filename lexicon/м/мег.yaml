@@ -1,0 +1,16 @@
+id: PyKqnt72tHxJ1H2JG3A4
+headword: мег
+ipa: ˈmeg
+tags: [n]
+forms:
+  - text: мег
+    gloss: sg
+  - text: мегон
+    gloss: obl, loc
+  - text: мигре
+    gloss: pl
+definitions:
+  - translation:
+      en: nest
+      ru: гнездо
+    tags: [nature]

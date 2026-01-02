@@ -1,0 +1,17 @@
+id: 5Ol5E1JTaud2ZmZCFMKk
+headword: макру
+ipa: ˈmakru
+tags: [n, loan, arabic]
+note:
+  en: '*ҡҡиҡҡимте*'
+forms:
+  - text: макру
+    gloss: sg
+  - text: макунде
+    gloss: pl
+definitions:
+  - translation:
+      en: ruse
+      ru: уловка
+    aliases:
+      en: [trick, cunning, lie]

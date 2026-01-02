@@ -1,0 +1,17 @@
+id: PR1dxzdp9X9Myi2YmmiD
+headword: цьаҡь бирьора
+ipa: ˌtsʼaqʼ birˈhora
+tags: [v, intr, cls]
+forms:
+  - text: цьаҡь биьора
+    gloss: pfv
+  - text: цьаҡь биьяв
+    gloss: aor
+  - text: цьаҡь бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to intensify
+      ru: усиливаться
+    aliases:
+      en: [grow]

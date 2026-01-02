@@ -1,0 +1,16 @@
+id: vrWT7RJdJu75wV8HRYmY
+headword: аккол
+ipa: ˈakːol
+tags: [conj, nmlz]
+etymology:
+  en: From adv. of *аккор* "absent".
+definitions:
+  - translation:
+      en: otherwise
+      ru: иначе
+    aliases:
+      en: [or, else]
+    examples:
+      - text: ижин аккол илин аргар у?
+        translation:
+          en: will it work here or otherwise there?

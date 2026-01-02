@@ -1,0 +1,20 @@
+id: uqRPiE5Ppeebxn50oalO
+headword: ҡьоҡь
+ipa: ˈqʼoqʼ
+tags: [n]
+note:
+  en: '*ҡьулҡьупп*'
+forms:
+  - text: ҡьоҡь
+    gloss: sg
+  - text: ҡьоҡьу
+    gloss: obl
+  - text: ҡьулҡьуппе
+    gloss: pl
+definitions:
+  - translation:
+      en: knee
+      ru: колено
+    tags: [body]
+    aliases:
+      en: [leg]

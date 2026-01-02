@@ -1,0 +1,15 @@
+id: h5YEFl9XBFlxNgjgS1CG
+headword: бивццара
+ipa: bivˈtsːara
+tags: [v, cls, tr]
+forms:
+  - text: бивццив
+    gloss: aor
+  - text: бивццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to darn
+      ru: штопать
+    aliases:
+      en: [sew, mend]

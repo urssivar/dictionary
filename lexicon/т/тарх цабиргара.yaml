@@ -1,0 +1,22 @@
+id: OIaDVlpiUtSFSj4K1ivi
+headword: тарх цабиргара
+ipa: ˌtarχ tsabirˈgara
+tags: [v, intr, phr, cls]
+note:
+  en: '*тяь ~*'
+forms:
+  - text: тарх цабигара
+    gloss: pfv
+  - text: тарх цабижив
+    gloss: aor
+  - text: тарх цабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to startle
+      ru: вздрагивать
+    aliases:
+      en: [spring, recoil]
+  - translation:
+      en: to wake up abruptly
+      ru: просыпаться резко

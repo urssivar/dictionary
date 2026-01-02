@@ -1,0 +1,16 @@
+id: K5HbY2SUrOBhGkdE0LPG
+headword: ккоцца
+ipa: ˈkːotsːa
+tags: [n]
+forms:
+  - text: ккоцца
+    gloss: sg
+  - text: ккоццне
+    gloss: pl
+definitions:
+  - translation:
+      en: mare
+      ru: кобыла
+    tags: [animal]
+    aliases:
+      en: [horse]

@@ -1,0 +1,22 @@
+id: 2ECky4yqqOv37yDDZHaH
+headword: бирьора
+ipa: birˈhora
+tags: [v, intr, cls]
+forms:
+  - text: биьора
+    gloss: pfv
+  - text: биьяв
+    gloss: aor
+  - text: бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be
+      ru: быть
+    aliases:
+      en: [become]
+  - translation:
+      en: to be able
+      ru: мочь
+    aliases:
+      en: [can]

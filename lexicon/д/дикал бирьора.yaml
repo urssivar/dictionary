@@ -1,0 +1,15 @@
+id: BynFcmYqHTWiEm0e4Jat
+headword: дикал бирьора
+ipa: diˌkal birˈhora
+tags: [v, intr, cls]
+forms:
+  - text: дикал биьора
+    gloss: pfv
+  - text: дикал биьяв
+    gloss: aor
+  - text: дикал бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to laugh
+      ru: смеяться

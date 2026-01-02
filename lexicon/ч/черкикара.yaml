@@ -1,0 +1,19 @@
+id: ghnGzARpatyMXqWqz8hB
+headword: черкикара
+ipa: tʃerkiˈkara
+tags: [v, tr]
+note:
+  en: '*киркара*/*кикара*'
+forms:
+  - text: черкиркара
+    gloss: pfv
+  - text: черкирчив
+    gloss: aor
+  - text: черкикара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to putty
+      ru: шпаклевать
+    aliases:
+      en: [wall]

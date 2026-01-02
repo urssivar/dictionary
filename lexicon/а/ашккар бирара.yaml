@@ -1,0 +1,17 @@
+id: PpdXMtgvPJFibv9Tqmr4
+headword: ашккар бирара
+ipa: aʃˌkːar biˈrara
+tags: [v, phr, cls, tr]
+forms:
+  - text: ашккар барара
+    gloss: pfv
+  - text: ашккар барив
+    gloss: aor
+  - text: ашккар бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to elicit
+      ru: выявлять
+    aliases:
+      en: [detect, identify]

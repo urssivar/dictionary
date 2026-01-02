@@ -1,0 +1,19 @@
+id: dxcC1ST1FFy46OV5WC8z
+headword: ьяья биргара
+ipa: hæˌhæ birˈgara
+tags: [v, intr, cls]
+note:
+  en: '*дикалтьи булҡана*'
+forms:
+  - text: ьяья бигара
+    gloss: pfv
+  - text: ьяья бижив
+    gloss: aor
+  - text: ьяья биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to giggle
+      ru: хихикать
+    aliases:
+      en: [laugh, joke]

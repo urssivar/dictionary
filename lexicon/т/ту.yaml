@@ -1,0 +1,16 @@
+id: uwPR2LbZGBJsDpLs6R83
+headword: ту
+ipa: ˈtu
+tags: [n]
+note:
+  en: '*тутукьне*'
+forms:
+  - text: ту
+    gloss: sg
+  - text: туте
+    gloss: pl
+definitions:
+  - translation:
+      en: spit
+      ru: плевок
+    tags: [body]

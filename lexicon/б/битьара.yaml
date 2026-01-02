@@ -1,0 +1,21 @@
+id: 6GXqphBUXvpLdGgK7F9f
+headword: битьара
+ipa: biˈtʼara
+tags: [v, cls, intr]
+forms:
+  - text: бетьара
+    gloss: pfv
+  - text: бетьив
+    gloss: aor
+  - text: битьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to bore
+      ru: наскучивать
+    aliases:
+      en: [idle, miss]
+    examples:
+      - text: уба аккол бетьил це
+        translation:
+          en: i miss my mom

@@ -1,0 +1,17 @@
+id: BWEdbMmHAoJnDWowkWk0
+headword: сурк бирара
+ipa: ˌsurk biˈrara
+tags: [v, cls, tr]
+forms:
+  - text: сурк барара
+    gloss: pfv
+  - text: сурк барив
+    gloss: aor
+  - text: сурк бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rub
+      ru: протирать
+    aliases:
+      en: [wipe, clean]

@@ -1,0 +1,17 @@
+id: ZBalmGhoGyezrQqWtPQJ
+headword: дацце биргара
+ipa: ˌdatsːe birˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: дацце бигара
+    gloss: pfv
+  - text: дацце бижив
+    gloss: aor
+  - text: дацце биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to urinate
+      ru: писать
+    aliases:
+      en: [piss]

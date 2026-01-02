@@ -1,0 +1,16 @@
+id: x6V903dwpk63r9q1a3bT
+headword: ттетте
+ipa: ˈtːetːe
+tags: [n]
+forms:
+  - text: ттетте
+    gloss: sg
+  - text: ттиттме
+    gloss: pl
+definitions:
+  - translation:
+      en: teat
+      ru: сосок
+    tags: [animal, body]
+    aliases:
+      en: [nipple]

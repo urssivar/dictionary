@@ -1,0 +1,33 @@
+id: o6RqPSvR5Y7lezJEvIZ5
+headword: кабирццара
+ipa: kabirˈtsːara
+tags: [v, lbl, cls]
+forms:
+  - text: кабиццара
+    gloss: pfv
+  - text: кабиццур
+    gloss: aor
+  - text: кабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stand
+      ru: стоять
+    aliases:
+      en: [step]
+    examples:
+      - text: тья кабицца ижин
+        translation:
+          en: put your leg here
+      - text: илин макадирццаттай
+        translation:
+          en: don't stand there
+  - translation:
+      en: to seem
+      ru: казаться
+    aliases:
+      en: [look, appear, think]
+    examples:
+      - text: дами дурҡал кабирццул акку
+        translation:
+          en: it doesn't seem expensive to me

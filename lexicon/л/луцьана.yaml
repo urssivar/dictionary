@@ -1,0 +1,21 @@
+id: jaqvk8hd6Sy7u8yJvGGk
+headword: луцьана
+ipa: luˈtsʼana
+tags: [v, cls, tr]
+forms:
+  - text: балцьана
+    gloss: pfv
+  - text: балцьун
+    gloss: aor
+  - text: луцьана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to collect
+      ru: собирать
+    aliases:
+      en: [pick]
+    examples:
+      - text: ьинце далцьа
+        translation:
+          en: collect the apples

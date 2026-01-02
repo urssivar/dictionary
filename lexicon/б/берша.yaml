@@ -1,0 +1,15 @@
+id: aKjsrz4CyaZuGIQheES6
+headword: берша
+ipa: berˈʃa
+tags: [n, nmlz, cls]
+etymology:
+  en: From *буршара* "to betray".
+forms:
+  - text: берша
+    gloss: sg
+  - text: бершабе
+    gloss: pl
+definitions:
+  - translation:
+      en: traitor
+      ru: предатель

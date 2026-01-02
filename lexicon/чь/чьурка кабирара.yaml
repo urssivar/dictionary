@@ -1,0 +1,15 @@
+id: VI7f02DknS1NMlJZynu3
+headword: чьурка кабирара
+ipa: tʃʼurˌka kabiˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: чьурка кабарара
+    gloss: pfv
+  - text: чьурка кабарив
+    gloss: aor
+  - text: чьурка кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fold
+      ru: складывать

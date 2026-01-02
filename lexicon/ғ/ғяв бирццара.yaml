@@ -1,0 +1,17 @@
+id: IUJXStW5wnBoCzBenIZD
+headword: ғяв бирццара
+ipa: ˌʁæv birˈtsːara
+tags: [v, intr, cls]
+forms:
+  - text: ғяв биццара
+    gloss: pfv
+  - text: ғяв биццур
+    gloss: aor
+  - text: ғяв бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shut up
+      ru: умолкать
+    aliases:
+      en: [quiet, silent]

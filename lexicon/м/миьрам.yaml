@@ -1,0 +1,15 @@
+id: FCsNjEa0FTrZEPDNkzee
+headword: миьрам
+ipa: mihˈram
+tags: [n, loan, arabic]
+forms:
+  - text: миьрам
+    gloss: sg
+  - text: миьрамте
+    gloss: pl
+definitions:
+  - translation:
+      en: chamber
+      ru: камера
+    aliases:
+      en: [room]

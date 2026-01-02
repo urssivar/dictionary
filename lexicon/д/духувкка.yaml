@@ -1,0 +1,15 @@
+id: 7ONsxvbyFeVyUubKu0zM
+headword: духувкка
+ipa: duχuvˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: духувкка
+    gloss: sg
+  - text: духувккан
+    gloss: obl, loc
+  - text: духувккне
+    gloss: pl
+definitions:
+  - translation:
+      en: oven
+      ru: духовка

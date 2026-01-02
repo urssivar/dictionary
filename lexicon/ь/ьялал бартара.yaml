@@ -1,0 +1,17 @@
+id: okL85gSvJAunEKw9rioR
+headword: ьялал бартара
+ipa: hæˌlal barˈtara
+tags: [v, tr, cls]
+forms:
+  - text: ьялал батара
+    gloss: pfv
+  - text: ьялал батур
+    gloss: aor
+  - text: ьялал бартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to gift
+      ru: даровать
+    aliases:
+      en: [present, grant]

@@ -1,0 +1,15 @@
+id: hAyCoL8xXzxfO61pLGyO
+headword: цабалсана
+ipa: tsabalˈsana
+tags: [v, tr, cls]
+forms:
+  - text: цабасана
+    gloss: pfv
+  - text: цабасун
+    gloss: aor
+  - text: цабалсана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to send
+      ru: присылать

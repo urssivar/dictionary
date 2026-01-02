@@ -1,0 +1,14 @@
+id: o5r3t222gpIFIrhSYIft
+headword: гула
+ipa: ˈgula
+tags: [n]
+forms:
+  - text: гула
+    gloss: sg
+  - text: гулан
+    gloss: obl
+definitions:
+  - translation:
+      en: blueberry
+      ru: голубика
+    tags: [nature, plant, food]

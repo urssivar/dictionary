@@ -1,0 +1,16 @@
+id: zfsPG8PpoK2cfc98YIUU
+headword: ккиркка
+ipa: kːirˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: ккиркка
+    gloss: sg
+  - text: ккирккан
+    gloss: obl
+  - text: ккирккне
+    gloss: pl
+definitions:
+  - translation:
+      en: pickaxe
+      ru: кирка
+    tags: [tool]

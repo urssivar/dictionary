@@ -1,0 +1,20 @@
+id: GB95EbrEFKZvv3gGlMoX
+headword: вяз
+ipa: ˈvæz
+tags: [n]
+forms:
+  - text: вяз
+    gloss: sg
+  - text: вязан
+    gloss: loc
+definitions:
+  - translation:
+      en: drizzle
+      ru: морось
+    tags: [nature]
+    aliases:
+      en: [rain]
+    examples:
+      - text: вяз кабикьул це
+        translation:
+          en: it's drizzling

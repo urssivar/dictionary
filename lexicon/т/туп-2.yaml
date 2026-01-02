@@ -1,0 +1,24 @@
+id: xABpfkkWTMxLqq6bdtT1
+headword: туп
+ipa: ˈtup
+tags: [n, loan]
+forms:
+  - text: туп
+    gloss: sg
+  - text: тупе
+    gloss: pl
+definitions:
+  - translation:
+      en: cannon
+      ru: пушка
+    aliases:
+      en: [projectile]
+    examples:
+      - text: тупла ьярья
+        translation:
+          en: cannonball
+  - translation:
+      en: orb
+      ru: шар
+    aliases:
+      en: [ball]

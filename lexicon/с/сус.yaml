@@ -1,0 +1,16 @@
+id: Znqoyc1U4fdLRhcCdu6Q
+headword: сус
+ipa: ˈsus
+tags: [n]
+note:
+  en: Usually in plural
+forms:
+  - text: сус
+    gloss: sg
+  - text: сусме
+    gloss: pl
+definitions:
+  - translation:
+      en: throat
+      ru: горло
+    tags: [body]

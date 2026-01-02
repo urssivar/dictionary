@@ -1,0 +1,17 @@
+id: j6dxR5q7MlEMd00GcXzR
+headword: гунер ьабирццара
+ipa: guˌner habirˈtsːara
+tags: [v, intr, cls]
+forms:
+  - text: гунер ьабиццара
+    gloss: pfv
+  - text: гунер ьабиццур
+    gloss: aor
+  - text: гунер ьабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to quit job
+      ru: покидать работу
+    aliases:
+      en: [number, count, pay, quit]

@@ -1,0 +1,17 @@
+id: yVuoiLtmuxcq5UJ4FksN
+headword: ҡаршил бирьора
+ipa: qarˌʃil birˈhora
+tags: [v, intr, cls]
+forms:
+  - text: ҡаршил биьяв
+    gloss: pfv
+  - text: ҡаршил биьора
+    gloss: aor
+  - text: ҡаршил бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hinder
+      ru: препятствовать
+    aliases:
+      en: [prevent, impede]

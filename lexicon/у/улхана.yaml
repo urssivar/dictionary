@@ -1,0 +1,17 @@
+id: zgP1qO74plXsqD5XjXOs
+headword: улхана
+ipa: ulˈχаna
+tags: [v, intr]
+forms:
+  - text: елхона
+    gloss: pfv
+  - text: елхун
+    gloss: aor
+  - text: улхана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to perish
+      ru: гибнуть
+    aliases:
+      en: [die]

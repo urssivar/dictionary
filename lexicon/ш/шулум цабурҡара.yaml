@@ -1,0 +1,17 @@
+id: xPMKrkQrQ1LIEavYLS5B
+headword: шулум цабурҡара
+ipa: ʃuˌlum tsaburˈqara
+tags: [v, intr, cls]
+forms:
+  - text: шулум цабяҡара
+    gloss: pfv
+  - text: шулум цабяҡив
+    gloss: aor
+  - text: шулум цабурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to look back
+      ru: оборачиваться
+    aliases:
+      en: [turn, around]

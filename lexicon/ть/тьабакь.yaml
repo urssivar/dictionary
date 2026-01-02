@@ -1,0 +1,17 @@
+id: zvkLcDPZibcvRfZIsTUW
+headword: тьабакь
+ipa: tʼaˈbakʼ
+tags: [n]
+forms:
+  - text: тьабакь
+    gloss: sg
+  - text: тьавкьан
+    gloss: obl, loc
+  - text: тьивкье
+    gloss: pl
+definitions:
+  - translation:
+      en: tray
+      ru: поднос
+    aliases:
+      en: [tablet]

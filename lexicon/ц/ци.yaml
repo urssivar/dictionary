@@ -1,0 +1,23 @@
+id: mFvZpxj0Amd6htdVhdBt
+headword: ци
+ipa: ˈtsi
+tags: [pro]
+forms:
+  - text: ци
+    gloss: nom
+  - text: цил
+    gloss: obl
+definitions:
+  - translation:
+      en: what
+      ru: что
+    examples:
+      - text: ци де йа ра ьел?
+        translation:
+          en: what was even it?
+      - text: и цилжи чиьул де йа?
+        translation:
+          en: what are you looking at?
+      - text: ци яьле ҡил уживде йа?
+        translation:
+          en: how come you stayed home?

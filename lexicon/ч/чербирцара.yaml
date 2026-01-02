@@ -1,0 +1,17 @@
+id: nNvTIi2jYAZ8IfjX7V1K
+headword: чербирцара
+ipa: tʃerbirˈtsara
+tags: [v, tr, cls]
+forms:
+  - text: чербицара
+    gloss: pfv
+  - text: чербицив
+    gloss: aor
+  - text: чербирцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dispose
+      ru: избавляться
+    aliases:
+      en: [get, rid, sell, give]

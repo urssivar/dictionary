@@ -1,0 +1,15 @@
+id: 7O1A2gc2yu6AdR2Eju1g
+headword: манжис
+ipa: manˈʒis
+tags: [n, loan, arabic]
+forms:
+  - text: манжис
+    gloss: sg
+  - text: манжисе
+    gloss: pl
+definitions:
+  - translation:
+      en: conference
+      ru: собрание
+    aliases:
+      en: [meeting, council]

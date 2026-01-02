@@ -1,0 +1,14 @@
+id: 2ssoOYkOlsCasOAYJyix
+headword: мага
+ipa: ˈmaga
+tags: [n]
+forms:
+  - text: мага
+    gloss: sg
+  - text: маган
+    gloss: obl
+definitions:
+  - translation:
+      en: sweat
+      ru: пот
+    tags: [body]

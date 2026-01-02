@@ -1,0 +1,14 @@
+id: ECS3JTdOZKvICv1KQvSX
+headword: янглиз
+ipa: ængˈliz
+tags: [n, adj, loan, russian]
+forms:
+  - text: янглиз
+    gloss: sg
+  - text: янглизе
+    gloss: pl
+definitions:
+  - translation:
+      en: english
+      ru: англичанин, английский
+    tags: [demonym]

@@ -1,0 +1,16 @@
+id: BCO7UKA4j1eT7eRHrvgl
+headword: ппавликьан
+ipa: pːavˈlikʼan
+tags: [n]
+note:
+  en: '*авзулуҡҡ* (from Kumyk)'
+forms:
+  - text: ппавликьан
+    gloss: sg
+  - text: ппавликьне
+    gloss: pl
+definitions:
+  - translation:
+      en: funnel
+      ru: воронка
+    tags: [tool]

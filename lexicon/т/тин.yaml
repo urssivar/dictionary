@@ -1,0 +1,23 @@
+id: 5TARrS4I1dyK0o5GwiXw
+headword: тин
+ipa: ˈtin
+tags: [adv]
+etymology:
+  en: From *итин* "there".
+note:
+  en: |-
+    *тен*
+    *жин*
+definitions:
+  - translation:
+      en: since
+      ru: с тех пор
+    aliases:
+      en: [after]
+    examples:
+      - text: керхурла тин варьид
+        translation:
+          en: i know him since i got enrolled
+      - text: чиркала тин шин дейкку ҡил
+        translation:
+          en: no water at home since the morning

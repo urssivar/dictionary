@@ -1,0 +1,15 @@
+id: aJA5ippXAifYMrPzxswK
+headword: дугне
+ipa: ˈdugne
+tags: [n]
+forms:
+  - text: дугне
+    gloss: sg
+  - text: дугниппе
+    gloss: pl
+definitions:
+  - translation:
+      en: misdemeanor
+      ru: проступок
+    aliases:
+      en: [wrongdoing, mistake]

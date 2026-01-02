@@ -1,0 +1,16 @@
+id: sxcYSSY4l8YT8t7yxsf4
+headword: ялим
+ipa: æˈlim
+tags: [n, loan, arabic]
+forms:
+  - text: ялим
+    gloss: sg
+  - text: ялимте
+    gloss: pl
+definitions:
+  - translation:
+      en: scholar
+      ru: ученый
+    tags: [profession]
+    aliases:
+      en: [scientist]

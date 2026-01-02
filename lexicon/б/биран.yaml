@@ -1,0 +1,17 @@
+id: IBzYbUjBkg0C1mcl389V
+headword: биран
+ipa: biˈran
+tags: [n, nmlz]
+etymology:
+  en: Obl. of *бирара* "to do".
+forms:
+  - text: биран
+    gloss: sg
+  - text: диранте
+    gloss: pl
+definitions:
+  - translation:
+      en: work
+      ru: дело
+    aliases:
+      en: [affair, metter, business]

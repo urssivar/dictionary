@@ -1,0 +1,16 @@
+id: 0szXAdbRvcWNahY94KHB
+headword: дурукк
+ipa: duˈrukː
+tags: [n]
+forms:
+  - text: дурукк
+    gloss: sg
+  - text: дуруккме
+    gloss: pl
+definitions:
+  - translation:
+      en: spindle
+      ru: веретено
+    tags: [tool]
+    aliases:
+      en: [distaff]

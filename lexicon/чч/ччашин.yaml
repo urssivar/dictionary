@@ -1,0 +1,20 @@
+id: ygRAxousLo5oajhSPOaF
+headword: ччашин
+ipa: ˈtʃːaʃin
+tags: [n]
+etymology:
+  en: Likely from *цце* "salt" + *шин* "water".
+note:
+  en: '*ччешин*'
+forms:
+  - text: ччашин
+    gloss: sg
+  - text: ччашне
+    gloss: obl
+  - text: ччишниппе
+    gloss: pl
+definitions:
+  - translation:
+      en: sauce
+      ru: соус
+    tags: [food]

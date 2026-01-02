@@ -1,0 +1,17 @@
+id: LieCL3MHfqiaBOYmWov2
+headword: баьутте
+ipa: baˈhutːe
+tags: [n]
+etymology:
+  en: From *барьара* "to know".
+forms:
+  - text: баьутте
+    gloss: sg
+  - text: баьуттне
+    gloss: pl
+definitions:
+  - translation:
+      en: knowledge
+      ru: знание
+    aliases:
+      en: [data, info, skill, mastery]

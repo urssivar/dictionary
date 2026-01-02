@@ -1,0 +1,21 @@
+id: ijSDITA5SRe2Ekb7shu0
+headword: биъам
+ipa: biˈʔam
+tags: [n]
+etymology:
+  en: Looks like it's from *ирара* "to say", but the semantic connection is unclear.
+forms:
+  - text: биъам
+    gloss: sg
+  - text: биъме
+    gloss: pl
+definitions:
+  - translation:
+      en: crumb
+      ru: крошка
+    aliases:
+      en: [particle]
+    examples:
+      - text: усттулцци биъме дальца
+        translation:
+          en: collect the crumbs on the table

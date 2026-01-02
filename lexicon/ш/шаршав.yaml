@@ -1,0 +1,16 @@
+id: 1BqdURA00L6q1d68qGZn
+headword: шаршав
+ipa: ʃarˈʃav
+tags: [n, loan]
+forms:
+  - text: шаршав
+    gloss: sg
+  - text: шаршавте
+    gloss: pl
+definitions:
+  - translation:
+      en: covering
+      ru: покрывало
+    tags: [clothing]
+    aliases:
+      en: [veil]

@@ -1,0 +1,17 @@
+id: sCyr0dorHqB3m8wwbQao
+headword: уркка биркара
+ipa: urˌkːa birˈkara
+tags: [v, intr, cls, phr]
+forms:
+  - text: уркка бикара
+    gloss: pfv
+  - text: уркка бичив
+    gloss: aor
+  - text: уркка биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to have disagreements
+      ru: не делить
+    aliases:
+      en: [quarrel, argue]

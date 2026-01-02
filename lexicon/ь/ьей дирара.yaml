@@ -1,0 +1,17 @@
+id: XVfmNuAlnDrPYvwgpnAA
+headword: ьей дирара
+ipa: ˌhej diˈrara
+tags: [v, phr, tr, cls]
+forms:
+  - text: ьей барара
+    gloss: pfv
+  - text: ьей барив
+    gloss: aor
+  - text: ьей бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to urge bulls
+      ru: понукать быка
+    aliases:
+      en: [call]

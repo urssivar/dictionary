@@ -1,0 +1,17 @@
+id: C4ivrVb61L6SMVaxT3g8
+headword: черцабирьухара
+ipa: tʃertsabirhuˈχara
+tags: [v, tr, cls]
+forms:
+  - text: черцабиьухара
+    gloss: pfv
+  - text: черцабиьухяв
+    gloss: aor
+  - text: черцабирьухара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to withdraw
+      ru: отзывать
+    aliases:
+      en: [cancel, return]

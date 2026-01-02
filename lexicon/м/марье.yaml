@@ -1,0 +1,16 @@
+id: hZD7ZePHtH5g2LXPZtqY
+headword: марье
+ipa: ˈmarhe
+tags: [n]
+forms:
+  - text: марье
+    gloss: sg
+  - text: марьиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: hayfield stripe
+      ru: полоса покоса
+    tags: [nature]
+    aliases:
+      en: [mow]

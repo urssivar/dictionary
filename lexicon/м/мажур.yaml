@@ -1,0 +1,16 @@
+id: vV6zslIwdVyjawPaxPSf
+headword: мажур
+ipa: maˈʒur
+tags: [n]
+note:
+  en: '*магаран*'
+definitions:
+  - translation:
+      en: dizziness
+      ru: головокружение
+    aliases:
+      en: [faint]
+    examples:
+      - text: дила бекь мажур цабижив
+        translation:
+          en: i felt dizzy

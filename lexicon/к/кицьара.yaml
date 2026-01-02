@@ -1,0 +1,15 @@
+id: yzH8yCzzXF9DZW3oleaN
+headword: кицьара
+ipa: kiˈtsʼara
+tags: [v, intr]
+forms:
+  - text: кацьара
+    gloss: pfv
+  - text: кацьив
+    gloss: aor
+  - text: кицьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to step
+      ru: ступать

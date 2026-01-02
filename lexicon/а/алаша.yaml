@@ -1,0 +1,15 @@
+id: 2u09MPjR2dV7fkXCAIkW
+headword: алаша
+ipa: alaˈʃa
+tags: [n]
+forms:
+  - text: алаша
+    gloss: sg
+  - text: алашабе
+    gloss: pl
+definitions:
+  - translation:
+      en: dwarf
+      ru: карликовый
+    aliases:
+      en: [short]

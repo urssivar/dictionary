@@ -1,0 +1,16 @@
+id: dHsKS97wLkYRlxpfWyGO
+headword: ҡҡабағ
+ipa: qːaˈbaʁ
+tags: [n, loan, turkic]
+note:
+  en: '*ҡҡабаҡҡ*'
+forms:
+  - text: ҡҡабағ
+    gloss: sg
+  - text: ҡҡабиғе
+    gloss: pl
+definitions:
+  - translation:
+      en: pumpkin
+      ru: тыква
+    tags: [food]

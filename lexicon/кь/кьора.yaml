@@ -1,0 +1,17 @@
+id: q7BVgDEFTWLVhJyffVZQ
+headword: кьора
+ipa: ˈkʼora
+tags: [n]
+forms:
+  - text: кьора
+    gloss: sg
+  - text: кьоран
+    gloss: loc, obl
+  - text: кьорме
+    gloss: pl
+definitions:
+  - translation:
+      en: vat
+      ru: кадка
+    aliases:
+      en: [tub, pail]

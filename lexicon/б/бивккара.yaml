@@ -1,0 +1,17 @@
+id: BSPo4x3sF0KCODxwo702
+headword: бивккара
+ipa: bivˈkːara
+tags: [v, tr, cls]
+note:
+  en: '*бавккана*/*бивккана*'
+forms:
+  - text: бавккара
+    gloss: pfv
+  - text: бавччив
+    gloss: aor
+  - text: бивккара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to harness
+      ru: запрягать

@@ -1,0 +1,17 @@
+id: haD6yMslhtDSFrPBwboD
+headword: лайла
+ipa: ˈlajla
+tags: [n, loan, arabic]
+forms:
+  - text: лайла
+    gloss: sg
+  - text: лайлан
+    gloss: obl
+  - text: лайлабе
+    gloss: pl
+definitions:
+  - translation:
+      en: lullaby
+      ru: колыбельная
+    aliases:
+      en: [song]

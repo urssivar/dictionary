@@ -1,0 +1,19 @@
+id: 52klnelf29iAA9oTnp9E
+headword: сахсара
+ipa: ˈsaχsara
+tags: [adv]
+etymology:
+  en: From *саҡ* "once" + *цара* "other".
+note:
+  en: '*бейғи* (from Kumyk)'
+definitions:
+  - translation:
+      en: again
+      ru: повторно, ещё раз
+    tags: [time]
+    aliases:
+      en: [repeat, increment, once]
+    examples:
+      - text: сахсара вя
+        translation:
+          en: go again

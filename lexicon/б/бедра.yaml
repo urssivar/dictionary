@@ -1,0 +1,16 @@
+id: 5D72Bd6EifgI09KfxBwm
+headword: бедра
+ipa: bedˈra
+tags: [n, loan, russian]
+forms:
+  - text: бедра
+    gloss: sg
+  - text: бедран
+    gloss: obl, loc
+  - text: бедруме
+    gloss: pl
+definitions:
+  - translation:
+      en: bucket
+      ru: ведро
+    tags: [tool]

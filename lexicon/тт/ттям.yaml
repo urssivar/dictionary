@@ -1,0 +1,16 @@
+id: 265v3FV7sNJN85WI2RYo
+headword: ттям
+ipa: ˈtːæm
+tags: [n]
+forms:
+  - text: ттям
+    gloss: sg
+  - text: ттямре
+    gloss: pl
+definitions:
+  - translation:
+      en: trap
+      ru: ловушка
+    tags: [tool]
+    aliases:
+      en: [snare]

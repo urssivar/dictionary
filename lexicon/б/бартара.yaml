@@ -1,0 +1,28 @@
+id: XTbyVt137nwxLMIbK0Lp
+headword: бартара
+ipa: barˈtara
+tags: [v, tr, cls]
+forms:
+  - text: батара
+    gloss: pfv
+  - text: батур
+    gloss: aor
+  - text: бартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to let
+      ru: позволять
+    aliases:
+      en: [allow, permit]
+    examples:
+      - text: аттал ду аватурда итин вяна
+        translation:
+          en: father didn't let me go there
+  - translation:
+      en: to leave
+      ru: оставлять
+    examples:
+      - text: убал ду цей гина ватурда
+        translation:
+          en: mother left me alone

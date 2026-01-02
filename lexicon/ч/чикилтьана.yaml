@@ -1,0 +1,19 @@
+id: TvCXlSGoeYTc2QlpN32T
+headword: чикилтьана
+ipa: tʃikilˈtʼana
+tags: [v, tr]
+note:
+  en: '*чикалтьана*'
+forms:
+  - text: чикитьана
+    gloss: pfv
+  - text: чикитьун
+    gloss: aor
+  - text: чикилтьана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to case
+      ru: покрывать, обшивать
+    aliases:
+      en: [cover, shield, screen]

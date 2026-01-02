@@ -1,0 +1,17 @@
+id: gRlVMTBmkrIpfuuHohDR
+headword: биғара
+ipa: biˈʁara
+tags: [v, intr, cls]
+forms:
+  - text: беғара
+    gloss: pfv
+  - text: беғив
+    gloss: aor
+  - text: биғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to reach
+      ru: доходить
+    aliases:
+      en: [arrive, get]

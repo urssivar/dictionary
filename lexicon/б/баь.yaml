@@ -1,0 +1,19 @@
+id: Uc0V6Ep9UP212gPts34C
+headword: баь
+ipa: ˈbah
+tags: [n, cls]
+forms:
+  - text: баь
+    gloss: sg
+  - text: баьте
+    gloss: pl
+definitions:
+  - translation:
+      en: owner
+      ru: обладатель
+    aliases:
+      en: [holder]
+    examples:
+      - text: ччакко зулла раь це
+        translation:
+          en: she's owner of a beautiful name

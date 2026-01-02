@@ -1,0 +1,17 @@
+id: sCiZFMMrbkqqiRv32O4V
+headword: чеҡ бирара
+ipa: ˌtʃeq biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: чеҡ барара
+    gloss: pfv
+  - text: чеҡ барив
+    gloss: aor
+  - text: чеҡ бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to raise
+      ru: повышать
+    aliases:
+      en: [up, increase]

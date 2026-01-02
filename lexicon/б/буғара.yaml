@@ -1,0 +1,17 @@
+id: LPTgFrxgs8cwOTMhWLHo
+headword: буғара
+ipa: buˈʁara
+tags: [v, cls, intr]
+forms:
+  - text: бярғяра
+    gloss: pfv
+  - text: бярғур
+    gloss: aor
+  - text: буғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dry
+      ru: сохнуть
+    aliases:
+      en: [wither]

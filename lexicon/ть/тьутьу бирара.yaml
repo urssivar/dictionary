@@ -1,0 +1,22 @@
+id: jUsFTc721WnFBNTsBVcO
+headword: тьутьу бирара
+ipa: tʼuˌtʼu biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: тьутьу барара
+    gloss: pfv
+  - text: тьутьу барив
+    gloss: aor
+  - text: тьутьу бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to scatter
+      ru: посыпать
+    aliases:
+      en: [sprinkle, strew, dredge]
+  - translation:
+      en: to banish
+      ru: прогонять
+    aliases:
+      en: [expel]

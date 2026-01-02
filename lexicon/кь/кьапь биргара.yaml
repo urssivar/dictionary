@@ -1,0 +1,17 @@
+id: 0DNp7Wub1HalDxqHlERN
+headword: кьапь биргара
+ipa: ˌkʼapʼ birˈgara
+tags: [v, intr, phr]
+forms:
+  - text: кьапь бигара
+    gloss: pfv
+  - text: кьапь бижив
+    gloss: aor
+  - text: кьапь биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lie low
+      ru: притаиваться
+    aliases:
+      en: [hide, lurk]

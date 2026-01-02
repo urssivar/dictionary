@@ -1,0 +1,22 @@
+id: cv191K4AQtfL1LUTcQLR
+headword: ниси
+ipa: niˈsːi
+tags: [n]
+note:
+  en: '*нисей*'
+forms:
+  - text: ниси
+    gloss: sg
+  - text: нисин
+    gloss: obl
+  - text: нисбе
+    gloss: pl
+definitions:
+  - translation:
+      en: cheese
+      ru: сыр
+    tags: [food]
+    examples:
+      - text: cheese pie
+        translation:
+          en: нисинла бацбикь

@@ -1,0 +1,16 @@
+id: r6ztbZTgTTtVpr4vPbEE
+headword: уле
+ipa: ˈule
+tags: [n]
+forms:
+  - text: уле
+    gloss: sg
+  - text: улен
+    gloss: obl
+  - text: илбе
+    gloss: pl
+definitions:
+  - translation:
+      en: eye
+      ru: глаз
+    tags: [body]

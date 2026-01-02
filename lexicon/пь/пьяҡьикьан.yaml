@@ -1,0 +1,18 @@
+id: nLqOi2xQE08R1iGxwIRm
+headword: пьяҡьикьан
+ipa: pʼæˈqʼikʼan
+tags: [n]
+etymology:
+  en: From *пьяҡья* "callus".
+note:
+  en: '*пьяҡьникь*'
+forms:
+  - text: пьяҡьикьан
+    gloss: sg
+  - text: пьяҡьикьне
+    gloss: pl
+definitions:
+  - translation:
+      en: blister
+      ru: волдырь
+    tags: [body]

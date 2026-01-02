@@ -1,0 +1,16 @@
+id: KcW45rxCf64XyMAqxWnR
+headword: турба
+ipa: turˈba
+tags: [n, loan, russian]
+forms:
+  - text: турба
+    gloss: sg
+  - text: турбан
+    gloss: obl, loc
+  - text: турбунде
+    gloss: pl
+definitions:
+  - translation:
+      en: pipe
+      ru: труба
+    tags: [tool]

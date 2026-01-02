@@ -1,0 +1,22 @@
+id: ovYjSRAtysMjFxhPyN7R
+headword: ьана
+ipa: haˈna
+tags: [adv]
+etymology:
+  en: Related to *на* "already".
+forms:
+  - text: ьана
+    gloss: adv
+  - text: ьанала
+    gloss: adj
+definitions:
+  - translation:
+      en: currently
+      ru: сейчас
+    tags: [time]
+    aliases:
+      en: [now]
+    examples:
+      - text: ьана вейкку
+        translation:
+          en: currently he isn't there

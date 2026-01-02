@@ -1,0 +1,19 @@
+id: Is5x8kOTzly514wPgjyD
+headword: ҡьячь кабиргара
+ipa: ˌqʼætʃʼ kabirˈgara
+tags: [v, intr, cls, phr]
+note:
+  en: '*ҡҡоь кабирццара*'
+forms:
+  - text: ҡьячь кабигара
+    gloss: pfv
+  - text: ҡьячь кабижив
+    gloss: aor
+  - text: ҡьячь кабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stoop
+      ru: нагибаться
+    aliases:
+      en: [bend, sit]

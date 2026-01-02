@@ -1,0 +1,15 @@
+id: fyW2eEYnih5ocOLo94sz
+headword: буччара
+ipa: buˈtʃːara
+tags: [v, lbl, cls]
+forms:
+  - text: берччара
+    gloss: pfv
+  - text: берччив
+    gloss: aor
+  - text: буччара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to drink
+      ru: пить

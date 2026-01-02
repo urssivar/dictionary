@@ -1,0 +1,16 @@
+id: qq3sDmYteTTzd3TesDzx
+headword: руса
+ipa: ruˈsa
+tags: [adj]
+note:
+  en: ST2007
+definitions:
+  - translation:
+      en: thoroughbred
+      ru: чистокровный
+    aliases:
+      en: [breeding, pure]
+    examples:
+      - text: руса чве
+        translation:
+          en: breeding ram

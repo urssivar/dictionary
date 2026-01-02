@@ -1,0 +1,17 @@
+id: c8IfHe6gG71TgY24RIEL
+headword: ьабартара
+ipa: habarˈtara
+tags: [v, tr, cls]
+forms:
+  - text: ьабатара
+    gloss: pfv
+  - text: ьабатур
+    gloss: aor
+  - text: ьабартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shove
+      ru: засовывать
+    aliases:
+      en: [put, in]

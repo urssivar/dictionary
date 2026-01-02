@@ -1,0 +1,17 @@
+id: nmR8lGMQhXrxuiuQiGGp
+headword: тьутьу биргара
+ipa: tʼuˌtʼu birˈgara
+tags: [v, intr, cls]
+forms:
+  - text: тьутьу бигара
+    gloss: pfv
+  - text: тьутьу бижив
+    gloss: aor
+  - text: тьутьу биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to spill out
+      ru: высыпываться
+    aliases:
+      en: [scatter]

@@ -1,0 +1,17 @@
+id: 14LxFk09TBN8eAVua7aH
+headword: шала диркара
+ipa: ˌʃala dirˈkara
+tags: [v, intr, phr]
+forms:
+  - text: шала дикара
+    gloss: pfv
+  - text: шала дичив
+    gloss: aor
+  - text: шала диркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dawn
+      ru: светать
+    aliases:
+      en: [light, morning]

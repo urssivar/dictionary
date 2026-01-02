@@ -1,0 +1,17 @@
+id: GGaakRUVfzkMZS1ItWfX
+headword: мах
+ipa: ˈmaχ
+tags: [n]
+forms:
+  - text: мах
+    gloss: sg
+  - text: маха
+    gloss: obl
+  - text: михре
+    gloss: pl
+definitions:
+  - translation:
+      en: burden
+      ru: ноша
+    aliases:
+      en: [cargo, load]

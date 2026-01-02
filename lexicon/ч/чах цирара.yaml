@@ -1,0 +1,17 @@
+id: oanaGZB9Y8VuckKwQOkT
+headword: чах цирара
+ipa: ˌtʃaχ tsiˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: чах цабарара
+    gloss: pfv
+  - text: чах цабарив
+    gloss: aor
+  - text: чах цабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: singe
+      ru: опалять
+    aliases:
+      en: [burn, scorch]

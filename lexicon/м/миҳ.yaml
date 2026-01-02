@@ -1,0 +1,20 @@
+id: Q2PLSsxTdTmzL2Rkusio
+headword: миҳ
+ipa: ˈmix
+tags: [n]
+note:
+  en: '*ттаьур*'
+forms:
+  - text: миҳ
+    gloss: sg
+  - text: миҳан
+    gloss: obl
+  - text: миҳре
+    gloss: pl
+definitions:
+  - translation:
+      en: sickle
+      ru: серп
+    tags: [tool]
+    aliases:
+      en: [grasshook]

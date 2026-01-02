@@ -1,0 +1,22 @@
+id: LkFBQwFTeB2qPN4ZAr8E
+headword: ҡале
+ipa: ˈqale
+tags: [n]
+note:
+  en: '*ҡали*, *ҡале* (LOC)'
+forms:
+  - text: ҡале
+    gloss: sg
+  - text: ҡал
+    gloss: obl
+  - text: ҡил
+    gloss: loc
+  - text: ҡилбе
+    gloss: pl
+definitions:
+  - translation:
+      en: room
+      ru: комната
+  - translation:
+      en: home
+      ru: дом

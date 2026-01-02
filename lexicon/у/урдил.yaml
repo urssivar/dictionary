@@ -1,0 +1,15 @@
+id: VHeULAszwFTyUJT9Bg0R
+headword: урдил
+ipa: urˈdil
+tags: [n, loan, russian]
+forms:
+  - text: урдил
+    gloss: sg
+  - text: урдилте
+    gloss: pl
+definitions:
+  - translation:
+      en: badge
+      ru: орден
+    aliases:
+      en: [order, medal]

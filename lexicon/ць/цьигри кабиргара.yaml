@@ -1,0 +1,19 @@
+id: anrNwOldmvMLVDim6QuD
+headword: цьигри кабиргара
+ipa: ˌtsʼigri kabirˈgara
+tags: [v, phr, cls, intr]
+note:
+  en: It seems the first part isn't used on its own.
+forms:
+  - text: цьигри кабигара
+    gloss: pfv
+  - text: цьигри кабижив
+    gloss: aor
+  - text: цьигри кабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to incubate
+      ru: высижывать яйца
+    aliases:
+      en: [hatch, egg]

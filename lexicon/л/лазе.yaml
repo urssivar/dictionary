@@ -1,0 +1,14 @@
+id: 5tsB7IqYbVGZaTjOYRmo
+headword: лазе
+ipa: ˈlaze
+tags: [n]
+forms:
+  - text: лазе
+    gloss: sg
+  - text: лази
+    gloss: obl
+definitions:
+  - translation:
+      en: strawberry
+      ru: земляника
+    tags: [plant, food, berry]

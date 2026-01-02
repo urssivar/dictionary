@@ -1,0 +1,18 @@
+id: LeSHqRe1owxt6pqFKXSt
+headword: мирғя
+ipa: mirˈʁæ
+tags: [n]
+note:
+  en: '*пьелкьа*'
+forms:
+  - text: мирғя
+    gloss: sg
+  - text: мирғян
+    gloss: obl
+  - text: мирғяппе
+    gloss: pl
+definitions:
+  - translation:
+      en: stick
+      ru: палка
+    tags: [tool]

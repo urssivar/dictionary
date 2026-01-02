@@ -1,0 +1,23 @@
+id: cE94C4Ld21PxGa9Y3KdI
+headword: гуж дирара
+ipa: ˌguʒ diˈrara
+tags: [v, phr, tr]
+note:
+  en: Frozen class
+forms:
+  - text: гуж дарара
+    gloss: pfv
+  - text: гуж дарив
+    gloss: aor
+  - text: гуж дирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to force
+      ru: заставлять
+    aliases:
+      en: [make]
+    examples:
+      - text: дул ьелецци гуж даривда
+        translation:
+          en: i forced him

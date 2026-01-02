@@ -1,0 +1,19 @@
+id: BOLoTVPRjdYN1uqjUzRs
+headword: иҡь
+ipa: ˈiqʼ
+tags: [n]
+note:
+  en: '*еҡь*'
+forms:
+  - text: иҡь
+    gloss: sg
+  - text: иҡьин
+    gloss: obl
+  - text: иҡьре
+    gloss: pl
+definitions:
+  - translation:
+      en: flock
+      ru: стая
+    aliases:
+      en: [herd]

@@ -1,0 +1,21 @@
+id: GklwMjzFvLXgtbzJ2pHU
+headword: черкабиргара
+ipa: tʃerkabirˈgara
+tags: [v, intr, cls]
+forms:
+  - text: черкабигара
+    gloss: pfv
+  - text: черкабижив
+    gloss: aor
+  - text: черкабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cease
+      ru: прекращаться
+    aliases:
+      en: [stop, halt, end]
+    examples:
+      - text: марка черкабижив
+        translation:
+          en: the rain stopped

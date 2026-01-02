@@ -1,0 +1,15 @@
+id: 3Mn7aRWxZkWwSRhzDkkR
+headword: бихяра
+ipa: biˈχːæra
+tags: [v, tr, cls]
+forms:
+  - text: бихяв
+    gloss: aor
+  - text: бихяра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to keep
+      ru: хранить
+    aliases:
+      en: [retain, guard, save]

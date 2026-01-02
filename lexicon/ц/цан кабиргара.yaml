@@ -1,0 +1,15 @@
+id: lY4gcQDi9Hi93GR9W0Tn
+headword: цан кабиргара
+ipa: ˌtsan kabirˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: цан кабигара
+    gloss: pfv
+  - text: цан кабижив
+    gloss: aor
+  - text: цан кабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to put up with
+      ru: мириться

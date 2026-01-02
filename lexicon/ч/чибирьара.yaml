@@ -1,0 +1,17 @@
+id: sUTVsFuuwqrfUvvdGuoP
+headword: чибирьара
+ipa: tʃibirˈhara
+tags: [v, cls, intr]
+forms:
+  - text: чиберьара
+    gloss: pfv
+  - text: чиберьив
+    gloss: aor
+  - text: чибирьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to collide
+      ru: сталкиваться
+    aliases:
+      en: [hit]

@@ -1,0 +1,19 @@
+id: ZMZDNJHDNmPUvZrohXB5
+headword: бувъяна
+ipa: buvˈʔæna
+tags: [v, intr, cls]
+forms:
+  - text: бувъун
+    gloss: aor
+  - text: бувъяна
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to frolic
+      ru: резвиться
+    aliases:
+      en: [play, enjoy]
+    examples:
+      - text: дярья увъун це
+        translation:
+          en: the child is frolicing

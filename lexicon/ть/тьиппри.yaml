@@ -1,0 +1,16 @@
+id: oUWXXhuIfdGuqLrW2wE4
+headword: тьиппри
+ipa: tʼipːˈri
+tags: [n]
+forms:
+  - text: тьиппри
+    gloss: sg
+  - text: тьипприн
+    gloss: obl
+  - text: тьиппруме
+    gloss: pl
+definitions:
+  - translation:
+      en: shoes
+      ru: обувь
+    tags: [clothing]

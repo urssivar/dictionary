@@ -1,0 +1,24 @@
+id: mhQoLUKlWWXbvoYn2u0C
+headword: жили
+ipa: ʒiˈli
+tags: [n]
+forms:
+  - text: жили
+    gloss: sg
+  - text: жилин
+    gloss: obl
+definitions:
+  - translation:
+      en: saddle
+      ru: седло
+    tags: [tool]
+    examples:
+      - text: чергес жили
+        translation:
+          en: circassian saddle
+      - text: имьа жили
+        translation:
+          en: donkey-saddle
+      - text: ҡҡазах жили
+        translation:
+          en: cossack saddle

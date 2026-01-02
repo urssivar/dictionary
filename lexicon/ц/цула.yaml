@@ -1,0 +1,16 @@
+id: L6EATXpd83Do68MPdkCi
+headword: цула
+ipa: ˈtsula
+tags: [n]
+forms:
+  - text: цула
+    gloss: sg
+  - text: цулан
+    gloss: obl
+  - text: цилбе
+    gloss: pl
+definitions:
+  - translation:
+      en: tooth
+      ru: зуб
+    tags: [body]

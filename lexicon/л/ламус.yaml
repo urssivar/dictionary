@@ -1,0 +1,22 @@
+id: BoFEpi3wi5vimbYt8pOt
+headword: ламус
+ipa: laˈmus
+tags: [n, loan, arabic]
+forms:
+  - text: ламус
+    gloss: sg
+  - text: ламусе
+    gloss: pl
+definitions:
+  - translation:
+      en: honor
+      ru: честь
+    aliases:
+      en: [respect, due]
+    examples:
+      - text: дила ламусли ьел ҡьабул абиру
+        translation:
+          en: my honor doesn't accept that
+      - text: хула ламусе дарив
+        translation:
+          en: honored him greatly

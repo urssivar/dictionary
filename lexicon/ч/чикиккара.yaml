@@ -1,0 +1,17 @@
+id: F1zFe81AXp9qhtThLVod
+headword: чикиккара
+ipa: tʃikiˈkːara
+tags: [v, tr]
+forms:
+  - text: чикаккара
+    gloss: pfv
+  - text: чикаккив
+    gloss: aor
+  - text: чикиккара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dunk
+      ru: макать
+    aliases:
+      en: [dunk]

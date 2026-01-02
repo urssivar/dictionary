@@ -1,0 +1,14 @@
+id: UC5na20uHTDHaGdKNLyt
+headword: букан
+ipa: buˈkan
+tags: [n, nmlz]
+forms:
+  - text: букан
+    gloss: sg
+  - text: дуканте
+    gloss: pl
+definitions:
+  - translation:
+      en: food
+      ru: еда
+    tags: [food]

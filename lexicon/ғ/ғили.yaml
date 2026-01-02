@@ -1,0 +1,18 @@
+id: Qtq7h3EWpQkubFqgntfN
+headword: ғили
+ipa: ʁiˈli
+tags: [n]
+forms:
+  - text: ғили
+    gloss: sg
+  - text: ғилин
+    gloss: obl
+  - text: ғилме
+    gloss: pl
+definitions:
+  - translation:
+      en: clasp
+      ru: застежка
+    tags: [tool]
+    aliases:
+      en: [fastener, snap, zip]

@@ -1,0 +1,17 @@
+id: hecDZVlBCu2iRozh9kUZ
+headword: бухара
+ipa: buˈχːara
+tags: [v, intr, cls]
+forms:
+  - text: берхара
+    gloss: pfv
+  - text: берхив
+    gloss: aor
+  - text: бухара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to freeze
+      ru: мерзнуть
+    aliases:
+      en: [cold, frost]

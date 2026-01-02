@@ -1,0 +1,21 @@
+id: ZFWVLGlspb8mCb4JNUFG
+headword: цигон
+ipa: tsiˈgon
+tags: [pro, adj]
+etymology:
+  en: From *ци* "what" + *гон* "like".
+forms:
+  - text: цигон
+    gloss: sg
+  - text: цигонил
+    gloss: obl
+  - text: цигонте
+    gloss: pl
+definitions:
+  - translation:
+      en: like what
+      ru: какой
+    examples:
+      - text: цигон'ей етти?
+        translation:
+          en: how do you like it?

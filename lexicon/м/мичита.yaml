@@ -1,0 +1,18 @@
+id: HCgfacQHyjNccODjFyOz
+headword: мичита
+ipa: miˈtʃita
+tags: [n]
+forms:
+  - text: мичита
+    gloss: sg
+  - text: мичитан
+    gloss: obl, loc
+  - text: мичитне
+    gloss: pl
+definitions:
+  - translation:
+      en: cereal crusher
+      ru: дробильня для крупы
+    tags: [tool]
+    aliases:
+      en: [arm, level]

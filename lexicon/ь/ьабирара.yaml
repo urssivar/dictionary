@@ -1,0 +1,17 @@
+id: dIYfnchC58kZ4IKxRflV
+headword: ьабирара
+ipa: habiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ьабарара
+    gloss: pfv
+  - text: ьабарив
+    gloss: aor
+  - text: ьабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to put in
+      ru: закидывать
+    aliases:
+      en: [throw, add]

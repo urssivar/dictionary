@@ -1,0 +1,17 @@
+id: 9CdkPvkNP8myHzqBkaJ0
+headword: чиургара
+ipa: tʃiurˈgara
+tags: [v, intr]
+forms:
+  - text: чиагара
+    gloss: pfv
+  - text: чиагур
+    gloss: aor
+  - text: чиургара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to huddle
+      ru: кучковаться
+    aliases:
+      en: [crowd]

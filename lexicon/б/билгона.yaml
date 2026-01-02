@@ -1,0 +1,15 @@
+id: ZaBZ6MkEI2oZbwyl9haA
+headword: билгона
+ipa: bilˈgona
+tags: [v, cls, tr]
+forms:
+  - text: билгун
+    gloss: aor
+  - text: билгона
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to button up
+      ru: застегивать
+    aliases:
+      en: [fasten, zip, close]

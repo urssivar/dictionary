@@ -1,0 +1,20 @@
+id: lE0KnsmEJpUvokp4Fszp
+headword: арц
+ipa: ˈarts
+tags: [n]
+forms:
+  - text: арц
+    gloss: sg
+  - text: арцре
+    gloss: pl
+definitions:
+  - translation:
+      en: money
+      ru: деньги
+    tags: [social]
+  - note:
+      en: Also *цьябарц*.
+    translation:
+      en: silver
+      ru: серебро
+    tags: [nature, metal]

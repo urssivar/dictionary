@@ -1,0 +1,17 @@
+id: a2TZM12XT8TQHEwVRlnb
+headword: мяькам бирара
+ipa: mæhˌkam biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: мяькам барара
+    gloss: pfv
+  - text: мяькам барив
+    gloss: aor
+  - text: мяькам бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to protect
+      ru: беречь
+    aliases:
+      en: [retain, keep, guard, preserve]

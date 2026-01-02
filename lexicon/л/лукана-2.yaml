@@ -1,0 +1,21 @@
+id: qHzCzwHh9AeC4EyataW2
+headword: лукана
+ipa: luˈkana
+tags: [v, tr, cls]
+forms:
+  - text: балкана
+    gloss: pfv
+  - text: балкун
+    gloss: aor
+  - text: лукана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to grind
+      ru: толочь
+    aliases:
+      en: [smash]
+    examples:
+      - text: далкун чух
+        translation:
+          en: grinded walnuts

@@ -1,0 +1,17 @@
+id: sIElQ7FavYY1PV4270A8
+headword: ккуч биркара
+ipa: kːutʃ birˈkara
+tags: [v, intr, cls, phr]
+forms:
+  - text: ккуч бикара
+    gloss: pfv
+  - text: ккуч бичив
+    gloss: aor
+  - text: ккуч биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to wander
+      ru: кочевать
+    aliases:
+      en: [relocate]

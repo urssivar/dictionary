@@ -1,0 +1,14 @@
+id: 0tC9e5Hu8v2Dqxmg4PrJ
+headword: маҡьлатьис
+ipa: maqʼlaˈtʼis
+tags: [n, loan, arabic]
+forms:
+  - text: маҡьлатьис
+    gloss: sg
+  - text: маҡьлатьисе
+    gloss: pl
+definitions:
+  - translation:
+      en: magnet
+      ru: магнит
+    tags: [tool]

@@ -1,0 +1,29 @@
+id: RTZtpQ5ALFRIvhpItMao
+headword: баал
+ipa: ˈbaal
+tags: [conj, nmlz, cls]
+etymology:
+  en: From old cond. of *бирьора* "to be".
+note:
+  en: '*биьолли*'
+forms:
+  - text: баадал
+    gloss: '1'
+  - text: бааттал
+    gloss: '2'
+  - text: баал
+    gloss: '3'
+definitions:
+  - translation:
+      en: if
+      ru: если
+    examples:
+      - text: уба ҡил рел раал ду ра цянда
+        translation:
+          en: if mother is still at home i will come too
+      - text: илттел баал вяв
+        translation:
+          en: if so, let him go
+      - text: убацци ҳар веға, абаал аттаса вя
+        translation:
+          en: ask mother, else go to father

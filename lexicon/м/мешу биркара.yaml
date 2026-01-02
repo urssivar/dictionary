@@ -1,0 +1,17 @@
+id: 97cTuSpuYAGo6o3qwefj
+headword: мешу биркара
+ipa: meˌʃu birˈkara
+tags: [v, intr, cls, phr]
+forms:
+  - text: мешу бикара
+    gloss: pfv
+  - text: мешу бичив
+    gloss: aor
+  - text: мешу биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to resemble
+      ru: походить
+    aliases:
+      en: [look, like, guess]

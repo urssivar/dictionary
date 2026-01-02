@@ -1,0 +1,17 @@
+id: ZMIO39ObOuOcTF7x9Exh
+headword: бяъ урғара
+ipa: ˌbæʔ urˈʁara
+tags: [v, tr, cls, phr]
+forms:
+  - text: бяъ ағара
+    gloss: pfv
+  - text: бяъ ағив
+    gloss: aor
+  - text: бяъ урғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to aim
+      ru: нацеливать
+    aliases:
+      en: [direct, rotate, steer]

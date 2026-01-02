@@ -1,0 +1,17 @@
+id: kOG9jKxF7NDRjMBrorMs
+headword: чиьурсара
+ipa: tʃihurˈsara
+tags: [v, tr]
+forms:
+  - text: чиьасара
+    gloss: pfv
+  - text: чиьасив
+    gloss: aor
+  - text: чиьурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to commit
+      ru: обязываться
+    aliases:
+      en: [promise, oblige]

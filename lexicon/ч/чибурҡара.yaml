@@ -1,0 +1,22 @@
+id: 9kHZ9YYLUE4vtUN7kEBJ
+headword: чибурҡара
+ipa: tʃiburˈqara
+tags: [v, tr, cls]
+forms:
+  - text: чибяҡара
+    gloss: pfv
+  - text: чибяҡив
+    gloss: aor
+  - text: чибурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hurl
+      ru: швырять
+    aliases:
+      en: [fling, throw]
+  - translation:
+      en: to plaster
+      ru: штукатурить
+    aliases:
+      en: [wall]

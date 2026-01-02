@@ -1,0 +1,17 @@
+id: bsLwIGIBN5Em5VPM6TqC
+headword: ккижи
+ipa: kːiˈʒi
+tags: [n]
+note:
+  en: '*ккиши*'
+forms:
+  - text: ккижи
+    gloss: sg
+  - text: ккижин
+    gloss: obl
+definitions:
+  - translation:
+      en: ash
+      ru: пепел
+    aliases:
+      en: [cinder, coal, slag]

@@ -1,0 +1,19 @@
+id: SDe9JjqVQuvjT91VISSg
+headword: бутьа
+ipa: ˈbutʼa
+tags: [n, nmlz]
+etymology:
+  en: From *утьара* "to share".
+forms:
+  - text: бутьа
+    gloss: sg
+  - text: бутьан
+    gloss: obl
+  - text: бутьне
+    gloss: pl
+definitions:
+  - translation:
+      en: part
+      ru: часть
+    aliases:
+      en: [piece]

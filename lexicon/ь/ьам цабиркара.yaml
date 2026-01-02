@@ -1,0 +1,17 @@
+id: XovqsA8yKqtyYRjPOv2c
+headword: ьам цабиркара
+ipa: ˌham tsabirˈkara
+tags: [v, intr, cls, phr]
+forms:
+  - text: ьам цабикара
+    gloss: pfv
+  - text: ьам цабичив
+    gloss: aor
+  - text: ьам цабиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to recall
+      ru: вспоминать
+    aliases:
+      en: [remember]

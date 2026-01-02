@@ -1,0 +1,16 @@
+id: FcGAzMH05GTor6g2WHp1
+headword: зяннучь
+ipa: zænˈnutʃʼ
+tags: [n]
+forms:
+  - text: зяннучь
+    gloss: sg
+  - text: зяннучьа
+    gloss: obl
+  - text: зяннучье
+    gloss: pl
+definitions:
+  - translation:
+      en: zurna player
+      ru: исполнитель на зурне
+    tags: [profession]

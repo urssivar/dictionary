@@ -1,0 +1,16 @@
+id: pR33iNm09lp8bUxRmd1t
+headword: бутьнат
+ipa: butʼˈnat
+tags: [n, nmlz]
+etymology:
+  en: From *бутьа* "part".
+definitions:
+  - translation:
+      en: partition
+      ru: раздел
+    aliases:
+      en: [split, division, department]
+    examples:
+      - text: бутьнат бара
+        translation:
+          en: partition it

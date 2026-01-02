@@ -1,0 +1,16 @@
+id: X9UTfexjh5NCqn6KStk9
+headword: удар
+ipa: uˈdar
+tags: [n]
+forms:
+  - text: удар
+    gloss: sg
+  - text: удре
+    gloss: pl
+definitions:
+  - translation:
+      en: fruit
+      ru: плод
+    tags: [nature]
+    aliases:
+      en: [item]

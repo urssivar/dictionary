@@ -1,0 +1,14 @@
+id: 9YdQF3UfElFHZBUlZUn5
+headword: купи
+ipa: kuˈpi
+tags: [n, loan, russian]
+forms:
+  - text: купи
+    gloss: sg
+  - text: купин
+    gloss: obl
+definitions:
+  - translation:
+      en: coffee
+      ru: кофе
+    tags: [food]

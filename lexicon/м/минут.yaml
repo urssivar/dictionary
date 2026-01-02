@@ -1,0 +1,13 @@
+id: RklMAM5nyOZ9CcL37SLa
+headword: минут
+ipa: miˈnut
+tags: [n, loan, russian]
+forms:
+  - text: минут
+    gloss: sg
+  - text: минуте
+    gloss: pl
+definitions:
+  - translation:
+      en: minute
+      ru: минута

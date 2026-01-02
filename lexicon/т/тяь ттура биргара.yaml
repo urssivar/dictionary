@@ -1,0 +1,17 @@
+id: kyj2kXYiS20tVdpn9PfJ
+headword: тяь ттура биргара
+ipa: ˌtæh tːura birˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: тяь ттура бигара
+    gloss: pfv
+  - text: тяь ттура бижив
+    gloss: aor
+  - text: тяь ттура биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to leap out
+      ru: выскакивать
+    aliases:
+      en: [jump]

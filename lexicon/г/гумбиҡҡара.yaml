@@ -1,0 +1,17 @@
+id: Uj9rZSR2JER3FXc81rNz
+headword: гумбиҡҡара
+ipa: gumbiˈqːara
+tags: [v, intr, cls]
+forms:
+  - text: гумбуҡҡара
+    gloss: pfv
+  - text: гумбуҡҡив
+    gloss: aor
+  - text: гумбиҡҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to drown
+      ru: утопать
+    aliases:
+      en: [sink]

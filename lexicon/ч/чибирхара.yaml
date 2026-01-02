@@ -1,0 +1,15 @@
+id: V0yhvOjBi841ihfZ9D5j
+headword: чибирхара
+ipa: tʃibirˈχara
+tags: [v, intr, cls]
+forms:
+  - text: чибирхив
+    gloss: aor
+  - text: чибирхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rely
+      ru: полагаться
+    aliases:
+      en: [trust]

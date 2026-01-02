@@ -1,0 +1,14 @@
+id: v5ppK1Bhn4jXyKbEAzCz
+headword: бил
+ipa: ˈbil
+tags: [adv, cls]
+definitions:
+  - translation:
+      en: being
+      ru: будучи
+    aliases:
+      en: [existing]
+    examples:
+      - text: илттел бил ҳарра аагур
+        translation:
+          en: despite it being so it didn't work

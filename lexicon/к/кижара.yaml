@@ -1,0 +1,17 @@
+id: HDrtEw26hdwPDjMAi0Ar
+headword: кижара
+ipa: kiˈʒara
+tags: [v, cls, tr]
+forms:
+  - text: кабиржара
+    gloss: pfv
+  - text: кабиржив
+    gloss: aor
+  - text: кижара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to disband
+      ru: расформировывать
+    aliases:
+      en: [destroy, end]

@@ -1,0 +1,17 @@
+id: 8b9qaG9D7ZvjL2g6xRMH
+headword: цабурцара
+ipa: tsaburˈtsara
+tags: [v, tr, cls]
+forms:
+  - text: цабуцара
+    gloss: pfv
+  - text: цабуцив
+    gloss: aor
+  - text: цабурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to embrace
+      ru: обхватывать
+    aliases:
+      en: [cover, armful]

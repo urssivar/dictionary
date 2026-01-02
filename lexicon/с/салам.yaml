@@ -1,0 +1,19 @@
+id: jeU1Mc8VOj0tdjLyCGXE
+headword: салам
+ipa: saˈlam
+tags: [n, loan, arabic]
+forms:
+  - text: салам
+    gloss: sg
+  - text: саламте
+    gloss: pl
+definitions:
+  - translation:
+      en: funeral
+      ru: похороны
+    aliases:
+      en: [funeral, commiserate]
+    examples:
+      - text: салами вяна
+        translation:
+          en: to attend the funeral

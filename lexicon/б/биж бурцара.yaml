@@ -1,0 +1,17 @@
+id: zfrXdrzgwFOngchaFw6g
+headword: биж бурцара
+ipa: ˌbiʒ burˈtsara
+tags: [v, intr, cls, phr]
+forms:
+  - text: биж буцара
+    gloss: pfv
+  - text: биж буцив
+    gloss: aor
+  - text: биж бурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to bog
+      ru: увязать
+    aliases:
+      en: [stuck, mud]

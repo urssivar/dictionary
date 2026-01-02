@@ -1,0 +1,17 @@
+id: yNqwuSTeHs2sWBhOXOcX
+headword: сарцабурҡара
+ipa: sartsaburˈqara
+tags: [v, cls, tr]
+forms:
+  - text: сарцабяҡара
+    gloss: pfv
+  - text: сарцабяҡив
+    gloss: aor
+  - text: сарцабурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to nudge
+      ru: подталкивать
+    aliases:
+      en: [push, initiate]

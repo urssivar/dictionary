@@ -1,0 +1,15 @@
+id: JNi5XkQK7MMDvsRccFy6
+headword: вазил
+ipa: vaˈzil
+tags: [n, loan, arabic]
+forms:
+  - text: вазил
+    gloss: sg
+  - text: вазилте
+    gloss: pl
+definitions:
+  - translation:
+      en: minister
+      ru: министр
+    aliases:
+      en: [officer, vizier]

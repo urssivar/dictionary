@@ -1,0 +1,17 @@
+id: IgMV1DP8KrEP9CmkaFLh
+headword: рушара
+ipa: ruˈʃara
+tags: [v, cls, intr]
+forms:
+  - text: бершора
+    gloss: pfv
+  - text: бершур
+    gloss: aor
+  - text: рушара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to swell
+      ru: разбухать
+    aliases:
+      en: [prepare]

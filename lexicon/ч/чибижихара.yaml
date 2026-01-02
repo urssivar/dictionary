@@ -1,0 +1,17 @@
+id: GOiONmfsC3XAN6TZxNiP
+headword: чибижихара
+ipa: tʃibiʒiˈχara
+tags: [v, cls, tr]
+forms:
+  - text: чибажихара
+    gloss: pfv
+  - text: чибажихив
+    gloss: aor
+  - text: чибижихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to show
+      ru: показывать
+    aliases:
+      en: [render]

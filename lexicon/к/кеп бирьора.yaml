@@ -1,0 +1,17 @@
+id: 0cDqrSgymA3gjoyNeArT
+headword: кеп бирьора
+ipa: ˌkep birˈhora
+tags: [v, intr, cls, phr]
+forms:
+  - text: кеп биьора
+    gloss: pfv
+  - text: кеп биьяв
+    gloss: aor
+  - text: кеп бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get high
+      ru: пьянеть
+    aliases:
+      en: [intoxicate]

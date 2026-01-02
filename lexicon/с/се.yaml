@@ -1,0 +1,25 @@
+id: r3TcrRL9gJ5YtofuOJ3D
+headword: се
+ipa: ˈse
+tags: [adv]
+note:
+  en: '*сат*, *сетте*, *сеттенне*'
+definitions:
+  - translation:
+      en: as
+      ru: как, столько
+    aliases:
+      en: [like, much, long]
+    examples:
+      - text: ппяьял се кукил
+        translation:
+          en: as light as a feather
+      - text: ҡара се де
+        translation:
+          en: was [the size] of a pea
+      - text: етти се кадара
+        translation:
+          en: put as much as yours
+      - text: ду улшан се и ра улше
+        translation:
+          en: you too work so long as i do

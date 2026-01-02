@@ -1,0 +1,17 @@
+id: RmnmZo89f0L1CBV5doKc
+headword: кувцьара
+ipa: kuvˈtsʼara
+tags: [v, tr]
+note:
+  en: '*кунцьана*'
+forms:
+  - text: кувцьив
+    gloss: aor
+  - text: кувцьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rummage
+      ru: рыться, шарить
+    aliases:
+      en: [search, look]

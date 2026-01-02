@@ -1,0 +1,20 @@
+id: vdFe8jhO2psdm5PZXI0j
+headword: мар бирара
+ipa: ˌmar biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: мар барара
+    gloss: pfv
+  - text: мар барив
+    gloss: aor
+  - text: мар бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to justify
+      ru: оправдывать
+  - translation:
+      en: to fathom
+      ru: проникаться
+    aliases:
+      en: [comprehend, understand]

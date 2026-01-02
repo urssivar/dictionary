@@ -1,0 +1,16 @@
+id: Iwf5CamoOY48ivzfrLJT
+headword: гана
+ipa: ˈgana
+tags: [n]
+forms:
+  - text: гана
+    gloss: sg
+  - text: ганал
+    gloss: obl
+definitions:
+  - translation:
+      en: postpartum condition
+      ru: послеродовое состояние
+    tags: [body]
+    aliases:
+      en: [color]

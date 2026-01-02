@@ -1,0 +1,47 @@
+id: shW7hVELUCLCz6Ij7fN6
+headword: урчье
+ipa: ˈurtʃʼe
+tags: [n]
+forms:
+  - text: урчье
+    gloss: sg
+  - text: урчьел
+    gloss: obl
+  - text: урчьбе
+    gloss: pl
+definitions:
+  - translation:
+      en: heart
+      ru: сердце
+    tags: [body]
+    examples:
+      - text: урчье ликьана
+        translation:
+          en: to worry
+      - text: урчье буцара
+        translation:
+          en: to be overwhelmed by emotions
+      - text: урчьелли баьара
+        translation:
+          en: to have a presentiment
+      - text: урьчелцци лам чибиргара
+        translation:
+          en: to want someone greatly
+      - text: урчьелцци кабиццара
+        translation:
+          en: to decide
+      - text: ца урчьелли
+        translation:
+          en: unanomously
+      - text: урчье ьереғ бегара
+        translation:
+          en: to envy
+      - text: урчье берцьара
+        translation:
+          en: to have total disappointment
+      - text: урчье-бекьи веғив
+        translation:
+          en: got offtended greatly
+      - text: урчье баҡьана
+        translation:
+          en: to offend

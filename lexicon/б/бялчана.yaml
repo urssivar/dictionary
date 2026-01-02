@@ -1,0 +1,17 @@
+id: smUII3MOqNq4it2L2dIl
+headword: бялчана
+ipa: bælˈtʃana
+tags: [v, tr, cls]
+forms:
+  - text: бячана
+    gloss: pfv
+  - text: бячун
+    gloss: aor
+  - text: бялчана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dent
+      ru: вминать, вдавливать
+    aliases:
+      en: [press]

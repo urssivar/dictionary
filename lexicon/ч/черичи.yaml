@@ -1,0 +1,14 @@
+id: TCofJX7YsRIOz0Uu0yRb
+headword: черичи
+ipa: tʃeriˈtʃi
+tags: [n]
+forms:
+  - text: черичи
+    gloss: sg
+  - text: черичибе
+    gloss: pl
+definitions:
+  - translation:
+      en: baker
+      ru: пекарь
+    tags: [occupation]

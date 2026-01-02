@@ -1,0 +1,20 @@
+id: n6Kd2w9uixEHSUPKkcqw
+headword: бяҡяла
+ipa: bæˈqæla
+tags: [n]
+etymology:
+  en: From *бурҡяра* "to churn".
+note:
+  en: '*чьеме*, *чьями*'
+forms:
+  - text: бяҡяла
+    gloss: sg
+  - text: бяҡле
+    gloss: obl
+  - text: бяҡлиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: butter
+      ru: сливочное масло
+    tags: [food]

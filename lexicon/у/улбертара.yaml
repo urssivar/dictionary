@@ -1,0 +1,17 @@
+id: HZKGp3IBJSoMBqvttLnf
+headword: улбертара
+ipa: ulberˈtara
+tags: [v, tr]
+forms:
+  - text: улбетара
+    gloss: pfv
+  - text: улбетур
+    gloss: aor
+  - text: улбертара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to keep an eye on
+      ru: присматривать
+    aliases:
+      en: [watch, tend, observe, see]

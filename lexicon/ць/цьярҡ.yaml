@@ -1,0 +1,19 @@
+id: 3lmVgBAP9crvRNTwlQwo
+headword: цьярҡ
+ipa: ˈtsʼærq
+tags: [n]
+forms:
+  - text: цьярҡ
+    gloss: sg
+  - text: цьярҡне
+    gloss: pl
+definitions:
+  - translation:
+      en: spark
+      ru: искры
+    aliases:
+      en: [fire]
+    examples:
+      - text: цьярҡ дижив
+        translation:
+          en: they sparked

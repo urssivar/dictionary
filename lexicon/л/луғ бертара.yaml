@@ -1,0 +1,17 @@
+id: 2mPVPk04tcUVa2uzKu1A
+headword: луғ бертара
+ipa: ˌluʁ berˈtara
+tags: [v, intr, cls, phr]
+forms:
+  - text: луғ бетара
+    gloss: pfv
+  - text: луғ бетур
+    gloss: aor
+  - text: луғ бертара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to spread across
+      ru: расползаться
+    aliases:
+      en: [branch, overgrow]

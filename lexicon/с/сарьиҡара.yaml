@@ -1,0 +1,17 @@
+id: ANUA77cuGukvFcRPFzDE
+headword: сарьиҡара
+ipa: sarhiˈqara
+tags: [v, tr]
+forms:
+  - text: сарьаҡара
+    gloss: pfv
+  - text: сарьаҡив
+    gloss: aor
+  - text: сарьиҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to guide
+      ru: руководить
+    aliases:
+      en: [host, lead]

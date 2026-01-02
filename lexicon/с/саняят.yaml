@@ -1,0 +1,15 @@
+id: Td9hUBPlwI5xJF7U5bUL
+headword: саняят
+ipa: saˈnææt
+tags: [n, loan, arabic]
+forms:
+  - text: саняят
+    gloss: sg
+  - text: саняяте
+    gloss: pl
+definitions:
+  - translation:
+      en: profession
+      ru: профессия
+    aliases:
+      en: [occupation]

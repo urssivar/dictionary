@@ -1,0 +1,14 @@
+id: cBirJmzumjruZH71tjt2
+headword: пакит
+ipa: paˈkit
+tags: [n, loan, russian]
+forms:
+  - text: пакит
+    gloss: sg
+  - text: паките
+    gloss: pl
+definitions:
+  - translation:
+      en: pastic bag
+      ru: пакет
+    tags: [tool]

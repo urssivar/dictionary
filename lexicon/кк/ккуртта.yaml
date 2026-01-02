@@ -1,0 +1,14 @@
+id: JwgWYnhGtCyTcr3cdunS
+headword: ккуртта
+ipa: kːurˈtːa
+tags: [n]
+forms:
+  - text: ккуртта
+    gloss: sg
+  - text: ккурттне
+    gloss: pl
+definitions:
+  - translation:
+      en: fox
+      ru: лиса
+    tags: [animal]

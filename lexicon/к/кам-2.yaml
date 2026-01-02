@@ -1,0 +1,24 @@
+id: BZHuwj5qJR3ZpQy98DOi
+headword: кам
+ipa: ˈkam
+tags: [n]
+note:
+  en: '*кан*'
+forms:
+  - text: кам
+    gloss: sg
+  - text: кимре
+    gloss: pl
+definitions:
+  - translation:
+      en: skin
+      ru: кожа
+  - translation:
+      en: peel
+      ru: кожура
+    aliases:
+      en: [husk]
+  - translation:
+      en: bark
+      ru: кора
+    tags: [nature]

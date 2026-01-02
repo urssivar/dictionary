@@ -1,0 +1,17 @@
+id: 7eS6tT7aIlbPNccenAaK
+headword: ьаттила
+ipa: haˈtːila
+tags: [n]
+etymology:
+  en: From *ьатт* "upward".
+forms:
+  - text: ьаттила
+    gloss: sg
+  - text: ьаттилал
+    gloss: obl
+definitions:
+  - translation:
+      en: ascent
+      ru: подъем
+    aliases:
+      en: [climb]

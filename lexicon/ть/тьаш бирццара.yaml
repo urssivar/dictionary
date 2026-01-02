@@ -1,0 +1,19 @@
+id: uPynk0ConnLxZd11Ee0a
+headword: тьаш бирццара
+ipa: ˌtʼaʃ birˈtsːara
+tags: [v, intr, cls]
+note:
+  en: '*тьа ~*'
+forms:
+  - text: тьаш биццара
+    gloss: pfv
+  - text: тьаш биццур
+    gloss: aor
+  - text: тьаш бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stop
+      ru: останаливаться
+    aliases:
+      en: [stay, slow]

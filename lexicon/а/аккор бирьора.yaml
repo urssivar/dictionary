@@ -1,0 +1,17 @@
+id: M4LGxTglh8oEwsrk0bwd
+headword: аккор бирьора
+ipa: aˌkːor birˈhora
+tags: [v, intr, cls]
+forms:
+  - text: аккор биьора
+    gloss: pfv
+  - text: аккор биьяв
+    gloss: aor
+  - text: аккор бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to go extinct
+      ru: вымирать
+    aliases:
+      en: [die]

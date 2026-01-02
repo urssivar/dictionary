@@ -1,0 +1,19 @@
+id: UIGaKTbVBwSVWUQ8lCFx
+headword: ҳуне
+ipa: ˈxune
+tags: [n]
+forms:
+  - text: ҳуне
+    gloss: sg
+  - text: ҳунбе
+    gloss: pl
+definitions:
+  - translation:
+      en: road
+      ru: дорога
+    aliases:
+      en: [path]
+    examples:
+      - text: бурсан бець ҳуней бирьор
+        translation:
+          en: '* thinking about bad and it happens'

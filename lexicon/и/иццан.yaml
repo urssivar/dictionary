@@ -1,0 +1,18 @@
+id: N0F6UqIKu7QZIlvrY1BJ
+headword: иццан
+ipa: iˈtsːan
+tags: [n, nmlz]
+etymology:
+  en: Obl. of *иццара* "to hurt".
+note:
+  en: '*иццре*'
+forms:
+  - text: иццан
+    gloss: sg
+  - text: иццанте
+    gloss: pl
+definitions:
+  - translation:
+      en: pain
+      ru: боль
+    tags: [body]

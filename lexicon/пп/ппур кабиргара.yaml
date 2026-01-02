@@ -1,0 +1,17 @@
+id: pTFjWhI1oka0WHieuCkr
+headword: ппур кабиргара
+ipa: ˌpːur kabirˈgara
+tags: [v, intr, cls]
+forms:
+  - text: ппур кабигара
+    gloss: pfv
+  - text: ппур кабижив
+    gloss: aor
+  - text: ппур кабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to despond
+      ru: унывать
+    aliases:
+      en: [sad, depress, droop]

@@ -1,0 +1,16 @@
+id: Q8wVHqWTFkuEWTb05dPK
+headword: сяндяликк
+ipa: sændæˈlikː
+tags: [n, loan, russian]
+forms:
+  - text: сяндяликк
+    gloss: sg
+  - text: сяндяликке
+    gloss: pl
+definitions:
+  - translation:
+      en: sandal
+      ru: сандаль
+    tags: [clothing]
+    aliases:
+      en: [shoe]

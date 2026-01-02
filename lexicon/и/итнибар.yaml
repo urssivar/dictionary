@@ -1,0 +1,17 @@
+id: 8J5fQvUylxgnIykZnia5
+headword: итнибар
+ipa: itˈnibar
+tags: [adv, loan, arabic]
+etymology:
+  en: The frist part is from Arabic *الأثنين* "monday", the second part is *бар* "day"; the same scheme for the other days.
+definitions:
+  - translation:
+      en: monday
+      ru: понедельник
+    tags: [time]
+    aliases:
+      en: [day, week]
+    examples:
+      - text: итнибар циғанда
+        translation:
+          en: i will come on monday

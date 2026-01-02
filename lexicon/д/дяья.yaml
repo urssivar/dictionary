@@ -1,0 +1,16 @@
+id: 067dIoEhugi8CcxU8nZg
+headword: дяья
+ipa: ˈdæhæ
+tags: [n]
+note:
+  en: '*дуья*, *дяь*'
+forms:
+  - text: дяья
+    gloss: sg
+  - text: дяьял
+    gloss: obl
+definitions:
+  - translation:
+      en: snow
+      ru: снег
+    tags: [nature]

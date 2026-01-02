@@ -1,0 +1,26 @@
+id: b7EXtlyzyvhKCkqu8lMy
+headword: ьабирьора
+ipa: habirˈhora
+tags: [v, intr, cls]
+forms:
+  - text: ьабиьора
+    gloss: pfv
+  - text: ьабиьяв
+    gloss: aor
+  - text: ьабирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to originate
+      ru: происходить
+    aliases:
+      en: [hail]
+    examples:
+      - text: исттаккнала ьариьяв
+        translation:
+          en: she originated from the norble women
+  - translation:
+      en: to war
+      ru: воевать
+    aliases:
+      en: [fight, battle]

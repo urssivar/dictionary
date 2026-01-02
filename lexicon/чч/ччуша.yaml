@@ -1,0 +1,20 @@
+id: gbesZi34BYFW9qjeQO5i
+headword: ччуша
+ipa: tʃːuˈʃa
+tags: [n]
+note:
+  en: '*ккоша*'
+forms:
+  - text: ччуша
+    gloss: sg
+  - text: ччушан
+    gloss: obl, loc
+  - text: ччушне
+    gloss: pl
+definitions:
+  - translation:
+      en: trough
+      ru: корыто
+    tags: [tool]
+    aliases:
+      en: [tub, vat]

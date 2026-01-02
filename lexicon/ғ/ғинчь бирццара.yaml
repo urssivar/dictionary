@@ -1,0 +1,16 @@
+id: MUK1F6dYTXUrpIQKIj8w
+headword: ғинчь бирццара
+ipa: ˌʁintʃʼ birˈtsːara
+tags: [v, intr, cls]
+forms:
+  - text: ғинчь биццара
+    gloss: pfv
+  - text: ғинчь биццур
+    gloss: aor
+  - text: ғинчь бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to smirk
+      ru: ухмыляться
+    tags: [emotion]

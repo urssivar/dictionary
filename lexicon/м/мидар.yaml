@@ -1,0 +1,15 @@
+id: vR2DtXMDAuBXQyVlXmks
+headword: мидар
+ipa: miˈdar
+tags: [n, loan, russian]
+forms:
+  - text: мидар
+    gloss: sg
+  - text: мидарте
+    gloss: pl
+definitions:
+  - translation:
+      en: medal
+      ru: медаль
+    aliases:
+      en: [order]

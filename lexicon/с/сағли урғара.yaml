@@ -1,0 +1,17 @@
+id: wsttZWAKKDFxJ9fJEWzz
+headword: сағли урғара
+ipa: saʁˌli urˈʁara
+tags: [v, tr]
+forms:
+  - text: сағли ағара
+    gloss: pfv
+  - text: сағли ағив
+    gloss: aor
+  - text: сағли урғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to make a mess
+      ru: создавать беспорядок
+    aliases:
+      en: [disorder]

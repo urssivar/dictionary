@@ -1,0 +1,22 @@
+id: Fc5GwG9hhYpd2O31iW6J
+headword: черлуккана
+ipa: tʃerluˈkːana
+tags: [v, tr, cls]
+forms:
+  - text: чербеккара
+    gloss: pfv
+  - text: чербеччив
+    gloss: aor
+  - text: черлуккана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to repay
+      ru: возвращать долг
+    aliases:
+      en: [compensate, return]
+  - translation:
+      en: to respond
+      ru: отвечать
+    aliases:
+      en: [reply, answer]

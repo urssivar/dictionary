@@ -1,0 +1,16 @@
+id: D5zS9keeRqSEmE8Vvktn
+headword: бакка
+ipa: ˈbakːa
+tags: [n]
+forms:
+  - text: бакка
+    gloss: sg
+  - text: баккан
+    gloss: obl
+definitions:
+  - translation:
+      en: beanie
+      ru: шапочка, петушок
+    tags: [clothing]
+    aliases:
+      en: [cap, hat]

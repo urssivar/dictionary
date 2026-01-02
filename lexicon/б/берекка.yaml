@@ -1,0 +1,18 @@
+id: M970C6x6H5gsz7QZD489
+headword: берекка
+ipa: beˈrekːa
+tags: [n]
+note:
+  en: '*диркка*'
+forms:
+  - text: берекка
+    gloss: sg
+  - text: береккан
+    gloss: obl
+  - text: бирккме
+    gloss: pl
+definitions:
+  - translation:
+      en: bow
+      ru: лук
+    tags: [warfare, tool]

@@ -1,0 +1,17 @@
+id: KPHv80iOXxLeTKXyJRWM
+headword: ьисав дирара
+ipa: hiˌsav diˈrara
+tags: [v, phr, tr, cls]
+forms:
+  - text: ьисав барара
+    gloss: pfv
+  - text: ьисав барив
+    gloss: aor
+  - text: ьисав бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to compare
+      ru: сравнивать
+    aliases:
+      en: [compute]

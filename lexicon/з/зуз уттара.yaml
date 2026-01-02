@@ -1,0 +1,19 @@
+id: XAF6a4hqp7Fv25oOw3RD
+headword: зуз уттара
+ipa: ˌzuz uˈtːara
+tags: [v, cls, intr, phr]
+note:
+  en: '*зуз билтьана*'
+forms:
+  - text: зуз берттара
+    gloss: pfv
+  - text: зуз берттив
+    gloss: aor
+  - text: зуз уттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to procrastinate
+      ru: медлить
+    aliases:
+      en: [linger, long, delay]

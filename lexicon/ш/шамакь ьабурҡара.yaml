@@ -1,0 +1,15 @@
+id: T04056ZkogCWkPpUimcc
+headword: шамакь ьабурҡара
+ipa: ʃaˌmakʼ haburˈqara
+tags: [v, cls, intr]
+forms:
+  - text: шамакь ьабяҡара
+    gloss: pfv
+  - text: шамакь ьабярҡив
+    gloss: aor
+  - text: шамакь ьабурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to grow moldy
+      ru: плесневеть

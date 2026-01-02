@@ -1,0 +1,19 @@
+id: I2NMGcic1OC4GDu7NwgS
+headword: ирже
+ipa: ˈirʒe
+tags: [n]
+note:
+  en: |-
+    *ирзе*, *ург*
+    *чьала*
+forms:
+  - text: ирже
+    gloss: sg
+  - text: иржме
+    gloss: pl
+definitions:
+  - translation:
+      en: arrow
+      ru: стрела
+    aliases:
+      en: [dart]

@@ -1,0 +1,15 @@
+id: as8nK2Og0j57rIBWLp6m
+headword: биғяра
+ipa: biˈʁæra
+tags: [v, cls, intr]
+forms:
+  - text: биғяв
+    gloss: aor
+  - text: биғяра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get exhausted
+      ru: истощаться
+    aliases:
+      en: [tire]

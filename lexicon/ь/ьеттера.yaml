@@ -1,0 +1,16 @@
+id: FxBzZ1xztyE1cCoc0tO5
+headword: ьеттера
+ipa: ˈhetːera
+tags: [adv]
+etymology:
+  en: From *ьетте* "merely" + concessive *ра*.
+definitions:
+  - translation:
+      en: anyway
+      ru: и так, всё равно
+    aliases:
+      en: [either]
+    examples:
+      - text: марка абирул ьеттера дикьар
+        translation:
+          en: it doesn't rain but they grow anyway

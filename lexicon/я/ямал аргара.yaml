@@ -1,0 +1,17 @@
+id: XIsxc5EfICulI2K8K9mJ
+headword: ямал аргара
+ipa: æˌmal arˈgara
+tags: [v, intr, phr]
+forms:
+  - text: ямал агара
+    gloss: pfv
+  - text: ямал агур
+    gloss: aor
+  - text: ямал аргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get by
+      ru: обходиться, удаваться
+    aliases:
+      en: [resolve, manage, survive]

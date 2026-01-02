@@ -1,0 +1,16 @@
+id: 9g2GeMHQfiZMyj8SF5vP
+headword: жутьан
+ipa: ʒuˈtʼan
+tags: [n]
+forms:
+  - text: жутьан
+    gloss: sg
+  - text: жутьне
+    gloss: pl
+definitions:
+  - translation:
+      en: jamb
+      ru: косяк
+    tags: [body]
+    aliases:
+      en: [space, frame]

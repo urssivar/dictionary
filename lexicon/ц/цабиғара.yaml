@@ -1,0 +1,22 @@
+id: FfKc3PQvgZRPj6r4Xpo0
+headword: цабиғара
+ipa: tsabiˈʁara
+tags: [v, intr, cls]
+note:
+  en: '*цебеғара*'
+forms:
+  - text: цабағара
+    gloss: pfv
+  - text: цабағив
+    gloss: aor
+  - text: цабиғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to arrive
+      ru: приходить
+    aliases:
+      en: [come, get]
+  - translation:
+      en: to get ready (about food)
+      ru: подготовиться (о еде)

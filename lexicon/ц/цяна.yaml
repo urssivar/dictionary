@@ -1,0 +1,28 @@
+id: nVxG6qyAd650iQnxouB6
+headword: цяна
+ipa: tsæˈna
+tags: [v, cls, intr]
+note:
+  en: '*цянара*'
+forms:
+  - text: цяна
+    gloss: pfv
+  - text: цябун
+    gloss: aor
+  - text: цябе
+    gloss: imp
+  - text: цянне
+    gloss: prog
+  - text: мацятте
+    gloss: proh
+definitions:
+  - translation:
+      en: to come
+      ru: прийти
+    examples:
+      - text: ця нисацци кигара
+        translation:
+          en: come to sit with us
+      - text: уцци цянне це
+        translation:
+          en: brother is coming

@@ -1,0 +1,17 @@
+id: JpsqB6ZGZ62ADs9gTqLE
+headword: кко
+ipa: ˈkːo
+tags: [ptcl]
+definitions:
+  - translation:
+      en: '[politeness particle]'
+      ru: '[частица вежливости]'
+    aliases:
+      en: [please, implore]
+    examples:
+      - text: киже кко
+        translation:
+          en: please, sit
+      - text: би кко
+        translation:
+          en: you know

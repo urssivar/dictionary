@@ -1,0 +1,18 @@
+id: qTSNPLfeaPJb6r2GQmCn
+headword: кила
+ipa: kiˈla
+tags: [n, loan, russian]
+forms:
+  - text: кила
+    gloss: sg
+  - text: килан
+    gloss: obl
+  - text: килубе
+    gloss: pl
+definitions:
+  - translation:
+      en: kilogram
+      ru: килограмм
+    tags: [measure]
+    aliases:
+      en: [kg]

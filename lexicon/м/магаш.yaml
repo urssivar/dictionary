@@ -1,0 +1,18 @@
+id: l5Jlm02DkrhL4yqfh94r
+headword: магаш
+ipa: maˈgaʃ
+tags: [n]
+note:
+  en: '*магиш*'
+forms:
+  - text: магаш
+    gloss: sg
+  - text: магаше
+    gloss: pl
+definitions:
+  - translation:
+      en: whey curd
+      ru: творог из сыворотки
+    tags: [food]
+    aliases:
+      en: [cheese]

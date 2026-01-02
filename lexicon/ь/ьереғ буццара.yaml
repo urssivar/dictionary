@@ -1,0 +1,15 @@
+id: XeITesKQ5gQMSCTQp7QF
+headword: ьереғ буццара
+ipa: heˌreʁ buˈtsːara
+tags: [v, cls, intr]
+forms:
+  - text: ьереғ буццив
+    gloss: aor
+  - text: ьереғ буццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to serve
+      ru: прислуживать
+    aliases:
+      en: [work]

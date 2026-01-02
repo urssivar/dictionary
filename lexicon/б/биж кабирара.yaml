@@ -1,0 +1,17 @@
+id: keOSptyBhPnrgM7Rmzca
+headword: биж кабирара
+ipa: ˌbiʒ kabiˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: биж кабарара
+    gloss: pfv
+  - text: биж кабарив
+    gloss: aor
+  - text: биж кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to add in
+      ru: вкладывать
+    aliases:
+      en: [throw]

@@ -1,0 +1,17 @@
+id: ipWe55Q3WTqaNcZgtTZq
+headword: кярта
+ipa: ˈkærta
+tags: [n, loan, russian]
+forms:
+  - text: кярта
+    gloss: sg
+  - text: кяртан
+    gloss: obl
+  - text: кяртре
+    gloss: pl
+definitions:
+  - translation:
+      en: map
+      ru: карта
+    aliases:
+      en: [card]

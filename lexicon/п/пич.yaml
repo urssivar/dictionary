@@ -1,0 +1,17 @@
+id: LRrjB1izxFk5x1PdFqET
+headword: пич
+ipa: ˈpitʃ
+tags: [n, loan, russian]
+forms:
+  - text: пич
+    gloss: sg
+  - text: пични
+    gloss: loc
+  - text: пичре
+    gloss: pl
+definitions:
+  - translation:
+      en: stove
+      ru: печь
+    aliases:
+      en: [cooker]

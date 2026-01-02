@@ -1,0 +1,17 @@
+id: lk4eNhxp5dkAG3hL26rd
+headword: бирҳара
+ipa: birˈxara
+tags: [v, tr, cls]
+forms:
+  - text: биҳара
+    gloss: pfv
+  - text: бишив
+    gloss: aor
+  - text: бирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lay out
+      ru: раскладывать
+    aliases:
+      en: [place]

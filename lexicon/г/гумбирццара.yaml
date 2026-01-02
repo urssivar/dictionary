@@ -1,0 +1,17 @@
+id: 37drVRSATPoGuDMpqrSz
+headword: гумбирццара
+ipa: gumbirˈtsːara
+tags: [v, tr, cls]
+forms:
+  - text: гумбиццара
+    gloss: pfv
+  - text: гумбиццур
+    gloss: aor
+  - text: гумбирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to substitute
+      ru: подставлять
+    aliases:
+      en: [put, under]

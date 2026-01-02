@@ -1,0 +1,19 @@
+id: V4t6v5Y0YdGcCe3usFHs
+headword: хатир
+ipa: χaˈtir
+tags: [n, loan, arabic]
+etymology:
+  en: From Arabic *خَاطِر*.
+definitions:
+  - translation:
+      en: respect
+      ru: уважение
+    aliases:
+      en: [honor, authority]
+    examples:
+      - text: ьелела хатир бугун
+        translation:
+          en: he lost his respect
+      - text: хатир дарара
+        translation:
+          en: to show respect

@@ -1,0 +1,18 @@
+id: D7us4Gm40znTiPKuD4eM
+headword: жут
+ipa: ˈʒut
+tags: [n, adj, loan, kumyk]
+note:
+  en: '*жуть*'
+forms:
+  - text: жут
+    gloss: sg
+  - text: жутре
+    gloss: pl
+definitions:
+  - translation:
+      en: even
+      ru: четный
+  - translation:
+      en: pair
+      ru: пара

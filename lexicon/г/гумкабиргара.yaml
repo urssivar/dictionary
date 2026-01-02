@@ -1,0 +1,17 @@
+id: Z201lKVS6zqnHqd8KV3B
+headword: гумкабиргара
+ipa: gumkabirˈgara
+tags: [v, intr, cls]
+forms:
+  - text: гумкабигара
+    gloss: pfv
+  - text: гумкабижив
+    gloss: aor
+  - text: гумкабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lay in ambush
+      ru: устраивать засаду
+    aliases:
+      en: [wait, attack, hide]

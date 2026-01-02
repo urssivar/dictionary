@@ -1,0 +1,20 @@
+id: 8Biu7K1te4B41yGSLjQk
+headword: ьяйгон
+ipa: hæjˈgon
+tags: [n, loan, arabic]
+note:
+  en: '*мицьир мас*'
+forms:
+  - text: ьяйгон
+    gloss: sg
+  - text: ьяйгонте
+    gloss: pl
+definitions:
+  - translation:
+      en: cattle
+      ru: скот
+    tags: [animal]
+    examples:
+      - text: аллаьла ьяйгон
+        translation:
+          en: '* simpleton'

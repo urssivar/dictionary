@@ -1,0 +1,17 @@
+id: igupwMAcysvqiV6fiP5c
+headword: бирцара
+ipa: birˈtsara
+tags: [v, cls, tr]
+forms:
+  - text: бицара
+    gloss: pfv
+  - text: бицив
+    gloss: aor
+  - text: бирцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sell
+      ru: продавать
+    aliases:
+      en: [trade]

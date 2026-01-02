@@ -1,0 +1,24 @@
+id: G4I1BYdB4hzdCbjJO07s
+headword: сабав
+ipa: saˈbav
+tags: [n, loan, arabic]
+forms:
+  - text: сабав
+    gloss: sg
+  - text: сабавте
+    gloss: pl
+definitions:
+  - translation:
+      en: cause
+      ru: причина
+    aliases:
+      en: [reason]
+  - translation:
+      en: healing
+      ru: исцеление
+    aliases:
+      en: [cure, medication, threat]
+    examples:
+      - text: сабавла шин
+        translation:
+          en: healing water

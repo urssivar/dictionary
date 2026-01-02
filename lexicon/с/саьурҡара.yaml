@@ -1,0 +1,17 @@
+id: 7joEsv1mDbIBOnvu7IuL
+headword: саьурҡара
+ipa: sahurˈqara
+tags: [v, tr]
+forms:
+  - text: саьаҡара
+    gloss: pfv
+  - text: саьаҡив
+    gloss: aor
+  - text: саьурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to do in the name
+      ru: делать во имя
+    aliases:
+      en: [vow, dedicate]

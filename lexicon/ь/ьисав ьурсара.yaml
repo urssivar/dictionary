@@ -1,0 +1,17 @@
+id: DXlMxyaBOZDOVYkyQkge
+headword: ьисав ьурсара
+ipa: hiˌsav hurˈsara
+tags: [v, tr, phr]
+forms:
+  - text: ьисав ьасара
+    gloss: pfv
+  - text: ьисав ьасив
+    gloss: aor
+  - text: ьисав ьурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to take into account
+      ru: учитывать
+    aliases:
+      en: [consider]

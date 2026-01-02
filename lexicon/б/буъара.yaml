@@ -1,0 +1,17 @@
+id: cZA5oSi1538x6cE1SpPf
+headword: буъара
+ipa: buˈʔara
+tags: [v, intr, cls]
+forms:
+  - text: беръара
+    gloss: pfv
+  - text: беръив
+    gloss: aor
+  - text: буъара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rot
+      ru: гнить
+    aliases:
+      en: [decay]

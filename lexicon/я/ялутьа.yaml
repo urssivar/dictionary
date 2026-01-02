@@ -1,0 +1,20 @@
+id: U8ixpsnizHuFuGzAWdbS
+headword: ялутьа
+ipa: æluˈtʼa
+tags: [n]
+etymology:
+  en: Could be related to *яла* "wheel".
+note:
+  en: '*мялутьай*, *явлуть*'
+forms:
+  - text: ялутьа
+    gloss: sg
+  - text: ялутьне
+    gloss: pl
+definitions:
+  - translation:
+      en: circle
+      ru: круг
+    tags: [tool]
+    aliases:
+      en: [donut]

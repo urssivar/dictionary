@@ -1,0 +1,15 @@
+id: bZI4K7BlpCYcxUGgZ9DL
+headword: дярхя бугара
+ipa: dærˌχæ buˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: дярхя бужив
+    gloss: pfv
+  - text: дярхя бугара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sleep over
+      ru: ночевать
+    aliases:
+      en: [night, stay]

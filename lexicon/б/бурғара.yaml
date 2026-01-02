@@ -1,0 +1,15 @@
+id: Ys2qZYYqrm0loyGavCis
+headword: бурғара
+ipa: burˈʁara
+tags: [v, intr, cls]
+forms:
+  - text: бурғив
+    gloss: aor
+  - text: бурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to battle
+      ru: сражаться
+    aliases:
+      en: [fight, combat]

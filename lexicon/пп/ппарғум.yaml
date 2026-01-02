@@ -1,0 +1,15 @@
+id: 1BR3lkeg8kramapg2HZL
+headword: ппарғум
+ipa: pːarˈʁum
+tags: [n, loan, russian]
+forms:
+  - text: ппарғум
+    gloss: sg
+  - text: ппарғумте
+    gloss: pl
+definitions:
+  - translation:
+      en: wagon
+      ru: фургон
+    aliases:
+      en: [araba, cart]

@@ -1,0 +1,16 @@
+id: 2iDNBhQXrpL758WTKBxL
+headword: жуна
+ipa: ˈʒuna
+tags: [n]
+forms:
+  - text: жуна
+    gloss: sg
+  - text: жунал
+    gloss: obl
+  - text: жунбе
+    gloss: pl
+definitions:
+  - translation:
+      en: gauze
+      ru: марля
+    tags: [textile]

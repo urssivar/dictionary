@@ -1,0 +1,15 @@
+id: lCGkYsOHFw58cedpjSl5
+headword: жалаьала
+ipa: ʒalaˈhala
+tags: [n]
+definitions:
+  - translation:
+      en: temperature (illness)
+      ru: температура (болезнь)
+    tags: [body]
+    aliases:
+      en: [ill, flu, cold]
+    examples:
+      - text: жалаьала цабирара
+        translation:
+          en: to have a temperature

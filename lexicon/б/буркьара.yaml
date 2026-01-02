@@ -1,0 +1,24 @@
+id: KL6ciLmIIxWZ15zjJKsr
+headword: буркьара
+ipa: burˈkʼara
+tags: [v, tr, cls]
+note:
+  en: '*беркьур* (AOR)'
+forms:
+  - text: беркьора
+    gloss: pfv
+  - text: берчьив
+    gloss: aor
+  - text: буркьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to conduct
+      ru: проводить
+    aliases:
+      en: [perform, act, experience, spend]
+  - translation:
+      en: to slide in
+      ru: задвигать
+    aliases:
+      en: [push, move]

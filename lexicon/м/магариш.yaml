@@ -1,0 +1,15 @@
+id: QNNhCUFLQbJndqEO8SmF
+headword: магариш
+ipa: magaˈriʃ
+tags: [n, loan, turkic]
+forms:
+  - text: магариш
+    gloss: sg
+  - text: магарише
+    gloss: pl
+definitions:
+  - translation:
+      en: offering
+      ru: подношение
+    aliases:
+      en: [tribute]

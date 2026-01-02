@@ -1,0 +1,16 @@
+id: DgGYfuQgAggoI6G1xHwy
+headword: ниттир
+ipa: niˈtːir
+tags: [n]
+note:
+  en: '*ниттур*'
+forms:
+  - text: ниттир
+    gloss: sg
+  - text: ниттирбе
+    gloss: pl
+definitions:
+  - translation:
+      en: eyebrow
+      ru: бровь
+    tags: [body]

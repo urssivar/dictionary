@@ -1,0 +1,16 @@
+id: zmKNE13rO8Ete9Ny3RR1
+headword: кьатьа
+ipa: kʼaˈtʼa
+tags: [n]
+forms:
+  - text: кьатьа
+    gloss: sg
+  - text: кьатьан
+    gloss: obl
+  - text: кьитьне
+    gloss: pl
+definitions:
+  - translation:
+      en: shovel
+      ru: лопата
+    tags: [tool]

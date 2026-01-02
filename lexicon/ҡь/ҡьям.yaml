@@ -1,0 +1,16 @@
+id: dQfNc2dWpCt6FJuOKKve
+headword: ҡьям
+ipa: ˈqʼæm
+tags: [n]
+forms:
+  - text: ҡьям
+    gloss: sg
+  - text: ҡьямре
+    gloss: pl
+definitions:
+  - translation:
+      en: lacrimal caruncle
+      ru: слезное мясцо
+    tags: [body]
+    aliases:
+      en: [eye]

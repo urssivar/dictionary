@@ -1,0 +1,17 @@
+id: ztIC7GCe2rEzkKEyhb1q
+headword: ьуттара
+ipa: huˈtːara
+tags: [v, cls, tr]
+forms:
+  - text: ьаберттара
+    gloss: pfv
+  - text: ьаберттив
+    gloss: aor
+  - text: ьуттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to demount
+      ru: демонтировать
+    aliases:
+      en: [apart, disassemble, dismantle]

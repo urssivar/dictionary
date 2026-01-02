@@ -1,0 +1,16 @@
+id: 9ah7U5XyXH21TvPhQnoX
+headword: лас
+ipa: ˈlas
+tags: [n]
+forms:
+  - text: лас
+    gloss: sg
+  - text: ласре
+    gloss: pl
+definitions:
+  - translation:
+      en: precipice
+      ru: пропасть
+    tags: [nature]
+    aliases:
+      en: [cliff]

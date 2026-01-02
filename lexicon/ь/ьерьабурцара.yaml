@@ -1,0 +1,17 @@
+id: qZdtHCrbGoakankhALXD
+headword: ьерьабурцара
+ipa: herhaburˈtsara
+tags: [v, tr, cls]
+forms:
+  - text: ьерьабуцара
+    gloss: pfv
+  - text: ьерьабуцив
+    gloss: aor
+  - text: ьерьабурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to endorse
+      ru: одобрять, поддерживать
+    aliases:
+      en: [help, aid, root]

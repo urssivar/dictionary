@@ -1,0 +1,18 @@
+id: JpZon1g12goHNlzWZup1
+headword: яницц
+ipa: æˈnitsː
+tags: [n]
+forms:
+  - text: яницц
+    gloss: sg
+  - text: янцце
+    gloss: obl
+  - text: янццирбе
+    gloss: pl
+definitions:
+  - translation:
+      en: spring
+      ru: родник
+    tags: [nature]
+    aliases:
+      en: [water, source]

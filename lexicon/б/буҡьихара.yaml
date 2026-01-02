@@ -1,0 +1,19 @@
+id: WTH4mlaDoIWbHjX6JmiD
+headword: буҡьихара
+ipa: buqʼiˈχara
+tags: [v, cls, tr]
+forms:
+  - text: берҡьихара
+    gloss: pfv
+  - text: берҡьихив
+    gloss: aor
+  - text: буҡьихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lose
+      ru: терять
+    examples:
+      - text: ил берҡьихивде дила унҳу
+        translation:
+          en: you lost my key

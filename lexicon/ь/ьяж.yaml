@@ -1,0 +1,15 @@
+id: ob46JOGcDHBgd3rgZpic
+headword: ьяж
+ipa: ˈhæʒ
+tags: [n, loan, arabic]
+forms:
+  - text: ьяж
+    gloss: sg
+  - text: ьяжни
+    gloss: loc
+definitions:
+  - translation:
+      en: hajj
+      ru: хадж
+    aliases:
+      en: [pilgrimage]

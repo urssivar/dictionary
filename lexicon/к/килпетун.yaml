@@ -1,0 +1,16 @@
+id: E47hXZZqrxPwoR2XOOve
+headword: килпетун
+ipa: kilpeˈtun
+tags: [n, loan, turkic]
+forms:
+  - text: килпетун
+    gloss: sg
+  - text: килпетунте
+    gloss: pl
+definitions:
+  - translation:
+      en: pliers
+      ru: плоскогубцы
+    tags: [tool]
+    aliases:
+      en: [forceps]

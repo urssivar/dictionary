@@ -1,0 +1,17 @@
+id: OyToQvpDUZR1v7i5d0IE
+headword: гуничи бирара
+ipa: guniˌtʃi biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: гуничи барара
+    gloss: pfv
+  - text: гуничи барив
+    gloss: aor
+  - text: гуничи бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to talk over
+      ru: обсуждать
+    aliases:
+      en: [analyze]

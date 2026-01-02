@@ -1,0 +1,17 @@
+id: o9OYcpgN0cdkIRuGWkv2
+headword: зу иҡара
+ipa: ˌzu iˈqara
+tags: [v, tr]
+forms:
+  - text: зу аҡара
+    gloss: pfv
+  - text: зу аҡив
+    gloss: aor
+  - text: зу иҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to call
+      ru: звать, называть
+    aliases:
+      en: [name, title]

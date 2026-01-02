@@ -1,0 +1,17 @@
+id: LFM2jfJ0OKKb74IhPI1Y
+headword: ҡячь бирара
+ipa: ˌqætʃʼ biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: ҡячь барара
+    gloss: pfv
+  - text: ҡячь барив
+    gloss: aor
+  - text: ҡячь бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to accelerate
+      ru: ускорять
+    aliases:
+      en: [speed]

@@ -1,0 +1,17 @@
+id: oUhPJY5dsTfBCBWzyP79
+headword: ьурццара
+ipa: hurˈtsːara
+tags: [v, intr]
+forms:
+  - text: ьарццара
+    gloss: pfv
+  - text: ьарццур
+    gloss: aor
+  - text: ьурццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to ache
+      ru: ныть, болеть
+    aliases:
+      en: [pain, hurt, sore]

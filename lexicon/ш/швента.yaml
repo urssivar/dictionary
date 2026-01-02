@@ -1,0 +1,18 @@
+id: bBxysva1CI2t5ulOXNI9
+headword: швента
+ipa: ˈʃʷenta
+tags: [n]
+note:
+  en: '*шонта*'
+forms:
+  - text: швента
+    gloss: pl
+  - text: швентбе
+    gloss: sg
+definitions:
+  - translation:
+      en: roe deer
+      ru: косуля
+    tags: [animal]
+    aliases:
+      en: [capreolus, doe]

@@ -1,0 +1,15 @@
+id: ILjzAxkjwKo3Q2lU2eh9
+headword: дакьу бирьора
+ipa: daˌkʼu birˈhora
+tags: [v, cls, intr, phr]
+forms:
+  - text: дакьу биьора
+    gloss: pfv
+  - text: дакьу биьяв
+    gloss: aor
+  - text: дакьу бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to appear
+      ru: появляться

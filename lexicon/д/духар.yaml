@@ -1,0 +1,18 @@
+id: S4Vt1dbbA2anX7yvws5g
+headword: духар
+ipa: duˈχːar
+tags: [n]
+note:
+  en: '*мичан*, probably related to *баче* "necklace".'
+forms:
+  - text: духар
+    gloss: sg
+  - text: дихре
+    gloss: pl
+definitions:
+  - translation:
+      en: bead
+      ru: бусина
+    tags: [clothing]
+    aliases:
+      en: [pearl, necklace]

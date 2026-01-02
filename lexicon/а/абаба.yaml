@@ -1,0 +1,18 @@
+id: YkZtiqCYGrbTzESn1sZW
+headword: абаба
+ipa: abaˈba
+tags: [n]
+etymology:
+  en: Lit. "mother-mother", cf. *аттаба* "paternal grandmother".
+note:
+  en: '*авба*, *бавба*'
+forms:
+  - text: абаба
+    gloss: sg
+  - text: абабне
+    gloss: pl
+definitions:
+  - translation:
+      en: maternal grandmother
+      ru: бабушка по матери
+    tags: [kinship]

@@ -1,0 +1,17 @@
+id: 8K3KbB0CoVQZHQ2mf3fB
+headword: сарбилъана
+ipa: sarbilˈʔana
+tags: [v, cls, tr]
+forms:
+  - text: сарбиъана
+    gloss: pfv
+  - text: сарбиъун
+    gloss: aor
+  - text: сарбилъана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to kidnap
+      ru: похищать
+    aliases:
+      en: [steal]

@@ -1,0 +1,15 @@
+id: tulQHEnyixPL0Rv2xmVV
+headword: кабашихара
+ipa: kabaʃiˈχara
+tags: [v, tr, cls]
+forms:
+  - text: кабашихив
+    gloss: aor
+  - text: кабашихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to iterate
+      ru: проходить, перебирать
+    aliases:
+      en: [sort, browse, scroll]

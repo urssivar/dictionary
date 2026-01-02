@@ -1,0 +1,19 @@
+id: 07WAJzIhKufdUMHNYBpt
+headword: иҡьяра
+ipa: iˈqʼæra
+tags: [v, tr]
+forms:
+  - text: иҡьяв
+    gloss: aor
+  - text: иҡьяра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to quench
+      ru: утолять
+    aliases:
+      en: [satisfy]
+    examples:
+      - text: мирже иҡьяв
+        translation:
+          en: quenched thirst

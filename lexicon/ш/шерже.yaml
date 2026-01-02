@@ -1,0 +1,14 @@
+id: 3ZGwES5jTEcNSZVL35Gb
+headword: шерже
+ipa: ˈʃerʒe
+tags: [n]
+forms:
+  - text: шерже
+    gloss: sg
+  - text: шержи
+    gloss: obl
+definitions:
+  - translation:
+      en: garlic
+      ru: чеснок
+    tags: [food]

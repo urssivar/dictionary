@@ -1,0 +1,17 @@
+id: cbkzUvtjTxsg6ta3oEvh
+headword: чарма
+ipa: ˈtʃarma
+tags: [n]
+forms:
+  - text: чарма
+    gloss: sg
+  - text: чарман
+    gloss: obl, loc
+  - text: чармунде
+    gloss: pl
+definitions:
+  - translation:
+      en: cask
+      ru: бочок
+    aliases:
+      en: [barrel]

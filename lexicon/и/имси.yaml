@@ -1,0 +1,16 @@
+id: zyym5YjPjfRP5zkqb6XQ
+headword: имси
+ipa: imˈsi
+tags: [n]
+forms:
+  - text: имси
+    gloss: sg
+  - text: имсин
+    gloss: obl
+  - text: имсне
+    gloss: pl
+definitions:
+  - translation:
+      en: scissors
+      ru: ножницы
+    tags: [tool]

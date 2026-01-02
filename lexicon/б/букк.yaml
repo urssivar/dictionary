@@ -1,0 +1,16 @@
+id: HRDoIOhEy5dIZQnIy2WQ
+headword: букк
+ipa: ˈbukː
+tags: [n]
+forms:
+  - text: букк
+    gloss: sg
+  - text: букке
+    gloss: pl
+definitions:
+  - translation:
+      en: deer
+      ru: олень
+    tags: [animal]
+    aliases:
+      en: [stag]

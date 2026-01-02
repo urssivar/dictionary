@@ -1,0 +1,17 @@
+id: kZJIIsLDFQW1BbvlHmVu
+headword: ьереғ каргара
+ipa: heˌreʁ karˈgara
+tags: [v, intr]
+forms:
+  - text: ьереғ кагара
+    gloss: pfv
+  - text: ьереғ кагур
+    gloss: aor
+  - text: ьереғ каргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pursue
+      ru: преследовать
+    aliases:
+      en: [hunt, chase]

@@ -1,0 +1,17 @@
+id: iUHWjVy4hoKFt11umBaV
+headword: сағли луккана
+ipa: saʁˌli luˈkːana
+tags: [v, tr, cls]
+forms:
+  - text: сағли беккара
+    gloss: pfv
+  - text: сағли беччив
+    gloss: aor
+  - text: сағли луккана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lend
+      ru: одалживать
+    aliases:
+      en: [loan, give]

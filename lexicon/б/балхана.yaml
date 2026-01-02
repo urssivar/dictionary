@@ -1,0 +1,15 @@
+id: NKKZNnTVjW7qexxVLWOB
+headword: балхана
+ipa: balˈχːana
+tags: [v, cls, tr]
+forms:
+  - text: бахана
+    gloss: pfv
+  - text: бахун
+    gloss: aor
+  - text: балхана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to feed
+      ru: кормить

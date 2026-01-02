@@ -1,0 +1,17 @@
+id: vIcugC3NGoRQ9c34Rd6a
+headword: мярцал
+ipa: ˈmærtsal
+tags: [n]
+forms:
+  - text: мярцал
+    gloss: sg
+  - text: мярцле
+    gloss: obl
+  - text: мярцлиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: wall
+      ru: стена, кладка
+    aliases:
+      en: [masonry]

@@ -1,0 +1,17 @@
+id: f5Ur0vwGa3MubfJLgy0P
+headword: яь кабирьухара
+ipa: ˌæh kabirˈhuχara
+tags: [v, tr, cls, phr]
+forms:
+  - text: яь кабиьухара
+    gloss: pfv
+  - text: яь кабиьухяв
+    gloss: aor
+  - text: яь кабирьухара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to appease
+      ru: задабривать
+    aliases:
+      en: [pacify, conciliate]

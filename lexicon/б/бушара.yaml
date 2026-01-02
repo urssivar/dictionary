@@ -1,0 +1,15 @@
+id: 4ep0Brcxn5zNAiv0TcfC
+headword: бушара
+ipa: buˈʃara
+tags: [v, cls, tr]
+forms:
+  - text: бершара
+    gloss: pfv
+  - text: бершив
+    gloss: aor
+  - text: бушара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to weave
+      ru: ткать

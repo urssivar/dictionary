@@ -1,0 +1,19 @@
+id: 7DSFV5WhLqqn8s3bGtat
+headword: чикалугана
+ipa: tʃikaluˈgana
+tags: [v, tr]
+note:
+  en: '**калугана**'
+forms:
+  - text: чикабелгона
+    gloss: pfv
+  - text: чикабелгун
+    gloss: aor
+  - text: чикалугана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to list
+      ru: перечислять
+    aliases:
+      en: [compute, enumerate]

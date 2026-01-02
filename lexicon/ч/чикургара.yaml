@@ -1,0 +1,17 @@
+id: nhy6rhu6JWql1nGQMDHE
+headword: чикургара
+ipa: tʃikurˈgara
+tags: [v, intr]
+forms:
+  - text: чикагара
+    gloss: pfv
+  - text: чикагур
+    gloss: aor
+  - text: чикургара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fall down
+      ru: сваливаться
+    aliases:
+      en: [destory, 'off']

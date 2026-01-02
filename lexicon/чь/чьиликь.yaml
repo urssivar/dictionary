@@ -1,0 +1,19 @@
+id: y7f6qyRFHVpcqu1C0N3f
+headword: чьиликь
+ipa: tʃʼiˈlikʼ
+tags: [n]
+note:
+  en: |-
+    *ччиркк*
+    *ццимикала*
+forms:
+  - text: чьиликь
+    gloss: sg
+  - text: чьиликье
+    gloss: pl
+definitions:
+  - translation:
+      en: latch
+      ru: задвижка
+    aliases:
+      en: [lock]

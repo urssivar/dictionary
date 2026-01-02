@@ -1,0 +1,17 @@
+id: tGMBCpSXz8P6ZWYDhsaV
+headword: мижен кабирццара
+ipa: miˌʒen kabirˈtsːara
+tags: [v, intr, cls, phr]
+note:
+  en: '*мижен цабикьара*'
+forms:
+  - text: мижен кабиццара
+    gloss: pfv
+  - text: мижен кабиццур
+    gloss: aor
+  - text: мижен кабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to see in dreams
+      ru: сниться

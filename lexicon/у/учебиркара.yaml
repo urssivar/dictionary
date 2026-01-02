@@ -1,0 +1,17 @@
+id: y849Ui8uWU7gpBgeVLiZ
+headword: учебиркара
+ipa: utʃebirˈkara
+tags: [v, cls, intr]
+forms:
+  - text: учебикара
+    gloss: pfv
+  - text: учебичив
+    gloss: aor
+  - text: учебиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to congregate
+      ru: скопляться, собираться
+    aliases:
+      en: [gather]

@@ -1,0 +1,15 @@
+id: SKFzaN6ngYzUNUcoOr8C
+headword: сацабикьора
+ipa: satsabiˈkʼora
+tags: [v, intr, cls]
+forms:
+  - text: сацабичьив
+    gloss: aor
+  - text: сацабикьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to manifest
+      ru: проявляться
+    aliases:
+      en: [appear, show, come]

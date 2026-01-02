@@ -1,0 +1,15 @@
+id: CVZw1hlTCv4qKVZeSnG5
+headword: ашнаки
+ipa: aʃnaˈki
+tags: [n, loan, persian]
+forms:
+  - text: ашнаки
+    gloss: sg
+  - text: ашникне
+    gloss: pl
+definitions:
+  - translation:
+      en: buddy
+      ru: приятель
+    aliases:
+      en: [friend]

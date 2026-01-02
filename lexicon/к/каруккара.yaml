@@ -1,0 +1,17 @@
+id: s4uc7zkKw3yxCUNn8VWo
+headword: каруккара
+ipa: karuˈkːara
+tags: [v, tr, cls]
+forms:
+  - text: каберккора
+    gloss: pfv
+  - text: каберккур
+    gloss: aor
+  - text: каруккара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pack
+      ru: упаковывать
+    aliases:
+      en: [bend, fold]

@@ -1,0 +1,17 @@
+id: 4FQxAnlCDr8NLSIZ1rzQ
+headword: бирҳора
+ipa: birˈxora
+tags: [v, tr, cls]
+forms:
+  - text: биҳора
+    gloss: pfv
+  - text: бишур
+    gloss: aor
+  - text: бирҳора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dedicate
+      ru: посвящать
+    aliases:
+      en: [purpose, direct]

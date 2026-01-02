@@ -1,0 +1,17 @@
+id: qa4FXsaxOyV1YvFtKgAN
+headword: ялда биркара
+ipa: ˌælda birˈkara
+tags: [v, cls, intr, phr]
+forms:
+  - text: ялда бикара
+    gloss: pfv
+  - text: ялда бичив
+    gloss: aor
+  - text: ялда биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lie down
+      ru: прилегать
+    aliases:
+      en: [rest]

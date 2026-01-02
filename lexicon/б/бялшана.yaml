@@ -1,0 +1,15 @@
+id: AhZi8allq6B7gd9NcRTR
+headword: бялшана
+ipa: bælˈʃana
+tags: [v, cls, tr]
+forms:
+  - text: бяшана
+    gloss: pfv
+  - text: бяшун
+    gloss: aor
+  - text: бялшана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to knead
+      ru: месить

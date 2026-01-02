@@ -1,0 +1,18 @@
+id: TqEAi0QN2pRLNDmfGu12
+headword: маҡлиҡҡ
+ipa: maqˈliqː
+tags: [n]
+note:
+  en: '*ҡалтикан*'
+forms:
+  - text: маҡлиҡҡ
+    gloss: sg
+  - text: маҡлиҡҡе
+    gloss: pl
+definitions:
+  - translation:
+      en: flat club
+      ru: плоская бита
+    tags: [tool]
+    aliases:
+      en: [bat]

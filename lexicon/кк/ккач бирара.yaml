@@ -1,0 +1,15 @@
+id: wfU1emwL6ibnZItrm1I2
+headword: ккач бирара
+ipa: ˌkːatʃ biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: ккач барара
+    gloss: pfv
+  - text: ккач барив
+    gloss: aor
+  - text: ккач бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to touch
+      ru: трогать

@@ -1,0 +1,17 @@
+id: xiVkzC7by2qhhHrm4XzD
+headword: бертара
+ipa: berˈtara
+tags: [v, cls, tr]
+forms:
+  - text: бетара
+    gloss: pfv
+  - text: бетур
+    gloss: aor
+  - text: бертара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lay
+      ru: прокладывать
+    aliases:
+      en: [pave, overlap]

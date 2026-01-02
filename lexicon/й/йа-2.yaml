@@ -1,0 +1,26 @@
+id: sx2MpoeVYTc8HQ2t60Ta
+headword: йа
+ipa: ˈja
+tags: [ptcl]
+note:
+  en: Pronounced *ей*/*е*/*а* after consonants, otherwise *йа*/*йе*/*й*.
+forms:
+  - text: йа
+  - text: ейа
+  - text: '''ей'
+  - text: '''е'
+  - text: '''а'
+definitions:
+  - translation:
+      en: '[open question]'
+      ru: '[свободный вопрос]'
+    examples:
+      - text: на ци йа?
+        translation:
+          en: what now?
+      - text: коцци рулши йа?
+        translation:
+          en: where did she use to work?
+      - text: ци диг йа ьеж?
+        translation:
+          en: what meat is this?

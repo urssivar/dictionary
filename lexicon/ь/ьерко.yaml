@@ -1,0 +1,20 @@
+id: BUyginPZOdQb9XpaAvkb
+headword: ьерко
+ipa: ˈherko
+tags: [n, nmlz]
+note:
+  en: '*биҡре*'
+forms:
+  - text: ьерко
+    gloss: sg
+  - text: ьеркон
+    gloss: obl
+  - text: ьеркне
+    gloss: pl
+definitions:
+  - translation:
+      en: snack
+      ru: закуска
+    tags: [food]
+    aliases:
+      en: [lunch]

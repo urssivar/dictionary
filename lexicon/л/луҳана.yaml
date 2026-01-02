@@ -1,0 +1,17 @@
+id: GeW2VIJDzSOf66Vc3P7K
+headword: луҳана
+ipa: luˈxːana
+tags: [v, tr, cls]
+forms:
+  - text: белҳана
+    gloss: pfv
+  - text: белҳун
+    gloss: aor
+  - text: луҳана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cook
+      ru: варить
+    aliases:
+      en: [boil, stew]

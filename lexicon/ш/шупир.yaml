@@ -1,0 +1,14 @@
+id: wmU47kXLWHBFcV78148p
+headword: шупир
+ipa: ʃuˈpir
+tags: [n, loan, russian]
+forms:
+  - text: шупир
+    gloss: sg
+  - text: шупирте
+    gloss: pl
+definitions:
+  - translation:
+      en: driver
+      ru: водитель
+    tags: [occupation]

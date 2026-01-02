@@ -1,0 +1,20 @@
+id: u56efeKwvFbwQHK6PUbs
+headword: дашккапп
+ipa: daʃˈkːapː
+tags: [n]
+etymology:
+  en: Lit. *100-leaf*.
+note:
+  en: '*даршкьапп*, *рашкьапь*'
+forms:
+  - text: дашккапп
+    gloss: sg
+  - text: дашккаппе
+    gloss: pl
+definitions:
+  - translation:
+      en: stomach
+      ru: желудок
+    tags: [body]
+    aliases:
+      en: [belly]

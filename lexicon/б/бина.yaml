@@ -1,0 +1,16 @@
+id: cCej0K8QuRRLZnvWTI1d
+headword: бина
+ipa: ˈbina
+tags: [n, loan, arabic]
+forms:
+  - text: бина
+    gloss: sg
+  - text: бинал
+    gloss: obl
+definitions:
+  - translation:
+      en: antiquity
+      ru: древность
+    tags: [time]
+    aliases:
+      en: [old, past]

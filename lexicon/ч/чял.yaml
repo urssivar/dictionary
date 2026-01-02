@@ -1,0 +1,22 @@
+id: Fe84JlQaZdxChdig6V2S
+headword: чял
+ipa: ˈtʃæl
+tags: [n]
+forms:
+  - text: чял
+    gloss: sg
+  - text: чялте
+    gloss: pl
+definitions:
+  - translation:
+      en: lace
+      ru: шнурок
+    tags: [clothing]
+    aliases:
+      en: [bordure]
+  - translation:
+      en: webbing
+      ru: тесьма
+    tags: [clothing]
+    aliases:
+      en: [bordure]

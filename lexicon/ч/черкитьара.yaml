@@ -1,0 +1,17 @@
+id: wUZg2FuGBMGLbVNWikfG
+headword: черкитьара
+ipa: tʃerkiˈtʼara
+tags: [v, tr]
+forms:
+  - text: черкатьара
+    gloss: pfv
+  - text: черкатьив
+    gloss: aor
+  - text: черкитьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pour over
+      ru: переливать
+    aliases:
+      en: [transfuse]

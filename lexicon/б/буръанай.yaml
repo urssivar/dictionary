@@ -1,0 +1,20 @@
+id: l8fgcBSJx3QPugvv40Qt
+headword: буръанай
+ipa: burʔaˈnaj
+tags: [n, nmlz]
+note:
+  en: |-
+    *берълуҡ*
+    булъан
+forms:
+  - text: буръанай
+    gloss: sg
+  - text: буръанайте
+    gloss: pl
+definitions:
+  - translation:
+      en: quagmire
+      ru: трясина
+    tags: [nature]
+    aliases:
+      en: [bog, swamp]

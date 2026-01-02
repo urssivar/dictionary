@@ -1,0 +1,17 @@
+id: Q0WxRPy3QmF6WLJ2YI2H
+headword: ғвянчьра ьабирара
+ipa: ʁʷæntʃʼˌra habiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ғвянчьра ьабарара
+    gloss: pfv
+  - text: ғвянчьра ьабарив
+    gloss: aor
+  - text: ғвянчьра ьабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to crumple
+      ru: комкать
+    aliases:
+      en: [crease]

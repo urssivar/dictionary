@@ -1,0 +1,18 @@
+id: MNN60tfuOdpMXDsQL5pk
+headword: шиҡяй
+ipa: ʃiˈqæj
+tags: [n]
+note:
+  en: '*шипьяй*'
+forms:
+  - text: шиҡяй
+    gloss: sg
+  - text: шиҡне
+    gloss: pl
+definitions:
+  - translation:
+      en: chick
+      ru: цыплёнок
+    tags: [animal]
+    aliases:
+      en: [chicken]

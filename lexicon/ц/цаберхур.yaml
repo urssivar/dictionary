@@ -1,0 +1,15 @@
+id: 77AMNmCKi3QubMqNfjoS
+headword: цаберхур
+ipa: tsaberˈχur
+tags: [adj, cls, nmlz]
+forms:
+  - text: цаберхур
+    gloss: adj
+  - text: цаберхул
+    gloss: adv
+definitions:
+  - translation:
+      en: agile
+      ru: проворный
+    aliases:
+      en: [prompt]

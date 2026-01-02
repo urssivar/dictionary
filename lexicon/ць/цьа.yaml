@@ -1,0 +1,23 @@
+id: kqyd6ijeDRIm483559uX
+headword: цьа
+ipa: ˈtsʼa
+tags: [n, adj]
+forms:
+  - text: цьа
+    gloss: sg
+  - text: цьал
+    gloss: obl
+  - text: цьаме
+    gloss: pl
+definitions:
+  - translation:
+      en: fire
+      ru: огонь
+    tags: [nature]
+    examples:
+      - text: цьа журуккле
+        translation:
+          en: total circle
+  - translation:
+      en: bonfire
+      ru: костёр

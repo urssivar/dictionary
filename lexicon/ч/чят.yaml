@@ -1,0 +1,16 @@
+id: TGOHPL9duyyx3goEfJ6G
+headword: чят
+ipa: ˈtʃæt
+tags: [n]
+forms:
+  - text: чят
+    gloss: sg
+  - text: чятан
+    gloss: obl
+definitions:
+  - translation:
+      en: bog
+      ru: топь
+    tags: [nature]
+    aliases:
+      en: [swamp]

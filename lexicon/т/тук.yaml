@@ -1,0 +1,15 @@
+id: 7Kx61kRumAORQPbnmK4y
+headword: тук
+ipa: ˈtuk
+tags: [n, loan, russian]
+forms:
+  - text: тук
+    gloss: sg
+  - text: тукре
+    gloss: pl
+definitions:
+  - translation:
+      en: electricity
+      ru: электричество
+    aliases:
+      en: [current, energy]

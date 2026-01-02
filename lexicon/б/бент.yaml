@@ -1,0 +1,17 @@
+id: gendJLEbnjnWFfk002Lx
+headword: бент
+ipa: ˈbent
+tags: [n]
+note:
+  en: '*йурт*'
+forms:
+  - text: бент
+    gloss: sg
+  - text: бентре
+    gloss: pl
+definitions:
+  - translation:
+      en: building
+      ru: здание
+    aliases:
+      en: [room, construction]

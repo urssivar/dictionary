@@ -1,0 +1,15 @@
+id: xB4ZEx9nSTARnjEr5QSg
+headword: чилукана
+ipa: tʃiˈlukana
+tags: [v, tr, cls]
+forms:
+  - text: чибалкана
+    gloss: pfv
+  - text: чибалкун
+    gloss: aor
+  - text: чилукана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to smear
+      ru: размазывать

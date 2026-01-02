@@ -1,0 +1,17 @@
+id: MIQB31uYFowiVPlquMzV
+headword: ғичь бирара
+ipa: ˌʁitʃʼ biˈrara
+tags: [v, cls, tr]
+forms:
+  - text: ғичь барара
+    gloss: pfv
+  - text: ғичь барив
+    gloss: aor
+  - text: ғичь бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to open slightly
+      ru: приоткрывать
+    aliases:
+      en: [peek]

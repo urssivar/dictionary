@@ -1,0 +1,18 @@
+id: 4DkMCXbTzOA9vknhrZuq
+headword: ужға
+ipa: ˈuʒʁa
+tags: [n]
+note:
+  en: '*гебен*, *араҡҡ*'
+forms:
+  - text: ужға
+    gloss: sg
+  - text: ужғунде
+    gloss: obl
+definitions:
+  - translation:
+      en: large haystack
+      ru: скирда
+    tags: [agriculture]
+    aliases:
+      en: [hay]

@@ -1,0 +1,22 @@
+id: gDhccKZCFneNlrLq2Nor
+headword: ьел
+ipa: ˈhel
+tags: [pro, det]
+forms:
+  - text: ьел
+    gloss: nom
+  - text: ьеле
+    gloss: obl
+definitions:
+  - translation:
+      en: he
+      ru: он
+  - translation:
+      en: she
+      ru: она
+  - translation:
+      en: it
+      ru: оно
+  - translation:
+      en: the (singular)
+      ru: тот, о котором речь

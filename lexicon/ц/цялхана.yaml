@@ -1,0 +1,17 @@
+id: P3T96b8vqV5hRKxNF1ai
+headword: цялхана
+ipa: tsælˈχana
+tags: [v, cls, tr]
+forms:
+  - text: цабяхана
+    gloss: pfv
+  - text: цабяхун
+    gloss: aor
+  - text: цабялхана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to let in
+      ru: впускать
+    aliases:
+      en: [admit]

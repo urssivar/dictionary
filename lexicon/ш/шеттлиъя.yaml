@@ -1,0 +1,19 @@
+id: EhZYnsP8kmWBdytzAnqt
+headword: шеттлиъя
+ipa: ʃetːliˈʔæ
+tags: [n]
+etymology:
+  en: From *шеттир* "on a visit".
+note:
+  en: '*ST2021*'
+forms:
+  - text: шеттлиъя
+    gloss: sg
+  - text: шеттлиъне
+    gloss: pl
+definitions:
+  - translation:
+      en: who visits frequently
+      ru: гуляка
+    aliases:
+      en: [visitor]

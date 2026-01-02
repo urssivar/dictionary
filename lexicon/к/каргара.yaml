@@ -1,0 +1,21 @@
+id: G9oRRjSafJ7dNxQ9xL1e
+headword: каргара
+ipa: karˈgara
+tags: [v, intr]
+forms:
+  - text: кагара
+    gloss: pfv
+  - text: кагур
+    gloss: aor
+  - text: каргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fall down
+      ru: проваливаться
+    aliases:
+      en: [fail]
+    examples:
+      - text: '* чарх кагара'
+        translation:
+          en: to grow thin

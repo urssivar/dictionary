@@ -1,0 +1,17 @@
+id: 3vxIzWGD6Z0jJI2R74UD
+headword: тяь биргара
+ipa: ˌtæh birˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: тяь бигара
+    gloss: pfv
+  - text: тяь бижив
+    gloss: aor
+  - text: тяь биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to jump
+      ru: прыгать
+    aliases:
+      en: [hop]

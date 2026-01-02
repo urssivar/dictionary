@@ -1,0 +1,20 @@
+id: 0oq2oReIUKKyMNr9nhKV
+headword: ғял
+ipa: ˈʁæl
+tags: [n]
+note:
+  en: '*тиҡҡа*, *тьябикьне*, *ҡҡирбить*, *мажу*'
+forms:
+  - text: ғял
+    gloss: sg
+  - text: ғяла
+    gloss: obl
+  - text: ғялте
+    gloss: pl
+definitions:
+  - translation:
+      en: travois
+      ru: волокуша
+    tags: [tool]
+    aliases:
+      en: [sledge, travoy]

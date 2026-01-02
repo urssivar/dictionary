@@ -1,0 +1,16 @@
+id: qtQA9tZeA3OHM6ajHVlH
+headword: курткка
+ipa: kurtˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: курткка
+    gloss: sg
+  - text: куртккан
+    gloss: obl
+  - text: куртккне
+    gloss: pl
+definitions:
+  - translation:
+      en: jacket
+      ru: куртка
+    tags: [clothing]

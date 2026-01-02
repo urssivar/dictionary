@@ -1,0 +1,17 @@
+id: 046DAEWC9mhEAyunJxgY
+headword: дяян бирҳара
+ipa: dæˌæn birˈxara
+tags: [v, tr, cls]
+forms:
+  - text: дяян биҳара
+    gloss: pfv
+  - text: дяян бишив
+    gloss: aor
+  - text: дяян бирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hide
+      ru: прятать
+    aliases:
+      en: [conceal]

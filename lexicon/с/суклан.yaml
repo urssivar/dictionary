@@ -1,0 +1,17 @@
+id: vIuRGr4aiKrV3jChcQgd
+headword: суклан
+ipa: sukˈlan
+tags: [n]
+etymology:
+  en: From *сук* "precise".
+forms:
+  - text: суклан
+    gloss: sg
+  - text: сукланте
+    gloss: pl
+definitions:
+  - translation:
+      en: peer
+      ru: ровесник
+    aliases:
+      en: [fellow]

@@ -1,0 +1,19 @@
+id: ojpK7Po8ff5C2sB2PJgJ
+headword: сағра
+ipa: saʁˈra
+tags: [n]
+note:
+  en: '*чара*, *матрат*, *ҡути*'
+forms:
+  - text: сағра
+    gloss: sg
+  - text: сағран
+    gloss: loc, obl
+  - text: сағунде
+    gloss: pl
+definitions:
+  - translation:
+      en: bowl
+      ru: миска
+    aliases:
+      en: [plate]

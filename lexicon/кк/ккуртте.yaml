@@ -1,0 +1,20 @@
+id: XqJUF1UIHwdcasqKIL6R
+headword: ккуртте
+ipa: kːurˈtːe
+tags: [n, loan]
+forms:
+  - text: ккуртте
+    gloss: sg
+  - text: ккурттин
+    gloss: obl
+  - text: ккурттме
+    gloss: pl
+definitions:
+  - translation:
+      en: dress
+      ru: платье
+    tags: [clothing]
+  - translation:
+      en: shirt
+      ru: рубаха
+    tags: [clothing]

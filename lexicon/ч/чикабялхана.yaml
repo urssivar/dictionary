@@ -1,0 +1,17 @@
+id: 4TUUdeBLrDjNYRvulD4l
+headword: чикабялхана
+ipa: tʃikabælˈχana
+tags: [v, cls, tr]
+forms:
+  - text: чикабяхана
+    gloss: pfv
+  - text: чикабяхун
+    gloss: aor
+  - text: чикабялхана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to copy
+      ru: копировать
+    aliases:
+      en: [transfer]

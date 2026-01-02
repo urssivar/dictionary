@@ -1,0 +1,17 @@
+id: PhgtrPF2qni6SMuWQzvg
+headword: лусана
+ipa: luˈsːana
+tags: [v, tr, cls]
+forms:
+  - text: белсана
+    gloss: pfv
+  - text: белсун
+    gloss: aor
+  - text: лусана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to curl
+      ru: завивать
+    aliases:
+      en: [wind, spin]

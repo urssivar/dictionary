@@ -1,0 +1,21 @@
+id: I95eaeVq67tpDkPyZske
+headword: вах бирццара
+ipa: ˌvaχ birˈtsːara
+tags: [v, intr, cls]
+forms:
+  - text: вах биццара
+    gloss: pfv
+  - text: вах биццур
+    gloss: aor
+  - text: вах бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shimmer
+      ru: переливаться
+    aliases:
+      en: [bright, color, flicker, glint, glow]
+    examples:
+      - text: майдан жужмал вах биццул де
+        translation:
+          en: the site was shining with the flowers

@@ -1,0 +1,16 @@
+id: PUSstOOoDguWMdCnhGbT
+headword: ҡҡаҡҡба
+ipa: ˈqːaqːba
+tags: [n]
+forms:
+  - text: ҡҡаҡҡба
+    gloss: sg
+  - text: ҡҡаҡҡбунде
+    gloss: pl
+definitions:
+  - translation:
+      en: partridge
+      ru: куропатка
+    tags: [animal, bird]
+    aliases:
+      en: [perdix]

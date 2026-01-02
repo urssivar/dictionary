@@ -1,0 +1,14 @@
+id: ViWgGys5nao36jjsWBSv
+headword: есетьин
+ipa: eseˈtʼin
+tags: [n, adj, loan]
+forms:
+  - text: есетьин
+    gloss: sg
+  - text: есетьинте
+    gloss: pl
+definitions:
+  - translation:
+      en: ossetian
+      ru: осетин
+    tags: [demonym]

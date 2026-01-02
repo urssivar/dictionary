@@ -1,0 +1,21 @@
+id: tmvLY0bYV21x7TlXo59O
+headword: цабирхара
+ipa: tsabirˈχara
+tags: [v, cls, tr]
+forms:
+  - text: цабархара
+    gloss: pfv
+  - text: цабархив
+    gloss: aor
+  - text: цабирхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stir
+      ru: размешивать
+    aliases:
+      en: [mix]
+    examples:
+      - text: нерғ цадарха
+        translation:
+          en: stir the soup

@@ -1,0 +1,19 @@
+id: KAjnG6X0tdPWf5escglI
+headword: баъ цабурцара
+ipa: ˌbaʔ tsaburˈtsara
+tags: [v, phr, tr]
+note:
+  en: ST2021
+forms:
+  - text: баъ цабуцара
+    gloss: pfv
+  - text: баъ цабуцив
+    gloss: aor
+  - text: баъ цабурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to attempt
+      ru: пытаться, браться
+    aliases:
+      en: [try, undertake]

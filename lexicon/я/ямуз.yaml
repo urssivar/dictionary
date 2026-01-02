@@ -1,0 +1,15 @@
+id: j1PgZ2nLodFT5Mw5b5la
+headword: ямуз
+ipa: æˈmuz
+tags: [n]
+etymology:
+  en: From *яв* "tri-" + *муза* "peak".
+forms:
+  - text: ямуз
+    gloss: sg
+  - text: ямузе
+    gloss: pl
+definitions:
+  - translation:
+      en: triangle
+      ru: треугольник

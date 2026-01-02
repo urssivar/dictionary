@@ -1,0 +1,17 @@
+id: 6YmyvDTrTJI91qQDPjKi
+headword: чикитьара
+ipa: tʃikiˈtʼara
+tags: [v, tr]
+forms:
+  - text: чикатьара
+    gloss: pfv
+  - text: чикатьив
+    gloss: aor
+  - text: чикитьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to water
+      ru: поливать
+    aliases:
+      en: [pour, shower]

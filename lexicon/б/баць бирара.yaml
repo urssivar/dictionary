@@ -1,0 +1,15 @@
+id: IhKuExnBGvMgEVd8KrQS
+headword: баць бирара
+ipa: ˌbatsʼ biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: баць барара
+    gloss: pfv
+  - text: баць барив
+    gloss: aor
+  - text: баць бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to empty
+      ru: опустошать

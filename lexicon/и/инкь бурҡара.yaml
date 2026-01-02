@@ -1,0 +1,23 @@
+id: 7KwPNmRn581zlF4pk3WP
+headword: инкь бурҡара
+ipa: ˌinkʼ burˈqara
+tags: [v, intr, cls]
+note:
+  en: '*сағли биркара*'
+forms:
+  - text: инкь бяҡара
+    gloss: pfv
+  - text: инкь бяҡив
+    gloss: aor
+  - text: инкь бурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to run across
+      ru: наталкиваться, встречать
+    aliases:
+      en: [meet, find]
+    examples:
+      - text: инҡь ряҡив дами
+        translation:
+          en: i run across her

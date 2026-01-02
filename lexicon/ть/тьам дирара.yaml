@@ -1,0 +1,17 @@
+id: SOKWFbt48FepnXOjIhtx
+headword: тьам дирара
+ipa: ˌtʼam diˈrara
+tags: [v, intr, phr]
+forms:
+  - text: тьам дарара
+    gloss: pfv
+  - text: тьам дарив
+    gloss: aor
+  - text: тьам дирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to exclaim
+      ru: воскликать
+    aliases:
+      en: [speak]

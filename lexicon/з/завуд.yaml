@@ -1,0 +1,15 @@
+id: BezYTDWosItGWUm5ztu9
+headword: завуд
+ipa: zaˈvud
+tags: [n, loan, russian]
+forms:
+  - text: завуд
+    gloss: sg
+  - text: завуде
+    gloss: pl
+definitions:
+  - translation:
+      en: factory
+      ru: завод
+    aliases:
+      en: [plant]

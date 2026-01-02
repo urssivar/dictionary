@@ -1,0 +1,15 @@
+id: CqGPj32CHJX8gBaJGcYQ
+headword: ясккар
+ipa: æsˈkːar
+tags: [n, loan, arabic]
+forms:
+  - text: ясккар
+    gloss: sg
+  - text: ясккарте
+    gloss: pl
+definitions:
+  - translation:
+      en: troop
+      ru: отряд
+    aliases:
+      en: [squad, army]

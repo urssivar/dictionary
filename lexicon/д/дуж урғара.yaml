@@ -1,0 +1,17 @@
+id: H4ciuvI5zvT4NksBhUzk
+headword: дуж урғара
+ipa: ˈduʒ urˌʁara
+tags: [v, tr, phr]
+forms:
+  - text: дуж ағара
+    gloss: pfv
+  - text: дуж ағив
+    gloss: aor
+  - text: дуж урғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to correct
+      ru: поправлять
+    aliases:
+      en: [fix]

@@ -1,0 +1,21 @@
+id: 9RFIrKtNeTsv7hLfoB4x
+headword: чибалгана
+ipa: tʃibalˈgana
+tags: [v, cls, tr]
+forms:
+  - text: чибалгана
+    gloss: pfv
+  - text: чибалгун
+    gloss: aor
+  - text: чилугана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to instruct
+      ru: распоряжаться, поручать
+    aliases:
+      en: [order, command, charge, commit]
+    examples:
+      - text: уршицци чибалгунда ҡум аертара
+        translation:
+          en: instructed the boy not to forget

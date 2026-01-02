@@ -1,0 +1,16 @@
+id: ZkiMoPuwNMNVNvsSfQkx
+headword: чьуба
+ipa: tʃʼuˈba
+tags: [num, cls]
+etymology:
+  en: Grammatically "a group of two".
+definitions:
+  - translation:
+      en: two groups
+      ru: две группы
+    aliases:
+      en: [couple, pair]
+    examples:
+      - text: чьуда яльяд
+        translation:
+          en: a couple of weeks

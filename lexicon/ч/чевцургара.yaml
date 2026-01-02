@@ -1,0 +1,17 @@
+id: Ka6CAuuYN9sAlwwqHzBN
+headword: чевцургара
+ipa: tʃevtsurˈgara
+tags: [v, tr]
+forms:
+  - text: чевцагара
+    gloss: pfv
+  - text: чевцагур
+    gloss: aor
+  - text: чевцургара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to separate
+      ru: отделять
+    aliases:
+      en: [filter, clear]

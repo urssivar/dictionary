@@ -1,0 +1,17 @@
+id: olTwrTdAWXulryzgi1R1
+headword: ччур цабиргара
+ipa: ˌtʃːur tsabirˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: ччур цабигара
+    gloss: pfv
+  - text: ччур цабижив
+    gloss: aor
+  - text: ччур цабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to whirl
+      ru: кружиться
+    aliases:
+      en: [spin]

@@ -1,0 +1,15 @@
+id: 0I4Y9ZX0KDLNeE17i5CE
+headword: пьяць кабирара
+ipa: ˌpʼætsʼ kabiˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: пьяць кабарара
+    gloss: pfv
+  - text: пьяць кабарив
+    gloss: aor
+  - text: пьяць кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to flatten
+      ru: сплющивать

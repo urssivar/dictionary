@@ -1,0 +1,19 @@
+id: tL0rJeSVZLk8EomnLwya
+headword: ғвяр курғара
+ipa: ˌʁʷær kurˈʁara
+tags: [v, tr, cls, phr]
+note:
+  en: '*ғвяғ ~*'
+forms:
+  - text: ғвяр кағара
+    gloss: pfv
+  - text: ғвяр кағив
+    gloss: aor
+  - text: ғвяр курғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to take down
+      ru: обваливать
+    aliases:
+      en: [destroy, fall, collapse]

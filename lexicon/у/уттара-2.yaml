@@ -1,0 +1,21 @@
+id: t41vpuLyW491o6DKprZY
+headword: уттара
+ipa: uˈtːara
+tags: [v, lbl, cls]
+forms:
+  - text: берттара
+    gloss: pfv
+  - text: берттив
+    gloss: aor
+  - text: уттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rip
+      ru: рвать
+    aliases:
+      en: [tear]
+    examples:
+      - text: вачаг берттив
+        translation:
+          en: the pants got ripped

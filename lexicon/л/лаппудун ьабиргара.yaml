@@ -1,0 +1,17 @@
+id: PzB7QsY1wejgkhyJR734
+headword: лаппудун ьабиргара
+ipa: lapːuˌdun habirˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: лаппудун ьабигара
+    gloss: pfv
+  - text: лаппудун ьабижив
+    gloss: aor
+  - text: лаппудун ьабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tumble
+      ru: кувыркаться
+    aliases:
+      en: [somersault]

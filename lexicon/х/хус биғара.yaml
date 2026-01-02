@@ -1,0 +1,19 @@
+id: G7yog8dcToXJIJzlBuwt
+headword: хус биғара
+ipa: ˌχus biˈʁara
+tags: [v, cls, tr]
+note:
+  en: '*чербиғара*'
+forms:
+  - text: хус беғара
+    gloss: pfv
+  - text: хус беғив
+    gloss: aor
+  - text: хус биғара
+    gloss: pfv
+definitions:
+  - translation:
+      en: to shift
+      ru: сдвигать
+    aliases:
+      en: [move]

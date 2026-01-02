@@ -1,0 +1,16 @@
+id: lJrkjsPYGfM7IPnsRzsQ
+headword: ҡҡалайчи
+ipa: qːalajˈtʃi
+tags: [n, loan, turkic]
+forms:
+  - text: ҡҡалайчи
+    gloss: sg
+  - text: ҡҡалайчибе
+    gloss: pl
+definitions:
+  - translation:
+      en: tinker
+      ru: лудильщик
+    tags: [profession]
+    aliases:
+      en: [tinsmith]

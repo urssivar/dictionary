@@ -1,0 +1,20 @@
+id: XlyHSvVxPAqJMRJ5SRc2
+headword: бацц
+ipa: ˈbatsː
+tags: [n]
+forms:
+  - text: бацц
+    gloss: sg
+  - text: бацце
+    gloss: obl
+  - text: биццре
+    gloss: pl
+definitions:
+  - translation:
+      en: moon
+      ru: луна
+    tags: [nature]
+  - translation:
+      en: month
+      ru: месяц
+    tags: [time]

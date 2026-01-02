@@ -1,0 +1,20 @@
+id: Gj2YEWdxA381wNrMqnIG
+headword: нез
+ipa: ˈnez
+tags: [n]
+note:
+  en: '*лиҳлиҳ*, *лиьлиь*'
+forms:
+  - text: нез
+    gloss: sg
+  - text: низбе
+    gloss: pl
+definitions:
+  - translation:
+      en: louse
+      ru: вошь
+    tags: [insect]
+    examples:
+      - text: бевчьив нез
+        translation:
+          en: passive person

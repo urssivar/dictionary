@@ -1,0 +1,19 @@
+id: 4F3xbIvKY7rsPk4uNpg0
+headword: сарил
+ipa: saˈril
+tags: [adj, n]
+forms:
+  - text: сарил
+    gloss: sg
+  - text: сарилте
+    gloss: pl
+definitions:
+  - translation:
+      en: superior
+      ru: лучший
+    aliases:
+      en: [better, best]
+    examples:
+      - text: яҡьлулццил сарил
+        translation:
+          en: having the best intellect

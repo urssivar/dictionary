@@ -1,0 +1,16 @@
+id: 5Ay6fwuhTwXuywE3AC2D
+headword: цабара
+ipa: tsabaˈra
+tags: [adv]
+etymology:
+  en: From *ца* "one" + *бара* "nearly" (cf. *цаникьо*).
+definitions:
+  - translation:
+      en: slightly
+      ru: слегка
+    aliases:
+      en: [bit, little]
+    examples:
+      - text: цабара цьа кам бара
+        translation:
+          en: reduce the fire slightly

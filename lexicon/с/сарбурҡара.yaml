@@ -1,0 +1,19 @@
+id: Fo86A0WqvQyKPGxziOe3
+headword: сарбурҡара
+ipa: sarburˈqara
+tags: [v, tr, cls]
+note:
+  en: '*сабурҡара*, *сатти бурҡара*'
+forms:
+  - text: сарбяҡара
+    gloss: pfv
+  - text: сарбяҡив
+    gloss: aor
+  - text: сарбурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to drag away
+      ru: утаскивать
+    aliases:
+      en: [take, move]

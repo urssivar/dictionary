@@ -1,0 +1,17 @@
+id: nTakMLDkrlOQ36G2bzzO
+headword: иьяр бирара
+ipa: iˌhær biˈrara
+tags: [v, cls, tr, phr]
+forms:
+  - text: иьяр барара
+    gloss: pfv
+  - text: иьяр барив
+    gloss: aor
+  - text: иьяр бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cherish
+      ru: ценить
+    aliases:
+      en: [nourish]

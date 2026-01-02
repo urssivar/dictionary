@@ -1,0 +1,16 @@
+id: dFgFnx9p8YJrZo7QP0xl
+headword: арцье
+ipa: ˈartsʼe
+tags: [n, nmlz]
+etymology:
+  en: From pfv. of *ирцьара* "to weed".
+forms:
+  - text: арцье
+    gloss: sg
+  - text: арцьин
+    gloss: obl
+definitions:
+  - translation:
+      en: weed
+      ru: сорняк
+    tags: [agriculture]

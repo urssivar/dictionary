@@ -1,0 +1,13 @@
+id: HWo3ogXslpTolY8pZdV2
+headword: титрат
+ipa: titˈrat
+tags: [n, loan, russian]
+forms:
+  - text: титрат
+    gloss: sg
+  - text: титрате
+    gloss: pl
+definitions:
+  - translation:
+      en: notebook
+      ru: тетрадь

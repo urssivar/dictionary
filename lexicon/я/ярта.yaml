@@ -1,0 +1,14 @@
+id: ka1NDHT5EsqwxL5PHvXN
+headword: ярта
+ipa: ˈærta
+tags: [n]
+forms:
+  - text: ярта
+    gloss: sg
+  - text: яртне
+    gloss: pl
+definitions:
+  - translation:
+      en: weasel
+      ru: ласка
+    tags: [animal]

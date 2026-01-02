@@ -1,0 +1,16 @@
+id: uVRZVYnrZTK70ISAl7Vr
+headword: арцаг
+ipa: arˈtsag
+tags: [n]
+note:
+  en: '*арславул*, *арсавккаг*'
+forms:
+  - text: арцаг
+    gloss: sg
+  - text: арцаге
+    gloss: pl
+definitions:
+  - translation:
+      en: arch
+      ru: арка
+    tags: [infrastructure]

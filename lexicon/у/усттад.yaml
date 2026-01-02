@@ -1,0 +1,15 @@
+id: DhbjU6BzpSMFSxLNtFvz
+headword: усттад
+ipa: usˈtːad
+tags: [n, loan, arabic]
+forms:
+  - text: усттад
+    gloss: sg
+  - text: усттаде
+    gloss: pl
+definitions:
+  - translation:
+      en: theologian
+      ru: богослов
+    aliases:
+      en: [scholar]

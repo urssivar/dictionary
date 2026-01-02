@@ -1,0 +1,16 @@
+id: 4HHeHa2ENdzyDzOVREt0
+headword: алжана
+ipa: alˈʒana
+tags: [n, loan, arabic]
+forms:
+  - text: алжана
+    gloss: sg
+  - text: алжанал
+    gloss: obl
+definitions:
+  - translation:
+      en: heaven
+      ru: рай
+    tags: [religion]
+    aliases:
+      en: [paradise]

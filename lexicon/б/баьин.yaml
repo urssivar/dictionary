@@ -1,0 +1,21 @@
+id: QNCZM04RBejbi9eO0Jay
+headword: баьин
+ipa: baˈhin
+tags: [n, cls]
+etymology:
+  en: From *ваь* "self".
+forms:
+  - text: баьин
+    gloss: sg
+  - text: баьинте
+    gloss: pl
+definitions:
+  - translation:
+      en: master
+      ru: хозяин
+    aliases:
+      en: [owner]
+    examples:
+      - text: машинла ваьин
+        translation:
+          en: the car's owner

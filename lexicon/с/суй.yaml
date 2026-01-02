@@ -1,0 +1,20 @@
+id: GYoOTUfv6Dx5itiLGXeG
+headword: суй
+ipa: ˈsuj
+tags: [n]
+note:
+  en: The three forms show the stages of the signature Kaitag change б > в > й.
+forms:
+  - text: суй
+    gloss: sg
+  - text: субе
+    gloss: obl
+  - text: сивре
+    gloss: pl
+definitions:
+  - translation:
+      en: husband
+      ru: муж
+    tags: [kinship]
+    aliases:
+      en: [spouse]

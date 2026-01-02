@@ -1,0 +1,16 @@
+id: 7LofawrXGQSf6OOuqEw2
+headword: ҡҡалтағ
+ipa: qːalˈtaʁ
+tags: [n, loan, turkic]
+forms:
+  - text: ҡҡалтағ
+    gloss: sg
+  - text: ҡҡалтиғе
+    gloss: pl
+definitions:
+  - translation:
+      en: pommel
+      ru: лука
+    tags: [tool]
+    aliases:
+      en: [saddle, knob]

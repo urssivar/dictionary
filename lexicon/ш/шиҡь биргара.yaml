@@ -1,0 +1,17 @@
+id: cOipE1e68RRSdFr6sxGI
+headword: шиҡь биргара
+ipa: ˈʃiqʼ birˌgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: шиҡь бигара
+    gloss: pfv
+  - text: шиҡь бижив
+    gloss: aor
+  - text: шиҡь биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to move
+      ru: двигаться
+    aliases:
+      en: [act, do, twitch]

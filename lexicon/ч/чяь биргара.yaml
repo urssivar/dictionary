@@ -1,0 +1,17 @@
+id: qjjtW1WuWFm3x0uAxXr0
+headword: чяь биргара
+ipa: ˌtʃæh birˈgara
+tags: [v, intr, cls]
+forms:
+  - text: чяь бигара
+    gloss: pfv
+  - text: чяь бижив
+    gloss: aor
+  - text: чяь биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to spill
+      ru: разливаться
+    aliases:
+      en: [leak, flow]

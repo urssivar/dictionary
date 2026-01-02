@@ -1,0 +1,20 @@
+id: iYQ2dcWyozVWp7oyfNT9
+headword: ьар
+ipa: ˈhar
+tags: [det]
+definitions:
+  - translation:
+      en: each
+      ru: каждый
+    aliases:
+      en: [every]
+    examples:
+      - text: ьар хурег ьясив барив
+        translation:
+          en: tried each meal
+      - text: ьар мусан
+        translation:
+          en: everywhere
+      - text: ьар цикьал
+        translation:
+          en: everything

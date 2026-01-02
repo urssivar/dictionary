@@ -1,0 +1,17 @@
+id: qdAeaVkQrZTn8a4w95BS
+headword: тьамса
+ipa: tʼamˈsa
+tags: [n]
+forms:
+  - text: тьамса
+    gloss: sg
+  - text: тьамсан
+    gloss: obl
+  - text: тьимсне
+    gloss: pl
+definitions:
+  - translation:
+      en: lint-free carpet
+      ru: безворсовый ковёр
+    aliases:
+      en: [rug]

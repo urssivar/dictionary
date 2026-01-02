@@ -1,0 +1,21 @@
+id: uevhkCuSgGcNEJE5XALQ
+headword: баҳ чибартара
+ipa: ˌbax tʃibarˈtara
+tags: [v, tr, cls, phr]
+forms:
+  - text: баҳ чибатара
+    gloss: pfv
+  - text: баҳ чибатур
+    gloss: aor
+  - text: баҳ чибартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to abandon
+      ru: бросать
+    aliases:
+      en: [desert, quit, stop]
+    examples:
+      - text: дирсле даҳ чидатур
+        translation:
+          en: abandoned lessons

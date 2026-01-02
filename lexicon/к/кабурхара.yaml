@@ -1,0 +1,17 @@
+id: Hrlb1zcbfwXpnbHxPlBW
+headword: кабурхара
+ipa: kaburˈχara
+tags: [v, intr, cls]
+forms:
+  - text: каберхора
+    gloss: pfv
+  - text: каберхур
+    gloss: aor
+  - text: кабурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to enroll
+      ru: вступать
+    aliases:
+      en: [admit, join]

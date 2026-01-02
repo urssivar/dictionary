@@ -1,0 +1,21 @@
+id: C6idCORxW3BsvJzeha64
+headword: уленла бирара
+ipa: uˌlenla biˈrara
+tags: [v, tr, cls, phr]
+etymology:
+  en: Lit. *to make of eye*. There's also *улбишарти* "cure from jinx".
+note:
+  en: '*улилла бирара*, *уле иккара*, *уле китьара*'
+forms:
+  - text: уленла барара
+    gloss: pfv
+  - text: уленла барив
+    gloss: aor
+  - text: уленла бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to jinx
+      ru: глазить
+    aliases:
+      en: [hex, spell]

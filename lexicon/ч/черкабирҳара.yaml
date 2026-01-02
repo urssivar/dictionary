@@ -1,0 +1,22 @@
+id: Bxmid8l7hlaxcXBN0kiA
+headword: черкабирҳара
+ipa: tʃerkabirˈxara
+tags: [v, tr, cls]
+forms:
+  - text: черкабиҳара
+    gloss: pfv
+  - text: черкабишив
+    gloss: aor
+  - text: черкабирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to complete
+      ru: завершать
+    aliases:
+      en: [end, finish, do]
+  - translation:
+      en: to transfer
+      ru: перекладывать
+    aliases:
+      en: [move]

@@ -1,0 +1,14 @@
+id: RmC19GqQMh4fToSMlzM5
+headword: ьямшар
+ipa: hæmˈʃar
+tags: [n, adj, loan]
+forms:
+  - text: ьямшар
+    gloss: sg
+  - text: ьямшарте
+    gloss: pl
+definitions:
+  - translation:
+      en: persian
+      ru: иранец
+    tags: [demonym]

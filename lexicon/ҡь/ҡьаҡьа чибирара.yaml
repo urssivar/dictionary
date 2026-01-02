@@ -1,0 +1,17 @@
+id: 6iylYWZvRysVq8NBubRQ
+headword: ҡьаҡьа чибирара
+ipa: qʼaˌqʼa tʃibiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ҡьаҡьа чибарара
+    gloss: pfv
+  - text: ҡьаҡьа чибарив
+    gloss: aor
+  - text: ҡьаҡьа чибирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to exhaust
+      ru: изматывать
+    aliases:
+      en: [wear, out, harass]

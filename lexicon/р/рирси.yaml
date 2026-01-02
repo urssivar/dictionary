@@ -1,0 +1,19 @@
+id: dIR1beTZmqZC1gQIPD3R
+headword: рирси
+ipa: rirˈsi
+tags: [n]
+forms:
+  - text: рирси
+    gloss: sg
+  - text: рирсбе
+    gloss: pl
+definitions:
+  - translation:
+      en: daughter
+      ru: дочь
+    tags: [kinship]
+  - translation:
+      en: girl
+      ru: девочка
+    aliases:
+      en: [lady]

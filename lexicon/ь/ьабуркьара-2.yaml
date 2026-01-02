@@ -1,0 +1,19 @@
+id: eWzIPhQ2sp7hjBAY1Xw0
+headword: ьабуркьара
+ipa: haburˈkʼara
+tags: [v, tr, cls]
+note:
+  en: '*ьабалтьана*/*ьалутьана*'
+forms:
+  - text: ьабаркьара
+    gloss: pfv
+  - text: ьабарчьив
+    gloss: aor
+  - text: ьабуркьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to uproot
+      ru: корчевать
+    aliases:
+      en: [pull, out]

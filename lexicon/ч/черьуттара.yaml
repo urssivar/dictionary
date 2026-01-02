@@ -1,0 +1,17 @@
+id: BIJySfDNUG7rlHDojKUE
+headword: черьуттара
+ipa: tʃerˈhutːara
+tags: [v, tr, cls]
+forms:
+  - text: черьаберттара
+    gloss: pfv
+  - text: черьаберттив
+    gloss: aor
+  - text: черьуттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tear away
+      ru: срывать
+    aliases:
+      en: [pluck]

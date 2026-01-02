@@ -1,0 +1,17 @@
+id: kXrRMrzav2yONjsqWevO
+headword: кьукьа
+ipa: kʼuˈkʼa
+tags: [n]
+note:
+  en: '*няҡҡишкала*'
+forms:
+  - text: кьукьа
+    gloss: sg
+  - text: кьукьан
+    gloss: loc
+  - text: кьукьне
+    gloss: pl
+definitions:
+  - translation:
+      en: napkin
+      ru: салфетка

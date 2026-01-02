@@ -1,0 +1,14 @@
+id: qfX5jr5ta9Uzn9JKDlhP
+headword: кяъба
+ipa: ˈkæʔba
+tags: [n, loan, arabic]
+forms:
+  - text: кяъба
+    gloss: sg
+  - text: кяъбан
+    gloss: obl
+definitions:
+  - translation:
+      en: kaaba
+      ru: кааба
+    tags: [toponym]

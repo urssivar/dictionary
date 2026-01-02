@@ -1,0 +1,16 @@
+id: vz5J44Wgrgx4FSiWa4jx
+headword: чахма
+ipa: ˈtʃaχma
+tags: [n, loan, turkic]
+note:
+  en: '*чаҡма*'
+forms:
+  - text: чахма
+    gloss: sg
+  - text: чахмунде
+    gloss: pl
+definitions:
+  - translation:
+      en: trigger
+      ru: курок
+    tags: [tool]

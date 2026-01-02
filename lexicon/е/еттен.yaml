@@ -1,0 +1,22 @@
+id: Ahc3JYOyE1nHyHN2ZYLt
+headword: еттен
+ipa: eˈtːen
+tags: [conj]
+note:
+  en: '*етта*, *аттен*'
+definitions:
+  - translation:
+      en: than
+      ru: чем
+    aliases:
+      en: [rather]
+    examples:
+      - text: са еттен ижал гунал це
+        translation:
+          en: today it's warmer than yesterday
+      - text: ьинце еттен дами ҡяр биччихид
+        translation:
+          en: i love pears more than apples
+      - text: ижин кигара еттен вярун яьле аччу у?
+        translation:
+          en: wouldn't it been better to go than to sit here?

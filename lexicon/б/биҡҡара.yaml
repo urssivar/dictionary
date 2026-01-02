@@ -1,0 +1,17 @@
+id: d813X1yiCpcrjpdZVXtP
+headword: биҡҡара
+ipa: biˈqːara
+tags: [v, tr, cls]
+forms:
+  - text: буҡҡара
+    gloss: pfv
+  - text: буҡҡив
+    gloss: aor
+  - text: биҡҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to carry
+      ru: нести
+    aliases:
+      en: [move]

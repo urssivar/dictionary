@@ -1,0 +1,19 @@
+id: 3OXDZA7muo85Yy2EORRe
+headword: цан ьабурхара
+ipa: ˌtsan haburˈχara
+tags: [v, intr, cls]
+note:
+  en: '*цаьабурхара*'
+forms:
+  - text: цан ьаберхора
+    gloss: pfv
+  - text: цан ьаберхур
+    gloss: aor
+  - text: цан ьабурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be in solidarity
+      ru: быть в единстве
+    aliases:
+      en: [unite]

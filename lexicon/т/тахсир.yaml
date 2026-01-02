@@ -1,0 +1,18 @@
+id: mjZHoaMvTkulY2p0axX5
+headword: тахсир
+ipa: taχˈsir
+tags: [n, loan, arabic]
+forms:
+  - text: тахсир
+    gloss: sg
+  - text: тахсирте
+    gloss: pl
+definitions:
+  - translation:
+      en: guilt
+      ru: вина
+    aliases:
+      en: [fault]
+  - translation:
+      en: crime
+      ru: преступление

@@ -1,0 +1,17 @@
+id: 68kL6BgyLywbxl2BV1jG
+headword: бара
+ipa: baˈra
+tags: [adv]
+definitions:
+  - translation:
+      en: nearly
+      ru: чуть
+    aliases:
+      en: [just, almost]
+    examples:
+      - text: бара рел де карикара
+        translation:
+          en: she nearly fell
+      - text: ьана бара вегур
+        translation:
+          en: he departed just now

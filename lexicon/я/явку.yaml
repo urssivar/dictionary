@@ -1,0 +1,21 @@
+id: d4FlgLgKe4U6Jk1ChTLG
+headword: явку
+ipa: ˈævku
+tags: [n]
+etymology:
+  en: |-
+    From *яв* "three" + *кув* "language".
+    There's also attested *аркур* "talk" in Erckert. Could be a contamination.
+note:
+  en: '*явкур*'
+forms:
+  - text: явку
+    gloss: sg
+  - text: явкурме
+    gloss: pl
+definitions:
+  - translation:
+      en: verse
+      ru: стих
+    aliases:
+      en: [poetry]

@@ -1,0 +1,18 @@
+id: ol6WME0FqU05gnGWacvd
+headword: ппиғя
+ipa: ˈpːiʁæ
+tags: [n]
+note:
+  en: '*кал*'
+forms:
+  - text: ппиғя
+    gloss: sg
+  - text: ппиғян
+    gloss: obl
+  - text: ппиғне
+    gloss: pl
+definitions:
+  - translation:
+      en: beetle
+      ru: жук
+    tags: [animal, insect, bug]

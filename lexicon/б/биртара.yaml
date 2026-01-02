@@ -1,0 +1,33 @@
+id: Y0XlCDRjKU8O8KVrThQR
+headword: биртара
+ipa: birˈtara
+tags: [v, tr, cls]
+forms:
+  - text: битара
+    gloss: pfv
+  - text: битив
+    gloss: aor
+  - text: биртара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to beat up
+      ru: избивать
+    aliases:
+      en: [break]
+    examples:
+      - text: урши витив
+        translation:
+          en: they beat up the boy
+      - text: битив диг
+        translation:
+          en: minced meat
+  - translation:
+      en: to pound
+      ru: толочь
+    aliases:
+      en: [crush]
+    examples:
+      - text: ачье дитара
+        translation:
+          en: to pound wheat

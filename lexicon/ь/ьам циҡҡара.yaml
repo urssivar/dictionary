@@ -1,0 +1,17 @@
+id: vlOJHu4LZJdquwhZjDeU
+headword: ьам циҡҡара
+ipa: ˌham tsiˈqːara
+tags: [v, cls, phr, tr]
+note:
+  en: '*ьам цабирчихара*'
+forms:
+  - text: ьам цаҡҡара
+    gloss: pfv
+  - text: ьам цаҡҡив
+    gloss: aor
+  - text: ьам циҡҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to remind
+      ru: напоминать

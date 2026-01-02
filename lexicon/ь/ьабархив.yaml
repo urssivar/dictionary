@@ -1,0 +1,15 @@
+id: 9ehMYSthLF8wIzATchqw
+headword: ьабархив
+ipa: habarˈχiv
+tags: [adj, cls, nmlz]
+forms:
+  - text: ьабархив
+    gloss: adj
+  - text: ьабархил
+    gloss: adv
+definitions:
+  - translation:
+      en: turbulent
+      ru: бурный
+    aliases:
+      en: [stormy, chaotic]

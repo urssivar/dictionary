@@ -1,0 +1,22 @@
+id: TWR3NItJRCCiosvFtliU
+headword: чибирҳора
+ipa: tʃibirˈxora
+tags: [v, cls, tr]
+forms:
+  - text: чибиҳора
+    gloss: pfv
+  - text: чибишур
+    gloss: aor
+  - text: чибирҳора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to initiate
+      ru: инициировать
+    aliases:
+      en: [start, begin]
+  - translation:
+      en: to continue
+      ru: продолжать
+    aliases:
+      en: [proceed, resume]

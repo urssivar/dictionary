@@ -1,0 +1,14 @@
+id: 3PbHwDN4ksJiqvfAWnee
+headword: набар
+ipa: naˈbar
+tags: [n, loan, turkic]
+forms:
+  - text: набар
+    gloss: sg
+  - text: набарте
+    gloss: pl
+definitions:
+  - translation:
+      en: anchor
+      ru: якорь
+    tags: [tool]

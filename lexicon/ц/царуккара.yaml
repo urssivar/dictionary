@@ -1,0 +1,17 @@
+id: SP7oFRdc1F0ubmcG9hyd
+headword: царуккара
+ipa: tsaruˈkːara
+tags: [v, tr, cls]
+forms:
+  - text: цаберккора
+    gloss: pfv
+  - text: цаберккур
+    gloss: aor
+  - text: царуккара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to roll up
+      ru: сворачивать
+    aliases:
+      en: [furl]

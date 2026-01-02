@@ -1,0 +1,17 @@
+id: bQsokV0YHfGgxE6IpJ3L
+headword: ғай булҡана
+ipa: ˌʁaj bulˈqana
+tags: [v, cls, intr, phr]
+forms:
+  - text: ғай буҡана
+    gloss: pfv
+  - text: ғай буҡун
+    gloss: aor
+  - text: ғай булҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to speak
+      ru: выступать
+    aliases:
+      en: [perform, express]

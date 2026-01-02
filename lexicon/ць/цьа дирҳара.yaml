@@ -1,0 +1,17 @@
+id: xc00tRxcVRRHT9WhYtA4
+headword: цьа дирҳара
+ipa: ˌtsʼa dirˈxara
+tags: [v, tr]
+forms:
+  - text: цьа диҳара
+    gloss: pfv
+  - text: цьа дишив
+    gloss: aor
+  - text: цьа дирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to set fire
+      ru: поджигать
+    aliases:
+      en: [ignite, arson]

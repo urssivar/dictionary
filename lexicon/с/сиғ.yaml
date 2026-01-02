@@ -1,0 +1,16 @@
+id: 9KKFBxvpT7iqyJdBIyOC
+headword: сиғ
+ipa: ˈsiʁ
+tags: [n]
+forms:
+  - text: сиғ
+    gloss: sg
+  - text: сиған
+    gloss: obl
+definitions:
+  - translation:
+      en: cattail
+      ru: рогоз
+    tags: [plant]
+    aliases:
+      en: [reedmace, typha]

@@ -1,0 +1,15 @@
+id: eDdZTwQNRBgHHG6V8mlR
+headword: чакка
+ipa: ˈtʃakːa
+tags: [n]
+forms:
+  - text: чакка
+    gloss: sg
+  - text: чаккан
+    gloss: pl
+definitions:
+  - translation:
+      en: knag
+      ru: сухой сук
+    aliases:
+      en: [branch, thorn]

@@ -1,0 +1,16 @@
+id: vqICuDFIzPwAcuhdW4Uv
+headword: яппа иҡара
+ipa: æˌpːa iˈqara
+tags: [v, tr]
+forms:
+  - text: яппа аҡара
+    gloss: pfv
+  - text: яппа аҡив
+    gloss: aor
+  - text: яппа иҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to put on one's back
+      ru: усадить на спину
+    tags: [child]

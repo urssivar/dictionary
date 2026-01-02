@@ -1,0 +1,15 @@
+id: AJ1N1bv8Vmvq3XQVe7CJ
+headword: яппас
+ipa: æˈpːas
+tags: [n, loan, persian]
+forms:
+  - text: яппас
+    gloss: sg
+  - text: япписне
+    gloss: pl
+definitions:
+  - translation:
+      en: coin
+      ru: монета
+    aliases:
+      en: [penny]

@@ -1,0 +1,16 @@
+id: oOavdgIGY6RkYzAnP0Ao
+headword: бяъсал
+ipa: ˈbæʔsal
+tags: [n]
+forms:
+  - text: бяъсал
+    gloss: sg
+  - text: бяъсле
+    gloss: pl
+definitions:
+  - translation:
+      en: flap
+      ru: лоскут
+    tags: [clothing]
+    aliases:
+      en: [snip, patch, cloth]

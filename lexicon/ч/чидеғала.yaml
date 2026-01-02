@@ -1,0 +1,21 @@
+id: LPG7PP6M6nfQEC48v2zT
+headword: чидеғала
+ipa: tʃideˈʁala
+tags: [n, nmlz]
+etymology:
+  en: From *чибеғара* "to hit".
+forms:
+  - text: чидеғала
+    gloss: sg
+  - text: чидеғле
+    gloss: obl
+definitions:
+  - translation:
+      en: fever
+      ru: лихорадка
+    aliases:
+      en: [ill]
+    examples:
+      - text: чидеғлела риьяв
+        translation:
+          en: she has a fever

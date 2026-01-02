@@ -1,0 +1,19 @@
+id: GfuOL4xYTu82UnM4XZdd
+headword: гумбиғара
+ipa: gumbiˈʁara
+tags: [v, intr, cls]
+note:
+  en: '*сағли ьадурҡара*'
+forms:
+  - text: гумбеғара
+    gloss: pfv
+  - text: гумбеғив
+    gloss: aor
+  - text: гумбиғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fawn
+      ru: лебезить
+    aliases:
+      en: [flatter]

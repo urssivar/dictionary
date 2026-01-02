@@ -1,0 +1,15 @@
+id: 7YHhkL5SeJmDFZNHPxkQ
+headword: мяъдан
+ipa: mæʔˈdan
+tags: [n, loan, arabic]
+forms:
+  - text: мяъдан
+    gloss: sg
+  - text: мяъданте
+    gloss: pl
+definitions:
+  - translation:
+      en: buried treasure
+      ru: клад
+    aliases:
+      en: [mine, pit, cache]

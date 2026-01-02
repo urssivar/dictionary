@@ -1,0 +1,15 @@
+id: x1KRyTzFoGohX5FJ5VI5
+headword: сеткка
+ipa: setˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: сеткка
+    gloss: sg
+  - text: сеткка
+    gloss: loc, obl
+  - text: сетккне
+    gloss: pl
+definitions:
+  - translation:
+      en: net
+      ru: сеть

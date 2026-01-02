@@ -1,0 +1,15 @@
+id: r9TcxZQgGSOvB6WzhHJf
+headword: ьукму
+ipa: ˈhukmu
+tags: [n, loan, arabic]
+forms:
+  - text: ьукму
+    gloss: sg
+  - text: ьукмурте
+    gloss: pl
+definitions:
+  - translation:
+      en: decision
+      ru: решение
+    aliases:
+      en: [decree]

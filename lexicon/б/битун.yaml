@@ -1,0 +1,16 @@
+id: U3VsVvJcFvaMiUz0ZYu9
+headword: битун
+ipa: biˈtun
+tags: [adj, cls]
+note:
+  en: '*бутун*, *битуньер*'
+definitions:
+  - translation:
+      en: whole
+      ru: целый
+    aliases:
+      en: [entire]
+    examples:
+      - text: битун ҡҡабағ беркун
+        translation:
+          en: ate entire pumpkin

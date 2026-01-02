@@ -1,0 +1,15 @@
+id: qrkQmLMdm5acfAFTOi7Q
+headword: нукер
+ipa: nuˈker
+tags: [n, loan, turkic]
+forms:
+  - text: нукер
+    gloss: sg
+  - text: нукерте
+    gloss: pl
+definitions:
+  - translation:
+      en: henchman
+      ru: приспешник
+    aliases:
+      en: [soldier, servant]

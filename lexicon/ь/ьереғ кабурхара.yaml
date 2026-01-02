@@ -1,0 +1,17 @@
+id: Fkp1I3XgJJsgh5hvGnmy
+headword: ьереғ кабурхара
+ipa: heˌreʁ kaburˈχara
+tags: [v, intr, cls, phr]
+forms:
+  - text: ьереғ каберхора
+    gloss: pfv
+  - text: ьереғ каберхур
+    gloss: aor
+  - text: ьереғ кабурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to accompany
+      ru: сопровождать
+    aliases:
+      en: [escort]

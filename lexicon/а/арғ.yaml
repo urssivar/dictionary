@@ -1,0 +1,20 @@
+id: NC2eqONayhyx8FaoeMeu
+headword: арғ
+ipa: ˈarʁ
+tags: [n]
+note:
+  en: '*ерғ*'
+definitions:
+  - translation:
+      en: weather
+      ru: погода
+    tags: [nature]
+  - translation:
+      en: season
+      ru: сезон
+    aliases:
+      en: [time]
+    examples:
+      - text: ца арғла
+        translation:
+          en: contemporary

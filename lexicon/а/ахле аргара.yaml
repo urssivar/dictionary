@@ -1,0 +1,17 @@
+id: 7AYqO9xmuxZTfb04YChg
+headword: ахле аргара
+ipa: aχˌle arˈgara
+tags: [v, intr, phr]
+forms:
+  - text: ахле агара
+    gloss: pfv
+  - text: ахле агур
+    gloss: aor
+  - text: ахле аргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fraternize
+      ru: брататься
+    aliases:
+      en: [friend, relation]

@@ -1,0 +1,23 @@
+id: dbwc9AMkQZN1w1i759AZ
+headword: ҡьяйць биргара
+ipa: ˌqʼæjtsʼ birˈgara
+tags: [v, phr, cls, intr]
+note:
+  en: '*ҡьяйць бирара*'
+forms:
+  - text: ҡьяйць бигара
+    gloss: pfv
+  - text: ҡьяйць бижив
+    gloss: aor
+  - text: ҡьяйць биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to search
+      ru: искать
+    aliases:
+      en: [search, look, scout, scan]
+    examples:
+      - text: вя дисуй ҡьяйць виже
+        translation:
+          en: go seek the knife

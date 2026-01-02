@@ -1,0 +1,18 @@
+id: BkPzr44vRcKftW1aJvvl
+headword: ццав
+ipa: ˈtsːav
+tags: [n]
+note:
+  en: '*ццай*, *ццилбе*'
+forms:
+  - text: ццав
+    gloss: sg
+  - text: ццавни
+    gloss: loc
+  - text: ццирбе
+    gloss: pl
+definitions:
+  - translation:
+      en: sky
+      ru: небо
+    tags: [nature]

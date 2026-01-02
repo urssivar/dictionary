@@ -1,0 +1,17 @@
+id: x9EUT7xUXqT71QpgfXRq
+headword: гунер ьабиркара
+ipa: guˌner habirˈkara
+tags: [v, cls, intr]
+forms:
+  - text: гунер ьабикара
+    gloss: pfv
+  - text: гунер ьабичив
+    gloss: aor
+  - text: гунер ьабиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get eradicated
+      ru: искореняться
+    aliases:
+      en: [destroy, uproot]

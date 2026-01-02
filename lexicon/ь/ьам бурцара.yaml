@@ -1,0 +1,17 @@
+id: ip91ydE3apiWTfHuwM66
+headword: ьам бурцара
+ipa: ˌham burˈtsara
+tags: [v, phr, intr]
+forms:
+  - text: ьам буцара
+    gloss: pfv
+  - text: ьам буцив
+    gloss: aor
+  - text: ьам бурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to withstand
+      ru: выдерживать
+    aliases:
+      en: [survive]

@@ -1,0 +1,17 @@
+id: pARKf3QvkKbd2Cmf6UQY
+headword: мяғла бартара
+ipa: mæʁˌla barˈtara
+tags: [v, cls, tr, phr]
+forms:
+  - text: мяғла батара
+    gloss: pfv
+  - text: мяғла батур
+    gloss: aor
+  - text: мяғла бартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to reserve
+      ru: резервировать, откладывать
+    aliases:
+      en: [save, put, aside]

@@ -1,0 +1,19 @@
+id: aeYhcXzdmP0I7tfYaP9d
+headword: дири
+ipa: diˈri
+tags: [n]
+note:
+  en: '*жижип*'
+forms:
+  - text: дири
+    gloss: sg
+  - text: дирин
+    gloss: obl
+  - text: дирме
+    gloss: pl
+definitions:
+  - translation:
+      en: bordure
+      ru: кайма
+    aliases:
+      en: [fringe, hem, border]

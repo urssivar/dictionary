@@ -1,0 +1,15 @@
+id: xHn5Cql6XGhMsRlc3UWU
+headword: паччяь
+ipa: paˈtʃːæh
+tags: [n, loan, persian]
+forms:
+  - text: паччяь
+    gloss: sg
+  - text: паччяье
+    gloss: pl
+definitions:
+  - translation:
+      en: sovereign
+      ru: повелитель
+    aliases:
+      en: [monarch]

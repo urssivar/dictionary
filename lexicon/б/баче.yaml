@@ -1,0 +1,19 @@
+id: p7vYJ7q6eO64OoLfOIfn
+headword: баче
+ipa: ˈbatʃe
+tags: [n]
+note:
+  en: '*шива*'
+forms:
+  - text: баче
+    gloss: sg
+  - text: бачин
+    gloss: obl
+  - text: бичне
+    gloss: pl
+definitions:
+  - translation:
+      en: necklace
+      ru: ожерелье
+    aliases:
+      en: [pearl]

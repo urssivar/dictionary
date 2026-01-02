@@ -1,0 +1,17 @@
+id: jR6MgMlp0rtQaQp5LKPc
+headword: черьабурҡара
+ipa: tʃerhaburˈqara
+tags: [v, cls, tr]
+forms:
+  - text: черьабяҡара
+    gloss: pfv
+  - text: черьабяҡив
+    gloss: aor
+  - text: черьабурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to partition
+      ru: разгораживать
+    aliases:
+      en: [split, divide]

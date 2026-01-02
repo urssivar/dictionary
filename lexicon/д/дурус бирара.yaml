@@ -1,0 +1,20 @@
+id: J3Sap2tLUeUwFAFFKnhL
+headword: дурус бирара
+ipa: duˌrus biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: дурус барара
+    gloss: pfv
+  - text: дурус барив
+    gloss: aor
+  - text: дурус бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to equate
+      ru: уравнивать
+  - translation:
+      en: to clarify
+      ru: уточнять
+    aliases:
+      en: [specify]

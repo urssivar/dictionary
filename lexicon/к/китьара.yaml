@@ -1,0 +1,17 @@
+id: Sj6AH2tgF523jwgb1vxC
+headword: китьара
+ipa: kiˈtʼara
+tags: [v, tr]
+forms:
+  - text: катьара
+    gloss: pfv
+  - text: катьив
+    gloss: aor
+  - text: китьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pour
+      ru: наливать
+    aliases:
+      en: [water]

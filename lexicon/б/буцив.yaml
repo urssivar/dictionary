@@ -1,0 +1,15 @@
+id: phnxZwhcG92gbdMbUcXO
+headword: буцив
+ipa: buˈtsiv
+tags: [adj, cls, nmlz]
+forms:
+  - text: буцив
+    gloss: adj
+  - text: буцил
+    gloss: adv
+definitions:
+  - translation:
+      en: anxious
+      ru: тревожный
+    aliases:
+      en: [troubled, restless]

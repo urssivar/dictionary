@@ -1,0 +1,20 @@
+id: MP2gnbnE1X6iZpxxl3RU
+headword: ҡҡисҡати
+ipa: ˈqːisqati
+tags: [n]
+note:
+  en: '*дуклуш ҡати*'
+forms:
+  - text: ҡҡисҡати
+    gloss: sg
+  - text: ҡҡисҡатин
+    gloss: obl
+  - text: ҡҡисҡитне
+    gloss: pl
+definitions:
+  - translation:
+      en: fur papakha
+      ru: папаха
+    tags: [clothing]
+    aliases:
+      en: [hat]

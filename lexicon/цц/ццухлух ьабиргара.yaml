@@ -1,0 +1,17 @@
+id: 4KeKbyxjhPSGDfmg49Hw
+headword: ццухлух ьабиргара
+ipa: tsːuχˌluχ habirˈgara
+tags: [v, intr, cls]
+forms:
+  - text: ццухлух ьабигара
+    gloss: pfv
+  - text: ццухлух ьабижив
+    gloss: aor
+  - text: ццухлух ьабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shrivel
+      ru: съеживаться
+    aliases:
+      en: [cringe, shrink]

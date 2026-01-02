@@ -1,0 +1,16 @@
+id: JTkOaSAFZJ37TCSBCqTw
+headword: динди
+ipa: dinˈdi
+tags: [n]
+forms:
+  - text: динди
+    gloss: sg
+  - text: диндин
+    gloss: obl
+  - text: диндбе
+    gloss: pl
+definitions:
+  - translation:
+      en: stocking
+      ru: чулок
+    tags: [clothing]

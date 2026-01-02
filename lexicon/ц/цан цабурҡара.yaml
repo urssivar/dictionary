@@ -1,0 +1,17 @@
+id: YlABPCqBEfMuQ50uRodi
+headword: цан цабурҡара
+ipa: ˌtsan tsaburˈqara
+tags: [v, tr, cls, phr]
+forms:
+  - text: цан цабяҡара
+    gloss: pfv
+  - text: цан цабяҡив
+    gloss: aor
+  - text: цан цабурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to muster
+      ru: укомплектовывать
+    aliases:
+      en: [gather, arrange]

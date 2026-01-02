@@ -1,0 +1,16 @@
+id: peQS9PNKSEk3fgLWqNWK
+headword: бижел
+ipa: biˈʒel
+tags: [n, cls]
+note:
+  en: '*бижил*, *бижелла*'
+definitions:
+  - translation:
+      en: acknowledgement
+      ru: признание
+    aliases:
+      en: [respect]
+    examples:
+      - text: вижел ра вирул акку
+        translation:
+          en: they don't even acknowledge him

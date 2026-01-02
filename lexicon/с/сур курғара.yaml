@@ -1,0 +1,17 @@
+id: 6W3v5AosnwOg1TNFGDrF
+headword: сур курғара
+ipa: ˌsur kurˈʁara
+tags: [v, tr, cls, phr]
+forms:
+  - text: сур кағара
+    gloss: pfv
+  - text: сур кағив
+    gloss: aor
+  - text: сур курғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to droop
+      ru: свисать
+    aliases:
+      en: [hang]

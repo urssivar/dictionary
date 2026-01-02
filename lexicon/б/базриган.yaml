@@ -1,0 +1,16 @@
+id: RlqbChBsfA3NKvVJg5xL
+headword: базриган
+ipa: bazriˈgan
+tags: [n, loan, persian]
+forms:
+  - text: базриган
+    gloss: sg
+  - text: базригне
+    gloss: pl
+definitions:
+  - translation:
+      en: trader
+      ru: торговец
+    tags: [profession]
+    aliases:
+      en: [dealer]

@@ -1,0 +1,16 @@
+id: l3RYHDvR2GuMGnDrFLXr
+headword: замана
+ipa: zaˈmana
+tags: [n, loan, arabic]
+forms:
+  - text: замана
+    gloss: sg
+  - text: заманал
+    gloss: obl
+  - text: заманте
+    gloss: pl
+definitions:
+  - translation:
+      en: time
+      ru: время
+    tags: [time]

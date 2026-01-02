@@ -1,0 +1,17 @@
+id: 3qskZusytYruhbMYBSkT
+headword: букьа
+ipa: ˈbukʼa
+tags: [n]
+forms:
+  - text: букьа
+    gloss: sg
+  - text: букьал
+    gloss: obl
+  - text: букьурбе
+    gloss: pl
+definitions:
+  - translation:
+      en: heap
+      ru: куча
+    aliases:
+      en: [pile]

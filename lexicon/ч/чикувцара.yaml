@@ -1,0 +1,15 @@
+id: u0VEzN5YOxGHTYpmdHhE
+headword: чикувцара
+ipa: tʃikuvˈtsara
+tags: [v, tr]
+forms:
+  - text: чикувцив
+    gloss: aor
+  - text: чикувцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to measure
+      ru: измерять
+    aliases:
+      en: [count]

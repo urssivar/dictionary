@@ -1,0 +1,18 @@
+id: zxN1iVVjb2Z2HlZfblCz
+headword: тях бирьора
+ipa: ˌtæχ birˈhora
+tags: [v, intr, cls]
+forms:
+  - text: тях биьора
+    gloss: aor
+  - text: тях биьяв
+    gloss: aor
+  - text: тях бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to catch a cold
+      ru: простывать
+    tags: [body]
+    aliases:
+      en: [ill, flu]

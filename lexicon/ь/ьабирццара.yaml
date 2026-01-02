@@ -1,0 +1,17 @@
+id: TAVwoEwUIZTOu2SasCYC
+headword: ьабирццара
+ipa: habirˈtsːara
+tags: [v, intr, cls]
+forms:
+  - text: ьабиццара
+    gloss: pfv
+  - text: ьабиццур
+    gloss: aor
+  - text: ьабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get up
+      ru: вставать
+    aliases:
+      en: [stand, rise]

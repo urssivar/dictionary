@@ -1,0 +1,16 @@
+id: u4dTNl2AL6clqOWmI9X6
+headword: мичер
+ipa: miˈtʃer
+tags: [n]
+forms:
+  - text: мичер
+    gloss: sg
+  - text: мичери
+    gloss: obl
+  - text: мичерте
+    gloss: pl
+definitions:
+  - translation:
+      en: cornbread
+      ru: кукурузный хлеб
+    tags: [food]

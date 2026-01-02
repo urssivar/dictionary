@@ -1,0 +1,17 @@
+id: Je98wLU5WkQ8VFAFbv6k
+headword: лишан ьурсара
+ipa: ˌliʃan hurˈsara
+tags: [v, intr, phr]
+forms:
+  - text: лишан ьасара
+    gloss: pfv
+  - text: лишан ьасив
+    gloss: aor
+  - text: лишан ьурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sight
+      ru: прицеливаться
+    aliases:
+      en: [aim]

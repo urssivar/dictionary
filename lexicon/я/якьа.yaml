@@ -1,0 +1,16 @@
+id: eAKeMRnVMS0if8UepDws
+headword: якьа
+ipa: æˈkʼa
+tags: [n]
+forms:
+  - text: якьа
+    gloss: sg
+  - text: якьне
+    gloss: pl
+definitions:
+  - translation:
+      en: fine
+      ru: штраф
+    tags: [social]
+    aliases:
+      en: [penalty]

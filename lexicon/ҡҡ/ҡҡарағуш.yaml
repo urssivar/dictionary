@@ -1,0 +1,17 @@
+id: dOGppRkAjjnd6leGawMz
+headword: ҡҡарағуш
+ipa: qːaraˈʁuʃ
+tags: [n, loan, turkic]
+note:
+  en: '*ҡҡараваш*'
+forms:
+  - text: ҡҡарағуш
+    gloss: sg
+  - text: ҡҡарағуше
+    gloss: pl
+definitions:
+  - translation:
+      en: bought slave
+      ru: покупной раб
+    aliases:
+      en: [servant]

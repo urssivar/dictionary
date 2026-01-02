@@ -1,0 +1,15 @@
+id: ltsNk8x1cq7JqLQcEhMr
+headword: кабиргара
+ipa: kabirˈgara
+tags: [v, intr, cls]
+forms:
+  - text: кабигара
+    gloss: pfv
+  - text: кабижив
+    gloss: aor
+  - text: кабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sit
+      ru: сидеть

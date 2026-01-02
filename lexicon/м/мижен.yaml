@@ -1,0 +1,17 @@
+id: ITB61uVePI3cDWqjHfVb
+headword: мижен
+ipa: miˈʒen
+tags: [n]
+note:
+  en: '*мижер*'
+forms:
+  - text: мижен
+    gloss: sg
+  - text: миженте
+    gloss: pl
+definitions:
+  - translation:
+      en: dream
+      ru: сон
+    aliases:
+      en: [sleep]

@@ -1,0 +1,22 @@
+id: F1o2xybu8WdvABRWfEGT
+headword: чибурцара
+ipa: tʃiburˈtsara
+tags: [v, tr, cls]
+forms:
+  - text: чибуцара
+    gloss: pfv
+  - text: чибуцив
+    gloss: aor
+  - text: чибурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to suspect
+      ru: подозревать
+    aliases:
+      en: [accuse, feel]
+  - translation:
+      en: to apply
+      ru: прикладывать
+    aliases:
+      en: [adhibit, attach, connect, set]

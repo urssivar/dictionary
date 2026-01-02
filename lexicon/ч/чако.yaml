@@ -1,0 +1,16 @@
+id: zidAdlAniB5g5jMwa6M3
+headword: чако
+ipa: ˈtʃako
+tags: [n]
+note:
+  en: '*сан чако*, *ччяко*'
+forms:
+  - text: чако
+    gloss: sg
+  - text: чикне
+    gloss: pl
+definitions:
+  - translation:
+      en: sparrow
+      ru: воробей
+    tags: [animal, bird]

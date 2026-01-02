@@ -1,0 +1,17 @@
+id: 3HYRiVmdHb2X53jCqbBv
+headword: ккилмитьяй ьабирццара
+ipa: kːilmiˌtʼæj habirˈtsːara
+tags: [v, intr, cls, phr]
+etymology:
+  en: From pl. *ккамул* "toe" + *тья* "leg".
+forms:
+  - text: ккилмитьяй ьабиццара
+    gloss: pfv
+  - text: ккилмитьяй ьабиццур
+    gloss: aor
+  - text: ккилмитьяй ьабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tiptoe
+      ru: вставать на цыпочки

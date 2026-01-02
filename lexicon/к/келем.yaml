@@ -1,0 +1,14 @@
+id: 7g73SNohMZM62NY1ISr5
+headword: келем
+ipa: keˈlem
+tags: [n, loan, turkic]
+forms:
+  - text: келем
+    gloss: sg
+  - text: келемте
+    gloss: pl
+definitions:
+  - translation:
+      en: cabbage
+      ru: капуста
+    tags: [n]

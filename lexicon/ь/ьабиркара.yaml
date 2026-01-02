@@ -1,0 +1,35 @@
+id: 0ycoViMi8v942mS3HmQR
+headword: ьабиркара
+ipa: habirˈkara
+tags: [v, cls, intr]
+forms:
+  - text: ьабикара
+    gloss: pfv
+  - text: ьабичив
+    gloss: aor
+  - text: ьабиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to quarrel
+      ru: ругаться
+    aliases:
+      en: [brawl]
+  - translation:
+      en: to become
+      ru: становиться
+    aliases:
+      en: [turn]
+    examples:
+      - text: палтар ҳаць ьадичив
+        translation:
+          en: the clothes became blue
+  - translation:
+      en: to act
+      ru: действовать
+    aliases:
+      en: [affect]
+    examples:
+      - text: ҡьяряҡьи бекьи ьадичив
+        translation:
+          en: the vodka acted on his head

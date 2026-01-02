@@ -1,0 +1,16 @@
+id: FBDBMfGgJy4uNKnLdEtC
+headword: хашмиш
+ipa: χaʃˈmiʃ
+tags: [n, loan]
+forms:
+  - text: хашмиш
+    gloss: sg
+  - text: хашмише
+    gloss: pl
+definitions:
+  - translation:
+      en: scammer
+      ru: мошенник
+    tags: [profession]
+    aliases:
+      en: [rogue]

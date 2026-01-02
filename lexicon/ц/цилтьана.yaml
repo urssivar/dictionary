@@ -1,0 +1,20 @@
+id: URQxy9PaA6FdnDip3jX5
+headword: цилтьана
+ipa: tsilˈtʼana
+tags: [v, lbl]
+forms:
+  - text: цитьана
+    gloss: pfv
+  - text: цитьун
+    gloss: aor
+  - text: цилтьана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hatch out
+      ru: вылупляться
+  - translation:
+      en: to obtain
+      ru: извлекать
+    aliases:
+      en: [clean]

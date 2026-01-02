@@ -1,0 +1,19 @@
+id: 3bp9bGAMlmQAfjtPhC0e
+headword: бувжара
+ipa: buvˈʒara
+tags: [v, tr, cls]
+note:
+  en: '*бевгара/бувгара*'
+forms:
+  - text: бевжара
+    gloss: pfv
+  - text: бевжур
+    gloss: aor
+  - text: бувжара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tan
+      ru: дубить
+    aliases:
+      en: [skin]

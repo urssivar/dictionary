@@ -1,0 +1,15 @@
+id: J8Guj1jNlZKxugy3ZTui
+headword: хункар
+ipa: χunˈkar
+tags: [n, loan, turkic]
+forms:
+  - text: хункар
+    gloss: sg
+  - text: хункарте
+    gloss: pl
+definitions:
+  - translation:
+      en: courier
+      ru: гонец
+    aliases:
+      en: [herald, ambassador, messenger]

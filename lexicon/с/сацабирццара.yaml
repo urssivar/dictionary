@@ -1,0 +1,17 @@
+id: f9rA42eyJBOTudVpjzfd
+headword: сацабирццара
+ipa: satsabirˈtsːara
+tags: [v, intr, cls]
+forms:
+  - text: сацабиццара
+    gloss: pfv
+  - text: сацабиццур
+    gloss: aor
+  - text: сацабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to protrude
+      ru: выступать, выпирать
+    aliases:
+      en: [appear, jug]

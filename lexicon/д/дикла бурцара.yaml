@@ -1,0 +1,15 @@
+id: 8afuZckqZLhmmWbu8Mnr
+headword: дикла бурцара
+ipa: dikˌla burˈtsara
+tags: [v, tr, cls]
+forms:
+  - text: дикла буцара
+    gloss: pfv
+  - text: дикла буцив
+    gloss: aor
+  - text: дикла бурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to raise in hands
+      ru: поднимать в руки

@@ -1,0 +1,15 @@
+id: GuhlGWhVMm6zu9qAauT1
+headword: цирсара
+ipa: tsirˈsara
+tags: [v, tr]
+forms:
+  - text: цирсив
+    gloss: aor
+  - text: цирсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to saw
+      ru: пилить
+    aliases:
+      en: [cut]

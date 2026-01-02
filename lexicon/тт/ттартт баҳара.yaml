@@ -1,0 +1,15 @@
+id: lytASyJuHEwEQoJWh6fl
+headword: ттартт баҳара
+ipa: ˌtːartː baˈxara
+tags: [v, intr, cls, phr]
+note:
+  en: '*ттарғ бикьора*'
+forms:
+  - text: ттартт баҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stagger
+      ru: ходить неуверенно
+    aliases:
+      en: [walk]

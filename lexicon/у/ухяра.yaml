@@ -1,0 +1,17 @@
+id: oFjLljwYEyXGre40XFsB
+headword: ухяра
+ipa: uˈχːæra
+tags: [v, tr, cls]
+forms:
+  - text: бурхяра
+    gloss: pfv
+  - text: бурхяв
+    gloss: aor
+  - text: ухяра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to ram
+      ru: таранить
+    aliases:
+      en: [push, thrust]

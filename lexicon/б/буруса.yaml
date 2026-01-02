@@ -1,0 +1,16 @@
+id: HdqOtzdyqJfdHrmUg4S8
+headword: буруса
+ipa: buˈrusːa
+tags: [n]
+forms:
+  - text: буруса
+    gloss: sg
+  - text: бурусан
+    gloss: obl
+  - text: бурсме
+    gloss: pl
+definitions:
+  - translation:
+      en: chisel
+      ru: зубило
+    tags: [tool]

@@ -1,0 +1,16 @@
+id: aoUyZszghaziNaYmISIk
+headword: ттутту луккана
+ipa: tːuˌtːu luˈkːana
+tags: [v, tr, phr]
+forms:
+  - text: ттутту беккара
+    gloss: pfv
+  - text: ттутту беччив
+    gloss: aor
+  - text: ттутту луккана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to kiss
+      ru: целовать (дет.)
+    tags: [child]

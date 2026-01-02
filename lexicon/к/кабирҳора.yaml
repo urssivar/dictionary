@@ -1,0 +1,17 @@
+id: 0riMTGfJWUCpluKPOoMa
+headword: кабирҳора
+ipa: kabirˈxora
+tags: [v, tr, cls]
+forms:
+  - text: кабиҳора
+    gloss: pfv
+  - text: кабишур
+    gloss: aor
+  - text: кабирҳора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to kill
+      ru: убивать
+    aliases:
+      en: [execute]

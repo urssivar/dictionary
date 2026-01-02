@@ -1,0 +1,17 @@
+id: ATVltbfPUSCY4IwNVP5Y
+headword: балкка
+ipa: ˈbalkːa
+tags: [n]
+etymology:
+  en: From *улккана* "to worship".
+forms:
+  - text: балкка
+    gloss: sg
+  - text: балккне
+    gloss: pl
+definitions:
+  - translation:
+      en: dua
+      ru: дуа, мольба
+    aliases:
+      en: [supplication, dua]

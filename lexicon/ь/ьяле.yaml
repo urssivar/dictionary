@@ -1,0 +1,16 @@
+id: kw7wsjYM0pbv3hVjg6ry
+headword: ьяле
+ipa: ˈhæle
+tags: [n]
+forms:
+  - text: ьяле
+    gloss: sg
+  - text: ьяли
+    gloss: obl
+  - text: ьялбе
+    gloss: pl
+definitions:
+  - translation:
+      en: animal fat
+      ru: животный жир
+    tags: [body]

@@ -1,0 +1,20 @@
+id: aDNsRnzADUaSf7erVrDz
+headword: цурғара
+ipa: tsurˈʁara
+tags: [v, tr]
+forms:
+  - text: цағара
+    gloss: pfv
+  - text: цағив
+    gloss: aor
+  - text: цурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sketch
+      ru: чертить
+    aliases:
+      en: [draw, plot]
+  - translation:
+      en: to revolve
+      ru: вращаться вокруг

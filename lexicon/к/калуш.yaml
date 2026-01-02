@@ -1,0 +1,16 @@
+id: avgjeglwBYqNLPDYh92S
+headword: калуш
+ipa: kaˈluʃ
+tags: [n, loan, russian]
+forms:
+  - text: калуш
+    gloss: sg
+  - text: калуше
+    gloss: pl
+definitions:
+  - translation:
+      en: galosh
+      ru: калоша
+    tags: [clothing]
+    aliases:
+      en: [shoe, overshoe]

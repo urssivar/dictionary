@@ -1,0 +1,15 @@
+id: CqhDFG3OITmMGPNphApY
+headword: сенгер
+ipa: senˈger
+tags: [n, loan, persian]
+forms:
+  - text: сенгер
+    gloss: sg
+  - text: сенгерте
+    gloss: pl
+definitions:
+  - translation:
+      en: fortification
+      ru: укрепление
+    aliases:
+      en: [barricade]

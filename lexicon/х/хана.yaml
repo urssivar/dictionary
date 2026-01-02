@@ -1,0 +1,15 @@
+id: oapWVTbKB6kKrBTp7iHs
+headword: хана
+ipa: ˈχana
+tags: [n]
+forms:
+  - text: хана
+    gloss: sg
+  - text: ханал
+    gloss: obl
+definitions:
+  - translation:
+      en: room
+      ru: помещение
+    aliases:
+      en: [building]

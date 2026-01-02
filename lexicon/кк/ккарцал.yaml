@@ -1,0 +1,19 @@
+id: vMA4wU1eMilNrnayXhS5
+headword: ккарцал
+ipa: ˈkːartsal
+tags: [n]
+note:
+  en: '*ккацул*'
+forms:
+  - text: ккарцал
+    gloss: sg
+  - text: ккарцле
+    gloss: obl
+  - text: ккарцлиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: pillar
+      ru: колонна
+    aliases:
+      en: [post, column]

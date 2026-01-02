@@ -1,0 +1,15 @@
+id: UYQf2hM1M1iXWQyrFA81
+headword: ихтилат
+ipa: iχtiˈlat
+tags: [n, loan, arabic]
+forms:
+  - text: ихтилат
+    gloss: sg
+  - text: ихтилате
+    gloss: pl
+definitions:
+  - translation:
+      en: conversation
+      ru: беседа
+    aliases:
+      en: [chat]

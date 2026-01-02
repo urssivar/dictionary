@@ -1,0 +1,17 @@
+id: m81wZFedkrqXO9YP8tkz
+headword: барх цабурҡара
+ipa: ˌbarχ tsaburˈqara
+tags: [v, tr, cls, phr]
+forms:
+  - text: барх цабяҡара
+    gloss: pfv
+  - text: барх цабяҡив
+    gloss: aor
+  - text: барх цабурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to include
+      ru: включать в
+    aliases:
+      en: [combine, mix]

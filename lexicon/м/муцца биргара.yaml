@@ -1,0 +1,21 @@
+id: 0mBOdYY5AjpM9nBTsrmB
+headword: муцца биргара
+ipa: ˌmutsːa birˈgara
+tags: [v, phr, cls, intr]
+forms:
+  - text: муцца бигара
+    gloss: pfv
+  - text: муцца бижив
+    gloss: aor
+  - text: муцца биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to seek
+      ru: быть в поисках
+    aliases:
+      en: [look, see, search, quest]
+    examples:
+      - text: усттай муцца виже
+        translation:
+          en: search for a master

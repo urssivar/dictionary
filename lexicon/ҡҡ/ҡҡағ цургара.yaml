@@ -1,0 +1,17 @@
+id: 4v2HNyAWtSEswuDrPlMN
+headword: ҡҡағ цургара
+ipa: ˌqːaʁ tsurˈgara
+tags: [v, intr, phr]
+forms:
+  - text: ҡҡағ цагара
+    gloss: pfv
+  - text: ҡҡағ цагур
+    gloss: aor
+  - text: ҡҡағ цургара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to faint
+      ru: потерять сознание
+    aliases:
+      en: [pass, out]

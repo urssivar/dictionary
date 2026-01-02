@@ -1,0 +1,23 @@
+id: onOKoXk0vqy17953pxst
+headword: ерцце
+ipa: ˈertsːe
+tags: [n]
+note:
+  en: '*ерцца*, *ярцци*'
+forms:
+  - text: ерцце
+    gloss: sg
+  - text: ерццин
+    gloss: obl
+definitions:
+  - translation:
+      en: mark
+      ru: метка
+    aliases:
+      en: [sign, trace, brand]
+  - translation:
+      en: nevus
+      ru: родинка
+    tags: [body]
+    aliases:
+      en: [birthmark]

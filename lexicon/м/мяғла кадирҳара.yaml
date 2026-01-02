@@ -1,0 +1,17 @@
+id: orOPYmRV7O6OoxqgM0qn
+headword: мяғла кадирҳара
+ipa: mæʁˌla kadirˈxara
+tags: [v, tr, cls, phr]
+forms:
+  - text: мяғла кадиҳара
+    gloss: pfv
+  - text: мяғла кадишив
+    gloss: aor
+  - text: мяғла кадирҳара
+    gloss: ipvf
+definitions:
+  - translation:
+      en: to stock up
+      ru: запасать
+    aliases:
+      en: [reserve]

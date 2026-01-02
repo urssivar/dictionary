@@ -1,0 +1,15 @@
+id: X0ep59XZFENAJUYgxuqW
+headword: ирзара
+ipa: irˈzara
+tags: [v]
+note:
+  en: '*арзара* (PFV)'
+forms:
+  - text: ирзив
+    gloss: pret
+  - text: ирзара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to solve
+      ru: решать

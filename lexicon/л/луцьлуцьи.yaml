@@ -1,0 +1,18 @@
+id: CFiXSh8dTcx8jV7k0pq8
+headword: луцьлуцьи
+ipa: lutsʼluˈtsʼi
+tags: [n, nmlz]
+etymology:
+  en: From *луцьана* "to collect".
+forms:
+  - text: луцьлуцьи
+    gloss: sg
+  - text: луцьлуцьне
+    gloss: pl
+definitions:
+  - translation:
+      en: pickpocket
+      ru: карманник, варишка
+    tags: [profession]
+    aliases:
+      en: [thief]

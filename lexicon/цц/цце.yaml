@@ -1,0 +1,14 @@
+id: wJvoGnFKaqRqkdfK1xfm
+headword: цце
+ipa: ˈtsːe
+tags: [n]
+forms:
+  - text: цце
+    gloss: sg
+  - text: ццел
+    gloss: obl
+definitions:
+  - translation:
+      en: salt
+      ru: соль
+    tags: [food]

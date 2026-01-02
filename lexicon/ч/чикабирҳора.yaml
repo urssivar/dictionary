@@ -1,0 +1,17 @@
+id: XuiPlNFci61nnBKqk4Fs
+headword: чикабирҳора
+ipa: tʃikabirˈxora
+tags: [v, cls, tr]
+forms:
+  - text: чикабиҳора
+    gloss: pfv
+  - text: чикабишур
+    gloss: aor
+  - text: чикабирҳора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cover
+      ru: накрывать
+    aliases:
+      en: [shield, overlay]

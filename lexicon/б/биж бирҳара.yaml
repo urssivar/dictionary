@@ -1,0 +1,17 @@
+id: a2yTbGVSaUI9l4E1MhY6
+headword: биж бирҳара
+ipa: ˌbiʒ birˈxara
+tags: [v, cls, tr, phr]
+forms:
+  - text: биж биҳара
+    gloss: pfv
+  - text: биж бишив
+    gloss: aor
+  - text: биж бирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to insert
+      ru: вкладывать
+    aliases:
+      en: [put, into]

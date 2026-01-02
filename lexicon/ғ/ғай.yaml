@@ -1,0 +1,25 @@
+id: gAtzzrK3zKyrVnxAJFXi
+headword: ғай
+ipa: ˈʁaj
+tags: [n, linguistics]
+note:
+  en: '*ғой*'
+definitions:
+  - translation:
+      en: speech
+      ru: речь
+    aliases:
+      en: [phrase, word, language]
+    examples:
+      - text: ғай дейкку
+        translation:
+          en: no words
+      - text: даць ғай
+        translation:
+          en: verbiage
+      - text: ғайла букьа
+        translation:
+          en: chatterbox
+      - text: явра ғай дарив
+        translation:
+          en: talked too much

@@ -1,0 +1,22 @@
+id: Sw544P27v3e1dtqloJaW
+headword: ччанкка
+ipa: ˈtʃːankːa
+tags: [n]
+note:
+  en: There's also *ччанккуть* "pickle-lover".
+forms:
+  - text: ччанкка
+    gloss: sg
+  - text: ччанккан
+    gloss: obl
+definitions:
+  - translation:
+      en: brine
+      ru: рассол
+    aliases:
+      en: [pickle]
+  - translation:
+      en: oversalted
+      ru: пересоленный
+    aliases:
+      en: [salt]

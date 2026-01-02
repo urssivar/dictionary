@@ -1,0 +1,16 @@
+id: 3YvEr7G7vMFGfVQbiWGJ
+headword: ҡҡиппе
+ipa: ˈqːipːe
+tags: [n]
+forms:
+  - text: ҡҡиппе
+    gloss: sg
+  - text: ҡҡиппин
+    gloss: obl
+  - text: ҡҡиппне
+    gloss: pl
+definitions:
+  - translation:
+      en: watering can
+      ru: лейка
+    tags: [tool]

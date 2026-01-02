@@ -1,0 +1,17 @@
+id: VPE5kBcb6IMjeqT12P4n
+headword: черкуттара
+ipa: tʃerkuˈtːara
+tags: [v, intr, cls]
+forms:
+  - text: черкаберттара
+    gloss: pfv
+  - text: черкаберттив
+    gloss: aor
+  - text: черкуттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be indifferent
+      ru: быть безраличным
+    aliases:
+      en: [apathy]

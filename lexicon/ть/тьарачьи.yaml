@@ -1,0 +1,17 @@
+id: JwLubhdI2OlYgAuZmmvI
+headword: тьарачьи
+ipa: tʼaraˈtʃʼi
+tags: [n]
+forms:
+  - text: тьарачьи
+    gloss: sg
+  - text: тьарачьин
+    gloss: loc, obl
+  - text: тьарачьне
+    gloss: pl
+definitions:
+  - translation:
+      en: plate
+      ru: тарелка
+    aliases:
+      en: [dish]

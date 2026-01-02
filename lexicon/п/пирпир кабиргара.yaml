@@ -1,0 +1,17 @@
+id: Sk3rhuLKT3VYPikY6G6W
+headword: пирпир кабиргара
+ipa: pirˌpir kabirˈgara
+tags: [v, intr, cls]
+forms:
+  - text: пирпир кабигара
+    gloss: pfv
+  - text: пирпир кабижив
+    gloss: aor
+  - text: пирпир кабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to got overcooked
+      ru: перевариться
+    aliases:
+      en: [disintegrate]

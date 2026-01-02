@@ -1,0 +1,16 @@
+id: lC6n8o4XVQPPPO97F1XT
+headword: вяълур
+ipa: væʔˈlur
+tags: [n, loan]
+note:
+  en: '*валле*'
+forms:
+  - text: вяълур
+    gloss: sg
+  - text: вяълурте
+    gloss: pl
+definitions:
+  - translation:
+      en: camel
+      ru: верблюд
+    tags: [animal]

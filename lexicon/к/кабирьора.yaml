@@ -1,0 +1,19 @@
+id: vHJqHIpsojePZVnoJMH3
+headword: кабирьора
+ipa: kabirˈhora
+tags: [v, cls, intr]
+forms:
+  - text: кабиьора
+    gloss: pfv
+  - text: кабиьяв
+    gloss: aor
+  - text: кабирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to engage in
+      ru: заниматься
+    examples:
+      - text: базил киьяв
+        translation:
+          en: engaged in dance

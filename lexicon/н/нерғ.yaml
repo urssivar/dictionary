@@ -1,0 +1,22 @@
+id: rmN7dOQtj4CqVRA7KCkx
+headword: нерғ
+ipa: ˈnerʁ
+tags: [n]
+forms:
+  - text: нерғ
+    gloss: sg
+  - text: нерғи
+    gloss: obl
+  - text: нирғбе
+    gloss: pl
+definitions:
+  - translation:
+      en: soup
+      ru: суп
+    tags: [food]
+  - translation:
+      en: teardrop
+      ru: слеза
+    tags: [body]
+    aliases:
+      en: [cry, weep]

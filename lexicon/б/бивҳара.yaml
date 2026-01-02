@@ -1,0 +1,17 @@
+id: qgJSlNWdCLcrDR2xoUaW
+headword: бивҳара
+ipa: bivˈxara
+tags: [v, cls, intr]
+forms:
+  - text: бевҳара
+    gloss: pfv
+  - text: бевшив
+    gloss: aor
+  - text: бивҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to vanish
+      ru: исчезать
+    aliases:
+      en: [disappear, flee]

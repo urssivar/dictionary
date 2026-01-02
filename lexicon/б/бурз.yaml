@@ -1,0 +1,18 @@
+id: 22MN0wDICCVqcK2f8ilw
+headword: бурз
+ipa: ˈburz
+tags: [n]
+note:
+  en: '*чьяпьярякь*'
+forms:
+  - text: бурз
+    gloss: sg
+  - text: бирзе
+    gloss: pl
+definitions:
+  - translation:
+      en: flatbread
+      ru: лепешка
+    tags: [food]
+    aliases:
+      en: [bread]

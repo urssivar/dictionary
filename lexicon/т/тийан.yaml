@@ -1,0 +1,18 @@
+id: nI6rLxODlgSzY8L6KQRP
+headword: тийан
+ipa: tiˈjan
+tags: [n, loan]
+note:
+  en: '*ашлав*'
+forms:
+  - text: тийан
+    gloss: sg
+  - text: тийанте
+    gloss: pl
+definitions:
+  - translation:
+      en: bathing basin
+      ru: купальный таз
+    tags: [tool]
+    aliases:
+      en: [wash, shower]

@@ -1,0 +1,20 @@
+id: 5J82c6TDPYu3ABpDnuyM
+headword: хуць
+ipa: ˈχutsʼ
+tags: [n]
+note:
+  en: |-
+    *ғицци*, *ғуц*
+    ST2021
+forms:
+  - text: хуць
+    gloss: sg
+  - text: хицье
+    gloss: pl
+definitions:
+  - translation:
+      en: spear
+      ru: копьё
+    tags: [tool]
+    aliases:
+      en: [pike]

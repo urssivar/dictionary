@@ -1,0 +1,16 @@
+id: lzSjorcUcOHZuajpIywQ
+headword: саман
+ipa: saˈman
+tags: [n, loan, turkic]
+forms:
+  - text: саман
+    gloss: sg
+  - text: саманте
+    gloss: pl
+definitions:
+  - translation:
+      en: mudbrick
+      ru: глинянный кирпич
+    tags: [tool]
+    aliases:
+      en: [brick, adobe]

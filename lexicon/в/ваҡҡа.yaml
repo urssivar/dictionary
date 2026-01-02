@@ -1,0 +1,22 @@
+id: PSBlKbMgg0W4ParnR6Mo
+headword: ваҡҡа
+ipa: ˈvaqːa
+tags: [n]
+forms:
+  - text: ваҡҡа
+    gloss: sg
+  - text: ваҡҡан
+    gloss: obl, loc
+  - text: виҡҡре
+    gloss: pl
+definitions:
+  - translation:
+      en: container
+      ru: ёмкость
+    tags: [tool]
+    aliases:
+      en: [reservoir, tank]
+  - translation:
+      en: skull
+      ru: череп
+    tags: [body]

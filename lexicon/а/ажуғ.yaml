@@ -1,0 +1,17 @@
+id: ayAvsnGDXxUm7wsUUnf3
+headword: ажуғ
+ipa: aˈʒuʁ
+tags: [n, loan, turkic]
+etymology:
+  en: From Azerbaijani *acıq* "spite".
+forms:
+  - text: ажуғ
+    gloss: sg
+  - text: ажуғе
+    gloss: pl
+definitions:
+  - translation:
+      en: spite
+      ru: злоба
+    aliases:
+      en: [hate, rancor, malice]

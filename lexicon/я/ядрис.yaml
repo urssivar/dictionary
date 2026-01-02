@@ -1,0 +1,13 @@
+id: n3BULgpZUIut1lVAp5jS
+headword: ядрис
+ipa: ædˈris
+tags: [n, loan, russian]
+forms:
+  - text: ядрис
+    gloss: sg
+  - text: ядрисе
+    gloss: pl
+definitions:
+  - translation:
+      en: address
+      ru: адрес

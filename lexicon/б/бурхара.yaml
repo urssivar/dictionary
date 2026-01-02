@@ -1,0 +1,21 @@
+id: 5MxJDdKYpucjXnb4tetw
+headword: бурхара
+ipa: burˈχara
+tags: [v, intr, cls]
+forms:
+  - text: берхора
+    gloss: pfv
+  - text: берхур
+    gloss: aor
+  - text: бурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be realized
+      ru: реализовываться
+    aliases:
+      en: [fulfill]
+    examples:
+      - text: сукке дирцанте дерхур
+        translation:
+          en: all that i was selling was sold

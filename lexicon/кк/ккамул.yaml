@@ -1,0 +1,18 @@
+id: XfKcP8ucuxPKfkXKEk2B
+headword: ккамул
+ipa: kːaˈmul
+tags: [n]
+forms:
+  - text: ккамул
+    gloss: sg
+  - text: ккалме
+    gloss: obl
+  - text: ккилме
+    gloss: pl
+definitions:
+  - translation:
+      en: toe
+      ru: палец ноги
+    tags: [body]
+    aliases:
+      en: [finger]

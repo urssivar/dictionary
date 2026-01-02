@@ -1,0 +1,17 @@
+id: OMWdkXrFKXWKSrNR3T9V
+headword: луккана
+ipa: luˈkːana
+tags: [v, tr, cls]
+forms:
+  - text: беккара
+    gloss: pfv
+  - text: беччив
+    gloss: aor
+  - text: луккана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to give
+      ru: давать
+    aliases:
+      en: [provide]

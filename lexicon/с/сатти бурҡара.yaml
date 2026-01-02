@@ -1,0 +1,17 @@
+id: H2rrq4wn0JQkH0hxbuFT
+headword: сатти бурҡара
+ipa: saˌtːi burˈqara
+tags: [v, tr, phr, cls]
+forms:
+  - text: сатти бяҡара
+    gloss: pfv
+  - text: сатти бяҡив
+    gloss: aor
+  - text: сатти бурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to drive
+      ru: погонять
+    aliases:
+      en: [move, command]

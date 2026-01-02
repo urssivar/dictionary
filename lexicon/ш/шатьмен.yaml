@@ -1,0 +1,15 @@
+id: xtVXNbwCI9E76R81N0t2
+headword: шатьмен
+ipa: ʃatʼˈmen
+tags: [n]
+forms:
+  - text: шатьмен
+    gloss: sg
+  - text: шатьменте
+    gloss: pl
+definitions:
+  - translation:
+      en: messenger
+      ru: вестник
+    aliases:
+      en: [herald, ambassador]

@@ -1,0 +1,15 @@
+id: FRVImQWGrWQojNrG89pS
+headword: хать
+ipa: ˈχatʼ
+tags: [n, loan, arabic]
+forms:
+  - text: хать
+    gloss: sg
+  - text: хатьре
+    gloss: pl
+definitions:
+  - translation:
+      en: handwriting
+      ru: почерк
+    aliases:
+      en: [script]

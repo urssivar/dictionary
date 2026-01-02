@@ -1,0 +1,16 @@
+id: 6CrYxqYiua87etI6tgB7
+headword: авттамат
+ipa: avtːaˈmat
+tags: [n, loan, russian]
+forms:
+  - text: авттамат
+    gloss: sg
+  - text: авттамате
+    gloss: pl
+definitions:
+  - translation:
+      en: assault rifle
+      ru: автомат
+    tags: [tool, warfare]
+    aliases:
+      en: [gun]

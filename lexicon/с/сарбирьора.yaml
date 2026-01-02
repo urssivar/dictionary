@@ -1,0 +1,17 @@
+id: oCHqyaA4aHwpcmSILQnG
+headword: сарбирьора
+ipa: sarbirˈhora
+tags: [v, intr, cls]
+forms:
+  - text: сарбиьора
+    gloss: pfv
+  - text: сарбиьяв
+    gloss: aor
+  - text: сарбирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to run away
+      ru: убегать
+    aliases:
+      en: [escape, flee]

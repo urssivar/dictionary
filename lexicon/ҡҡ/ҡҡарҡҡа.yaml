@@ -1,0 +1,18 @@
+id: s7NzYIgd1x2FAr56dCKw
+headword: ҡҡарҡҡа
+ipa: ˈqːarqːa
+tags: [n]
+forms:
+  - text: ҡҡарҡҡа
+    gloss: sg
+  - text: ҡҡарҡҡун
+    gloss: obl
+  - text: ҡҡирҡкне
+    gloss: pl
+definitions:
+  - translation:
+      en: stone
+      ru: камень
+    tags: [nature]
+    aliases:
+      en: [rock]

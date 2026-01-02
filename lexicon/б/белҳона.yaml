@@ -1,0 +1,17 @@
+id: uTT4ZsEcU73Bpz1dsOLF
+headword: белҳона
+ipa: belˈxona
+tags: [v, tr, cls]
+forms:
+  - text: беҳона
+    gloss: pfv
+  - text: беҳун
+    gloss: aor
+  - text: белҳона
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sow
+      ru: сеять
+    aliases:
+      en: [plant]

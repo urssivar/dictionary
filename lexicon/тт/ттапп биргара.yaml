@@ -1,0 +1,15 @@
+id: QkHN62tPMoMxwYf9FFFx
+headword: ттапп биргара
+ipa: ˌtːapː birˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: ттапп бигара
+    gloss: pfv
+  - text: ттапп бижив
+    gloss: aor
+  - text: ттапп биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to explode
+      ru: взрываться

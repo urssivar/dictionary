@@ -1,0 +1,17 @@
+id: hUMNlPI3XBoyQOTfZTTA
+headword: яҡьлу
+ipa: ˈæqʼlu
+tags: [n, loan, arabic]
+forms:
+  - text: яҡьлу
+    gloss: sg
+  - text: яҡьлул
+    gloss: obl
+  - text: яҡьлуме
+    gloss: pl
+definitions:
+  - translation:
+      en: intelligence
+      ru: разум
+    aliases:
+      en: [mind, reason]

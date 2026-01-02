@@ -1,0 +1,17 @@
+id: iZ8xQKvycRLzbiEKIASA
+headword: ҡар бурҡара
+ipa: ˌqar burˈqara
+tags: [v, lbl, phr, cls]
+forms:
+  - text: ҡар бяҡара
+    gloss: pfv
+  - text: ҡар бяҡив
+    gloss: aor
+  - text: ҡар бурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to recline
+      ru: облокачивать
+    aliases:
+      en: [lean, lie, put, place]

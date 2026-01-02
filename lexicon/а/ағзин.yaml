@@ -1,0 +1,16 @@
+id: bKHLLcwOMgCTBL9w95gf
+headword: ағзин
+ipa: aʁˈzin
+tags: [n, loan]
+forms:
+  - text: ағзин
+    gloss: abs
+  - text: ағзинте
+    gloss: pl
+definitions:
+  - translation:
+      en: idler
+      ru: бездельник
+    tags: [social]
+    aliases:
+      en: [quitter]

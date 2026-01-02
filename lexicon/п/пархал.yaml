@@ -1,0 +1,20 @@
+id: 3es5Ck3T3eyExEuj7QNa
+headword: пархал
+ipa: parˈχal
+tags: [n]
+note:
+  en: '*парху*'
+forms:
+  - text: пархал
+    gloss: sg
+  - text: пархле
+    gloss: obl
+  - text: пархлиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: hessian
+      ru: циновка
+    tags: [textile]
+    aliases:
+      en: [mat, matting, burlap, crocus]

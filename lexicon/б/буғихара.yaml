@@ -1,0 +1,17 @@
+id: CQG5QeQpNjPO2IheCoT4
+headword: буғихара
+ipa: buʁiˈχara
+tags: [v, cls, tr]
+forms:
+  - text: бярғяхара
+    gloss: pfv
+  - text: бярғяхур
+    gloss: aor
+  - text: буғихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dry
+      ru: сушить
+    aliases:
+      en: [drain, air]

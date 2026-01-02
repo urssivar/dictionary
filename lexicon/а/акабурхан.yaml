@@ -1,0 +1,21 @@
+id: I1CQfM84ng73Jiqhu6qy
+headword: акабурхан
+ipa: akaburˈχan
+tags: [adj, nmlz, cls]
+etymology:
+  en: Neg. obl. of *кабурхара* in the sense "to complete".
+forms:
+  - text: акабурхан
+    gloss: adj
+  - text: акабурхул
+    gloss: adv
+definitions:
+  - translation:
+      en: unending
+      ru: нескончаемый
+    aliases:
+      en: [endless]
+    examples:
+      - text: акабурхан яче
+        translation:
+          en: unending work

@@ -1,0 +1,17 @@
+id: Nn4gM24T4cLx8y081fSv
+headword: черцабирара
+ipa: tʃertsabiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: черцабарара
+    gloss: pfv
+  - text: черцабарив
+    gloss: aor
+  - text: черцабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to return
+      ru: возвращать
+    aliases:
+      en: [give, back]

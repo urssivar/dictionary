@@ -1,0 +1,16 @@
+id: 9Vnk2imqJlWZKgESDrdY
+headword: тушлуҡҡ
+ipa: tuʃˈluqː
+tags: [n, loan, turkic]
+forms:
+  - text: тушлуҡҡ
+    gloss: sg
+  - text: тушлуҡҡе
+    gloss: pl
+definitions:
+  - translation:
+      en: quilted jacket
+      ru: телогрейка
+    tags: [clothing]
+    aliases:
+      en: [hoodie]

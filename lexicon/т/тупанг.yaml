@@ -1,0 +1,16 @@
+id: Rxrxu4SoJHwCf35o4GqO
+headword: тупанг
+ipa: tuˈpang
+tags: [n, loan]
+forms:
+  - text: тупанг
+    gloss: sg
+  - text: тупанге
+    gloss: pl
+definitions:
+  - translation:
+      en: rifle
+      ru: ружьё
+    tags: [tool]
+    aliases:
+      en: [gun]

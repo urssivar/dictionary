@@ -1,0 +1,19 @@
+id: gl5afi05rWKhUGYcdPNy
+headword: лаш бурҡара
+ipa: ˌlaʃ burˈqara
+tags: [v, intr, cls]
+note:
+  en: '*лас бурҡара*, *лус биргара*'
+forms:
+  - text: лаш бяҡара
+    gloss: pfv
+  - text: лаш бяҡив
+    gloss: aor
+  - text: лаш бурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to glance
+      ru: глядеть
+    aliases:
+      en: [look, sight, see]

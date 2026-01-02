@@ -1,0 +1,22 @@
+id: EqWeZNQyFjRPFaFu2HLo
+headword: яив
+ipa: æˈiv
+tags: [n, loan, arabic]
+forms:
+  - text: яив
+    gloss: sg
+  - text: яивте
+    gloss: pl
+definitions:
+  - translation:
+      en: blame
+      ru: порицание
+    aliases:
+      en: [guilt]
+    examples:
+      - text: яив мабиратте дами
+        translation:
+          en: don't blame me
+      - text: яив де
+        translation:
+          en: it was a pity

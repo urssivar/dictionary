@@ -1,0 +1,16 @@
+id: C1KhLBjf4KX424ep4A8Y
+headword: шире
+ipa: ˈʃire
+tags: [n]
+forms:
+  - text: шире
+    gloss: sg
+  - text: ширин
+    gloss: obl
+definitions:
+  - translation:
+      en: helminth
+      ru: глист
+    tags: [nature, animal, insect]
+    aliases:
+      en: [parasite, worm]

@@ -1,0 +1,16 @@
+id: 93k9l8pUfIaGlhnr4Ot7
+headword: аттабаш
+ipa: atːaˈbaʃ
+tags: [n]
+note:
+  en: ST2008
+forms:
+  - text: аттабаш
+    gloss: sg
+  - text: аттабаше
+    gloss: pl
+definitions:
+  - translation:
+      en: cricket
+      ru: сверчок
+    tags: [animal, insect]

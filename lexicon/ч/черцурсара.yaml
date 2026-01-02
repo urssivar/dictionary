@@ -1,0 +1,20 @@
+id: yB2vbK6UevYId18YHNIU
+headword: черцурсара
+ipa: tʃertsurˈsara
+tags: [v, tr]
+forms:
+  - text: черцасара
+    gloss: pfv
+  - text: черцасив
+    gloss: aor
+  - text: черцурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to take away
+      ru: отбирать
+  - translation:
+      en: to skim
+      ru: снимать сверху
+    aliases:
+      en: [separate, take]

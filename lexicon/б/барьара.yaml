@@ -1,0 +1,22 @@
+id: MuCHGh5pKeBDWjCK7b7j
+headword: барьара
+ipa: barˈhara
+tags: [v, cls, tr]
+forms:
+  - text: баьара
+    gloss: pfv
+  - text: баьур
+    gloss: aor
+  - text: барьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to know
+      ru: знать
+    aliases:
+      en: [learn]
+  - translation:
+      en: to recognise
+      ru: узнавать
+    aliases:
+      en: [see]

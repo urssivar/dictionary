@@ -1,0 +1,17 @@
+id: R0mJ2BeVWCLsunAb14X5
+headword: черцабильана
+ipa: tʃertsabilˈhana
+tags: [v, cls, tr]
+forms:
+  - text: черцабиьана
+    gloss: pfv
+  - text: черцабиьун
+    gloss: aor
+  - text: черцабильана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to unfasten
+      ru: отвязывать
+    aliases:
+      en: [loose, undo]

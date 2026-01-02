@@ -1,0 +1,16 @@
+id: kLNIZWuzurSaPvJZYzzi
+headword: шукру
+ipa: ˈʃukru
+tags: [n, loan, arabic]
+definitions:
+  - note:
+      en: Specifically to God.
+    translation:
+      en: gratitude
+      ru: благодарность (Богу)
+    aliases:
+      en: [praise]
+    examples:
+      - text: аллаьцци шукру
+        translation:
+          en: thank god

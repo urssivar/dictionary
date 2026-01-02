@@ -1,0 +1,21 @@
+id: bOKlTk9BQmHW8kCdkBS7
+headword: киҡара
+ipa: kiˈqara
+tags: [v, tr]
+forms:
+  - text: каҡара
+    gloss: pfv
+  - text: каҡив
+    gloss: aor
+  - text: киҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to live through
+      ru: переживать, преодолевать
+    aliases:
+      en: [get, over, have, feel, experience, survive]
+    examples:
+      - text: хула иццала каҡив
+        translation:
+          en: he lived through a serious disease

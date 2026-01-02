@@ -1,0 +1,31 @@
+id: pGY8txvzT1IOXOMeffMq
+headword: баъ
+ipa: ˈbaʔ
+tags: [n]
+forms:
+  - text: баъ
+    gloss: sg
+  - text: биъре
+    gloss: pl
+definitions:
+  - translation:
+      en: edge
+      ru: край
+    aliases:
+      en: [rim]
+    examples:
+      - text: баъне кижил ви
+        translation:
+          en: he's eager to
+  - translation:
+      en: opportunity
+      ru: возможность
+    aliases:
+      en: [chance]
+    examples:
+      - text: баъ бугун дила
+        translation:
+          en: i'm at despair
+      - text: баъ ра даг дуцил
+        translation:
+          en: trying his best

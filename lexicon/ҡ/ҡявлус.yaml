@@ -1,0 +1,21 @@
+id: nVeXnyJ4QTfyQiEi6pZT
+headword: ҡявлус
+ipa: qævˈlus
+tags: [n, nmlz]
+etymology:
+  en: Lit. *neck-turn*.
+forms:
+  - text: ҡявлус
+    gloss: sg
+  - text: ҡявлусе
+    gloss: pl
+definitions:
+  - translation:
+      en: hug
+      ru: объятие
+    aliases:
+      en: [embrace]
+    examples:
+      - text: цинна рицций ҡявлус вичив
+        translation:
+          en: hugged her sister

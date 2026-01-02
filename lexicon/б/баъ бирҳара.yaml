@@ -1,0 +1,21 @@
+id: DNvL81TWhhCqdCGxiEAP
+headword: баъ бирҳара
+ipa: ˌbaʔ birˈxːara
+tags: [v, phr, intr, cls]
+forms:
+  - text: баъ биҳара
+    gloss: pfv
+  - text: баъ бишив
+    gloss: aor
+  - text: баъ бирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to proceed
+      ru: приступать
+    aliases:
+      en: [start, begin]
+    examples:
+      - text: улчьана раъ ришив
+        translation:
+          en: she started studying

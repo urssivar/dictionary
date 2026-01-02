@@ -1,0 +1,16 @@
+id: 1FhcvwKDDeE4TLwsFOE3
+headword: читтинег
+ipa: tʃitːiˈneg
+tags: [n]
+note:
+  en: '*бурт*'
+forms:
+  - text: читтинег
+    gloss: sg
+  - text: читтинигбе
+    gloss: pl
+definitions:
+  - translation:
+      en: sour cream
+      ru: сметана
+    tags: [food]

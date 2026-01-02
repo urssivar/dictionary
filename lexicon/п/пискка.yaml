@@ -1,0 +1,16 @@
+id: tpU308gbDRCfWO3rl4Mg
+headword: пискка
+ipa: ˈpiskːa
+tags: [n]
+forms:
+  - text: пискка
+    gloss: sg
+  - text: писккан
+    gloss: obl
+  - text: писккне
+    gloss: pl
+definitions:
+  - translation:
+      en: blade
+      ru: лезвие
+    tags: [tool]

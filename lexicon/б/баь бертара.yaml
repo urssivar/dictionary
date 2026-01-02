@@ -1,0 +1,17 @@
+id: W8VyLV3LdqTqWGUp11TN
+headword: баь бертара
+ipa: ˌbah berˈtara
+tags: [v, cls, lbl, phr]
+forms:
+  - text: баь бетара
+    gloss: pfv
+  - text: баь бетур
+    gloss: aor
+  - text: баь бертара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to undress
+      ru: раздеваться
+    aliases:
+      en: [take, 'off']

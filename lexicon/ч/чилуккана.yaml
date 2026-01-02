@@ -1,0 +1,23 @@
+id: qlO7ooGxKw0b6gY9x80d
+headword: чилуккана
+ipa: tʃiluˈkːana
+tags: [v, tr, cls]
+forms:
+  - text: чибеккара
+    gloss: pfv
+  - text: чибеччив
+    gloss: aor
+  - text: чилуккана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to give away
+      ru: выдавать
+    tags: []
+    aliases:
+      en: [betray]
+  - translation:
+      en: to ask to do
+      ru: задавать работу
+    aliases:
+      en: [comission, order]

@@ -1,0 +1,19 @@
+id: MDiRSMeE2y156Q46T583
+headword: чарра
+ipa: ˈtʃarra
+tags: [pro]
+etymology:
+  en: From *ча* "who" + concessive *ра*. The middle *р* is unclear and disappears in declension.
+forms:
+  - text: чарра
+    gloss: nom
+  - text: чи-ра
+    gloss: obl
+definitions:
+  - translation:
+      en: nobody
+      ru: никто
+    examples:
+      - text: чицци-ра абурсив
+        translation:
+          en: didn't tell anyone.

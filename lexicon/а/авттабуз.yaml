@@ -1,0 +1,14 @@
+id: urzTlTKd9jJMctRMhWyU
+headword: авттабуз
+ipa: avtːaˈbuz
+tags: [n, loan, russian]
+forms:
+  - text: авттабуз
+    gloss: sg
+  - text: авттабузе
+    gloss: pl
+definitions:
+  - translation:
+      en: bus
+      ru: автобус
+    tags: [tool]

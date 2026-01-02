@@ -1,0 +1,17 @@
+id: addNOW0RD8rudNSOXf3y
+headword: ьиҡара
+ipa: hiˈqara
+tags: [v, intr]
+forms:
+  - text: ьаҡара
+    gloss: pfv
+  - text: ьаҡив
+    gloss: aor
+  - text: ьиҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be enough
+      ru: хватать
+    aliases:
+      en: [suffice]

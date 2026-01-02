@@ -1,0 +1,17 @@
+id: NDFj35bR7vKcsaBfVW5g
+headword: ттура урғара
+ipa: tːuˌra urˈʁara
+tags: [v, tr, phr]
+forms:
+  - text: ттура ағара
+    gloss: pfv
+  - text: ттура ағив
+    gloss: aor
+  - text: ттура урғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to publish
+      ru: издавать
+    aliases:
+      en: [derive, release]

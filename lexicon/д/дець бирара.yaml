@@ -1,0 +1,17 @@
+id: ViN2t9DqXV8XuEJCxPxL
+headword: дець бирара
+ipa: ˌdetsʼ biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: дець барара
+    gloss: pfv
+  - text: дець барив
+    gloss: aor
+  - text: дець бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to singe
+      ru: подпаливать
+    aliases:
+      en: [sear, burn]

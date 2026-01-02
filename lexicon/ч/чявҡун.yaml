@@ -1,0 +1,16 @@
+id: LN5Mf3CXk0wDa95hhbLM
+headword: чявҡун
+ipa: tʃævˈqun
+tags: [n, loan, turkic]
+forms:
+  - text: чявҡун
+    gloss: sg
+  - text: чявҡунте
+    gloss: pl
+definitions:
+  - translation:
+      en: raid
+      ru: набег
+    tags: [warfare]
+    aliases:
+      en: [attack]

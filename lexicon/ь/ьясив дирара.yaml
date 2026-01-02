@@ -1,0 +1,17 @@
+id: NrGx2n4NTRvejQnKK6re
+headword: ьясив дирара
+ipa: hæˌsiv diˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: ьясив барара
+    gloss: pfv
+  - text: ьясив барив
+    gloss: aor
+  - text: ьясив бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to try
+      ru: пробовать
+    aliases:
+      en: [check]

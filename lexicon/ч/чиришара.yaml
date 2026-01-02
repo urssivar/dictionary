@@ -1,0 +1,17 @@
+id: 7c9pfyLzec9ppJ4bXHVI
+headword: чиришара
+ipa: tʃeriˈʃara
+tags: [v, cls, tr]
+forms:
+  - text: чербиршара
+    gloss: pfv
+  - text: чербиршив
+    gloss: aor
+  - text: черишара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to erase
+      ru: стирать
+    aliases:
+      en: [wipe, out]

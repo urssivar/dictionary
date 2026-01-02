@@ -1,0 +1,17 @@
+id: AGIXgpwGwogthixY9VW3
+headword: ьереғ биркара
+ipa: heˌreʁ birˈkara
+tags: [v, intr, cls, phr]
+forms:
+  - text: ьереғ бикара
+    gloss: pfv
+  - text: ьереғ бичив
+    gloss: aor
+  - text: ьереғ биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cling
+      ru: цепляться
+    aliases:
+      en: [attach, carry, stick]

@@ -1,0 +1,17 @@
+id: yQDhzCStJLC7ms6HLJeV
+headword: курзара
+ipa: kurˈzara
+tags: [v, tr]
+forms:
+  - text: керзара
+    gloss: pfv
+  - text: керзив
+    gloss: aor
+  - text: курзара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to filter
+      ru: фильтровать
+    aliases:
+      en: [clean]

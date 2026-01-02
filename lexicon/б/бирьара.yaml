@@ -1,0 +1,17 @@
+id: nDXCKzxW0EtYkfXiLvJm
+headword: бирьара
+ipa: birˈhara
+tags: [v, tr, cls]
+forms:
+  - text: берьара
+    gloss: pfv
+  - text: берьив
+    gloss: aor
+  - text: бирьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to strike
+      ru: ударять
+    aliases:
+      en: [hit]

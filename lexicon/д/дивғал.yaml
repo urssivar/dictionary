@@ -1,0 +1,37 @@
+id: cBld0Y99Oxuc86vkAapx
+headword: дивғал
+ipa: ˈdivʁal
+tags: [n]
+etymology:
+  en: From *див* "word" + *ғола* "tribute" (ST2007).
+forms:
+  - text: дивғал
+    gloss: sg
+  - text: дивғле
+    gloss: obl
+  - text: дивғлуме
+    gloss: pl
+definitions:
+  - note:
+      en: Islamic prayer
+    translation:
+      en: salah
+      ru: намаз
+    aliases:
+      en: [prayer]
+    examples:
+      - text: ьабиграла дивғал
+        translation:
+          en: fajr prayer
+      - text: дажела дивғал
+        translation:
+          en: dhuhr prayer
+      - text: холаниснала дивғал
+        translation:
+          en: asr prayer
+      - text: ғерала дивғал
+        translation:
+          en: maghrib prayer
+      - text: кабиснала дивғал
+        translation:
+          en: isha prayer

@@ -1,0 +1,14 @@
+id: 5TFiDJkj397TIt554vqv
+headword: яртис
+ipa: ærˈtis
+tags: [n, loan, russian]
+forms:
+  - text: яртис
+    gloss: sg
+  - text: яртисе
+    gloss: pl
+definitions:
+  - translation:
+      en: actor
+      ru: актёр
+    tags: [occupation]

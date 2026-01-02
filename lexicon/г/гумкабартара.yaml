@@ -1,0 +1,17 @@
+id: tjAr3DsPDTHMGjy3X8TD
+headword: гумкабартара
+ipa: gumkabarˈtara
+tags: [v, tr, cls]
+forms:
+  - text: гумкабатара
+    gloss: pfv
+  - text: гумкабатур
+    gloss: aor
+  - text: гумкабартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to bury
+      ru: закапывать, хоронить
+    aliases:
+      en: [earth]

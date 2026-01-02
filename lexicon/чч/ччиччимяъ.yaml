@@ -1,0 +1,18 @@
+id: FBR6ovIUnhoJG8RO9pUI
+headword: ччиччимяъ
+ipa: tʃːitʃːiˈmæʔ
+tags: [n]
+note:
+  en: '*ччуччумять*'
+forms:
+  - text: ччиччимяъ
+    gloss: sg
+  - text: ччиччимяъре
+    gloss: pl
+definitions:
+  - translation:
+      en: seashell
+      ru: ракушка
+    tags: [nature]
+    aliases:
+      en: [shell]

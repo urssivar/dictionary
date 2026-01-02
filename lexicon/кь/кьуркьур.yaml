@@ -1,0 +1,14 @@
+id: BVD60e1k7Kw9f7CNGzA2
+headword: кьуркьур
+ipa: kʼurˈkʼur
+tags: [n]
+forms:
+  - text: кьуркьур
+    gloss: sg
+  - text: кьуркьурме
+    gloss: pl
+definitions:
+  - translation:
+      en: turkey
+      ru: индейка
+    tags: [animal, bird]

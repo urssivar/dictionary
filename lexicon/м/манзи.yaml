@@ -1,0 +1,16 @@
+id: X8AuaGVg82LHRqnkaRzl
+headword: манзи
+ipa: manˈzi
+tags: [n, loan, arabic]
+forms:
+  - text: манзи
+    gloss: sg
+  - text: манзил
+    gloss: obl
+  - text: манзилте
+    gloss: pl
+definitions:
+  - translation:
+      en: period
+      ru: период
+    tags: [time]

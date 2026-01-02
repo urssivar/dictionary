@@ -1,0 +1,15 @@
+id: y9pLoiOxjQsXCMR48RIe
+headword: ттура цяна
+ipa: tːuˌra tsæˈna
+tags: [v, intr, cls, phr]
+forms:
+  - text: ттура цяна
+    gloss: pfv
+  - text: ттура цябун
+    gloss: aor
+  - text: ттура цянне
+    gloss: prog
+definitions:
+  - translation:
+      en: to exit
+      ru: выходить

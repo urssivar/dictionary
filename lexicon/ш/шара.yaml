@@ -1,0 +1,24 @@
+id: OVfHN2JiS5WrKX9QpOdH
+headword: шара
+ipa: ˈʃara
+tags: [n]
+forms:
+  - text: шара
+    gloss: sg
+  - text: шаран
+    gloss: obl, loc
+  - text: ширбе
+    gloss: pl
+definitions:
+  - translation:
+      en: puddle
+      ru: лужа
+    tags: [nature]
+    aliases:
+      en: [water]
+  - translation:
+      en: lake
+      ru: озеро
+    tags: [nature]
+    aliases:
+      en: [pond]

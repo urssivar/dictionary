@@ -1,0 +1,17 @@
+id: F7zRD9aOoXYaL3EoPLie
+headword: ьиҡҡора
+ipa: hiˈqːora
+tags: [v, tr, cls]
+forms:
+  - text: ьабирҡҡора
+    gloss: pfv
+  - text: ьабирҡҡур
+    gloss: aor
+  - text: ьиҡҡора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to excavate
+      ru: выкапывать
+    aliases:
+      en: [dig]

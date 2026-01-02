@@ -1,0 +1,22 @@
+id: QPI55U6SWSkpYHW1C4ve
+headword: ҡям бирара
+ipa: ˌqæm biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: ҡям барара
+    gloss: pfv
+  - text: ҡям барив
+    gloss: aor
+  - text: ҡям бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to capture
+      ru: захватывать
+    aliases:
+      en: [seize, take]
+  - translation:
+      en: to buy up
+      ru: раскупать
+    aliases:
+      en: [exhaust]

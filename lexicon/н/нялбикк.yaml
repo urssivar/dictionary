@@ -1,0 +1,19 @@
+id: H0E673nP7UZ3FHx5q2CF
+headword: нялбикк
+ipa: nælˈbikː
+tags: [n, loan, turkic]
+note:
+  en: '*чяйла сукра*, *бицьнуҳ*, *бушҡҡап*'
+forms:
+  - text: нялбикк
+    gloss: sg
+  - text: нялбиккан
+    gloss: loc
+  - text: нялбикке
+    gloss: pl
+definitions:
+  - translation:
+      en: saucer
+      ru: блюдце
+    aliases:
+      en: [plate]

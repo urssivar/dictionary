@@ -1,0 +1,34 @@
+id: BsHFwksxWMe8tJCkJzqT
+headword: цара
+ipa: tsaˈra
+tags: [pro]
+etymology:
+  en: From *ца* "one" + *ра* "too".
+definitions:
+  - translation:
+      en: more
+      ru: ещё
+    aliases:
+      en: [additional]
+    examples:
+      - text: цара кадара
+        translation:
+          en: put some more
+      - text: цара шин дел у?
+        translation:
+          en: is there any more water left?
+  - translation:
+      en: else
+      ru: иной
+    aliases:
+      en: [another]
+    examples:
+      - text: цара биккан би у?
+        translation:
+          en: is there anything else you want?
+      - text: царай бекка
+        translation:
+          en: give to someone else
+      - text: ирғул аваал цара гон бурса
+        translation:
+          en: if he doesn't understand tell differently

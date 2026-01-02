@@ -1,0 +1,21 @@
+id: hLr75FABT9yLlACM1xde
+headword: тяял
+ipa: ˈtææl
+tags: [adv, loan, arabic]
+etymology:
+  en: Adv. of *тяяр* "way".
+note:
+  en: '*тяьялла*'
+definitions:
+  - translation:
+      en: as
+      ru: как
+    aliases:
+      en: [like]
+    examples:
+      - text: ди тяял дате
+        translation:
+          en: leave as is
+      - text: аттал иран тяял бара
+        translation:
+          en: do as father says

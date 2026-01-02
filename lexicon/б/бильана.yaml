@@ -1,0 +1,15 @@
+id: IV1XuIUG6TkRiGWESMJx
+headword: бильана
+ipa: bilˈhana
+tags: [v, tr, cls]
+forms:
+  - text: биьана
+    gloss: pfv
+  - text: биьун
+    gloss: aor
+  - text: бильана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tie
+      ru: завязывать

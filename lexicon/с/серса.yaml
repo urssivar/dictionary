@@ -1,0 +1,14 @@
+id: haITg1Ejx4Yo6QBTAhyA
+headword: серса
+ipa: ˈsersa
+tags: [n]
+forms:
+  - text: серса
+    gloss: sg
+  - text: серсме
+    gloss: pl
+definitions:
+  - translation:
+      en: grouse
+      ru: тетерев
+    tags: [animal, bird]

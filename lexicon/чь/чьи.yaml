@@ -1,0 +1,16 @@
+id: hQhbMguEO3KKZt8ZtswF
+headword: чьи
+ipa: ˈtʃʼi
+tags: [n]
+forms:
+  - text: чьи
+    gloss: sg
+  - text: чьил
+    gloss: obl
+  - text: чьиме
+    gloss: pl
+definitions:
+  - translation:
+      en: round board
+      ru: круглая доска
+    tags: [tool]

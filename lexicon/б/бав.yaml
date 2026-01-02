@@ -1,0 +1,14 @@
+id: RNziwrStSSlA1bP6YWcm
+headword: бав
+ipa: ˈbav
+tags: [n]
+note:
+  en: '*барбар*'
+definitions:
+  - translation:
+      en: impulse
+      ru: импульс
+    examples:
+      - text: бав барара
+        translation:
+          en: to launch

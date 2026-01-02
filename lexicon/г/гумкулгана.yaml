@@ -1,0 +1,17 @@
+id: d3DFrihpQk4OABHKM23F
+headword: гумкулгана
+ipa: gumkulˈgana
+tags: [v, tr]
+forms:
+  - text: гумкалгана
+    gloss: pfv
+  - text: гумкалгун
+    gloss: aor
+  - text: гумкулгана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to concede
+      ru: уступать, проигрывать
+    aliases:
+      en: [lose, admit]

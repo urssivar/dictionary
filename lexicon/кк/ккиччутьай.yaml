@@ -1,0 +1,18 @@
+id: WAdpVaLK5AVTAjmdzrzw
+headword: ккиччутьай
+ipa: kːitʃːuˈtʼaj
+tags: [n]
+note:
+  en: '*ккиччба*'
+forms:
+  - text: ккиччутьай
+    gloss: sg
+  - text: ккиччутьне
+    gloss: pl
+definitions:
+  - translation:
+      en: goatling male
+      ru: козлёнок
+    tags: [animal]
+    aliases:
+      en: [kid]

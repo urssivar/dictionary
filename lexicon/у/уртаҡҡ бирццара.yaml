@@ -1,0 +1,21 @@
+id: KOXBd1OqA0HQUMh2nqbm
+headword: уртаҡҡ бирццара
+ipa: urˌtaqː birˈtsːara
+tags: [v, cls, intr]
+forms:
+  - text: уртаҡҡ биццара
+    gloss: pfv
+  - text: уртаҡҡ биццур
+    gloss: aor
+  - text: уртаҡҡ бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to make friends
+      ru: подружиться
+    aliases:
+      en: [befriend]
+    examples:
+      - text: ду ьелецци уртаҡҡ виццурда
+        translation:
+          en: i made friends with him

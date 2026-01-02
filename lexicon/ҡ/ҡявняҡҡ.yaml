@@ -1,0 +1,20 @@
+id: mPJFmxr2BYPFzzc5nMm5
+headword: ҡявняҡҡ
+ipa: qævˈnæqː
+tags: [n]
+etymology:
+  en: Lit. "neck-hand".
+forms:
+  - text: ҡявняҡҡ
+    gloss: sg
+  - text: ҡявняҡҡу
+    gloss: obl
+  - text: ҡявняҡҡбе
+    gloss: pl
+definitions:
+  - translation:
+      en: wrist
+      ru: запястье
+    tags: [body]
+    aliases:
+      en: [hand]

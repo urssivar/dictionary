@@ -1,0 +1,21 @@
+id: FMBiEASv405UUytzcMdd
+headword: кабурҡара
+ipa: kaburˈqara
+tags: [v]
+forms:
+  - text: кабяҡара
+    gloss: pfv
+  - text: кабяҡив
+    gloss: pret
+  - text: кабурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hammer
+      ru: забивать
+    aliases:
+      en: [nail]
+    examples:
+      - text: ғялме кадяҡив
+        translation:
+          en: hammered the nails

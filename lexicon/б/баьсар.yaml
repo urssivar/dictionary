@@ -1,0 +1,18 @@
+id: GpUDNopFVwq5sxCWIH0w
+headword: баьсар
+ipa: ˈbahsar
+tags: [adv]
+etymology:
+  en: '*баь* "the most" + *сар* "before"'
+note:
+  en: '*басар*'
+definitions:
+  - translation:
+      en: initially
+      ru: сперва
+    aliases:
+      en: [first]
+    examples:
+      - text: баьсар ьеж бара
+        translation:
+          en: first do this

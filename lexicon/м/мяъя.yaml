@@ -1,0 +1,18 @@
+id: NdfalpEmSE44AgNoa8Ud
+headword: мяъя
+ipa: ˈmæʔæ
+tags: [n]
+note:
+  en: '*мяҡья*, *миҡьвяҡьвя*'
+forms:
+  - text: мяъя
+    gloss: sg
+  - text: мяъян
+    gloss: obl
+  - text: милъя
+    gloss: pl
+definitions:
+  - translation:
+      en: egg
+      ru: яйцо
+    tags: [food]

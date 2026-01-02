@@ -1,0 +1,17 @@
+id: NkYXidq0QmkYvriI982m
+headword: ҡҡуцц бирара
+ipa: ˌqːutsː biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ҡҡуцц барара
+    gloss: pfv
+  - text: ҡҡуцц барив
+    gloss: aor
+  - text: ҡҡуцц бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to prick
+      ru: укалывать
+    aliases:
+      en: [nudge]

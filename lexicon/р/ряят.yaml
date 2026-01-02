@@ -1,0 +1,15 @@
+id: ogdgP07odtQTC1Tn9qin
+headword: ряят
+ipa: ræˈæt
+tags: [n]
+forms:
+  - text: ряят
+    gloss: sg
+  - text: ряяте
+    gloss: pl
+definitions:
+  - translation:
+      en: serf
+      ru: крепостной
+    aliases:
+      en: [slave]

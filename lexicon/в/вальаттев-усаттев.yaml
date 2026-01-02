@@ -1,0 +1,19 @@
+id: eDxgOO4r43bfP5IWiEGI
+headword: вальаттев-усаттев
+ipa: ˈvalhatːev-ˈusatːev
+tags: [intj, cls, nmlz]
+etymology:
+  en: Question forms of aor. of *бальана* "to wake", *бусана* "to sleep". The first verb doesn't seem to exist.
+note:
+  en: '*вальат*'
+forms:
+  - text: вальаттев-усаттев
+    gloss: m
+  - text: ральаттев-русаттев
+    gloss: f
+  - text: дальаттав-дусаттав
+    gloss: pl
+definitions:
+  - translation:
+      en: good morning
+      ru: доброе утро

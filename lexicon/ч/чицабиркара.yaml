@@ -1,0 +1,17 @@
+id: VjrCBhR0fj55RoFGcCsp
+headword: чицабиркара
+ipa: tʃitsabirˈkara
+tags: [v, cls, intr]
+forms:
+  - text: чицабикара
+    gloss: pfv
+  - text: чицабичив
+    gloss: aor
+  - text: чицабиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to want to do
+      ru: захотеть сделать
+    aliases:
+      en: [wish, decide, want]

@@ -1,0 +1,16 @@
+id: CMLWOedwKb2qBbkUjlA0
+headword: наскки
+ipa: nasˈkːi
+tags: [n, loan, russian]
+forms:
+  - text: наскки
+    gloss: sg
+  - text: насккин
+    gloss: obl
+  - text: насккибе
+    gloss: pl
+definitions:
+  - translation:
+      en: sock
+      ru: носок
+    tags: [clothing]

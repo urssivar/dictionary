@@ -1,0 +1,15 @@
+id: tzL3CgcR3ajykVhsOg5S
+headword: чибертара
+ipa: tʃiberˈtara
+tags: [v, tr, cls]
+forms:
+  - text: чибетара
+    gloss: pfv
+  - text: чибетур
+    gloss: aor
+  - text: чибертара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to assign
+      ru: поручать

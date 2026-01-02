@@ -1,0 +1,17 @@
+id: 3Wr7KdtjdFATeLHNfNOj
+headword: ьакь луккана
+ipa: ˌhakʼ luˈkːana
+tags: [v, tr, cls, phr]
+forms:
+  - text: ьакь беккара
+    gloss: pfv
+  - text: ьакь беччив
+    gloss: aor
+  - text: ьакь луккана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to accelerate
+      ru: ускорять
+    aliases:
+      en: [speed]

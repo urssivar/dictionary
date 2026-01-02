@@ -1,0 +1,16 @@
+id: BvFGSqWAmC8KZGZqCzGW
+headword: ғулмуҳ
+ipa: ʁulˈmux
+tags: [n]
+forms:
+  - text: ғулмуҳ
+    gloss: sg
+  - text: ғулмуҳе
+    gloss: pl
+definitions:
+  - translation:
+      en: valve
+      ru: задвижка
+    tags: [tool]
+    aliases:
+      en: [lock]

@@ -1,0 +1,15 @@
+id: aDHRx7H5ZIgjah7PhPnO
+headword: магар цабурҡара
+ipa: maˌgar tsaburˈqara
+tags: [v, intr, cls, phr]
+forms:
+  - text: магар цабяҡара
+    gloss: pfv
+  - text: магар цабяҡив
+    gloss: aor
+  - text: магар цабурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sweat
+      ru: потеть

@@ -1,0 +1,19 @@
+id: GuEecbJ9ermSASIAJx9T
+headword: чицабиргара
+ipa: tʃitsabirˈgara
+tags: [v, intr, cls]
+note:
+  en: '*гур ьабиргара*'
+forms:
+  - text: чицабигара
+    gloss: pfv
+  - text: чицабижив
+    gloss: aor
+  - text: чицабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to gather urgently
+      ru: экстренно собираться
+    aliases:
+      en: [come, running, mobilize]

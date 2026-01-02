@@ -1,0 +1,22 @@
+id: CyxM1Rk2eV7XhWgyAneJ
+headword: ьербирара
+ipa: herbiˈrara
+tags: [v, cls, tr]
+forms:
+  - text: ьербарара
+    gloss: pfv
+  - text: ьербарив
+    gloss: aor
+  - text: ьербирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to maintain
+      ru: содержать
+    aliases:
+      en: [provide]
+  - translation:
+      en: to fatten up
+      ru: откармливать
+    aliases:
+      en: [feed]

@@ -1,0 +1,18 @@
+id: KevYoRHgetufkdODccpx
+headword: гаттила
+ipa: gaˈtːila
+tags: [n]
+forms:
+  - text: гаттила
+    gloss: sg
+  - text: гаттилал
+    gloss: obl
+  - text: гаттилабе
+    gloss: pl
+definitions:
+  - translation:
+      en: mound
+      ru: курган
+    tags: [nature]
+    aliases:
+      en: [hill, elevation]

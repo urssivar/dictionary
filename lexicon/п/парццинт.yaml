@@ -1,0 +1,13 @@
+id: 8z3bMiiRH9xNVzMUVTLK
+headword: парццинт
+ipa: parˈtsːint
+tags: [n, loan, russian]
+forms:
+  - text: парццинт
+    gloss: sg
+  - text: парццинте
+    gloss: pl
+definitions:
+  - translation:
+      en: percent
+      ru: процент

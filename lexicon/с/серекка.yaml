@@ -1,0 +1,14 @@
+id: J5EQEwAcE9PVCCXFCnQl
+headword: серекка
+ipa: seˈrekːa
+tags: [n]
+forms:
+  - text: серекка
+    gloss: sg
+  - text: сереккме
+    gloss: pl
+definitions:
+  - translation:
+      en: lapwing
+      ru: чибис
+    tags: [animal, bird]

@@ -1,0 +1,17 @@
+id: HjJWBxZemyBTh3IiGpOy
+headword: яъ уттара
+ipa: ˌæʔ uˈtːara
+tags: [v, intr, cls]
+forms:
+  - text: яъ берттара
+    gloss: pfv
+  - text: яъ берттив
+    gloss: aor
+  - text: яъ уттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to yawn
+      ru: разверзаться
+    aliases:
+      en: [разверзаться]

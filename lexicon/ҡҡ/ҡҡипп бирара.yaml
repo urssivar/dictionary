@@ -1,0 +1,17 @@
+id: KY2pgtHSeIvvEJqDDDc1
+headword: ҡҡипп бирара
+ipa: ˌqːipː biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ҡҡипп барара
+    gloss: pfv
+  - text: ҡҡипп барив
+    gloss: aor
+  - text: ҡҡипп бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pinch
+      ru: ущипывать
+    aliases:
+      en: [nip, bite]

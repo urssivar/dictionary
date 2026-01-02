@@ -1,0 +1,13 @@
+id: K87elDhXkT3rbaVeW5YT
+headword: базар
+ipa: baˈzar
+tags: [n, loan]
+forms:
+  - text: базар
+    gloss: sg
+  - text: базарте
+    gloss: pl
+definitions:
+  - translation:
+      en: market
+      ru: рынок

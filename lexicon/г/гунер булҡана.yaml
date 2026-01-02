@@ -1,0 +1,21 @@
+id: WDWt4lu4kc1mzEp3KnNl
+headword: гунер булҡана
+ipa: guˌner bulˈqana
+tags: [v, intr, cls]
+forms:
+  - text: гунер буҡана
+    gloss: pfv
+  - text: гунер буҡун
+    gloss: aor
+  - text: гунер булҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to survive
+      ru: уцелевать
+    aliases:
+      en: [escape, get, away]
+    examples:
+      - text: дярья дявцци гунер уҡун
+        translation:
+          en: the child survived the war

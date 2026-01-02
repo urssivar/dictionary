@@ -1,0 +1,19 @@
+id: CQBwolenoUrwJ4izNpDN
+headword: ҡҡуцц кабиркара
+ipa: ˌqːutsː kabirˈkara
+tags: [v, intr, cls]
+note:
+  en: '*ккач ~*'
+forms:
+  - text: ҡҡуцц кабикара
+    gloss: pfv
+  - text: ҡҡуцц кабичив
+    gloss: aor
+  - text: ҡҡуцц кабиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to visit briefly
+      ru: коротко навещать
+    aliases:
+      en: [leave, quick]

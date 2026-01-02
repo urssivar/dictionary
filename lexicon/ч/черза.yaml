@@ -1,0 +1,14 @@
+id: PQa4FPkGLLS9vS74ZhJ3
+headword: черза
+ipa: tʃerˈza
+tags: [n]
+forms:
+  - text: черза
+    gloss: sg
+  - text: черзи
+    gloss: obl
+definitions:
+  - translation:
+      en: fat layer
+      ru: слой жира
+    tags: [food]

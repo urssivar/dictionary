@@ -1,0 +1,16 @@
+id: vbfynRC7S3AEyHq6UOtd
+headword: жигриг
+ipa: ʒigˈrig
+tags: [n]
+forms:
+  - text: жигриг
+    gloss: sg
+  - text: жигриге
+    gloss: pl
+definitions:
+  - translation:
+      en: pole
+      ru: шест
+    tags: [tool]
+    aliases:
+      en: [stick]

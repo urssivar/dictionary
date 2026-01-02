@@ -1,0 +1,20 @@
+id: NYxdvYo1zVSTmLIKks43
+headword: тьялмик
+ipa: tʼælˈmik
+tags: [n]
+note:
+  en: |-
+    *тьярмиҳ*, *тьулмут*
+    *шумуғ*
+forms:
+  - text: тьялмик
+    gloss: sg
+  - text: тьялмике
+    gloss: pl
+definitions:
+  - translation:
+      en: horsefly
+      ru: слепень
+    tags: [nature, animal, insect]
+    aliases:
+      en: [gadfly, fly]

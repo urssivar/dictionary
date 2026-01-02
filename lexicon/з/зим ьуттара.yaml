@@ -1,0 +1,17 @@
+id: hqOElpWax0daqESgc1GB
+headword: зим ьуттара
+ipa: ˌzim huˈtːara
+tags: [v, intr, cls]
+forms:
+  - text: зим ьаберттара
+    gloss: pfv
+  - text: зим ьаберттив
+    gloss: aor
+  - text: зим ьуттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to concern
+      ru: беспокоиться
+    aliases:
+      en: [trouble, worry]

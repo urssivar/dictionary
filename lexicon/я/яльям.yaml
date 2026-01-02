@@ -1,0 +1,22 @@
+id: akLdqctJmX4bReyr02dG
+headword: яльям
+ipa: ælˈhæm
+tags: [n, loan, arabic]
+etymology:
+  en: From the first words of surah Al-Fatiha.
+forms:
+  - text: яльям
+    gloss: sg
+  - text: яльямте
+    gloss: pl
+definitions:
+  - translation:
+      en: condolences
+      ru: соболезнование
+    tags: [religion]
+    aliases:
+      en: [funeral]
+    examples:
+      - text: яльями вярун
+        translation:
+          en: went to the condolences

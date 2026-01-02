@@ -1,0 +1,17 @@
+id: 67XtxtiUcaJlLPBHDc5O
+headword: ғвяр кабирара
+ipa: ˌʁʷær kabiˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: ғвяр кабарара
+    gloss: pfv
+  - text: ғвяр кабарив
+    gloss: aor
+  - text: ғвяр кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to remove bark
+      ru: снимать кору
+    aliases:
+      en: [peel, skin]

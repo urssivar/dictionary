@@ -1,0 +1,16 @@
+id: dY6D9ecLZTXFO9HBP7yD
+headword: анцьен
+ipa: anˈtsʼen
+tags: [n]
+forms:
+  - text: анцьен
+    gloss: sg
+  - text: анцьенте
+    gloss: pl
+definitions:
+  - translation:
+      en: heifer
+      ru: тёлка
+    tags: [animal, house]
+    aliases:
+      en: [calf]

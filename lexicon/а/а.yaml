@@ -1,0 +1,14 @@
+id: 2SoaSJBLfnSVV0Jtq0je
+headword: а
+ipa: a
+tags: [conj, loan, russian]
+definitions:
+  - translation:
+      en: but
+      ru: а, но
+    aliases:
+      en: [and]
+    examples:
+      - text: дул ьеж биранда, а ил ьел бара
+        translation:
+          en: i will do this, and you do that

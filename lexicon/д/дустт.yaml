@@ -1,0 +1,15 @@
+id: UeWEsDQ5TCWMpuQImD9J
+headword: дустт
+ipa: ˈdustː
+tags: [n, loan, persian]
+forms:
+  - text: дустт
+    gloss: sg
+  - text: дусттре
+    gloss: pl
+definitions:
+  - translation:
+      en: partner
+      ru: партнёр
+    aliases:
+      en: [friend]

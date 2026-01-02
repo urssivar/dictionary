@@ -1,0 +1,17 @@
+id: HZGwk4nJ81P13GU9Qf2X
+headword: иккора
+ipa: iˈkːora
+tags: [v, lbl, cls]
+forms:
+  - text: биккора
+    gloss: pfv
+  - text: биччур
+    gloss: aor
+  - text: иккора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to burn
+      ru: гореть, сжигать
+    aliases:
+      en: [fire]

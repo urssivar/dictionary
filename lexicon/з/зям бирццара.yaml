@@ -1,0 +1,17 @@
+id: qfez3jyCbwzDPYc8xJOI
+headword: зям бирццара
+ipa: ˌzæm birˈtsːara
+tags: [v, intr, cls]
+forms:
+  - text: зям биццара
+    gloss: pfv
+  - text: зям биццур
+    gloss: aor
+  - text: зям бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to clear up (weather)
+      ru: проясняться (погода)
+    aliases:
+      en: [clean]

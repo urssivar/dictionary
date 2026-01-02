@@ -1,0 +1,15 @@
+id: ro3Iw8OPU3t3OAip9ck0
+headword: вакил
+ipa: vaˈkil
+tags: [n, loan, arabic]
+forms:
+  - text: вакил
+    gloss: sg
+  - text: вакилте
+    gloss: pl
+definitions:
+  - translation:
+      en: representative
+      ru: представитель
+    aliases:
+      en: [agent]

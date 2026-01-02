@@ -1,0 +1,17 @@
+id: o3MpeYNFHGUCy9Xyef9S
+headword: майдила
+ipa: majˈdila
+tags: [n]
+forms:
+  - text: майдила
+    gloss: sg
+  - text: майдилал
+    gloss: obl
+  - text: майдилабе
+    gloss: pl
+definitions:
+  - translation:
+      en: site
+      ru: площадка
+    aliases:
+      en: [field]

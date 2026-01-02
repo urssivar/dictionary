@@ -1,0 +1,17 @@
+id: zmzjg4YJwSXd7kdF2Y75
+headword: дур цабирара
+ipa: ˌdur tsabiˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: дур цабарара
+    gloss: pfv
+  - text: дур цабарив
+    gloss: aor
+  - text: дур цабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to spin
+      ru: вращать
+    aliases:
+      en: [turn, rotate]

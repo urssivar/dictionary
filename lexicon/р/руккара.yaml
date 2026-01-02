@@ -1,0 +1,17 @@
+id: JR4WpOYOqjXHEdtd5jNc
+headword: руккара
+ipa: ruˈkːara
+tags: [v, tr, cls]
+forms:
+  - text: берккора
+    gloss: pfv
+  - text: берккур
+    gloss: aor
+  - text: руккара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to wrap
+      ru: заворачивать
+    aliases:
+      en: [enclose]

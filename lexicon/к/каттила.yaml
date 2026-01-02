@@ -1,0 +1,17 @@
+id: IiU8KfNZeqn2PsgK5XL8
+headword: каттила
+ipa: kaˈtːila
+tags: [n]
+etymology:
+  en: From *катт* "downward", cf *ьаттила* "ascent".
+forms:
+  - text: каттила
+    gloss: sg
+  - text: каттилал
+    gloss: obl
+definitions:
+  - translation:
+      en: descent
+      ru: спуск
+    aliases:
+      en: [fall]

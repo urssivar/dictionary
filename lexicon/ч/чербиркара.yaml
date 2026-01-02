@@ -1,0 +1,19 @@
+id: GBd1G3r2iwWNB1WmHph1
+headword: чербиркара
+ipa: tʃerbirˈkara
+tags: [v, cls, intr]
+note:
+  en: '*черьабиркара*'
+forms:
+  - text: чербикара
+    gloss: pfv
+  - text: чербичив
+    gloss: aor
+  - text: чербиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to give up
+      ru: отставать, сдаваться
+    aliases:
+      en: [yield, leave]

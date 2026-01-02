@@ -1,0 +1,17 @@
+id: cx8S2ajlRBS7uWPEF17o
+headword: ярзучь
+ipa: ærˈzutʃʼ
+tags: [n]
+note:
+  en: '*ярзукь*, *арзач*'
+forms:
+  - text: ярзучь
+    gloss: sg
+  - text: ярзучье
+    gloss: pl
+definitions:
+  - translation:
+      en: snitch
+      ru: ябеда
+    aliases:
+      en: [plaintiff, complainant]

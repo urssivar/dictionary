@@ -1,0 +1,14 @@
+id: shnwJHWbCIBVA6OCYgm7
+headword: маймун
+ipa: majˈmun
+tags: [n, loan, arabic]
+forms:
+  - text: маймун
+    gloss: sg
+  - text: маймунте
+    gloss: pl
+definitions:
+  - translation:
+      en: monkey
+      ru: обезьяна
+    tags: [animal]

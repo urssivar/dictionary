@@ -1,0 +1,19 @@
+id: kHPZjjWLTObHIe93RCgU
+headword: даража
+ipa: daˈraʒa
+tags: [n, loan, arabic]
+definitions:
+  - translation:
+      en: degree
+      ru: степень
+    aliases:
+      en: [rank]
+  - translation:
+      en: situation
+      ru: ситуация
+    aliases:
+      en: [state]
+    examples:
+      - text: ьел даражай веғил
+        translation:
+          en: have arrived at such situation

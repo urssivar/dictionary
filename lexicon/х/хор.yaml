@@ -1,0 +1,15 @@
+id: bSTzoeLP27ubBL7WPEgS
+headword: хор
+ipa: ˈχor
+tags: [n]
+forms:
+  - text: хор
+    gloss: sg
+  - text: хоре
+    gloss: pl
+definitions:
+  - translation:
+      en: log
+      ru: бревно
+    aliases:
+      en: [wood]

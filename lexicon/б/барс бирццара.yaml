@@ -1,0 +1,17 @@
+id: vTcFboeg4nvPj78eSTSa
+headword: барс бирццара
+ipa: ˌbars birˈtsːara
+tags: [v, intr, cls]
+forms:
+  - text: барс биццара
+    gloss: pfv
+  - text: барс биццур
+    gloss: aor
+  - text: барс бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to oppose
+      ru: противиться
+    aliases:
+      en: [balk, refuse, resist, object]

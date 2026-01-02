@@ -1,0 +1,18 @@
+id: iNQ1MMKopkz2JEL8eYcI
+headword: шур
+ipa: ˈʃur
+tags: [n]
+forms:
+  - text: шур
+    gloss: sg
+  - text: шуре
+    gloss: obl
+  - text: шурме
+    gloss: pl
+definitions:
+  - translation:
+      en: rock
+      ru: скала
+    tags: [nature]
+    aliases:
+      en: [mount, stone]

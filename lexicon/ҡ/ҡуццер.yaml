@@ -1,0 +1,18 @@
+id: IyqAOMaXTZuflL5CdryJ
+headword: ҡуццер
+ipa: quˈtsːer
+tags: [n]
+forms:
+  - text: ҡуццер
+    gloss: sg
+  - text: ҡуццери
+    gloss: obl
+  - text: ҡуццерте
+    gloss: pl
+definitions:
+  - translation:
+      en: peasant
+      ru: крестьянин
+    tags: [profession]
+    aliases:
+      en: [farmer]

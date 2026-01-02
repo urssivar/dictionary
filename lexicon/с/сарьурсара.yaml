@@ -1,0 +1,19 @@
+id: 61pKV5Xf6Yah1PXaGujc
+headword: сарьурсара
+ipa: sarhurˈsara
+tags: [v, intr, phr]
+note:
+  en: '*гунер ьурсара*'
+forms:
+  - text: сарьасара
+    gloss: pfv
+  - text: сарьасив
+    gloss: aor
+  - text: сарьурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to disappear
+      ru: пропадать, погибать, испаряться
+    aliases:
+      en: [evaporate, die]

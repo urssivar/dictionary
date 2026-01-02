@@ -1,0 +1,22 @@
+id: ca9FU6a9WPUNObgclE7p
+headword: ьабулҡана
+ipa: hulˈqana
+tags: [v, intr, cls]
+forms:
+  - text: ьабуҡана
+    gloss: pfv
+  - text: ьабуҡун
+    gloss: aor
+  - text: ьабулҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to overwhelm
+      ru: сокрушать
+    aliases:
+      en: [win]
+  - translation:
+      en: to rise
+      ru: всходить
+    aliases:
+      en: [ascend]

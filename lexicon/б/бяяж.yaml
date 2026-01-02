@@ -1,0 +1,28 @@
+id: D8svO79VHH4in24NJizS
+headword: бяяж
+ipa: ˈbææʒ
+tags: [cop, nmlz]
+etymology:
+  en: From hyp. of *бирьора* "to be" (cf. *биьяж* "probable").
+note:
+  en: '*биьяж*, *биьяй*'
+forms:
+  - text: бяяда
+    gloss: 1, 2 pl
+  - text: бяяде
+    gloss: 2 sg, pst
+  - text: бяяж
+    gloss: '3'
+definitions:
+  - translation:
+      en: likely
+      ru: скорее всего
+    aliases:
+      en: [maybe, perhaps, probalby]
+    examples:
+      - text: ьеж тилпун убала бяяж
+        translation:
+          en: this phone is likely mother's
+      - text: атта ҡил вяяж
+        translation:
+          en: father is likely at home

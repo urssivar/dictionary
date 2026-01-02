@@ -1,0 +1,19 @@
+id: Mu7te73r0EEkop9SbSr8
+headword: пис
+ipa: ˈpis
+tags: [n]
+forms:
+  - text: пис
+    gloss: sg
+  - text: писре
+    gloss: pl
+definitions:
+  - translation:
+      en: pinch
+      ru: щепотка
+    aliases:
+      en: [bit]
+    examples:
+      - text: ца ццелла пис кадара
+        translation:
+          en: add a pinch of salt

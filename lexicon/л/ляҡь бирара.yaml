@@ -1,0 +1,22 @@
+id: uZ1S8LlutDZzWVhenQGA
+headword: ляҡь бирара
+ipa: ˌlæqʼ biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: ляҡь барара
+    gloss: pfv
+  - text: ляҡь барив
+    gloss: aor
+  - text: ляҡь бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to remove
+      ru: убирать
+    aliases:
+      en: [fire, dismiss]
+  - translation:
+      en: to dismiss
+      ru: отвергать
+    aliases:
+      en: [reject]

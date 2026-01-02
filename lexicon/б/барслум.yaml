@@ -1,0 +1,16 @@
+id: IWYlPXzJbiPxb7dxV49S
+headword: барслум
+ipa: ˈbarslum
+tags: [n]
+etymology:
+  en: From *барс* "change".
+definitions:
+  - translation:
+      en: exchange
+      ru: обмен
+    aliases:
+      en: [barter]
+    examples:
+      - text: ьинце ҡяри барслум даривда
+        translation:
+          en: exchanged apple for pears

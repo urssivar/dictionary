@@ -1,0 +1,17 @@
+id: IKknZbSvKspXAwLFWNwg
+headword: хатьа биркара
+ipa: χaˌtʼa birˈkara
+tags: [v, intr, cls, phr]
+forms:
+  - text: хатьа бикара
+    gloss: pfv
+  - text: хатьа бичив
+    gloss: aor
+  - text: хатьа биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to mistake
+      ru: ошибаться
+    aliases:
+      en: [err, fault]

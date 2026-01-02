@@ -1,0 +1,20 @@
+id: 5gNwmIpqvxTeDHHWLtRa
+headword: шин
+ipa: ˈʃin
+tags: [n]
+forms:
+  - text: шин
+    gloss: sg
+  - text: шине
+    gloss: obl
+  - text: шинбе
+    gloss: pl
+definitions:
+  - translation:
+      en: water
+      ru: вода
+    tags: [nature, food]
+    examples:
+      - text: уленла шин
+        translation:
+          en: water from the evil eye

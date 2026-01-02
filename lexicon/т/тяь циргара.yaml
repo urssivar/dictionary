@@ -1,0 +1,15 @@
+id: cB3ywdyvlnAHjd3AsGqW
+headword: тяь циргара
+ipa: ˌtæh tsirˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: тяь цабигара
+    gloss: pfv
+  - text: тяь цабижив
+    gloss: aor
+  - text: тяь цабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shudder
+      ru: содрогаться

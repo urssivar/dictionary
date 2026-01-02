@@ -1,0 +1,16 @@
+id: QJnNWkx1wBT4pPpVvo99
+headword: антта
+ipa: ˈantːa
+tags: [n]
+forms:
+  - text: антта
+    gloss: sg
+  - text: анттан
+    gloss: obl
+  - text: анттиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: forehead
+      ru: лоб
+    tags: [body]

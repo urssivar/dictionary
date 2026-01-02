@@ -1,0 +1,21 @@
+id: 55eiQfYkKWPBTOSQxGug
+headword: ҳарра
+ipa: xarˈra
+tags: [conj]
+etymology:
+  en: From *ҳал* "for" + concessive *ра*.
+note:
+  en: '*ҳалле*'
+definitions:
+  - translation:
+      en: although
+      ru: хотя
+    aliases:
+      en: [albeit, though, despite]
+    examples:
+      - text: аттал биив ҳарра авярунда
+        translation:
+          en: although father told, me i didn't go
+      - text: цигле бил ҳарра биранда
+        translation:
+          en: i will do it no matter what

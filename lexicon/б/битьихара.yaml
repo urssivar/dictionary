@@ -1,0 +1,19 @@
+id: tS78kxyx4DE5GmA0ThZh
+headword: битьихара
+ipa: bitʼiˈχara
+tags: [v, intr, cls]
+note:
+  en: '*чибитьара*'
+forms:
+  - text: бетьихара
+    gloss: pfv
+  - text: бетьихив
+    gloss: aor
+  - text: битьихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to annoy
+      ru: надоедать
+    aliases:
+      en: [bother]

@@ -1,0 +1,23 @@
+id: ydWeMpvbVSXBmMgQ4GPM
+headword: янчча
+ipa: ˈæntʃːa
+tags: [n]
+forms:
+  - text: янчча
+    gloss: nom
+  - text: янччин
+    gloss: obl
+definitions:
+  - translation:
+      en: clay
+      ru: глина
+    tags: [nature]
+    aliases:
+      en: [soil]
+    examples:
+      - text: цьяв янчча
+        translation:
+          en: gypsum
+      - text: буршлила янчча
+        translation:
+          en: gypsum

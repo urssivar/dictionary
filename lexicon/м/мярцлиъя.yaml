@@ -1,0 +1,16 @@
+id: ripBRJKNv0yeFd6gO9ad
+headword: мярцлиъя
+ipa: mærtsliˈʔæ
+tags: [n]
+forms:
+  - text: мярцлиъя
+    gloss: sg
+  - text: мярцлиъне
+    gloss: pl
+definitions:
+  - translation:
+      en: mason
+      ru: каменщик
+    tags: [occupation]
+    aliases:
+      en: [builder]

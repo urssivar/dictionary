@@ -1,0 +1,14 @@
+id: qD69SZLq68XwlpxGUaOe
+headword: гирям
+ipa: giˈræm
+tags: [n, loan, russian]
+forms:
+  - text: гирям
+    gloss: sg
+  - text: гирямте
+    gloss: pl
+definitions:
+  - translation:
+      en: gram
+      ru: грамм
+    tags: [measure]

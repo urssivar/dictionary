@@ -1,0 +1,16 @@
+id: mDaKrg8SnX4NwyONy6cp
+headword: налла
+ipa: ˈnalla
+tags: [adv]
+etymology:
+  en: From *на* "now".
+definitions:
+  - translation:
+      en: so far
+      ru: пока
+    aliases:
+      en: [still]
+    examples:
+      - text: налла булшун це
+        translation:
+          en: it's working so far

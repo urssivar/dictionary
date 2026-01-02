@@ -1,0 +1,17 @@
+id: G4LFuVqT3whJGvA89YyY
+headword: чериҡара
+ipa: tʃeriˈqara
+tags: [v, tr]
+forms:
+  - text: чераҡара
+    gloss: pfv
+  - text: чераҡив
+    gloss: aor
+  - text: чериҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to compensate
+      ru: возмещать
+    aliases:
+      en: [replay, reimburse]

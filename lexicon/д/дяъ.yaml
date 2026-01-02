@@ -1,0 +1,26 @@
+id: gFshH8ZH5a69vgh84Yfe
+headword: дяъ
+ipa: ˈdæʔ
+tags: [n]
+forms:
+  - text: дяъ
+    gloss: sg
+  - text: дяъя
+    gloss: obl
+  - text: дяъре
+    gloss: pl
+definitions:
+  - translation:
+      en: face
+      ru: лицо
+    tags: [body]
+    examples:
+      - text: дяъяцци дуҡана
+        translation:
+          en: say it to one's face
+      - text: дяъяцци чиьара
+        translation:
+          en: to nourish
+      - text: дяъ лус дирул акку
+        translation:
+          en: pays no attention

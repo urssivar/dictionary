@@ -1,0 +1,17 @@
+id: mYUeixDBShXBkIG4eW1a
+headword: мина кабирьора
+ipa: miˌna kabirˈhora
+tags: [v, cls, intr]
+forms:
+  - text: мина кабиьора
+    gloss: pfv
+  - text: мина кабиьяв
+    gloss: aor
+  - text: мина кабирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to take root
+      ru: укореняться
+    aliases:
+      en: [establish, set]

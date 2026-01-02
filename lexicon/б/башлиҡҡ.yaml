@@ -1,0 +1,16 @@
+id: gP5XmU99Fre9QOESlWLB
+headword: башлиҡҡ
+ipa: baʃˈliqː
+tags: [n, loan, turkic]
+forms:
+  - text: башлиҡҡ
+    gloss: sg
+  - text: башлиҡҡе
+    gloss: pl
+definitions:
+  - translation:
+      en: bashlyk
+      ru: башлык
+    tags: [clothing]
+    aliases:
+      en: [hood]

@@ -1,0 +1,16 @@
+id: QYdY79xMYo6iqR8jTuUO
+headword: панар
+ipa: paˈnar
+tags: [n, loan, russian]
+forms:
+  - text: панар
+    gloss: sg
+  - text: панарте
+    gloss: pl
+definitions:
+  - translation:
+      en: flashlight
+      ru: фонарь
+    tags: [tool]
+    aliases:
+      en: [torch, light, lamp]

@@ -1,0 +1,26 @@
+id: Ejqjr05Ea3BxlPNWYU7H
+headword: баъ рирара
+ipa: ˌbaʔ riˈrara
+tags: [v, tr]
+note:
+  en: Can be either of class *д-* or *р-*.
+forms:
+  - text: баъ рарара
+    gloss: pfv
+  - text: баъ рарив
+    gloss: aor
+  - text: баъ рирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to woo
+      ru: сватать
+    aliases:
+      en: [matchmake]
+    examples:
+      - text: дам баъ дарара цябун
+        translation:
+          en: they came to woo me
+      - text: ьел баъ раривда
+        translation:
+          en: i got her engaged

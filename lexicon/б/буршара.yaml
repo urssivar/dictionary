@@ -1,0 +1,20 @@
+id: 5ziScuCrAYqzgr2BGdzZ
+headword: буршара
+ipa: burˈʃara
+tags: [v, intr, cls]
+forms:
+  - text: бершара
+    gloss: pfv
+  - text: бершур
+    gloss: air
+  - text: буршара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to addle
+      ru: тухнуть
+    aliases:
+      en: [spoil, rot]
+  - translation:
+      en: to betray
+      ru: предавать

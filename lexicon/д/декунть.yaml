@@ -1,0 +1,17 @@
+id: 4a9Jnww1WJn1BrBWazk7
+headword: декунть
+ipa: deˈkuntʼ
+tags: [n]
+forms:
+  - text: декунть
+    gloss: sg
+  - text: декунтьан
+    gloss: loc
+  - text: декунтье
+    gloss: pl
+definitions:
+  - translation:
+      en: dump
+      ru: свалка
+    aliases:
+      en: [trash]

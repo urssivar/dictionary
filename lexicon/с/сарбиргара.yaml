@@ -1,0 +1,21 @@
+id: UBvppotYnvRTzNxbG3vS
+headword: сарбиргара
+ipa: sarbirˈgara
+tags: [v, cls, intr]
+forms:
+  - text: сарбигара
+    gloss: pfv
+  - text: сарбижив
+    gloss: aor
+  - text: сарбиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to skulk
+      ru: скрываться
+    aliases:
+      en: [hide, lurk]
+    examples:
+      - text: ахле чибажил дяьне сарбижив
+        translation:
+          en: seen guests the kids hid

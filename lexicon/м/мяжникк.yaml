@@ -1,0 +1,18 @@
+id: z5VWtS9bZ0HZmwZTyorp
+headword: мяжникк
+ipa: mæʒˈnikː
+tags: [n, loan, russian]
+forms:
+  - text: мяжникк
+    gloss: sg
+  - text: мяжниккан
+    gloss: obl, loc
+  - text: мяжникке
+    gloss: pl
+definitions:
+  - translation:
+      en: wallet
+      ru: кошелек
+    tags: [clothing, tool]
+    aliases:
+      en: [pouch]

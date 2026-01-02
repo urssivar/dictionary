@@ -1,0 +1,17 @@
+id: lqCxI8lCmZLHExmym2L8
+headword: ьивцьал
+ipa: hivˈtsʼal
+tags: [n]
+note:
+  en: '*уцьала*, *цьибицьари*'
+forms:
+  - text: ьивцьал
+    gloss: sg
+  - text: ьивцьле
+    gloss: pl
+definitions:
+  - translation:
+      en: fragment
+      ru: осколок
+    aliases:
+      en: [sliver, splinter]

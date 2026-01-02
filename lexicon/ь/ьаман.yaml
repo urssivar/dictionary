@@ -1,0 +1,15 @@
+id: bg4vqehPGMyED2MeSXZZ
+headword: ьаман
+ipa: haˈman
+tags: [adv]
+note:
+  en: '*ьараман*'
+definitions:
+  - translation:
+      en: always
+      ru: всегда
+    tags: [time]
+    examples:
+      - text: ьаман дурсид ду урший
+        translation:
+          en: i always tell my son

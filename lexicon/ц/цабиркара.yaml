@@ -1,0 +1,17 @@
+id: J5pgYJHSK0EhQQrASYrZ
+headword: цабиркара
+ipa: tsabirˈkara
+tags: [v, intr, cls]
+forms:
+  - text: цабикара
+    gloss: pfv
+  - text: цабичив
+    gloss: aor
+  - text: цабиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to turn out to be
+      ru: оказываться
+    aliases:
+      en: [occur, end, up]

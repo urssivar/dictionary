@@ -1,0 +1,17 @@
+id: 0vaHEKifz8UjCxuIpaOm
+headword: и
+ipa: ˈi
+tags: [pro]
+note:
+  en: '*ет* (dat), *еттижи* (dat)'
+forms:
+  - text: и
+    gloss: nom
+  - text: етти
+    gloss: dat
+definitions:
+  - translation:
+      en: you (singular)
+      ru: ты
+    aliases:
+      en: [your, yours]

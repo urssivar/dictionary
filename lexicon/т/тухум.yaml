@@ -1,0 +1,21 @@
+id: 8jkFdqemh1o34OP0muY7
+headword: тухум
+ipa: tuˈχum
+tags: [n, loan, persian]
+forms:
+  - text: тухум
+    gloss: sg
+  - text: тухумте
+    gloss: pl
+definitions:
+  - translation:
+      en: relative
+      ru: родственник
+    tags: [kinship]
+    aliases:
+      en: [close]
+  - translation:
+      en: kin
+      ru: родня
+    aliases:
+      en: [family]

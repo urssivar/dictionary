@@ -1,0 +1,17 @@
+id: sfBC8bKsgQ8QY80POmgI
+headword: кабильана
+ipa: kabilˈhana
+tags: [v, tr, cls]
+forms:
+  - text: кабиьана
+    gloss: pfv
+  - text: кабиьун
+    gloss: aor
+  - text: кабильана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tether
+      ru: привязывать
+    aliases:
+      en: [leash, tie]

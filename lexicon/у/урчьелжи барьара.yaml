@@ -1,0 +1,19 @@
+id: FZQkJMHLqZNr38XlKJA3
+headword: урчьелжи барьара
+ipa: urˌtʃʼelʒi barˈhara
+tags: [v, tr, cls, phr]
+etymology:
+  en: Lit. *to know at heart*.
+forms:
+  - text: урчьелжи баьара
+    gloss: pfv
+  - text: урчьелжи баьур
+    gloss: aor
+  - text: урчьелжи барьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to memorize
+      ru: заучивать
+    aliases:
+      en: [study, remember]

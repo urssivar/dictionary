@@ -1,0 +1,20 @@
+id: HGpF7raqWLxLYgvphVl6
+headword: исттикан
+ipa: isˈtːikan
+tags: [n, loan, russian]
+forms:
+  - text: исттикан
+    gloss: sg
+  - text: исттикне
+    gloss: pl
+definitions:
+  - translation:
+      en: glass
+      ru: стакан
+    tags: [tool]
+    aliases:
+      en: [cup]
+    examples:
+      - text: исттиканцци катьа
+        translation:
+          en: pour into the glass

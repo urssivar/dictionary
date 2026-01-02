@@ -1,0 +1,15 @@
+id: phGbTMLUFGeUG1VFwl6O
+headword: чицабаҳара
+ipa: tʃitsabaˈxara
+tags: [v, intr, cls]
+forms:
+  - text: чицабашив
+    gloss: aor
+  - text: чицабаҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to trespass
+      ru: переходить границу
+    aliases:
+      en: [cross, border]

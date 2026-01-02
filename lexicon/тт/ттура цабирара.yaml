@@ -1,0 +1,17 @@
+id: aAHUbv7vciuYexGAvFh2
+headword: ттура цабирара
+ipa: ˌtːura tsabiˈrara
+tags: [v, tr, phr, cls]
+forms:
+  - text: ттура цабарара
+    gloss: pfv
+  - text: ттура цабарив
+    gloss: aor
+  - text: ттура цабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to free
+      ru: вызволять
+    aliases:
+      en: [release, save]

@@ -1,0 +1,13 @@
+id: Id9fzMF4Ykrs9BDLKgBX
+headword: кказат
+ipa: kːaˈzat
+tags: [n, loan, russian]
+forms:
+  - text: кказат
+    gloss: sg
+  - text: кказате
+    gloss: pl
+definitions:
+  - translation:
+      en: newspaper
+      ru: газета

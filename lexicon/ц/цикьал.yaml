@@ -1,0 +1,19 @@
+id: YifvYXEotfv8YG1kkwbX
+headword: цикьал
+ipa: ˈtsikʼal
+tags: [n]
+etymology:
+  en: From *ци* "what" + *кьал*, cf. *чакьал* "person".
+definitions:
+  - translation:
+      en: thing
+      ru: нечто, предмет.
+    aliases:
+      en: [object, certain]
+    examples:
+      - text: цара илгон цикьал би у?
+        translation:
+          en: is there another thing like that?
+      - text: цара цикьал бажил баал
+        translation:
+          en: if there's anything else needed

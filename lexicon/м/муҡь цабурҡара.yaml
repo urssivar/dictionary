@@ -1,0 +1,17 @@
+id: MGLd3LMU9h4M5HDa4p1Y
+headword: муҡь цабурҡара
+ipa: ˌmuqʼ tsaburˈqara
+tags: [v, intr, cls]
+forms:
+  - text: муҡь цабяҡара
+    gloss: pfv
+  - text: муҡь цабяҡив
+    gloss: aor
+  - text: муҡь цабурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to turn away
+      ru: отворачиваться
+    aliases:
+      en: [deny, denunce]

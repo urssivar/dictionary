@@ -1,0 +1,17 @@
+id: zxPIMdvgymAnDKyi1sWq
+headword: ять урғара
+ipa: ˌætʼ urˈʁara
+tags: [v, phr, tr]
+forms:
+  - text: ять ағара
+    gloss: pfv
+  - text: ять ағив
+    gloss: aor
+  - text: ять урғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to demolish
+      ru: сносить
+    aliases:
+      en: [break, collapse]

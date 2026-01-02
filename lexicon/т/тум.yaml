@@ -1,0 +1,25 @@
+id: XS50QqNpamBMDzpZJbYp
+headword: тум
+ipa: ˈtum
+tags: [n]
+forms:
+  - text: тум
+    gloss: sg
+  - text: туме
+    gloss: pl
+definitions:
+  - translation:
+      en: mound
+      ru: возвышенность
+    tags: [nature]
+  - translation:
+      en: swarm
+      ru: рой
+    aliases:
+      en: [flock]
+  - translation:
+      en: vein
+      ru: вена
+    tags: [body]
+    aliases:
+      en: [blood, vessel]

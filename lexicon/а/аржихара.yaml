@@ -1,0 +1,20 @@
+id: dxyDDCKfuiO7HGHEsTQX
+headword: аржихара
+ipa: arʒiˈχara
+tags: [v, tr]
+etymology:
+  en: Caus. of *аргара* "to happen".
+forms:
+  - text: ажихара
+    gloss: pfv
+  - text: ажихив
+    gloss: aor
+  - text: аржихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cause
+      ru: вызывать
+    tags: []
+    aliases:
+      en: [bring, commit]

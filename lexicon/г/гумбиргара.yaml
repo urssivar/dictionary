@@ -1,0 +1,17 @@
+id: X3r8VYgemUvNdXtEatQm
+headword: гумбиргара
+ipa: gumbirˈgara
+tags: [v, intr, cls]
+forms:
+  - text: гумбигара
+    gloss: pfv
+  - text: гумбижив
+    gloss: aor
+  - text: гумбиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shelter
+      ru: укрываться
+    aliases:
+      en: [cover, haven, hide]

@@ -1,0 +1,17 @@
+id: U2hyhSGsF2VqShfuX3Ij
+headword: пяь бирара
+ipa: ˌpæh biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: пяь барара
+    gloss: pfv
+  - text: пяь барив
+    gloss: aor
+  - text: пяь бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shake out
+      ru: вытряхивать
+    aliases:
+      en: [clean, empty]

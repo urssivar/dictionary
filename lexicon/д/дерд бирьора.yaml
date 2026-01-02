@@ -1,0 +1,21 @@
+id: D3eAkXBGtzTSzqna0C2P
+headword: дерд бирьора
+ipa: ˌderd birˈhora
+tags: [v, cls, intr, phr]
+forms:
+  - text: дерд биьора
+    gloss: pfv
+  - text: дерд биьяв
+    gloss: aor
+  - text: дерд бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be fed with
+      ru: нахватываться
+    aliases:
+      en: [pall]
+    examples:
+      - text: дерд виьял да ицци
+        translation:
+          en: i am fed up with you

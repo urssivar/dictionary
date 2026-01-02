@@ -1,0 +1,16 @@
+id: 24gZ0AdDXJN4qGxLrHVe
+headword: хат
+ipa: ˈχat
+tags: [n]
+note:
+  en: '*ҡат*'
+forms:
+  - text: хат
+    gloss: sg
+  - text: хитре
+    gloss: pl
+definitions:
+  - translation:
+      en: palm
+      ru: ладонь
+    tags: [body]

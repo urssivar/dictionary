@@ -1,0 +1,16 @@
+id: VEujU17cYYuAfxlgbhJT
+headword: дерчче
+ipa: ˈdertʃːe
+tags: [n]
+note:
+  en: '*деркки*'
+forms:
+  - text: дерчче
+    gloss: sg
+  - text: дерччи
+    gloss: obl
+definitions:
+  - translation:
+      en: medlar
+      ru: мушмула
+    tags: [nature, plant, food]

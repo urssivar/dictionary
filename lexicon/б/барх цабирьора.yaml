@@ -1,0 +1,15 @@
+id: vMXx5V92NP9Z46GIbs13
+headword: барх цабирьора
+ipa: ˌbarχ tsabirˈhora
+tags: [v, intr, phr, cls]
+forms:
+  - text: барх цабиьора
+    gloss: pfv
+  - text: барх цабиьяв
+    gloss: aor
+  - text: барх цабирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to participate
+      ru: участвовать

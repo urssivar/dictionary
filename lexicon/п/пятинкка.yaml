@@ -1,0 +1,20 @@
+id: XLvYYMsHxNhpRoIw5tMe
+headword: пятинкка
+ipa: pætinˈkːa
+tags: [n, loan, russian]
+note:
+  en: |-
+    *пятьянкке*
+    *пашмаҡҡ*
+forms:
+  - text: пятинкка
+    gloss: sg
+  - text: пятинккан
+    gloss: obl, loc
+  - text: пятинккне
+    gloss: pl
+definitions:
+  - translation:
+      en: boot
+      ru: ботинок
+    tags: [clothing]

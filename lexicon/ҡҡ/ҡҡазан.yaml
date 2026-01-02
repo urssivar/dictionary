@@ -1,0 +1,16 @@
+id: 495X3rYkqbyyhFB6sZdJ
+headword: ҡҡазан
+ipa: qːaˈzan
+tags: [n, loan]
+forms:
+  - text: ҡҡазан
+    gloss: sg
+  - text: ҡҡазанте
+    gloss: pl
+definitions:
+  - translation:
+      en: cauldron
+      ru: котёл
+    tags: [tool]
+    aliases:
+      en: [pot]

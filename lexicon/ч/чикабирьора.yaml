@@ -1,0 +1,17 @@
+id: ejNdMVIyiHVsgzD3Mi0i
+headword: чикабирьора
+ipa: tʃikabirˈhora
+tags: [v, intr, cls]
+forms:
+  - text: чикабиьора
+    gloss: pfv
+  - text: чикабиьяв
+    gloss: aor
+  - text: чикабирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to begin
+      ru: начинаться
+    aliases:
+      en: [start]

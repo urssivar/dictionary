@@ -1,0 +1,21 @@
+id: NER50bOozZz7hDI6i58L
+headword: бувғя бирара
+ipa: buvˌʁæ biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: дувғя барара
+    gloss: pfv
+  - text: дувғя барив
+    gloss: aor
+  - text: дувғя бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to break up
+      ru: измельчать
+    aliases:
+      en: [smash]
+    examples:
+      - text: дувғя дара арц
+        translation:
+          en: change the money (to smaller)

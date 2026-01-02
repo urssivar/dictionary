@@ -1,0 +1,20 @@
+id: P8jtwaBbXfB64iu2wPX0
+headword: нуғай
+ipa: nuˈʁaj
+tags: [n, adj, loan]
+forms:
+  - text: нуғай
+    gloss: sg
+  - text: нуғайте
+    gloss: pl
+definitions:
+  - translation:
+      en: nogai
+      ru: ногаец, ногайский
+    tags: [demonym]
+    aliases:
+      en: [sturdy]
+    examples:
+      - text: нуғай уц
+        translation:
+          en: sturdy ox

@@ -1,0 +1,17 @@
+id: 5q92TmhSt82c2EovYFCI
+headword: бурьав бирара
+ipa: ˌburhav biˈrara
+tags: [v, tr, cls, phr]
+etymology:
+  en: The first part is opt. of *бурьара* "to be safe". Only it changes class.
+forms:
+  - text: бурьав барара
+    gloss: pfv
+  - text: бурьав барив
+    gloss: aor
+  - text: бурьав бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to congratulate
+      ru: поздравлять

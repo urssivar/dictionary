@@ -1,0 +1,15 @@
+id: xEfeJDZ5C47uSbHJpyAy
+headword: шут
+ipa: ˈʃut
+tags: [n, loan, russian]
+forms:
+  - text: шут
+    gloss: sg
+  - text: шутре
+    gloss: pl
+definitions:
+  - translation:
+      en: account
+      ru: счет
+    aliases:
+      en: [math, score]

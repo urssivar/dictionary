@@ -1,0 +1,13 @@
+id: n0bU7hyieQDco4KcS0Kr
+headword: барба
+ipa: barˈba
+tags: [n, loan, russian]
+forms:
+  - text: барба
+    gloss: sg
+  - text: барбал
+    gloss: obl
+definitions:
+  - translation:
+      en: wrestling
+      ru: борьба (спорт)

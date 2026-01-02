@@ -1,0 +1,14 @@
+id: qtJHh6x0Mgy0EDrwB898
+headword: лимун
+ipa: liˈmun
+tags: [n, loan, russian]
+forms:
+  - text: лимун
+    gloss: sg
+  - text: лимунте
+    gloss: pl
+definitions:
+  - translation:
+      en: lemon
+      ru: лимон
+    tags: [food, fruit]

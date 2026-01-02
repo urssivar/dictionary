@@ -1,0 +1,13 @@
+id: eHkB3oauQJqINXUDAPFv
+headword: судийа
+ipa: sudiˈja
+tags: [n, loan, russian]
+forms:
+  - text: судийа
+    gloss: sg
+  - text: судийабе
+    gloss: pl
+definitions:
+  - translation:
+      en: judge
+      ru: судья

@@ -1,0 +1,16 @@
+id: Ku03WX5vro4Cz46wYkeo
+headword: сардуц
+ipa: sarˈduts
+tags: [n, nmlz]
+forms:
+  - text: сардуц
+    gloss: sg
+  - text: сардуцре
+    gloss: pl
+definitions:
+  - translation:
+      en: leash
+      ru: поводок
+    tags: [tool]
+    aliases:
+      en: [rain, bridle]

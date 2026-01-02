@@ -1,0 +1,18 @@
+id: rLRMAeBnQ1s7k9qTP5Bp
+headword: ҡявцьар
+ipa: qævˈtsʼar
+tags: [n]
+etymology:
+  en: Likely from *ҡяв* "neck".
+forms:
+  - text: ҡявцьар
+    gloss: sg
+  - text: ҡявцьарте
+    gloss: pl
+definitions:
+  - translation:
+      en: collar
+      ru: воротник
+    tags: [clothing]
+    aliases:
+      en: [neck]

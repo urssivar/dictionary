@@ -1,0 +1,19 @@
+id: ab3qCPNsi5PQxx19RIYW
+headword: ҡҡелла
+ipa: qːelˈla
+tags: [conj]
+etymology:
+  en: From *ҡҡел* "when".
+definitions:
+  - translation:
+      en: as
+      ru: так как
+    aliases:
+      en: [since]
+    examples:
+      - text: уцци зяипле ҡҡелла ҡил цяунда
+        translation:
+          en: i came home as my brother is ill
+      - text: циней биккан ҡҡелла барив
+        translation:
+          en: he did it since he wanted to

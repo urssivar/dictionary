@@ -1,0 +1,16 @@
+id: OIgjXzfHXcVTYfRf7JQO
+headword: гоца
+ipa: ˈgotsa
+tags: [n]
+forms:
+  - text: гоца
+    gloss: sg
+  - text: гоцне
+    gloss: pl
+definitions:
+  - translation:
+      en: mouse
+      ru: мышь
+    tags: [animal]
+    aliases:
+      en: [mice]

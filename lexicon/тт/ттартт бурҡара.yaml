@@ -1,0 +1,19 @@
+id: SqFaIkOWoB77CjzvQrxZ
+headword: ттартт бурҡара
+ipa: ˌtːartː burˈqara
+tags: [v, intr, cls, phr]
+note:
+  en: '*чянть ~*'
+forms:
+  - text: ттартт бяҡара
+    gloss: pfv
+  - text: ттартт бяҡив
+    gloss: aor
+  - text: ттартт бурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stumble
+      ru: спотыкаться
+    aliases:
+      en: [hit, fall]

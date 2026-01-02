@@ -1,0 +1,17 @@
+id: cWIe0ATZQn6y1X9rX4Gm
+headword: чибурккара
+ipa: tʃiburˈkːara
+tags: [v, cls, tr]
+forms:
+  - text: чибарккара
+    gloss: pfv
+  - text: чибарччив
+    gloss: aor
+  - text: чибурккара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to discover
+      ru: обнаруживать
+    aliases:
+      en: [detect, find]

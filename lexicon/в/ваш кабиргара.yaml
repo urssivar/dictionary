@@ -1,0 +1,17 @@
+id: aCtriT5lX2bbLnPMmyEw
+headword: ваш кабиргара
+ipa: ˌvaʃ kabirˈgara
+tags: [v, intr, cls]
+forms:
+  - text: ваш кабигара
+    gloss: pfv
+  - text: ваш кабижив
+    gloss: aor
+  - text: ваш кабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fall apart
+      ru: распадаться
+    aliases:
+      en: [disintegrate, crumble, break]

@@ -1,0 +1,17 @@
+id: tgKOUQ56knQN2KcAVLxq
+headword: койха
+ipa: ˈkojχa
+tags: [n]
+note:
+  en: '*кавха*'
+forms:
+  - text: койха
+    gloss: sg
+  - text: койхне
+    gloss: pl
+definitions:
+  - translation:
+      en: headman
+      ru: староста
+    aliases:
+      en: [captain]

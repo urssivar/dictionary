@@ -1,0 +1,21 @@
+id: wk8sxSUeXyNoVasJEUiT
+headword: хайре бирьора
+ipa: ˌχajre birˈhora
+tags: [v, intr, phr]
+forms:
+  - text: хайре биьора
+    gloss: pfv
+  - text: хайре биьяв
+    gloss: aor
+  - text: хайре бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to may
+      ru: мочь
+    aliases:
+      en: [permit, let, can]
+    examples:
+      - text: дяна хайре бирьор
+        translation:
+          en: we may go

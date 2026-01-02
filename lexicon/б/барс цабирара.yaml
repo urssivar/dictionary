@@ -1,0 +1,17 @@
+id: grDfYu9jlXcm1ghACBQz
+headword: барс цабирара
+ipa: ˌbars tsabiˈrara
+tags: [v, phr, cls, tr]
+forms:
+  - text: барс цабарара
+    gloss: pfv
+  - text: барс цабарив
+    gloss: aor
+  - text: барс цабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to remake
+      ru: переделывать
+    aliases:
+      en: [update, upgrade]

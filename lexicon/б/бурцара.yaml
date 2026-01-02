@@ -1,0 +1,27 @@
+id: C7iK4oxh81az0w0IWXOi
+headword: бурцара
+ipa: burˈtsara
+tags: [v, tr, cls]
+forms:
+  - text: буцара
+    gloss: pfv
+  - text: буцив
+    gloss: aor
+  - text: бурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hold
+      ru: держать
+  - translation:
+      en: to catch
+      ru: ловить
+  - translation:
+      en: to bear
+      ru: переносить, выдерживать
+    aliases:
+      en: [tolerate, endure]
+    examples:
+      - text: буцьаре буцара авирьул
+        translation:
+          en: can't bear cold weather

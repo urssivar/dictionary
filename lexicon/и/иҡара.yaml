@@ -1,0 +1,21 @@
+id: evJEPAObUX7CEKcZMxTl
+headword: иҡара
+ipa: iˈqara
+tags: [v, tr]
+forms:
+  - text: аҡара
+    gloss: pfv
+  - text: аҡив
+    gloss: aor
+  - text: иҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pass
+      ru: проходить, преодолевать
+    aliases:
+      en: [surmount, overcome]
+    examples:
+      - text: ирчил еркь аҡив
+        translation:
+          en: the horse passed the river

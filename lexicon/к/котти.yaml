@@ -1,0 +1,19 @@
+id: KvNVE7GrI0ToULNZBGXW
+headword: котти
+ipa: koˈtːi
+tags: [pro]
+note:
+  en: '*кутти*'
+forms:
+  - text: котти
+    gloss: sg
+  - text: коттите
+    gloss: pl
+definitions:
+  - translation:
+      en: which
+      ru: который
+    examples:
+      - text: коттите йа ила?
+        translation:
+          en: which ones are yours?

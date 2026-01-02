@@ -1,0 +1,19 @@
+id: pFZ95i5jEHQZysMzsyYR
+headword: ямал
+ipa: æˈmal
+tags: [n, loan, arabic]
+forms:
+  - text: ямал
+    gloss: sg
+  - text: ямалте
+    gloss: pl
+definitions:
+  - translation:
+      en: means
+      ru: способ
+    aliases:
+      en: [way]
+    examples:
+      - text: ямал бугун
+        translation:
+          en: stalemate

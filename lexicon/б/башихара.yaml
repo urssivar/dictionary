@@ -1,0 +1,17 @@
+id: Nqlo0078iYsTheWJAl4z
+headword: башихара
+ipa: baʃiˈχara
+tags: [v, tr, cls]
+etymology:
+  en: Caus. of *баҳара* "to walk".
+forms:
+  - text: башихив
+    gloss: aor
+  - text: башихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to manage
+      ru: управлять
+    aliases:
+      en: [control]

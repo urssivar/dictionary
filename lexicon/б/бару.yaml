@@ -1,0 +1,15 @@
+id: nhMYW8BQovjEeeVdCTOI
+headword: бару
+ipa: baˈru
+tags: [n, loan, iranian]
+forms:
+  - text: бару
+    gloss: sg
+  - text: барне
+    gloss: pl
+definitions:
+  - translation:
+      en: stone fence
+      ru: каменный забор
+    aliases:
+      en: [fort]

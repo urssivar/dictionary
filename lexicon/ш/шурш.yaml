@@ -1,0 +1,17 @@
+id: zz6imHfdgOyupUyvxA9b
+headword: шурш
+ipa: ˈʃurʃ
+tags: [n]
+note:
+  en: There's also *шуршун* "window" in Shari.
+forms:
+  - text: шурш
+    gloss: sg
+  - text: шуршме
+    gloss: pl
+definitions:
+  - translation:
+      en: slot
+      ru: ниша
+    aliases:
+      en: [notch]

@@ -1,0 +1,17 @@
+id: YP0Z0xayLxknYOfis16B
+headword: ҡҡутҡҡа
+ipa: qːutˈqːa
+tags: [n]
+forms:
+  - text: ҡҡутҡҡа
+    gloss: sg
+  - text: ҡҡутҡҡан
+    gloss: loc, obl
+  - text: ҡҡутҡҡне
+    gloss: pl
+definitions:
+  - translation:
+      en: vessel
+      ru: сосуд
+    aliases:
+      en: [jug, pitcher]

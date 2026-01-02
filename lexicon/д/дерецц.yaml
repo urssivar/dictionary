@@ -1,0 +1,14 @@
+id: 7H3LuBuOM5iLu8vKFj9k
+headword: дерецц
+ipa: deˈretsː
+tags: [n]
+forms:
+  - text: дерецц
+    gloss: sg
+  - text: дирццме
+    gloss: pl
+definitions:
+  - translation:
+      en: plow
+      ru: плуг
+    tags: [agriculture]

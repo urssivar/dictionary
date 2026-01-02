@@ -1,0 +1,19 @@
+id: kjNPM6kY9baAEFhMkseQ
+headword: ьикьора
+ipa: hiˈkʼora
+tags: [v, intr]
+note:
+  en: '*цуҡана*'
+forms:
+  - text: ьакьора
+    gloss: pfv
+  - text: ьачьур
+    gloss: aor
+  - text: ьикьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be raised
+      ru: выростать
+    aliases:
+      en: [nurse, grow]

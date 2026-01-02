@@ -1,0 +1,16 @@
+id: TQsV9ReTxpSuudVNly3o
+headword: ляйлуғ
+ipa: læjˈluʁ
+tags: [n, loan, turkic]
+forms:
+  - text: ляйлуғ
+    gloss: sg
+  - text: ляйлуғе
+    gloss: pl
+definitions:
+  - translation:
+      en: handkerchief
+      ru: носовой платок
+    tags: [clothing, tool]
+    aliases:
+      en: [hanky]

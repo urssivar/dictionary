@@ -1,0 +1,15 @@
+id: wvPr2hAxgNDoOTtSpnZM
+headword: шаьар
+ipa: ʃaˈhar
+tags: [n, loan]
+forms:
+  - text: шаьар
+    gloss: sg
+  - text: шаьарте
+    gloss: pl
+definitions:
+  - translation:
+      en: city
+      ru: город
+    aliases:
+      en: [town]

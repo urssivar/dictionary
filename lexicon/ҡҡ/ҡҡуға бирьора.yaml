@@ -1,0 +1,17 @@
+id: bjEtBaM1koOWGZbpCvHP
+headword: ҡҡуға бирьора
+ipa: ˌqːuʁa birˈhora
+tags: [v, intr, cls, phr]
+forms:
+  - text: ҡҡуға биьора
+    gloss: pfv
+  - text: ҡҡуға биьяв
+    gloss: aor
+  - text: ҡҡуға бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rejoice
+      ru: радоваться
+    aliases:
+      en: [fun, joy]

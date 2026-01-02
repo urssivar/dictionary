@@ -1,0 +1,15 @@
+id: lejd01NLWvs8aPWvG1LL
+headword: ҡар кабирара
+ipa: ˌqar kabiˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: ҡар кабарара
+    gloss: pfv
+  - text: ҡар кабарив
+    gloss: aor
+  - text: ҡар кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to entrust
+      ru: вверять

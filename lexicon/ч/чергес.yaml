@@ -1,0 +1,14 @@
+id: PIZtSmKTxRuOMauU6zcB
+headword: чергес
+ipa: tʃerˈges
+tags: [n, adj, loan]
+forms:
+  - text: чергес
+    gloss: sg
+  - text: чергесе
+    gloss: pl
+definitions:
+  - translation:
+      en: circassian
+      ru: черкес
+    tags: [demonym]

@@ -1,0 +1,17 @@
+id: HTuNxNWgDJ5u5D2tpq0d
+headword: ьял барьара
+ipa: ˌhæl barˈhara
+tags: [v, tr]
+forms:
+  - text: ьял баьара
+    gloss: pfv
+  - text: ьял баьур
+    gloss: aor
+  - text: ьял барьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to find out
+      ru: выяснять
+    aliases:
+      en: [test, learn]

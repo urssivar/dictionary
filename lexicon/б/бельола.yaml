@@ -1,0 +1,17 @@
+id: uzHRImYMF72hKmf4aQT4
+headword: бельола
+ipa: belˈhola
+tags: [n, nmlz]
+etymology:
+  en: From *луьана* "to slaughter".
+forms:
+  - text: бельола
+    gloss: sg
+  - text: бельле
+    gloss: obl
+definitions:
+  - translation:
+      en: animal for slaughter
+      ru: скотина на забой
+    aliases:
+      en: [victim, sacrifice]

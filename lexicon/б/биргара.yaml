@@ -1,0 +1,15 @@
+id: A64K1sVxaFYXHLlJCCFd
+headword: биргара
+ipa: birˈgara
+tags: [v, intr, cls]
+forms:
+  - text: биржив
+    gloss: aor
+  - text: биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to play
+      ru: играть
+    aliases:
+      en: [game]

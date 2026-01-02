@@ -1,0 +1,17 @@
+id: idUV0o7O1FY8giaLp5R0
+headword: ьалукь ьабирара
+ipa: haˌlukʼ habiˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: ьалукь ьабарара
+    gloss: pfv
+  - text: ьалукь ьабарив
+    gloss: aor
+  - text: ьалукь ьабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to move
+      ru: расшевеливать
+    aliases:
+      en: [stir, shake]

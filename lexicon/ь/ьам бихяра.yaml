@@ -1,0 +1,15 @@
+id: A80YwRpRmK87qRAShnYM
+headword: ьам бихяра
+ipa: ˌham biˈχæra
+tags: [v, cls, tr, phr]
+forms:
+  - text: ьам бихяв
+    gloss: aor
+  - text: ьам бихяра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to remember
+      ru: запоминать
+    aliases:
+      en: [memorize]

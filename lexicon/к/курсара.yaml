@@ -1,0 +1,17 @@
+id: RJIPk6Ct07iLvAv3fZs8
+headword: курсара
+ipa: kurˈsara
+tags: [v, tr]
+forms:
+  - text: касара
+    gloss: pfv
+  - text: касив
+    gloss: aor
+  - text: курсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to down
+      ru: опускать
+    aliases:
+      en: [take, lower]

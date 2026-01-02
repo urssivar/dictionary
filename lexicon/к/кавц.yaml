@@ -1,0 +1,16 @@
+id: wlhbFSLrqaBXsN148RUn
+headword: кавц
+ipa: ˈkavts
+tags: [n]
+forms:
+  - text: кавц
+    gloss: sg
+  - text: кивцре
+    gloss: pl
+definitions:
+  - translation:
+      en: leather
+      ru: кожа (обработанная)
+    tags: [clothing, animal]
+    aliases:
+      en: [skin]

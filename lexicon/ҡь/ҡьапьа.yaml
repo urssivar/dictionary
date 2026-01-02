@@ -1,0 +1,16 @@
+id: Dl6RoLN6Y7PErn8uyPrh
+headword: ҡьапьа
+ipa: ˈqʼapʼa
+tags: [n]
+forms:
+  - text: ҡьапьа
+    gloss: sg
+  - text: ҡьапьан
+    gloss: obl
+definitions:
+  - translation:
+      en: water wheel
+      ru: водяное колесо
+    tags: [tool]
+    aliases:
+      en: [cog]

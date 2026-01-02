@@ -1,0 +1,18 @@
+id: 8ap9BIE5cRE4wwfHoLyJ
+headword: шала
+ipa: ˈʃala
+tags: [n, adj]
+forms:
+  - text: шала
+    gloss: sg
+  - text: шалун
+    gloss: obl
+  - text: шалме
+    gloss: pl
+definitions:
+  - translation:
+      en: light
+      ru: свет, светлый
+    tags: [nature]
+    aliases:
+      en: [bright]

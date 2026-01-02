@@ -1,0 +1,17 @@
+id: AXV9PorLlbPZJkIxAxtR
+headword: ццикьо
+ipa: ˈtsːikʼo
+tags: [n]
+forms:
+  - text: ццикьо
+    gloss: sg
+  - text: ццикьон
+    gloss: obl
+  - text: ццикьме
+    gloss: pl
+definitions:
+  - translation:
+      en: clew
+      ru: клубок
+    aliases:
+      en: [tangle, thread]

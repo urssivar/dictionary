@@ -1,0 +1,21 @@
+id: zfKgTdT3kkvpnb445LSn
+headword: чибиркара
+ipa: tʃibirˈkara
+tags: [v, intr, cls]
+forms:
+  - text: чибикара
+    gloss: pfv
+  - text: чибичив
+    gloss: aor
+  - text: чибиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to have to
+      ru: приходиться
+    aliases:
+      en: [force, happen, fall]
+    examples:
+      - text: дами ьел барара чибичив
+        translation:
+          en: i had to do it

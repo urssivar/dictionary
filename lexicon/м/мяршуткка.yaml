@@ -1,0 +1,17 @@
+id: Jcz4mo3N5QAqu5gKfK8O
+headword: мяршуткка
+ipa: mærʃutˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: мяршуткка
+    gloss: sg
+  - text: мяршутккан
+    gloss: obl
+  - text: мяршутккне
+    gloss: pl
+definitions:
+  - translation:
+      en: minibus
+      ru: микроавтобус
+    aliases:
+      en: [bus, car]

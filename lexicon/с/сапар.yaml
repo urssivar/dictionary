@@ -1,0 +1,15 @@
+id: D6IkfS66wPk11FbHvQcp
+headword: сапар
+ipa: saˈpar
+tags: [n, loan, arabic]
+forms:
+  - text: сапар
+    gloss: sg
+  - text: сапарте
+    gloss: pl
+definitions:
+  - translation:
+      en: travel
+      ru: путешествие
+    aliases:
+      en: [trip]

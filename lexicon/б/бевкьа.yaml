@@ -1,0 +1,15 @@
+id: moiquCSeQmtHjfB6GxSA
+headword: бевкьа
+ipa: ˈbevkʼa
+tags: [n, nmlz]
+etymology:
+  en: From *бувкьара* "to die".
+forms:
+  - text: бевкьа
+    gloss: sg
+  - text: бевкьан
+    gloss: obl
+definitions:
+  - translation:
+      en: death
+      ru: смерть

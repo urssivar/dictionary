@@ -1,0 +1,17 @@
+id: DBNm1I69ePFiVijik0GB
+headword: маҡҡ бирццара
+ipa: ˌmaqː birˈtsːara
+tags: [v, intr, cls, phr]
+forms:
+  - text: маҡҡ биццара
+    gloss: pfv
+  - text: маҡҡ биццур
+    gloss: aor
+  - text: маҡҡ бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hunch
+      ru: горбиться
+    aliases:
+      en: [crook, hump]

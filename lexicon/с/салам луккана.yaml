@@ -1,0 +1,15 @@
+id: IVTh1JFmLDmsiH3feS3p
+headword: салам луккана
+ipa: saˈlam luˌkːana
+tags: [v, tr, phr]
+forms:
+  - text: салам беккара
+    gloss: pfv
+  - text: салам беччив
+    gloss: aor
+  - text: салам луккана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to greet
+      ru: здороваться

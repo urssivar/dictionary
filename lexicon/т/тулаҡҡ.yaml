@@ -1,0 +1,16 @@
+id: 1Vi8e4VQEw0490FSfDeX
+headword: тулаҡҡ
+ipa: tuˈlaqː
+tags: [n, loan, turkic]
+forms:
+  - text: тулаҡҡ
+    gloss: sg
+  - text: тулаҡҡе
+    gloss: pl
+definitions:
+  - translation:
+      en: gaiters
+      ru: гетры
+    tags: [clothing]
+    aliases:
+      en: [lash, boot]

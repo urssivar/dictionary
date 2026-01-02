@@ -1,0 +1,23 @@
+id: E6BxcCKdrOAtEJemBtZY
+headword: пардав
+ipa: parˈdav
+tags: [n, loan]
+forms:
+  - text: пардав
+    gloss: sg
+  - text: пардавте
+    gloss: pl
+definitions:
+  - translation:
+      en: veil
+      ru: вуаль
+    tags: [clothing]
+    aliases:
+      en: [cover]
+  - note:
+      en: E.g. of egg.
+    translation:
+      en: membrane
+      ru: плёнка
+    aliases:
+      en: [skin]

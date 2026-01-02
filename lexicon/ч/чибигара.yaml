@@ -1,0 +1,17 @@
+id: m1EuFon4NbW5xHzCDJvI
+headword: чибигара
+ipa: tʃibiˈgara
+tags: [v, cls, tr]
+forms:
+  - text: чибагара
+    gloss: pfv
+  - text: чибажив
+    gloss: aor
+  - text: чибигара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to see
+      ru: видеть
+    aliases:
+      en: [look]

@@ -1,0 +1,17 @@
+id: WGUVriXkL3Q8OiJ9pJSj
+headword: баь аргара
+ipa: ˌbah arˈgara
+tags: [v, intr, cls]
+forms:
+  - text: баь агара
+    gloss: pfv
+  - text: баь агур
+    gloss: aor
+  - text: баь аргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to own
+      ru: владеть
+    aliases:
+      en: [possess]

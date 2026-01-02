@@ -1,0 +1,21 @@
+id: puEr33U7O06B70ZjbTq6
+headword: урцара
+ipa: urˈtsara
+tags: [v, cls, intr]
+forms:
+  - text: берцара
+    gloss: pfv
+  - text: берцур
+    gloss: aor
+  - text: бурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to escape
+      ru: спасаться
+    aliases:
+      en: [save]
+    examples:
+      - text: ттутту буцал бекь бурцар
+        translation:
+          en: who keeps his mouth will keep his head

@@ -1,0 +1,17 @@
+id: zlATV389iZ1BkoWJ8US1
+headword: ьалугана
+ipa: haluˈgana
+tags: [v, tr, cls]
+forms:
+  - text: ьабалгана
+    gloss: pfv
+  - text: ьабалгун
+    gloss: aor
+  - text: ьалугана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to disrupt
+      ru: нарушать
+    aliases:
+      en: [break]

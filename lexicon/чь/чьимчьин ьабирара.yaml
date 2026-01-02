@@ -1,0 +1,17 @@
+id: PGKUuROxk1oK0fbekbKR
+headword: чьимчьин ьабирара
+ipa: tʃʼimˌtʃʼin habiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: чьимчьин ьабарара
+    gloss: pfv
+  - text: чьимчьин ьабарив
+    gloss: aor
+  - text: чьимчьин ьабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to wrinkle
+      ru: морщить
+    aliases:
+      en: [crease]

@@ -1,0 +1,17 @@
+id: k8xpZj9nXdDz0HQBvyMX
+headword: ҡҡуцц кабирара
+ipa: ˌqːutsː kabiˈrara
+tags: [cls, tr, v, phr]
+forms:
+  - text: ҡҡуцц кабарара
+    gloss: pfv
+  - text: ҡҡуцц кабарив
+    gloss: aor
+  - text: ҡҡуцц кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dip
+      ru: макать
+    aliases:
+      en: [immerge]

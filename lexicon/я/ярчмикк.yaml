@@ -1,0 +1,16 @@
+id: amXWXrcKu15vdV22rX9S
+headword: ярчмикк
+ipa: ærtʃˈmikː
+tags: [n]
+forms:
+  - text: ярчмикк
+    gloss: sg
+  - text: ярчмикке
+    gloss: pl
+definitions:
+  - translation:
+      en: whip
+      ru: плеть
+    tags: [tool]
+    aliases:
+      en: [lash]

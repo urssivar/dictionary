@@ -1,0 +1,17 @@
+id: JYPPNqixXcYXKg5S37Dp
+headword: давкк бирццара
+ipa: ˌdavkː birˈtsːara
+tags: [v, phr, cls, intr]
+forms:
+  - text: давкк биццара
+    gloss: pfv
+  - text: давкк биццур
+    gloss: aor
+  - text: давкк бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to work out
+      ru: получаться, удаваться
+    aliases:
+      en: [succeed]

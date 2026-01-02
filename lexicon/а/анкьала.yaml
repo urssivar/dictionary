@@ -1,0 +1,21 @@
+id: yJMhbkFbYd2lMdagQDWc
+headword: анкьала
+ipa: anˈkʼala
+tags: [n]
+forms:
+  - text: анкьала
+    gloss: sg
+  - text: анкьле
+    gloss: obl
+  - text: анкьлиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: sleep
+      ru: сон
+    aliases:
+      en: [nap]
+    examples:
+      - text: анкьала барив
+        translation:
+          en: got some sleep

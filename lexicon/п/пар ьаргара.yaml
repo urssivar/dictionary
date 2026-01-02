@@ -1,0 +1,17 @@
+id: j92CLX5TNVmpkRNut5in
+headword: пар ьаргара
+ipa: ˌpar harˈgara
+tags: [v, intr]
+forms:
+  - text: пар ьагара
+    gloss: pfv
+  - text: пар ьагур
+    gloss: aor
+  - text: пар ьаргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to evaporate
+      ru: испаряться
+    aliases:
+      en: [disappear, steam]

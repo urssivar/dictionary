@@ -1,0 +1,24 @@
+id: uyl9r6aXdY9cvfXYIlKY
+headword: гутти бирхара
+ipa: guˌtːi birˈχаra
+tags: [v, intr, cls, phr]
+note:
+  en: '*сатти бирхара*'
+forms:
+  - text: гутти бархара
+    gloss: pfv
+  - text: гутти бархив
+    gloss: aor
+  - text: гутти бирхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to impede
+      ru: затруднять
+    aliases:
+      en: [interfere, hinder]
+  - translation:
+      en: to interfere
+      ru: мешать
+    aliases:
+      en: [disturb, stir]

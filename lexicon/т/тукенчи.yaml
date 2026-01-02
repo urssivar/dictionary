@@ -1,0 +1,16 @@
+id: RXWQ2yrOvTbgXMVzYMyL
+headword: тукенчи
+ipa: tukenˈtʃi
+tags: [n, loan]
+forms:
+  - text: тукенчи
+    gloss: sg
+  - text: тукенчибе
+    gloss: pl
+definitions:
+  - translation:
+      en: salesman
+      ru: продавец
+    tags: [profession]
+    aliases:
+      en: [dealer]

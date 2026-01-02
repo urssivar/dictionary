@@ -1,0 +1,15 @@
+id: Qcb1jFoJy1zTEz9EF8Tw
+headword: пикре
+ipa: ˈpikre
+tags: [n, loan, arabic]
+forms:
+  - text: пикре
+    gloss: sg
+  - text: пикунде
+    gloss: pl
+definitions:
+  - translation:
+      en: thought
+      ru: мысль
+    aliases:
+      en: [idea]

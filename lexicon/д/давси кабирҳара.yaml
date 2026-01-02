@@ -1,0 +1,19 @@
+id: RTaIhzEjJNUMdJJsozgl
+headword: давси кабирҳара
+ipa: ˌdavsi kabirˈxara
+tags: [v, tr, cls, phr]
+etymology:
+  en: The nominal part is from *бувсана* "to get wet".
+note:
+  en: '*кьантьи кабирҳара*'
+forms:
+  - text: давси кабиҳара
+    gloss: pfv
+  - text: давси кабишив
+    gloss: aor
+  - text: давси кабирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to soak
+      ru: замачивать

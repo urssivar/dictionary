@@ -1,0 +1,30 @@
+id: ARaVB2dDDf3qX0itX4sq
+headword: бейкку
+ipa: ˈbejkːu
+tags: [cop, cls]
+etymology:
+  en: Probably fusion of forms of *би* "to be" and *акку* "no".
+note:
+  en: '*байкку* (3 prs), *бейккура* (3 prs)'
+forms:
+  - text: бейккоде
+    gloss: '1'
+  - text: бейккотте
+    gloss: 2 sg
+  - text: бейккотта
+    gloss: 2 pl
+  - text: бейкку
+    gloss: '3'
+  - text: бейччу
+    gloss: pst
+definitions:
+  - translation:
+      en: there's no
+      ru: нет
+    examples:
+      - text: шин дейкку
+        translation:
+          en: there's no water
+      - text: ижал ду ҡил вейччу
+        translation:
+          en: i was not at home today

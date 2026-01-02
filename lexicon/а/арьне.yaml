@@ -1,0 +1,14 @@
+id: mOJfBS57aJlfTVMvb2cT
+headword: арьне
+ipa: ˈarhne
+tags: [n]
+forms:
+  - text: арьне
+    gloss: sg
+  - text: арьниппе
+    gloss: pl
+definitions:
+  - translation:
+      en: saw
+      ru: пила
+    tags: [tool]

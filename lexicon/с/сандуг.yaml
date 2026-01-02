@@ -1,0 +1,19 @@
+id: CK1C28WWOgEEih5rw5X0
+headword: сандуг
+ipa: sanˈdug
+tags: [n, loan]
+note:
+  en: '*кенду*'
+forms:
+  - text: сандуг
+    gloss: sg
+  - text: сандуган
+    gloss: loc
+  - text: сандуге
+    gloss: pl
+definitions:
+  - translation:
+      en: chest
+      ru: ларь
+    aliases:
+      en: [box]

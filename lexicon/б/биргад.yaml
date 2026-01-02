@@ -1,0 +1,15 @@
+id: jRfv9e37byEQuO4gPekS
+headword: биргад
+ipa: birˈgad
+tags: [n, loan, russian]
+forms:
+  - text: биргад
+    gloss: sg
+  - text: биргаде
+    gloss: pl
+definitions:
+  - translation:
+      en: crew
+      ru: экипаж
+    aliases:
+      en: [team, brigade]

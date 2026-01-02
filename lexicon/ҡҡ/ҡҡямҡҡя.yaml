@@ -1,0 +1,20 @@
+id: 4mcfhu57z7UDcck0EsvO
+headword: ҡҡямҡҡя
+ipa: ˈqːæmqːæ
+tags: [n]
+forms:
+  - text: ҡҡямҡҡя
+    gloss: sg
+  - text: ҡҡямҡҡян
+    gloss: obl
+  - text: ҡҡямҡҡне
+    gloss: pl
+definitions:
+  - translation:
+      en: pitchfork
+      ru: вилы
+    tags: [tool]
+  - translation:
+      en: 2 meters
+      ru: 2 метра
+    tags: [measure]

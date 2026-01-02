@@ -1,0 +1,17 @@
+id: 4aul8OfTbODkKezVTB4M
+headword: бат бурғара
+ipa: ˌbat burˈʁara
+tags: [v, tr, cls, phr]
+forms:
+  - text: бат беғара
+    gloss: pfv
+  - text: бат беғив
+    gloss: aor
+  - text: бат бурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to provide
+      ru: предоставлять, отправлять
+    aliases:
+      en: [give, send]

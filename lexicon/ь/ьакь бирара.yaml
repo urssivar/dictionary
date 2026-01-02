@@ -1,0 +1,17 @@
+id: j1h8GFraREYWn4pGbi5P
+headword: ьакь бирара
+ipa: ˌhakʼ biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ьакь барара
+    gloss: pfv
+  - text: ьакь барив
+    gloss: aor
+  - text: ьакь бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shake
+      ru: шатать
+    aliases:
+      en: [move]

@@ -1,0 +1,21 @@
+id: AQa4YajNbtXd5Upc19bZ
+headword: ликкона
+ipa: liˈkːona
+tags: [v, cls, intr]
+forms:
+  - text: белккона
+    gloss: pfv
+  - text: белккун
+    gloss: aor
+  - text: ликкона
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sear
+      ru: обжигать, иссушать
+    aliases:
+      en: [dry, scorch, desiccate]
+    examples:
+      - text: марка абарил ачье делккун
+        translation:
+          en: the lack of rain scorched the wheat

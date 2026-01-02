@@ -1,0 +1,17 @@
+id: m4ro0OYPjjZICwo62XvW
+headword: сипа
+ipa: ˈsipa
+tags: [n]
+forms:
+  - text: сипа
+    gloss: sg
+  - text: сипан
+    gloss: obl, loc
+  - text: сипне
+    gloss: pl
+definitions:
+  - translation:
+      en: urinary drainage
+      ru: мочевой слив
+    aliases:
+      en: [plumbing]

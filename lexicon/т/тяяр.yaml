@@ -1,0 +1,30 @@
+id: kJMkpemmwvrDpMZWR1TD
+headword: тяяр
+ipa: tæˈær
+tags: [n, loan, arabic]
+note:
+  en: '*тяьяр*'
+forms:
+  - text: тяяр
+    gloss: sg
+  - text: тяярте
+    gloss: pl
+definitions:
+  - translation:
+      en: condition
+      ru: положение
+    aliases:
+      en: [state]
+    examples:
+      - text: ци тяяр би йа ила?
+        translation:
+          en: how are you doing?
+  - translation:
+      en: method
+      ru: способ
+    aliases:
+      en: [manner, way, approach]
+    examples:
+      - text: ил иран тяяр яхице акку
+        translation:
+          en: the method you say is not good

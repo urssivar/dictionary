@@ -1,0 +1,17 @@
+id: zCwIljFVWgUdwIEmLj7K
+headword: усара
+ipa: uˈsːara
+tags: [v, tr, cls]
+forms:
+  - text: берсара
+    gloss: pfv
+  - text: берсив
+    gloss: aor
+  - text: усара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shave
+      ru: брить
+    aliases:
+      en: [cut]

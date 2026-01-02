@@ -1,0 +1,17 @@
+id: CNQ1tacfNmB9AJLYFxvd
+headword: ттамттан ьабирццара
+ipa: tːamˌtːan habirˈtsːara
+tags: [v, phr, cls, intr]
+forms:
+  - text: ттамттан ьабиццара
+    gloss: pfv
+  - text: ттамттан ьабиццур
+    gloss: aor
+  - text: ттамттан ьабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to die
+      ru: подыхать
+    aliases:
+      en: [collapse, finish, perish]

@@ -1,0 +1,17 @@
+id: 1CmkCsNwEW1uagFqaYun
+headword: ицара
+ipa: iˈtsara
+tags: [v, tr, cls]
+forms:
+  - text: бирцара
+    gloss: pfv
+  - text: бирцив
+    gloss: aor
+  - text: ицара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to wash
+      ru: мыть
+    aliases:
+      en: [clean]

@@ -1,0 +1,16 @@
+id: PpgnqJMdGMn0oaeU0JcB
+headword: ҡьявцьукь
+ipa: qʼævˈtsʼukʼ
+tags: [n]
+forms:
+  - text: ҡьявцьукь
+    gloss: sg
+  - text: ҡьявцьукье
+    gloss: pl
+definitions:
+  - translation:
+      en: lavash
+      ru: лаваш
+    tags: [food]
+    aliases:
+      en: [flatbread, bread]

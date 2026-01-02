@@ -1,0 +1,19 @@
+id: SHDsL6cbSlmkg2VElzsx
+headword: зур кабиргара
+ipa: ˌzur kabirˈgara
+tags: [v, intr, cls, phr]
+note:
+  en: '*сур ~*'
+forms:
+  - text: зур кабигара
+    gloss: pfv
+  - text: зур кабижив
+    gloss: aor
+  - text: зур кабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dangle
+      ru: болтаться
+    aliases:
+      en: [hang, out]

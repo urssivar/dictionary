@@ -1,0 +1,17 @@
+id: 1xsXnCO1gqm9sZtxVz7Q
+headword: цан ьалугана
+ipa: tsan haluˈgana
+tags: [v, intr, cls, phr]
+forms:
+  - text: цан ьабалгана
+    gloss: pfv
+  - text: цан ьабалгун
+    gloss: aor
+  - text: цан ьалугана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to live in harmony
+      ru: жить в ладу
+    aliases:
+      en: [prosper, well]

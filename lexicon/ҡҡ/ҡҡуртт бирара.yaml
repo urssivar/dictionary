@@ -1,0 +1,17 @@
+id: ETQMGFDKXFEagsOyD3VD
+headword: ҡҡуртт бирара
+ipa: ˌqːurtː biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ҡҡуртт барара
+    gloss: pfv
+  - text: ҡҡуртт барив
+    gloss: aor
+  - text: ҡҡуртт бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to push
+      ru: толкать
+    aliases:
+      en: [move]

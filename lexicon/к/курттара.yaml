@@ -1,0 +1,17 @@
+id: 7bGrR2w0jVQz4btm7lWh
+headword: курттара
+ipa: kurˈtːara
+tags: [v, tr, cls]
+forms:
+  - text: кабурттара
+    gloss: pfv
+  - text: кабурттив
+    gloss: aor
+  - text: курттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to denigrate
+      ru: порочить
+    aliases:
+      en: [defame, slander]

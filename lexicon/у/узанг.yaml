@@ -1,0 +1,16 @@
+id: CJyOkUJg1kbGIt67vcce
+headword: узанг
+ipa: uˈzang
+tags: [n, loan, turkic]
+forms:
+  - text: узанг
+    gloss: sg
+  - text: узанге
+    gloss: pl
+definitions:
+  - translation:
+      en: stirrup
+      ru: стремя
+    tags: [tool]
+    aliases:
+      en: [leg]

@@ -1,0 +1,22 @@
+id: mcpYEq3MAk39fxUxcoGF
+headword: кургара
+ipa: kurˈgara
+tags: [v, tr]
+forms:
+  - text: кергора
+    gloss: pfv
+  - text: кергур
+    gloss: aor
+  - text: кургара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sift
+      ru: просеивать
+    aliases:
+      en: [sieve, clean, filter]
+  - note:
+      en: I.e. spider web
+    translation:
+      en: to scavenge
+      ru: убирать мусор

@@ -1,0 +1,17 @@
+id: HbwVJdEnrsgwvBD69CwL
+headword: тьеле
+ipa: ˈtʼele
+tags: [n]
+forms:
+  - text: тьеле
+    gloss: sg
+  - text: тьелин
+    gloss: obl
+  - text: тьилме
+    gloss: pl
+definitions:
+  - translation:
+      en: handle
+      ru: ручка
+    aliases:
+      en: [knob, holder]

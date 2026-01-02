@@ -1,0 +1,17 @@
+id: s8SnewRnxqu235OT8zxx
+headword: кулгана
+ipa: kulˈgana
+tags: [v, intr]
+forms:
+  - text: калгана
+    gloss: pfv
+  - text: калгун
+    gloss: aor
+  - text: кулгана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to remain
+      ru: оставаться
+    aliases:
+      en: [stay]

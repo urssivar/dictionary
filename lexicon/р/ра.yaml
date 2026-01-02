@@ -1,0 +1,17 @@
+id: NwEbBgs62X5KneFhQWf9
+headword: ра
+ipa: ˈra
+tags: [ptcl]
+definitions:
+  - translation:
+      en: and
+      ru: и
+    aliases:
+      en: [too]
+    examples:
+      - text: ду ра ви да
+        translation:
+          en: i am here too
+      - text: и ра ду ра
+        translation:
+          en: you and i

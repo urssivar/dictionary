@@ -1,0 +1,15 @@
+id: VwxMSQtRPHKzZEu7hzxc
+headword: бигара
+ipa: biˈgara
+tags: [v, cls, intr]
+forms:
+  - text: багара
+    gloss: pfv
+  - text: бажив
+    gloss: aor
+  - text: бигара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be needed
+      ru: быть нужным

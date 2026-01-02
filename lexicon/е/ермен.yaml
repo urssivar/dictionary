@@ -1,0 +1,14 @@
+id: YvtRk2HJo8EoByQ4jGSP
+headword: ермен
+ipa: erˈmen
+tags: [n, adj, loan]
+forms:
+  - text: ермен
+    gloss: sg
+  - text: ерменте
+    gloss: pl
+definitions:
+  - translation:
+      en: armenian
+      ru: армянин
+    tags: [demonym]

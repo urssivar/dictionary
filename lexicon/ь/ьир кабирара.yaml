@@ -1,0 +1,17 @@
+id: gEnMMQF9RrPzqZv6rnMc
+headword: ьир кабирара
+ipa: ˌhir kabiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ьир кабарара
+    gloss: pfv
+  - text: ьир кабарив
+    gloss: aor
+  - text: ьир кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to instigate
+      ru: подстрекать
+    aliases:
+      en: [incite]

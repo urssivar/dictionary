@@ -1,0 +1,16 @@
+id: uqkZNuAHaVQRjZmgqkwd
+headword: тамаччу
+ipa: taˈmatʃːu
+tags: [conj]
+note:
+  en: '*таман аччу у*'
+definitions:
+  - translation:
+      en: as if
+      ru: будто бы
+    aliases:
+      en: [like]
+    examples:
+      - text: тамаччу бурха катьун авяяж хула киццара
+        translation:
+          en: as if he has built a house to brag like that

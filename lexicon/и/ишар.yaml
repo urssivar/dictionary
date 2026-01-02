@@ -1,0 +1,17 @@
+id: CNKVrrPTVu8tqBlJEUeF
+headword: ишар
+ipa: iˈʃar
+tags: [n]
+note:
+  en: '*ишарат*'
+forms:
+  - text: ишар
+    gloss: sg
+  - text: ишарте
+    gloss: pl
+definitions:
+  - translation:
+      en: symbol
+      ru: cимвол
+    aliases:
+      en: [sign]

@@ -1,0 +1,18 @@
+id: QE73ktC2DgyCQKdYjzJE
+headword: яжа
+ipa: æˈʒa
+tags: [n]
+note:
+  en: '*яжи*'
+forms:
+  - text: яжа
+    gloss: sg
+  - text: яжне
+    gloss: pl
+definitions:
+  - translation:
+      en: respected elder woman
+      ru: уважаемая пожилая
+    tags: [kinship]
+    aliases:
+      en: [mrs]

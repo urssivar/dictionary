@@ -1,0 +1,18 @@
+id: UMC2B56zMLzzEkQx19BZ
+headword: ьинце
+ipa: ˈhintse
+tags: [n]
+forms:
+  - text: ьинце
+    gloss: sg
+  - text: ьинца
+    gloss: obl
+definitions:
+  - translation:
+      en: apple
+      ru: яблоко
+    tags: [plant, tree, food, fruit]
+    examples:
+      - text: ғярбар ьинце
+        translation:
+          en: thundering apple

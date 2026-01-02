@@ -1,0 +1,17 @@
+id: Mxig0Lvev9ZOIvrO6b34
+headword: бирхара
+ipa: birˈχara
+tags: [v, intr, cls]
+note:
+  en: '*бихара* (PFV)'
+forms:
+  - text: бирхив
+    gloss: pfv
+  - text: бирхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to trust
+      ru: доверять
+    aliases:
+      en: [rely]

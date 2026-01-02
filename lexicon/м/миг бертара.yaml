@@ -1,0 +1,15 @@
+id: WOVAcnCAIt4qyKM0EYTY
+headword: миг бертара
+ipa: ˌmig berˈtara
+tags: [v, intr, cls, phr]
+forms:
+  - text: миг бетара
+    gloss: pfv
+  - text: миг бетур
+    gloss: aor
+  - text: миг бертара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to ice up
+      ru: леденеть

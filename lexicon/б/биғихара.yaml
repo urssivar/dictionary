@@ -1,0 +1,19 @@
+id: lUnQ0e2qhgbuTUj5GMFl
+headword: биғихара
+ipa: biʁiˈχara
+tags: [v, tr, cls]
+note:
+  en: '*бехара*'
+forms:
+  - text: беғихара
+    gloss: pfv
+  - text: беғихив
+    gloss: aor
+  - text: биғихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to deliver
+      ru: доставлять
+    aliases:
+      en: [move, get, send]

@@ -1,0 +1,17 @@
+id: NEhpEXXkRMeXBsU6W0ZX
+headword: руккур ьабиргара
+ipa: ruˌkːur habirˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: руккур ьабигара
+    gloss: pfv
+  - text: руккур ьабижив
+    gloss: aor
+  - text: руккур ьабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to take a place
+      ru: размещаться
+    aliases:
+      en: [seat]

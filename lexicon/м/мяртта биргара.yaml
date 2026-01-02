@@ -1,0 +1,17 @@
+id: oFf98TK6c6VEXf9SSNsR
+headword: мяртта биргара
+ipa: ˌmærtːa birˈgara
+tags: [v, cls, intr]
+forms:
+  - text: мяртта бигара
+    gloss: pfv
+  - text: мяртта бижив
+    gloss: aor
+  - text: мяртта биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to saddle
+      ru: седлать
+    aliases:
+      en: [mount]

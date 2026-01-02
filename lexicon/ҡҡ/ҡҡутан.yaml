@@ -1,0 +1,16 @@
+id: UGCR05J17wrsUQ68WEVR
+headword: ҡҡутан
+ipa: qːuˈtan
+tags: [n, loan, turkic]
+forms:
+  - text: ҡҡутан
+    gloss: sg
+  - text: ҡҡутанте
+    gloss: pl
+definitions:
+  - translation:
+      en: ranch
+      ru: кошара
+    tags: [agriculture]
+    aliases:
+      en: [farm]

@@ -1,0 +1,17 @@
+id: GB0zGC2OwEXuLDcOFZFJ
+headword: чибирҳара
+ipa: tʃibirˈxara
+tags: [v, cls, tr]
+forms:
+  - text: чибиҳара
+    gloss: pfv
+  - text: чибишив
+    gloss: aor
+  - text: чибирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to overlap
+      ru: перекрывать
+    aliases:
+      en: [cover, overlay]

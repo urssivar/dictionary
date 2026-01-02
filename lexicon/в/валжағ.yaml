@@ -1,0 +1,18 @@
+id: LcMZUQ6RWpDfsHrDwacq
+headword: валжағ
+ipa: valˈʒaʁ
+tags: [n, nmlz]
+note:
+  en: '*ҡҡабалай*'
+forms:
+  - text: валжағ
+    gloss: sg
+  - text: валжиғе
+    gloss: pl
+definitions:
+  - translation:
+      en: gown
+      ru: нарядное платье
+    tags: [clothing]
+    aliases:
+      en: [frock, dress]

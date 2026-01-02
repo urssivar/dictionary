@@ -1,0 +1,17 @@
+id: EhYbPmT7fgdDNN3yYbb4
+headword: сағли курғара
+ipa: saʁˌli kurˈʁara
+tags: [v, tr]
+forms:
+  - text: сағли кағара
+    gloss: pfv
+  - text: сағли кағив
+    gloss: aor
+  - text: сағли курғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to obstruct
+      ru: преграждать
+    aliases:
+      en: [block, bar, stop]

@@ -1,0 +1,14 @@
+id: IDAlfkPWjnTcv0cMpfqC
+headword: зилеза
+ipa: ziˈleza
+tags: [n]
+forms:
+  - text: зилеза
+    gloss: sg
+  - text: зилезне
+    gloss: pl
+definitions:
+  - translation:
+      en: spleen
+      ru: селезёнка
+    tags: [body]

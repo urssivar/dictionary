@@ -1,0 +1,15 @@
+id: GRuMBEDknoVdhOiDSgOZ
+headword: ча
+ipa: ˈtʃa
+tags: [pro]
+note:
+  en: There's also *чахал* but it's specific usage remains to be determined.
+forms:
+  - text: ча
+    gloss: nom
+  - text: чи
+    gloss: obl
+definitions:
+  - translation:
+      en: who
+      ru: кто

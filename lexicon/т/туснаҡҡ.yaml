@@ -1,0 +1,20 @@
+id: ZsFGI71JphhwvAVNRUvo
+headword: туснаҡҡ
+ipa: tusˈnaqː
+tags: [n, loan, turkic]
+forms:
+  - text: туснаҡҡ
+    gloss: sg
+  - text: туснаҡҡе
+    gloss: pl
+definitions:
+  - translation:
+      en: jail
+      ru: тюрьма
+    examples:
+      - text: туснаҡҡ варив
+        translation:
+          en: imprisoned him
+  - translation:
+      en: prisoner
+      ru: заключённый

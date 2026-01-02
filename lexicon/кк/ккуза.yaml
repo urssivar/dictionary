@@ -1,0 +1,17 @@
+id: RlAdUc6IrC914mcfxtBT
+headword: ккуза
+ipa: ˈkːuza
+tags: [n, loan, russian]
+forms:
+  - text: ккуза
+    gloss: sg
+  - text: ккузан
+    gloss: obl
+  - text: ккузабе
+    gloss: pl
+definitions:
+  - translation:
+      en: hull
+      ru: кузов
+    aliases:
+      en: [frame, carcass]

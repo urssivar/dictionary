@@ -1,0 +1,17 @@
+id: 1K14hCrbW7k2P3EsZe3f
+headword: мяғла бурцара
+ipa: ˌmæʁla burˈtsara
+tags: [v, tr, cls, phr]
+forms:
+  - text: мяғла буцара
+    gloss: pfv
+  - text: мяғла буцив
+    gloss: aor
+  - text: мяғла бурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to conceal
+      ru: утаивать
+    aliases:
+      en: [hide, mask, withhold]

@@ -1,0 +1,17 @@
+id: qZ30lLxgfMB2nm0D3Zmw
+headword: бурцихара
+ipa: burtsiˈχara
+tags: [v, cls, tr]
+forms:
+  - text: берцихара
+    gloss: pfv
+  - text: берцихур
+    gloss: aor
+  - text: бурцихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to save
+      ru: спасать
+    aliases:
+      en: [rescue]

@@ -1,0 +1,19 @@
+id: gmyEy0wEvhHILl1QkFQR
+headword: базарбар
+ipa: baˈzarbar
+tags: [n]
+etymology:
+  en: Lit. *market-day*.
+note:
+  en: '*базарбари*'
+forms:
+  - text: базарбар
+    gloss: sg
+  - text: базарбирме
+    gloss: pl
+definitions:
+  - translation:
+      en: day off
+      ru: выходной
+    aliases:
+      en: [weekend, holiday]

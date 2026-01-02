@@ -1,0 +1,20 @@
+id: DRKyNcUoRyv5MFClZ8fr
+headword: ттутту
+ipa: tːuˈtːu
+tags: [n]
+forms:
+  - text: ттутту
+    gloss: sg
+  - text: ттуттун
+    gloss: obl, loc
+  - text: ттуттме
+    gloss: pl
+definitions:
+  - translation:
+      en: mouth
+      ru: рот
+    tags: [body]
+    examples:
+      - text: '* ьабаҳан ттутту'
+        translation:
+          en: gabber

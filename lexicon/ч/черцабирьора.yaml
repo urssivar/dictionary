@@ -1,0 +1,19 @@
+id: b831RKwmr268vdJhnoeb
+headword: черцабирьора
+ipa: tʃertsabirˈhora
+tags: [v, cls, intr]
+note:
+  en: '*чербирьора*'
+forms:
+  - text: черцабиьора
+    gloss: pfv
+  - text: черцабиьяв
+    gloss: aor
+  - text: черцабирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to come back
+      ru: возвращаться
+    aliases:
+      en: [return]

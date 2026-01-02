@@ -1,0 +1,15 @@
+id: Hbyg8iuuAxyAOYCeAokg
+headword: кабиркара
+ipa: kabirˈkara
+tags: [v, intr, cls]
+forms:
+  - text: кабикара
+    gloss: pfv
+  - text: кабичив
+    gloss: aor
+  - text: кабиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fall
+      ru: падать

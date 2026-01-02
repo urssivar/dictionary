@@ -1,0 +1,14 @@
+id: hMjGJ35KezchOdmmzxbh
+headword: интрис
+ipa: intˈris
+tags: [n, loan, russian]
+definitions:
+  - translation:
+      en: enthusiasm
+      ru: энтузиазм, интерес
+    aliases:
+      en: [interest]
+    examples:
+      - text: интрис бейкку
+        translation:
+          en: not interested

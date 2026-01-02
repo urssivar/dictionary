@@ -1,0 +1,20 @@
+id: 1BtRLAnuWhIoXzWdbZOT
+headword: пукьал
+ipa: puˈkʼal
+tags: [n]
+note:
+  en: |-
+    *пукьура*
+    *дучел*
+forms:
+  - text: пукьал
+    gloss: sg
+  - text: пукьле
+    gloss: pl
+definitions:
+  - translation:
+      en: scale
+      ru: чешуйка
+  - translation:
+      en: grain husk
+      ru: шелуха зёрен

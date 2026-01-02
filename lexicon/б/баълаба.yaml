@@ -1,0 +1,21 @@
+id: ZOOSqLVCwkxFOwZ38Svr
+headword: баълаба
+ipa: baʔlaˈba
+tags: [n]
+etymology:
+  en: From *баъла баъи* "on the edge's edge".
+forms:
+  - text: баълаба
+    gloss: sg
+  - text: баълабне
+    gloss: pl
+definitions:
+  - translation:
+      en: extremity
+      ru: крайность
+    aliases:
+      en: [verge]
+    examples:
+      - text: байълабай макиргатте
+        translation:
+          en: don't sit on the very edge

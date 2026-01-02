@@ -1,0 +1,15 @@
+id: tlmVFfTk1bJpmVKDwGJU
+headword: гара
+ipa: ˈgara
+tags: [n]
+forms:
+  - text: гара
+    gloss: sg
+  - text: гаран
+    gloss: obl
+  - text: гирбе
+    gloss: pl
+definitions:
+  - translation:
+      en: shell
+      ru: скорлупа

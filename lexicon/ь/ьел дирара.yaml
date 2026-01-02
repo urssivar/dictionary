@@ -1,0 +1,23 @@
+id: FoqxWsVEjJ3Ql2gi6z4Y
+headword: ьел дирара
+ipa: ˌhel diˈrara
+tags: [v, intr, phr]
+note:
+  en: Frozen class
+forms:
+  - text: ьел дарара
+    gloss: pfv
+  - text: ьел дарив
+    gloss: aor
+  - text: ьел дирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pretend
+      ru: притворяться
+    aliases:
+      en: [play]
+    examples:
+      - text: авдалла ьел дарив
+        translation:
+          en: played dumb

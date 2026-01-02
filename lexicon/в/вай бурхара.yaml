@@ -1,0 +1,17 @@
+id: 0v18jQfO14qT1thDjcfv
+headword: вай бурхара
+ipa: ˌvaj burˈχara
+tags: [v, intr, cls]
+forms:
+  - text: вай берхора
+    gloss: pfv
+  - text: вай берхур
+    gloss: aor
+  - text: вай бурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to go wild
+      ru: выходить из повиновения
+    aliases:
+      en: [disobey]

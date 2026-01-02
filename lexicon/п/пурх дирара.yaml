@@ -1,0 +1,21 @@
+id: Qku2EkWSoZ2zT1ENoDYU
+headword: пурх дирара
+ipa: ˌpurχ diˈrara
+tags: [v, tr, phr]
+forms:
+  - text: пурх дарара
+    gloss: pfv
+  - text: пурх дарив
+    gloss: aor
+  - text: пурх дирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to snort
+      ru: фыркать
+    aliases:
+      en: [spit]
+    examples:
+      - text: ирчил пурх дарив дами
+        translation:
+          en: the horse snorted at me

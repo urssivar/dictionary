@@ -1,0 +1,21 @@
+id: XhFJ7gaxIZDB3xbEPggx
+headword: гумбертара
+ipa: gumberˈtara
+tags: [v, tr, cls]
+forms:
+  - text: гумбетара
+    gloss: pfv
+  - text: гумбетур
+    gloss: aor
+  - text: гумбертара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to underlay
+      ru: подкладывать
+    aliases:
+      en: [put, place]
+    examples:
+      - text: къачча гумбете
+        translation:
+          en: position a calf [for feeding]

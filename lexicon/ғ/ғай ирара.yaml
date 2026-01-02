@@ -1,0 +1,21 @@
+id: tmzulyW2ewqLmHVEujUH
+headword: ғай ирара
+ipa: ˌʁaj iˈrara
+tags: [v, tr, phr]
+forms:
+  - text: ғай биара
+    gloss: pfv
+  - text: ғай биив
+    gloss: aor
+  - text: ғай ирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to speak out
+      ru: высказываться
+    aliases:
+      en: [say]
+    examples:
+      - text: ғай биара тяяр бейкку
+        translation:
+          en: can't even say anything

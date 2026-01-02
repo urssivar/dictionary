@@ -1,0 +1,17 @@
+id: 90UQyGRr2TLVFQ2yXPsB
+headword: гумкабялхана
+ipa: gumkabælˈχana
+tags: [v, cls, tr]
+forms:
+  - text: гумкабяхана
+    gloss: pfv
+  - text: гумкабяхун
+    gloss: aor
+  - text: гумкабялхана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to defeat
+      ru: побеждать
+    aliases:
+      en: [win]

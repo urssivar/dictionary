@@ -1,0 +1,17 @@
+id: dkql4p1NIWFrHMSWMCQs
+headword: чиделҳона
+ipa: tʃidelˈxona
+tags: [v, cls, tr]
+forms:
+  - text: чибеҳона
+    gloss: pfv
+  - text: чибеҳун
+    gloss: aor
+  - text: чибелҳона
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to disseminate
+      ru: распространять, рассеивать
+    aliases:
+      en: [scatter, spread]

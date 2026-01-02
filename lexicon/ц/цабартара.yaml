@@ -1,0 +1,17 @@
+id: Au8zFaXHNe0x2d67Z3zh
+headword: цабартара
+ipa: tsabarˈtara
+tags: [v, cls, tr]
+forms:
+  - text: цабатара
+    gloss: pfv
+  - text: цабатур
+    gloss: aor
+  - text: цабартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to envelop
+      ru: обволакивать
+    aliases:
+      en: [wrap, cover]

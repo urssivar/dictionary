@@ -1,0 +1,15 @@
+id: TpYixOILWEl7ROyl7wQ4
+headword: пирсидатил
+ipa: pirsidaˈtil
+tags: [n, loan, russian]
+forms:
+  - text: пирсидатил
+    gloss: sg
+  - text: пирсидатилте
+    gloss: pl
+definitions:
+  - translation:
+      en: chairman
+      ru: председатиль
+    aliases:
+      en: [leader]

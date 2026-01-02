@@ -1,0 +1,15 @@
+id: QQvNBJclLTQHkMC4l96b
+headword: чихул
+ipa: tʃiˈχul
+tags: [n, loan, russian]
+forms:
+  - text: чихул
+    gloss: sg
+  - text: чихулте
+    gloss: pl
+definitions:
+  - translation:
+      en: casing
+      ru: чехол
+    aliases:
+      en: [case, cover]

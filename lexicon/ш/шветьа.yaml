@@ -1,0 +1,16 @@
+id: 6SzTqG7AZxWXAIzoW3Hj
+headword: шветьа
+ipa: ˈʃʷetʼa
+tags: [n]
+note:
+  en: '*елҡҡа*'
+forms:
+  - text: шветьа
+    gloss: sg
+  - text: шветьне
+    gloss: pl
+definitions:
+  - translation:
+      en: lizard
+      ru: ящерица
+    tags: [animal]

@@ -1,0 +1,15 @@
+id: owxZd7AxSYBMR6DRsFig
+headword: дазу
+ipa: daˈzu
+tags: [n, loan]
+forms:
+  - text: дазу
+    gloss: sg
+  - text: дазурбе
+    gloss: pl
+definitions:
+  - translation:
+      en: border
+      ru: граница
+    aliases:
+      en: [limit]

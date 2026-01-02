@@ -1,0 +1,16 @@
+id: PU7rFeBIrkFMZvycb2UY
+headword: пиржаҡьа
+ipa: pirˈʒaqʼa
+tags: [n, loan, arabic]
+etymology:
+  en: From Arabic *فيل* "elephant" + *жаҡьа* "boar".
+forms:
+  - text: пиржаҡьа
+    gloss: sg
+  - text: пиржиҡьне
+    gloss: pl
+definitions:
+  - translation:
+      en: elephant
+      ru: слон
+    tags: [animal]

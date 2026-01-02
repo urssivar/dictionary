@@ -1,0 +1,19 @@
+id: XeawidTDWz537WHU5r4g
+headword: увчьана
+ipa: uvˈtʃʼana
+tags: [v, tr]
+note:
+  en: '*амчьана*, *явчьана*'
+forms:
+  - text: авчьана
+    gloss: pfv
+  - text: авчьун
+    gloss: aor
+  - text: увчьана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to peel
+      ru: чистить от кожуры
+    aliases:
+      en: [clean]

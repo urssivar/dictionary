@@ -1,0 +1,21 @@
+id: DpkeJAuH5SqicpbZa0sT
+headword: кабартара
+ipa: kabarˈtara
+tags: [v, cls, tr]
+forms:
+  - text: кабатара
+    gloss: pfv
+  - text: кабатур
+    gloss: aor
+  - text: кабартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to plant
+      ru: сажать
+  - translation:
+      en: to seat
+      ru: усаживать
+  - translation:
+      en: to appoint
+      ru: назначать

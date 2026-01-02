@@ -1,0 +1,14 @@
+id: BI7aRObjy1b2quARjGB8
+headword: памадур
+ipa: pamaˈdur
+tags: [n, loan, russian]
+forms:
+  - text: памадур
+    gloss: sg
+  - text: памадурте
+    gloss: pl
+definitions:
+  - translation:
+      en: tomato
+      ru: помидор
+    tags: [nature, food, plant]

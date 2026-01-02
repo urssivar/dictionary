@@ -1,0 +1,13 @@
+id: 0oG7ajx4RbbfGbGsbD5m
+headword: машин
+ipa: maˈʃin
+tags: [n, loan, russian]
+forms:
+  - text: машин
+    gloss: sg
+  - text: машинте
+    gloss: pl
+definitions:
+  - translation:
+      en: car
+      ru: машина

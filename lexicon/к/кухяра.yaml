@@ -1,0 +1,17 @@
+id: LXmcQDnDDstmhRhA0wtl
+headword: кухяра
+ipa: kuˈχːæra
+tags: [v, tr, cls]
+forms:
+  - text: кабурхяра
+    gloss: pfv
+  - text: кабурхяв
+    gloss: aor
+  - text: кухяра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to thrust
+      ru: вонзать
+    aliases:
+      en: [stick, push]

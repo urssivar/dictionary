@@ -1,0 +1,21 @@
+id: sh1YiLcQ93B4IjJKfxFX
+headword: калухана
+ipa: kaluˈχana
+tags: [v, intr, cls]
+note:
+  en: |-
+    *кебелхана*
+    *кабурцара*
+forms:
+  - text: кабалхана
+    gloss: pfv
+  - text: кабалхун
+    gloss: aor
+  - text: калухана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be paralyzed
+      ru: быть в параличе
+    aliases:
+      en: [static]

@@ -1,0 +1,22 @@
+id: AmFfA29qf1u3E40FtXGY
+headword: чикабирццара
+ipa: tʃikabirˈtsːara
+tags: [v, intr, cls]
+forms:
+  - text: чикабиццара
+    gloss: pfv
+  - text: чикабиццур
+    gloss: aor
+  - text: чикабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to insist
+      ru: настаивать
+    aliases:
+      en: [persist, push]
+  - translation:
+      en: to light
+      ru: светить
+    aliases:
+      en: [shine]

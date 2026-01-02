@@ -1,0 +1,17 @@
+id: pCaggw4C3GvkQp85f6hy
+headword: саркабурцара
+ipa: sarkaburˈtsara
+tags: [v, tr, cls]
+forms:
+  - text: саркабуцара
+    gloss: pfv
+  - text: саркабуцив
+    gloss: aor
+  - text: саркабурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rein
+      ru: вести в узде/поводке
+    aliases:
+      en: [control, lead]

@@ -1,0 +1,13 @@
+id: wPJr8xEhJFVCfbaNZP6k
+headword: абад
+ipa: aˈbad
+tags: [n, loan, arabic]
+definitions:
+  - translation:
+      en: epoch
+      ru: эпоха
+    tags: [time]
+    examples:
+      - text: абадла абад
+        translation:
+          en: a long time ago

@@ -1,0 +1,17 @@
+id: mzOhihIFtBr4FCcZEgeY
+headword: дикла кабартара
+ipa: dikˌla kabarˈtara
+tags: [v, intr, cls]
+forms:
+  - text: дикла кабатара
+    gloss: pfv
+  - text: дикла кабатур
+    gloss: aor
+  - text: дикла кабартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to seat on lap
+      ru: усаживать на колени
+    aliases:
+      en: [knee]

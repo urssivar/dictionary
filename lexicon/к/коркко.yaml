@@ -1,0 +1,18 @@
+id: cF18bzt4Yg7iv7n4vnEC
+headword: коркко
+ipa: ˈkorkːo
+tags: [n]
+note:
+  en: |-
+    *коркки*, *курекка*, *коракко*
+    *авхазан*, *мишмиш*
+forms:
+  - text: коркко
+    gloss: sg
+  - text: корккон
+    gloss: obl
+definitions:
+  - translation:
+      en: apricot
+      ru: абрикос
+    tags: [plant, tree, food, fruit]

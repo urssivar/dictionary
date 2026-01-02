@@ -1,0 +1,24 @@
+id: w0c1cNdYfYkT1BxeBQrU
+headword: мура
+ipa: ˈmura
+tags: [n]
+forms:
+  - text: мура
+    gloss: sg
+  - text: муран
+    gloss: obl
+  - text: мурбе
+    gloss: pl
+definitions:
+  - translation:
+      en: hay
+      ru: сено
+    tags: [agriculture]
+  - translation:
+      en: hayfield
+      ru: сенокос
+    tags: [agriculture]
+  - translation:
+      en: meadow
+      ru: луг
+    tags: [nature]

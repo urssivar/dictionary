@@ -1,0 +1,20 @@
+id: WFBmHgu9EhT5ykGfXkid
+headword: чицабурҳара
+ipa: tʃitsaburˈxara
+tags: [n, lbl, cls]
+forms:
+  - text: чицабарҳара
+    gloss: pfv
+  - text: чицабаршив
+    gloss: aor
+  - text: чицабурҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to submit
+      ru: смиряться
+  - translation:
+      en: to mend
+      ru: поправляться
+    aliases:
+      en: [improve]

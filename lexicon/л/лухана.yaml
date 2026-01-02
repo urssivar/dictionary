@@ -1,0 +1,15 @@
+id: slkc0T6Wat5JimNmk6o5
+headword: лухана
+ipa: luˈχːana
+tags: [v, intr]
+note:
+  en: The PFV form might be *белхана*.
+forms:
+  - text: лухана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to idle
+      ru: лениться
+    aliases:
+      en: [lazy, avoid]

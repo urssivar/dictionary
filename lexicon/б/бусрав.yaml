@@ -1,0 +1,21 @@
+id: jXaOxZrxgCDboegJmpne
+headword: бусрав
+ipa: busˈrav
+tags: [n, loan, turkic]
+note:
+  en: '*бусрев*'
+forms:
+  - text: бусрав
+    gloss: sg
+  - text: бусравте
+    gloss: pl
+definitions:
+  - translation:
+      en: plea
+      ru: просьба, мольба
+    aliases:
+      en: [pleading, beg]
+    examples:
+      - text: бусрав бирара
+        translation:
+          en: to plead

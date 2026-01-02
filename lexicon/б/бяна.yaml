@@ -1,0 +1,23 @@
+id: oIGhF7qE9p41Ogp9wV5B
+headword: бяна
+ipa: bæˈna
+tags: [v, intr, cls]
+note:
+  en: '*бянара*, *бяръун*'
+forms:
+  - text: бяна
+    gloss: pfv
+  - text: бярун
+    gloss: aor
+  - text: бянне
+    gloss: prog
+  - text: бя
+    gloss: imp
+  - text: мабятте
+    gloss: proh
+definitions:
+  - translation:
+      en: to go
+      ru: пойти
+    aliases:
+      en: [move]

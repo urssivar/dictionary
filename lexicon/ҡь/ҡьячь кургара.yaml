@@ -1,0 +1,19 @@
+id: 2ciKwCDmTNO5GrMoXtZq
+headword: ҡьячь кургара
+ipa: ˌqʼætʃʼ kurˈgara
+tags: [v, tr, cls, phr]
+note:
+  en: '*ҡьяв ~*'
+forms:
+  - text: ҡьячь кагара
+    gloss: pfv
+  - text: ҡьячь кагур
+    gloss: aor
+  - text: ҡьячь кургара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to bend
+      ru: сгибать
+    aliases:
+      en: [flex, curve]

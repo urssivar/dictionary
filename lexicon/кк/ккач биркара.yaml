@@ -1,0 +1,17 @@
+id: jdZfMVX8D9MDLVAqkq43
+headword: ккач биркара
+ipa: ˌkːatʃ birˈkara
+tags: [v, intr, cls, phr]
+forms:
+  - text: ккач бикара
+    gloss: pfv
+  - text: ккач бичив
+    gloss: aor
+  - text: ккач биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to contact
+      ru: прикасаться
+    aliases:
+      en: [touch]

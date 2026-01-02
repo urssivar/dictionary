@@ -1,0 +1,22 @@
+id: 4oAnbt6QMpDZusLRMjLD
+headword: яла
+ipa: ˈæla
+tags: [n]
+note:
+  en: '*ялай*, *ула*'
+forms:
+  - text: яла
+    gloss: sg
+  - text: ялан
+    gloss: obl
+  - text: ялме
+    gloss: pl
+definitions:
+  - translation:
+      en: wheel
+      ru: колес
+    tags: [tech]
+    examples:
+      - text: аттал яла давкк барив
+        translation:
+          en: father fixed the wheel

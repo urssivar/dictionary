@@ -1,0 +1,14 @@
+id: NTqSLDABGER09QBP5tWQ
+headword: макка
+ipa: ˈmakːa
+tags: [n, loan, arabic]
+forms:
+  - text: макка
+    gloss: sg
+  - text: маккал
+    gloss: obl
+definitions:
+  - translation:
+      en: mecca
+      ru: мекка
+    tags: [toponym]

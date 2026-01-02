@@ -1,0 +1,18 @@
+id: geAOmnWc3xxCNYkHBOjj
+headword: аъ
+ipa: aʔ
+tags: [n]
+note:
+  en: |-
+    *яъ*, *аагула*
+    *кьавгула*
+forms:
+  - text: аъ
+    gloss: sg
+  - text: аъбе
+    gloss: pl
+definitions:
+  - translation:
+      en: palate
+      ru: нёбо
+    tags: [body]

@@ -1,0 +1,16 @@
+id: V32tRO4lR9Gykx7guHWu
+headword: ттуж
+ipa: ˈtːuʒ
+tags: [n]
+forms:
+  - text: ттуж
+    gloss: sg
+  - text: ттужун
+    gloss: obl
+  - text: ттужре
+    gloss: pl
+definitions:
+  - translation:
+      en: badger
+      ru: барсук
+    tags: [animal]

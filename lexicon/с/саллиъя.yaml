@@ -1,0 +1,21 @@
+id: IaFmJF6fYUM3gPYf6HmV
+headword: саллиъя
+ipa: salliˈʔæ
+tags: [n]
+etymology:
+  en: Related to *сағли* "in front" (cf. *ваччриъя* "trader").
+forms:
+  - text: саллиъя
+    gloss: sg
+  - text: саллиъне
+    gloss: pl
+definitions:
+  - translation:
+      en: leader
+      ru: лидер
+    aliases:
+      en: [chief, main, principal]
+    examples:
+      - text: азирла саллиъя виьов
+        translation:
+          en: may he be the leader of a thousand

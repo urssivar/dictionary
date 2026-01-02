@@ -1,0 +1,15 @@
+id: 6ZrT2U4klR3WROIHoPgP
+headword: миси
+ipa: miˈsːi
+tags: [n]
+forms:
+  - text: миси
+    gloss: nom, loc
+  - text: мисин
+    gloss: obl
+definitions:
+  - translation:
+      en: ground
+      ru: глинянный пол, земля
+    aliases:
+      en: [floor]

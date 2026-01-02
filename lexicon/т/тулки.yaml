@@ -1,0 +1,15 @@
+id: fwEBWmKTFfiQKLLEcVqe
+headword: тулки
+ipa: tulˈki
+tags: [n, loan]
+forms:
+  - text: тулки
+    gloss: sg
+  - text: тулкне
+    gloss: pl
+definitions:
+  - translation:
+      en: chant
+      ru: песнопение
+    aliases:
+      en: [song, prayer]

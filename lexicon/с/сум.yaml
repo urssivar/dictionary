@@ -1,0 +1,16 @@
+id: hbf2Q6fdAOpbl2C6hkWN
+headword: сум
+ipa: ˈsum
+tags: [ptcl]
+note:
+  en: '*сун*'
+definitions:
+  - translation:
+      en: -ly
+      ru: по
+    aliases:
+      en: [like, as]
+    examples:
+      - text: мургул сум барив
+        translation:
+          en: did like a man [should do]

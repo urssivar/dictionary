@@ -1,0 +1,17 @@
+id: 95ConfVpixqSEIlmFw42
+headword: ьанзе
+ipa: ˈhanze
+tags: [n]
+note:
+  en: '*гӏинццицци*'
+definitions:
+  - translation:
+      en: dill
+      ru: укроп
+    tags: [nature, plant, bush, food]
+    aliases:
+      en: [anethum]
+  - translation:
+      en: caraway
+      ru: тмин
+    tags: [nature, plant, food]

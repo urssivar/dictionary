@@ -1,0 +1,15 @@
+id: AIlxnwjFo7yYH8W5vsK9
+headword: ьябаш
+ipa: hæˈbaʃ
+tags: [n, loan, arabic]
+forms:
+  - text: ьябаш
+    gloss: sg
+  - text: ьябаше
+    gloss: pl
+definitions:
+  - translation:
+      en: mercenary
+      ru: наёмник
+    aliases:
+      en: [warrior, soldier]

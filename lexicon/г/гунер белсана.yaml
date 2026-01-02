@@ -1,0 +1,17 @@
+id: YWgFBl03OoIGErTYvpwO
+headword: гунер белсана
+ipa: guˌner belˈsana
+tags: [v, tr, cls, phr]
+forms:
+  - text: гунер бесана
+    gloss: pfv
+  - text: гунер бесун
+    gloss: aor
+  - text: гунер белсана
+    gloss: pfv
+definitions:
+  - translation:
+      en: to evict
+      ru: выселять
+    aliases:
+      en: [deportate]

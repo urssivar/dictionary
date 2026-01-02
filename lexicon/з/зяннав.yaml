@@ -1,0 +1,16 @@
+id: YaNm7uXKt0gGTi6qDw99
+headword: зяннав
+ipa: zænˈnav
+tags: [n]
+forms:
+  - text: зяннав
+    gloss: sg
+  - text: зяннавте
+    gloss: pl
+definitions:
+  - translation:
+      en: zurna
+      ru: зурна
+    tags: [tool]
+    aliases:
+      en: [music]

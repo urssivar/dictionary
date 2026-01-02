@@ -1,0 +1,16 @@
+id: r47qb02Jol7cfwDgEgtj
+headword: биьне
+ipa: ˈbihne
+tags: [n, cls, nmlz]
+etymology:
+  en: Masd. of *бирьора* "to be", cf. *вирьне* "ability".
+definitions:
+  - translation:
+      en: presence
+      ru: присутствие
+    aliases:
+      en: [being]
+    examples:
+      - text: и ижин риьне дул баьурда
+        translation:
+          en: i knew that you're here

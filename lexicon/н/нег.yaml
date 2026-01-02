@@ -1,0 +1,14 @@
+id: ksyHXvKkpy6yrxTuU75N
+headword: нег
+ipa: ˈneg
+tags: [n]
+forms:
+  - text: нег
+    gloss: sg
+  - text: нигбе
+    gloss: pl
+definitions:
+  - translation:
+      en: milk
+      ru: молоко
+    tags: [food]

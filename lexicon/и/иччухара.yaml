@@ -1,0 +1,17 @@
+id: M1mOjVcQKDsPRmeeaWrf
+headword: иччухара
+ipa: itʃːuˈχara
+tags: [v, tr, cls]
+forms:
+  - text: биччухара
+    gloss: pfv
+  - text: биччухур
+    gloss: aor
+  - text: иччухара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to incinerate
+      ru: испепелять
+    aliases:
+      en: [burn, fire]

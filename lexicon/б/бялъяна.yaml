@@ -1,0 +1,22 @@
+id: 3rYYOcqhNXRYYvUMCAvO
+headword: бялъяна
+ipa: bælˈʔæna
+tags: [v, cls, tr]
+forms:
+  - text: бяъяна
+    gloss: pfv
+  - text: бяъун
+    gloss: aor
+  - text: бялъяна
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to block
+      ru: блокировать
+    aliases:
+      en: [obstruct]
+  - translation:
+      en: to seal
+      ru: запечатывать
+    aliases:
+      en: [shut]

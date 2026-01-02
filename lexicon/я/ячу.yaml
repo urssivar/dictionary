@@ -1,0 +1,19 @@
+id: WcODw3wC1RrQWtIMWz2m
+headword: ячу
+ipa: ˈætʃu
+tags: [n]
+forms:
+  - text: ячу
+    gloss: nom
+  - text: ячул
+    gloss: obl
+  - text: ячули
+    gloss: loc
+  - text: ячурбе
+    gloss: pl
+definitions:
+  - translation:
+      en: job
+      ru: работа
+    aliases:
+      en: [work]

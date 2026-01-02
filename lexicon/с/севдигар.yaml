@@ -1,0 +1,16 @@
+id: 494bPPW4ABj3B7ZfhhvZ
+headword: севдигар
+ipa: sevdiˈgar
+tags: [n, loan, persian]
+forms:
+  - text: севдигар
+    gloss: sg
+  - text: севдигре
+    gloss: pl
+definitions:
+  - translation:
+      en: merchant
+      ru: купец
+    tags: [profession]
+    aliases:
+      en: [trader, dealer]

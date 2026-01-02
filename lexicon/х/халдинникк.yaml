@@ -1,0 +1,15 @@
+id: k0ltvcAFq0YfQC4mRnIf
+headword: халдинникк
+ipa: χalˈdinnikː
+tags: [n, loan, russian]
+forms:
+  - text: халдинникк
+    gloss: sg
+  - text: халдинникке
+    gloss: pl
+definitions:
+  - translation:
+      en: fridge
+      ru: холодильник
+    aliases:
+      en: [refrigerator]

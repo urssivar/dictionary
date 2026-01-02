@@ -1,0 +1,16 @@
+id: DILsYsSbwSFCUBEaLqXT
+headword: аже
+ipa: ˈaʒe
+tags: [n]
+forms:
+  - text: аже
+    gloss: sg
+  - text: ажне
+    gloss: pl
+definitions:
+  - translation:
+      en: melody
+      ru: мелодия
+    tags: [tool]
+    aliases:
+      en: [note, music, sound]

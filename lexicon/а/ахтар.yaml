@@ -1,0 +1,16 @@
+id: D5mMdCDEmIEUJdeUK00A
+headword: ахтар
+ipa: aχˈtar
+tags: [n, loan]
+note:
+  en: '*ахтарди*'
+definitions:
+  - translation:
+      en: check
+      ru: проверка
+    aliases:
+      en: [test, verify]
+    examples:
+      - text: дарс ахтар барив
+        translation:
+          en: checked the lesson

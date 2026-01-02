@@ -1,0 +1,21 @@
+id: gSguysEQMtfGnNc9li7b
+headword: буҡье
+ipa: ˈbuqʼe
+tags: [n.nmlz, cls]
+forms:
+  - text: буҡье
+    gloss: sg
+  - text: буҡьел
+    gloss: obl
+definitions:
+  - translation:
+      en: half
+      ru: половина
+    tags: [measure]
+    examples:
+      - text: уҡье виьора
+        translation:
+          en: to go through lot
+      - text: дуҡье ачье
+        translation:
+          en: half the wheat

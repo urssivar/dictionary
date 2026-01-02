@@ -1,0 +1,15 @@
+id: wqtfikV9QOYxjl0CrfN9
+headword: цьирцьир ьабиргара
+ipa: tsʼirˌtsʼir habirˈgara
+tags: [v, cls, intr]
+forms:
+  - text: цьирцьир ьабигара
+    gloss: pfv
+  - text: цьирцьир ьабижив
+    gloss: aor
+  - text: цьирцьир ьабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to overflow with liquid
+      ru: переполняться жидкостью

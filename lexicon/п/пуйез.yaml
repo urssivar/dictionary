@@ -1,0 +1,16 @@
+id: Taz748ZilBuQJ9h0l1iM
+headword: пуйез
+ipa: puˈjez
+tags: [n, loan, russian]
+forms:
+  - text: пуйез
+    gloss: sg
+  - text: пуйезе
+    gloss: pl
+definitions:
+  - translation:
+      en: train
+      ru: поезд
+    tags: [tool]
+    aliases:
+      en: [vehicle]

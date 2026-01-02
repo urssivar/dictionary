@@ -1,0 +1,15 @@
+id: zUq1VJI9oZxb9ifEDP5d
+headword: палчи
+ipa: palˈtʃi
+tags: [n, loan, turkic]
+forms:
+  - text: палчи
+    gloss: sg
+  - text: палчибе
+    gloss: pl
+definitions:
+  - translation:
+      en: fortune-teller
+      ru: гадалщик
+    aliases:
+      en: [oracle]

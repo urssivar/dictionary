@@ -1,0 +1,23 @@
+id: a09k3A8qfugzUE7FnrBu
+headword: ҡибеш
+ipa: qiˈbeʃ
+tags: [n]
+note:
+  en: '*ҡивша* (pl)'
+forms:
+  - text: ҡибеш
+    gloss: sg
+  - text: ҡивше
+    gloss: pl
+definitions:
+  - translation:
+      en: parent-in-law
+      ru: родитель супруга/супруги
+    tags: [kinship]
+    examples:
+      - text: ҡибеш уба
+        translation:
+          en: mother in law
+      - text: ҡибеш атта
+        translation:
+          en: father in law

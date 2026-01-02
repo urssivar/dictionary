@@ -1,0 +1,17 @@
+id: ir1kXcehbcwSC20W8uq2
+headword: бяъ бирццара
+ipa: ˌbæʔ birˈtsːara
+tags: [v, intr, cls, phr]
+forms:
+  - text: бяъ биццара
+    gloss: pfv
+  - text: бяъ биццур
+    gloss: aor
+  - text: бяъ бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to gravitate
+      ru: стремиться
+    aliases:
+      en: [aspire, trend, seek]

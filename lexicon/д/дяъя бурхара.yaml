@@ -1,0 +1,15 @@
+id: mql38i2UviKnM3JafvM6
+headword: дяъя бурхара
+ipa: dæˌʔæ burˈχara
+tags: [v, intr, cls, phr]
+forms:
+  - text: дяъя берхора
+    gloss: pfv
+  - text: дяъя берхур
+    gloss: aor
+  - text: дяъя бурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rampage
+      ru: буйствовать

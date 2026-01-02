@@ -1,0 +1,21 @@
+id: FIJwnibtZAGy6m62dJn4
+headword: ьискки бирара
+ipa: hisˌkːi biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ьискки барара
+    gloss: pfv
+  - text: ьискки барив
+    gloss: aor
+  - text: ьискки бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to set on
+      ru: натравливать
+    aliases:
+      en: [pit]
+    examples:
+      - text: ьелей хвя ьискки барив
+        translation:
+          en: set the don on him

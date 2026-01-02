@@ -1,0 +1,17 @@
+id: gye97WaOGVeFGquKlK0v
+headword: пикре улҡана
+ipa: ˌpikre ulˈqana
+tags: [v, cls, intr, phr]
+forms:
+  - text: пикре буҡана
+    gloss: pfv
+  - text: пикре буҡун
+    gloss: aor
+  - text: пикре булҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to think
+      ru: думать
+    aliases:
+      en: [consider]

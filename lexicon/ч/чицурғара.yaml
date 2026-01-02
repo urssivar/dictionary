@@ -1,0 +1,17 @@
+id: Z74eY3YkE8QnpHUaG6GY
+headword: чицурғара
+ipa: tʃitsurˈʁara
+tags: [v, lbl]
+forms:
+  - text: чицағара
+    gloss: pfv
+  - text: чицағив
+    gloss: aor
+  - text: чицурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to flow
+      ru: течь
+    aliases:
+      en: [run]

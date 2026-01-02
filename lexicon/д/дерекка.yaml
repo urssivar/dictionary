@@ -1,0 +1,18 @@
+id: bcioHFBYaioMBEAx7YGf
+headword: дерекка
+ipa: deˈrekːa
+tags: [n]
+forms:
+  - text: дерекка
+    gloss: sg
+  - text: дереккан
+    gloss: obl
+  - text: дириккбе
+    gloss: pl
+definitions:
+  - translation:
+      en: comb
+      ru: расчёска
+    tags: [tool]
+    aliases:
+      en: [hairbrush]

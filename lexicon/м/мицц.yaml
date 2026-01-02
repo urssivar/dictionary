@@ -1,0 +1,14 @@
+id: jqfhgCWLtwxFKFGY3kKh
+headword: мицц
+ipa: ˈmitsː
+tags: [n]
+forms:
+  - text: мицц
+    gloss: sg
+  - text: миццан
+    gloss: pl
+definitions:
+  - translation:
+      en: nettle
+      ru: крапива
+    tags: [nature, plant, grass]

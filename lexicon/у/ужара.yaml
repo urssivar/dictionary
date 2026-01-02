@@ -1,0 +1,22 @@
+id: J3AevLK86To0AnctjwLQ
+headword: ужара
+ipa: uˈʒara
+tags: [v, lbl, cls]
+forms:
+  - text: буржара
+    gloss: aor
+  - text: буржив
+    gloss: aor
+  - text: ужара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stress
+      ru: напрягать
+    aliases:
+      en: [rack, strain]
+  - translation:
+      en: to tighten
+      ru: натягивать
+    aliases:
+      en: [buckle]

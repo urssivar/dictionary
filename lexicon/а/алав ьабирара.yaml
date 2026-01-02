@@ -1,0 +1,17 @@
+id: xbkDpEtFdlu2S7ffvK9p
+headword: алав ьабирара
+ipa: aˌlav habiˈrara
+tags: [v, phr, cls, tr]
+forms:
+  - text: алав ьабарара
+    gloss: pfv
+  - text: алав ьабарив
+    gloss: aor
+  - text: алав ьабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to envelop
+      ru: окутывать
+    aliases:
+      en: [enclose, wrap]

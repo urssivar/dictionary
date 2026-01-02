@@ -1,0 +1,18 @@
+id: yvclsrG14nZkb74DyHwl
+headword: бувччана
+ipa: buvˈtʃːana
+tags: [v, intr, cls]
+forms:
+  - text: бевччана
+    gloss: pfv
+  - text: бевччун
+    gloss: aor
+  - text: бувччана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to heat
+      ru: нагреваться
+    tags: []
+    aliases:
+      en: [warm, hot]

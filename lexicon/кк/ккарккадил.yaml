@@ -1,0 +1,14 @@
+id: o6HJRNbyez6cDzAvXh3Z
+headword: ккарккадил
+ipa: kːarkːaˈdil
+tags: [n, loan, russian]
+forms:
+  - text: ккарккадил
+    gloss: sg
+  - text: ккарккадилте
+    gloss: pl
+definitions:
+  - translation:
+      en: crocodile
+      ru: крокодил
+    tags: [animal]

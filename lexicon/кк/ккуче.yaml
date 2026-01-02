@@ -1,0 +1,16 @@
+id: oW8gY34gGunXHmbeeQ2J
+headword: ккуче
+ipa: ˈkːutʃe
+tags: [n]
+note:
+  en: '*дуле*, *шаха*'
+forms:
+  - text: ккуче
+    gloss: sg
+  - text: ккучин
+    gloss: obl
+definitions:
+  - translation:
+      en: pus
+      ru: гной
+    tags: [body]

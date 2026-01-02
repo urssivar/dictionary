@@ -1,0 +1,17 @@
+id: IYu5QKbTzUYVY3EpI5XD
+headword: алав биркара
+ipa: aˌlav birˈkara
+tags: [v, phr, cls, intr]
+forms:
+  - text: алав бикара
+    gloss: pfv
+  - text: алав бичив
+    gloss: aor
+  - text: алав биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to evade
+      ru: уклоняться, увиливать
+    aliases:
+      en: [hedge, prevaricate, dodge]

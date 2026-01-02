@@ -1,0 +1,16 @@
+id: nA6xAmpFLIunmr2slOHe
+headword: рутара
+ipa: ruˈtara
+tags: [v, cls, intr]
+forms:
+  - text: бертара
+    gloss: pfv
+  - text: бертур
+    gloss: aor
+  - text: рутара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to curdle
+      ru: сворачиваться
+    tags: [food]

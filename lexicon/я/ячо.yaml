@@ -1,0 +1,16 @@
+id: 0GgiglAf70fnz4OKkEcX
+headword: ячо
+ipa: ˈætʃo
+tags: [n]
+note:
+  en: '*ячу*'
+forms:
+  - text: ячо
+    gloss: nom
+  - text: ячол
+    gloss: obl
+definitions:
+  - translation:
+      en: linen
+      ru: льняная ткань
+    tags: [clothing]

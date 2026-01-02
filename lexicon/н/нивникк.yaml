@@ -1,0 +1,15 @@
+id: 7lhdziYUurPkswcZQlrZ
+headword: нивникк
+ipa: nivˈnikː
+tags: [n, loan, russian]
+forms:
+  - text: нивникк
+    gloss: sg
+  - text: нивникке
+    gloss: pl
+definitions:
+  - translation:
+      en: diary
+      ru: дневник
+    aliases:
+      en: [journal]

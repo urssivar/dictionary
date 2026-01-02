@@ -1,0 +1,18 @@
+id: hrFG1fCCOUVFeFH3mWtF
+headword: ттирттмих
+ipa: tːirtːˈmiχ
+tags: [n]
+etymology:
+  en: Might be related to *ккуртта* "fox".
+note:
+  en: '*ттирттмуғ*'
+forms:
+  - text: ттирттмих
+    gloss: sg
+  - text: ттирттмихе
+    gloss: pl
+definitions:
+  - translation:
+      en: lynx
+      ru: рысь
+    tags: [animal]

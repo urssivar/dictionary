@@ -1,0 +1,24 @@
+id: CiDKHfCHAivuNlDboyEF
+headword: ьимҡҡо
+ipa: himˈqːo
+tags: [n]
+forms:
+  - text: ьимҡҡо
+    gloss: sg
+  - text: ьимҡҡон
+    gloss: obl
+  - text: ьимҡҡне
+    gloss: pl
+definitions:
+  - note:
+      en: There's also *ғурға*.
+    translation:
+      en: whetstone
+      ru: точильный камень
+    aliases:
+      en: [hone, sharpener]
+  - translation:
+      en: block
+      ru: брусок, блок
+    aliases:
+      en: [rail, bar, timber]

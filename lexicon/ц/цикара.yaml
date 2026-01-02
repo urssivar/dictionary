@@ -1,0 +1,17 @@
+id: 4yt0ONYZTsMMaJ5dlXr3
+headword: цикара
+ipa: tsiˈkara
+tags: [v, tr]
+forms:
+  - text: циркара
+    gloss: pfv
+  - text: цирчив
+    gloss: aor
+  - text: цикара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to roll out
+      ru: раскатывать
+    aliases:
+      en: [flatten, cruss]

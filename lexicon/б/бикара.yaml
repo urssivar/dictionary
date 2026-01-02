@@ -1,0 +1,17 @@
+id: Nb9bD60fUmV45XpfTyF7
+headword: бикара
+ipa: biˈkara
+tags: [v, tr, cls]
+forms:
+  - text: букара
+    gloss: pfv
+  - text: бучив
+    gloss: aor
+  - text: бикара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lead
+      ru: вести
+    aliases:
+      en: [take, to]

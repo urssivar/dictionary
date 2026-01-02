@@ -1,0 +1,15 @@
+id: 7lKjlKDvUF3jpQF1uJhV
+headword: иркара
+ipa: irˈkara
+tags: [v, tr]
+note:
+  en: There's also *иркла* "irrigation, canal".
+forms:
+  - text: ирчив
+    gloss: aor
+  - text: иркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to irrigate
+      ru: орошать

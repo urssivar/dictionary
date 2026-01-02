@@ -1,0 +1,17 @@
+id: WwBxH7pyNtxyhJdpzmfZ
+headword: мяш бирьора
+ipa: ˌmæʃ birˈhora
+tags: [v, intr, cls, phr]
+forms:
+  - text: мяш биьора
+    gloss: pfv
+  - text: мяш биьяв
+    gloss: aor
+  - text: мяш бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to covet
+      ru: зариться
+    aliases:
+      en: [crave, yearn]

@@ -1,0 +1,21 @@
+id: vH0L4aWCb5Nu4yGnus51
+headword: таман бирара
+ipa: taˌman biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: таман барара
+    gloss: pfv
+  - text: таман барив
+    gloss: aor
+  - text: таман бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to finish
+      ru: заканчивать
+    aliases:
+      en: [end, complete]
+    examples:
+      - text: дул машин бирцил таман баривда
+        translation:
+          en: i finished washing my card

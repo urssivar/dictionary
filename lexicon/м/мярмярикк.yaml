@@ -1,0 +1,16 @@
+id: uNejXhOHNmCAQi4P14lN
+headword: мярмярикк
+ipa: mærmæˈrikː
+tags: [n, loan]
+forms:
+  - text: мярмярикк
+    gloss: sg
+  - text: мярмярикке
+    gloss: pl
+definitions:
+  - translation:
+      en: marmalade
+      ru: мармелад
+    tags: [food]
+    aliases:
+      en: [jam, candy, sweet]

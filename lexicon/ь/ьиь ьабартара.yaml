@@ -1,0 +1,17 @@
+id: mVxhVHZVS9Qn3243GljB
+headword: ьиь ьабартара
+ipa: ˌhih habarˈtara
+tags: [v, intr, phr]
+forms:
+  - text: ьиь ьабатара
+    gloss: pfv
+  - text: ьиь ьабатур
+    gloss: aor
+  - text: ьиь ьабартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to take a break
+      ru: передыхать, делать перерыв
+    aliases:
+      en: [pause, rest]

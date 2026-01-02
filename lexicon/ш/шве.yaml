@@ -1,0 +1,16 @@
+id: ogbwE4R7a3UQzALfxlCk
+headword: шве
+ipa: ˈʃʷe
+tags: [n]
+note:
+  en: '*шо*'
+forms:
+  - text: шве
+    gloss: sg
+  - text: швел
+    gloss: obl
+definitions:
+  - translation:
+      en: seeds
+      ru: семена
+    tags: [nature]

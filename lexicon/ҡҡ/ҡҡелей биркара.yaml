@@ -1,0 +1,19 @@
+id: 1SkNXQAIyuLqtL7Y27xl
+headword: ҡҡелей биркара
+ipa: qːeˌlej birˈkara
+tags: [v, intr, cls, phr]
+note:
+  en: '*ҡҡяла ~*, *ҡҡей ~*'
+forms:
+  - text: ҡҡелей бикара
+    gloss: pfv
+  - text: ҡҡелей бичив
+    gloss: aor
+  - text: ҡҡелей биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to wake up
+      ru: просыпаться
+    aliases:
+      en: [sleep]

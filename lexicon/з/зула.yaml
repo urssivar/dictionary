@@ -1,0 +1,16 @@
+id: bZHUeaN8UC8cycknpbxh
+headword: зула
+ipa: ˈzula
+tags: [n]
+forms:
+  - text: зула
+    gloss: sg
+  - text: зулан
+    gloss: obl
+  - text: зилбе
+    gloss: pl
+definitions:
+  - translation:
+      en: sieve
+      ru: сито
+    tags: [tool]

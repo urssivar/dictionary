@@ -1,0 +1,17 @@
+id: bqO4g9wsDVsav5njszIG
+headword: ҡалла бирьора
+ipa: ˌqalla birˈhora
+tags: [v, intr, cls]
+forms:
+  - text: ҡалла биьора
+    gloss: pfv
+  - text: ҡалла биьяв
+    gloss: aor
+  - text: ҡалла бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get married
+      ru: пожениться
+    aliases:
+      en: [family]

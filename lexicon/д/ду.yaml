@@ -1,0 +1,19 @@
+id: 4uWNlDWAelRBbZCMvXnD
+headword: ду
+ipa: ˈdu
+tags: [pro]
+note:
+  en: '*ди* (obl), *дийа* (gen), *дам* (dat), *дамижи* (dat)'
+forms:
+  - text: ду
+    gloss: nom
+  - text: дила
+    gloss: gen
+  - text: дами
+    gloss: dat
+definitions:
+  - translation:
+      en: i
+      ru: я
+    aliases:
+      en: [me, my]

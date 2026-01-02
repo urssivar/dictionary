@@ -1,0 +1,19 @@
+id: SkSEsRtT1uMTQmpgbQaT
+headword: бивкьара
+ipa: bivˈkʼara
+tags: [v, cls, tr]
+note:
+  en: '*бевкьана*~*бувкьана*'
+forms:
+  - text: бувкьара
+    gloss: pfv
+  - text: бувчьив
+    gloss: aor
+  - text: бивкьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to perform
+      ru: совершать
+    aliases:
+      en: [execute]

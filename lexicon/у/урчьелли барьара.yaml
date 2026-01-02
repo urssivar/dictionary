@@ -1,0 +1,17 @@
+id: YRJfRdw7ELFlCa0zA8wi
+headword: урчьелли барьара
+ipa: urˌtʃʼelli barˈhara
+tags: [v, tr]
+forms:
+  - text: урчьелли баьара
+    gloss: pfv
+  - text: урчьелли баьур
+    gloss: aor
+  - text: урчьелли барьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to have a presentiment
+      ru: предчувствовать
+    aliases:
+      en: [feel]

@@ -1,0 +1,19 @@
+id: GWkvJyapxCUUVeYjevDd
+headword: сар
+ipa: ˈsar
+tags: [adv, adj]
+etymology:
+  en: May be related to *сағли* "in front".
+definitions:
+  - translation:
+      en: previously
+      ru: ранее
+    aliases:
+      en: [before, ago]
+    examples:
+      - text: сар улшун де
+        translation:
+          en: he was working previously
+      - text: чьвел дус сар
+        translation:
+          en: two years ago

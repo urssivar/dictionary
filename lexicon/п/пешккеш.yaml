@@ -1,0 +1,15 @@
+id: 6A2cqZcfyGTmgq6bYCLc
+headword: пешккеш
+ipa: peʃˈkːeʃ
+tags: [n, loan, turkic]
+forms:
+  - text: пешккеш
+    gloss: sg
+  - text: пешккеше
+    gloss: pl
+definitions:
+  - translation:
+      en: gift
+      ru: дар
+    aliases:
+      en: [grant]

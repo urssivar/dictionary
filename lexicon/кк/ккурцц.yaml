@@ -1,0 +1,14 @@
+id: NVB4tyvI7E3TDZUFQwdT
+headword: ккурцц
+ipa: ˈkːurtsː
+tags: [n]
+forms:
+  - text: ккурцц
+    gloss: sg
+  - text: ккирцце
+    gloss: pl
+definitions:
+  - translation:
+      en: dumpling
+      ru: пельмень
+    tags: [food]

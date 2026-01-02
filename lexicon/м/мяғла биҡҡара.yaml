@@ -1,0 +1,16 @@
+id: 3CHQx86GD7x65wl7H51t
+headword: мяғла биҡҡара
+ipa: mæʁˌla biˈqːara
+tags: [v, tr, cls, phr]
+note:
+  en: '*цьилжи бирҳора*'
+forms:
+  - text: мяғла буҡҡара
+  - text: мяғла буҡҡив
+  - text: мяғла биҡҡара
+definitions:
+  - translation:
+      en: to postpone
+      ru: откладывать
+    aliases:
+      en: [schedule]

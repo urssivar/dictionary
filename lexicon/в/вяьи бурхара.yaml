@@ -1,0 +1,17 @@
+id: pwhVUwhBTSuh4VFQNsaK
+headword: вяьи бурхара
+ipa: væˌhi burˈχara
+tags: [v, intr, cls]
+forms:
+  - text: вяьи берхора
+    gloss: pfv
+  - text: вяьи берхур
+    gloss: aor
+  - text: вяьи бурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to corrupt
+      ru: развращаться
+    aliases:
+      en: [deprave, bad]

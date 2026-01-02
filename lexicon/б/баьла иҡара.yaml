@@ -1,0 +1,17 @@
+id: 0XsyUglnnxhkfLbik5Fo
+headword: баьла иҡара
+ipa: bahˌla iˈqara
+tags: [v, phr, intr]
+forms:
+  - text: баьла аҡара
+    gloss: pfv
+  - text: баьла аҡив
+    gloss: aor
+  - text: баьла иҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to unwind
+      ru: отдыхать
+    aliases:
+      en: [rest, relax]

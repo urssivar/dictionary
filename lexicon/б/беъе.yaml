@@ -1,0 +1,20 @@
+id: lEIRnMi1bYjV2NStEbKc
+headword: беъе
+ipa: ˈbeʔe
+tags: [n]
+note:
+  en: '*биъи*'
+forms:
+  - text: беъе
+    gloss: sg
+  - text: беъел
+    gloss: obl
+definitions:
+  - translation:
+      en: blood
+      ru: кровь
+    tags: [body]
+    examples:
+      - text: беъе кадаҳул
+        translation:
+          en: bleeding

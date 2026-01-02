@@ -1,0 +1,16 @@
+id: 5x2xF1zOxiYOBELd7lK4
+headword: кура
+ipa: ˈkura
+tags: [n]
+forms:
+  - text: кура
+    gloss: sg
+  - text: куран
+    gloss: obl
+  - text: курме
+    gloss: pl
+definitions:
+  - translation:
+      en: wooden shovel
+      ru: деревяная лопата
+    tags: [tool]

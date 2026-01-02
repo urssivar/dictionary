@@ -1,0 +1,17 @@
+id: x98dOo6SRx6rklU9zIWH
+headword: ьалукана
+ipa: haluˈkana
+tags: [v, cls, intr]
+note:
+  en: '*ьалуҳана*'
+forms:
+  - text: ьабалкана
+    gloss: pfv
+  - text: ьабалкун
+    gloss: aor
+  - text: ьалукана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rub against
+      ru: тереться об

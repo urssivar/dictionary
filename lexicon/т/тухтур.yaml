@@ -1,0 +1,20 @@
+id: HAXmHHI3DemXPb0J3iIt
+headword: тухтур
+ipa: tuχˈtur
+tags: [n, loan]
+note:
+  en: |-
+    *духттур*
+    *вяряч* (from Russian)
+forms:
+  - text: тухтур
+    gloss: sg
+  - text: тухтурте
+    gloss: pl
+definitions:
+  - translation:
+      en: doctor
+      ru: доктор
+    tags: [profession]
+    aliases:
+      en: [medic]

@@ -1,0 +1,14 @@
+id: 178E4yjepOWrjX7N5Mrb
+headword: ттянкка
+ipa: tːænˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: ттянкка
+    gloss: sg
+  - text: ттянккабе
+    gloss: pl
+definitions:
+  - translation:
+      en: tank
+      ru: танк
+    tags: [warfare]

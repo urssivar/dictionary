@@ -1,0 +1,18 @@
+id: 8bKsmJkld3YHSnXSmGq4
+headword: уҡҡала
+ipa: uˈqːala
+tags: [n]
+forms:
+  - text: уҡҡала
+    gloss: sg
+  - text: уҡҡалан
+    gloss: obl
+  - text: уҡҡлуппе
+    gloss: pl
+definitions:
+  - translation:
+      en: hem
+      ru: подол
+    tags: [clothing]
+    aliases:
+      en: [hemline, skirt]

@@ -1,0 +1,14 @@
+id: uJzWOvuLrnZN2PtFRsdI
+headword: бирзара
+ipa: birˈzara
+tags: [v, tr, cls]
+forms:
+  - text: бизара
+  - text: бизив
+  - text: бирзара
+definitions:
+  - translation:
+      en: to spread
+      ru: расстеливать
+    aliases:
+      en: [lay]

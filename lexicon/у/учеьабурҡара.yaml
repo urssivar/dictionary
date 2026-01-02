@@ -1,0 +1,17 @@
+id: 2kBGxo8vFAr1GhfCXvQN
+headword: учеьабурҡара
+ipa: utʃehaburˈqara
+tags: [v, lbl, cls]
+forms:
+  - text: учеьабяҡара
+    gloss: pfv
+  - text: учеьабяҡив
+    gloss: aor
+  - text: учеьабурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to organize
+      ru: организовывать
+    aliases:
+      en: [tide, ready]

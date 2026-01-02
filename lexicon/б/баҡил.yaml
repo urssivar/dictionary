@@ -1,0 +1,17 @@
+id: MvCvpseIpBD9sT2OOm9h
+headword: баҡил
+ipa: ˈbaqil
+tags: [adv, cls]
+etymology:
+  en: From *баҡ* "numerous".
+definitions:
+  - translation:
+      en: a lot
+      ru: много
+    tags: [measure]
+    aliases:
+      en: [many]
+    examples:
+      - text: даҡил диранте ди ҡьал
+        translation:
+          en: so many things to do

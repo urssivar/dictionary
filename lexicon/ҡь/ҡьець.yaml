@@ -1,0 +1,18 @@
+id: FHqMVYuO6vY0Glwt4X46
+headword: ҡьець
+ipa: ˈqʼetsʼ
+tags: [n]
+note:
+  en: '*хирар нез*'
+forms:
+  - text: ҡьець
+    gloss: sg
+  - text: ҡьицьре
+    gloss: pl
+definitions:
+  - translation:
+      en: aphid
+      ru: тля
+    tags: [nature, animal, insect]
+    aliases:
+      en: [bug, beetle]

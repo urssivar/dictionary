@@ -1,0 +1,16 @@
+id: W27Qz8MXCY48my7oPGdH
+headword: ера
+ipa: eˈra
+tags: [ptcl]
+note:
+  en: '*еран*'
+definitions:
+  - translation:
+      en: at least
+      ru: хотя бы
+    aliases:
+      en: [very, only]
+    examples:
+      - text: чьаҡьо ера бекка бизий
+        translation:
+          en: give the cat at least some bread

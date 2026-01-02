@@ -1,0 +1,16 @@
+id: fPvTvk9IlFdKFauimhQh
+headword: нарт
+ipa: ˈnart
+tags: [n, loan]
+forms:
+  - text: нарт
+    gloss: sg
+  - text: нартре
+    gloss: pl
+definitions:
+  - translation:
+      en: giant
+      ru: великан
+    tags: []
+    aliases:
+      en: [titan]

@@ -1,0 +1,17 @@
+id: 94NyykF2YxrPku4Mbz5O
+headword: ҡҡиҡҡ бирццара
+ipa: ˌqːiqː birˈtsːara
+tags: [v, cls, intr]
+forms:
+  - text: ҡҡиҡҡ биццара
+    gloss: pfv
+  - text: ҡҡиҡҡ биццур
+    gloss: aor
+  - text: ҡҡиҡҡ бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stick out
+      ru: выпячиваться
+    aliases:
+      en: [set, show, highlight]

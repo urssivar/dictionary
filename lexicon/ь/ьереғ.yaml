@@ -1,0 +1,25 @@
+id: mhqQwBgTYNfwHyiBfyxi
+headword: ьереғ
+ipa: heˈreʁ
+tags: [post, adj]
+note:
+  en: '*ьиряҡҡя*, *ьиряғ*'
+definitions:
+  - translation:
+      en: after
+      ru: следом, за
+    aliases:
+      en: [behind]
+    examples:
+      - text: уццила ьереғ кицце
+        translation:
+          en: stand after your brother
+  - translation:
+      en: following
+      ru: следующий
+    aliases:
+      en: [next]
+    examples:
+      - text: ьереғ бар
+        translation:
+          en: the following day

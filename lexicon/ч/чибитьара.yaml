@@ -1,0 +1,17 @@
+id: 2fBqImeLa2YbMA4Z1zIF
+headword: чибитьара
+ipa: tʃibiˈtʼara
+tags: [v, cls, tr]
+forms:
+  - text: чибетьара
+    gloss: pfv
+  - text: чибетьив
+    gloss: aor
+  - text: чибитьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shower
+      ru: обливать
+    aliases:
+      en: [water, pour]

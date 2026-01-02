@@ -1,0 +1,21 @@
+id: iWzpUXHAg1w2xf5DFOIL
+headword: ғина бирара
+ipa: ʁiˌna biˈrara
+tags: [v, cls, tr, phr]
+forms:
+  - text: ғина барара
+    gloss: pfv
+  - text: ғина барив
+    gloss: aor
+  - text: ғина бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to damage
+      ru: повреждать
+    aliases:
+      en: [harm]
+    examples:
+      - text: марканли ҳуне ғина барив
+        translation:
+          en: the rain damaged the road

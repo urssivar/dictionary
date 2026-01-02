@@ -1,0 +1,19 @@
+id: 7nx6IEg5nR3TVju9FGqt
+headword: сага
+ipa: saˈga
+tags: [n]
+note:
+  en: ST2004
+forms:
+  - text: сага
+    gloss: sg
+  - text: саган
+    gloss: obl
+  - text: сагне
+    gloss: pl
+definitions:
+  - translation:
+      en: cord
+      ru: шнур
+    aliases:
+      en: [rope]

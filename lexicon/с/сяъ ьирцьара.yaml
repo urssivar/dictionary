@@ -1,0 +1,15 @@
+id: rf6AsmagdpfVxW4KhzsT
+headword: сяъ ьирцьара
+ipa: ˌsæʔ hirˈtsʼara
+tags: [v, tr, phr, cls]
+forms:
+  - text: сяъ ьицьара
+    gloss: pfv
+  - text: сяъ ьицьив
+    gloss: aor
+  - text: сяъ ьирцьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to distribute
+      ru: распределять

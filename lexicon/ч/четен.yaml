@@ -1,0 +1,14 @@
+id: hLHmOLyc3UvsbhjhzJmA
+headword: четен
+ipa: tʃeˈten
+tags: [n]
+forms:
+  - text: четен
+    gloss: sg
+  - text: четенте
+    gloss: pl
+definitions:
+  - translation:
+      en: fish trap
+      ru: рыболовная ловушка
+    tags: [tool]

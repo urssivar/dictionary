@@ -1,0 +1,17 @@
+id: hYGf9w7YzcaMeeMQ6ZhU
+headword: гунер бергара
+ipa: guˌner berˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: гунер бегара
+    gloss: pfv
+  - text: гунер бегур
+    gloss: aor
+  - text: гунер бергара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to migrate
+      ru: переселяться
+    aliases:
+      en: [move]

@@ -1,0 +1,17 @@
+id: SDKS4e8ydDCoi96bAdtk
+headword: цьику
+ipa: ˈtsʼiku
+tags: [n]
+etymology:
+  en: From *цьи* "new" + *кув* "language".
+forms:
+  - text: цьику
+    gloss: sg
+  - text: цьикурме
+    gloss: pl
+definitions:
+  - translation:
+      en: news
+      ru: весть
+    aliases:
+      en: [notification, word]

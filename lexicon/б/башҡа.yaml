@@ -1,0 +1,15 @@
+id: aKYmR85FgevEQkDzXUeA
+headword: башҡа
+ipa: ˈbaʃqa
+tags: [n, loan]
+forms:
+  - text: башҡа
+    gloss: sg
+  - text: башҡурбе
+    gloss: pl
+definitions:
+  - translation:
+      en: garden
+      ru: сад
+    aliases:
+      en: [farm]

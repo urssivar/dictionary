@@ -1,0 +1,16 @@
+id: eAApxjQGtU3bLHfGlHGg
+headword: диван
+ipa: diˈvan
+tags: [n, loan, arabic]
+forms:
+  - text: диван
+    gloss: sg
+  - text: диванте
+    gloss: pl
+definitions:
+  - translation:
+      en: assembly
+      ru: собрание
+    tags: [social]
+    aliases:
+      en: [court, gathering, meeting]

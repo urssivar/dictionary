@@ -1,0 +1,27 @@
+id: PZ4jWQXIRgzjUwtL7wos
+headword: бурҳара
+ipa: burˈxara
+tags: [v, cls, intr]
+forms:
+  - text: барҳара
+    gloss: pfv
+  - text: баршив
+    gloss: aor
+  - text: бурҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to go well
+      ru: ладиться
+    aliases:
+      en: [succeed, improve, settle]
+    examples:
+      - text: дярья варшив
+        translation:
+          en: the child settled
+      - text: ячу етти барҳав
+        translation:
+          en: may your job go well
+  - translation:
+      en: to decorate
+      ru: украшать

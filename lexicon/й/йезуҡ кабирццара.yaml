@@ -1,0 +1,18 @@
+id: qgiLaLYc5UelFEkMEpzO
+headword: йезуҡ кабирццара
+ipa: jeˈzuq kabirˌtsːara
+tags: [v, intr, cls]
+forms:
+  - text: йезуҡ кабиццара
+    gloss: pfv
+  - text: йезуҡ кабиццур
+    gloss: aor
+  - text: йезуҡ кабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pity
+      ru: жалеть
+    tags: [emotion]
+    aliases:
+      en: [sorry, sad]

@@ -1,0 +1,19 @@
+id: WaGvDNyxiUnTlNWxhJWS
+headword: чере
+ipa: ˈtʃere
+tags: [n]
+note:
+  en: '*кери*'
+forms:
+  - text: чере
+    gloss: sg
+  - text: черин
+    gloss: obl, loc
+  - text: чирме
+    gloss: pl
+definitions:
+  - translation:
+      en: bread oven
+      ru: печь для хлеба
+    aliases:
+      en: [bakery]

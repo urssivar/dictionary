@@ -1,0 +1,17 @@
+id: q1dxMrP3gbRBIVfZziTt
+headword: царукк дирара
+ipa: tsaˈrukː diˈrara
+tags: [v, phr, cls, tr]
+forms:
+  - text: царукк барара
+    gloss: pfv
+  - text: царукк барив
+    gloss: aor
+  - text: царукк бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to align
+      ru: выстраивать
+    aliases:
+      en: [organize, order]

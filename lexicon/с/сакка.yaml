@@ -1,0 +1,14 @@
+id: qCAZHVkWyKONdDsFlmut
+headword: сакка
+ipa: ˈsakːa
+tags: [n]
+forms:
+  - text: сакка
+    gloss: sg
+  - text: саккан
+    gloss: obl, loc
+definitions:
+  - translation:
+      en: virgin lands
+      ru: целина
+    tags: [nature]

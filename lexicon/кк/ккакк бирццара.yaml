@@ -1,0 +1,17 @@
+id: TKO0wwBXejTDgbYUXWvE
+headword: ккакк бирццара
+ipa: ˌkːakː birˈtsːara
+tags: [v, cls, intr]
+forms:
+  - text: ккакк биццара
+    gloss: pfv
+  - text: ккакк биццур
+    gloss: aor
+  - text: ккакк бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to petrify
+      ru: остолбеневать
+    aliases:
+      en: [dumbfounded]

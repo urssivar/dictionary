@@ -1,0 +1,17 @@
+id: ehaeEjsEF1Rf9KyzGKYE
+headword: чиьикьора
+ipa: tʃihiˈkʼora
+tags: [v, intr]
+forms:
+  - text: чиьакьора
+    gloss: pfv
+  - text: чиьачьур
+    gloss: aor
+  - text: чиьикьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be born
+      ru: рождаться
+    aliases:
+      en: [mature]

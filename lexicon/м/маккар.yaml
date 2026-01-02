@@ -1,0 +1,16 @@
+id: 6lgJr88B7bxHM7BZqGzH
+headword: маккар
+ipa: maˈkːar
+tags: [n]
+note:
+  en: '*руккрукк*'
+forms:
+  - text: маккар
+    gloss: sg
+  - text: маккарте
+    gloss: pl
+definitions:
+  - translation:
+      en: tide
+      ru: волна
+    tags: [nature]

@@ -1,0 +1,17 @@
+id: KtG8BhffsKcCEAOwusZj
+headword: капе
+ipa: kaˈpe
+tags: [n, loan, russian]
+forms:
+  - text: капе
+    gloss: sg
+  - text: капел
+    gloss: obl
+  - text: капебе
+    gloss: pl
+definitions:
+  - translation:
+      en: cafe
+      ru: кафе
+    aliases:
+      en: [restaraunt]

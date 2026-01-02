@@ -1,0 +1,17 @@
+id: fVstiJ5iZ3bksNxVI4Q2
+headword: татаул
+ipa: tataˈul
+tags: [n, loan, turkic]
+note:
+  en: '*йек*, *ҡҡару*'
+forms:
+  - text: татаул
+    gloss: sg
+  - text: татаулте
+    gloss: pl
+definitions:
+  - translation:
+      en: ditch
+      ru: канава
+    aliases:
+      en: [duct, moat, channel]

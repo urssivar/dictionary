@@ -1,0 +1,17 @@
+id: I8UFFpD5rUtQhWizmNZa
+headword: учецабирара
+ipa: utʃetsabiˈrara
+tags: [v, cls, tr]
+forms:
+  - text: учецабарара
+    gloss: pfv
+  - text: учецабарив
+    gloss: aor
+  - text: учецабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to arrange
+      ru: располагать, расставлять
+    aliases:
+      en: [dispose, place, put]

@@ -1,0 +1,16 @@
+id: oLNBTVIiPBIy3EbKP5Ca
+headword: мужалат
+ipa: muʒaˈlat
+tags: [n, loan, arabic]
+forms:
+  - text: мужалат
+    gloss: sg
+  - text: мужалате
+    gloss: pl
+definitions:
+  - translation:
+      en: cover
+      ru: обложка
+    tags: [tool]
+    aliases:
+      en: [envelope]

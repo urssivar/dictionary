@@ -1,0 +1,16 @@
+id: ha7Ds9UGSU0RWSNyLutX
+headword: митру
+ipa: ˈmitru
+tags: [n, loan, russian]
+forms:
+  - text: митру
+    gloss: sg
+  - text: митрул
+    gloss: obl
+  - text: митрубе
+    gloss: pl
+definitions:
+  - translation:
+      en: meter
+      ru: метр
+    tags: [measure]

@@ -1,0 +1,17 @@
+id: lkmcGJ1kPy2n0J2hzpu7
+headword: ккялъя
+ipa: ˈkːælʔæ
+tags: [n, loan, arabic]
+forms:
+  - text: ккялъя
+    gloss: sg
+  - text: ккялъян
+    gloss: obl
+  - text: ккялъне
+    gloss: pl
+definitions:
+  - translation:
+      en: castle
+      ru: дворец
+    aliases:
+      en: [palace]

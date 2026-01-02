@@ -1,0 +1,17 @@
+id: MVjnT9ZSb57XStiqJiRx
+headword: ьербиғара
+ipa: herbiˈʁara
+tags: [v, intr, cls]
+forms:
+  - text: ьербеғара
+    gloss: pfv
+  - text: ьербеғив
+    gloss: aor
+  - text: ьебиғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to catch up
+      ru: догонять
+    aliases:
+      en: [run, down]

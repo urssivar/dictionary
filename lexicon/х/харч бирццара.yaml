@@ -1,0 +1,17 @@
+id: B1ssJLUxlzeLGJ5rEz9b
+headword: харч бирццара
+ipa: ˌχartʃ birˈtsːara
+tags: [v, intr, cls, phr]
+forms:
+  - text: харч биццара
+    gloss: pfv
+  - text: харч биццур
+    gloss: aor
+  - text: харч бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to jump up
+      ru: вскакивать
+    aliases:
+      en: [hop]

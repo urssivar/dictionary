@@ -1,0 +1,16 @@
+id: GnXDDmuWxRhSbMklVA83
+headword: шятту
+ipa: ʃæˈtːu
+tags: [adj]
+note:
+  en: '*чятту*'
+definitions:
+  - translation:
+      en: fancy
+      ru: модный
+    aliases:
+      en: [trendy, stylish, fashionable]
+    examples:
+      - text: шятту ккуртте
+        translation:
+          en: pleated dress

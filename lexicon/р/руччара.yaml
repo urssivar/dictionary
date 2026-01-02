@@ -1,0 +1,17 @@
+id: SjqrvjfOyGe8OfHDfRlo
+headword: руччара
+ipa: ruˈtʃːara
+tags: [v, tr, cls]
+forms:
+  - text: берччора
+    gloss: pfv
+  - text: берччур
+    gloss: aor
+  - text: руччара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to toast
+      ru: поджаривать
+    aliases:
+      en: [fry]

@@ -1,0 +1,17 @@
+id: mND7gIo96kuyCAOhjxvR
+headword: ғай кабулҡана
+ipa: ˌʁaj kabulˈqana
+tags: [v, tr, cls]
+forms:
+  - text: ғай кабуҡана
+    gloss: pfv
+  - text: ғай кабуҡун
+    gloss: aor
+  - text: ғай кабулҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to discuss
+      ru: обговаривать
+    aliases:
+      en: [talk]

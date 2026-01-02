@@ -1,0 +1,19 @@
+id: YNdXI7FNt0d4wZxR6ZHX
+headword: гонза
+ipa: ˈgonza
+tags: [n]
+note:
+  en: '*гамза*'
+forms:
+  - text: гонза
+    gloss: sg
+  - text: гонзал
+    gloss: obl
+  - text: гонзурбе
+    gloss: pl
+definitions:
+  - translation:
+      en: land
+      ru: земля
+    aliases:
+      en: [eart, soil]

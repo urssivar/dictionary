@@ -1,0 +1,16 @@
+id: FETkZL8MLGzEioqSHMEn
+headword: дикола
+ipa: diˈkola
+tags: [n]
+forms:
+  - text: дикола
+    gloss: sg
+  - text: дикле-
+    gloss: obl
+  - text: диклиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: wing
+      ru: крыло
+    tags: [animal]

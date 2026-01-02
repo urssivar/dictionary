@@ -1,0 +1,17 @@
+id: VJn8KTCNGaV0i37z9sql
+headword: уркка цабулҡана
+ipa: urˌkːa tsabulˈqana
+tags: [v, intr, cls, phr]
+forms:
+  - text: уркка цабуҡана
+    gloss: pfv
+  - text: уркка цабуҡун
+    gloss: aor
+  - text: уркка цабулҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to interrupt
+      ru: перебивать
+    aliases:
+      en: [break]

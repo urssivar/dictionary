@@ -1,0 +1,22 @@
+id: HB3k7PCWLCeJlEmmJ9D3
+headword: ҳамҳа
+ipa: ˈxamxa
+tags: [n]
+note:
+  en: '*ҳамҳнат*'
+forms:
+  - text: ҳамҳа
+    gloss: sg
+  - text: ҳамҳан
+    gloss: obl
+definitions:
+  - translation:
+      en: froth
+      ru: пенка
+    tags: [nature]
+    aliases:
+      en: [foam]
+    examples:
+      - text: урҳула ҳамҳа
+        translation:
+          en: sea froth

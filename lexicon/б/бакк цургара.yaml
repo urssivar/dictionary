@@ -1,0 +1,21 @@
+id: ksPAVet5AfxV8Vc6jX5s
+headword: бакк цургара
+ipa: ˌbakː tsurˈgara
+tags: [v, cls, tr]
+forms:
+  - text: бакк цагара
+    gloss: pfv
+  - text: бакк цагур
+    gloss: aor
+  - text: бакк цургара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rinse
+      ru: прополаскивать
+    aliases:
+      en: [wash]
+    examples:
+      - text: сусме дакк цага
+        translation:
+          en: rinse your throat

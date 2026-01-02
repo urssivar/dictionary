@@ -1,0 +1,16 @@
+id: Q0YRHh5kP6sevwhQlYC4
+headword: ьурьури
+ipa: hurhuˈri
+tags: [n]
+note:
+  en: '*ҡяшттар*'
+forms:
+  - text: ьурьури
+    gloss: sg
+  - text: ьурьурме
+    gloss: pl
+definitions:
+  - translation:
+      en: hoopoe
+      ru: удод
+    tags: [animal, bird]

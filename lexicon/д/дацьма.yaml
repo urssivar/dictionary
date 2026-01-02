@@ -1,0 +1,16 @@
+id: Q7wD5e4bn2XZ0UY92ffB
+headword: дацьма
+ipa: ˈdatsʼma
+tags: [n]
+note:
+  en: '*ляьимцьал*'
+forms:
+  - text: дацьма
+    gloss: sg
+  - text: дацьмунде
+    gloss: pl
+definitions:
+  - translation:
+      en: mirror
+      ru: зеркало
+    tags: [tool]

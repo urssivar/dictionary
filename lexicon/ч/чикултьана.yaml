@@ -1,0 +1,19 @@
+id: 5FqyjgKshdDCskHs0i9C
+headword: чикултьана
+ipa: tʃikulˈtʼana
+tags: [v, tr, cls]
+note:
+  en: '*чикалутьана*'
+forms:
+  - text: чикабалтьана
+    gloss: pfv
+  - text: чикабалтьун
+    gloss: aor
+  - text: чикултьана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to quilt
+      ru: стегать
+    aliases:
+      en: [stitch]

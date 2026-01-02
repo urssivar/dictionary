@@ -1,0 +1,17 @@
+id: LvsIvylfJ62FAEOFgFrS
+headword: рурчча ьадиргара
+ipa: ˌrurtʃːa hadirˈgara
+tags: [v, cls, intr, phr]
+forms:
+  - text: рурчча ьабигара
+    gloss: pfv
+  - text: рурчча ьабижив
+    gloss: aor
+  - text: рурчча ьабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to boil up
+      ru: закипать
+    aliases:
+      en: [seethe]

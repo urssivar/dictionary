@@ -1,0 +1,29 @@
+id: Gxqj11SjWFFzn6bKCGWN
+headword: лукана
+ipa: luˈkana
+tags: [v, lbl, cls]
+forms:
+  - text: белкона
+    gloss: pfv
+  - text: белкун
+    gloss: aor
+  - text: лукана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to wear out
+      ru: изнашиваться
+    aliases:
+      en: [fray]
+    examples:
+      - text: вачагла ҡьулҡьуппе делкун
+        translation:
+          en: knees of the pants are worn out
+      - text: '* зарал-яьле белков'
+        translation:
+          en: wishing good use of the item
+  - translation:
+      en: to hone
+      ru: точить
+    aliases:
+      en: [sharpen, whet]

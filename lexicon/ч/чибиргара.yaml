@@ -1,0 +1,22 @@
+id: 28uH5ATVgkOMgcLNMl6n
+headword: чибиргара
+ipa: tʃibirˈgara
+tags: [v, lbl, cls]
+forms:
+  - text: чибигара
+    gloss: pfv
+  - text: чибижив
+    gloss: aor
+  - text: чибиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to ignite
+      ru: загораться
+    aliases:
+      en: [fire, burn]
+  - translation:
+      en: to graft
+      ru: прививать
+    aliases:
+      en: [inoculate]

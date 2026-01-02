@@ -1,0 +1,19 @@
+id: t7mDZDaMu2B8pq7bWpvh
+headword: балсана
+ipa: balˈsana
+tags: [v, tr, cls]
+note:
+  en: '*бялсана*'
+forms:
+  - text: басана
+    gloss: pfv
+  - text: басун
+    gloss: aor
+  - text: балсана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to mold
+      ru: лепить
+    aliases:
+      en: [sculpt]

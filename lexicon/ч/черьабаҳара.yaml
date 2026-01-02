@@ -1,0 +1,17 @@
+id: 82DpOKy2aPSoem6sWAKi
+headword: черьабаҳара
+ipa: tʃerhabaˈxara
+tags: [v, intr, cls]
+forms:
+  - text: черьабаҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to vomit
+      ru: вырывать, блевать
+    aliases:
+      en: [puke]
+    examples:
+      - text: черьадаҳул це дила
+        translation:
+          en: i'm vomiting

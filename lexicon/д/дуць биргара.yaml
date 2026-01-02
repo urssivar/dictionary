@@ -1,0 +1,17 @@
+id: bVncjRLSE6u98EaZVcYR
+headword: дуць биргара
+ipa: ˌdutsʼ birˈgara
+tags: [v, intr, cls]
+forms:
+  - text: дуць бигара
+    gloss: pfv
+  - text: дуць бижив
+    gloss: aor
+  - text: дуць биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to run
+      ru: бежать
+    aliases:
+      en: [sprint]

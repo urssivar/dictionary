@@ -1,0 +1,17 @@
+id: 4XKrPVDXE8jrQxvxW6sM
+headword: биж булҡана
+ipa: ˌbiʒ bulˈqana
+tags: [v, cls, intr, phr]
+forms:
+  - text: биж буҡана
+    gloss: pfv
+  - text: биж буҡун
+    gloss: aor
+  - text: биж булҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rush
+      ru: бросаться
+    aliases:
+      en: [jump, dash, charge]

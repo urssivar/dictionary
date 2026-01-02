@@ -1,0 +1,17 @@
+id: HgFPvibygszSFEgY8kka
+headword: маҡҡ бирара
+ipa: ˌmaqː biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: маҡҡ барара
+    gloss: pfv
+  - text: маҡҡ барив
+    gloss: aor
+  - text: маҡҡ бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to bow
+      ru: преклонять
+    aliases:
+      en: [cant, tilt, lean, bend]

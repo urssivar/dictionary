@@ -1,0 +1,14 @@
+id: e729q6Ie0NhSh4iVJx7W
+headword: мажар
+ipa: maˈʒar
+tags: [n, loan]
+forms:
+  - text: мажар
+    gloss: sg
+  - text: мажарте
+    gloss: pl
+definitions:
+  - translation:
+      en: firearm
+      ru: огнестрел
+    tags: [tool]

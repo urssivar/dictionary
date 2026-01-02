@@ -1,0 +1,19 @@
+id: KplIafJ3D0DruUOAPo2Q
+headword: уркка цабурхара
+ipa: urˌkːa tsaburˈχara
+tags: [v, phr, intr, cls]
+note:
+  en: '*биж ьабурхара*'
+forms:
+  - text: уркка цаберхора
+    gloss: pfv
+  - text: уркка цаберхур
+    gloss: aor
+  - text: уркка цабурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to intervene
+      ru: вмешиваться
+    aliases:
+      en: [interfere]

@@ -1,0 +1,17 @@
+id: I7X3WX2UFtckX1cRFZ80
+headword: киччара
+ipa: kiˈtʃːara
+tags: [v, tr, cls]
+forms:
+  - text: кабиччара
+    gloss: pfv
+  - text: кабиччив
+    gloss: aor
+  - text: киччара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cut off
+      ru: отрезать
+    aliases:
+      en: [slay, clip]

@@ -1,0 +1,22 @@
+id: kYFL8hTQoovWbeP8Wo8Y
+headword: ччуға
+ipa: ˈtʃːuʁa
+tags: [n]
+forms:
+  - text: ччуға
+    gloss: sg
+  - text: ччуған
+    gloss: obl
+  - text: ччуғме
+    gloss: pl
+definitions:
+  - translation:
+      en: bangs
+      ru: челка
+    tags: [body]
+    aliases:
+      en: [fringe, hair]
+    examples:
+      - text: ччуғмарай
+        translation:
+          en: a girl with bangs

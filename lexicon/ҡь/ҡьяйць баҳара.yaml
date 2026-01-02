@@ -1,0 +1,15 @@
+id: gGLZNM4ZlMMBH6xehB2E
+headword: ҡьяйць баҳара
+ipa: ˌqʼæjtsʼ baˈxara
+tags: [v, phr, intr, cls]
+forms:
+  - text: ҡьяйць башив
+    gloss: aor
+  - text: ҡьяйць баҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stroll
+      ru: прогуливаться
+    aliases:
+      en: [walk]

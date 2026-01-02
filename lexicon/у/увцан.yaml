@@ -1,0 +1,17 @@
+id: TGClp42dWfoz5cwJleCo
+headword: увцан
+ipa: uvˈtsan
+tags: [n, nmlz]
+etymology:
+  en: Oblg. of *увцара* "to calculate".
+forms:
+  - text: увцан
+    gloss: sg
+  - text: увцанил
+    gloss: obl
+  - text: увцанте
+    gloss: pl
+definitions:
+  - translation:
+      en: digit
+      ru: цифра

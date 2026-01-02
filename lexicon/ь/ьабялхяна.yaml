@@ -1,0 +1,17 @@
+id: h1lubdIOZpEO8gs07CQo
+headword: ьабялхяна
+ipa: habælˈχæna
+tags: [v, tr, cls]
+forms:
+  - text: ьабяхян
+    gloss: pfv
+  - text: ьабяхун
+    gloss: aor
+  - text: ьабялхяна
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to invoke
+      ru: вызывать
+    aliases:
+      en: [call, out]

@@ -1,0 +1,20 @@
+id: GwjG82O3682R4dp9ho81
+headword: ҡьарҡьар
+ipa: qʼarˈqʼar
+tags: [n]
+note:
+  en: '*ҡьаҡьар*'
+forms:
+  - text: ҡьарҡьар
+    gloss: sg
+  - text: ҡьарҡьари
+    gloss: obl
+  - text: ҡьарҡьуппе
+    gloss: pl
+definitions:
+  - translation:
+      en: larynx
+      ru: горловина, гортань
+    tags: [body]
+    aliases:
+      en: [throat, neck]

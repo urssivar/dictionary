@@ -1,0 +1,17 @@
+id: BqtV9VJp4bANtlmbhHn5
+headword: ччакко кабирццара
+ipa: tʃːaˌkːo kabirˈtsːara
+tags: [v, intr, cls, phr]
+forms:
+  - text: ччакко кабиццара
+    gloss: pfv
+  - text: ччакко кабиццур
+    gloss: aor
+  - text: ччакко кабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to appeal
+      ru: приглядываться
+    aliases:
+      en: [marvel, delight, like]

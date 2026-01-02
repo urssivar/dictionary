@@ -1,0 +1,17 @@
+id: zEi8sVsQGnAW73OqNfm0
+headword: цан биркара
+ipa: ˌtsan birˈkara
+tags: [v, intr, cls, phr]
+forms:
+  - text: цан бикара
+    gloss: pfv
+  - text: цан бичив
+    gloss: aor
+  - text: цан биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to connect
+      ru: стыковаться
+    aliases:
+      en: [meet, gather, dock]

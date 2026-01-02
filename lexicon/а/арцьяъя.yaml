@@ -1,0 +1,16 @@
+id: ilULTmo8i3LUJM6NMEBr
+headword: арцьяъя
+ipa: artsʼæˈʔæ
+tags: [n, nmlz]
+etymology:
+  en: From *ирцьара* "to weed", cf. *уттяъя* "mower".
+forms:
+  - text: арцьяъя
+    gloss: sg
+  - text: арцьяъне
+    gloss: pl
+definitions:
+  - translation:
+      en: weeder
+      ru: пропольщик
+    tags: [n, profession]

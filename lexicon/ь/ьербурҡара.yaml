@@ -1,0 +1,17 @@
+id: QnspkVvIQ1R4yv3tTQGR
+headword: ьербурҡара
+ipa: herburˈqara
+tags: [v, tr, cls]
+forms:
+  - text: ьербяҡара
+    gloss: pfv
+  - text: ьербяҡив
+    gloss: aor
+  - text: ьербурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to place
+      ru: ставить
+    aliases:
+      en: [put, position]

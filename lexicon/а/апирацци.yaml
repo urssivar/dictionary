@@ -1,0 +1,15 @@
+id: Tgkq3qMfQJj4hRtUsw60
+headword: апирацци
+ipa: apiˈratsːi
+tags: [n, loan, russian]
+forms:
+  - text: апирацци
+    gloss: sg
+  - text: апираццибе
+    gloss: pl
+definitions:
+  - translation:
+      en: operation
+      ru: операция
+    aliases:
+      en: [procedure]

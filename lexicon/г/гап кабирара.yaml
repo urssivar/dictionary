@@ -1,0 +1,17 @@
+id: r9lwNYd3o2rWsQSK7yHe
+headword: гап кабирара
+ipa: ˌgap kabiˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: гап кабарара
+    gloss: pfv
+  - text: гап кабарив
+    gloss: aor
+  - text: гап кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to praise
+      ru: хвалить
+    aliases:
+      en: [commend]

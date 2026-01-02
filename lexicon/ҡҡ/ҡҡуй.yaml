@@ -1,0 +1,20 @@
+id: grAqpg28fHi8yNojDxNY
+headword: ҡҡуй
+ipa: ˈqːuj
+tags: [n, loan, turkic]
+note:
+  en: '*ҡҡуйу*'
+forms:
+  - text: ҡҡуй
+    gloss: sg
+  - text: ҡҡуйни
+    gloss: loc
+  - text: ҡҡуйбе
+    gloss: pl
+definitions:
+  - translation:
+      en: well
+      ru: колодец
+    tags: [tool]
+    aliases:
+      en: [water]

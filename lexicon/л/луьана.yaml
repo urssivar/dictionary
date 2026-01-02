@@ -1,0 +1,17 @@
+id: k3ld6qewj33DuHbOGlUu
+headword: луьана
+ipa: luˈhana
+tags: [v, tr, cls]
+forms:
+  - text: бельона
+    gloss: pfv
+  - text: бельун
+    gloss: aor
+  - text: луьана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to slaughter
+      ru: зарезывать
+    aliases:
+      en: [kill, slay]

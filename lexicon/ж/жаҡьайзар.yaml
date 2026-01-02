@@ -1,0 +1,18 @@
+id: P6ANqjbH0NuPR1UznZpH
+headword: жаҡьайзар
+ipa: ʒaqʼajˈzar
+tags: [n]
+etymology:
+  en: Lit. *pig-particle*.
+note:
+  en: '*жаҡьала изар*'
+forms:
+  - text: жаҡьайзар
+    gloss: sg
+  - text: жаҡьайзре
+    gloss: pl
+definitions:
+  - translation:
+      en: mosquito
+      ru: комар
+    tags: [animal, insect]

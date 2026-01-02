@@ -1,0 +1,21 @@
+id: lRsxyJxOXexy8GTeSu5Z
+headword: мирҡе
+ipa: ˈmirqe
+tags: [n]
+forms:
+  - text: мирҡе
+    gloss: sg
+  - text: мирҡин
+    gloss: obl
+definitions:
+  - translation:
+      en: bee
+      ru: пчела
+    tags: [animal, insect]
+    examples:
+      - text: мирҡинла шеле
+        translation:
+          en: honeycomb
+  - translation:
+      en: beehive
+      ru: улей

@@ -1,0 +1,22 @@
+id: 4RkCLSK0FfH8PBlGPCpZ
+headword: ьурсара
+ipa: hurˈsːara
+tags: [v, tr]
+forms:
+  - text: ьасара
+    gloss: pfv
+  - text: ьасив
+    gloss: aor
+  - text: ьурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pick
+      ru: поднимать, брать
+    aliases:
+      en: [take, choose]
+  - translation:
+      en: to buy
+      ru: покупать
+    aliases:
+      en: [acquire]

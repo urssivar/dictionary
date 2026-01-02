@@ -1,0 +1,19 @@
+id: pqJXlgY5c5U1bVcCqnN6
+headword: ьяья кабирара
+ipa: hæˌhæ kabiˈrara
+tags: [v, tr, cls]
+note:
+  en: '*~ кабиргара*'
+forms:
+  - text: ьяья кабарара
+    gloss: pfv
+  - text: ьяья кабарив
+    gloss: aor
+  - text: ьяья кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to mock
+      ru: надсмехаться
+    aliases:
+      en: [laugh]

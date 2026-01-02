@@ -1,0 +1,13 @@
+id: FmnHKtEnysN6ONrWQpGh
+headword: шипир
+ipa: ʃiˈpir
+tags: [n, loan, russian]
+forms:
+  - text: шипир
+    gloss: sg
+  - text: шипирте
+    gloss: pl
+definitions:
+  - translation:
+      en: roof shingle
+      ru: шифер

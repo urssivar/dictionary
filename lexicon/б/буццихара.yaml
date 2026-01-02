@@ -1,0 +1,22 @@
+id: lllQVMP727dIRzJ1PhN7
+headword: буццихара
+ipa: butsːiˈχara
+tags: [v, cls, tr]
+etymology:
+  en: Caus. of *буццара* "to function".
+forms:
+  - text: буццихив
+    gloss: aor
+  - text: буццихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to use
+      ru: использовать
+  - translation:
+      en: to adhere
+      ru: придерживаться, соблюдать
+    examples:
+      - text: дул нисала ядате дуццихид
+        translation:
+          en: i adhere to our customs

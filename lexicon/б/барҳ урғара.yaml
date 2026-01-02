@@ -1,0 +1,22 @@
+id: GhWDJWqvpgC9Gt2XropV
+headword: барҳ урғара
+ipa: ˌbarx urˈʁara
+tags: [v, cls, tr]
+forms:
+  - text: барҳ ағара
+    gloss: pfv
+  - text: барҳ ағив
+    gloss: aor
+  - text: барҳ урғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to correct
+      ru: исправлять
+    aliases:
+      en: [rectify, fix]
+  - translation:
+      en: to admonish
+      ru: наставлять
+    aliases:
+      en: [tutor, edify, instruct]

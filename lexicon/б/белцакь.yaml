@@ -1,0 +1,17 @@
+id: 8e2YYJFwKqPwUAdDT1qm
+headword: белцакь
+ipa: belˈtsakʼ
+tags: [n]
+note:
+  en: '*чялма*'
+forms:
+  - text: белцакь
+    gloss: sg
+  - text: белцакье
+    gloss: pl
+definitions:
+  - translation:
+      en: turban
+      ru: чалма, бандана
+    aliases:
+      en: [headdress, bandana]

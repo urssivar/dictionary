@@ -1,0 +1,17 @@
+id: FMt2SuptOWBLeoesCiD2
+headword: ҡҡим ьабиргара
+ipa: ˌqːim habirˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: ҡҡим ьабигара
+    gloss: pfv
+  - text: ҡҡим ьабижив
+    gloss: aor
+  - text: ҡҡим ьабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to twist
+      ru: закручиваться
+    aliases:
+      en: [curve, bend]

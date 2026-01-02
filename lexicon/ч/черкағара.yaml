@@ -1,0 +1,26 @@
+id: rjkVZ8PE5gm4P4mM019u
+headword: черкағара
+ipa: tʃerkaˈʁara
+tags: [v, tr]
+forms:
+  - text: черкағара
+    gloss: pfv
+  - text: черкағив
+    gloss: aor
+  - text: черкурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to console
+      ru: утешать
+    aliases:
+      en: [comfort]
+  - translation:
+      en: to retrieve
+      ru: извлекать
+    aliases:
+      en: [extract]
+    examples:
+      - text: ьяжлачьела удре черкаға
+        translation:
+          en: extract the corn kernels

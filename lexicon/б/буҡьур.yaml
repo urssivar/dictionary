@@ -1,0 +1,19 @@
+id: FyjADUa7ugLxssl3LdES
+headword: буҡьур
+ipa: buˈqʼur
+tags: [n, nmlz]
+forms:
+  - text: буҡьур
+    gloss: sg
+  - text: буҡьунде
+    gloss: pl
+definitions:
+  - translation:
+      en: heir
+      ru: наследник
+    aliases:
+      en: [successor, inheritor, legat]
+    examples:
+      - text: буҡьурла мас
+        translation:
+          en: inheritance

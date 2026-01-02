@@ -1,0 +1,19 @@
+id: dDvl6kH4OoJF1fZ7v0kq
+headword: белсана
+ipa: belˈsana
+tags: [v, tr, cls]
+note:
+  en: '*ьабалсана*, *кабалсана*'
+forms:
+  - text: бесана
+    gloss: pfv
+  - text: бесун
+    gloss: aor
+  - text: белсана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to send off
+      ru: отправлять
+    aliases:
+      en: [forward, transmit, dispense]

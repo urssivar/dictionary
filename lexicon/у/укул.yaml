@@ -1,0 +1,15 @@
+id: 19ILj8uPA3i95yQCbqSi
+headword: укул
+ipa: uˈkul
+tags: [n, loan, russian]
+forms:
+  - text: укул
+    gloss: sg
+  - text: укулте
+    gloss: pl
+definitions:
+  - translation:
+      en: injection
+      ru: инъекция
+    aliases:
+      en: [shot]

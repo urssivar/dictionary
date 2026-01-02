@@ -1,0 +1,18 @@
+id: 8tZeP7wj2BDWot1VYvJm
+headword: рушкка
+ipa: ruʃˈkːa
+tags: [n, loan, russian]
+note:
+  en: '*ручкке*'
+forms:
+  - text: рушкка
+    gloss: sg
+  - text: рушккан
+    gloss: obl
+  - text: рушккне
+    gloss: pl
+definitions:
+  - translation:
+      en: pen
+      ru: ручка
+    tags: [tool]

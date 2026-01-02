@@ -1,0 +1,17 @@
+id: ULS9M3KCdDYsUSNf4xJu
+headword: идбаг
+ipa: idˈbag
+tags: [n]
+note:
+  en: '*пейғумар*'
+forms:
+  - text: идбаг
+    gloss: sg
+  - text: идбаге
+    gloss: pl
+definitions:
+  - translation:
+      en: prophet
+      ru: пророк
+    aliases:
+      en: [messenger]

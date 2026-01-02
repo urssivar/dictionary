@@ -1,0 +1,17 @@
+id: bggzIQk5vu6iDNAQanpg
+headword: черцурьара
+ipa: tʃertsurˈhara
+tags: [v, tr]
+forms:
+  - text: черцаьара
+    gloss: pfv
+  - text: черцаьур
+    gloss: aor
+  - text: черцурьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to unscrew
+      ru: откручивать
+    aliases:
+      en: [detach, twist, 'off']

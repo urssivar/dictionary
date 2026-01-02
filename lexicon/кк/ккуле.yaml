@@ -1,0 +1,18 @@
+id: LxPwNYJh0e04Ka2DPK3Q
+headword: ккуле
+ipa: ˈkːule
+tags: [n]
+forms:
+  - text: ккуле
+    gloss: sg
+  - text: ккулин
+    gloss: obl
+  - text: ккилбе
+    gloss: pl
+definitions:
+  - translation:
+      en: hide
+      ru: шкура
+    tags: [animal, clothing]
+    aliases:
+      en: [skin]

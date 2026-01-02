@@ -1,0 +1,16 @@
+id: 3YCLVDBlOqfK466PcuYl
+headword: бяъна
+ipa: ˈbæʔna
+tags: [adv, cls]
+etymology:
+  en: May be from *бяъ* "surface" + loc. *на*.
+definitions:
+  - translation:
+      en: indeed
+      ru: действительно
+    aliases:
+      en: [really]
+    examples:
+      - text: явра дяъна ди
+        translation:
+          en: indeed there's a lot

@@ -1,0 +1,19 @@
+id: aKONTqyYIlvZjbEWHmIe
+headword: буршихара
+ipa: burʃiˈχara
+tags: [v, tr, cls]
+etymology:
+  en: Caus. of *бурҳара* "to go well".
+forms:
+  - text: баршихара
+    gloss: pfv
+  - text: баршихив
+    gloss: aor
+  - text: буршихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to setup
+      ru: настраивать
+    aliases:
+      en: [embed, put, place]

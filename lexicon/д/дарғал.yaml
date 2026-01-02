@@ -1,0 +1,25 @@
+id: uTU2I1VeflHsakfAptPu
+headword: дарғал
+ipa: darˈʁal
+tags: [n, nmlz]
+etymology:
+  en: From *бирғара* "to gather".
+note:
+  en: '*дарғе*'
+forms:
+  - text: дарғал
+    gloss: sg
+  - text: дарғле
+    gloss: obl
+  - text: дарғлиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: circumference
+      ru: окружность
+    aliases:
+      en: [round, circle, ring]
+    examples:
+      - text: мура дарғлей цаға
+        translation:
+          en: gather hay into a circle

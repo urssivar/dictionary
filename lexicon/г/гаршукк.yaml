@@ -1,0 +1,17 @@
+id: tBs9j6CVbKJPz1IoFUPQ
+headword: гаршукк
+ipa: garˈʃukː
+tags: [n, loan, russian]
+forms:
+  - text: гаршукк
+    gloss: sg
+  - text: гаршуккан
+    gloss: loc
+  - text: гаршуккне
+    gloss: pl
+definitions:
+  - translation:
+      en: chamber pot
+      ru: туалетный горшок
+    aliases:
+      en: [toilet]

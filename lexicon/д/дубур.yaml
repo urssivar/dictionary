@@ -1,0 +1,16 @@
+id: QR1et4e7Jmgq6ZPPRH1c
+headword: дубур
+ipa: duˈbur
+tags: [n]
+note:
+  en: There's also rare LOC *диври*.
+forms:
+  - text: дубур
+    gloss: sg
+  - text: дубурте
+    gloss: pl
+definitions:
+  - translation:
+      en: mountain
+      ru: гора
+    tags: [nature]

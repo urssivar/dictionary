@@ -1,0 +1,17 @@
+id: JLIzCWXBKewqiaaDnLCc
+headword: бирцьара
+ipa: birˈtsʼara
+tags: [v, tr, cls]
+note:
+  en: '*бицьур* (AOR)'
+forms:
+  - text: бицьара
+    gloss: pfv
+  - text: бицьив
+    gloss: aor
+  - text: бирцьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fill
+      ru: наполнять

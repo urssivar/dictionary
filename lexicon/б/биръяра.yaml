@@ -1,0 +1,15 @@
+id: 7GxmWGkK5YB3NcVMGMlA
+headword: биръяра
+ipa: birˈʔæra
+tags: [v, cls, tr]
+forms:
+  - text: биръяв
+    gloss: aor
+  - text: биръяра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to deceive
+      ru: обманывать
+    aliases:
+      en: [trick]

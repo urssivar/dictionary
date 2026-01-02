@@ -1,0 +1,17 @@
+id: rJUnmasUGLFMa5zqgNWx
+headword: цан ьабирара
+ipa: ˌtsan habiˈrara
+tags: [v, phr, tr, cls]
+forms:
+  - text: цан ьабарара
+    gloss: pfv
+  - text: цан ьабарив
+    gloss: aor
+  - text: цан ьабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to combine
+      ru: сочетать
+    aliases:
+      en: [join, connect]

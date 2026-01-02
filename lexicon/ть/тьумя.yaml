@@ -1,0 +1,16 @@
+id: xIqEIFA1ZEydztUkZIA5
+headword: тьумя
+ipa: ˈtʼumæ
+tags: [n]
+note:
+  en: '*писи тьимяр*'
+forms:
+  - text: тьумя
+    gloss: sg
+  - text: тьумре
+    gloss: pl
+definitions:
+  - translation:
+      en: owl
+      ru: сова
+    tags: [animal, bird]

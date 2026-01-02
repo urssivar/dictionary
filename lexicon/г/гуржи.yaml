@@ -1,0 +1,14 @@
+id: b5LLiuBDvrrdbpfwPQ8U
+headword: гуржи
+ipa: ˈgurʒi
+tags: [n, adj, loan]
+forms:
+  - text: гуржи
+    gloss: sg
+  - text: гуржбе
+    gloss: pl
+definitions:
+  - translation:
+      en: georgian
+      ru: грузин
+    tags: [demonym]

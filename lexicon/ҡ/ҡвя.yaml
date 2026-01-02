@@ -1,0 +1,17 @@
+id: cu2tFubYSEqZMeZdFoHU
+headword: ҡвя
+ipa: ˈqʷæ
+tags: [n]
+forms:
+  - text: ҡвя
+    gloss: sg
+  - text: ҡвял
+    gloss: obl
+  - text: ҡвяме
+    gloss: pl
+definitions:
+  - translation:
+      en: oath
+      ru: клятва
+    aliases:
+      en: [vow]

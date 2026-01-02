@@ -1,0 +1,17 @@
+id: V294AfhvlHASHSQptHXn
+headword: тьуз
+ipa: ˈtʼuz
+tags: [n]
+forms:
+  - text: тьуз
+    gloss: sg
+  - text: тьузне
+    gloss: pl
+definitions:
+  - translation:
+      en: lie
+      ru: ложь
+    examples:
+      - text: дам тьузне мадурсат
+        translation:
+          en: don't lie to me

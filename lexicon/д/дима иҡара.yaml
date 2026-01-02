@@ -1,0 +1,19 @@
+id: YshgLkdgzacYeKHEpOXo
+headword: дима иҡара
+ipa: diˌmа iˈqara
+tags: [v, phr, tr]
+note:
+  en: '*дибеҡара*'
+forms:
+  - text: дима аҡара
+    gloss: pfv
+  - text: дима аҡив
+    gloss: aor
+  - text: дима иҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to call out
+      ru: вызывать
+    aliases:
+      en: [address, shout]

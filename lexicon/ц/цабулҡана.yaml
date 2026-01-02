@@ -1,0 +1,17 @@
+id: tyAVZwSnyd8dFq0kquYG
+headword: цабулҡана
+ipa: tsabulˈqana
+tags: [v, intr, cls]
+forms:
+  - text: цабуҡана
+    gloss: pfv
+  - text: цабуҡун
+    gloss: aor
+  - text: цабулҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to mistreat
+      ru: плохо относиться
+    aliases:
+      en: [abuse]

@@ -1,0 +1,22 @@
+id: pK5telz86fHlWEKwbPtL
+headword: яльяд
+ipa: ælˈhæd
+tags: [n, loan, arabic]
+etymology:
+  en: From Arabic *الأحد* "Sunday" (cf. *яльядбар* "Sunday").
+note:
+  en: '*жумяъ*'
+forms:
+  - text: яльяд
+    gloss: sg
+  - text: яльяде
+    gloss: pl
+definitions:
+  - translation:
+      en: week
+      ru: неделя
+    tags: [time]
+    examples:
+      - text: чьвел яльяд дегур
+        translation:
+          en: two weeks passed

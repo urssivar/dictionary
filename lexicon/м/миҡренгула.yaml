@@ -1,0 +1,18 @@
+id: nu029Yo1hAhmgKgHmluC
+headword: миҡренгула
+ipa: miqrenˈgula
+tags: [n]
+forms:
+  - text: миҡренгула
+    gloss: sg
+  - text: миҡренгулал
+    gloss: obl
+  - text: миҡренгулабе
+    gloss: pl
+definitions:
+  - translation:
+      en: girth
+      ru: подпруга
+    tags: [tool]
+    aliases:
+      en: [breastplate, cinch]

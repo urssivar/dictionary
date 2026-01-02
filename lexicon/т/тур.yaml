@@ -1,0 +1,14 @@
+id: ukjnesSzHqz6HlUPxidx
+headword: тур
+ipa: ˈtur
+tags: [n, loan]
+forms:
+  - text: тур
+    gloss: sg
+  - text: турме
+    gloss: pl
+definitions:
+  - translation:
+      en: sword
+      ru: меч
+    tags: [tool]

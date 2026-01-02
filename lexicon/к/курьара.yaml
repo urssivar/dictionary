@@ -1,0 +1,17 @@
+id: 7TEDGSKRFpBNKgEZmpsY
+headword: курьара
+ipa: kurˈhara
+tags: [v, tr]
+forms:
+  - text: каьара
+    gloss: pfv
+  - text: каьур
+    gloss: aor
+  - text: курьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to string
+      ru: нанизывать
+    aliases:
+      en: [bead, thread]

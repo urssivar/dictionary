@@ -1,0 +1,17 @@
+id: 7JTrBVRMuXrwM8lvUxd4
+headword: лус биргара
+ipa: ˌlus birˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: лус бигара
+    gloss: pfv
+  - text: лус бижив
+    gloss: aor
+  - text: лус биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to turn
+      ru: разворачиваться
+    aliases:
+      en: [rotate, around]

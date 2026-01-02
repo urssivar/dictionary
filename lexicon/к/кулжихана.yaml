@@ -1,0 +1,21 @@
+id: wdG0nFZa2fQg4Sczk54s
+headword: кулжихана
+ipa: kulʒiˈχana
+tags: [v, tr]
+forms:
+  - text: калжихана
+    gloss: pfv
+  - text: калжихун
+    gloss: aor
+  - text: кулжихана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to overpower
+      ru: одолевать
+    aliases:
+      en: [lose, topple, defeat]
+    examples:
+      - text: ьелттал ду кулжихунда
+        translation:
+          en: they overpowered me

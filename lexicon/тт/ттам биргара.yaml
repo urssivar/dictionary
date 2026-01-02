@@ -1,0 +1,15 @@
+id: BLg545dEi7lfaFYMZsW3
+headword: ттам биргара
+ipa: ˌtːam birˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: ттам бигара
+    gloss: pfv
+  - text: ттам бижив
+    gloss: aor
+  - text: ттам биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to bang
+      ru: издавать хлопок

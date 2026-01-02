@@ -1,0 +1,17 @@
+id: 3jV1VddoPlRm6Achdgs3
+headword: каруччара
+ipa: karuˈtʃːara
+tags: [v, tr, cls]
+forms:
+  - text: каберччара
+    gloss: pfv
+  - text: каберччив
+    gloss: aor
+  - text: каруччара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shape
+      ru: формировать
+    aliases:
+      en: [form]

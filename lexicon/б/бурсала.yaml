@@ -1,0 +1,18 @@
+id: HXndRR06yZCdNeYlbBVk
+headword: бурсала
+ipa: burˈsala
+tags: [n, nmlz]
+forms:
+  - text: бурсала
+    gloss: sg
+  - text: бурсалал
+    gloss: obl
+  - text: бурсалабе
+    gloss: pl
+definitions:
+  - translation:
+      en: proverb
+      ru: пословица
+    tags: [social]
+    aliases:
+      en: [saying]

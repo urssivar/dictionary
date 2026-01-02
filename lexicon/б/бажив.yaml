@@ -1,0 +1,17 @@
+id: Q8xLGeTn1oZDHw8KMGaL
+headword: бажив
+ipa: baˈʒiv
+tags: [adj]
+etymology:
+  en: Pret. of *бигара* "to need".
+forms:
+  - text: бажив
+    gloss: sg n
+  - text: даживте
+    gloss: pl n
+definitions:
+  - translation:
+      en: needed
+      ru: нужный
+    aliases:
+      en: [necessary]

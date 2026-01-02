@@ -1,0 +1,16 @@
+id: KCUW7N3mRXo8QvVEYnjG
+headword: ниҡҡ
+ipa: ˈniqː
+tags: [n]
+forms:
+  - text: ниҡҡ
+    gloss: sg
+  - text: ниҡҡре
+    gloss: pl
+definitions:
+  - translation:
+      en: cave
+      ru: пещера
+    tags: [nature]
+    aliases:
+      en: [grot, crypt]

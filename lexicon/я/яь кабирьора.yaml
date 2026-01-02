@@ -1,0 +1,17 @@
+id: D3Yev5GFK6RZ9qVddSWW
+headword: яь кабирьора
+ipa: ˌæh kabirˈhora
+tags: [v, tr, cls, phr]
+forms:
+  - text: яь кабиьора
+    gloss: pfv
+  - text: яь кабиьяв
+    gloss: aor
+  - text: яь кабирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to recover
+      ru: восстаналиваться
+    aliases:
+      en: [heal, well, better]

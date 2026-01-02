@@ -1,0 +1,17 @@
+id: W6KmMCewiNhVHE0cnqBj
+headword: багре
+ipa: ˈbagre
+tags: [n, nmlz]
+etymology:
+  en: From *бигара* "to need", "to come in handy".
+forms:
+  - text: багре
+    gloss: sg
+  - text: багриппе
+    gloss: pl
+definitions:
+  - translation:
+      en: tool
+      ru: инструмент
+    aliases:
+      en: [instrument]

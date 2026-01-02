@@ -1,0 +1,17 @@
+id: uFVpQm3uTJJxGEeYatXt
+headword: бивхяра
+ipa: bivˈχːæra
+tags: [v, cls, intr]
+forms:
+  - text: бявхяра
+    gloss: pfv
+  - text: бявхив
+    gloss: aor
+  - text: бивхяра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shake up
+      ru: трусить
+    aliases:
+      en: [rock]

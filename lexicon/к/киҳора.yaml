@@ -1,0 +1,17 @@
+id: HDQruWPlGfcfNhwSVKa3
+headword: киҳора
+ipa: kiˈxːora
+tags: [v, intr]
+forms:
+  - text: каҳора
+    gloss: pfv
+  - text: кашур
+    gloss: aor
+  - text: киҳора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to land
+      ru: приземляться
+    aliases:
+      en: [sit, fly]

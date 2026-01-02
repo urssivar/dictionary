@@ -1,0 +1,17 @@
+id: i73u0gI2fsZ6JeLEfmh9
+headword: дарман бирара
+ipa: darˌman biˈrara
+tags: [v, cls, tr, phr]
+forms:
+  - text: дарман барара
+    gloss: pfv
+  - text: дарман барив
+    gloss: aor
+  - text: дарман бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cure
+      ru: лечить
+    aliases:
+      en: [heal]

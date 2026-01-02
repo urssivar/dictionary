@@ -1,0 +1,19 @@
+id: OGqqAdvBSFxkAtsKBlRm
+headword: кунха бирццара
+ipa: kunˌχa birˈtsːara
+tags: [v, intr, phr]
+note:
+  en: '*~ аргара*'
+forms:
+  - text: кунха биццара
+    gloss: pfv
+  - text: кунха биццур
+    gloss: aor
+  - text: кунха бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to deal
+      ru: иметь дело
+    aliases:
+      en: [work, part]

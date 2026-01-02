@@ -1,0 +1,17 @@
+id: eavcWDDb05EUPo7qp0Nu
+headword: ҡявла бурҡара
+ipa: ˌqævla burˈqara
+tags: [v, tr, cls, phr]
+forms:
+  - text: ҡявла бяҡара
+    gloss: pfv
+  - text: ҡявла бяҡив
+    gloss: aor
+  - text: ҡявла бурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to execute
+      ru: казнить
+    aliases:
+      en: [kill]

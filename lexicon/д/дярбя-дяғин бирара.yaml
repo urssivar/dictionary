@@ -1,0 +1,17 @@
+id: MMaEQ57xQxYjuzhaV2zY
+headword: дярбя-дяғин бирара
+ipa: ˌdærbæ-dæˌʁin biˈrara
+tags: [v, phr, cls, tr]
+forms:
+  - text: дярбя-дяғин барара
+    gloss: pfv
+  - text: дярбя-дяғин барив
+    gloss: aor
+  - text: дярбя-дяғин бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to obliterate
+      ru: полностью разрушить
+    aliases:
+      en: [crush, smash, destroy]

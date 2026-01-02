@@ -1,0 +1,17 @@
+id: pUUAqnpMuBkwH0MRvn1Y
+headword: кирхяра
+ipa: kirˈχæra
+tags: [v, tr]
+forms:
+  - text: кихяра
+    gloss: pfv
+  - text: кихяв
+    gloss: aor
+  - text: кирхяра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hack
+      ru: раскалывать
+    aliases:
+      en: [cut]

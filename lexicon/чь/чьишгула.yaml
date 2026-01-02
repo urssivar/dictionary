@@ -1,0 +1,18 @@
+id: Zs8oInuMkut0tvE0KyZj
+headword: чьишгула
+ipa: tʃʼiʃˈgula
+tags: [n]
+etymology:
+  en: Gen. of *чьишгу* "underarms".
+forms:
+  - text: чьишгула
+    gloss: sg
+  - text: чьишгулал
+    gloss: obl
+  - text: чьишгулабе
+    gloss: pl
+definitions:
+  - translation:
+      en: armit
+      ru: подмышка
+    tags: [body]

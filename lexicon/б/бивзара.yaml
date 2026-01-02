@@ -1,0 +1,20 @@
+id: 88zr0HMUusti8Syikfok
+headword: бивзара
+ipa: bivˈzara
+tags: [v, lbl, cls]
+forms:
+  - text: бивзив
+    gloss: aor
+  - text: бивзара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to strew
+      ru: раскидывать
+    aliases:
+      en: [scatter, disperse, throw]
+  - translation:
+      en: to scurry
+      ru: копошиться
+    aliases:
+      en: [dig]

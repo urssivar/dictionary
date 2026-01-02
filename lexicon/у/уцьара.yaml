@@ -1,0 +1,17 @@
+id: l9oyGGwnloOabXJZGpnp
+headword: уцьара
+ipa: uˈtsʼara
+tags: [v, cls, tr]
+forms:
+  - text: бурцьара
+    gloss: pfv
+  - text: бурцьив
+    gloss: aor
+  - text: уцьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hew
+      ru: обтесывать
+    aliases:
+      en: [process, cut, chop]

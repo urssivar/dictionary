@@ -1,0 +1,23 @@
+id: LU1QqmowGCAyYqWzWpYI
+headword: бяъ
+ipa: ˈbæʔ
+tags: [n]
+forms:
+  - text: бяъ
+    gloss: sg
+  - text: бяъя
+    gloss: obl
+  - text: бяъруме
+    gloss: pl
+definitions:
+  - translation:
+      en: wall
+      ru: стена
+    aliases:
+      en: [side, facet]
+  - translation:
+      en: slope
+      ru: склон
+    tags: [nature]
+    aliases:
+      en: [bank, hull]

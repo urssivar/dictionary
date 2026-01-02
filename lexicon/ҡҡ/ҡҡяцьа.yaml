@@ -1,0 +1,16 @@
+id: XovM5UTpS3jZr6xeOTai
+headword: ҡҡяцьа
+ipa: qːæˈtsʼa
+tags: [n]
+forms:
+  - text: ҡҡяцьа
+    gloss: sg
+  - text: ҡҡяцьан
+    gloss: obl
+  - text: ҡҡяцьне
+    gloss: pl
+definitions:
+  - translation:
+      en: tongs
+      ru: щипцы
+    tags: [tool]

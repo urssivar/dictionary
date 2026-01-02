@@ -1,0 +1,17 @@
+id: T57g4VjscwISH8yMfuF2
+headword: дурьа бирара
+ipa: ˌdurha biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: дурьа барара
+    gloss: pfv
+  - text: дурьа барив
+    gloss: aor
+  - text: дурьа бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to disrespect
+      ru: не уважать
+    aliases:
+      en: [wrong]

@@ -1,0 +1,17 @@
+id: b2fuBQNiHFyjRi6Q8wlo
+headword: цан кабартара
+ipa: ˌtsan kabarˈtara
+tags: [v, tr, cls, phr]
+forms:
+  - text: цан кабатара
+    gloss: pfv
+  - text: цан кабатур
+    gloss: aor
+  - text: цан кабартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to marry off
+      ru: женить
+    aliases:
+      en: [pair]

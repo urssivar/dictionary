@@ -1,0 +1,17 @@
+id: nxoQy2IZqRfH95jzCTr6
+headword: читти биркара
+ipa: tʃiˌtːi birˈkara
+tags: [v, phr, intr, cls]
+forms:
+  - text: читти бикара
+    gloss: pfv
+  - text: читти бичив
+    gloss: aor
+  - text: читти биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to win
+      ru: выигрывать
+    aliases:
+      en: [score, victory]

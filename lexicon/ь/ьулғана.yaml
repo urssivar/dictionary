@@ -1,0 +1,17 @@
+id: CVeHZCeCegwZdNihoN8O
+headword: ьулғана
+ipa: hulˈʁana
+tags: [v, tr]
+forms:
+  - text: ьалғана
+    gloss: pfv
+  - text: ьалғун
+    gloss: aor
+  - text: ьулғана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shut away
+      ru: запирать
+    aliases:
+      en: [close, lock]

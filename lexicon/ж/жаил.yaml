@@ -1,0 +1,15 @@
+id: 3cvxkqhLEz0TRBhTMWvH
+headword: жаил
+ipa: ˈʒail
+tags: [adj, n, loan, arabic]
+note:
+  en: '*жаьил*, *жеьил*'
+forms:
+  - text: жаил
+    gloss: sg
+  - text: жаилте
+    gloss: pl
+definitions:
+  - translation:
+      en: young
+      ru: молодой

@@ -1,0 +1,22 @@
+id: 6FriHMw8eW5OV7o7mMSW
+headword: белле
+ipa: ˈbelle
+tags: [adv, cls]
+etymology:
+  en: Adv. of cop. *бел* "to remain".
+definitions:
+  - translation:
+      en: until
+      ru: пока
+    aliases:
+      en: [before, while, til]
+    examples:
+      - text: абарил велле мацят
+        translation:
+          en: don't come until you're done
+      - text: аряръил релле ря ҡил
+        translation:
+          en: go home before you caught cold
+      - text: хурег белле вя уче
+        translation:
+          en: go eat while there's food left

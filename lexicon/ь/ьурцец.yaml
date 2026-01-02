@@ -1,0 +1,16 @@
+id: gMDfkKVftNKAk5wVR0BR
+headword: ьурцец
+ipa: hurˈtsets
+tags: [n]
+forms:
+  - text: ьурцец
+    gloss: sg
+  - text: ьурцеци
+    gloss: obl
+  - text: ьурцецне
+    gloss: pl
+definitions:
+  - translation:
+      en: kidney
+      ru: почка
+    tags: [body]

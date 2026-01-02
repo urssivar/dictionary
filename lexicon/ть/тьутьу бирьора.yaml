@@ -1,0 +1,17 @@
+id: KtudF9rlF7BdC4VaZ5Xr
+headword: тьутьу бирьора
+ipa: tʼuˌtʼu birˈhora
+tags: [v, intr, cls]
+forms:
+  - text: тьутьу биьора
+    gloss: pfv
+  - text: тьутьу биьяв
+    gloss: aor
+  - text: тьутьу бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to scatter
+      ru: рассеиваться
+    aliases:
+      en: [disband, break, dissipate]

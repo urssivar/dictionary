@@ -1,0 +1,18 @@
+id: FCW9LTMwpPKHSJPpPDlC
+headword: уц
+ipa: ˈuts
+tags: [n]
+forms:
+  - text: уц
+    gloss: sg
+  - text: уцу
+    gloss: obl
+  - text: ице
+    gloss: pl
+definitions:
+  - translation:
+      en: ox
+      ru: вол
+    tags: [animal, agriculture]
+    aliases:
+      en: [bull]

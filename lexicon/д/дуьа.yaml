@@ -1,0 +1,19 @@
+id: 7FvQj9sfaY04cS1bZMSt
+headword: дуьа
+ipa: ˈduha
+tags: [n]
+forms:
+  - text: дуьа
+    gloss: sg
+  - text: дуьан
+    gloss: pl
+definitions:
+  - translation:
+      en: decaying corpse
+      ru: разлагающийся труп
+    aliases:
+      en: [decompose]
+    examples:
+      - text: дуьанла кквяъ
+        translation:
+          en: death smell

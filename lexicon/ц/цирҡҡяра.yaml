@@ -1,0 +1,19 @@
+id: VFCt0oNH4b4BISq2Ycn7
+headword: цирҡҡяра
+ipa: tsirˈqːæra
+tags: [v, tr]
+forms:
+  - text: цирҡҡяв
+    gloss: aor
+  - text: цирҡҡяра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to appropriate
+      ru: присваивать
+    aliases:
+      en: [assign, confer]
+    examples:
+      - text: дуне цирҡҡяв
+        translation:
+          en: went around the world

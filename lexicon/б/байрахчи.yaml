@@ -1,0 +1,14 @@
+id: JCwEVjw9hKAdMOBi1NNj
+headword: байрахчи
+ipa: bajraχˈtʃi
+tags: [n, loan, turkic]
+forms:
+  - text: байрахчи
+    gloss: sg
+  - text: байрахчибе
+    gloss: pl
+definitions:
+  - translation:
+      en: standard bearer
+      ru: знаменосец
+    tags: [profession]

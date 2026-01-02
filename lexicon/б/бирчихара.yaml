@@ -1,0 +1,17 @@
+id: 4WNNYvzqYelpVp4T0Kv6
+headword: бирчихара
+ipa: birtʃiˈχara
+tags: [v, tr, cls]
+forms:
+  - text: бичихара
+    gloss: pfv
+  - text: бичихив
+    gloss: aor
+  - text: бирчихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to punish
+      ru: наказывать
+    aliases:
+      en: [clobber]

@@ -1,0 +1,16 @@
+id: NKFpOojlx7zhgOoSSRoE
+headword: азиранцци
+ipa: aˈzirantsːi
+tags: [adv]
+etymology:
+  en: From *азир* "thousand".
+definitions:
+  - translation:
+      en: in great numbers
+      ru: в великом множестве
+    aliases:
+      en: [all]
+    examples:
+      - text: азиранцци вейкку
+        translation:
+          en: no [such one] among innumerable [others] (i.e. the only such)

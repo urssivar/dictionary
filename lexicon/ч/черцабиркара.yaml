@@ -1,0 +1,17 @@
+id: 1qC8aeAz2IyKDYGll5sN
+headword: черцабиркара
+ipa: tʃertsabirˈkara
+tags: [v, intr, cls]
+forms:
+  - text: черцабикара
+    gloss: pfv
+  - text: черцабичив
+    gloss: aor
+  - text: черцабиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to reject
+      ru: отказываться
+    aliases:
+      en: [renounce]

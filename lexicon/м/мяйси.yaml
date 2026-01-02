@@ -1,0 +1,18 @@
+id: OAPAeVU0khwAD7rKMmrv
+headword: мяйси
+ipa: mæjˈsi
+tags: [n]
+forms:
+  - text: мяйси
+    gloss: sg
+  - text: мяйсин
+    gloss: obl
+  - text: мяйсне
+    gloss: pl
+definitions:
+  - translation:
+      en: jurab
+      ru: джураб
+    tags: [clothing]
+    aliases:
+      en: [sock]

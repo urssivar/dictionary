@@ -1,0 +1,17 @@
+id: bMCl0FHEyPyKIZl74FF8
+headword: бат бирҳара
+ipa: ˌbat birˈxara
+tags: [v, intr, cls]
+forms:
+  - text: бат биҳара
+    gloss: pfv
+  - text: бат бишив
+    gloss: aor
+  - text: бат бирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to set off
+      ru: начинать движение
+    aliases:
+      en: [pace, go, set, 'off']

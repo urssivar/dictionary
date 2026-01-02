@@ -1,0 +1,14 @@
+id: NquMZBUTnVZwaCvk46O6
+headword: ппуржин
+ipa: pːurˈʒin
+tags: [n, loan, russian]
+forms:
+  - text: ппуржин
+    gloss: sg
+  - text: ппуржинте
+    gloss: pl
+definitions:
+  - translation:
+      en: spring
+      ru: пружина
+    tags: [tool]

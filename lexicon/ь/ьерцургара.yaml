@@ -1,0 +1,20 @@
+id: uSA6dNCMafoNIVvD2VmT
+headword: ьерцургара
+ipa: hertsurˈgara
+tags: [v, intr]
+forms:
+  - text: ьерцагара
+    gloss: pfv
+  - text: ьерцагур
+    gloss: aor
+  - text: ьерцургара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pester
+      ru: донимать
+    aliases:
+      en: [annoy, bother]
+  - translation:
+      en: to sift out
+      ru: отсеивать

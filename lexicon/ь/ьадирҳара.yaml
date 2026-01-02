@@ -1,0 +1,17 @@
+id: P4QrwbpvnOkOLezBRB3c
+headword: ьадирҳара
+ipa: hadirˈxara
+tags: [v, tr]
+forms:
+  - text: ьадиҳара
+    gloss: pfv
+  - text: ьадишив
+    gloss: aor
+  - text: ьадирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to name
+      ru: нарекать, называть
+    aliases:
+      en: [call]

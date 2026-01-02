@@ -1,0 +1,17 @@
+id: nP1Uli3PDbMKsI1rvCll
+headword: чьалтьа
+ipa: ˈtʃʼaltʼa
+tags: [n]
+forms:
+  - text: чьалтьа
+    gloss: sg
+  - text: чьалтьан
+    gloss: obl
+  - text: чьалтне
+    gloss: pl
+definitions:
+  - translation:
+      en: breadth
+      ru: широта
+    aliases:
+      en: [canvas, width]

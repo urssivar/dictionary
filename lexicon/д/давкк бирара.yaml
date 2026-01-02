@@ -1,0 +1,17 @@
+id: NbTTg2b3P3nWvySG8hIR
+headword: давкк бирара
+ipa: ˌdavkː biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: давкк барара
+    gloss: pfv
+  - text: давкк барив
+    gloss: aor
+  - text: давкк бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fix
+      ru: исправлять
+    aliases:
+      en: [correct]

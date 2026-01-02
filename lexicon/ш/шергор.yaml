@@ -1,0 +1,16 @@
+id: cbmGXpZydRbd7r7cpicy
+headword: шергор
+ipa: ʃerˈgor
+tags: [n, loan, arabic]
+forms:
+  - text: шергор
+    gloss: sg
+  - text: шергорте
+    gloss: pl
+definitions:
+  - translation:
+      en: sirwal
+      ru: шаровары
+    tags: [clothing]
+    aliases:
+      en: [pants, trousers]

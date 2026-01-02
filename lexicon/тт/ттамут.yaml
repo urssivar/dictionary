@@ -1,0 +1,17 @@
+id: IXHEALDSdW9NeBoi7cIt
+headword: ттамут
+ipa: tːaˈmut
+tags: [n]
+note:
+  en: '*шяр*'
+forms:
+  - text: ттамут
+    gloss: sg
+  - text: ттамуте
+    gloss: pl
+definitions:
+  - translation:
+      en: sphere
+      ru: шар
+    aliases:
+      en: [ball, balloon]

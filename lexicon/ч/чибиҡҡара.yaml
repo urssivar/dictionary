@@ -1,0 +1,24 @@
+id: 07U9aUvz6X8QDnIsZJRj
+headword: чибиҡҡара
+ipa: tʃibiˈqːara
+tags: [v, cls, intr]
+forms:
+  - text: чибуҡҡара
+    gloss: pfv
+  - text: чибуҡҡив
+    gloss: aor
+  - text: чибиҡҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to bully
+      ru: задирать
+    aliases:
+      en: [rude, hector, aggression]
+    examples:
+      - text: ьел дами чириҡҡул це
+        translation:
+          en: she is bullying me
+  - translation:
+      en: to happen to be
+      ru: оказываться на месте (случайно)

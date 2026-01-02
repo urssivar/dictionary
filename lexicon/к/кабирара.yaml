@@ -1,0 +1,17 @@
+id: DvRoNX7En4aJps6of2T4
+headword: кабирара
+ipa: kabiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: кабарара
+    gloss: pfv
+  - text: кабарив
+    gloss: aor
+  - text: кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to put
+      ru: класть
+    aliases:
+      en: [place, deposit]

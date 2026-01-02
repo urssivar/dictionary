@@ -1,0 +1,15 @@
+id: wZNXTLzjB1TyfaHdJaG2
+headword: пар кабиргара
+ipa: ˌpar kirˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: пар кабигара
+    gloss: pfv
+  - text: пар кабижив
+    gloss: aor
+  - text: пар кабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to spread out
+      ru: расстелаться

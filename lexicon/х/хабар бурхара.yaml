@@ -1,0 +1,21 @@
+id: gCbwjCmEOF3n3XAxkMM6
+headword: хабар бурхара
+ipa: χaˌbar burˈχara
+tags: [v, tr, phr]
+forms:
+  - text: хабар берхора
+    gloss: pfv
+  - text: хабар берхур
+    gloss: aor
+  - text: хабар бурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to become famous
+      ru: прославляться
+    aliases:
+      en: [glorify, laud]
+    examples:
+      - text: ьелела хабар берхур
+        translation:
+          en: he became famous

@@ -1,0 +1,15 @@
+id: eGMqrkZuJslCpDGHU2j3
+headword: бег
+ipa: ˈbeg
+tags: [n, loan, turkic]
+forms:
+  - text: бег
+    gloss: sg
+  - text: бегме
+    gloss: pl
+definitions:
+  - translation:
+      en: lord
+      ru: господин
+    aliases:
+      en: [captain, master]

@@ -1,0 +1,19 @@
+id: oA8X2KeHl49QjZzNOWaT
+headword: ьиж
+ipa: ˈhiʒ
+tags: [det]
+note:
+  en: There are also *ьекь* "this up here", *ьех* "this down here".
+forms:
+  - text: ьиж
+    gloss: sg
+  - text: ьиже
+    gloss: obl
+definitions:
+  - translation:
+      en: this here
+      ru: вот этот
+    examples:
+      - text: ьеж бакки кабиҳа
+        translation:
+          en: put it right here

@@ -1,0 +1,17 @@
+id: SQinjriKihYbv7WjezHb
+headword: сабулҡана
+ipa: sabulˈqana
+tags: [v, intr, cls]
+forms:
+  - text: сабуҡана
+    gloss: pfv
+  - text: сабуҡун
+    gloss: aor
+  - text: сабулҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to outstrip
+      ru: обгонять
+    aliases:
+      en: [ahead, pace, advance]

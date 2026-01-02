@@ -1,0 +1,17 @@
+id: fGM7CKc3pzwv5u8oQ7oZ
+headword: ливсив цабиргара
+ipa: livˌsiv tsabirˈgara
+tags: [v, intr, phr, cls]
+forms:
+  - text: ливсив цабигара
+    gloss: pfv
+  - text: ливсив цабижив
+    gloss: aor
+  - text: ливсив цабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to revitalize
+      ru: оживляться
+    aliases:
+      en: [rejuvenate]

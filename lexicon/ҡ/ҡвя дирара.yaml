@@ -1,0 +1,17 @@
+id: Mw4lsULzFOIr683gz1tO
+headword: ҡвя дирара
+ipa: ˌqʷæ diˈrara
+tags: [v, tr, phr]
+forms:
+  - text: ҡвя дарара
+    gloss: pfv
+  - text: ҡвя дарив
+    gloss: aor
+  - text: ҡвя дирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to vow
+      ru: клясться
+    aliases:
+      en: [swear, promise]

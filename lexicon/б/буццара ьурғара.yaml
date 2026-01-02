@@ -1,0 +1,18 @@
+id: mpCfz0JXMhSM0LQWXZec
+headword: буццара ьурғара
+ipa: buˌtsːara hurˈʁara
+tags: [v, phr, tr, cls]
+forms:
+  - text: буццара ьағара
+    gloss: pfv
+  - text: буццара ьағив
+    gloss: aor
+  - text: буццара ьурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to start up
+      ru: заводить, запускать
+    tags: [tech]
+    aliases:
+      en: [launch]

@@ -1,0 +1,17 @@
+id: x3wWHwxQyolBeS1gCy9s
+headword: куттара
+ipa: kuˈtːara
+tags: [v, tr, cls]
+forms:
+  - text: каберттара
+    gloss: pfv
+  - text: каберттив
+    gloss: aor
+  - text: куттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pick
+      ru: срывать
+    aliases:
+      en: [break, pluck, tear]

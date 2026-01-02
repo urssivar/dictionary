@@ -1,0 +1,19 @@
+id: YGDoxv0Um954m8CmI87c
+headword: бел
+ipa: ˈbel
+tags: [cop, adj, cls]
+etymology:
+  en: Related to copula *би* "to be".
+definitions:
+  - translation:
+      en: still is
+      ru: ещё есть
+    aliases:
+      en: [remain]
+    examples:
+      - text: гоза бел де
+        translation:
+          en: there was still honey
+      - text: атта вел воьал ду ра цянда
+        translation:
+          en: if father is still there i will come too

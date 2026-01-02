@@ -1,0 +1,19 @@
+id: 4MrGXJKx22rBIBgKDSaX
+headword: ивҳара
+ipa: ivˈxara
+tags: [v, tr]
+note:
+  en: |-
+    *авҳара* PFV
+    *яй биғара*
+forms:
+  - text: ившив
+    gloss: pret
+  - text: ивҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to open
+      ru: открывать
+    aliases:
+      en: [release]

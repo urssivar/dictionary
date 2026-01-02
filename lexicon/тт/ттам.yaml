@@ -1,0 +1,14 @@
+id: YLyNU4d1as9bXwJrfyiP
+headword: ттам
+ipa: ˈtːam
+tags: [n]
+forms:
+  - text: ттам
+    gloss: sg
+  - text: ттамре
+    gloss: pl
+definitions:
+  - translation:
+      en: drum
+      ru: барабан
+    tags: [tool]

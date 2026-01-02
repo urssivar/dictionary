@@ -1,0 +1,14 @@
+id: 6pP33hsAIQo6lARJInFM
+headword: раьаз
+ipa: raˈhaz
+tags: [n, loan]
+forms:
+  - text: раьаз
+    gloss: sg
+  - text: раьазе
+    gloss: pl
+definitions:
+  - translation:
+      en: chain
+      ru: цепь
+    tags: [tool]

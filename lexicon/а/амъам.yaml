@@ -1,0 +1,19 @@
+id: 7Z91qBvnjzKqz4ARmy7g
+headword: амъам
+ipa: amˈʔam
+tags: [n]
+definitions:
+  - note:
+      en: There's also *амъамчи* "stutterer".
+    translation:
+      en: stutter
+      ru: заикание
+    aliases:
+      en: [stammer]
+    examples:
+      - text: амъам рикьул це
+        translation:
+          en: she is stuttering
+      - text: амъам ьижив
+        translation:
+          en: he stuttered

@@ -1,0 +1,14 @@
+id: SRV5beEQv3juxECMVexT
+headword: шимша
+ipa: ˈʃimʃa
+tags: [n]
+forms:
+  - text: шимша
+    gloss: sg
+  - text: шимшан
+    gloss: obl
+definitions:
+  - translation:
+      en: moss
+      ru: мох
+    tags: [nature, plant, grass]

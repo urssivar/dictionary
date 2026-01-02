@@ -1,0 +1,16 @@
+id: ZwdaJG7lH7IUf2KdyJub
+headword: бали
+ipa: baˈli
+tags: [n]
+note:
+  en: '*якьай*'
+forms:
+  - text: бали
+    gloss: sg
+  - text: балме
+    gloss: pl
+definitions:
+  - translation:
+      en: she-buffalo
+      ru: буйволица
+    tags: [animal]

@@ -1,0 +1,17 @@
+id: RpGjrtYe8t7eNFQQxF1P
+headword: йяъ
+ipa: ˈjæʔ
+tags: [n]
+note:
+  en: '*жяъ*'
+forms:
+  - text: йяъ
+    gloss: sg
+  - text: йяъре
+    gloss: pl
+definitions:
+  - translation:
+      en: base
+      ru: основа
+    aliases:
+      en: [source, radix]

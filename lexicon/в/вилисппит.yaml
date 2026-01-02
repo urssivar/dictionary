@@ -1,0 +1,15 @@
+id: x80bqgvQdYMjtvk47YRU
+headword: вилисппит
+ipa: vilisˈpːit
+tags: [n, loan, russian]
+forms:
+  - text: вилисппит
+    gloss: sg
+  - text: вилисппите
+    gloss: pl
+definitions:
+  - translation:
+      en: bicycle
+      ru: велосипед
+    aliases:
+      en: [bike]

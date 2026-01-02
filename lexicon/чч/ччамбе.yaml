@@ -1,0 +1,18 @@
+id: a8VD1dhcfA38PZhCwUot
+headword: ччамбе
+ipa: ˈtʃːambe
+tags: [n]
+note:
+  en: '*ччимби*'
+forms:
+  - text: ччамбе
+    gloss: sg
+  - text: ччамби
+    gloss: obl
+definitions:
+  - translation:
+      en: cornelian cherry
+      ru: кизил
+    tags: [nature, plant, tree, food]
+    aliases:
+      en: [cornus, mas, dogwood]

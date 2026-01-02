@@ -1,0 +1,17 @@
+id: Lrn4htWHctERGFcrTIwS
+headword: йеттах биркара
+ipa: jeˌtːaχ birˈkara
+tags: [v, cls, intr, phr]
+forms:
+  - text: йеттах бикара
+    gloss: pfv
+  - text: йеттах бичив
+    gloss: aor
+  - text: йеттах биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cross
+      ru: переходить
+    aliases:
+      en: [go, traverse]

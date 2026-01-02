@@ -1,0 +1,19 @@
+id: hH6MW6oorJG4IYaHA3GY
+headword: ҡьи бирьора
+ipa: ˌqʼi birˈhora
+tags: [v, intr, cls, phr]
+etymology:
+  en: TB2006
+forms:
+  - text: ҡьи биьора
+    gloss: pfv
+  - text: ҡьи биьяв
+    gloss: aor
+  - text: ҡьи бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to ripen
+      ru: спеть
+    aliases:
+      en: [ripen, mature]

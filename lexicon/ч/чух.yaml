@@ -1,0 +1,20 @@
+id: DkrrbaZ4kVfROcf4DI0m
+headword: чух
+ipa: ˈtʃuχ
+tags: [n]
+note:
+  en: '*ҡих*'
+forms:
+  - text: чух
+    gloss: sg
+  - text: чуха
+    gloss: obl
+definitions:
+  - translation:
+      en: walnut
+      ru: грецкий орёх
+    tags: [food]
+  - translation:
+      en: nut
+      ru: орех
+    tags: [nature]

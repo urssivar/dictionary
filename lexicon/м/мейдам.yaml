@@ -1,0 +1,19 @@
+id: lrOL99XTUTmQiiroqmNE
+headword: мейдам
+ipa: ˈmejdam
+tags: [n, loan, arabic]
+forms:
+  - text: мейдам
+    gloss: sg
+  - text: мейдамте
+    gloss: pl
+definitions:
+  - translation:
+      en: person
+      ru: человек
+    aliases:
+      en: [human]
+    examples:
+      - text: ҳулум мейдам
+        translation:
+          en: female person

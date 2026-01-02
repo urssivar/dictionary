@@ -1,0 +1,17 @@
+id: NSEfyoA6oIEcBWdlzRzS
+headword: девга бирара
+ipa: ˌdevga biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: девга барара
+    gloss: pfv
+  - text: девга барив
+    gloss: aor
+  - text: девга бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to close
+      ru: закрывать
+    aliases:
+      en: [shut, lock]

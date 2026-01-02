@@ -1,0 +1,17 @@
+id: Dpd45wVIf5ZR5ijHQPSs
+headword: ахрей биркара
+ipa: aχˌrej birˈkara
+tags: [v, intr, cls, phr]
+forms:
+  - text: ахрей бикара
+    gloss: pfv
+  - text: ахрей бичив
+    gloss: aor
+  - text: ахрей биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to nap
+      ru: дремать
+    aliases:
+      en: [sleep]

@@ -1,0 +1,16 @@
+id: 5bvDesZqKNu5l74LrPB7
+headword: чубукк
+ipa: tʃuˈbukː
+tags: [n]
+forms:
+  - text: чубукк
+    gloss: sg
+  - text: чубукке
+    gloss: pl
+definitions:
+  - translation:
+      en: sapling
+      ru: саженец
+    tags: [nature]
+    aliases:
+      en: [tree]

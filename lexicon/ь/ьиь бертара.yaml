@@ -1,0 +1,18 @@
+id: re30Mr7kQT38yaqc5i0G
+headword: ьиь бертара
+ipa: ˌhih berˈtara
+tags: [v, tr, phr]
+forms:
+  - text: ьиь бетара
+    gloss: pfv
+  - text: ьиь бетур
+    gloss: aor
+  - text: ьиь бертара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to express
+      ru: выражать (отношение)
+    tags: [emotion]
+    aliases:
+      en: [attitude, opine]

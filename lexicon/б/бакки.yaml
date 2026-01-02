@@ -1,0 +1,21 @@
+id: wTAwK7cIsf4SScRCcn5T
+headword: бакки
+ipa: baˈkːi
+tags: [post, cls]
+etymology:
+  en: Likely loc. of *бакк* "interior".
+note:
+  en: '*баккни*'
+definitions:
+  - translation:
+      en: inside
+      ru: внутри
+    aliases:
+      en: [in, into, within]
+    examples:
+      - text: машинла бакки
+        translation:
+          en: inside the car
+      - text: атта вакки ви
+        translation:
+          en: father is inside

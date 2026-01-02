@@ -1,0 +1,17 @@
+id: kQkJvg8uRmAfPB7wzUJJ
+headword: рах кабиркара
+ipa: ˌraχ kabirˈkara
+tags: [v, cls, intr]
+forms:
+  - text: рах кабикара
+    gloss: pfv
+  - text: рах кабичив
+    gloss: aor
+  - text: рах кабиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to set
+      ru: заходить, закатываться
+    aliases:
+      en: [down, sink]

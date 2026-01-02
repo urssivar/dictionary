@@ -1,0 +1,16 @@
+id: 639yMXw6WJJs8rp4ktSl
+headword: иҡҡла
+ipa: ˈiqːla
+tags: [n, nmlz]
+forms:
+  - text: иҡҡла
+    gloss: sg
+  - text: иҡҡлан
+    gloss: obl
+  - text: иҡҡлуме
+    gloss: pl
+definitions:
+  - translation:
+      en: harrow
+      ru: борона
+    tags: [tool]

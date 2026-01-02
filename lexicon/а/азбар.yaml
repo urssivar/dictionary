@@ -1,0 +1,17 @@
+id: PDqdMd4rNelWwfmRg9Qf
+headword: азбар
+ipa: azˈbar
+tags: [n, loan]
+note:
+  en: '*шеркка*'
+forms:
+  - text: азбар
+    gloss: sg
+  - text: азбунде
+    gloss: pl
+definitions:
+  - translation:
+      en: yard
+      ru: двор
+    aliases:
+      en: [garth]

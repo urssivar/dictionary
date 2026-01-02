@@ -1,0 +1,21 @@
+id: 2rISjM2PlCLkCUOJkb6M
+headword: тайп
+ipa: ˈtajp
+tags: [n, loan]
+forms:
+  - text: тайп
+    gloss: sg
+  - text: тайпа
+    gloss: obl
+definitions:
+  - translation:
+      en: tribe
+      ru: племя
+    tags: [kinship]
+  - translation:
+      en: gender
+      ru: пол
+    examples:
+      - text: ҳулум тайпала
+        translation:
+          en: женский пол

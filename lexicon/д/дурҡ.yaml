@@ -1,0 +1,16 @@
+id: 8NKAa03EcRgHgNYJJaMi
+headword: дурҡ
+ipa: ˈdurq
+tags: [n]
+forms:
+  - text: дурҡ
+    gloss: sg
+  - text: дурҡбе
+    gloss: pl
+definitions:
+  - translation:
+      en: barn
+      ru: сарай
+    tags: [agriculture]
+    aliases:
+      en: [stable, shed]

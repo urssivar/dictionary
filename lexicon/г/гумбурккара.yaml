@@ -1,0 +1,17 @@
+id: bLJxmRRV0PAnJkylcvXU
+headword: гумбурккара
+ipa: gumburˈkːara
+tags: [v, tr, cls]
+forms:
+  - text: гумбарккара
+    gloss: pfv
+  - text: гумбарччив
+    gloss: aor
+  - text: гумбурккара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to ridicule
+      ru: издеваться
+    aliases:
+      en: [mock, harass]

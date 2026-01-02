@@ -1,0 +1,16 @@
+id: EFicqEcOnFgiQq7wwFqX
+headword: шере
+ipa: ˈʃere
+tags: [n]
+forms:
+  - text: шере
+    gloss: sg
+  - text: шерин
+    gloss: obl
+definitions:
+  - translation:
+      en: breeze
+      ru: ветерок
+    tags: [nature]
+    aliases:
+      en: [wind]

@@ -1,0 +1,16 @@
+id: G18LiImCd8dv2iTRXsVb
+headword: ҡҡатар
+ipa: qːaˈtar
+tags: [n]
+forms:
+  - text: ҡҡатар
+    gloss: sg
+  - text: ҡҡатарте
+    gloss: pl
+definitions:
+  - translation:
+      en: mace
+      ru: булава
+    tags: [tool]
+    aliases:
+      en: [club]

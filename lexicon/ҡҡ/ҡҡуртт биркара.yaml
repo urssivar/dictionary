@@ -1,0 +1,17 @@
+id: 720O3RPzURn2MI6M8kXL
+headword: ҡҡуртт биркара
+ipa: ˌqːurtː birˈkara
+tags: [v, intr, cls]
+forms:
+  - text: ҡҡуртт бикара
+    gloss: pfv
+  - text: ҡҡуртт бичив
+    gloss: aor
+  - text: ҡҡуртт биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to haul
+      ru: буксировать
+    aliases:
+      en: [tow, push, drag]

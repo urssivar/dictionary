@@ -1,0 +1,19 @@
+id: mNkMzi98WeW4TDzKkJRQ
+headword: явка бирьора
+ipa: ævˌka birˈhora
+tags: [v, intr, cls, phr]
+note:
+  en: '*буҡье бирьора*, *азир куц бирьора*'
+forms:
+  - text: явка биьора
+    gloss: pfv
+  - text: явка биьяв
+    gloss: aor
+  - text: явка бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get tormented
+      ru: измучиваться
+    aliases:
+      en: [exhaust, fatigue]

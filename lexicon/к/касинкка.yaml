@@ -1,0 +1,18 @@
+id: AEYkHyZxeCW17aZ5XKDy
+headword: касинкка
+ipa: kasinˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: касинкка
+    gloss: sg
+  - text: касинккан
+    gloss: obl
+  - text: касинккне
+    gloss: pl
+definitions:
+  - translation:
+      en: kerchief
+      ru: косынка
+    tags: [clothing]
+    aliases:
+      en: [bandana]

@@ -1,0 +1,15 @@
+id: PWrCg4kg3U3rgg6w1Frp
+headword: лус бирара
+ipa: ˌlus biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: лус барара
+    gloss: pfv
+  - text: лус барив
+    gloss: aor
+  - text: лус бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rotate
+      ru: поворачивать

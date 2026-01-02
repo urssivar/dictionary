@@ -1,0 +1,17 @@
+id: tF2Vt8Lh71JA7wYNIczV
+headword: ьабурцара
+ipa: haburˈtsara
+tags: [v, cls, tr]
+forms:
+  - text: ьабуцара
+    gloss: pfv
+  - text: ьабуцив
+    gloss: aor
+  - text: ьабурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lift
+      ru: поднимать
+    aliases:
+      en: [take]

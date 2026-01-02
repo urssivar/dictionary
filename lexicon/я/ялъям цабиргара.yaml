@@ -1,0 +1,17 @@
+id: j85DNZUmT8CpO7ceaqcB
+headword: ялъям цабиргара
+ipa: ælˌʔæm tsabirˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: ялъям цабигара
+    gloss: pfv
+  - text: ялъям цабижив
+    gloss: aor
+  - text: ялъям цабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to coil up
+      ru: скручиваться
+    aliases:
+      en: [twist, rotate]

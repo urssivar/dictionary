@@ -1,0 +1,17 @@
+id: vipMknAdyXJ4UApk0q70
+headword: иччихара
+ipa: itʃːiˈχara
+tags: [v, tr]
+forms:
+  - text: аччихара
+    gloss: pfv
+  - text: аччихив
+    gloss: aor
+  - text: иччихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to deal
+      ru: причинять
+    aliases:
+      en: [apply, cause]

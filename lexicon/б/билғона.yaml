@@ -1,0 +1,23 @@
+id: 4PP5yQgEa1YShUapLvZM
+headword: билғона
+ipa: bilˈʁona
+tags: [n, cls, intr]
+forms:
+  - text: биғона
+    gloss: pfv
+  - text: биғун
+    gloss: aor
+  - text: билғона
+    gloss: ipfv
+definitions:
+  - note:
+      en: E.g. аbout cows that no longer give milk.
+    translation:
+      en: to dry up
+      ru: иссякать
+    aliases:
+      en: [wither]
+    examples:
+      - text: биғун янцце
+        translation:
+          en: dried up spring

@@ -1,0 +1,13 @@
+id: xs9iPl2gNx0wrsTAXcNy
+headword: банницца
+ipa: banniˈtsːa
+tags: [n, loan, russian]
+forms:
+  - text: банницца
+    gloss: sg
+  - text: банниццабе
+    gloss: pl
+definitions:
+  - translation:
+      en: hospital
+      ru: больница

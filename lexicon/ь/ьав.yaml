@@ -1,0 +1,18 @@
+id: jAP5fKLki6oKyidYPtVx
+headword: ьав
+ipa: ˈhav
+tags: [adv]
+etymology:
+  en: From *ьаби* "uphill".
+note:
+  en: '*ьаби*, *ьебе*'
+definitions:
+  - translation:
+      en: towards
+      ru: в направлении
+    aliases:
+      en: [direction, to]
+    examples:
+      - text: еркь ьав тта цябун
+        translation:
+          en: they came from the direction of the river

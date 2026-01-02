@@ -1,0 +1,18 @@
+id: pI5ox22rWoDVpb0pHLvm
+headword: шеле
+ipa: ˈʃele
+tags: [n]
+forms:
+  - text: шеле
+    gloss: sg
+  - text: шел
+    gloss: obl
+  - text: шилме
+    gloss: pl
+definitions:
+  - translation:
+      en: side
+      ru: бок
+    tags: [body]
+    aliases:
+      en: [flank]

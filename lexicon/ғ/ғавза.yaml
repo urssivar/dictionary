@@ -1,0 +1,21 @@
+id: NdpQSBGUFAkQ1VoNXMOQ
+headword: ғавза
+ipa: ˈʁavza
+tags: [n, intj]
+forms:
+  - text: ғавза
+    gloss: sg
+  - text: ғивзне
+    gloss: pl
+definitions:
+  - translation:
+      en: lionheart
+      ru: смельчак
+    tags: [social]
+  - translation:
+      en: wow
+      ru: ого
+    examples:
+      - text: паь ғавза
+        translation:
+          en: oh wow

@@ -1,0 +1,16 @@
+id: snfUmcVBa0nE8gaX4qzf
+headword: шерҳ
+ipa: ˈʃerx
+tags: [n]
+note:
+  en: '*ерша*'
+forms:
+  - text: шерҳ
+    gloss: sg
+  - text: ширҳбе
+    gloss: pl
+definitions:
+  - translation:
+      en: squirrel
+      ru: белка
+    tags: [animal]

@@ -1,0 +1,16 @@
+id: vP6zrgtgLSDhZvJatLax
+headword: ккашил
+ipa: kːaˈʃil
+tags: [n]
+forms:
+  - text: ккашил
+    gloss: sg
+  - text: ккашле
+    gloss: obl
+  - text: ккашлиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: porridge
+      ru: каша
+    tags: [food]

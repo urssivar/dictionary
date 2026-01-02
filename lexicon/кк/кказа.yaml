@@ -1,0 +1,20 @@
+id: VEcrD9cLAE66OfpNODwT
+headword: кказа
+ipa: kːaˈza
+tags: [n]
+note:
+  en: '*газа*, *ккацца*'
+forms:
+  - text: кказа
+    gloss: sg
+  - text: кказан
+    gloss: obl
+  - text: ккизне
+    gloss: pl
+definitions:
+  - translation:
+      en: hoe
+      ru: мотыга
+    tags: [agriculture, tool]
+    aliases:
+      en: [pick]

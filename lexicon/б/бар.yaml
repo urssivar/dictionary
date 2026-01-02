@@ -1,0 +1,18 @@
+id: v3vUNdYlUHRnNfuIaTou
+headword: бар
+ipa: ˈbar
+tags: [n]
+etymology:
+  en: From *баре* "sun".
+forms:
+  - text: бар
+    gloss: sg
+  - text: бари
+    gloss: obl
+  - text: бирме
+    gloss: pl
+definitions:
+  - translation:
+      en: day
+      ru: день
+    tags: [time]

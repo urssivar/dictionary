@@ -1,0 +1,16 @@
+id: Q4mEkhcbEup5cP6ASDPL
+headword: бартккел
+ipa: bartˈkːel
+tags: [n]
+forms:
+  - text: бартккел
+    gloss: sg
+  - text: бартккелте
+    gloss: pl
+definitions:
+  - translation:
+      en: fallow deer
+      ru: лань
+    tags: [animal]
+    aliases:
+      en: [moose]

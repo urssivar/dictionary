@@ -1,0 +1,15 @@
+id: Ak0a59D98GvD6LqnO1ki
+headword: ризин
+ipa: riˈzin
+tags: [n, loan, russian]
+forms:
+  - text: ризин
+    gloss: sg
+  - text: ризинте
+    gloss: pl
+definitions:
+  - translation:
+      en: rubber
+      ru: резина
+    aliases:
+      en: [elastic, eraser]

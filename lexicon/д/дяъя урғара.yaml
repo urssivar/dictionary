@@ -1,0 +1,17 @@
+id: mvq6BIJjJn1UucFL68Mt
+headword: дяъя урғара
+ipa: dæˌʔæ urˈʁara
+tags: [v, phr, tr]
+forms:
+  - text: дяъя ағара
+    gloss: pfv
+  - text: дяъя ағив
+    gloss: aor
+  - text: дяъя урғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to baffle
+      ru: сбивать с толку
+    aliases:
+      en: [perflex, bewilder]

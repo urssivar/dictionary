@@ -1,0 +1,14 @@
+id: 19XEwE5nLZLuM9ouG2z4
+headword: булбул
+ipa: bulˈbul
+tags: [n, loan, persian]
+forms:
+  - text: булбул
+    gloss: sg
+  - text: булбулте
+    gloss: pl
+definitions:
+  - translation:
+      en: nightingale
+      ru: соловей
+    tags: [animal, bird]

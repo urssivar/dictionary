@@ -1,0 +1,19 @@
+id: QYbeWpEiROewgPzCMBAS
+headword: шинт
+ipa: ˈʃint
+tags: [n]
+note:
+  en: '*сире*'
+forms:
+  - text: шинт
+    gloss: sg
+  - text: шинтан
+    gloss: obl, loc
+  - text: шинтре
+    gloss: pl
+definitions:
+  - translation:
+      en: cradle
+      ru: колыбель
+    aliases:
+      en: [bassinet]

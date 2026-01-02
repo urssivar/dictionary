@@ -1,0 +1,17 @@
+id: curF7tDLNeOUmpg0wbem
+headword: лус ьабирара
+ipa: ˌlus habiˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: лус ьабарара
+    gloss: pfv
+  - text: лус ьабарив
+    gloss: aor
+  - text: лус ьабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to turn over
+      ru: переворачивать
+    aliases:
+      en: [invert]

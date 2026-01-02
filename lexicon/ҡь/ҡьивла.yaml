@@ -1,0 +1,15 @@
+id: eHSn1hPBehpgC5QAykHV
+headword: ҡьивла
+ipa: ˈqʼivla
+tags: [n, loan, arabic]
+forms:
+  - text: ҡьивла
+    gloss: sg
+  - text: ҡьивлал
+    gloss: obl
+definitions:
+  - translation:
+      en: qibla
+      ru: кибла
+    aliases:
+      en: [south, direction]

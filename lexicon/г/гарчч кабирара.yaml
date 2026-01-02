@@ -1,0 +1,17 @@
+id: SnhP2cnTDzHlxlD617kx
+headword: гарчч кабирара
+ipa: ˌgartʃː kabiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: гарчч кабарара
+    gloss: pfv
+  - text: гарчч кабарив
+    gloss: aor
+  - text: гарчч кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tamp
+      ru: трамбовать
+    aliases:
+      en: [ram, compact, press]

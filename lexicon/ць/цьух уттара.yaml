@@ -1,0 +1,17 @@
+id: Gy39ShLXU3cDy3NCskep
+headword: цьух уттара
+ipa: ˌtsʼuχ uˈtːara
+tags: [v, intr, cls]
+forms:
+  - text: цьух берттара
+    gloss: pfv
+  - text: цьух берттив
+    gloss: aor
+  - text: цьух уттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to thirst very much
+      ru: сильно жаждать
+    aliases:
+      en: [yearn]

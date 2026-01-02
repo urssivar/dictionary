@@ -1,0 +1,24 @@
+id: znwGvofqouZOjxcWfKyz
+headword: бужгара
+ipa: buʒˈgara
+tags: [v, lbl, cls]
+forms:
+  - text: бежгара
+    gloss: pfv
+  - text: бежгур
+    gloss: aor
+  - text: бужгара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to disorder
+      ru: расстраивать, возмущать
+    aliases:
+      en: [chaos, disturb, frustrate]
+    examples:
+      - text: анкьала бежгур
+        translation:
+          en: lost my sleep
+      - text: дярья вежгур
+        translation:
+          en: the child is at unrest

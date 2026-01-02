@@ -1,0 +1,15 @@
+id: 0GpZmjBrXJJCCH1zvgEZ
+headword: ттурзум
+ipa: tːurˈzum
+tags: [n]
+forms:
+  - text: ттурзум
+    gloss: sg
+  - text: ттурзумте
+    gloss: pl
+definitions:
+  - translation:
+      en: herd
+      ru: стадо
+    aliases:
+      en: [flock]

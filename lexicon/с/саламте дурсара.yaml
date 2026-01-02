@@ -1,0 +1,17 @@
+id: GZmPKnZ5z9YkVth033n9
+headword: саламте дурсара
+ipa: salamˌte durˈsara
+tags: [v, phr, intr]
+forms:
+  - text: саламте дурсив
+    gloss: pret
+  - text: саламте дурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to send regards
+      ru: передавать привет
+    examples:
+      - text: кулпети саламте дурса
+        translation:
+          en: send my regards to your family

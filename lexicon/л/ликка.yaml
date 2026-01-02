@@ -1,0 +1,21 @@
+id: taOahQ9cUv5gVC80P5gn
+headword: ликка
+ipa: ˈlikːa
+tags: [n]
+forms:
+  - text: ликка
+    gloss: sg
+  - text: ликкан
+    gloss: obl
+  - text: ликкне
+    gloss: pl
+definitions:
+  - translation:
+      en: bone
+      ru: кость
+    tags: [body]
+  - translation:
+      en: deceased
+      ru: покойник
+    aliases:
+      en: [dead, body, carcass]

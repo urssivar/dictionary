@@ -1,0 +1,17 @@
+id: ds8rG8KrxMxQo6DC77Xh
+headword: пичят кабурҡара
+ipa: piˌtʃæt kaburˈqara
+tags: [v, tr, cls]
+forms:
+  - text: пичят кабяҡара
+    gloss: pfv
+  - text: пичят кабяҡив
+    gloss: aor
+  - text: пичят кабурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to print
+      ru: печатать
+    aliases:
+      en: [stamp]

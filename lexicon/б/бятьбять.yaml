@@ -1,0 +1,16 @@
+id: wudQrSaNDLXisODhldMZ
+headword: бятьбять
+ipa: bætʼˈbætʼ
+tags: [n]
+note:
+  en: '*урдакк*'
+forms:
+  - text: бятьбять
+    gloss: sg
+  - text: бятьбятьне
+    gloss: pl
+definitions:
+  - translation:
+      en: duck
+      ru: утка
+    tags: [bird, animal]

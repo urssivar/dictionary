@@ -1,0 +1,15 @@
+id: bq7VXwxb4UFsPmssLPcf
+headword: пурсттин
+ipa: pursˈtːin
+tags: [n, loan, russian]
+forms:
+  - text: пурсттин
+    gloss: sg
+  - text: пурсттинте
+    gloss: pl
+definitions:
+  - translation:
+      en: bed sheet
+      ru: простыня
+    aliases:
+      en: [cloth]

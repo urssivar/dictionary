@@ -1,0 +1,18 @@
+id: HgGGQVTBTGx21wUVYyzv
+headword: ицци
+ipa: iˈtsːi
+tags: [n]
+note:
+  en: '*ццицци*'
+forms:
+  - text: ицци
+    gloss: sg
+  - text: иццбе
+    gloss: pl
+definitions:
+  - translation:
+      en: young female relative
+      ru: молодая родственница
+    tags: [kinship]
+    aliases:
+      en: [sister, aunt]

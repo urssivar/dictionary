@@ -1,0 +1,16 @@
+id: Bc6A7YPlnnx8zFUDhyAF
+headword: урха
+ipa: urˈχa
+tags: [n]
+forms:
+  - text: урха
+    gloss: sg
+  - text: урхан
+    gloss: obl, loc
+  - text: урхбе
+    gloss: pl
+definitions:
+  - translation:
+      en: mill
+      ru: мельница
+    tags: [agriculture]

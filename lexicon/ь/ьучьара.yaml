@@ -1,0 +1,21 @@
+id: I0UOXmme7tvPrb9i9ewx
+headword: ьучьара
+ipa: huˈtʃʼara
+tags: [v, cls, intr]
+forms:
+  - text: ьабурчьара
+    gloss: pfv
+  - text: ьабурчьив
+    gloss: aor
+  - text: ьучьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to climb up
+      ru: залезать
+    aliases:
+      en: [moun]
+    examples:
+      - text: ккалккуни ьурчье
+        translation:
+          en: climb up the tree

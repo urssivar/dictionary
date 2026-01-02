@@ -1,0 +1,15 @@
+id: 20xAjvRnt6nC1UHNbjxF
+headword: савгур
+ipa: savˈgur
+tags: [n]
+forms:
+  - text: савгур
+    gloss: sg
+  - text: савгурте
+    gloss: pl
+definitions:
+  - translation:
+      en: guard
+      ru: страж
+    aliases:
+      en: [watch]

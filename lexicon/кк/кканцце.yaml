@@ -1,0 +1,20 @@
+id: F4tK65lwEjjDZTqIAdN6
+headword: кканцце
+ipa: kːanˈtsːe
+tags: [n]
+etymology:
+  en: Cf. *кканц* "step".
+forms:
+  - text: кканцце
+    gloss: sg
+  - text: кканцциппе
+    gloss: pl
+definitions:
+  - translation:
+      en: stretcher
+      ru: носилки
+  - translation:
+      en: ladder
+      ru: стремянка
+    aliases:
+      en: [stairs]

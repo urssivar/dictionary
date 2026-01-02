@@ -1,0 +1,15 @@
+id: BNkQGUmL1B1fP8vI65Rj
+headword: жяндар
+ipa: ʒænˈdar
+tags: [n, loan, russian]
+forms:
+  - text: жяндар
+    gloss: sg
+  - text: жяндарте
+    gloss: pl
+definitions:
+  - translation:
+      en: patrolman
+      ru: патрульный
+    aliases:
+      en: [police, guard]

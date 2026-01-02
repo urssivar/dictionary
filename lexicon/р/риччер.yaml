@@ -1,0 +1,15 @@
+id: CLlAonL9TxfdyunVD4xy
+headword: риччер
+ipa: riˈtʃːer
+tags: [n, nmlz]
+note:
+  en: '*риччери*'
+definitions:
+  - translation:
+      en: chills
+      ru: озноб
+    tags: [body]
+    examples:
+      - text: риччер цаберттара
+        translation:
+          en: to have chills

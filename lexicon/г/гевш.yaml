@@ -1,0 +1,18 @@
+id: Oqpok9AyYWYbqisgOwZh
+headword: гевш
+ipa: ˈgevʃ
+tags: [n]
+note:
+  en: '*йевш*, *гившал*'
+forms:
+  - text: гевш
+    gloss: sg
+  - text: гившре
+    gloss: pl
+definitions:
+  - translation:
+      en: foundation
+      ru: фундамент
+    tags: [tech, house]
+    aliases:
+      en: [groundwork, base]

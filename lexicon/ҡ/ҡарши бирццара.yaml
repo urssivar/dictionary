@@ -1,0 +1,17 @@
+id: PTadqipSXGTidZAfnjMs
+headword: ҡарши бирццара
+ipa: qarˌʃi birˈtsːara
+tags: [v, intr, cls]
+forms:
+  - text: ҡарши биццара
+    gloss: pfv
+  - text: ҡарши биццур
+    gloss: aor
+  - text: ҡарши бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to resist
+      ru: сопротивляться
+    aliases:
+      en: [oppose, friction]

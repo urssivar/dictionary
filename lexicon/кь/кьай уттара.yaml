@@ -1,0 +1,15 @@
+id: b6GiDnJn4VPMyLicCgvL
+headword: кьай уттара
+ipa: ˌkʼaj ˈutːara
+tags: [v, intr, cls]
+forms:
+  - text: кьай берттара
+    gloss: pfv
+  - text: кьай берттив
+    gloss: aor
+  - text: кьай уттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to float
+      ru: парить

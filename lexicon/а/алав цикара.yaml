@@ -1,0 +1,21 @@
+id: co1C57j8RpJ6PeAu8MBh
+headword: алав цикара
+ipa: aˌlav tsiˈkara
+tags: [v, tr, phr]
+forms:
+  - text: алав цакара
+    gloss: pfv
+  - text: алав цачив
+    gloss: aor
+  - text: алав цикара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to navigate
+      ru: подводить
+    aliases:
+      en: [steer, influence]
+    examples:
+      - text: ихтилат баживцци алав цачив
+        translation:
+          en: navigated the conversation to where needed

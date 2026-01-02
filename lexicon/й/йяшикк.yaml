@@ -1,0 +1,17 @@
+id: icabWGKNfzwfcgqRNVia
+headword: йяшикк
+ipa: jæˈʃikː
+tags: [n, loan, russian]
+forms:
+  - text: йяшикк
+    gloss: sg
+  - text: йяшиккан
+    gloss: loc
+  - text: йяшикке
+    gloss: pl
+definitions:
+  - translation:
+      en: box
+      ru: коробка
+    aliases:
+      en: [storage]

@@ -1,0 +1,16 @@
+id: 1SgTl5SrVkgykaGWNqya
+headword: мугул
+ipa: muˈgul
+tags: [n]
+forms:
+  - text: мугул
+    gloss: sg
+  - text: мугле
+    gloss: pl
+definitions:
+  - translation:
+      en: besom
+      ru: веник
+    tags: [tool]
+    aliases:
+      en: [broom]

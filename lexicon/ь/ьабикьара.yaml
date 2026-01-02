@@ -1,0 +1,17 @@
+id: BfMPhVNvDHu8P64f6LQ9
+headword: ьабикьара
+ipa: habiˈkʼara
+tags: [v, cls, tr]
+forms:
+  - text: ьабакьара
+    gloss: sg
+  - text: ьабачьив
+    gloss: aor
+  - text: ьабикьара
+    gloss: pl
+definitions:
+  - translation:
+      en: to shove in
+      ru: всовывать
+    aliases:
+      en: [cram, thrust, push]

@@ -1,0 +1,16 @@
+id: kJOSmNtlXV21x3juphEf
+headword: ерза
+ipa: ˈerza
+tags: [n]
+etymology:
+  en: Probably from *урзара* "to get transparent".
+forms:
+  - text: ерза
+    gloss: sg
+  - text: ерзан
+    gloss: pl
+definitions:
+  - translation:
+      en: dew
+      ru: роса
+    tags: [nature]

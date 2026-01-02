@@ -1,0 +1,21 @@
+id: jox2RnxWq8vnWGrDeu9J
+headword: мяш бирара
+ipa: ˈmæʃ
+tags: [v, tr, cls, phr]
+forms:
+  - text: мяш барара
+    gloss: pfv
+  - text: мяш барив
+    gloss: aor
+  - text: мяш бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to flaunt
+      ru: хвастать
+    aliases:
+      en: [show, 'off']
+    examples:
+      - text: цинела машин мяш барив
+        translation:
+          en: he flaunted his car

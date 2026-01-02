@@ -1,0 +1,17 @@
+id: 8i2yap5s8ELcydC18DyM
+headword: чьутьяғ
+ipa: tʃʼuˈtʼæʁ
+tags: [n]
+etymology:
+  en: From *чьу-* "bi-" + *тья* "leg".
+forms:
+  - text: чьутьяғ
+    gloss: sg
+  - text: чьутьяғе
+    gloss: pl
+definitions:
+  - translation:
+      en: branching
+      ru: разветвление
+    aliases:
+      en: [fork]

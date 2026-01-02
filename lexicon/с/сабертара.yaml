@@ -1,0 +1,17 @@
+id: E3zDF4aCYLCdae8glC0Y
+headword: сабертара
+ipa: saberˈtara
+tags: [v, cls, tr]
+forms:
+  - text: сабетара
+    gloss: pfv
+  - text: сабетур
+    gloss: aor
+  - text: сабертара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pass
+      ru: передавать
+    aliases:
+      en: [hand]

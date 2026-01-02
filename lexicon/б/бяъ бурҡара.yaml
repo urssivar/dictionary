@@ -1,0 +1,21 @@
+id: 2Ylb4bOapS0om4drHWRB
+headword: бяъ бурҡара
+ipa: ˌbæʔ burˈqara
+tags: [v, intr, cls, phr]
+forms:
+  - text: бяъ бяҡара
+    gloss: pfv
+  - text: бяъ бяҡив
+    gloss: aor
+  - text: бяъ бурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to advantage
+      ru: благоприятствовать
+    aliases:
+      en: [favor, foster, bless]
+    examples:
+      - text: аллаь вяъ вяҡил це ьелттай
+        translation:
+          en: god supports them

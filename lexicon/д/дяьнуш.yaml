@@ -1,0 +1,18 @@
+id: z7Qi7H7XQbOysnhAra0x
+headword: дяьнуш
+ipa: dæhˈnuʃ
+tags: [n]
+etymology:
+  en: From *дярья* "child".
+forms:
+  - text: дяьнуш
+    gloss: sg
+  - text: дяьнуше
+    gloss: pl
+definitions:
+  - translation:
+      en: uterus
+      ru: матка
+    tags: [body]
+    aliases:
+      en: [womb]

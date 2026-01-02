@@ -1,0 +1,17 @@
+id: wc5cwg9OjB6vEMqmOfSy
+headword: шира кабирара
+ipa: ʃiˌra kabiˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: шира кабарара
+    gloss: pfv
+  - text: шира кабарив
+    gloss: aor
+  - text: шира кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dispose
+      ru: располагать
+    aliases:
+      en: [give, organize, place]

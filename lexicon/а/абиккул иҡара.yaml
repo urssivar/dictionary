@@ -1,0 +1,22 @@
+id: d8YtVP7i7A0O4cwN8bth
+headword: абиккул иҡара
+ipa: ˌabikːul iˈqara
+tags: [v, intr, phr]
+forms:
+  - text: абиккул аҡара
+    gloss: pfv
+  - text: абиккул аҡив
+    gloss: aor
+  - text: абиккул иҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to take offense
+      ru: оскорбляться
+    aliases:
+      en: [hurt, insult]
+  - translation:
+      en: to get upset
+      ru: огорчаться
+    aliases:
+      en: [upset]

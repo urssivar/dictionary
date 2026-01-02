@@ -1,0 +1,17 @@
+id: PCbZFC94WqxIpOQJTbhY
+headword: сацурғара
+ipa: satsurˈʁara
+tags: [v, tr]
+forms:
+  - text: сацағара
+    gloss: pfv
+  - text: сацағив
+    gloss: aor
+  - text: сацурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stretch
+      ru: протягивать
+    aliases:
+      en: [extend, run]

@@ -1,0 +1,17 @@
+id: JrJ9TtMWFR9nYGgJ3eqh
+headword: буҡен биҡҡара
+ipa: buˌqen biˈqːara
+tags: [v, intr, cls, phr]
+forms:
+  - text: буҡен буҡҡара
+    gloss: pfv
+  - text: буҡен буҡҡив
+    gloss: aor
+  - text: буҡен биҡҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to go on
+      ru: длиться
+    aliases:
+      en: [last]

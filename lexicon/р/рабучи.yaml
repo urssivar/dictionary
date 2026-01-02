@@ -1,0 +1,17 @@
+id: L2ahNBj2bCkl4DrM2kTT
+headword: рабучи
+ipa: raˈbutʃi
+tags: [n, loan, russian]
+forms:
+  - text: рабучи
+    gloss: sg
+  - text: рабучий
+    gloss: obl
+  - text: рабучийте
+    gloss: pl
+definitions:
+  - translation:
+      en: worker
+      ru: труженник
+    aliases:
+      en: [labourer]

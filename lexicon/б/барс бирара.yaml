@@ -1,0 +1,17 @@
+id: HrsUqtTchj1PwzdN1Qnr
+headword: барс бирара
+ipa: ˌbars biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: барс барара
+    gloss: pfv
+  - text: барс барив
+    gloss: aor
+  - text: барс бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to change
+      ru: изменять
+    aliases:
+      en: [swap]

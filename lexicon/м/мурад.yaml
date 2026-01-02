@@ -1,0 +1,15 @@
+id: hYKVoCrf84GdsFvrIPpg
+headword: мурад
+ipa: muˈrad
+tags: [n, loan, arabic]
+forms:
+  - text: мурад
+    gloss: sg
+  - text: мураде
+    gloss: pl
+definitions:
+  - translation:
+      en: goal
+      ru: цель
+    aliases:
+      en: [target]

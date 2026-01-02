@@ -1,0 +1,14 @@
+id: qdVU2Xx5CCBcxWhQcRDw
+headword: палаш
+ipa: paˈlaʃ
+tags: [n, loan, russian]
+forms:
+  - text: палаш
+    gloss: sg
+  - text: палаше
+    gloss: pl
+definitions:
+  - translation:
+      en: cape
+      ru: плащ
+    tags: [clothing]

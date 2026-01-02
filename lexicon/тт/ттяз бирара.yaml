@@ -1,0 +1,17 @@
+id: OXF6VD4gwLl7P2uoqga8
+headword: ттяз бирара
+ipa: ˌtːæz biˈrara
+tags: [v, cls, tr]
+forms:
+  - text: ттяз барара
+    gloss: pfv
+  - text: ттяз барив
+    gloss: aor
+  - text: ттяз бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to move apart
+      ru: раздвигать
+    aliases:
+      en: [extend]

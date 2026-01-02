@@ -1,0 +1,19 @@
+id: 0HhudIwaxPVQYETW220Y
+headword: мярғуть
+ipa: mærˈʁutʼ
+tags: [n, adj]
+note:
+  en: '*мярғяв*'
+forms:
+  - text: мярғуть
+    gloss: sg
+  - text: мярғутье
+    gloss: pl
+definitions:
+  - translation:
+      en: wild cat
+      ru: дикий кот
+    tags: [animal]
+  - translation:
+      en: ragged
+      ru: косматый

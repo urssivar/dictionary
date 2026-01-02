@@ -1,0 +1,15 @@
+id: NkK6CbQkIOilBE9UtEJL
+headword: ваг бикьора
+ipa: ˌvag biˈkʼora
+tags: [v, intr, cls, phr]
+note:
+  en: '*важ ~*'
+forms:
+  - text: ваг бикьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to swarm
+      ru: роиться
+    aliases:
+      en: [hive]

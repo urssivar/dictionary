@@ -1,0 +1,21 @@
+id: P2HavzEU5kfbFlSFdtdm
+headword: алтьана
+ipa: alˈtʼana
+tags: [v, intr]
+forms:
+  - text: атьана
+    gloss: pfv
+  - text: атьун
+    gloss: aor
+  - text: алтьана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stick
+      ru: втыкать
+    aliases:
+      en: [prick]
+    examples:
+      - text: тьуппуй чахул атьун
+        translation:
+          en: a thorn stuck my finger

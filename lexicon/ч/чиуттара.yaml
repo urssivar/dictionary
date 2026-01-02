@@ -1,0 +1,17 @@
+id: eTZDwODiO3bDv40phyEq
+headword: чиуттара
+ipa: tʃiuˈtːara
+tags: [v, intr, cls]
+forms:
+  - text: чиберттара
+    gloss: pfv
+  - text: чиберттив
+    gloss: aor
+  - text: чиуттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to overflow
+      ru: переполняться
+    aliases:
+      en: [brim]

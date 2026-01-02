@@ -1,0 +1,17 @@
+id: Z8WN1V83LH5kSKOUMcBa
+headword: цуга
+ipa: ˈtsuga
+tags: [n]
+forms:
+  - text: цуга
+    gloss: sg
+  - text: цуган
+    gloss: obl, loc
+  - text: цугме
+    gloss: sg
+definitions:
+  - translation:
+      en: hayloft
+      ru: сеновал
+    aliases:
+      en: [storage]

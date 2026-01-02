@@ -1,0 +1,19 @@
+id: yRheT0uVxJoZYPz6nxiW
+headword: ккамч дирара
+ipa: ˌkːamtʃ diˈrara
+tags: [v, tr, phr]
+note:
+  en: '*ттямч ~*'
+forms:
+  - text: ккамч дарара
+    gloss: pfv
+  - text: ккамч дарив
+    gloss: aor
+  - text: ккамч дирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to butt
+      ru: бодать
+    aliases:
+      en: [ram]

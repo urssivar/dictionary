@@ -1,0 +1,17 @@
+id: WBt1wNldCIWUzZWvIBdv
+headword: пяш биргара
+ipa: ˌpæʃ birˈgara
+tags: [v, intr, cls]
+note:
+  en: '*шяш ~*'
+forms:
+  - text: пяш бигара
+    gloss: pfv
+  - text: пяш бижив
+    gloss: aor
+  - text: пяш биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hiss
+      ru: шипеть

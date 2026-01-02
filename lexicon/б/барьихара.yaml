@@ -1,0 +1,19 @@
+id: xbXW3UBG9drUbtY8Ofmw
+headword: барьихара
+ipa: barhiˈχara
+tags: [v, tr, cls]
+etymology:
+  en: Caus. of *барьара* "to know".
+forms:
+  - text: баьихара
+    gloss: pfv
+  - text: баьихур
+    gloss: aor
+  - text: барьихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to inform
+      ru: сообщать
+    aliases:
+      en: [report]

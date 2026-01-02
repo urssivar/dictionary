@@ -1,0 +1,17 @@
+id: HSyO7lPeMKZhBxtK5TGb
+headword: пядяркка
+ipa: pædærˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: пядяркка
+    gloss: sg
+  - text: пядярккан
+    gloss: obl
+  - text: пядярккне
+    gloss: pl
+definitions:
+  - translation:
+      en: present
+      ru: подарок
+    aliases:
+      en: [gift]

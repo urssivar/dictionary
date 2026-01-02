@@ -1,0 +1,18 @@
+id: 6tByw0nhSPzPdfWqEdZ8
+headword: дечч
+ipa: ˈdetʃː
+tags: [n, nmlz]
+etymology:
+  en: Related to *буччара* "to drink".
+forms:
+  - text: дечч
+    gloss: sg
+  - text: дечча
+    gloss: obl
+definitions:
+  - translation:
+      en: alcohol
+      ru: алкоголь
+    tags: [food]
+    aliases:
+      en: [drink]

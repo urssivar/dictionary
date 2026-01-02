@@ -1,0 +1,15 @@
+id: sfXM5MTYIZzdeBRr3rY3
+headword: харж
+ipa: ˈχarʒ
+tags: [n, loan, arabic]
+forms:
+  - text: харж
+    gloss: sg
+  - text: харжре
+    gloss: pl
+definitions:
+  - translation:
+      en: expense
+      ru: затрата
+    aliases:
+      en: [cost, spending]

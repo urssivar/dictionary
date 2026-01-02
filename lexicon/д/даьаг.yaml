@@ -1,0 +1,16 @@
+id: bFOgxJFGJmVEYIdyCVFS
+headword: даьаг
+ipa: daˈhag
+tags: [n]
+forms:
+  - text: даьаг
+    gloss: sg
+  - text: даьаге
+    gloss: pl
+definitions:
+  - translation:
+      en: cliff
+      ru: обрыв
+    tags: [nature]
+    aliases:
+      en: [precipice, fall, abyss]

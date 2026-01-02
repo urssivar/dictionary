@@ -1,0 +1,19 @@
+id: 7vPhsHS45EQHvDC47pII
+headword: кивьара
+ipa: kivˈhara
+tags: [v, tr]
+note:
+  en: '*кивьана*/*кувьана*'
+forms:
+  - text: кавьара
+    gloss: pfv
+  - text: кавьив
+    gloss: aor
+  - text: кивьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to comb
+      ru: расчёсывать
+    aliases:
+      en: [hair, brush]

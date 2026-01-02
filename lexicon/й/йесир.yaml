@@ -1,0 +1,19 @@
+id: YNtFl7eKgAgtWTNKNTt0
+headword: йесир
+ipa: jeˈsir
+tags: [n, loan]
+forms:
+  - text: йесир
+    gloss: sg
+  - text: йесирте
+    gloss: pl
+definitions:
+  - translation:
+      en: captive
+      ru: пленник
+    aliases:
+      en: [hostage]
+    examples:
+      - text: йесир уцил де ьел
+        translation:
+          en: he was taken prisoner

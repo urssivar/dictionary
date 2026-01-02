@@ -1,0 +1,17 @@
+id: gp1HZQhsAbugLfsr8O8I
+headword: ьяь дирара
+ipa: ˌhæh diˈrara
+tags: [v, phr, tr, cls]
+forms:
+  - text: ьяь барара
+    gloss: pfv
+  - text: ьяь барив
+    gloss: aor
+  - text: ьяь бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to urge donkey/horse
+      ru: понукать осла/лошадь
+    aliases:
+      en: [call]

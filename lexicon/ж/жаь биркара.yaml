@@ -1,0 +1,17 @@
+id: k4kRA6gKTFvIwdsNQrCv
+headword: жаь биркара
+ipa: ˌʒah birˈkara
+tags: [v, cls, intr, phr]
+forms:
+  - text: жаь бикара
+    gloss: pfv
+  - text: жаь бичив
+    gloss: aor
+  - text: жаь биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hurry
+      ru: спешить
+    aliases:
+      en: [speed, hasten]

@@ -1,0 +1,17 @@
+id: WIdBLeLvJr3P7bVJrg3U
+headword: чибурьара
+ipa: tʃiburˈhara
+tags: [v, cls, tr]
+forms:
+  - text: чибарьара
+    gloss: pfv
+  - text: чибарьив
+    gloss: aor
+  - text: чибурьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to patch
+      ru: нашивать
+    aliases:
+      en: [fix, sew]

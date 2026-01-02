@@ -1,0 +1,15 @@
+id: vXzQylHjMV8YbMdN5Mth
+headword: йянарал
+ipa: jænaˈral
+tags: [n, loan, russian]
+forms:
+  - text: йянарал
+    gloss: sg
+  - text: йянаралте
+    gloss: pl
+definitions:
+  - translation:
+      en: general
+      ru: генерал
+    aliases:
+      en: [commander]

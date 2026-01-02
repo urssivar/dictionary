@@ -1,0 +1,19 @@
+id: egk5u6KY9tUcMxK8Dvzw
+headword: булгана
+ipa: bulˈgana
+tags: [v, intr, cls]
+note:
+  en: '*сарбулгана*'
+forms:
+  - text: бугана
+    gloss: pfv
+  - text: бугун
+    gloss: aor
+  - text: булгана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to destroy
+      ru: рушиться
+    aliases:
+      en: [delete, ruin]

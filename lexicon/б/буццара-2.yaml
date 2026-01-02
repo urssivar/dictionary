@@ -1,0 +1,32 @@
+id: WeqfrZszEomYeBWv2Vlb
+headword: буццара
+ipa: buˈtsːara
+tags: [v, cls, intr]
+forms:
+  - text: буццив
+    gloss: aor
+  - text: буццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to function
+      ru: функционировать
+    tags: [tech]
+    aliases:
+      en: [work, operate]
+    examples:
+      - text: дярья уццул акку
+        translation:
+          en: child doesn't grow
+  - translation:
+      en: to progress
+      ru: прогрессировать
+    aliases:
+      en: [mve, advance]
+    examples:
+      - text: сяят чьулжи буццул це
+        translation:
+          en: getting closer to 2 o'clock
+      - text: дярья уццул акку
+        translation:
+          en: the child is not growing

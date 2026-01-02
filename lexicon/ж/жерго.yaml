@@ -1,0 +1,16 @@
+id: tHkLYvJkQwQVRDeUYtTP
+headword: жерго
+ipa: ˈʒergo
+tags: [n]
+note:
+  en: '*йерго*'
+forms:
+  - text: жерго
+    gloss: sg
+  - text: жиргме
+    gloss: pl
+definitions:
+  - translation:
+      en: wasp
+      ru: оса
+    tags: [animal, insect]

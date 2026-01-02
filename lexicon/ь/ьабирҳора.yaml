@@ -1,0 +1,17 @@
+id: y2aqGpR5OeZjhYGCOkU7
+headword: ьабирҳора
+ipa: habirˈxora
+tags: [v, tr, cls]
+forms:
+  - text: ьабиҳора
+    gloss: pfv
+  - text: ьабишур
+    gloss: aor
+  - text: ьабирҳора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hang out
+      ru: развешивать
+    aliases:
+      en: [peg]

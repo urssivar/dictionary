@@ -1,0 +1,17 @@
+id: QCfKdr4WzAjSrlcCd3Dp
+headword: черцабурҡара
+ipa: tʃertsaburˈqara
+tags: [v, tr, cls]
+forms:
+  - text: черцабяҡара
+    gloss: pfv
+  - text: черцабяҡив
+    gloss: aor
+  - text: черцабурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to chop off
+      ru: отрубать
+    aliases:
+      en: [sever]

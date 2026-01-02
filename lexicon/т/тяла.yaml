@@ -1,0 +1,18 @@
+id: ChYv0q2TeHgcsMeLhQTs
+headword: тяла
+ipa: ˈtæla
+tags: [n]
+forms:
+  - text: тяла
+    gloss: sg
+  - text: тялал
+    gloss: obl
+  - text: тялурбе
+    gloss: pl
+definitions:
+  - translation:
+      en: hectare
+      ru: гектар
+    tags: [measure]
+    aliases:
+      en: [territory, area]

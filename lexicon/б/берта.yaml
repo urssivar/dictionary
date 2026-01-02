@@ -1,0 +1,16 @@
+id: AaCadbvZpded0WgtYWM8
+headword: берта
+ipa: ˈberta
+tags: [n]
+etymology:
+  en: Could be related to *рутара* "to curdle".
+forms:
+  - text: берта
+    gloss: sg
+  - text: бертне
+    gloss: pl
+definitions:
+  - translation:
+      en: scrambled eggs
+      ru: яичница
+    tags: [food]

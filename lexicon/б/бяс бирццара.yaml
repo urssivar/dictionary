@@ -1,0 +1,17 @@
+id: iNthWtLikY1u4OhHLKlS
+headword: бяс бирццара
+ipa: ˌbæs birˈtsːara
+tags: [v, cls, intr, phr]
+forms:
+  - text: бяс биццара
+    gloss: pfv
+  - text: бяс биццур
+    gloss: aor
+  - text: бяс бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to compete
+      ru: соперничать
+    aliases:
+      en: [rival, contend]

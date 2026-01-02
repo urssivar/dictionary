@@ -1,0 +1,13 @@
+id: BrijkyAIHhmd24lTsWWR
+headword: нумир
+ipa: nuˈmir
+tags: [n, loan, russian]
+forms:
+  - text: нумир
+    gloss: sg
+  - text: нумирте
+    gloss: pl
+definitions:
+  - translation:
+      en: number
+      ru: номер

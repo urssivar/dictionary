@@ -1,0 +1,19 @@
+id: 92e6VKUn7Pif5tSGp0zY
+headword: пяр бикьора
+ipa: ˌpær biˈkʼora
+tags: [v, intr, phr, cls]
+note:
+  en: '*пярпяр ~*'
+forms:
+  - text: пяр бикьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shine
+      ru: сиять
+    aliases:
+      en: [glow, bright]
+    examples:
+      - text: дирцив палтар пяр дикьул де
+        translation:
+          en: the washed clothes were shining

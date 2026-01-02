@@ -1,0 +1,21 @@
+id: hEkeN8uvZPWMwhIAjiqN
+headword: сяун
+ipa: sæˈun
+tags: [n, loan, arabic]
+etymology:
+  en: From Arabic *صَابُون* "soap".
+note:
+  en: '*сявъун*'
+forms:
+  - text: сяун
+    gloss: sg
+  - text: сяунте
+    gloss: pl
+definitions:
+  - translation:
+      en: soap
+      ru: мыло
+    examples:
+      - text: няҡҡбе сяунли дара
+        translation:
+          en: lather your hands

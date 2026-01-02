@@ -1,0 +1,16 @@
+id: khHJ7YZfuMxFGp8GeYqo
+headword: леҳалазе
+ipa: ˈlexalaze
+tags: [n]
+note:
+  en: '*ккалкка лазе*, *ччячча лазе*, *дуцца лазе*'
+forms:
+  - text: леҳалазе
+    gloss: sg
+  - text: леҳалази
+    gloss: pl
+definitions:
+  - translation:
+      en: raspberry
+      ru: малина
+    tags: [nature, plant, food]

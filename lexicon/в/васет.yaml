@@ -1,0 +1,17 @@
+id: dyXUuPv07tWQbKYbBmBV
+headword: васет
+ipa: vaˈsːet
+tags: [n, loan, arabic]
+note:
+  en: '*васяят*'
+forms:
+  - text: васет
+    gloss: sg
+  - text: васете
+    gloss: pl
+definitions:
+  - translation:
+      en: testament
+      ru: завещание
+    aliases:
+      en: [will, bequest]

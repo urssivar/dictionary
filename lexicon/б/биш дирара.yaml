@@ -1,0 +1,19 @@
+id: IozAvylY3fJQ753CWxmt
+headword: биш дирара
+ipa: ˌbiʃ diˈrara
+tags: [v, tr]
+note:
+  en: '*ччиш ~*'
+forms:
+  - text: биш дарара
+    gloss: pfv
+  - text: биш дарив
+    gloss: aor
+  - text: биш дирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lull
+      ru: убаюкивать
+    aliases:
+      en: [sleep]

@@ -1,0 +1,15 @@
+id: pMCT3yeQGTre6buLKDMI
+headword: шитил
+ipa: ʃiˈtil
+tags: [n, loan, turkic]
+forms:
+  - text: шитил
+    gloss: sg
+  - text: шитилте
+    gloss: pl
+definitions:
+  - translation:
+      en: seedling
+      ru: рассада
+    aliases:
+      en: [sprout]

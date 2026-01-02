@@ -1,0 +1,17 @@
+id: xr7CvZv5HiojzyebtbnH
+headword: кьам
+ipa: ˈkʼam
+tags: [n]
+note:
+  en: '*кьем*'
+forms:
+  - text: кьам
+    gloss: sg
+  - text: кьамре
+    gloss: pl
+definitions:
+  - translation:
+      en: calf corner
+      ru: телятник
+    aliases:
+      en: [barn]

@@ -1,0 +1,19 @@
+id: YnC5gwsTNwOwvf8BPAPo
+headword: циҡьяра
+ipa: tsiˈqʼæra
+tags: [v, tr]
+forms:
+  - text: циҡьяв
+    gloss: aor
+  - text: циҡьяра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to explore
+      ru: исследовать
+    aliases:
+      en: [search, seek]
+    examples:
+      - text: дуне циҡьял абарччивда
+        translation:
+          en: explored the world and did not find it

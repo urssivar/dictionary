@@ -1,0 +1,20 @@
+id: wiqVw75lbFWIWCx3APlY
+headword: укар
+ipa: uˈkar
+tags: [n]
+note:
+  en: |-
+    ### Variants
+    *укра*
+forms:
+  - text: укар
+    gloss: sg
+  - text: укре
+    gloss: pl
+definitions:
+  - translation:
+      en: dell
+      ru: лощина
+    tags: [nature]
+    aliases:
+      en: [hollow]

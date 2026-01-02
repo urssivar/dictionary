@@ -1,0 +1,17 @@
+id: rksssqA2Aqp0ojRqNkPW
+headword: хамха
+ipa: ˈχamχa
+tags: [n]
+forms:
+  - text: хамха
+    gloss: sg
+  - text: хамхан
+    gloss: obl
+  - text: химхне
+    gloss: pl
+definitions:
+  - translation:
+      en: organism
+      ru: организм
+    aliases:
+      en: [body]

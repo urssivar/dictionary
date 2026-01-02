@@ -1,0 +1,17 @@
+id: Cls9TXoqywJtUPz5vZOQ
+headword: саьицьара
+ipa: sahiˈtsʼara
+tags: [v, intr]
+forms:
+  - text: саьацьара
+    gloss: pfv
+  - text: саьацьив
+    gloss: aor
+  - text: саьицьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to quicken
+      ru: убыстряться
+    aliases:
+      en: [speed, accelerate]

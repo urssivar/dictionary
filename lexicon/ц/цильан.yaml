@@ -1,0 +1,17 @@
+id: MdlUwb9M9NyTPo9ppxaE
+headword: цильан
+ipa: tsilˈhan
+tags: [n, nmlz]
+etymology:
+  en: Obl. of *цабильана* "to fasten".
+forms:
+  - text: цильан
+    gloss: sg
+  - text: цильанте
+    gloss: pl
+definitions:
+  - translation:
+      en: lashing
+      ru: привязка
+    aliases:
+      en: [bind, tie]

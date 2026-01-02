@@ -1,0 +1,20 @@
+id: dX5ax6bcWqXKDZorrreC
+headword: миҡер
+ipa: miˈqer
+tags: [n]
+note:
+  en: '*миҡери*'
+forms:
+  - text: миҡер
+    gloss: sg
+  - text: миҡрин
+    gloss: obl
+  - text: миҡинде
+    gloss: pl
+definitions:
+  - translation:
+      en: chest
+      ru: грудь
+    tags: [body]
+    aliases:
+      en: [breast]

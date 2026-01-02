@@ -1,0 +1,15 @@
+id: tpmZpLYDHRPuHHBLu3x9
+headword: ттуғ бирццара
+ipa: ˌtːuʁ birˈtsːara
+tags: [v, intr, cls, phr]
+forms:
+  - text: ттуғ биццара
+    gloss: pfv
+  - text: ттуғ биццур
+    gloss: aor
+  - text: ттуғ бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stick out
+      ru: торчать

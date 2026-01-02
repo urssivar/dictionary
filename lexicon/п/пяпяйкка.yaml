@@ -1,0 +1,16 @@
+id: lkdSZABnraWwj0xhHKew
+headword: пяпяйкка
+ipa: pæpæjˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: пяпяйкка
+    gloss: sg
+  - text: пяпяйккан
+    gloss: obl
+  - text: пяпяйккне
+    gloss: pl
+definitions:
+  - translation:
+      en: vest
+      ru: жилет
+    tags: [clothing]

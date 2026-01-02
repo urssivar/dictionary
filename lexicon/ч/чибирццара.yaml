@@ -1,0 +1,17 @@
+id: ZcXxsHb3k0sQ27CCupLs
+headword: чибирццара
+ipa: tʃibirˈtsːara
+tags: [v, lbl, cls]
+forms:
+  - text: чибиццара
+    gloss: pfv
+  - text: чибиццур
+    gloss: aor
+  - text: чибирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to attach
+      ru: приставлять
+    aliases:
+      en: [apply, set, append, tag]

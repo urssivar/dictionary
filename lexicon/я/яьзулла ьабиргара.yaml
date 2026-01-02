@@ -1,0 +1,16 @@
+id: ioY6C06CiGSOwPln9yir
+headword: яьзулла ьабиргара
+ipa: æhˌzulla habirˈgara
+tags: [v, intr, cls]
+forms:
+  - text: яьзулла ьабигара
+    gloss: pfv
+  - text: яьзулла ьабижив
+    gloss: aor
+  - text: яьзулла ьабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to flatter
+      ru: льстить
+    tags: [emotion]

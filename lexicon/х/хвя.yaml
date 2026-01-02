@@ -1,0 +1,22 @@
+id: Z8v6lHGsfwApQtQskG5a
+headword: хвя
+ipa: ˈχʷæ
+tags: [n]
+note:
+  en: '*худи* (pl)'
+forms:
+  - text: хвя
+    gloss: sg
+  - text: хвял
+    gloss: obl
+  - text: хвяде
+    gloss: pl
+definitions:
+  - translation:
+      en: dog
+      ru: собака
+    tags: [animal]
+    examples:
+      - text: бизи ра хвя ра гон
+        translation:
+          en: like a cat and a dog

@@ -1,0 +1,19 @@
+id: 3kPpFLYvLcL515BpV9lB
+headword: бурта
+ipa: ˈburta
+tags: [n]
+note:
+  en: '*буҳтта*, *ҡар*'
+forms:
+  - text: бурта
+    gloss: sg
+  - text: буртан
+    gloss: obl
+  - text: буртме
+    gloss: pl
+definitions:
+  - translation:
+      en: lid
+      ru: крышка
+    aliases:
+      en: [cap]

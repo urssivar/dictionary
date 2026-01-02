@@ -1,0 +1,18 @@
+id: 107uDcHD78LUFVM9h9cZ
+headword: биҡна
+ipa: biqˈna
+tags: [adj, n, cls]
+forms:
+  - text: биҡна
+    gloss: sg
+  - text: биҡнате
+    gloss: pl
+definitions:
+  - translation:
+      en: old man
+      ru: старик
+  - translation:
+      en: old
+      ru: старый
+    aliases:
+      en: [aged]

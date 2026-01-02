@@ -1,0 +1,21 @@
+id: uWUWSfPqVqz0LaLxctRp
+headword: баҡ бирьора
+ipa: ˌbaq birˈhora
+tags: [v, phr, cls, intr]
+forms:
+  - text: баҡ биьора
+    gloss: pfv
+  - text: баҡ биьяв
+    gloss: pret
+  - text: баҡ бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to multiply
+      ru: умножаться
+    aliases:
+      en: [spread]
+    examples:
+      - text: жаҡьайзре даҡ диьял це
+        translation:
+          en: mosquitoes have multiplied

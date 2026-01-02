@@ -1,0 +1,20 @@
+id: 1IyvmqiJ6QyMGFvoMYX7
+headword: чун
+ipa: ˈtʃun
+tags: [adv, num]
+note:
+  en: '*чум*'
+definitions:
+  - translation:
+      en: how many
+      ru: сколько
+    examples:
+      - text: cяят чунцци?
+        translation:
+          en: at what hour?
+      - text: чунжи йа?
+        translation:
+          en: what's the price?
+      - text: чун ьинце дажил ей?
+        translation:
+          en: how many apples are needed?

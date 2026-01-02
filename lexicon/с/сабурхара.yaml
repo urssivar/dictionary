@@ -1,0 +1,23 @@
+id: hrOggBhIxzpOuGy5F6AN
+headword: сабурхара
+ipa: saburˈχara
+tags: [v, intr, cls]
+note:
+  en: '*сарбаҳара*'
+forms:
+  - text: саберхора
+    gloss: pfv
+  - text: саберхур
+    gloss: aor
+  - text: сабурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to advance
+      ru: продвигаться
+    aliases:
+      en: [go, forwards]
+    examples:
+      - text: сабурхан ҡьяца
+        translation:
+          en: leading goat

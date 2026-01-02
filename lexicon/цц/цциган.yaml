@@ -1,0 +1,16 @@
+id: 1JXJlHTjyA0gCBCdWkvp
+headword: цциган
+ipa: tsːiˈgan
+tags: [n, loan, russian]
+forms:
+  - text: цциган
+    gloss: sg
+  - text: ццигал
+    gloss: obl
+  - text: цциганте
+    gloss: pl
+definitions:
+  - translation:
+      en: gypsy
+      ru: цыган
+    tags: [demonym]

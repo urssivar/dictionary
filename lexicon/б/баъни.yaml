@@ -1,0 +1,19 @@
+id: FJ6oTWspt0cnurUfCKuK
+headword: баъни
+ipa: ˈbaʔni
+tags: [adv]
+etymology:
+  en: Loc. of *баъ* "edge".
+definitions:
+  - translation:
+      en: about to
+      ru: вот-вот
+    aliases:
+      en: [nearly, almost]
+    examples:
+      - text: машин баъне це зай биьора
+        translation:
+          en: the car is about to break
+      - text: баъне веғил
+        translation:
+          en: '*at critical state, in need of help'

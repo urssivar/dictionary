@@ -1,0 +1,20 @@
+id: poBo8lUVgZWSqH1YatIB
+headword: калтьана
+ipa: kalˈtʼana
+tags: [v, tr]
+forms:
+  - text: катьана
+    gloss: pfv
+  - text: катьун
+    gloss: aor
+  - text: калтьана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to build
+      ru: строить
+  - translation:
+      en: to erect
+      ru: возводить, устаналивать
+    aliases:
+      en: [place, stand]

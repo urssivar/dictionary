@@ -1,0 +1,20 @@
+id: ZxbVLVJJBO1zKVNEftCW
+headword: чикабиркара
+ipa: tʃikabirˈkara
+tags: [v, intr, cls]
+forms:
+  - text: чикабикара
+    gloss: pfv
+  - text: чикабичив
+    gloss: aor
+  - text: чикабиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to heal
+      ru: заживать
+  - translation:
+      en: to form
+      ru: образовываться
+    aliases:
+      en: [appear]

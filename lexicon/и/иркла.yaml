@@ -1,0 +1,17 @@
+id: MmfT18I8Q8BRQSHsFFyW
+headword: иркла
+ipa: ˈirkla
+tags: [n, nmlz]
+forms:
+  - text: иркла
+    gloss: sg
+  - text: ирклан
+    gloss: obl
+  - text: ирклуме
+    gloss: pl
+definitions:
+  - translation:
+      en: irrigation canal
+      ru: оросительный канал
+    aliases:
+      en: [pipeline, water, aqueduct]

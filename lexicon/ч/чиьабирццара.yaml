@@ -1,0 +1,17 @@
+id: AzaDVIf3wNRfNtXSBSMi
+headword: чиьабирццара
+ipa: tʃihabirˈtsːara
+tags: [v, tr, cls]
+forms:
+  - text: чиьабиццара
+    gloss: pfv
+  - text: чиьабиццур
+    gloss: aor
+  - text: чиьабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to place
+      ru: располагать
+    aliases:
+      en: [put]

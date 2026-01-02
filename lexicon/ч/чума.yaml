@@ -1,0 +1,18 @@
+id: EkG7PCTBhFJ3C40SRZON
+headword: чума
+ipa: ˈtʃuma
+tags: [n]
+note:
+  en: '*чве*'
+forms:
+  - text: чума
+    gloss: sg
+  - text: чуме
+    gloss: pl
+definitions:
+  - translation:
+      en: ram
+      ru: баран
+    tags: [animal]
+    aliases:
+      en: [sheep]

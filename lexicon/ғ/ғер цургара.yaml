@@ -1,0 +1,19 @@
+id: ad9g7IdZ4Q9mttzCLax2
+headword: ғер цургара
+ipa: ˌʁer tsurˈgara
+tags: [v, intr, phr]
+etymology:
+  en: The nominal part is related to *ғера* "dusk".
+forms:
+  - text: ғер цагара
+    gloss: pfv
+  - text: ғер цагур
+    gloss: aor
+  - text: ғер цургара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dusk
+      ru: смеркаться
+    aliases:
+      en: [twilight, dark]

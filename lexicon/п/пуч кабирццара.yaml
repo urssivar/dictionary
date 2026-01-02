@@ -1,0 +1,21 @@
+id: w0cUIRQ2qXHW8EVKCMOI
+headword: пуч кабирццара
+ipa: ˌputʃ kabirˈtsːara
+tags: [v, cls, intr]
+forms:
+  - text: пуч кабиццара
+    gloss: pfv
+  - text: пуч кабиццур
+    gloss: aor
+  - text: пуч кабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dislike
+      ru: не нравиться
+    aliases:
+      en: [detest, repulse]
+    examples:
+      - text: дам ьел вачаг пуч кабиццур
+        translation:
+          en: i disliked those pants

@@ -1,0 +1,17 @@
+id: LWzT0JtzTuUHP7lj5sR9
+headword: ҡьурть курғара
+ipa: ˌqʼurtʼ kurˈʁara
+tags: [v, tr, phr]
+note:
+  en: '*ҡьвярть ~*'
+forms:
+  - text: ҡьурть кағара
+    gloss: pfv
+  - text: ҡьурть кағив
+    gloss: aor
+  - text: ҡьурть курғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to swallow
+      ru: проглатывать

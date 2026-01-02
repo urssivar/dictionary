@@ -1,0 +1,21 @@
+id: 0Q69RIXWexo3qVj9wgl9
+headword: черкаргара
+ipa: tʃerkarˈgara
+tags: [v, intr]
+forms:
+  - text: черкагара
+    gloss: pfv
+  - text: черкагур
+    gloss: aor
+  - text: черкаргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to recede
+      ru: отступать, отходить
+    aliases:
+      en: [drop, leave]
+    examples:
+      - text: шин черкагур
+        translation:
+          en: the water receded

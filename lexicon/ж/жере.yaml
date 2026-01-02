@@ -1,0 +1,23 @@
+id: y9NKJ4jhHTP6MBGEV2yy
+headword: жере
+ipa: ˈʒere
+tags: [n]
+forms:
+  - text: жере
+    gloss: sg
+  - text: жерин
+    gloss: obl
+  - text: жирбе
+    gloss: pl
+definitions:
+  - translation:
+      en: brook
+      ru: ручей
+    tags: [nature]
+    aliases:
+      en: [streamlet, rill]
+  - translation:
+      en: garden bed
+      ru: грядка
+    aliases:
+      en: [furrow]

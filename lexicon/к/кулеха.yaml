@@ -1,0 +1,16 @@
+id: muO2Gc7v2SVU0oIXmTUz
+headword: кулеха
+ipa: kuˈleχːa
+tags: [n]
+forms:
+  - text: кулеха
+    gloss: sg
+  - text: кулхан
+    gloss: obl
+  - text: кулхме
+    gloss: pl
+definitions:
+  - translation:
+      en: bracelet
+      ru: браслет
+    tags: [clothing]

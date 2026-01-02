@@ -1,0 +1,17 @@
+id: eCTNFC05bO1yYz9SWaTE
+headword: буҡьара
+ipa: buˈqʼara
+tags: [v, cls, intr]
+forms:
+  - text: берҡьара
+    gloss: pfv
+  - text: берҡьив
+    gloss: aor
+  - text: буҡьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to disappear
+      ru: пропадать
+    aliases:
+      en: [end, finish]

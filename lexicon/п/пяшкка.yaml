@@ -1,0 +1,17 @@
+id: HapGMgIJk0V8smFgaWqj
+headword: пяшкка
+ipa: pæʃˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: пяшкка
+    gloss: sg
+  - text: пяшккан
+    gloss: obl
+  - text: пяшккне
+    gloss: pl
+definitions:
+  - translation:
+      en: pack
+      ru: пачка
+    aliases:
+      en: [parcel]

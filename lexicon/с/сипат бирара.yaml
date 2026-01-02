@@ -1,0 +1,15 @@
+id: 7cLfMUQBkMQLx2pMXZgW
+headword: сипат бирара
+ipa: siˌpat biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: сипат барара
+    gloss: pfv
+  - text: сипат барив
+    gloss: aor
+  - text: сипат бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to describe
+      ru: описывать

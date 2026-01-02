@@ -1,0 +1,17 @@
+id: 1CHdx5R8c2KpZqdfWiD6
+headword: ьереғ бурхара
+ipa: heˌreʁ burˈχara
+tags: [v, intr, cls, phr]
+forms:
+  - text: ьереғ берхора
+    gloss: pfv
+  - text: ьереғ берхур
+    gloss: aor
+  - text: ьереғ бурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to ask for help
+      ru: просить помощь
+    aliases:
+      en: [apply, address, appeal]

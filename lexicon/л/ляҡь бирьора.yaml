@@ -1,0 +1,17 @@
+id: 6VihWctfQy0uTo3v2igb
+headword: ляҡь бирьора
+ipa: ˌlæqʼ birˈhora
+tags: [v, intr, cls, phr]
+forms:
+  - text: ляҡь биьора
+    gloss: pfv
+  - text: ляҡь биьяв
+    gloss: aor
+  - text: ляҡь бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get out
+      ru: убираться
+    aliases:
+      en: [retire, leave]

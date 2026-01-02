@@ -1,0 +1,15 @@
+id: CIQA4nuiiwpCnTcV5zuz
+headword: ижара
+ipa: iˈʒara
+tags: [v, tr, cls]
+forms:
+  - text: биржара
+    gloss: pfv
+  - text: биржив
+    gloss: aor
+  - text: ижара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to disassemble
+      ru: разбирать

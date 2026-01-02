@@ -1,0 +1,26 @@
+id: XYxO3OFJ3G8k0J3P50yc
+headword: ццере
+ipa: ˈtsːere
+tags: [n]
+note:
+  en: '*ццарццар*'
+forms:
+  - text: ццере
+    gloss: sg
+  - text: ццерин
+    gloss: obl
+  - text: ццирме
+    gloss: pl
+definitions:
+  - translation:
+      en: cosmos
+      ru: космос
+    tags: [nature]
+    aliases:
+      en: [unverse, sky, heaven]
+  - translation:
+      en: comb (bird)
+      ru: гребень (птиц)
+    tags: [animal]
+    aliases:
+      en: [cockscomb]

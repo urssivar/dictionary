@@ -1,0 +1,22 @@
+id: YOkTmp37prOSTaziQHUZ
+headword: на
+ipa: ˈna
+tags: [adv]
+definitions:
+  - translation:
+      en: already
+      ru: уже
+    tags: [time]
+    aliases:
+      en: [current]
+    examples:
+      - text: на адел
+        translation:
+          en: no more already
+  - translation:
+      en: now
+      ru: теперь
+    examples:
+      - text: на ци йа?
+        translation:
+          en: what now?

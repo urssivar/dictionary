@@ -1,0 +1,15 @@
+id: V235bnpZBD2Lbp7GimKn
+headword: нухсан
+ipa: nuχˈsan
+tags: [n, loan, arabic]
+forms:
+  - text: нухсан
+    gloss: sg
+  - text: нухсанте
+    gloss: pl
+definitions:
+  - translation:
+      en: flaw
+      ru: недостаток
+    aliases:
+      en: [defect, shortcoming]

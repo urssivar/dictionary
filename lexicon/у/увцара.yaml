@@ -1,0 +1,17 @@
+id: jG8lYRSwXiZ6iN9XFsXy
+headword: увцара
+ipa: uvˈtsara
+tags: [v, tr]
+note:
+  en: '*унцана*'
+forms:
+  - text: увцив
+    gloss: aor
+  - text: увцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to calculate
+      ru: вычислять
+    aliases:
+      en: [count]

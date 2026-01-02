@@ -1,0 +1,32 @@
+id: n3MbzkhcJa6sQd8MXZhP
+headword: ца
+ipa: ˈtsa
+tags: [pro, det, cls]
+etymology:
+  en: From *ца* "one" and it's group numeral.
+forms:
+  - text: ца
+    gloss: sg
+  - text: цал
+    gloss: obl
+  - text: цаба
+    gloss: pl
+definitions:
+  - translation:
+      en: a
+      ru: некоторый, один
+    aliases:
+      en: [other, certain]
+    examples:
+      - text: ви де ца мейдам
+        translation:
+          en: there was a person
+  - translation:
+      en: the same
+      ru: тот же
+    aliases:
+      en: [that]
+    examples:
+      - text: са ра ижал ра цаба це
+        translation:
+          en: yesterday and today they're the same

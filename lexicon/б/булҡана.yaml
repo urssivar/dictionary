@@ -1,0 +1,17 @@
+id: TNdehb7Z5ZIUJsKDcbXW
+headword: булҡана
+ipa: bulˈqana
+tags: [v, intr, cls]
+forms:
+  - text: буҡана
+    gloss: pfv
+  - text: буҡун
+    gloss: aor
+  - text: булҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be deprived
+      ru: лишаться
+    aliases:
+      en: [lose]

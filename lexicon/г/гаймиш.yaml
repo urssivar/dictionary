@@ -1,0 +1,16 @@
+id: MNf04JQzqXZXhOpg39bX
+headword: гаймиш
+ipa: gajˈmiʃ
+tags: [n, loan, turkic]
+note:
+  en: '*геймиш*'
+forms:
+  - text: гаймиш
+    gloss: sg
+  - text: гаймише
+    gloss: pl
+definitions:
+  - translation:
+      en: buffalo
+      ru: буйвол
+    tags: [animal]

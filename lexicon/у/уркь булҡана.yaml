@@ -1,0 +1,17 @@
+id: CIDdqxRCKvA1EiZApNWH
+headword: уркь булҡана
+ipa: ˌurkʼ bulˈqana
+tags: [v, intr, cls, phr]
+forms:
+  - text: уркь буҡана
+    gloss: pfv
+  - text: уркь буҡун
+    gloss: aor
+  - text: уркь булҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be amazed
+      ru: изумляться
+    aliases:
+      en: [astonish, stun]

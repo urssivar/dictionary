@@ -1,0 +1,17 @@
+id: IPSIagzTQdrJaWtlYd4I
+headword: ттура бурхара
+ipa: tːuˌra burˈχara
+tags: [v, intr, cls, phr]
+forms:
+  - text: ттура берхора
+    gloss: pfv
+  - text: ттура берхур
+    gloss: aor
+  - text: ттура бурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to depart
+      ru: отправляться
+    aliases:
+      en: [set, 'off', travel]

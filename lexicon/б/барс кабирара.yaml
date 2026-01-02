@@ -1,0 +1,21 @@
+id: sCzfXvMusbyYUN5oY6LQ
+headword: барс кабирара
+ipa: ˌbars kabiˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: барс кабарара
+    gloss: pfv
+  - text: барс кабарив
+    gloss: aor
+  - text: барс кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to replace
+      ru: заменять
+    aliases:
+      en: [swap, substitue, change, turn]
+    examples:
+      - text: аттал уртаҡҡ варс карив
+        translation:
+          en: father replaced his friend

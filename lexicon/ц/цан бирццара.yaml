@@ -1,0 +1,17 @@
+id: yVc0s4UMjwL7ZZbdNWut
+headword: цан бирццара
+ipa: ˌtsan birˈtsːara
+tags: [v, tr, cls, phr]
+forms:
+  - text: цан биццара
+    gloss: pfv
+  - text: цан биццур
+    gloss: aor
+  - text: цан бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to blend
+      ru: вписываться
+    aliases:
+      en: [join, merge]

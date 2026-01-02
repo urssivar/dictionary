@@ -1,0 +1,18 @@
+id: 8cyKeFLx1ykR02Hz2FZk
+headword: тьаҡьа
+ipa: ˈtʼaqʼa
+tags: [n]
+forms:
+  - text: тьаҡьа
+    gloss: sg
+  - text: тьаҡьан
+    gloss: loc, obl
+  - text: тьаҡьне
+    gloss: pl
+definitions:
+  - translation:
+      en: can
+      ru: жестяная банка
+    tags: [tool]
+    aliases:
+      en: [jar]

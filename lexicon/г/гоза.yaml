@@ -1,0 +1,16 @@
+id: 2BVKjFF9XwTLrJWt0hqS
+headword: гоза
+ipa: ˈgoza
+tags: [n]
+forms:
+  - text: гоза
+    gloss: sg
+  - text: гози
+    gloss: obl
+  - text: гозне
+    gloss: pl
+definitions:
+  - translation:
+      en: honey
+      ru: мёд
+    tags: [food]

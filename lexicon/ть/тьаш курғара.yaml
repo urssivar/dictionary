@@ -1,0 +1,17 @@
+id: 9aNOUeVsaxcSkOoLRntW
+headword: тьаш курғара
+ipa: ˌtʼaʃ kurˈʁara
+tags: [v, tr]
+forms:
+  - text: тьаш кағара
+    gloss: pfv
+  - text: тьаш кағив
+    gloss: aor
+  - text: тьаш курғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to halt
+      ru: останавливать
+    aliases:
+      en: [stop]

@@ -1,0 +1,15 @@
+id: oSHpjDZVwESR9oP4gJ9c
+headword: цирғара
+ipa: tsirˈʁara
+tags: [v, tr]
+forms:
+  - text: цирғив
+    gloss: aor
+  - text: цирғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cut away
+      ru: срезать
+    aliases:
+      en: [slash]

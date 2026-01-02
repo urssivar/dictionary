@@ -1,0 +1,19 @@
+id: IA4DJZHRnPWdVmWB7ksp
+headword: лакь бирара
+ipa: ˌlakʼ biˈrara
+tags: [v, tr, cls, phr]
+note:
+  en: '*лаъ ~*'
+forms:
+  - text: лакь барара
+    gloss: pfv
+  - text: лакь барив
+    gloss: aor
+  - text: лакь бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to throw
+      ru: кидать
+    aliases:
+      en: [cast, hurl]

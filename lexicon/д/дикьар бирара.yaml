@@ -1,0 +1,17 @@
+id: gZosw6qAPKl4OPsQ23WD
+headword: дикьар бирара
+ipa: diˌkʼar biˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: дикьар барара
+    gloss: pfv
+  - text: дикьар барив
+    gloss: aor
+  - text: дикьар бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to split
+      ru: разделять
+    aliases:
+      en: [separate]

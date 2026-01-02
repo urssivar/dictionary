@@ -1,0 +1,15 @@
+id: ihVNok2CdDqBVT5WE24z
+headword: исттуден
+ipa: istːuˈden
+tags: [n, loan, russian]
+forms:
+  - text: исттуден
+    gloss: sg
+  - text: исттуденте
+    gloss: pl
+definitions:
+  - translation:
+      en: student
+      ru: студент
+    aliases:
+      en: [pupil, learner]

@@ -1,0 +1,17 @@
+id: VLpp2OCUwRlLI7beLQdO
+headword: алав ьабурцара
+ipa: aˌlav haburˈtsara
+tags: [v, cls, tr, phr]
+forms:
+  - text: алав ьабуцара
+    gloss: pfv
+  - text: алав ьабуцив
+    gloss: aor
+  - text: алав ьабурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to surround
+      ru: окружать
+    aliases:
+      en: [encircle]

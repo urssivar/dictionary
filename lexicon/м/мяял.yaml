@@ -1,0 +1,20 @@
+id: 5f3HD78QaTixJaoYsD3y
+headword: мяял
+ipa: mæˈæl
+tags: [n]
+note:
+  en: |-
+    *мяул*, *мяле*
+    *ҡҡянҡҡ*
+forms:
+  - text: мяял
+    gloss: sg
+  - text: мяялен
+    gloss: obl
+  - text: мяялиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: nose
+      ru: нос
+    tags: [body]

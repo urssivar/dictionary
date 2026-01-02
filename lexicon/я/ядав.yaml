@@ -1,0 +1,15 @@
+id: 9JnX8PtNXzB9W6fWKAOo
+headword: ядав
+ipa: æˈdav
+tags: [n, loan]
+definitions:
+  - translation:
+      en: discomfort
+      ru: неудобство
+    tags: [emotion]
+    aliases:
+      en: [anguish]
+    examples:
+      - text: дам ьеж вачаг ядавле це
+        translation:
+          en: these pants are uncomfortable for me

@@ -1,0 +1,18 @@
+id: JQcy3t7uA7B40eOMlWEo
+headword: йел
+ipa: ˈjel
+tags: [ptcl, clt]
+note:
+  en: Pronounced *йел*/*йал* after vowels, *ал*/*ел* otherwise.
+forms:
+  - text: йал
+  - text: '''ал'
+  - text: '''ел'
+definitions:
+  - translation:
+      en: '[rhetorical question]'
+      ru: '[риторический вопрос]'
+    examples:
+      - text: кон регур йел
+        translation:
+          en: '[i wonder] where did she go'

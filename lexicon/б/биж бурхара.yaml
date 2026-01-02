@@ -1,0 +1,17 @@
+id: vsNMESFgF4rWs0ik4o8P
+headword: биж бурхара
+ipa: ˌbiʒ burˈχara
+tags: [v, intr, cls, phr]
+forms:
+  - text: биж берхора
+    gloss: pfv
+  - text: биж берхур
+    gloss: aor
+  - text: биж бурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to attend
+      ru: посещать
+    aliases:
+      en: [visit, go]

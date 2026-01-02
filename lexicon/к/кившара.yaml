@@ -1,0 +1,15 @@
+id: DRLLr1x8tDWuJkbeYRVn
+headword: кившара
+ipa: kivˈʃara
+tags: [v, intr]
+forms:
+  - text: кившив
+    gloss: aor
+  - text: кившара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to deflate
+      ru: сдуваться
+    aliases:
+      en: [blow, empty]

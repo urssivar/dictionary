@@ -1,0 +1,18 @@
+id: V32F0QsXd7dn3yVoge5x
+headword: ккаҳ
+ipa: ˈkːax
+tags: [n]
+note:
+  en: ST2021
+forms:
+  - text: ккаҳ
+    gloss: sg
+  - text: ккиҳре
+    gloss: pl
+definitions:
+  - translation:
+      en: sting
+      ru: жало
+    tags: [animal]
+    aliases:
+      en: [dart]

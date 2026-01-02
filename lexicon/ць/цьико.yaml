@@ -1,0 +1,14 @@
+id: 1EfjamDjuEXLwowcmGr4
+headword: цьико
+ipa: ˈtsʼiko
+tags: [n]
+forms:
+  - text: цьико
+    gloss: sg
+  - text: цьикне
+    gloss: pl
+definitions:
+  - translation:
+      en: flea
+      ru: блоха
+    tags: [animal, insect]

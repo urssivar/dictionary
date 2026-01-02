@@ -1,0 +1,17 @@
+id: F7uTYYw0fbJICUT0bFO1
+headword: шил цабурҡара
+ipa: ˌʃil tsaburˈqara
+tags: [v, intr, cls]
+forms:
+  - text: шил цабяҡара
+    gloss: pfv
+  - text: шил цабяҡив
+    gloss: aor
+  - text: шил цабурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to seem to appear
+      ru: мерещиться
+    aliases:
+      en: [flinch]

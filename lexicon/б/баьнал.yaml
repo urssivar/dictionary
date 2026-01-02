@@ -1,0 +1,19 @@
+id: S6wqLpz9Uvtv4hchOSQp
+headword: баьнал
+ipa: bahˈnal
+tags: [conj]
+etymology:
+  en: Adv. of *багьна* "reason".
+definitions:
+  - translation:
+      en: because
+      ru: из-за
+    aliases:
+      en: [for, due, to]
+    examples:
+      - text: и баьнал барив
+        translation:
+          en: did because of you
+      - text: ци баьнал?
+        translation:
+          en: for what reason?

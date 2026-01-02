@@ -1,0 +1,17 @@
+id: fMJ5oSnRD4stGgBjNHmn
+headword: чербурцара
+ipa: tʃerburˈtsara
+tags: [v, tr, cls]
+forms:
+  - text: чербуцара
+    gloss: pfv
+  - text: чербуцив
+    gloss: aor
+  - text: чербурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: withhold
+      ru: удерживать
+    aliases:
+      en: [retain]

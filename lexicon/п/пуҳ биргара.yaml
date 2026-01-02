@@ -1,0 +1,19 @@
+id: hfeHDwkbTxvZ4TVW1JUN
+headword: пуҳ биргара
+ipa: ˌpux birˈgara
+tags: [v, intr, cls]
+note:
+  en: '*пуш ~*'
+forms:
+  - text: пуҳ бигара
+    gloss: pfv
+  - text: пуҳ бижив
+    gloss: aor
+  - text: пуҳ биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to inflate
+      ru: надуваться
+    aliases:
+      en: [swell, fill, blow]

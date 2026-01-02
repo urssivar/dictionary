@@ -1,0 +1,18 @@
+id: XGuWQmbJBq59BubAea6B
+headword: йямппа
+ipa: ˈjæmpːa
+tags: [n]
+note:
+  en: '*йямппе*'
+forms:
+  - text: йямппа
+    gloss: sg
+  - text: йямппан
+    gloss: obl
+  - text: йямппне
+    gloss: pl
+definitions:
+  - translation:
+      en: root
+      ru: корень
+    tags: [nature]

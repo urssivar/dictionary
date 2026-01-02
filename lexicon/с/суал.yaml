@@ -1,0 +1,19 @@
+id: Xz4cROrPOL4gn34REEXa
+headword: суал
+ipa: suˈal
+tags: [n, loan, arabic]
+forms:
+  - text: суал
+    gloss: sg
+  - text: суалте
+    gloss: pl
+definitions:
+  - translation:
+      en: question
+      ru: вопрос
+    aliases:
+      en: [ask]
+    examples:
+      - text: суал ьурсара
+        translation:
+          en: to question

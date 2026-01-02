@@ -1,0 +1,17 @@
+id: LYT84a6blM8a41n7Dt38
+headword: няь кабирара
+ipa: ˌnæh kabiˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: няь кабарара
+    gloss: pfv
+  - text: няь кабарив
+    gloss: aor
+  - text: няь кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to humiliate
+      ru: унижать
+    aliases:
+      en: [stoop, demean]

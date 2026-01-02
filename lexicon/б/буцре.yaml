@@ -1,0 +1,15 @@
+id: JigwlHUBtRQvRO3UaoJf
+headword: буцре
+ipa: ˈbutsre
+tags: [n, nmlz]
+forms:
+  - text: буцре
+    gloss: sg
+  - text: дуцре
+    gloss: pl
+definitions:
+  - translation:
+      en: obstacle
+      ru: препятствие
+    aliases:
+      en: [block]

@@ -1,0 +1,34 @@
+id: xQEUf6YIsVeJpUswqjJw
+headword: бурҡара
+ipa: burˈqara
+tags: [v, tr, cls]
+forms:
+  - text: бяҡара
+    gloss: pfv
+  - text: бяҡив
+    gloss: aor
+  - text: бурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to churn
+      ru: взбивать
+    examples:
+      - text: нег дяҡара
+        translation:
+          en: to churn milk
+  - translation:
+      en: to wound
+      ru: ранить
+  - translation:
+      en: to carry out
+      ru: выполнять
+    aliases:
+      en: [perform, do, act]
+    examples:
+      - text: шутрацци дяҡа
+        translation:
+          en: do [the math] on the abacus
+      - text: аже дурҡанда
+        translation:
+          en: i will play the melody

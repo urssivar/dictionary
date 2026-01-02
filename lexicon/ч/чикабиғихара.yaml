@@ -1,0 +1,19 @@
+id: Ek8RPlrDX6if6LUiIZwx
+headword: чикабиғихара
+ipa: tʃikabiʁiˈχara
+tags: [v, cls, tr]
+note:
+  en: '*чьичья бирара*'
+forms:
+  - text: чикабеғихара
+    gloss: pfv
+  - text: чикабеғихив
+    gloss: aor
+  - text: чикабиғихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to humble
+      ru: усмирять
+    aliases:
+      en: [calm, put]

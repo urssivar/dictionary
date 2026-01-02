@@ -1,0 +1,22 @@
+id: Evenl3SuW72LJXPiqQfK
+headword: белкьала
+ipa: belˈkʼala
+tags: [n, nmlz]
+etymology:
+  en: From *лукьана* "to tie", lit. "a tied thing".
+forms:
+  - text: белкьала
+    gloss: sg
+  - text: белкьлуме
+    gloss: pl
+definitions:
+  - translation:
+      en: infant
+      ru: младенец
+    aliases:
+      en: [baby, child]
+  - translation:
+      en: knot
+      ru: узелок
+    aliases:
+      en: [bundle]

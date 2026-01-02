@@ -1,0 +1,23 @@
+id: WyBOZ4jvz9xZS9qhGcWx
+headword: ирара
+ipa: iˈrara
+tags: [v, tr]
+note:
+  en: '*биъара*, *баара*, *бера*, *бе* (IMP), *баа*, *бив* (AOR)'
+forms:
+  - text: биара
+    gloss: pfv
+  - text: биив
+    gloss: aor
+  - text: ирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to say
+      ru: говорить
+    aliases:
+      en: [pronounce]
+    examples:
+      - text: аттал биив ду ижин важил да
+        translation:
+          en: father said i am needed here

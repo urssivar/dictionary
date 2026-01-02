@@ -1,0 +1,22 @@
+id: hoXr22vwPk9FDtem0uHQ
+headword: чикабирҳара
+ipa: tʃikabirˈxara
+tags: [v, tr, cls]
+forms:
+  - text: чикабиҳара
+    gloss: pfv
+  - text: чикабишив
+    gloss: aor
+  - text: чикабирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to load
+      ru: загружать
+    aliases:
+      en: [put]
+  - translation:
+      en: to add
+      ru: добавлять
+    aliases:
+      en: [plus]

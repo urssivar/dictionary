@@ -1,0 +1,16 @@
+id: aNLkaSO2ODRviIYFXgBX
+headword: миг
+ipa: ˈmig
+tags: [n]
+forms:
+  - text: миг
+    gloss: sg
+  - text: миган
+    gloss: obl
+  - text: мигбе
+    gloss: pl
+definitions:
+  - translation:
+      en: ice
+      ru: лёд
+    tags: [nature]

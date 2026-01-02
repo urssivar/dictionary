@@ -1,0 +1,16 @@
+id: 6vtGbTLqg8REEv8rTw3x
+headword: даҳ
+ipa: ˈdax
+tags: [conj]
+etymology:
+  en: Might be from *белҳона* "to sow".
+definitions:
+  - translation:
+      en: due to
+      ru: потому что
+    aliases:
+      en: [because, thanks, for]
+    examples:
+      - text: марка бил даҳ дуживда
+        translation:
+          en: we stayed due to rain

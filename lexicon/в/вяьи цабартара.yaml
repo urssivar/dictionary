@@ -1,0 +1,17 @@
+id: tJpEsiwkj1c2LeaoDjou
+headword: вяьи цабартара
+ipa: væˌhi tsabarˈtara
+tags: [v, intr, cls, phr]
+forms:
+  - text: вяьи цабатара
+    gloss: pfv
+  - text: вяьи цабатур
+    gloss: aor
+  - text: вяьи цабартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lose consciousness
+      ru: потерять сознание
+    aliases:
+      en: [faint]

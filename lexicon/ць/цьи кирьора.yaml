@@ -1,0 +1,21 @@
+id: 0gMONrK3HsqHu7bVrYKJ
+headword: цьи кирьора
+ipa: ˌtsʼi kirˈhora
+tags: [v, intr, cls]
+forms:
+  - text: цьи кабиьора
+    gloss: pfv
+  - text: цьи кабиьяв
+    gloss: aor
+  - text: цьи кабирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to renew
+      ru: обновляться
+    aliases:
+      en: [update]
+    examples:
+      - text: бацц цьи кабиьяв
+        translation:
+          en: it's new moon

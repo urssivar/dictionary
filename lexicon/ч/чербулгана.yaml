@@ -1,0 +1,17 @@
+id: H54cwKeZu142I3NGPkw9
+headword: чербулгана
+ipa: tʃerbulˈgana
+tags: [v, cls, tr]
+forms:
+  - text: чербугана
+    gloss: pfv
+  - text: чербугун
+    gloss: aor
+  - text: чербулгана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to violate
+      ru: нарушать
+    aliases:
+      en: [break]

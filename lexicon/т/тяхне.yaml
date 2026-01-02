@@ -1,0 +1,17 @@
+id: g1DEIXmMJJsAuZ6bLL7Z
+headword: тяхне
+ipa: ˈtæχne
+tags: [n]
+note:
+  en: |-
+    *тяхтте*, *тяхила*
+    *бяху*, *бяхуть*
+forms:
+  - text: тяхне
+    gloss: sg
+  - text: тяхни
+    gloss: obl
+definitions:
+  - translation:
+      en: shadow
+      ru: тень

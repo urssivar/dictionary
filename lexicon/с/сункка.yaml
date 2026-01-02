@@ -1,0 +1,18 @@
+id: ThT1N3T5L0tlukDUPoNW
+headword: сункка
+ipa: sunˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: сункка
+    gloss: sg
+  - text: сунккан
+    gloss: obl
+  - text: сунккне
+    gloss: pl
+definitions:
+  - translation:
+      en: purse
+      ru: сумочка
+    tags: [tool, clothing]
+    aliases:
+      en: [handbag, bag]

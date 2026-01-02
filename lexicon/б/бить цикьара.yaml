@@ -1,0 +1,17 @@
+id: jSAkrumPOB3J5Kfifou7
+headword: бить цикьара
+ipa: ˌbitʼ tsiˈkʼara
+tags: [v, lbl, cls]
+forms:
+  - text: бить цакьара
+    gloss: pfv
+  - text: бить цачьив
+    gloss: aor
+  - text: бить цикьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to move off
+      ru: подвигать
+    aliases:
+      en: [attract, push]

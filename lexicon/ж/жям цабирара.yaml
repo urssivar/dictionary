@@ -1,0 +1,17 @@
+id: MGflp5FLB67klR814r1p
+headword: жям цабирара
+ipa: ˌʒæm tsabiˈrara
+tags: [v, tr, cls, phr]
+forms:
+  - text: жям цабарара
+    gloss: pfv
+  - text: жям цабарив
+    gloss: aor
+  - text: жям цабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sum
+      ru: суммировать
+    aliases:
+      en: [plus]

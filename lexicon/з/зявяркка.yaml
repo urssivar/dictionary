@@ -1,0 +1,15 @@
+id: 05qei3gpgYsMAydGT0cL
+headword: зявяркка
+ipa: zæværˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: зявяркка
+    gloss: sg
+  - text: зявярккан
+    gloss: obl
+  - text: зявярккне
+    gloss: pl
+definitions:
+  - translation:
+      en: brewing tea
+      ru: заварка

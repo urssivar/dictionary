@@ -1,0 +1,21 @@
+id: JemtqUvwwZpoIFKR1ZqK
+headword: илғона
+ipa: ilˈʁona
+tags: [v, cls, intr]
+forms:
+  - text: иғона
+    gloss: pfv
+  - text: иғун
+    gloss: aor
+  - text: илғона
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to suffer
+      ru: страдать
+    aliases:
+      en: [collapse, endure]
+    examples:
+      - text: иғона авирьул
+        translation:
+          en: he can't bear it

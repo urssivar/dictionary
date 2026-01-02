@@ -1,0 +1,24 @@
+id: sG0jB1EHzOlVRmeJRYG8
+headword: чибиғара
+ipa: tʃibeˈʁara
+tags: [v, lbl, cls]
+note:
+  en: '*чибейхара*'
+forms:
+  - text: чибеғара
+    gloss: pfv
+  - text: чибеғив
+    gloss: aor
+  - text: чибиғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hit
+      ru: попадать
+    aliases:
+      en: [arrive, get, into, strike]
+  - translation:
+      en: to lie down
+      ru: прилечься
+    aliases:
+      en: [rest]

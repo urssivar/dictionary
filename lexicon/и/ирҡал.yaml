@@ -1,0 +1,18 @@
+id: eLBQOkeP2hPnYNTx9hTf
+headword: ирҡал
+ipa: irˈqal
+tags: [n]
+forms:
+  - text: ирҡал
+    gloss: sg
+  - text: ирҡле
+    gloss: obl
+  - text: ирҡлиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: timber
+      ru: брус, лесоматериал
+    tags: [tool]
+    aliases:
+      en: [bar]

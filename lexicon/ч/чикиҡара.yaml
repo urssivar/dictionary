@@ -1,0 +1,21 @@
+id: VxZXFXHFu1okypeOy682
+headword: чикиҡара
+ipa: tʃikiˈqara
+tags: [v, tr]
+forms:
+  - text: чикаҡара
+    gloss: pfv
+  - text: чикаҡив
+    gloss: aor
+  - text: чикиҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hang on someone
+      ru: вешать на кого-то
+    aliases:
+      en: [wear, weigh, drape]
+    examples:
+      - text: сункка чикаҡара
+        translation:
+          en: to put on a bag

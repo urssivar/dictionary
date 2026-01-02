@@ -1,0 +1,22 @@
+id: PpK8bgYRsQaNc2Thu7kh
+headword: дагна
+ipa: dagˈna
+tags: [adv, adj, n]
+note:
+  en: '*даган*, *дагне*'
+definitions:
+  - translation:
+      en: central
+      ru: центральный, посередине
+    aliases:
+      en: [middle]
+    examples:
+      - text: дагна кабиҳа
+        translation:
+          en: pit into the center
+      - text: дагна тьал
+        translation:
+          en: the central pillar
+  - translation:
+      en: middle
+      ru: середина

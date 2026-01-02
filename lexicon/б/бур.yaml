@@ -1,0 +1,15 @@
+id: h7U49GxXLy7I3sWIND2a
+headword: бур
+ipa: ˈbur
+tags: [n]
+forms:
+  - text: бур
+    gloss: sg
+  - text: бурме
+    gloss: pl
+definitions:
+  - translation:
+      en: threshold
+      ru: порог
+    aliases:
+      en: [door, step]

@@ -1,0 +1,22 @@
+id: fqw1XOTUlISPOQ8yCJYB
+headword: ваьва
+ipa: ˈvahva
+tags: [pro]
+etymology:
+  en: Reduplication of *ваь* "own".
+forms:
+  - text: ваьва
+    gloss: nom
+  - text: ваьвал
+    gloss: obl
+definitions:
+  - translation:
+      en: each own
+      ru: каждый сам
+    examples:
+      - text: ваьвалла багре цаҡҡав
+        translation:
+          en: let everyone bring their own tool
+      - text: ваьва кабижил це
+        translation:
+          en: they're sitting by themselves

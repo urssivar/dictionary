@@ -1,0 +1,19 @@
+id: PdnWSdHMxeX6HAEJRfNr
+headword: ургара
+ipa: urˈgara
+tags: [v, tr]
+note:
+  en: '*иргора* (ipfv)'
+forms:
+  - text: ергора
+    gloss: pfv
+  - text: ергур
+    gloss: aor
+  - text: ургара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to drill
+      ru: сверлить
+    aliases:
+      en: [hole]

@@ -1,0 +1,17 @@
+id: cl1BxBjKGjBPJL2R4Otp
+headword: урчье бицьара
+ipa: ˌurtʃʼe biˈtsʼara
+tags: [v, intr]
+forms:
+  - text: урчье бацьара
+    gloss: pfv
+  - text: урчье бацьив
+    gloss: aor
+  - text: урчье бицьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be horrified
+      ru: ужасаться
+    aliases:
+      en: [fear]

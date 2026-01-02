@@ -1,0 +1,19 @@
+id: 6EkOrk4xiFqJG9cfSj9o
+headword: пусал
+ipa: puˈsal
+tags: [n]
+forms:
+  - text: пусал
+    gloss: sg
+  - text: пусле
+    gloss: pl
+definitions:
+  - translation:
+      en: fuzzball
+      ru: катышек
+    aliases:
+      en: [pill, pellet]
+  - translation:
+      en: snowflake
+      ru: снежинка
+    tags: [nature]

@@ -1,0 +1,19 @@
+id: rPWSWuslBpYBJzrJF6vN
+headword: гунер бурҡара
+ipa: guˌner burˈqara
+tags: [v, tr, cls, phr]
+forms:
+  - text: гунер бяҡара
+    gloss: pfv
+  - text: гунер бяҡив
+    gloss: aor
+  - text: гунер бурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to utilize
+      ru: пользоваться
+    examples:
+      - text: гунер бяҡив ккуртте
+        translation:
+          en: second-hand dress

@@ -1,0 +1,15 @@
+id: ZbKWxcbK2NGgL6nSNCsy
+headword: дум бертара
+ipa: ˌdum berˈtara
+tags: [v, intr, cls]
+forms:
+  - text: дум бетара
+    gloss: pfv
+  - text: дум бетур
+    gloss: aor
+  - text: дум бертара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to have a meal
+      ru: принимать пищу

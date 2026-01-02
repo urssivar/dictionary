@@ -1,0 +1,16 @@
+id: aYYHQpXwn14i5E5jzVfG
+headword: арже
+ipa: ˈarʒe
+tags: [n]
+forms:
+  - text: арже
+    gloss: sg
+  - text: аржиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: shaft
+      ru: рукоять
+    tags: [tool]
+    aliases:
+      en: [handle, knob, helve]

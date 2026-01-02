@@ -1,0 +1,24 @@
+id: Q8OEJl3xU4s76Z2NBmJD
+headword: сағли
+ipa: saʁˈli
+tags: [post]
+note:
+  en: '*сяғя*'
+forms:
+  - text: сағли
+    gloss: adv
+  - text: сағлила
+    gloss: adj
+definitions:
+  - translation:
+      en: in front
+      ru: спереди
+    aliases:
+      en: [fore, front]
+    examples:
+      - text: сағли вя
+        translation:
+          en: go ahead
+      - text: ккалккала сағли
+        translation:
+          en: in front of the tree

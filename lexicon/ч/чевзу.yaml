@@ -1,0 +1,17 @@
+id: 36i6HipCiga1nlhXsTIf
+headword: чевзу
+ipa: ˈtʃevzu
+tags: [n]
+forms:
+  - text: чевзу
+    gloss: sg
+  - text: чевзул
+    gloss: obl
+  - text: чевзуме
+    gloss: pl
+definitions:
+  - translation:
+      en: nickname
+      ru: кличка
+    aliases:
+      en: [alias, moniker]

@@ -1,0 +1,13 @@
+id: KMFJKwFGWpfZBq70Pks1
+headword: галагул
+ipa: galaˈgul
+tags: [n, loan, russian]
+forms:
+  - text: галагул
+    gloss: sg
+  - text: галагулте
+    gloss: pl
+definitions:
+  - translation:
+      en: verb
+      ru: глагол

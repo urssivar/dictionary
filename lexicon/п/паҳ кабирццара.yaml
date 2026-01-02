@@ -1,0 +1,17 @@
+id: HkxN5yBKUbby41T4yOWf
+headword: паҳ кабирццара
+ipa: ˌpaχ kabirˈtsːara
+tags: [v, intr, cls]
+forms:
+  - text: паҳ кабиццара
+    gloss: pfv
+  - text: паҳ кабиццур
+    gloss: aor
+  - text: паҳ кабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be conceited
+      ru: зазнаваться
+    aliases:
+      en: [vane, pride]

@@ -1,0 +1,17 @@
+id: zLJAe8WwBsVHtYSYz1di
+headword: хула биғара
+ipa: χuˌla biˈʁara
+tags: [v, intr, cls]
+forms:
+  - text: хула беғара
+    gloss: pfv
+  - text: хула беғив
+    gloss: aor
+  - text: хула биғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to grow up
+      ru: взрослеть
+    aliases:
+      en: [mature, adult]

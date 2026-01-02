@@ -1,0 +1,15 @@
+id: LBjQZNidHFNPPGZJjO6r
+headword: гурппа
+ipa: ˈgurpːa
+tags: [n, loan, russian]
+forms:
+  - text: гурппа
+    gloss: sg
+  - text: гурппне
+    gloss: pl
+definitions:
+  - translation:
+      en: party
+      ru: группа
+    aliases:
+      en: [group]

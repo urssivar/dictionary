@@ -1,0 +1,17 @@
+id: oYPCtd81l9F0b3c5dCMc
+headword: чьимчьин ьабиргара
+ipa: tʃʼimˌtʃʼin habirˈgara
+tags: [v, intr, cls]
+forms:
+  - text: чьимчьин ьабигара
+    gloss: pfv
+  - text: чьимчьин ьабижив
+    gloss: aor
+  - text: чьимчьин ьабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to curl up
+      ru: заворачиваться
+    aliases:
+      en: [warp]

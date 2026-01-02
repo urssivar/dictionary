@@ -1,0 +1,15 @@
+id: 7DkwYt0Tl2DNyce4gJo3
+headword: баь булгана
+ipa: ˌbah bulˈgana
+tags: [v, lbl, cls, phr]
+forms:
+  - text: баь балгана
+    gloss: pfv
+  - text: баь балгун
+    gloss: aor
+  - text: баь булгана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dress
+      ru: одеваться

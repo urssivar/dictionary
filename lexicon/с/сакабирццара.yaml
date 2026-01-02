@@ -1,0 +1,17 @@
+id: iUfwqtfpZlQqMfUtzYFr
+headword: сакабирццара
+ipa: sakabirˈtsːara
+tags: [v, intr, cls]
+forms:
+  - text: сакабиццара
+    gloss: pfv
+  - text: сакабиццур
+    gloss: aor
+  - text: сакабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shield
+      ru: заслонять
+    aliases:
+      en: [obstruct]

@@ -1,0 +1,17 @@
+id: AVitbGDfBItdGd0IJ9Oj
+headword: сукра
+ipa: sukˈra
+tags: [n]
+forms:
+  - text: сукра
+    gloss: sg
+  - text: сукран
+    gloss: loc, obl
+  - text: сукунде
+    gloss: pl
+definitions:
+  - translation:
+      en: dish
+      ru: чаша, тарелка
+    aliases:
+      en: [bowl, plate]

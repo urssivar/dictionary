@@ -1,0 +1,19 @@
+id: uc60NaffBt3miicW1ISk
+headword: цаьара
+ipa: tʃibilˈhana
+tags: [v, tr, cls]
+note:
+  en: '*чибильана*'
+forms:
+  - text: цаьара
+    gloss: pfv
+  - text: цаьур
+    gloss: aor
+  - text: цурьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to screw
+      ru: закручивать
+    aliases:
+      en: [twist, attach]

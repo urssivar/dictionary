@@ -1,0 +1,18 @@
+id: n8lFiqi09J84D5P1cYzS
+headword: кепкка
+ipa: kepˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: кепкка
+    gloss: sg
+  - text: кепккан
+    gloss: obl
+  - text: кипккне
+    gloss: pl
+definitions:
+  - translation:
+      en: cap
+      ru: кепка
+    tags: [clothing]
+    aliases:
+      en: [hat]

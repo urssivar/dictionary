@@ -1,0 +1,17 @@
+id: WFLhlhdZxDBpI75PpWos
+headword: бижер ьабирьора
+ipa: biˌʒer habirˈhora
+tags: [v, intr, cls, phr]
+forms:
+  - text: бижер ьабиьора
+    gloss: pfv
+  - text: бижер ьабиьяв
+    gloss: aor
+  - text: бижер ьабирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dive
+      ru: нырять
+    aliases:
+      en: [immerse, plunge]

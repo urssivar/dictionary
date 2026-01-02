@@ -1,0 +1,21 @@
+id: qJPKtcPaujQBohGgl9XJ
+headword: ьурццихара
+ipa: hurtsːiˈχara
+tags: [v, tr]
+forms:
+  - text: ьарццихара
+    gloss: pfv
+  - text: ьарццихур
+    gloss: aor
+  - text: ьурццихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to irritate
+      ru: раздражать
+    aliases:
+      en: [pester, bother]
+    examples:
+      - text: бекь маьурццихатт дила
+        translation:
+          en: do not annoy me

@@ -1,0 +1,19 @@
+id: UKuzeV8Y8BQoTUxzbXVG
+headword: кканц
+ipa: ˈkːants
+tags: [n]
+note:
+  en: '*каць*'
+forms:
+  - text: кканц
+    gloss: sg
+  - text: ккинцре
+    gloss: pl
+definitions:
+  - translation:
+      en: step
+      ru: шаг
+    examples:
+      - text: ьар цабаҳан кканц баркатла биьов
+        translation:
+          en: may your every step be blessed

@@ -1,0 +1,17 @@
+id: 3L6NPMwbEfVmwEghtRyS
+headword: бурьара
+ipa: burˈhara
+tags: [v, cls, tr]
+forms:
+  - text: барьара
+    gloss: pfv
+  - text: барьив
+    gloss: aor
+  - text: бурьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sew
+      ru: шить
+    aliases:
+      en: [stitch]

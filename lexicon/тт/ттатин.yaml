@@ -1,0 +1,21 @@
+id: Qc0vMtsPRoGzbzjXBfRr
+headword: ттатин
+ipa: tːaˈtin
+tags: [adv]
+etymology:
+  en: From *тта* "from" + *итин* "down there".
+note:
+  en: '*ттартен*'
+definitions:
+  - translation:
+      en: over
+      ru: по
+    aliases:
+      en: [across, through]
+    examples:
+      - text: цьил ттатин
+        translation:
+          en: later on
+      - text: ҡалжини ттатин ваҳул
+        translation:
+          en: walking over the roof

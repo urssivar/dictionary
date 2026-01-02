@@ -1,0 +1,15 @@
+id: kah2AyEdfevZu8awok0l
+headword: бисара
+ipa: biˈsːara
+tags: [v, cls, intr]
+forms:
+  - text: бисив
+    gloss: aor
+  - text: бисара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cry
+      ru: плакать
+    aliases:
+      en: [weep]

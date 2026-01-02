@@ -1,0 +1,16 @@
+id: sryEI7sVByCamysp53uW
+headword: жигет
+ipa: ʒiˈget
+tags: [n, loan, russian]
+forms:
+  - text: жигет
+    gloss: sg
+  - text: жигете
+    gloss: pl
+definitions:
+  - translation:
+      en: sweater
+      ru: кофта
+    tags: [clothing]
+    aliases:
+      en: [cardigan]

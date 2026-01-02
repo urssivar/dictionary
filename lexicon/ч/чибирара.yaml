@@ -1,0 +1,17 @@
+id: QF5bgppEBy8RfuqA1Q5F
+headword: чибирара
+ipa: tʃibiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: чибарара
+    gloss: pfv
+  - text: чибарив
+    gloss: aor
+  - text: чибирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to add on
+      ru: надстраивать
+    aliases:
+      en: [build]

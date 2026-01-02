@@ -1,0 +1,20 @@
+id: iYIPjeTMISS1U4NehWXD
+headword: ттуғ
+ipa: ˈtːuʁ
+tags: [n]
+forms:
+  - text: ттуғ
+    gloss: sg
+  - text: ттиғе
+    gloss: pl
+definitions:
+  - translation:
+      en: flag
+      ru: флаг
+    aliases:
+      en: [line, stroke]
+  - translation:
+      en: line
+      ru: линия
+    aliases:
+      en: [dash]

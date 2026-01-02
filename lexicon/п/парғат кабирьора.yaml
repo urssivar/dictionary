@@ -1,0 +1,19 @@
+id: GJqXFl3nuA3aDRgR4oP4
+headword: парғат кабирьора
+ipa: parˌʁat kabirˈhora
+tags: [v, intr, cls]
+forms:
+  - text: парғат кабиьора
+    gloss: pfv
+  - text: парғат кабиьяв
+    gloss: aor
+  - text: парғат кабирьора
+    gloss: ipfv
+definitions:
+  - note:
+      en: To die in bed, of disease or old age.
+    translation:
+      en: to pass away
+      ru: упокоиться
+    aliases:
+      en: [die]

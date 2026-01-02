@@ -1,0 +1,17 @@
+id: pcOoPFQG3ConR9DCYgoQ
+headword: гумкурсара
+ipa: gumkurˈsara
+tags: [v, intr]
+forms:
+  - text: гумкасара
+    gloss: pfv
+  - text: гумкасив
+    gloss: aor
+  - text: гумкурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sink
+      ru: тонуть
+    aliases:
+      en: [drown]

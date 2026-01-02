@@ -1,0 +1,15 @@
+id: OHfv7iHE6DlzR0q1df5g
+headword: пай
+ipa: ˈpaj
+tags: [n, loan]
+forms:
+  - text: пай
+    gloss: sg
+  - text: пайре
+    gloss: pl
+definitions:
+  - translation:
+      en: share
+      ru: доля
+    aliases:
+      en: [percentage]

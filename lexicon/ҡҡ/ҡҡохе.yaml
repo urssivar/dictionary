@@ -1,0 +1,20 @@
+id: EMGxY4LdVF1jlBwlvL6i
+headword: ҡҡохе
+ipa: ˈqːoχːe
+tags: [n]
+note:
+  en: '*ҡҡвяхи*'
+forms:
+  - text: ҡҡохе
+    gloss: sg
+  - text: ҡҡохин
+    gloss: obl
+  - text: ҡҡохиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: dustpan
+      ru: совок
+    tags: [tool]
+    aliases:
+      en: [scoop]

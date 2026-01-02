@@ -1,0 +1,19 @@
+id: MfFbHvItbiKUmbb6xl51
+headword: узру
+ipa: ˈuzru
+tags: [n, loan, arabic]
+note:
+  en: '*буйур*'
+forms:
+  - text: узру
+    gloss: sg
+  - text: узрул
+    gloss: obl
+  - text: узруме
+    gloss: pl
+definitions:
+  - translation:
+      en: task
+      ru: задание
+    aliases:
+      en: [business, mission, affair]

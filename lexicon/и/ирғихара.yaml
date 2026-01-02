@@ -1,0 +1,22 @@
+id: dWkfFDjQMD090V3CAHsM
+headword: ирғихара
+ipa: irʁiˈχara
+tags: [v, tr]
+etymology:
+  en: Caus. of *ирғара* "to understand".
+forms:
+  - text: ирғихив
+    gloss: aor
+  - text: ирғихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to convince
+      ru: убеждать
+    aliases:
+      en: [persuade, reason]
+  - translation:
+      en: to explain
+      ru: объяснять
+    aliases:
+      en: [tell]

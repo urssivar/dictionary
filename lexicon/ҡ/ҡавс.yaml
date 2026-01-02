@@ -1,0 +1,20 @@
+id: 4prcp2rZyprURnrEl0xi
+headword: ҡавс
+ipa: ˈqavs
+tags: [n]
+note:
+  en: '*ҡямсяъ*'
+forms:
+  - text: ҡавс
+    gloss: sg
+  - text: ҡивсре
+    gloss: pl
+definitions:
+  - translation:
+      en: cartilage
+      ru: хрящ
+    tags: [body]
+    examples:
+      - text: мяяленла ҡивсре
+        translation:
+          en: nostrils

@@ -1,0 +1,16 @@
+id: 79mFsWukSaRW3acxApjq
+headword: чьакь
+ipa: ˈtʃʼakʼ
+tags: [n]
+forms:
+  - text: чьакь
+    gloss: sg
+  - text: чьикье
+    gloss: pl
+definitions:
+  - translation:
+      en: caspian roach
+      ru: вобла
+    tags: [nature, animal]
+    aliases:
+      en: [vobla]

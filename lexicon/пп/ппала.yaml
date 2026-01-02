@@ -1,0 +1,18 @@
+id: nAOTF6fD9YwXRP9IX1SP
+headword: ппала
+ipa: ˈpːala
+tags: [n]
+forms:
+  - text: ппала
+    gloss: sg
+  - text: ппалин
+    gloss: obl
+  - text: ппалме
+    gloss: pl
+definitions:
+  - translation:
+      en: wool
+      ru: шерсть
+    tags: [animal]
+    aliases:
+      en: [fur]

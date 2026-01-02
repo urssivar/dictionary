@@ -1,0 +1,18 @@
+id: Gl3CsrZx6hG7IMvomgJP
+headword: кувзан
+ipa: kuvˈzan
+tags: [n, nmlz]
+etymology:
+  en: From *кувзара* "to strain", *to filter*.
+forms:
+  - text: кувзан
+    gloss: sg
+  - text: кувзанте
+    gloss: pl
+definitions:
+  - translation:
+      en: colander
+      ru: дуршлаг
+    tags: [tool]
+    aliases:
+      en: [strainer, sieve]

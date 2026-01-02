@@ -1,0 +1,15 @@
+id: jw7ldQzca0poSzoLHMpW
+headword: дирехтур
+ipa: direχˈtur
+tags: [n, loan, russian]
+forms:
+  - text: дирехтур
+    gloss: sg
+  - text: дирехтурте
+    gloss: pl
+definitions:
+  - translation:
+      en: director
+      ru: директор
+    aliases:
+      en: [manager]

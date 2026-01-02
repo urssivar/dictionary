@@ -1,0 +1,17 @@
+id: GQJbAh6dhH3gnC8Y7BXQ
+headword: ьянче
+ipa: ˈhæntʃe
+tags: [n, loan]
+forms:
+  - text: ьянче
+    gloss: sg
+  - text: ьянчел
+    gloss: obl
+  - text: ьянчирбе
+    gloss: pl
+definitions:
+  - translation:
+      en: service
+      ru: служба
+    aliases:
+      en: [work, job]

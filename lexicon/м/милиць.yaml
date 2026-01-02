@@ -1,0 +1,15 @@
+id: ucvMlhn3CjY0MQc6zBTF
+headword: милиць
+ipa: miˈlitsʼ
+tags: [n, loan, russian]
+forms:
+  - text: милиць
+    gloss: sg
+  - text: милицье
+    gloss: pl
+definitions:
+  - translation:
+      en: policeman
+      ru: полицейский
+    aliases:
+      en: [officer, cop]

@@ -1,0 +1,16 @@
+id: 12JbNlDJND3GoI4bbbBD
+headword: гедамух
+ipa: gedaˈmuχ
+tags: [n]
+forms:
+  - text: гедамух
+    gloss: sg
+  - text: гедамухре
+    gloss: pl
+definitions:
+  - translation:
+      en: armature
+      ru: арматура
+    tags: [house, tool]
+    aliases:
+      en: [reinforcement]

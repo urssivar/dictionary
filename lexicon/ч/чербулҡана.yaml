@@ -1,0 +1,22 @@
+id: zMQ2UtrbeBEIelJX6QIK
+headword: чербулҡана
+ipa: tʃerbulˈqana
+tags: [v, cls, intr]
+forms:
+  - text: чербуҡана
+    gloss: pfv
+  - text: чербуҡун
+    gloss: aor
+  - text: чербулҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get lost
+      ru: теряться
+    aliases:
+      en: [mistake, astray, forget]
+  - translation:
+      en: to err
+      ru: заблуждаться
+    aliases:
+      en: [mistake]

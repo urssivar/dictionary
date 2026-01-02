@@ -1,0 +1,16 @@
+id: fIMcXHNIfdA6D00TfOZO
+headword: аҳлиъян
+ipa: axliˈʔæn
+tags: [n]
+note:
+  en: '*аҳлиҡья*'
+forms:
+  - text: аҳлиъян
+    gloss: sg
+  - text: аҳлиъне
+    gloss: pl
+definitions:
+  - translation:
+      en: bird
+      ru: птица
+    tags: [animal]

@@ -1,0 +1,19 @@
+id: uNl1yvbQsSJcQz5ZfOpT
+headword: ҡунчь кабирара
+ipa: ˌquntʃʼ kabiˈrara
+tags: [v, cls, tr]
+note:
+  en: '*ҡинчь ~*'
+forms:
+  - text: ҡунчь кабарара
+    gloss: pfv
+  - text: ҡунчь кабарив
+    gloss: aor
+  - text: ҡунчь кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to bash
+      ru: лупить
+    aliases:
+      en: [beat, hit, strike]

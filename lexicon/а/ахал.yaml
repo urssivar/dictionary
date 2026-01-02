@@ -1,0 +1,15 @@
+id: rqPjebfc26lgwdygJk8u
+headword: ахал
+ipa: aˈχːal
+tags: [n]
+forms:
+  - text: ахал
+    gloss: sg
+  - text: ахле
+    gloss: pl
+definitions:
+  - translation:
+      en: guest
+      ru: гость
+    aliases:
+      en: [visitor]

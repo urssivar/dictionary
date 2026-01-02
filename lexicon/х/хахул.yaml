@@ -1,0 +1,15 @@
+id: 2vajDgLox2eKxYqBBqT4
+headword: хахул
+ipa: χaˈχul
+tags: [n, loan, russian]
+definitions:
+  - translation:
+      en: kirza
+      ru: кирза
+    tags: [textile]
+    aliases:
+      en: [leather, tarpaulin]
+    examples:
+      - text: хахул чакма
+        translation:
+          en: tarpaulin boots

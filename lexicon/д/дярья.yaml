@@ -1,0 +1,18 @@
+id: 0Is5CCJGz4wJmFRmPotW
+headword: дярья
+ipa: dærˈhæ
+tags: [n]
+note:
+  en: |-
+    *дарьа*
+    *кьякьяй*
+forms:
+  - text: дярья
+    gloss: sg
+  - text: дяьне
+    gloss: pl
+definitions:
+  - translation:
+      en: child
+      ru: ребенок
+    tags: [social, kinship]

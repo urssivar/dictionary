@@ -1,0 +1,14 @@
+id: iu8U0YkTKWwzO1wiKoaN
+headword: кьанда
+ipa: ˈkʼanda
+tags: [n]
+forms:
+  - text: кьанда
+    gloss: sg
+  - text: кьандре
+    gloss: pl
+definitions:
+  - translation:
+      en: quail
+      ru: перепелка
+    tags: [animal, bird]

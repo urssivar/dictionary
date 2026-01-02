@@ -1,0 +1,16 @@
+id: 8vn9MjkBkoMNuXf4xk9S
+headword: ккаккицц
+ipa: kːakːiˈtsː
+tags: [n, pl]
+note:
+  en: '*тьяймицци*'
+forms:
+  - text: ккаккицц
+    gloss: sg
+  - text: ккаккицце
+    gloss: pl
+definitions:
+  - translation:
+      en: stilt
+      ru: ходуля
+    tags: [tool]

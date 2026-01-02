@@ -1,0 +1,14 @@
+id: U2mXxFY4xR45qigHLvxf
+headword: пичини
+ipa: pitʃiˈni
+tags: [n, loan, russian]
+forms:
+  - text: пичини
+    gloss: sg
+  - text: пичинте
+    gloss: pl
+definitions:
+  - translation:
+      en: cookie
+      ru: печенье
+    tags: [food]

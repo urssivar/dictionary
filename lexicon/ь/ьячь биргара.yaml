@@ -1,0 +1,17 @@
+id: bPVUFdqJozUKvfYqHDt8
+headword: ьячь биргара
+ipa: ˌhætʃʼ birˈgara
+tags: [v, intr, cls, phr]
+forms:
+  - text: ьячь бигара
+    gloss: pfv
+  - text: ьячь бижив
+    gloss: aor
+  - text: ьячь биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to slide
+      ru: скользить
+    aliases:
+      en: [slip, glide]

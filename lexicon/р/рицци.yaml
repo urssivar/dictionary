@@ -1,0 +1,18 @@
+id: mXkp3fm5gstrH0Q2OCYS
+headword: рицци
+ipa: riˈtsːi
+tags: [n]
+forms:
+  - text: рицци
+    gloss: sg
+  - text: риццбе
+    gloss: pl
+definitions:
+  - translation:
+      en: sister
+      ru: сестра
+    tags: [kinship]
+  - translation:
+      en: aunt
+      ru: тётя
+    tags: [kinship]

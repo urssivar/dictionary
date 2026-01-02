@@ -1,0 +1,21 @@
+id: 6G0nz1hXBK1HT89US89r
+headword: гап
+ipa: ˈgap
+tags: [n]
+forms:
+  - text: гап
+    gloss: sg
+  - text: гапне
+    gloss: pl
+definitions:
+  - translation:
+      en: praise
+      ru: похвала
+    tags: [emotion]
+    examples:
+      - text: гапле акку
+        translation:
+          en: could be better
+  - translation:
+      en: boasting
+      ru: хвастовство

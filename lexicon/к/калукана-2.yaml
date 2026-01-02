@@ -1,0 +1,17 @@
+id: NqB5Fa8CB1FaVRugpkJX
+headword: калукана
+ipa: kaluˈkana
+tags: [v, tr, cls]
+forms:
+  - text: кабелкона
+    gloss: pfv
+  - text: кабелкун
+    gloss: aor
+  - text: калукана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rake
+      ru: сгребать
+    aliases:
+      en: [shivel, scoop, bank]

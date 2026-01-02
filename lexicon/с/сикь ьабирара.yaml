@@ -1,0 +1,17 @@
+id: Y00Qv3lubvHK1zIelaVs
+headword: сикь ьабирара
+ipa: ˌsikʼ habiˈrara
+tags: [v, intr, cls]
+note:
+  en: '*сипь ~*'
+forms:
+  - text: сикь ьабарара
+    gloss: pfv
+  - text: сикь ьабарив
+    gloss: aor
+  - text: сикь ьабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to freeze up
+      ru: окоченевать

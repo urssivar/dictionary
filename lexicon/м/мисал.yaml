@@ -1,0 +1,15 @@
+id: BhLw3ssPkahZeF5pIhYb
+headword: мисал
+ipa: miˈsal
+tags: [n, loan, arabic]
+forms:
+  - text: мисал
+    gloss: sg
+  - text: мисалте
+    gloss: pl
+definitions:
+  - translation:
+      en: example
+      ru: пример
+    aliases:
+      en: [task, sample, instance]

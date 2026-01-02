@@ -1,0 +1,17 @@
+id: sXw9MxTUTDGutvu9RmaC
+headword: ямал бирара
+ipa: æˌmal biˈrara
+tags: [v, tr, phr]
+forms:
+  - text: ямал барара
+    gloss: pfv
+  - text: ямал барив
+    gloss: aor
+  - text: ямал бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to settle
+      ru: решать, улаживать
+    aliases:
+      en: [resolve]

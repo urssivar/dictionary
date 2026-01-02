@@ -1,0 +1,22 @@
+id: I6kvyRqvfCQdR7WQd67a
+headword: цабурҡара
+ipa: tsaburˈqara
+tags: [v, cls, tr]
+forms:
+  - text: цабяҡара
+    gloss: pfv
+  - text: цабяҡив
+    gloss: pret
+  - text: цабурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hit
+      ru: ударять
+    examples:
+      - text: машинли царяҡив
+        translation:
+          en: she was hit by a car
+      - text: цабяҡа ьелей!
+        translation:
+          en: hit him!

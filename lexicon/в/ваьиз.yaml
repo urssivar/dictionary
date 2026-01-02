@@ -1,0 +1,17 @@
+id: ADpPSeyktKDSSVSbuAqK
+headword: ваьиз
+ipa: vaˈhiz
+tags: [n]
+note:
+  en: '*унць*'
+forms:
+  - text: ваьиз
+    gloss: sg
+  - text: ваьизе
+    gloss: pl
+definitions:
+  - translation:
+      en: godet
+      ru: клин
+    aliases:
+      en: [wedge, segment]

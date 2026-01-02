@@ -1,0 +1,19 @@
+id: jRBMF3x1zbMo4cQ2sOXf
+headword: кирҡҡяра
+ipa: kirˈqːæra
+tags: [v, tr]
+forms:
+  - text: кирҡҡяв
+    gloss: aor
+  - text: кирҡҡяра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to splotch
+      ru: размазывать
+    aliases:
+      en: [dirt, smear]
+    examples:
+      - text: кирҡҡяв дяъ
+        translation:
+          en: unpleasant person

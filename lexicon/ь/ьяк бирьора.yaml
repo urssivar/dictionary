@@ -1,0 +1,17 @@
+id: F0hKoMBmMNE1RDoerUgj
+headword: ьяк бирьора
+ipa: ˌhæk birˈhora
+tags: [v, intr, cls]
+forms:
+  - text: ьяк биьора
+    gloss: pfv
+  - text: ьяк биьяв
+    gloss: aor
+  - text: ьяк бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to boast
+      ru: кичиться
+    aliases:
+      en: [parade]

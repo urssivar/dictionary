@@ -1,0 +1,17 @@
+id: YSH4o7b9BHI9p0Gv9FSk
+headword: читяь булҡана
+ipa: tʃiˌtæh bulˈqana
+tags: [v, intr, cls, phr]
+forms:
+  - text: читяь буҡана
+    gloss: pfv
+  - text: читяь буҡун
+    gloss: aor
+  - text: читяь булҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pounce
+      ru: набрасываться
+    aliases:
+      en: [attack]

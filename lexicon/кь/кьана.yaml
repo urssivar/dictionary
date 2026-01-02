@@ -1,0 +1,18 @@
+id: 6Mm2fNDLojlBHqgXu684
+headword: кьана
+ipa: ˈkʼana
+tags: [n]
+note:
+  en: '*ккатьи*'
+forms:
+  - text: кьана
+    gloss: sg
+  - text: кьанал
+    gloss: obl
+  - text: кьинбе
+    gloss: pl
+definitions:
+  - translation:
+      en: headscarf
+      ru: платок
+    tags: [clothing]

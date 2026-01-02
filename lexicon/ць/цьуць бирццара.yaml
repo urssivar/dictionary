@@ -1,0 +1,15 @@
+id: t02KlUqaWEWZqDjrd9v0
+headword: цьуць бирццара
+ipa: ˌtsʼutsʼ birˈtsːara
+tags: [v, intr, cls]
+forms:
+  - text: цьуць биццара
+    gloss: pfv
+  - text: цьуць биццур
+    gloss: aor
+  - text: цьуць бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stick out at the tip
+      ru: выпирать острием

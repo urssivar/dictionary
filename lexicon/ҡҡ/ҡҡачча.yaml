@@ -1,0 +1,16 @@
+id: enKnHf49YyrjpHB5Gfc8
+headword: ҡҡачча
+ipa: ˈqːatʃːa
+tags: [n]
+forms:
+  - text: ҡҡачча
+    gloss: sg
+  - text: ҡҡиччне
+    gloss: pl
+definitions:
+  - translation:
+      en: calf
+      ru: телёнок
+    tags: [animal]
+    aliases:
+      en: [cow]

@@ -1,0 +1,14 @@
+id: bUBBUUkQNfVl76dLjoDM
+headword: чакар
+ipa: tʃaˈkar
+tags: [n, loan, arabic]
+forms:
+  - text: чакар
+    gloss: sg
+  - text: чакарте
+    gloss: pl
+definitions:
+  - translation:
+      en: sugar
+      ru: сахар
+    tags: [food]

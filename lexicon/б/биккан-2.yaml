@@ -1,0 +1,16 @@
+id: RnCbdvhIGX94RPmeXcOy
+headword: биккан
+ipa: biˈkːan
+tags: [adv]
+etymology:
+  en: Obl. of *биккара* "to wish" (cf. *виккан* "beloved").
+definitions:
+  - translation:
+      en: should
+      ru: следует, желательно
+    aliases:
+      en: [ought]
+    examples:
+      - text: ду ижин угара биккан це
+        translation:
+          en: i should stay here

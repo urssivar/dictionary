@@ -1,0 +1,15 @@
+id: tTKlopJ4z8us5PlQIgd2
+headword: саламте дирара
+ipa: salamˌte diˈrara
+tags: [v, phr, tr]
+forms:
+  - text: саламте дарара
+    gloss: pfv
+  - text: саламте дарив
+    gloss: pret
+  - text: саламте дирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to condole
+      ru: соболезновать

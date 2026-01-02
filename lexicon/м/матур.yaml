@@ -1,0 +1,16 @@
+id: ifdVqGucA7gSAhluMAdG
+headword: матур
+ipa: maˈtur
+tags: [n, loan, russian]
+forms:
+  - text: матур
+    gloss: sg
+  - text: матурте
+    gloss: pl
+definitions:
+  - translation:
+      en: engine
+      ru: двигатель
+    tags: [tool]
+    aliases:
+      en: [motor]

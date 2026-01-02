@@ -1,0 +1,19 @@
+id: KMWjAjEIwVyncRVURgR3
+headword: зай
+ipa: ˈzaj
+tags: [adj]
+note:
+  en: '*зей*'
+definitions:
+  - translation:
+      en: spoiled
+      ru: испорченный, сломанный
+    aliases:
+      en: [broken, bad]
+    examples:
+      - text: урши зай виьяв
+        translation:
+          en: the boy got spoiled
+      - text: машин зай биьяв
+        translation:
+          en: the car stopped working

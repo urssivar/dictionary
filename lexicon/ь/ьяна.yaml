@@ -1,0 +1,17 @@
+id: DSBcEXM7dfGyw5qf4GkV
+headword: ьяна
+ipa: hæˈna
+tags: [v, intr, cls]
+note:
+  en: '*ьянара*'
+forms:
+  - text: ьяна
+    gloss: pfv
+  - text: ьябун
+    gloss: obl
+  - text: ьябе
+    gloss: imp
+definitions:
+  - translation:
+      en: to go up
+      ru: идти наверх

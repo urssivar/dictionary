@@ -1,0 +1,15 @@
+id: w9QhfiaTzYL8y0iXAD0s
+headword: хан
+ipa: ˈχan
+tags: [n, loan, turkic]
+forms:
+  - text: хан
+    gloss: sg
+  - text: ханре
+    gloss: pl
+definitions:
+  - translation:
+      en: ruler
+      ru: правитель
+    aliases:
+      en: [lord, feudal]

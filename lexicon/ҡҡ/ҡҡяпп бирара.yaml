@@ -1,0 +1,17 @@
+id: yaUC5NnRkcvlBQrQfdy9
+headword: ҡҡяпп бирара
+ipa: ˌqːæpː biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ҡҡяпп барара
+    gloss: pfv
+  - text: ҡҡяпп барив
+    gloss: aor
+  - text: ҡҡяпп бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pull
+      ru: дергать
+    aliases:
+      en: [snatch, move]

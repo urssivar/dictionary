@@ -1,0 +1,25 @@
+id: kx6SksF1bdyTUMKBhrWw
+headword: царра
+ipa: ˈtsarra
+tags: [pro, det]
+etymology:
+  en: From *ца* "one" + concessive *ра*. The middle *р* is unclear, cf. *царра* "nothing", *чарра* "nobody".
+forms:
+  - text: царра
+    gloss: nom
+  - text: цал-ра
+    gloss: obl
+definitions:
+  - translation:
+      en: none
+      ru: ни один
+    tags: [pro]
+    aliases:
+      en: ['no']
+    examples:
+      - text: царра хайре бейччу
+        translation:
+          en: none was of benefit
+      - text: царра мейдам чиаваживда
+        translation:
+          en: i saw no man

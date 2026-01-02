@@ -1,0 +1,19 @@
+id: xAuNYCJCVqOJSEx4hmhj
+headword: рурчча ьурғара
+ipa: ˌrurtʃːa hurˈʁara
+tags: [v, tr, phr]
+etymology:
+  en: The first part seems to be from *рурччара* "to tremble", but it's not used on its own.
+forms:
+  - text: рурчча ьағара
+    gloss: pfv
+  - text: рурчча ьағив
+    gloss: aor
+  - text: рурчча ьурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to boil
+      ru: кипятить
+    aliases:
+      en: [seethe]

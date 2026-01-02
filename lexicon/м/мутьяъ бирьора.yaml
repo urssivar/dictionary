@@ -1,0 +1,15 @@
+id: Iv76yBKSD0TBbkVVhqVt
+headword: мутьяъ бирьора
+ipa: muˌtʼæʔ birˈhora
+tags: [v, intr, cls, phr]
+forms:
+  - text: мутьяъ биьора
+    gloss: pfv
+  - text: мутьяъ биьяв
+    gloss: aor
+  - text: мутьяъ бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to confess
+      ru: признаваться

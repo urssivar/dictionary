@@ -1,0 +1,16 @@
+id: dR7KuEOopfvmBaBikBx5
+headword: ям
+ipa: ˈæm
+tags: [n]
+forms:
+  - text: ям
+    gloss: sg
+  - text: ямре
+    gloss: pl
+definitions:
+  - translation:
+      en: aperture
+      ru: отверстие
+    tags: []
+    aliases:
+      en: [port, slot, hole]

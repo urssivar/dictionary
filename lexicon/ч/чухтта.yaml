@@ -1,0 +1,18 @@
+id: 1wFi5Pk2iVAEwhNPdFrE
+headword: чухтта
+ipa: tʃuχˈtːa
+tags: [n, loan]
+forms:
+  - text: чухтта
+    gloss: sg
+  - text: чухттан
+    gloss: obl, loc
+  - text: чухттне
+    gloss: pl
+definitions:
+  - translation:
+      en: chokhto
+      ru: чохто
+    tags: [clothing]
+    aliases:
+      en: [hood]

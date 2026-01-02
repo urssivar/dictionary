@@ -1,0 +1,17 @@
+id: Fo1zrzDQL9T2xfqxnOb7
+headword: уркка луҡьана
+ipa: urˌkːa luˈqʼana
+tags: [v, intr, cls, phr]
+forms:
+  - text: уркка белҡьона
+    gloss: pfv
+  - text: уркка белҡьун
+    gloss: aor
+  - text: уркка луҡьана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sow discord
+      ru: вносить раздор
+    aliases:
+      en: [scheme]

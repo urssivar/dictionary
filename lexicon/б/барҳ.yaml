@@ -1,0 +1,28 @@
+id: rYAYjUJldoKz1TyxyC5j
+headword: барҳ
+ipa: ˈbarx
+tags: [adj, nmlz, cls]
+etymology:
+  en: May be from *бирҳара* "to pacify".
+definitions:
+  - translation:
+      en: fair
+      ru: справедливый
+    aliases:
+      en: [right, 'true']
+  - translation:
+      en: honest
+      ru: честный
+    examples:
+      - text: барҳ челле
+        translation:
+          en: honestly
+  - translation:
+      en: right
+      ru: верный
+    aliases:
+      en: [correct, 'true']
+    examples:
+      - text: ьел барҳле це
+        translation:
+          en: that's right

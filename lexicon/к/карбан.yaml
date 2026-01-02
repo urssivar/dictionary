@@ -1,0 +1,13 @@
+id: qKRnDsZbrjGuAFOLNA4p
+headword: карбан
+ipa: karˈban
+tags: [n, loan, persian]
+forms:
+  - text: карбан
+    gloss: sg
+  - text: карбанте
+    gloss: pl
+definitions:
+  - translation:
+      en: caravan
+      ru: караван

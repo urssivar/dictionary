@@ -1,0 +1,17 @@
+id: kXkCVb5HjIov0J7YE6Kl
+headword: цикара
+ipa: tsiˈkara
+tags: [v, tr]
+forms:
+  - text: цакара
+    gloss: pfv
+  - text: цачив
+    gloss: aor
+  - text: цикара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to bring
+      ru: приводить
+    aliases:
+      en: [lead, take]

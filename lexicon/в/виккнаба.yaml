@@ -1,0 +1,20 @@
+id: etwRp4Wx2Ps3gOiZejkj
+headword: виккнаба
+ipa: vikːnaˈba
+tags: [n, cls, nmlz]
+etymology:
+  en: From *биккара* "to want". The second part sounds like *уба* "mother" but semantics is unclear.
+note:
+  en: '*биккнауба*'
+forms:
+  - text: биккнаба
+    gloss: sg
+  - text: биккнабне
+    gloss: pl
+definitions:
+  - translation:
+      en: betrothed
+      ru: засватанный
+    tags: [kinship]
+    aliases:
+      en: [fiancée, fiance]

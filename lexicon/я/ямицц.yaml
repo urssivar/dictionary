@@ -1,0 +1,16 @@
+id: kCMl2S8a2w3KCnvsfEY3
+headword: ямицц
+ipa: æˈmitsː
+tags: [n]
+forms:
+  - text: ямицц
+    gloss: sg
+  - text: ямицце
+    gloss: pl
+definitions:
+  - translation:
+      en: gadfly
+      ru: овод
+    tags: [animal, insect]
+    aliases:
+      en: [fly]

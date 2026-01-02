@@ -1,0 +1,17 @@
+id: RKs4bIGuDVMmYbs4RDRb
+headword: сабурцара
+ipa: saburˈtsara
+tags: [v, cls, tr]
+forms:
+  - text: сабуцара
+    gloss: pfv
+  - text: сабуцив
+    gloss: aor
+  - text: сабурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to suggest
+      ru: предлагать
+    aliases:
+      en: [propose]

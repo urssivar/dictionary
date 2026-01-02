@@ -1,0 +1,15 @@
+id: L1UbKCmsobItgoVzbiof
+headword: шулумле бергара
+ipa: ʃuˌlumle berˈgara
+tags: [v, intr, cls]
+forms:
+  - text: шулумле бегара
+    gloss: pfv
+  - text: шулумле бегур
+    gloss: aor
+  - text: шулумле бергара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pass ignoring
+      ru: проходить игнорируя

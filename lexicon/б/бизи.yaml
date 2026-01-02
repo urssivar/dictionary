@@ -1,0 +1,24 @@
+id: GcLAqAltCTJcfpkkaEsR
+headword: бизи
+ipa: biˈzi
+tags: [n]
+note:
+  en: |-
+    *мази*
+    *ччята* (the wanderwort)
+forms:
+  - text: бизи
+    gloss: sg
+  - text: бизне
+    gloss: pl
+definitions:
+  - translation:
+      en: cat
+      ru: кот, кошка
+    tags: [animal]
+    aliases:
+      en: [kitten]
+    examples:
+      - text: бизил гоца буцив
+        translation:
+          en: cat caught a mouse

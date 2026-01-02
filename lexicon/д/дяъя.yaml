@@ -1,0 +1,15 @@
+id: t2yWfW2jt2JRTGHxfvlT
+headword: дяъя
+ipa: dæˈʔæ
+tags: [n]
+forms:
+  - text: дяъя
+    gloss: sg
+  - text: дяъял
+    gloss: obl
+definitions:
+  - translation:
+      en: deadly cold
+      ru: смертельный холод
+    aliases:
+      en: [hypothermia]

@@ -1,0 +1,19 @@
+id: vOtzkd9nUoO6PNlX1ahr
+headword: жура
+ipa: ʒuˈra
+tags: [n]
+forms:
+  - text: жура
+    gloss: sg
+  - text: журал
+    gloss: obl
+definitions:
+  - translation:
+      en: sort
+      ru: разновидность
+    aliases:
+      en: [kind, genus]
+    examples:
+      - text: жура-журалла
+        translation:
+          en: diverse

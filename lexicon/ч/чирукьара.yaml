@@ -1,0 +1,17 @@
+id: yBikh24fo2LolEQ41cWV
+headword: чирукьара
+ipa: tʃiruˈkʼara
+tags: [v, tr, cls]
+forms:
+  - text: чиберкьора
+    gloss: pfv
+  - text: чиберчьив
+    gloss: aor
+  - text: чирукьара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to bind
+      ru: связывать
+    aliases:
+      en: [tie, fasten]

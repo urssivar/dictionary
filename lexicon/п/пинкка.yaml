@@ -1,0 +1,20 @@
+id: zWTUkGTMo0KK5OVwlQV9
+headword: пинкка
+ipa: ˈpinkːa
+tags: [n, loan, russian]
+etymology:
+  en: From Russian *финка* "Finnish".
+forms:
+  - text: пинкка
+    gloss: sg
+  - text: пинккан
+    gloss: obl
+  - text: пинккне
+    gloss: pl
+definitions:
+  - translation:
+      en: bayonet
+      ru: штык-нож
+    tags: [tool]
+    aliases:
+      en: [knife, spear]

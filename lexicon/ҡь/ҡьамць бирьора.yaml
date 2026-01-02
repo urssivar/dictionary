@@ -1,0 +1,17 @@
+id: RCflaSvQFPojXvAjKNua
+headword: ҡьамць бирьора
+ipa: ˌqʼamtsʼ birˈhora
+tags: [v, intr, cls, phr]
+forms:
+  - text: ҡьамць биьора
+    gloss: pfv
+  - text: ҡьамць биьяв
+    gloss: aor
+  - text: ҡьамць бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to turn sour
+      ru: прокисать
+    aliases:
+      en: [ferment]

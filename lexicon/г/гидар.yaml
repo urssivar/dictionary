@@ -1,0 +1,16 @@
+id: mWRYGZtf3yxCkVgRXKBg
+headword: гидар
+ipa: giˈdar
+tags: [n]
+note:
+  en: '*ҡҡанда*'
+forms:
+  - text: гидар
+    gloss: sg
+  - text: гидре
+    gloss: pl
+definitions:
+  - translation:
+      en: bug
+      ru: клоп
+    tags: [nature, animal, insect]

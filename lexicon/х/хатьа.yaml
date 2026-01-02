@@ -1,0 +1,15 @@
+id: oLyQQcivKEXCa8rGmQxp
+headword: хатьа
+ipa: χaˈtʼa
+tags: [n, loan, arabic]
+note:
+  en: '*яшивкка*'
+forms:
+  - text: хатьа
+    gloss: sg
+  - text: хатьне
+    gloss: pl
+definitions:
+  - translation:
+      en: mistake
+      ru: ошибка

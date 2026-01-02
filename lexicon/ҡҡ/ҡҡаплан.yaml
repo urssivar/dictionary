@@ -1,0 +1,16 @@
+id: c29aGA37IHEVGzu8fPAq
+headword: ҡҡаплан
+ipa: qːapˈlan
+tags: [n, loan, turkic]
+note:
+  en: '*арслан-ҡҡаплан*'
+forms:
+  - text: ҡҡаплан
+    gloss: sg
+  - text: ҡҡапланте
+    gloss: pl
+definitions:
+  - translation:
+      en: tiger
+      ru: тигр
+    tags: [animal]

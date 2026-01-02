@@ -1,0 +1,17 @@
+id: HkTgDq9LmGqX049iOWrv
+headword: чербирара
+ipa: tʃerbiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: чербарара
+    gloss: pfv
+  - text: чербарив
+    gloss: aor
+  - text: чербирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to avenge
+      ru: мстить
+    aliases:
+      en: [vendetta, revenge]

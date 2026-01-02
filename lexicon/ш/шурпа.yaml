@@ -1,0 +1,18 @@
+id: h0KpojxBPSfNlKpSb0Fr
+headword: шурпа
+ipa: ˈʃurpa
+tags: [n, loan, arabic]
+forms:
+  - text: шурпа
+    gloss: sg
+  - text: шурпан
+    gloss: obl
+  - text: шурпне
+    gloss: pl
+definitions:
+  - translation:
+      en: thick soup
+      ru: густой суп
+    tags: [food]
+    aliases:
+      en: [potage]

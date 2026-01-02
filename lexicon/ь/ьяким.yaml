@@ -1,0 +1,15 @@
+id: fSZw6IXdol0pBNSKeNPd
+headword: ьяким
+ipa: hæˈkim
+tags: [n, loan, arabic]
+forms:
+  - text: ьяким
+    gloss: sg
+  - text: ьякимте
+    gloss: pl
+definitions:
+  - translation:
+      en: official
+      ru: чиновник
+    aliases:
+      en: [officer]

@@ -1,0 +1,15 @@
+id: XtiiGnjapN2QEEqUp7f8
+headword: гумцяна
+ipa: gumtsæˈna
+tags: [v, cls, intr]
+forms:
+  - text: гумцябун
+    gloss: aor
+  - text: гумцяна
+    gloss: pfv
+definitions:
+  - translation:
+      en: to yield
+      ru: сдаваться, капитулировать
+    aliases:
+      en: [give, capitulate]
