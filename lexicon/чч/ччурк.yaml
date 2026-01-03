@@ -6,6 +6,6 @@ definitions:
   - translation:
       en: bird cherry
       ru: черемуха
-    tags: [nature, plant, plant]
+    tags: [nature, plant]
     aliases:
       en: [prunus, padus]

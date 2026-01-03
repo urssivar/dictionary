@@ -15,6 +15,6 @@ definitions:
   - translation:
       en: doctor
       ru: доктор
-    tags: [profession]
+    tags: [occupation]
     aliases:
       en: [medic]

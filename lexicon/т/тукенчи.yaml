@@ -11,6 +11,6 @@ definitions:
   - translation:
       en: salesman
       ru: продавец
-    tags: [profession]
+    tags: [occupation]
     aliases:
       en: [dealer]

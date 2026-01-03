@@ -17,6 +17,6 @@ definitions:
   - translation:
       en: dish
       ru: посуда
-    tags: [home]
+    tags: [house]
     aliases:
       en: [utensil]

@@ -11,6 +11,6 @@ definitions:
   - translation:
       en: tinker
       ru: лудильщик
-    tags: [profession]
+    tags: [occupation]
     aliases:
       en: [tinsmith]

@@ -11,6 +11,6 @@ definitions:
   - translation:
       en: merchant
       ru: купец
-    tags: [profession]
+    tags: [occupation]
     aliases:
       en: [trader, dealer]

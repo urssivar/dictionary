@@ -13,6 +13,6 @@ definitions:
   - translation:
       en: peasant
       ru: крестьянин
-    tags: [profession]
+    tags: [occupation]
     aliases:
       en: [farmer]

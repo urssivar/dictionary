@@ -11,6 +11,6 @@ definitions:
   - translation:
       en: scammer
       ru: мошенник
-    tags: [profession]
+    tags: [occupation]
     aliases:
       en: [rogue]

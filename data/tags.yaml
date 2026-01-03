@@ -76,3 +76,132 @@ grammar_2:
     en: ntr
     ru: непер.
     name: intransitive
+
+# Semantic/domain tags for definitions
+semantic:
+  # Natural world
+  nature:
+    en: nature
+    ru: природа
+  animal:
+    en: animal
+    ru: животное
+  bird:
+    en: bird
+    ru: птица
+  fish:
+    en: fish
+    ru: рыба
+  insect:
+    en: insect
+    ru: насекомое
+  plant:
+    en: plant
+    ru: растение
+  tree:
+    en: tree
+    ru: дерево
+  bush:
+    en: bush
+    ru: куст
+  grass:
+    en: grass
+    ru: трава
+  flower:
+    en: flower
+    ru: цветок
+  fruit:
+    en: fruit
+    ru: фрукт
+  berry:
+    en: berry
+    ru: ягода
+
+  # Human & society
+  kinship:
+    en: kinship
+    ru: родство
+  child:
+    en: child
+    ru: ребёнок
+  demonym:
+    en: demonym
+    ru: этноним
+  occupation:
+    en: occupation
+    ru: профессия
+  social:
+    en: social
+    ru: социальное
+  emotion:
+    en: emotion
+    ru: эмоция
+
+  # Material culture
+  tool:
+    en: tool
+    ru: инструмент
+  clothing:
+    en: clothing
+    ru: одежда
+  textile:
+    en: textile
+    ru: текстиль
+  food:
+    en: food
+    ru: еда
+  metal:
+    en: metal
+    ru: металл
+
+  # Built environment
+  settlement:
+    en: settlement
+    ru: поселение
+  house:
+    en: house
+    ru: дом
+  toponym:
+    en: toponym
+    ru: топоним
+
+  # Domains & activities
+  agriculture:
+    en: agriculture
+    ru: сельское хозяйство
+  warfare:
+    en: warfare
+    ru: война
+  tech:
+    en: technology
+    ru: технология
+  music:
+    en: music
+    ru: музыка
+
+  # Physical & abstract
+  body:
+    en: body
+    ru: тело
+  disease:
+    en: disease
+    ru: болезнь
+  color:
+    en: color
+    ru: цвет
+  time:
+    en: time
+    ru: время
+  measure:
+    en: measure
+    ru: мера
+
+  # Belief & worldview
+  religion:
+    en: religion
+    ru: религия
+
+  # Pragmatic
+  slur:
+    en: slur
+    ru: оскорбление

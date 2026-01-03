@@ -13,7 +13,7 @@ definitions:
   - translation:
       en: dragon
       ru: дракон
-    tags: [mythology, animal]
+    tags: [religion, animal]
     aliases:
       en: [crocodile, serpent]
       ru: [крокодил, змей]
