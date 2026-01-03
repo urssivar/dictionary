@@ -1,7 +1,7 @@
 id: rYAYjUJldoKz1TyxyC5j
 headword: барҳ
 ipa: ˈbarx
-tags: [adj, nmlz, cls]
+tags: [adj, vb, cls]
 etymology:
   en: May be from *бирҳара* "to pacify".
 definitions:
@@ -9,7 +9,7 @@ definitions:
       en: fair
       ru: справедливый
     aliases:
-      en: [right, 'true']
+      en: [right, "true"]
   - translation:
       en: honest
       ru: честный
@@ -21,7 +21,7 @@ definitions:
       en: right
       ru: верный
     aliases:
-      en: [correct, 'true']
+      en: [correct, "true"]
     examples:
       - text: ьел барҳле це
         translation:

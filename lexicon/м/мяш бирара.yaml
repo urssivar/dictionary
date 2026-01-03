@@ -1,7 +1,7 @@
 id: jox2RnxWq8vnWGrDeu9J
 headword: мяш бирара
 ipa: ˈmæʃ
-tags: [v, tr, cls, phr]
+tags: [v, tr, cls]
 forms:
   - text: мяш барара
     gloss: pfv
@@ -14,7 +14,7 @@ definitions:
       en: to flaunt
       ru: хвастать
     aliases:
-      en: [show, 'off']
+      en: [show, "off"]
     examples:
       - text: цинела машин мяш барив
         translation:

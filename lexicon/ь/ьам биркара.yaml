@@ -1,9 +1,9 @@
 id: TPL3YXJaGtvuNf1u5imB
 headword: ьам биркара
 ipa: ˌham birˈkara
-tags: [v, intr, cls, phr]
+tags: [v, ntr, cls]
 note:
-  en: '*пикре цабиркара*'
+  en: "*пикре цабиркара*"
 forms:
   - text: ьам бикара
     gloss: pfv

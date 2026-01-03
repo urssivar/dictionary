@@ -1,9 +1,9 @@
 id: q4ECo5MMmrs0LCWR9RX6
 headword: биж бирццара
 ipa: ˌbiʒ birˈtsːara
-tags: [v, cls, intr, phr]
+tags: [v, cls, ntr]
 note:
-  en: '*биж бевттана*'
+  en: "*биж бевттана*"
 forms:
   - text: биж биццара
     gloss: pfv

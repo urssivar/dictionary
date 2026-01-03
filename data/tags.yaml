@@ -62,27 +62,15 @@ grammar:
     en: pl
     ru: мн.
     name: plural
-  nmlz:
-    en: nmlz
-    ru: н.им.
-    name: nominalization
+  vb:
+    en: vb
+    ru: отгл.
+    name: verbal
   tr:
     en: tr
     ru: пер.
     name: transitive
-  intr:
-    en: intr
+  ntr:
+    en: ntr
     ru: непер.
     name: intransitive
-  lbl:
-    en: lbl
-    ru: лаб.
-    name: labile
-  phr:
-    en: phr
-    ru: фраз.
-    name: phrasal
-  clt:
-    en: clt
-    ru: клит.
-    name: clitic

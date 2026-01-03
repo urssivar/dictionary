@@ -1,9 +1,9 @@
 id: 92e6VKUn7Pif5tSGp0zY
 headword: пяр бикьора
 ipa: ˌpær biˈkʼora
-tags: [v, intr, phr, cls]
+tags: [v, ntr, cls]
 note:
-  en: '*пярпяр ~*'
+  en: "*пярпяр ~*"
 forms:
   - text: пяр бикьора
     gloss: ipfv

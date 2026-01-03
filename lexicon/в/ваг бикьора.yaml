@@ -1,9 +1,9 @@
 id: NkK6CbQkIOilBE9UtEJL
 headword: ваг бикьора
 ipa: ˌvag biˈkʼora
-tags: [v, intr, cls, phr]
+tags: [v, ntr, cls]
 note:
-  en: '*важ ~*'
+  en: "*важ ~*"
 forms:
   - text: ваг бикьора
     gloss: ipfv

@@ -1,9 +1,9 @@
 id: SqFaIkOWoB77CjzvQrxZ
 headword: ттартт бурҡара
 ipa: ˌtːartː burˈqara
-tags: [v, intr, cls, phr]
+tags: [v, ntr, cls]
 note:
-  en: '*чянть ~*'
+  en: "*чянть ~*"
 forms:
   - text: ттартт бяҡара
     gloss: pfv

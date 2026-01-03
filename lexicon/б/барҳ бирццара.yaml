@@ -1,7 +1,7 @@
 id: 9ffcs8D2K2Dw8ZjpfQy0
 headword: барҳ бирццара
 ipa: ˌbarx birˈtsːara
-tags: [v, phr, cls, intr]
+tags: [v, cls, ntr]
 forms:
   - text: барҳ биццара
     gloss: pfv
@@ -23,7 +23,7 @@ definitions:
       en: to fulfill
       ru: сбываться
     aliases:
-      en: [come, 'true']
+      en: [come, "true"]
     examples:
       - text: дила мижен барҳ биццур
         translation:

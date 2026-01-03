@@ -1,18 +1,18 @@
 id: RTZtpQ5ALFRIvhpItMao
 headword: баал
 ipa: ˈbaal
-tags: [conj, nmlz, cls]
+tags: [conj, vb, cls]
 etymology:
   en: From old cond. of *бирьора* "to be".
 note:
-  en: '*биьолли*'
+  en: "*биьолли*"
 forms:
   - text: баадал
-    gloss: '1'
+    gloss: "1"
   - text: бааттал
-    gloss: '2'
+    gloss: "2"
   - text: баал
-    gloss: '3'
+    gloss: "3"
 definitions:
   - translation:
       en: if

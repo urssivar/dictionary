@@ -1,9 +1,9 @@
 id: G4PADg2xR48om22jW3xr
 headword: никьна бирццара
 ipa: nikʼˌna birˈtsːara
-tags: [v, phr, cls, intr]
+tags: [v, cls, ntr]
 note:
-  en: '*никьна биргара*'
+  en: "*никьна биргара*"
 forms:
   - text: никьна биццара
     gloss: pfv
