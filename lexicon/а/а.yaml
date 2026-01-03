@@ -5,10 +5,12 @@ tags: [conj, loan, russian]
 definitions:
   - translation:
       en: but
-      ru: а, но
+      ru: а
     aliases:
       en: [and]
+      ru: [но]
     examples:
       - text: дул ьеж биранда, а ил ьел бара
         translation:
-          en: i will do this, and you do that
+          en: I will do this, and you do that.
+          ru: Я сделаю это, а ты сделай то.

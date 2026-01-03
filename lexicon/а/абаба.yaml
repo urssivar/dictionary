@@ -16,3 +16,8 @@ definitions:
       en: maternal grandmother
       ru: бабушка по матери
     tags: [kinship]
+    examples:
+      - text: Дами дила абаба риччихид.
+        translation:
+          en: I love my grandmother.
+          ru: Я люблю мою бабушку.
