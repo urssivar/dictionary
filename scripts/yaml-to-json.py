@@ -15,9 +15,11 @@ def load_alphabet():
     with open(alphabet_file, 'r', encoding='utf-8') as f:
         data = yaml.safe_load(f)
 
-    # Extract grapheme list from alphabet dict
+    # Extract grapheme list in alphabetical order (YAML preserves order)
     alphabet = list(data['alphabet'].keys())
-    alphabet = sorted(alphabet, key=len, reverse=True)
+
+    # Create length-sorted version for tokenization only
+    alphabet_tokens = sorted(['-', ' '] + alphabet, key=len, reverse=True)
 
     # Derive vowel mappings (IPA → Cyrillic) from alphabet
     vowels = {}
@@ -25,7 +27,7 @@ def load_alphabet():
         if info['type'] == 'vowel':
             vowels[info['ipa']] = grapheme
 
-    return alphabet, vowels
+    return alphabet, alphabet_tokens, vowels
 
 
 def load_grammar_tags():
@@ -126,6 +128,21 @@ def extract_variants(note):
     return [m.strip() for m in matches]
 
 
+def extract_yaml_variants(yaml_variants):
+    """Extract variant text from YAML variants field.
+
+    Args:
+        yaml_variants: List of {text: "..."} objects from YAML
+
+    Returns:
+        List of variant strings
+    """
+    if not yaml_variants:
+        return []
+
+    return [v['text'] for v in yaml_variants if 'text' in v]
+
+
 def map_tags(tags, tag_map):
     """Map tags to bilingual format, filter to grammar tags only.
 
@@ -145,16 +162,29 @@ def map_tags(tags, tag_map):
     return result
 
 
-def simplify_forms(forms, headword):
-    """Extract text from forms, skip gloss and forms matching headword."""
+def simplify_forms(forms, headword, tags):
+    """Extract and process forms with special handling for compound verbs and oblique stems."""
     if not forms:
         return []
+
+    # Check if this is a compound verb (verb tag + space in headword)
+    is_compound_verb = 'v' in tags and ' ' in headword
 
     result = []
     for form in forms:
         text = form.get('text', '')
-        if text and text != headword:
-            result.append(text)
+        if not text or text == headword:
+            continue
+
+        # Compound verb: collapse first part to tilde
+        if is_compound_verb:
+            text = '~ ' + text.split()[-1]
+
+        # Oblique stem: append dash
+        if form.get('gloss') == 'obl':
+            text += '-'
+
+        result.append(text)
 
     return result
 
@@ -211,9 +241,13 @@ def convert_entry(yaml_entry, vowels, tag_map):
         if mapped_tags:
             result['tags'] = mapped_tags
 
-    # Forms (text only, no gloss)
+    # Forms (text only, with special processing)
     if 'forms' in yaml_entry:
-        forms = simplify_forms(yaml_entry['forms'], yaml_entry['headword'])
+        forms = simplify_forms(
+            yaml_entry['forms'],
+            yaml_entry['headword'],
+            yaml_entry.get('tags', [])
+        )
         if forms:
             result['forms'] = forms
 
@@ -222,19 +256,19 @@ def convert_entry(yaml_entry, vowels, tag_map):
     if definitions:
         result['definitions'] = definitions
 
-    # Variants (extracted from note)
-    if 'note' in yaml_entry:
-        variants = extract_variants(yaml_entry['note'])
+    # Variants (from YAML variants field only - note extraction deprecated)
+    if 'variants' in yaml_entry and yaml_entry['variants']:
+        variants = extract_yaml_variants(yaml_entry['variants'])
         if variants:
             result['variants'] = variants
 
     return result
 
 
-def create_tokenizer(alphabet_tokens):
+def create_tokenizer(alphabet, alphabet_tokens):
     """Create a tokenizer function for sorting."""
-    letter_order = {letter: i for i, letter in enumerate(
-        ['-', ' '] + alphabet_tokens)}
+    alphabet_full = ['-', ' '] + alphabet  # alphabetical order for sorting
+    letter_order = {letter: i for i, letter in enumerate(alphabet_full)}
 
     def tokenize(word):
         i = 0
@@ -275,12 +309,11 @@ def main():
         output_file = sys.argv[1]
 
     # Load data files
-    alphabet_tokens, vowels = load_alphabet()
+    alphabet, alphabet_tokens, vowels = load_alphabet()
     tag_map = load_grammar_tags()
-    alphabet = [t for t in alphabet_tokens if t not in ['-', ' ']]
 
     # Create sorting function
-    sorting_key = create_tokenizer(alphabet_tokens)
+    sorting_key = create_tokenizer(alphabet, alphabet_tokens)
 
     # Process all letters
     output = {}
