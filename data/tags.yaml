@@ -1,0 +1,88 @@
+# Grammar tag mappings from English short form to Russian
+# Only grammar tags are included here; semantic tags (loan, kinship, etc.) are excluded
+
+grammar:
+  n:
+    en: n
+    ru: сущ.
+    name: noun
+  v:
+    en: v
+    ru: гл.
+    name: verb
+  adj:
+    en: adj
+    ru: прил.
+    name: adjective
+  adv:
+    en: adv
+    ru: нар.
+    name: adverb
+  conj:
+    en: conj
+    ru: союз
+    name: conjunction
+  prep:
+    en: prep
+    ru: предл.
+    name: preposition
+  post:
+    en: post
+    ru: посл.
+    name: postposition
+  intj:
+    en: intj
+    ru: межд.
+    name: interjection
+  pro:
+    en: pro
+    ru: мест.
+    name: pronoun
+  num:
+    en: num
+    ru: числ.
+    name: numeral
+  cop:
+    en: cop
+    ru: связ.
+    name: copula
+  ptcl:
+    en: ptcl
+    ru: част.
+    name: particle
+  det:
+    en: det
+    ru: дет.
+    name: determiner
+  cls:
+    en: cls
+    ru: кл.
+    name: class
+  pl:
+    en: pl
+    ru: мн.
+    name: plural
+  nmlz:
+    en: nmlz
+    ru: н.им.
+    name: nominalization
+  tr:
+    en: tr
+    ru: пер.
+    name: transitive
+  intr:
+    en: intr
+    ru: непер.
+    name: intransitive
+  lbl:
+    en: lbl
+    ru: лаб.
+    name: labile
+  phr:
+    en: phr
+    ru: фраз.
+    name: phrasal
+  clt:
+    en: clt
+    ru: клит.
+    name: clitic
