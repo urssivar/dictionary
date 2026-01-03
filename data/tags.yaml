@@ -62,6 +62,8 @@ grammar:
     en: pl
     ru: мн.
     name: plural
+
+grammar_2:
   vb:
     en: vb
     ru: отгл.

@@ -1,7 +1,7 @@
 id: Gxqj11SjWFFzn6bKCGWN
 headword: лукана
 ipa: luˈkana
-tags: [v, lbl, cls]
+tags: [v, tr, ntr, cls]
 forms:
   - text: белкона
     gloss: pfv
@@ -19,7 +19,7 @@ definitions:
       - text: вачагла ҡьулҡьуппе делкун
         translation:
           en: knees of the pants are worn out
-      - text: '* зарал-яьле белков'
+      - text: "* зарал-яьле белков"
         translation:
           en: wishing good use of the item
   - translation:
