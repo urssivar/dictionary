@@ -45,7 +45,8 @@ def load_alphabet():
     alphabet_file = Path(__file__).parent.parent / 'data' / 'alphabet.yaml'
     with open(alphabet_file, 'r', encoding='utf-8') as f:
         data = yaml.safe_load(f)
-    alphabet = data['alphabet']
+    # Extract grapheme list from alphabet dict
+    alphabet = list(data['alphabet'].keys())
     return sorted(alphabet, key=len, reverse=True)
 
 

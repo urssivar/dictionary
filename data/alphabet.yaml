@@ -1,2 +1,129 @@
-# Kaitag alphabet with digraphs
-alphabet: [а, б, в, г, ғ, д, е, ж, з, и, й, к, кк, кь, ҡ, ҡҡ, ҡь, л, м, н, о, п, пп, пь, р, с, т, тт, ть, у, х, ҳ, ц, цц, ць, ч, чч, чь, ш, ъ, ь, я]
+# Kaitag alphabet with full metadata
+
+alphabet:
+  а:
+    ipa: a
+    type: vowel
+  б:
+    ipa: b
+    type: consonant
+  в:
+    ipa: v
+    type: consonant
+  г:
+    ipa: ɡ
+    type: consonant
+  ғ:
+    ipa: ʁ
+    type: consonant
+  д:
+    ipa: d
+    type: consonant
+  е:
+    ipa: e
+    type: vowel
+  ж:
+    ipa: ʒ
+    type: consonant
+  з:
+    ipa: z
+    type: consonant
+  и:
+    ipa: i
+    type: vowel
+  й:
+    ipa: j
+    type: consonant
+  к:
+    ipa: k
+    type: consonant
+  кк:
+    ipa: kː
+    type: consonant
+  кь:
+    ipa: kʼ
+    type: consonant
+  ҡ:
+    ipa: q
+    type: consonant
+  ҡҡ:
+    ipa: qː
+    type: consonant
+  ҡь:
+    ipa: qʼ
+    type: consonant
+  л:
+    ipa: l
+    type: consonant
+  м:
+    ipa: m
+    type: consonant
+  н:
+    ipa: n
+    type: consonant
+  о:
+    ipa: o
+    type: vowel
+  п:
+    ipa: p
+    type: consonant
+  пп:
+    ipa: pː
+    type: consonant
+  пь:
+    ipa: pʼ
+    type: consonant
+  р:
+    ipa: r
+    type: consonant
+  с:
+    ipa: s
+    type: consonant
+  т:
+    ipa: t
+    type: consonant
+  тт:
+    ipa: tː
+    type: consonant
+  ть:
+    ipa: tʼ
+    type: consonant
+  у:
+    ipa: u
+    type: vowel
+  х:
+    ipa: χ
+    type: consonant
+  ҳ:
+    ipa: x
+    type: consonant
+  ц:
+    ipa: ts
+    type: consonant
+  цц:
+    ipa: tsː
+    type: consonant
+  ць:
+    ipa: tsʼ
+    type: consonant
+  ч:
+    ipa: tʃ
+    type: consonant
+  чч:
+    ipa: tʃː
+    type: consonant
+  чь:
+    ipa: tʃʼ
+    type: consonant
+  ш:
+    ipa: ʃ
+    type: consonant
+  ъ:
+    ipa: ʔ
+    type: consonant
+  ь:
+    ipa: h
+    type: consonant
+  я:
+    ipa: æ
+    type: vowel
