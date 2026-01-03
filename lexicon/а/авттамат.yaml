@@ -4,7 +4,7 @@ ipa: avtːaˈmat
 tags: [n, loan, russian]
 forms:
   - text: авттамат
-    gloss: sg
+    gloss: nom
   - text: авттамате
     gloss: pl
 definitions:
@@ -14,3 +14,4 @@ definitions:
     tags: [tool, warfare]
     aliases:
       en: [gun]
+      ru: [пушка]

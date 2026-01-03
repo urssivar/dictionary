@@ -2,8 +2,8 @@ id: cjFNBqKLiyFPXoYTsm4H
 headword: ахсинекк
 ipa: aχsiˈnekː
 tags: [n]
-note:
-  en: '*синкка*'
+variants:
+  - text: синкка
 definitions:
   - translation:
       en: indigo
@@ -11,3 +11,4 @@ definitions:
     tags: [color]
     aliases:
       en: [dye, blue]
+      ru: [пигмент, синий]

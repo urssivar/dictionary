@@ -2,13 +2,14 @@ id: 8mbRqfrgMfov0nWr2Y7k
 headword: атте
 ipa: aˈtːe
 tags: [conj]
-note:
-  en: '*атти*'
+variants:
+  - text: атти
 definitions:
   - translation:
       en: really
       ru: разве
     examples:
-      - text: ила уцци ви у атте?
+      - text: Ила уцци ви у атте?
         translation:
-          en: do you realy have a brother?
+          en: Do you realy have a brother?
+          ru: У тебя разве есть брат?

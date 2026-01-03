@@ -1,16 +1,21 @@
 id: 3wgwN32czwW8wWIGkkR8
 headword: абал
 ipa: ˈabal
-tags: [conj, nmlz]
+tags: [conj, vb]
 etymology:
   en: From neg. cond. of *бирьора* "to be".
-note:
-  en: '*абиьолли*'
+  ru: Из отриц. услов. *бирьора* "быть".
+variants:
+  - text: абиьолли
 definitions:
   - translation:
       en: well then
       ru: ну тогда
+    aliases:
+      en: [okay, fine, if, so]
+      ru: [хорошо, ладно, если]
     examples:
       - text: абал вяьил акку
         translation:
           en: then not bad
+          ru: ну тогда неплохо

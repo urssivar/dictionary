@@ -4,11 +4,13 @@ ipa: abaˈba
 tags: [n]
 etymology:
   en: Lit. "mother-mother", cf. *аттаба* "paternal grandmother".
-note:
-  en: '*авба*, *бавба*'
+  ru: Букв. "мама-мама", ср. *аттаба* "бабушка по отцу".
+variants:
+  - text: авба
+  - text: бавба
 forms:
   - text: абаба
-    gloss: sg
+    gloss: nom
   - text: абабне
     gloss: pl
 definitions:

@@ -2,15 +2,17 @@ id: 8XsotvXd3ljVqr0rEBnJ
 headword: ач
 ipa: ˈatʃ
 tags: [adj, loan, turkic]
-note:
-  en: '*яч*'
+variants:
+  - text: яч
 definitions:
   - translation:
       en: open
       ru: открытый
     aliases:
       en: [unblock, access]
+      ru: [разблокировать, доступ]
     examples:
-      - text: уцца ач дара
+      - text: Уцца ач дара!
         translation:
-          en: open the door
+          en: Open the door!
+          ru: Открой двери!

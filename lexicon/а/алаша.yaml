@@ -4,12 +4,13 @@ ipa: alaˈʃa
 tags: [n]
 forms:
   - text: алаша
-    gloss: sg
+    gloss: nom
   - text: алашабе
     gloss: pl
 definitions:
   - translation:
       en: dwarf
-      ru: карликовый
+      ru: карлик
     aliases:
       en: [short]
+      ru: [низкий]

@@ -7,8 +7,10 @@ definitions:
       en: damn it!
       ru: блин!
     aliases:
-      en: [wtf]
+      en: [what the]
+      ru: [ничего себе]
     examples:
-      - text: аь-ьаьай ижин би пинцьа!
+      - text: Аь-ьаьай, ижин би пинцьа!
         translation:
-          en: wtf is all this trash!
+          en: Damn, all this trash!
+          ru: Блин, сколько здесь мусора!

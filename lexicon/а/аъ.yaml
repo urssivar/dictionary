@@ -2,13 +2,13 @@ id: geAOmnWc3xxCNYkHBOjj
 headword: аъ
 ipa: aʔ
 tags: [n]
-note:
-  en: |-
-    *яъ*, *аагула*
-    *кьавгула*
+variants:
+  - text: яъ
+  - text: аагула
+  - text: кьавгула
 forms:
   - text: аъ
-    gloss: sg
+    gloss: nom
   - text: аъбе
     gloss: pl
 definitions:

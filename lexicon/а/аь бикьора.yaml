@@ -1,7 +1,7 @@
 id: FhvbrcKBUCxu9GZdkZ5e
 headword: аь бикьора
 ipa: ˌah biˈkʼora
-tags: [v, intr, cls, phr]
+tags: [v, ntr, cls]
 forms:
   - text: аь бикьора
     gloss: ipfv
@@ -11,3 +11,4 @@ definitions:
       ru: недомогать
     aliases:
       en: [sick]
+      ru: [болеть]

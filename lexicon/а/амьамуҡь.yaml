@@ -4,7 +4,7 @@ ipa: amhaˈmuqʼ
 tags: [n]
 forms:
   - text: амьамуҡь
-    gloss: sg
+    gloss: nom
   - text: амьамуҡье
     gloss: pl
 definitions:
@@ -14,3 +14,4 @@ definitions:
     tags: [animal, insect]
     aliases:
       en: [bug]
+      ru: [жук]

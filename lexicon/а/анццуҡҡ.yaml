@@ -4,7 +4,7 @@ ipa: anˈtsːuqː
 tags: [n]
 forms:
   - text: анццуҡҡ
-    gloss: sg
+    gloss: nom
   - text: анццуҡҡе
     gloss: pl
 definitions:
@@ -13,3 +13,4 @@ definitions:
       ru: подколка
     aliases:
       en: [jest, joke, mock]
+      ru: [шутка, издёвка]

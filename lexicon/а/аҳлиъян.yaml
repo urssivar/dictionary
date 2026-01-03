@@ -2,11 +2,11 @@ id: fIMcXHNIfdA6D00TfOZO
 headword: аҳлиъян
 ipa: axliˈʔæn
 tags: [n]
-note:
-  en: '*аҳлиҡья*'
+variants:
+  - text: аҳлиҡья
 forms:
   - text: аҳлиъян
-    gloss: sg
+    gloss: nom
   - text: аҳлиъне
     gloss: pl
 definitions:

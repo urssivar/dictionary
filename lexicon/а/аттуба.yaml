@@ -1,13 +1,13 @@
 id: zOFYXYQcsN0D6CAmqG77
-headword: аттуба
-ipa: atːuˈba
+headword: аттаба
+ipa: atːaˈba
 tags: [n]
-note:
-  en: '*аттаба*'
-forms:
+variants:
   - text: аттуба
-    gloss: sg
-  - text: аттубне
+forms:
+  - text: аттаба
+    gloss: nom
+  - text: аттабне
     gloss: pl
 definitions:
   - translation:

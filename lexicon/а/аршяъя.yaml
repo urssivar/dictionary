@@ -1,12 +1,13 @@
 id: 5G9w7BOXyB8NE7TrA1xI
 headword: аршяъя
 ipa: arˈʃæʔæ
-tags: [n, nmlz]
+tags: [n, vb]
 etymology:
   en: From *ирҳара* "to reap", cf. *уттяъя* "mower".
+  ru: От *ирҳара* "жать", ср. *уттяъя* "косарь".
 forms:
   - text: аршяъя
-    gloss: sg
+    gloss: nom
   - text: аршяъне
     gloss: pl
 definitions:

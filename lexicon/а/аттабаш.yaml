@@ -4,9 +4,10 @@ ipa: atːaˈbaʃ
 tags: [n]
 note:
   en: ST2008
+  ru: ST2008
 forms:
   - text: аттабаш
-    gloss: sg
+    gloss: nom
   - text: аттабаше
     gloss: pl
 definitions:

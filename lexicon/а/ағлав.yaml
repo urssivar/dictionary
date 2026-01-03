@@ -2,11 +2,11 @@ id: sVnyX4VHiPP9ckSBzPHf
 headword: ағлав
 ipa: aʁˈlav
 tags: [n, loan]
-note:
-  en: '*ағлаба*'
+variants:
+  - text: ағлаба
 forms:
   - text: ағлав
-    gloss: sg
+    gloss: nom
   - text: ағлавте
     gloss: pl
 definitions:

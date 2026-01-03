@@ -4,7 +4,7 @@ ipa: aʃˈmag
 tags: [n]
 forms:
   - text: ашмаг
-    gloss: sg
+    gloss: nom
   - text: ашмаге
     gloss: pl
 definitions:
@@ -14,3 +14,4 @@ definitions:
     tags: [clothing]
     aliases:
       en: [hijab]
+      ru: [хиджаб]

@@ -10,4 +10,5 @@ definitions:
     examples:
       - text: абадла абад
         translation:
-          en: a long time ago
+          en: since a long time ago
+          ru: c давних времён

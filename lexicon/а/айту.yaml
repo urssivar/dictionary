@@ -4,7 +4,7 @@ ipa: ajˈtu
 tags: [n, loan]
 forms:
   - text: айту
-    gloss: sg
+    gloss: nom
   - text: айтубе
     gloss: pl
 definitions:
@@ -13,3 +13,4 @@ definitions:
       ru: легенда
     aliases:
       en: [story]
+      ru: [история]

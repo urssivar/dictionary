@@ -6,5 +6,3 @@ definitions:
   - translation:
       en: thousand
       ru: тысяча
-    aliases:
-      en: ['1000']

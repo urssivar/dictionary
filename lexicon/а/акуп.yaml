@@ -7,4 +7,5 @@ definitions:
       en: trench
       ru: траншея
     aliases:
-      en: [entrenchment, warfare]
+      en: [entrenchment]
+      ru: [окоп]

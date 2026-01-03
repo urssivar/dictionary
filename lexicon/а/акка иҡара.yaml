@@ -1,7 +1,7 @@
 id: rPiNLiZQUavmGCFWAwoI
 headword: акка иҡара
 ipa: aˌkːa iˈqara
-tags: [v, intr]
+tags: [v, ntr]
 forms:
   - text: акка аҡара
     gloss: pfv
@@ -15,3 +15,4 @@ definitions:
       ru: расходиться
     aliases:
       en: [part, leave]
+      ru: [расставаться, уходить]

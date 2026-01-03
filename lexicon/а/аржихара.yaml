@@ -4,6 +4,7 @@ ipa: arʒiˈχara
 tags: [v, tr]
 etymology:
   en: Caus. of *аргара* "to happen".
+  ru: Кауз. от *аргара* "случаться".
 forms:
   - text: ажихара
     gloss: pfv
@@ -15,6 +16,6 @@ definitions:
   - translation:
       en: to cause
       ru: вызывать
-    tags: []
     aliases:
       en: [bring, commit]
+      ru: [совершить]

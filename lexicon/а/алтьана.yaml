@@ -1,7 +1,7 @@
 id: P2HavzEU5kfbFlSFdtdm
 headword: алтьана
 ipa: alˈtʼana
-tags: [v, intr]
+tags: [v, ntr]
 forms:
   - text: атьана
     gloss: pfv
@@ -15,7 +15,9 @@ definitions:
       ru: втыкать
     aliases:
       en: [prick]
+      ru: [уколоть]
     examples:
-      - text: тьуппуй чахул атьун
+      - text: Тьуппуцци чахул атьун.
         translation:
-          en: a thorn stuck my finger
+          en: A thorn stuck into finger.
+          ru: Колючка воткнулась в палец.

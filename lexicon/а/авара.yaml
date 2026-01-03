@@ -1,7 +1,9 @@
 id: h1mRwCpiuBYdVVaN9Zga
 headword: авара
-ipa: aˈvara
+ipa: ˈavra
 tags: [n, loan]
+variants:
+  - text: авара
 definitions:
   - translation:
       en: bother
@@ -9,10 +11,12 @@ definitions:
     tags: [emotion]
     aliases:
       en: [interest, care]
+      ru: [интерес, забота]
     examples:
-      - text: дам авра бейкку ила дирантала
+      - text: Дами авра бейкку ила дирантала.
         translation:
-          en: it doesn't bother me what you do
+          en: It doesn't bother me what you do.
+          ru: Меня не беспокоют твои дела.
   - translation:
       en: chore
       ru: хлопота

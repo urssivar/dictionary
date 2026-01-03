@@ -3,17 +3,20 @@ headword: амъам
 ipa: amˈʔam
 tags: [n]
 definitions:
-  - note:
-      en: There's also *амъамчи* "stutterer".
-    translation:
+  - translation:
       en: stutter
       ru: заикание
     aliases:
       en: [stammer]
+    note:
+      en: There's also *амъамчи* "stutterer".
+      ru: Есть ещё *амъамчи* "заика".
     examples:
-      - text: амъам рикьул це
+      - text: Амъам рикьул це.
         translation:
-          en: she is stuttering
+          en: She is stuttering.
+          ru: Она заикается.
       - text: амъам ьижив
         translation:
-          en: he stuttered
+          en: He stuttered.
+          ru: Он заикнулся.

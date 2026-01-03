@@ -4,7 +4,7 @@ ipa: avˈlaqː
 tags: [n, loan]
 forms:
   - text: авлаҡҡ
-    gloss: sg
+    gloss: nom
   - text: авлаҡҡе
     gloss: pl
 definitions:
@@ -14,3 +14,4 @@ definitions:
     tags: [nature]
     aliases:
       en: [plain]
+      ru: [равнина]

@@ -1,7 +1,7 @@
 id: gDq3gCfpfLtZb3pQ1JRF
 headword: атьлас
 ipa: atʼˈlas
-tags: [n, loan]
+tags: [n, loan, arabic]
 definitions:
   - translation:
       en: atlas silk
@@ -9,3 +9,4 @@ definitions:
     tags: [textile]
     aliases:
       en: [silk]
+      ru: [шёлк]

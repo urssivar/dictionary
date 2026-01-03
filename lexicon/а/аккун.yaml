@@ -4,18 +4,22 @@ ipa: ˈakːun
 tags: [adv]
 etymology:
   en: Related to *аккор* "without".
-note:
-  en: '*аккон*, *аккод*'
+  ru: Связано с *аккор* "без".
+variants:
+  - text: аккол
 definitions:
   - translation:
       en: except
       ru: кроме
     aliases:
       en: [only, but]
+      ru: [лишь, без]
     examples:
-      - text: уцци аккун чил-ра кумек абарив
+      - text: Уцци аккун чил-ра кумек абарив.
         translation:
-          en: no one helped except for brother
-      - text: ца ҡьвял аккун бейкку
+          en: No one helped except for brother.
+          ru: Никто не помог кроме брата.
+      - text: Ца ҡьвял аккун бейкку.
         translation:
-          en: there's but a single cow
+          en: There's but a single cow.
+          ru: Есть лишь одна корова.

@@ -2,8 +2,8 @@ id: NC2eqONayhyx8FaoeMeu
 headword: арғ
 ipa: ˈarʁ
 tags: [n]
-note:
-  en: '*ерғ*'
+variants:
+  - text: ерғ
 definitions:
   - translation:
       en: weather
@@ -14,7 +14,9 @@ definitions:
       ru: сезон
     aliases:
       en: [time]
+      ru: [время]
     examples:
       - text: ца арғла
         translation:
           en: contemporary
+          ru: современный

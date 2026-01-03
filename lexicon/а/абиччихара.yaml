@@ -4,6 +4,7 @@ ipa: abitʃːiˈχara
 tags: [v, cls, tr]
 etymology:
   en: Neg. of *биччихара* "to love".
+  ru: Отриц. от *биччихара* "любить".
 forms:
   - text: абиччихара
     gloss: ipfv
@@ -13,3 +14,4 @@ definitions:
       ru: ненавидеть
     aliases:
       en: [dislike, hate]
+      ru: [нелюбить]

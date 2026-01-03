@@ -4,9 +4,10 @@ ipa: ˈaqre
 tags: [n]
 etymology:
   en: From *иҡара* "to pass".
+  ru: От *иҡара* "проходить".
 forms:
   - text: аҡре
-    gloss: sg
+    gloss: nom
   - text: аҡунде
     gloss: pl
 definitions:
@@ -15,3 +16,4 @@ definitions:
       ru: вход
     aliases:
       en: [passage]
+      ru: [проход]

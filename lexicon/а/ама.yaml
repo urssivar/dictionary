@@ -5,6 +5,7 @@ tags: [conj, loan, arabic]
 definitions:
   - translation:
       en: but
-      ru: но, а
+      ru: но
     aliases:
       en: [though, and]
+      ru: [хотя, а]

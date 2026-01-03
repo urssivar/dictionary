@@ -4,7 +4,7 @@ ipa: anˈtsʼen
 tags: [n]
 forms:
   - text: анцьен
-    gloss: sg
+    gloss: nom
   - text: анцьенте
     gloss: pl
 definitions:
@@ -14,3 +14,4 @@ definitions:
     tags: [animal, house]
     aliases:
       en: [calf]
+      ru: [телёнок]

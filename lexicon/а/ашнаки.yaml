@@ -4,7 +4,7 @@ ipa: aʃnaˈki
 tags: [n, loan, persian]
 forms:
   - text: ашнаки
-    gloss: sg
+    gloss: nom
   - text: ашникне
     gloss: pl
 definitions:
@@ -13,3 +13,4 @@ definitions:
       ru: приятель
     aliases:
       en: [friend]
+      ru: [друг]

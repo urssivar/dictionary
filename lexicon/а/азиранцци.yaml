@@ -4,13 +4,16 @@ ipa: aˈzirantsːi
 tags: [adv]
 etymology:
   en: From *азир* "thousand".
+  ru: От *азир* "тысяча".
 definitions:
   - translation:
       en: in great numbers
       ru: в великом множестве
     aliases:
       en: [all]
+      ru: [все]
     examples:
       - text: азиранцци вейкку
         translation:
-          en: no [such one] among innumerable [others] (i.e. the only such)
+          en: no [such one] among innumerable [others]
+          ru: нет [такого] среди тысяч [других]

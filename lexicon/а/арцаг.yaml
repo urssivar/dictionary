@@ -2,11 +2,12 @@ id: uVRZVYnrZTK70ISAl7Vr
 headword: арцаг
 ipa: arˈtsag
 tags: [n]
-note:
-  en: '*арславул*, *арсавккаг*'
+variants:
+  - text: арславул
+  - text: арсавккаг
 forms:
   - text: арцаг
-    gloss: sg
+    gloss: nom
   - text: арцаге
     gloss: pl
 definitions:

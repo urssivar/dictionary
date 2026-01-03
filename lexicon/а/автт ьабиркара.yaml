@@ -1,7 +1,7 @@
 id: 3DjAQxYp1fg83udxSBwR
 headword: автт ьабиркара
 ipa: ˌavtː habirˈkara
-tags: [v, intr, phr, cls]
+tags: [v, ntr, cls]
 forms:
   - text: автт ьабикара
     gloss: pfv
@@ -16,3 +16,4 @@ definitions:
     tags: [social]
     aliases:
       en: [feud]
+      ru: [враждовать]

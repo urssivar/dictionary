@@ -4,9 +4,10 @@ ipa: aˈʒuʁ
 tags: [n, loan, turkic]
 etymology:
   en: From Azerbaijani *acıq* "spite".
+  ru: От азербайджанского *acıq* "злоба".
 forms:
   - text: ажуғ
-    gloss: sg
+    gloss: nom
   - text: ажуғе
     gloss: pl
 definitions:
@@ -15,3 +16,4 @@ definitions:
       ru: злоба
     aliases:
       en: [hate, rancor, malice]
+      ru: [ненависть, гнев, злость]

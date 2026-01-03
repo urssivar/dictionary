@@ -1,11 +1,12 @@
 id: dEfPtGMSBObTKPjWLp2A
 headword: анкь кабиргара
 ipa: ˌankʼ kabirˈgara
-tags: [v, intr, cls, phr]
+tags: [v, ntr, cls]
 etymology:
   en: The first part is related to *анкьала* "sleep".
-note:
-  en: '*чибусана*'
+  ru: Первая часть связана с *анкьала* "сон".
+variants:
+  - text: чибусана
 forms:
   - text: анкь кабигара
     gloss: pfv
@@ -19,3 +20,4 @@ definitions:
       ru: кимарить
     aliases:
       en: [sleep]
+      ru: [спать]

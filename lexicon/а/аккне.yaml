@@ -4,13 +4,16 @@ ipa: ˈakːne
 tags: [n]
 etymology:
   en: Likely the msd. of the origin verb of *аккор* "lacking".
+  ru: Вероятно масдар от глагола *аккор* "не имеющий".
 definitions:
   - translation:
       en: absence
       ru: отсутствие
     aliases:
       en: [lack]
+      ru: [нехватка]
     examples:
-      - text: атта ҡил аккне абаьурда
+      - text: Атта ҡил аккне абаьурда.
         translation:
-          en: i didn't know that father is not home
+          en: I did not know father is not home.
+          ru: Я не знал, что отец не дома.

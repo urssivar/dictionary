@@ -4,7 +4,7 @@ ipa: aˈχːal
 tags: [n]
 forms:
   - text: ахал
-    gloss: sg
+    gloss: nom
   - text: ахле
     gloss: pl
 definitions:
@@ -13,3 +13,4 @@ definitions:
       ru: гость
     aliases:
       en: [visitor]
+      ru: [посетитель]

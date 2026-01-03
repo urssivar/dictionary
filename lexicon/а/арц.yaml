@@ -4,7 +4,7 @@ ipa: ˈarts
 tags: [n]
 forms:
   - text: арц
-    gloss: sg
+    gloss: nom
   - text: арцре
     gloss: pl
 definitions:
@@ -12,9 +12,10 @@ definitions:
       en: money
       ru: деньги
     tags: [social]
-  - note:
-      en: Also *цьябарц*.
-    translation:
+  - translation:
       en: silver
       ru: серебро
     tags: [nature, metal]
+    note:
+      en: Also *цьябарц*.
+      ru: Также *цьябарц*.

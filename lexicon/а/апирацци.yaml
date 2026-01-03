@@ -4,7 +4,7 @@ ipa: apiˈratsːi
 tags: [n, loan, russian]
 forms:
   - text: апирацци
-    gloss: sg
+    gloss: nom
   - text: апираццибе
     gloss: pl
 definitions:
@@ -13,3 +13,4 @@ definitions:
       ru: операция
     aliases:
       en: [procedure]
+      ru: [процедура]

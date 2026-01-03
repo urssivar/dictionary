@@ -4,7 +4,7 @@ ipa: aχˈran
 tags: [n, loan, russian]
 forms:
   - text: ахран
-    gloss: sg
+    gloss: nom
   - text: ахранте
     gloss: pl
 definitions:
@@ -13,3 +13,4 @@ definitions:
       ru: охранник
     aliases:
       en: [watch]
+      ru: [дозор]

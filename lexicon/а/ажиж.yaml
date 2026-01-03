@@ -1,7 +1,7 @@
 id: gvu1Tu5OylNtjzs5f4WD
 headword: ажиж
 ipa: aˈʒiʒ
-tags: [adj, nmlz]
+tags: [adj, vb]
 etymology:
   en: Hyp. of *аргара* "to happen".
 definitions:
@@ -10,7 +10,9 @@ definitions:
       ru: вероятный
     aliases:
       en: [likely]
+      ru: [возможный]
     examples:
-      - text: ижал марка ажижле це
+      - text: Ижал марка ажижле це.
         translation:
-          en: possible rain today
+          en: Possible rain today.
+          ru: Сегодня возможен дождь.

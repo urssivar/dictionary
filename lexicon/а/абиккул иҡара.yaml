@@ -1,7 +1,7 @@
 id: d8YtVP7i7A0O4cwN8bth
 headword: абиккул иҡара
 ipa: ˌabikːul iˈqara
-tags: [v, intr, phr]
+tags: [v, ntr]
 forms:
   - text: абиккул аҡара
     gloss: pfv
@@ -15,8 +15,10 @@ definitions:
       ru: оскорбляться
     aliases:
       en: [hurt, insult]
+      ru: [обидеться, оскорбить]
   - translation:
       en: to get upset
       ru: огорчаться
     aliases:
       en: [upset]
+      ru: [расстроиться]

@@ -4,14 +4,16 @@ ipa: ˈakːre
 tags: [n]
 etymology:
   en: Related to *аккор* "absent".
+  ru: Связано с *аккор* "отсутствующий".
 forms:
   - text: аккре
-    gloss: sg
+    gloss: nom
   - text: аккунде
     gloss: pl
 definitions:
   - translation:
       en: nonsence
-      ru: нонсенс, клевета
+      ru: клевета
     aliases:
       en: [fiction]
+      ru: [неправда]

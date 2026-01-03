@@ -4,6 +4,7 @@ ipa: abarˈtara
 tags: [v, tr, cls]
 etymology:
   en: Neg. of *бартара* "to let".
+  ru: Отриц. от *бартара* "давать, оставлять".
 forms:
   - text: абатара
     gloss: pfv
@@ -17,10 +18,12 @@ definitions:
       ru: изводить
     aliases:
       en: [attack, bother, pester]
+      ru: [атаковать, донимать, досаждать]
     examples:
-      - text: чикнал тьутьи адартар
+      - text: Чикнал нисала тьутьи адартар.
         translation:
-          en: the sparrows harass our grapes
+          en: The sparrows harass our grapes.
+          ru: Воробьи изводят наш виноград.
   - translation:
       en: to prevent
       ru: предотвращать

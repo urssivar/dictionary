@@ -7,6 +7,7 @@ definitions:
       en: oh
       ru: ох
     examples:
-      - text: аь ьеж марка
+      - text: Аь, ьеж марка!
         translation:
-          en: oh this rain
+          en: Oh, this rain!
+          ru: Ох, этот дождь!

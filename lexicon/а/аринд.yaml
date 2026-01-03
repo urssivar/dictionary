@@ -2,11 +2,12 @@ id: wRLyC9rPKaqg6FBBeIQR
 headword: аринд
 ipa: aˈrind
 tags: [n, loan, russian]
-note:
-  en: '*ижара*/*ижарме* from Ar.'
+variants:
+  - text: ижар
 definitions:
   - translation:
       en: rent
       ru: аренда
     aliases:
       en: [lease]
+      ru: [заём]

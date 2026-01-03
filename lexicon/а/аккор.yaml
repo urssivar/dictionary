@@ -7,6 +7,7 @@ definitions:
       en: not being
       ru: не будучи
     examples:
-      - text: уба ҡил аккор ҡҡел мацятте
+      - text: Уба ҡил аккор ҡҡел мацятте.
         translation:
-          en: don't come when mother isn't home
+          en: Don't come when mother is not home there.
+          ru: Не приходи когда мама не дома.

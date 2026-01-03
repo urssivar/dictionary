@@ -2,10 +2,9 @@ id: PqLvSrNhti5MxDYLNOoC
 headword: арбиш
 ipa: arˈbiʃ
 tags: [n]
-note:
-  en: |-
-    ### Variants
-    *авриш*, *арша*
+variants:
+  - text: авриш
+  - text: арша
 definitions:
   - translation:
       en: halva

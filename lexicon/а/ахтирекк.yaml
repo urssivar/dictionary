@@ -3,10 +3,11 @@ headword: ахтирекк
 ipa: aχtiˈrekː
 tags: [n, loan, turkic]
 note:
-  en: '*шан ахтирекк*, *цьяв ахтирекк*'
+  en: "There're also *шан ахтирекк*, *цьяв ахтирекк*."
+  ru: "Есть также *шан ахтирекк*, *цьяв ахтирекк*."
 forms:
   - text: ахтирекк
-    gloss: sg
+    gloss: тщь
   - text: ахтирекке
     gloss: pl
 definitions:
@@ -14,5 +15,3 @@ definitions:
       en: poplar
       ru: тополь
     tags: [nature, plant, tree]
-    aliases:
-      en: [poplar]

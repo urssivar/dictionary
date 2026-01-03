@@ -2,16 +2,18 @@ id: jideQD8LBynxuI3YYilb
 headword: аьи
 ipa: ˈahi
 tags: [n]
-note:
-  en: '*биса-ҡвяса*'
+variants:
+  - text: биса-ҡвяса
 definitions:
   - translation:
       en: weep
-      ru: плач
+      ru: рыдание
     tags: [emotion]
     aliases:
       en: [mourn, cry, sob]
+      ru: [оплакивать, плакать, сопеть]
     examples:
-      - text: аьи рикьул ри
+      - text: Аьи рикьул ри.
         translation:
-          en: she is sobbing
+          en: She is weeping.
+          ru: Она рыдает.

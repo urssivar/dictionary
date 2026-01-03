@@ -2,8 +2,8 @@ id: Vj9kxFNlWXHKhBSgIJNb
 headword: ахир
 ipa: aˈχir
 tags: [n, loan, arabic]
-note:
-  en: '*яхир*'
+variants:
+  - text: яхир
 definitions:
   - translation:
       en: end

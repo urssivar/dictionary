@@ -4,7 +4,7 @@ ipa: ˈare
 tags: [n]
 forms:
   - text: аре
-    gloss: sg
+    gloss: nom
   - text: арин
     gloss: obl
 definitions:
@@ -13,3 +13,4 @@ definitions:
       ru: власть
     aliases:
       en: [influence, rule, power]
+      ru: [влияние, повелевание, сила]

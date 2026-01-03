@@ -4,7 +4,7 @@ ipa: anˈkʼala
 tags: [n]
 forms:
   - text: анкьала
-    gloss: sg
+    gloss: nom
   - text: анкьле
     gloss: obl
   - text: анкьлиппе
@@ -15,7 +15,9 @@ definitions:
       ru: сон
     aliases:
       en: [nap]
+      ru: [дремота]
     examples:
       - text: анкьала барив
         translation:
           en: got some sleep
+          ru: поспал

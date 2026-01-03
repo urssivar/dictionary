@@ -1,9 +1,10 @@
 id: UyNyIj9PbRrkC4uEggy4
 headword: аккор
 ipa: aˈkːor
-tags: [adj, nmlz]
+tags: [adj, vb]
 etymology:
   en: Habitual present of verb **аккора*, which is not retained. Semantically corresponds to English -les.
+  ru: Настоящее общее от несохранившего глагола **аккора*.
 forms:
   - text: аккор
     gloss: adj
@@ -12,25 +13,29 @@ forms:
 definitions:
   - translation:
       en: without
-      ru: без, не имеющий
+      ru: не имеющий
     aliases:
       en: [missing, lacking, les]
     examples:
       - text: ирхе аккор
         translation:
           en: fearles
-      - text: арц аккол мавятт
+          ru: бесстрашный
+      - text: Арц аккол мавятте.
         translation:
-          en: don't go without money
+          en: Don't go without money.
+          ru: Без денег не иди.
       - text: лякко
         translation:
-          en: ear-les (cattle nickname)
+          en: ear-les (nickname)
+          ru: безухий (кличка)
   - translation:
       en: absent
       ru: отсутствующий
     aliases:
       en: [missing]
     examples:
-      - text: аккортай ра бурса
+      - text: Аккортай ра бурса.
         translation:
-          en: tell to the absent ones too
+          en: Tell to the absent ones too.
+          ru: Расскажи и тем, кто отсутствует

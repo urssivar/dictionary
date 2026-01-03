@@ -1,7 +1,7 @@
 id: co1C57j8RpJ6PeAu8MBh
 headword: алав цикара
 ipa: aˌlav tsiˈkara
-tags: [v, tr, phr]
+tags: [v, tr]
 forms:
   - text: алав цакара
     gloss: pfv
@@ -15,7 +15,9 @@ definitions:
       ru: подводить
     aliases:
       en: [steer, influence]
+      ru: [направлять, влиять]
     examples:
-      - text: ихтилат баживцци алав цачив
+      - text: Ихтилат баживцци алав цачив.
         translation:
-          en: navigated the conversation to where needed
+          en: Navigated the conversation to where was needed.
+          ru: Подвёл разговор куда надо было.

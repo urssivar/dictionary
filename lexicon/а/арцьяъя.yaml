@@ -1,12 +1,13 @@
 id: ilULTmo8i3LUJM6NMEBr
 headword: арцьяъя
 ipa: artsʼæˈʔæ
-tags: [n, nmlz]
+tags: [n, vb]
 etymology:
   en: From *ирцьара* "to weed", cf. *уттяъя* "mower".
+  ru: От *ирцьара* "полоть", ср. *уттяъя* "косарь".
 forms:
   - text: арцьяъя
-    gloss: sg
+    gloss: nom
   - text: арцьяъне
     gloss: pl
 definitions:

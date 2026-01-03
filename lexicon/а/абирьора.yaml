@@ -1,9 +1,10 @@
 id: FbSm8ELH0qpZNLIJ31Zr
 headword: абирьора
 ipa: abirˈhora
-tags: [v, cls, intr]
+tags: [v, cls, ntr]
 etymology:
   en: Neg. of *вирьора* "to be able".
+  ru: Отриц. от *вирьора* "мочь".
 forms:
   - text: абирьора
     gloss: ipfv
@@ -13,3 +14,4 @@ definitions:
       ru: хворать
     aliases:
       en: [sick, ail]
+      ru: [болеть, недуг]

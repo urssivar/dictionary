@@ -1,7 +1,7 @@
 id: I1CQfM84ng73Jiqhu6qy
 headword: акабурхан
 ipa: akaburˈχan
-tags: [adj, nmlz, cls]
+tags: [adj, vb, cls]
 etymology:
   en: Neg. obl. of *кабурхара* in the sense "to complete".
 forms:
@@ -15,7 +15,9 @@ definitions:
       ru: нескончаемый
     aliases:
       en: [endless]
+      ru: [бесконечный]
     examples:
-      - text: акабурхан яче
+      - text: акабурхан ячу
         translation:
           en: unending work
+          ru: нескончаемая работа

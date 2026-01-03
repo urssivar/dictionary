@@ -1,7 +1,7 @@
 id: NXtyH5xF4VIYTprO8viE
 headword: алав ьабиргара
 ipa: aˌlav habirˈgara
-tags: [v, phr, cls, intr]
+tags: [v, cls, ntr]
 forms:
   - text: алав ьабигара
     gloss: pfv
@@ -12,6 +12,7 @@ forms:
 definitions:
   - translation:
       en: to rally
-      ru: собираться, сплачиваться
+      ru: сплачиваться
     aliases:
       en: [gather, congregate]
+      ru: [собираться, сойтись]

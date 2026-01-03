@@ -2,11 +2,14 @@ id: nGynxkGgjEPvDfvUgJ3G
 headword: азай
 ipa: aˈzaj
 tags: [n]
-note:
-  en: '*абизи*, *абазай*, *абайцци*, *аттазай*'
+variants:
+  - text: абизи
+  - text: абазай
+  - text: абайцци
+  - text: аттазай
 forms:
   - text: азай
-    gloss: sg
+    gloss: nom
   - text: азайхал
     gloss: pl
 definitions:

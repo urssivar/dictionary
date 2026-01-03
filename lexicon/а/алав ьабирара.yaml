@@ -1,7 +1,7 @@
 id: xbkDpEtFdlu2S7ffvK9p
 headword: алав ьабирара
 ipa: aˌlav habiˈrara
-tags: [v, phr, cls, tr]
+tags: [v, cls, tr]
 forms:
   - text: алав ьабарара
     gloss: pfv
@@ -15,3 +15,4 @@ definitions:
       ru: окутывать
     aliases:
       en: [enclose, wrap]
+      ru: [обволакивать, заворачивать]

@@ -4,24 +4,27 @@ ipa: ˈakːu
 tags: [cop]
 etymology:
   en: Habitual of **аккора*, see *аккор*. The past tense's form developed from *аккви* > *аччви* > *аччу*.
-note:
-  en: '*аккура* (3)'
+  ru: Настоящее общее от **аккора*, см. *аккор*. Форма прошедшего времени развивалась как *аккви* > *аччви* > *аччу*.
+variants:
+  - text: аккура
+    gloss: "3"
 forms:
   - text: аккоде
-    gloss: '1'
+    gloss: "1"
   - text: аккотте
     gloss: 2 sg
   - text: аккотта
     gloss: 2 pl
   - text: акку
-    gloss: '3'
+    gloss: "3"
   - text: аччу
     gloss: pst
 definitions:
   - translation:
       en: not
-      ru: не, нет
+      ru: не
     examples:
-      - text: ьел тухтур акку
+      - text: Бел тухтур акку.
         translation:
-          en: he is not a doctor
+          en: He's not a doctor.
+          ru: Он не доктор.

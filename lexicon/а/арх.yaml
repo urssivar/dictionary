@@ -4,7 +4,7 @@ ipa: ˈarχ
 tags: [n]
 forms:
   - text: арх
-    gloss: sg
+    gloss: nom
   - text: ирхре
     gloss: pl
 definitions:
@@ -13,3 +13,4 @@ definitions:
       ru: колея
     aliases:
       en: [furrow, ditch]
+      ru: [борозда, канава]

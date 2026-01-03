@@ -10,7 +10,7 @@ definitions:
       en: [and]
       ru: [но]
     examples:
-      - text: дул ьеж биранда, а ил ьел бара
+      - text: Дул ьеж биранда, а ил ьел бара.
         translation:
           en: I will do this, and you do that.
           ru: Я сделаю это, а ты сделай то.

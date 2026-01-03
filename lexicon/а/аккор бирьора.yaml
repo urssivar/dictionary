@@ -1,7 +1,7 @@
 id: M4LGxTglh8oEwsrk0bwd
 headword: аккор бирьора
 ipa: aˌkːor birˈhora
-tags: [v, intr, cls]
+tags: [v, ntr, cls]
 forms:
   - text: аккор биьора
     gloss: pfv
@@ -15,3 +15,4 @@ definitions:
       ru: вымирать
     aliases:
       en: [die]
+      ru: [исчезать]

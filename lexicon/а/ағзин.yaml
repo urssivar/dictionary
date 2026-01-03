@@ -4,7 +4,7 @@ ipa: aʁˈzin
 tags: [n, loan]
 forms:
   - text: ағзин
-    gloss: abs
+    gloss: nom
   - text: ағзинте
     gloss: pl
 definitions:
@@ -14,3 +14,4 @@ definitions:
     tags: [social]
     aliases:
       en: [quitter]
+      ru: [лентяй]

@@ -8,7 +8,9 @@ definitions:
       ru: писк
     aliases:
       en: [peep, beep]
+      ru: [пик]
     examples:
-      - text: ант аҡара аватур
+      - text: ант аҡара ра аватур
         translation:
-          en: didn't even let him make a sound
+          en: didn't let him even make a sound
+          ru: не дал даже пикнуть
