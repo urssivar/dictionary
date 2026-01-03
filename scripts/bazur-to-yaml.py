@@ -19,7 +19,8 @@ class InlineListDumper(yaml.SafeDumper):
 def represent_list(dumper, data):
     """Simple lists (scalars only) in flow style, complex lists in block style."""
     # Use flow style only for lists of scalars (like tags)
-    is_simple = all(isinstance(item, (str, int, float, bool, type(None))) for item in data)
+    is_simple = all(isinstance(item, (str, int, float, bool, type(None)))
+                    for item in data)
     return dumper.represent_sequence('tag:yaml.org,2002:seq', data, flow_style=is_simple)
 
 
@@ -132,7 +133,8 @@ def extract_etymology(text):
             section = 'other'
         elif section == 'origin' and line:
             if line.startswith('Ru: ') or line.startswith('Ru:'):
-                etym_ru.append(line[4:] if line.startswith('Ru: ') else line[3:])
+                etym_ru.append(line[4:] if line.startswith(
+                    'Ru: ') else line[3:])
             else:
                 etym_en.append(line)
         elif section == 'other' and line:
@@ -257,18 +259,19 @@ def main():
 
         with open(letter_dir / filename, 'w', encoding='utf-8') as f:
             yaml.dump(converted, f,
-                     Dumper=InlineListDumper,
-                     allow_unicode=True,
-                     default_flow_style=None,
-                     sort_keys=False,
-                     width=float('inf'))
+                      Dumper=InlineListDumper,
+                      allow_unicode=True,
+                      default_flow_style=None,
+                      sort_keys=False,
+                      width=float('inf'))
 
     print(f"Converted {len(data)} entries to {lexicon_dir}/")
-    print(f"Found {sum(1 for c in headword_counts.values() if c > 1)} homonym sets")
+    print(
+        f"Found {sum(1 for c in headword_counts.values() if c > 1)} homonym sets")
 
     # Stats
     letter_counts = {d.name: len(list(d.glob('*.yaml')))
-                    for d in lexicon_dir.iterdir() if d.is_dir()}
+                     for d in lexicon_dir.iterdir() if d.is_dir()}
     print("\nEntries per letter:")
     for letter in sorted(letter_counts.keys()):
         print(f"  {letter}: {letter_counts[letter]}")

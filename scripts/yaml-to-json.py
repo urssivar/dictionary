@@ -105,7 +105,8 @@ def mark_stress(entry, vowels):
                 # Vowel not found, return original
                 return entry['headword']
             if needs_stress:
-                headword = headword[:i_vowel + 1] + '\u0301' + headword[i_vowel + 1:]
+                headword = headword[:i_vowel + 1] + \
+                    '\u0301' + headword[i_vowel + 1:]
                 i_vowel += 1
                 needs_stress = False
 
@@ -232,7 +233,8 @@ def convert_entry(yaml_entry, vowels, tag_map):
 
 def create_tokenizer(alphabet_tokens):
     """Create a tokenizer function for sorting."""
-    letter_order = {letter: i for i, letter in enumerate(['-', ' '] + alphabet_tokens)}
+    letter_order = {letter: i for i, letter in enumerate(
+        ['-', ' '] + alphabet_tokens)}
 
     def tokenize(word):
         i = 0
@@ -307,7 +309,8 @@ def main():
                     total_entries += 1
                 else:
                     skipped_entries += 1
-                    print(f"Warning: Skipped {yaml_file.name} (missing required fields)")
+                    print(
+                        f"Warning: Skipped {yaml_file.name} (missing required fields)")
 
             except Exception as e:
                 skipped_entries += 1
