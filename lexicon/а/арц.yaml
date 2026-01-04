@@ -16,6 +16,6 @@ definitions:
       en: silver
       ru: серебро
     tags: [nature, metal]
-    note:
-      en: Also *цьябарц*.
-      ru: Также *цьябарц*.
+note:
+  en: Also *цьябарц*.
+  ru: Также *цьябарц*.

@@ -8,9 +8,6 @@ definitions:
       ru: заикание
     aliases:
       en: [stammer]
-    note:
-      en: There's also *амъамчи* "stutterer".
-      ru: Есть ещё *амъамчи* "заика".
     examples:
       - text: Амъам рикьул це.
         translation:
@@ -20,3 +17,6 @@ definitions:
         translation:
           en: He stuttered.
           ru: Он заикнулся.
+note:
+  en: There's also *амъамчи* "stutterer".
+  ru: Есть ещё *амъамчи* "заика".

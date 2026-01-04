@@ -119,10 +119,6 @@
               }
             }
           },
-          "note": {
-            "$ref": "#/definitions/bilingualText",
-            "description": "Notes specific to this definition"
-          },
           "examples": {
             "type": "array",
             "items": {
