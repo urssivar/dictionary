@@ -74,6 +74,9 @@
       "minItems": 1,
       "items": {
         "type": "object",
+        "required": [
+          "translation"
+        ],
         "properties": {
           "translation": {
             "$ref": "#/definitions/bilingualText",
