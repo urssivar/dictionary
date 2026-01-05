@@ -2,12 +2,9 @@ id: tkZ5jGKiyUr5CcPe4M1s
 headword: ахтирекк
 ipa: aχtiˈrekː
 tags: [n, loan, turkic]
-note:
-  en: "There're also *шан ахтирекк*, *цьяв ахтирекк*."
-  ru: "Есть также *шан ахтирекк*, *цьяв ахтирекк*."
 forms:
   - text: ахтирекк
-    gloss: тщь
+    gloss: nom
   - text: ахтирекке
     gloss: pl
 definitions:
@@ -15,3 +12,6 @@ definitions:
       en: poplar
       ru: тополь
     tags: [nature, plant, tree]
+note:
+  en: Also used in compounds *шан ахтирекк*, *цьяв ахтirекк* for specific poplar species.
+  ru: Также используется в сложениях *шан ахтирекк*, *цьяв ахтirекк* для конкретных видов тополя.

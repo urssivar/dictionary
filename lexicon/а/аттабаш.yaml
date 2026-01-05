@@ -2,9 +2,6 @@ id: 93k9l8pUfIaGlhnr4Ot7
 headword: аттабаш
 ipa: atːaˈbaʃ
 tags: [n]
-note:
-  en: ST2008
-  ru: ST2008
 forms:
   - text: аттабаш
     gloss: nom
@@ -15,3 +12,4 @@ definitions:
       en: cricket
       ru: сверчок
     tags: [animal, insect]
+source: temirbulatova2004

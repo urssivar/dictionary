@@ -2,9 +2,6 @@ id: zXPlPKSRavp4tcQlpaUv
 headword: аргара
 ipa: arˈgara
 tags: [v, ntr]
-note:
-  en: There seems to be also *алгана/агана* with related meaning "to plan".
-  ru: Кажется, что есть ещё *алгана/агана* со смыслом "планироваь".
 forms:
   - text: агара
     gloss: pfv
@@ -19,3 +16,6 @@ definitions:
     aliases:
       en: [become]
       ru: [стать]
+note:
+  en: There seems to be also *алгана/агана* with related meaning "to plan".
+  ru: Кажется, что есть ещё *алгана/агана* со смыслом "планироваь".
