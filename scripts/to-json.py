@@ -318,9 +318,9 @@ def create_tokenizer(alphabet, alphabet_tokens):
 
 
 def main():
-    # Default output to data/dictionary2.json if not specified
+    # Default output to data/dictionary.json if not specified
     if len(sys.argv) < 2:
-        output_file = Path(__file__).parent.parent / 'data' / 'dictionary2.json'
+        output_file = Path(__file__).parent.parent / 'data' / 'dictionary.json'
     else:
         output_file = sys.argv[1]
 
