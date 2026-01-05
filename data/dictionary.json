@@ -71,8 +71,8 @@
         "бавба"
       ],
       "etymology": {
-        "en": "Lit. \"mother-mother\", cf. *аттаба* \"paternal grandmother\".",
-        "ru": "Букв. \"мама-мама\", ср. *аттаба* \"бабушка по отцу\"."
+        "en": "Reduplication of *аба* \"mother\" (cf. *аттаба* \"paternal grandmother\")",
+        "ru": "Редупликация *аба* \"мама\" (ср. *аттаба* \"бабушка по отцу\")"
       }
     },
     {
@@ -147,8 +147,8 @@
         "абиьолли"
       ],
       "etymology": {
-        "en": "From neg. cond. of *бирьора* \"to be\".",
-        "ru": "Из отриц. услов. *бирьора* \"быть\"."
+        "en": "Contracted from *абиьолли*, the negative conditional of *бирьора* \"to be\".",
+        "ru": "Сокращение от *абиьолли*, отрицательной условной формы *бирьора* \"быть\"."
       }
     },
     {
@@ -585,53 +585,6 @@
       ]
     },
     {
-      "id": "h1mRwCpiuBYdVVaN9Zga",
-      "headword": "а́вара",
-      "ipa": "ˈavra",
-      "tags": [
-        {
-          "en": "n",
-          "ru": "сущ."
-        }
-      ],
-      "definitions": [
-        {
-          "translation": {
-            "en": "bother",
-            "ru": "бейспокойство"
-          },
-          "examples": [
-            {
-              "text": "Дами авра бейкку ила дирантала.",
-              "translation": {
-                "en": "It doesn't bother me what you do.",
-                "ru": "Меня не беспокоют твои дела."
-              }
-            }
-          ],
-          "aliases": {
-            "en": [
-              "interest",
-              "care"
-            ],
-            "ru": [
-              "интерес",
-              "забота"
-            ]
-          }
-        },
-        {
-          "translation": {
-            "en": "chore",
-            "ru": "хлопота"
-          }
-        }
-      ],
-      "variants": [
-        "авара"
-      ]
-    },
-    {
       "id": "8mqeU49w8ZiL2o1RlYTh",
       "headword": "авғу́с",
       "ipa": "avˈʁus",
@@ -805,6 +758,53 @@
       "etymology": {
         "en": "From Arabic *أولياء* in the original meaning \"the beloved of God\"."
       }
+    },
+    {
+      "id": "h1mRwCpiuBYdVVaN9Zga",
+      "headword": "а́вра",
+      "ipa": "ˈavra",
+      "tags": [
+        {
+          "en": "n",
+          "ru": "сущ."
+        }
+      ],
+      "definitions": [
+        {
+          "translation": {
+            "en": "bother",
+            "ru": "бейспокойство"
+          },
+          "examples": [
+            {
+              "text": "Дами авра бейкку ила дирантала.",
+              "translation": {
+                "en": "It doesn't bother me what you do.",
+                "ru": "Меня не беспокоют твои дела."
+              }
+            }
+          ],
+          "aliases": {
+            "en": [
+              "interest",
+              "care"
+            ],
+            "ru": [
+              "интерес",
+              "забота"
+            ]
+          }
+        },
+        {
+          "translation": {
+            "en": "chore",
+            "ru": "хлопота"
+          }
+        }
+      ],
+      "variants": [
+        "авара"
+      ]
     },
     {
       "id": "OBMlPh7sBpAupvhtQOHn",
@@ -2606,11 +2606,7 @@
             "ru": "Бухара"
           }
         }
-      ],
-      "note": {
-        "en": "ST2008",
-        "ru": "ST2008"
-      }
+      ]
     },
     {
       "id": "4HHeHa2ENdzyDzOVREt0",
@@ -4121,7 +4117,11 @@
       ],
       "variants": [
         "аттуба"
-      ]
+      ],
+      "etymology": {
+        "en": "Compound of *атта* \"father\" + *аба* \"mother\" (cf. *абаба* \"maternal grandmother\").",
+        "ru": "Сложение *атта* \"отец\" + *аба* \"мать\" (ср. *абаба* \"бабушка по матери\")."
+      }
     },
     {
       "id": "93k9l8pUfIaGlhnr4Ot7",
@@ -4143,11 +4143,7 @@
             "ru": "сверчок"
           }
         }
-      ],
-      "note": {
-        "en": "ST2008",
-        "ru": "ST2008"
-      }
+      ]
     },
     {
       "id": "8mbRqfrgMfov0nWr2Y7k",
@@ -4638,8 +4634,8 @@
         }
       ],
       "note": {
-        "en": "There're also *шан ахтирекк*, *цьяв ахтирекк*.",
-        "ru": "Есть также *шан ахтирекк*, *цьяв ахтирекк*."
+        "en": "Also used in compounds *шан ахтирекк*, *цьяв ахтirекк* for specific poplar species.",
+        "ru": "Также используется в сложениях *шан ахтирекк*, *цьяв ахтirекк* для конкретных видов тополя."
       }
     },
     {
