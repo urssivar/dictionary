@@ -1,0 +1,11 @@
+# Sources for the lexemes
+
+sources:
+  temirbulatova2004:
+    citation:
+      en: Temirbulatova, S. M. (2004). Khaydakskiy dialekt dargiskogo jazyka.
+      ru: Темирбулатова, С. М. (2004). Хайдакский диалект даргинского языка.
+    short:
+      en: Temirbulatova, 2004
+      ru: Темирбулатова, 2004
+    type: dissertation

@@ -166,6 +166,10 @@
         "type": "string"
       },
       "description": "Related headwords to cross-reference"
+    },
+    "source": {
+      "type": "string",
+      "description": "Source code for data provenance (references lookups/sources.yaml)."
     }
   },
   "definitions": {
