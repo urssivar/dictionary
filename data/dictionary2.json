@@ -733,13 +733,13 @@
             "ru": [
               "мамалыга"
             ]
+          },
+          "note": {
+            "en": "A Dagestani dish made of flour and linen seed butter.",
+            "ru": "Дагестанское блюдо из муки и пасты льняных семян."
           }
         }
-      ],
-      "note": {
-        "en": "A Dagestani dish made of flour and linen seed butter.",
-        "ru": "Дагестанское блюдо из муки и пасты льняных семян."
-      }
+      ]
     },
     {
       "id": "hAiLJboI075IyZLphvnX",
@@ -2940,13 +2940,13 @@
             "en": [
               "stammer"
             ]
+          },
+          "note": {
+            "en": "There's also *амъамчи* \"stutterer\".",
+            "ru": "Есть ещё *амъамчи* \"заика\"."
           }
         }
-      ],
-      "note": {
-        "en": "There's also *амъамчи* \"stutterer\".",
-        "ru": "Есть ещё *амъамчи* \"заика\"."
-      }
+      ]
     },
     {
       "id": "cG7QZoTm1cb3daGPW0id",
@@ -3725,13 +3725,13 @@
           "translation": {
             "en": "silver",
             "ru": "серебро"
+          },
+          "note": {
+            "en": "Also *цьябарц*.",
+            "ru": "Также *цьябарц*."
           }
         }
-      ],
-      "note": {
-        "en": "Also *цьябарц*.",
-        "ru": "Также *цьябарц*."
-      }
+      ]
     },
     {
       "id": "uVRZVYnrZTK70ISAl7Vr",
@@ -9038,6 +9038,9 @@
             "en": [
               "pie"
             ]
+          },
+          "note": {
+            "en": "The traditional thin pie of Dagestan."
           }
         }
       ],
@@ -14531,6 +14534,9 @@
             "en": [
               "wither"
             ]
+          },
+          "note": {
+            "en": "E.g. аbout cows that no longer give milk."
           }
         }
       ]
@@ -17679,6 +17685,9 @@
             "en": [
               "big"
             ]
+          },
+          "note": {
+            "en": "Usually about fruits."
           }
         }
       ]
@@ -18081,6 +18090,9 @@
             "en": [
               "slim"
             ]
+          },
+          "note": {
+            "en": "About radius."
           }
         }
       ]
@@ -19581,6 +19593,9 @@
             "en": [
               "congratulation"
             ]
+          },
+          "note": {
+            "en": "Used for wishing good use."
           }
         }
       ]
@@ -21952,6 +21967,9 @@
           "translation": {
             "en": "nut sauce",
             "ru": "ореховый соус"
+          },
+          "note": {
+            "en": "Traditional Kaitag dish."
           }
         }
       ],
@@ -22560,6 +22578,9 @@
               "aid",
               "crowd"
             ]
+          },
+          "note": {
+            "en": "Particularly of fellow villagers helping out to build a house."
           }
         }
       ]
@@ -25595,6 +25616,9 @@
               "time",
               "date"
             ]
+          },
+          "note": {
+            "en": "Often of death."
           }
         }
       ]
@@ -25958,6 +25982,9 @@
               "chest",
               "box"
             ]
+          },
+          "note": {
+            "en": "For stuling cups, plates, etc."
           }
         }
       ]
@@ -28153,6 +28180,9 @@
               "reason",
               "persuade"
             ]
+          },
+          "note": {
+            "en": "For something negative."
           }
         },
         {
@@ -28164,6 +28194,9 @@
             "en": [
               "destroy"
             ]
+          },
+          "note": {
+            "en": "Also *учекурғара*."
           }
         }
       ]
@@ -30578,6 +30611,9 @@
               "evening",
               "night"
             ]
+          },
+          "note": {
+            "en": "19-21"
           }
         }
       ],
@@ -32516,6 +32552,9 @@
               "midday",
               "day"
             ]
+          },
+          "note": {
+            "en": "12-14"
           }
         }
       ]
@@ -34970,6 +35009,9 @@
             "en": [
               "prayer"
             ]
+          },
+          "note": {
+            "en": "Islamic prayer"
           }
         }
       ],
@@ -37142,6 +37184,9 @@
           "translation": {
             "en": "syrup",
             "ru": "сироп"
+          },
+          "note": {
+            "en": "Grape syrup obtained after boiling the juice of grapes."
           }
         }
       ]
@@ -37774,7 +37819,10 @@
                 "en": "good night"
               }
             }
-          ]
+          ],
+          "note": {
+            "en": "9-"
+          }
         }
       ]
     },
@@ -37874,6 +37922,9 @@
             "en": [
               "pound"
             ]
+          },
+          "note": {
+            "en": "10 сяъ"
           }
         }
       ]
@@ -39507,6 +39558,9 @@
             "en": [
               "spike"
             ]
+          },
+          "note": {
+            "en": "I.e. of plant ear"
           }
         }
       ]
@@ -53959,6 +54013,9 @@
           "translation": {
             "en": "to scavenge",
             "ru": "убирать мусор"
+          },
+          "note": {
+            "en": "I.e. spider web"
           }
         }
       ]
@@ -55444,6 +55501,9 @@
             "en": [
               "peg"
             ]
+          },
+          "note": {
+            "en": "A stake for dishes"
           }
         }
       ]
@@ -66609,6 +66669,9 @@
               "course",
               "indeed"
             ]
+          },
+          "note": {
+            "en": "Expresses assurance."
           }
         }
       ],
@@ -68566,6 +68629,9 @@
               "dregs",
               "slug"
             ]
+          },
+          "note": {
+            "en": "Also e.g. coffe grounds."
           }
         }
       ]
@@ -68738,6 +68804,9 @@
             "en": [
               "greatness"
             ]
+          },
+          "note": {
+            "en": "Only about God."
           }
         }
       ]
@@ -70410,6 +70479,9 @@
             "en": [
               "pant"
             ]
+          },
+          "note": {
+            "en": "Also e.g. half of mustache."
           }
         }
       ]
@@ -79531,6 +79603,9 @@
               "alcohol",
               "grape"
             ]
+          },
+          "note": {
+            "en": "Traditionally from grapes."
           }
         }
       ]
@@ -83329,6 +83404,9 @@
               "dusk",
               "twilight"
             ]
+          },
+          "note": {
+            "en": "17-19"
           }
         }
       ],
@@ -84974,6 +85052,9 @@
             "en": [
               "die"
             ]
+          },
+          "note": {
+            "en": "To die in bed, of disease or old age."
           }
         }
       ]
@@ -85012,6 +85093,9 @@
             "en": [
               "skin"
             ]
+          },
+          "note": {
+            "en": "E.g. of egg."
           }
         }
       ]
@@ -93290,6 +93374,9 @@
             "en": [
               "reception"
             ]
+          },
+          "note": {
+            "en": "Asking how someone's doing, etc."
           }
         }
       ],
@@ -93375,6 +93462,9 @@
               "main",
               "prime"
             ]
+          },
+          "note": {
+            "en": "Used in religious context for Prophet (pbuh)."
           }
         }
       ],
@@ -97177,6 +97267,9 @@
           "translation": {
             "en": "2.5-kilo",
             "ru": "2.5 кг"
+          },
+          "note": {
+            "en": "Traditionally used for measuring zakat on Ramadan."
           }
         }
       ]
@@ -97627,6 +97720,9 @@
             "en": [
               "die"
             ]
+          },
+          "note": {
+            "en": "To die after disease."
           }
         }
       ]
@@ -102065,6 +102161,9 @@
             "en": [
               "open"
             ]
+          },
+          "note": {
+            "en": "Usually about doors."
           }
         }
       ],
@@ -103738,6 +103837,9 @@
             "en": [
               "month"
             ]
+          },
+          "note": {
+            "en": "The 72-day cycle repeats 5 times a year. It starts on March 16 and ends on May 26. The period names remain the same on the subsequent cycles."
           }
         }
       ],
@@ -107476,6 +107578,9 @@
           "translation": {
             "en": "bless you",
             "ru": "будь здоров!"
+          },
+          "note": {
+            "en": "After the person sneezed."
           }
         }
       ],
@@ -108024,6 +108129,9 @@
               "sovereign",
               "ruler"
             ]
+          },
+          "note": {
+            "en": "The ruling title of Kaitag."
           }
         }
       ]
@@ -109683,6 +109791,9 @@
               "perish",
               "die"
             ]
+          },
+          "note": {
+            "en": "Not by natural cause, in accident or attack."
           }
         }
       ]
@@ -109979,6 +110090,9 @@
               "sway",
               "sweep"
             ]
+          },
+          "note": {
+            "en": "About a hand."
           }
         }
       ]
@@ -110381,6 +110495,9 @@
               "day",
               "noon"
             ]
+          },
+          "note": {
+            "en": "15-17"
           }
         }
       ]
@@ -116429,6 +116546,9 @@
             "en": [
               "dinner"
             ]
+          },
+          "note": {
+            "en": "Usually unplanned."
           }
         }
       ],
@@ -117242,6 +117362,9 @@
               "cake",
               "bread"
             ]
+          },
+          "note": {
+            "en": "Some sort of pie with layered leafs, vegs, meat."
           }
         }
       ]
@@ -132981,6 +133104,9 @@
             "en": [
               "praise"
             ]
+          },
+          "note": {
+            "en": "Specifically to God."
           }
         }
       ]
@@ -137005,6 +137131,9 @@
             "en": [
               "proceed"
             ]
+          },
+          "note": {
+            "en": "Usually about a car."
           }
         }
       ]
@@ -138924,6 +139053,9 @@
               "hone",
               "sharpener"
             ]
+          },
+          "note": {
+            "en": "There's also *ғурға*."
           }
         },
         {
@@ -143645,6 +143777,9 @@
           "translation": {
             "en": "defective",
             "ru": "неполноценный"
+          },
+          "note": {
+            "en": "Usually about a person's physique."
           }
         }
       ],

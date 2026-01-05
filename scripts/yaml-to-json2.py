@@ -218,6 +218,10 @@ def transform_definitions(definitions):
         if 'aliases' in defn:
             def_obj['aliases'] = defn['aliases']
 
+        # Note (bilingual text)
+        if 'note' in defn:
+            def_obj['note'] = defn['note']
+
         if def_obj:  # Only add if not empty
             result.append(def_obj)
 

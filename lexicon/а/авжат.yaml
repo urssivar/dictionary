@@ -10,6 +10,6 @@ definitions:
     aliases:
       en: [hominy]
       ru: [мамалыга]
-note:
-  en: A Dagestani dish made of flour and linen seed butter.
-  ru: Дагестанское блюдо из муки и пасты льняных семян.
+    note:
+      en: A Dagestani dish made of flour and linen seed butter.
+      ru: Дагестанское блюдо из муки и пасты льняных семян.
