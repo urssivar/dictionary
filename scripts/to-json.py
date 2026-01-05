@@ -239,10 +239,6 @@ def convert_entry(yaml_entry, vowels, tag_map):
         'headword': mark_stress(yaml_entry, vowels),
     }
 
-    # Optional: IPA
-    if 'ipa' in yaml_entry:
-        result['ipa'] = yaml_entry['ipa']
-
     # Tags (filter to grammar tags, map to bilingual)
     if 'tags' in yaml_entry:
         mapped_tags = map_tags(yaml_entry['tags'], tag_map)
