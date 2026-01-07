@@ -31,18 +31,29 @@ def load_alphabet():
 
 
 def load_grammar_tags():
-    """Load grammar tag mappings from data file."""
+    """Load grammar tag mappings from data file.
+
+    Only loads tags meant for JSON export (part of speech + cls/pl).
+    Excludes grammatical features (vb, tr, ntr) which are internal-only.
+    """
     tags_file = Path(__file__).parent.parent / 'data' / 'tags.yaml'
     with open(tags_file, 'r', encoding='utf-8') as f:
         data = yaml.safe_load(f)
 
+    # Tags to include in JSON export (part of speech + cls/pl)
+    exportable_tags = {
+        'n', 'v', 'adj', 'adv', 'conj', 'prep', 'post',
+        'intj', 'pro', 'num', 'cop', 'ptcl', 'det', 'cls', 'pl'
+    }
+
     # Convert to simple dict: short_form -> {en:, ru:}
     tag_map = {}
     for short_form, tag_data in data['grammar'].items():
-        tag_map[short_form] = {
-            'en': tag_data['en'],
-            'ru': tag_data['ru']
-        }
+        if short_form in exportable_tags:
+            tag_map[short_form] = {
+                'en': tag_data['en'],
+                'ru': tag_data['ru']
+            }
     return tag_map
 
 

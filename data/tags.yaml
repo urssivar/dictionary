@@ -1,207 +1,194 @@
-# Grammar tag mappings from English short form to Russian
-# Only grammar tags are included here; semantic tags (loan, kinship, etc.) are excluded
+# Kaitag Dictionary Tag Definitions
+# Complete taxonomy of all tags used in the dictionary
+# Organized by category: grammar, etymology, register, and semantic domains
 
+# Part of speech tags (exported to JSON for static site)
 grammar:
-  n:
+  n: # noun
     en: n
     ru: сущ.
-    name: noun
-  v:
+  v: # verb
     en: v
     ru: гл.
-    name: verb
-  adj:
+  adj: # adjective
     en: adj
     ru: прил.
-    name: adjective
-  adv:
+  adv: # adverb
     en: adv
     ru: нар.
-    name: adverb
-  conj:
+  conj: # conjunction
     en: conj
     ru: союз
-    name: conjunction
-  prep:
+  prep: # preposition
     en: prep
     ru: предл.
-    name: preposition
-  post:
+  post: # postposition
     en: post
     ru: посл.
-    name: postposition
-  intj:
+  intj: # interjection
     en: intj
     ru: межд.
-    name: interjection
-  pro:
+  pro: # pronoun
     en: pro
     ru: мест.
-    name: pronoun
-  num:
+  num: # numeral
     en: num
     ru: числ.
-    name: numeral
-  cop:
+  cop: # copula
     en: cop
     ru: связ.
-    name: copula
-  ptcl:
+  ptcl: # particle
     en: ptcl
     ru: част.
-    name: particle
-  det:
+  det: # determiner
     en: det
     ru: дет.
-    name: determiner
-  cls:
+  cls: # noun class (grammatical gender-like category in Kaitag)
     en: cls
     ru: кл.
-    name: class
-  pl:
+  pl: # plural form
     en: pl
     ru: мн.
-    name: plural
-
-grammar_2:
-  vb:
+  # Grammatical feature tags (internal use only, not exported to JSON)
+  vb: # verbal noun/deverbal (отглагольное существительное)
     en: vb
     ru: отгл.
-    name: verbal
-  tr:
+  tr: # transitive verb
     en: tr
     ru: пер.
-    name: transitive
-  ntr:
+  ntr: # intransitive verb
     en: ntr
     ru: непер.
-    name: intransitive
 
-# Semantic/domain tags for definitions
+# Used at top-level to indicate loanwords and their source languages
+etymology:
+  loan: # loanword (generic marker for borrowed words)
+    en: loanword
+    ru: заимствование
+  arabic: # borrowed from Arabic
+    en: Arabic
+    ru: арабизм
+  russian: # borrowed from Russian
+    en: Russian
+    ru: русизм
+  turkic: # borrowed from Turkic languages
+    en: Turkic
+    ru: тюркизм
+  iranian: # borrowed from Iranian languages
+    en: Iranian
+    ru: иранизм
+  neologism: # newly coined word
+    en: neologism
+    ru: неологизм
+
+# Used at top-level to indicate register, dialect, or special usage
+register:
+  child: # child language (baby talk, nursery words)
+    en: child language
+    ru: детская речь
+  pejorative: # disparaging or contemptuous terms
+    en: pejorative
+    ru: пренебрежительное
+
+# Used at definition-level to categorize word meanings by topic/domain
 semantic:
   # Natural world
-  nature:
+  nature: # natural phenomena, environment
     en: nature
     ru: природа
-  animal:
+  animal: # animals (general category)
     en: animal
     ru: животное
-  bird:
+  bird: # birds specifically
     en: bird
     ru: птица
-  fish:
-    en: fish
-    ru: рыба
-  insect:
+  insect: # insects and arthropods
     en: insect
     ru: насекомое
-  plant:
+  plant: # plants (general - non-woody plants, bushes, flowers, grasses)
     en: plant
     ru: растение
-  tree:
+  tree: # trees (woody plants)
     en: tree
     ru: дерево
-  bush:
-    en: bush
-    ru: куст
-  grass:
-    en: grass
-    ru: трава
-  flower:
-    en: flower
-    ru: цветок
-  fruit:
+  fruit: # fruits
     en: fruit
     ru: фрукт
-  berry:
+  vegetable: # vegetables
+    en: vegetable
+    ru: овощ
+  berry: # berries
     en: berry
     ru: ягода
 
   # Human & society
-  kinship:
+  kinship: # family relations and kinship terms
     en: kinship
     ru: родство
-  child:
-    en: child
-    ru: ребёнок
-  demonym:
-    en: demonym
-    ru: этноним
-  occupation:
+  people: # ethnic and national identity terms
+    en: people
+    ru: народ
+  occupation: # professions and occupations
     en: occupation
-    ru: профессия
-  social:
-    en: social
-    ru: социальное
-  emotion:
-    en: emotion
-    ru: эмоция
+    ru: занятие
+  culture: # cultural practices, customs, traditions
+    en: culture
+    ru: культура
+  feeling: # emotions and subjective states
+    en: feeling
+    ru: чувство
 
   # Material culture
-  tool:
+  tool: # tools and implements
     en: tool
     ru: инструмент
-  clothing:
+  clothing: # clothing and garments
     en: clothing
     ru: одежда
-  textile:
-    en: textile
-    ru: текстиль
-  food:
+  fabric: # cloth and fabric materials
+    en: fabric
+    ru: ткань
+  food: # food and drink
     en: food
     ru: еда
-  metal:
-    en: metal
-    ru: металл
+  material: # materials and substances (metals, stone, wood, etc.)
+    en: material
+    ru: материал
 
   # Built environment
-  settlement:
-    en: settlement
-    ru: поселение
-  house:
-    en: house
-    ru: дом
-  toponym:
-    en: toponym
+  structure: # buildings and architectural elements
+    en: structure
+    ru: строение
+  placename: # place names
+    en: placename
     ru: топоним
 
   # Domains & activities
-  agriculture:
+  agriculture: # agriculture and farming
     en: agriculture
     ru: сельское хозяйство
-  warfare:
-    en: warfare
-    ru: война
-  tech:
+  technology: # modern mechanical/electrical innovations
     en: technology
     ru: технология
-  music:
-    en: music
-    ru: музыка
 
   # Physical & abstract
-  body:
+  body: # body parts and anatomy
     en: body
     ru: тело
-  disease:
+  disease: # diseases and medical conditions
     en: disease
     ru: болезнь
-  color:
+  color: # colors
     en: color
     ru: цвет
-  time:
+  time: # time and temporal concepts
     en: time
     ru: время
-  measure:
-    en: measure
-    ru: мера
+  unit: # units of measurement
+    en: unit
+    ru: единица
 
   # Belief & worldview
-  religion:
+  religion: # religion and religious concepts
     en: religion
     ru: религия
-
-  # Pragmatic
-  slur:
-    en: slur
-    ru: оскорбление
