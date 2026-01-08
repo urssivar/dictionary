@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)",
+      "Bash(python3:*)",
+      "Bash(find:*)",
+      "WebSearch",
+      "Bash(ls:*)",
+      "Bash(for f in *.yaml)",
+      "Bash(do if grep -q \"^etymology:\" \"$f\")",
+      "Bash(! grep -q \"^  ru:\" \"$f\")",
+      "Bash(then echo \"$f\")",
+      "Bash(fi)",
+      "Bash(done)"
+    ]
+  }
+}
