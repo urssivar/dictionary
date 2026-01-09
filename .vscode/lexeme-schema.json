@@ -89,20 +89,6 @@
             },
             "description": "Semantic tags for this definition"
           },
-          "synonyms": {
-            "type": "array",
-            "items": {
-              "type": "string"
-            },
-            "description": "Synonymous headwords for this sense"
-          },
-          "antonyms": {
-            "type": "array",
-            "items": {
-              "type": "string"
-            },
-            "description": "Antonymous headwords for this sense"
-          },
           "aliases": {
             "type": "object",
             "properties": {
