@@ -2,10 +2,17 @@ id: Xsz94pgaqjPOe0cuJ3WP
 headword: аҡҡе
 ipa: ˈaqːe
 tags: [n]
+variants:
+  - text: яҡҡи
+    lect: snch
+
 definitions:
   - translation:
       en: hearth
       ru: очаг
+    tags: [structure]
     aliases:
-      en: [fire]
-      ru: [огонь]
+      en: [fireplace, fire]
+      ru: [огонь, костёр]
+
+see_also: [цьиппа]

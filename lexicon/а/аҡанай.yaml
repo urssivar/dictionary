@@ -7,11 +7,12 @@ forms:
     gloss: abs
   - text: аҡанайте
     gloss: pl
+
 definitions:
   - translation:
       en: summit
       ru: вершина
     tags: [nature]
     aliases:
-      en: [peak, tip, top]
-      ru: [высь, пик]
+      en: [peak, top, tip]
+      ru: [пик, верх, высь]

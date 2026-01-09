@@ -2,18 +2,19 @@ id: rMN9gYALsNYU4MfQsepG
 headword: аҡре
 ipa: ˈaqre
 tags: [n]
-etymology:
-  en: From *иҡара* "to pass".
-  ru: От *иҡара* "проходить".
 forms:
   - text: аҡре
     gloss: abs
   - text: аҡунде
     gloss: pl
+
 definitions:
   - translation:
       en: entrance
       ru: вход
+    tags: [structure]
     aliases:
-      en: [passage]
+      en: [entry, passage, doorway]
       ru: [проход]
+
+derived_from: [иҡара]

@@ -9,8 +9,12 @@ forms:
     gloss: obl
   - text: иҡре
     gloss: pl
+
 definitions:
   - translation:
       en: vineyard
       ru: виноградник
     tags: [agriculture]
+    aliases:
+      en: [garden, grape]
+      ru: [сад, виноград]
