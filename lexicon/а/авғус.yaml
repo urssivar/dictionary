@@ -2,10 +2,16 @@ id: 8mqeU49w8ZiL2o1RlYTh
 headword: авғус
 ipa: avˈʁus
 tags: [n, loan, russian]
+
 definitions:
   - translation:
-      en: august
+      en: August
       ru: август
+    tags: [time]
     aliases:
       en: [month]
       ru: [месяц]
+
+etymology:
+  en: From Russian *август* "August".
+  ru: От русского *август*.

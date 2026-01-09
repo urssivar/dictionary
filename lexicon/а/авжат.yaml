@@ -2,14 +2,14 @@ id: eIIeNJn0bxjEkZFaVtAt
 headword: авжат
 ipa: avˈʒat
 tags: [n]
+
 definitions:
   - translation:
       en: flour porridge
       ru: мучная каша
     tags: [food]
-    aliases:
-      en: [hominy]
-      ru: [мамалыга]
     note:
-      en: A Dagestani dish made of flour and linen seed butter.
-      ru: Дагестанское блюдо из муки и пасты льняных семян.
+      en: A Dagestani dish made of flour and flaxseed paste.
+      ru: Дагестанское блюдо из муки и урбеча.
+
+see_also: [пьялцьикь]

@@ -2,13 +2,21 @@ id: wPJr8xEhJFVCfbaNZP6k
 headword: абад
 ipa: aˈbad
 tags: [n, loan, arabic]
+
 definitions:
   - translation:
       en: epoch
       ru: эпоха
     tags: [time]
+    aliases:
+      en: [era]
+      ru: [эра]
     examples:
       - text: абадла абад
         translation:
           en: since a long time ago
           ru: c давних времён
+
+etymology:
+  en: From Arabic أَبَد (*ʔabad*) "eternity".
+  ru: От арабского أَبَد (*ʔabad*) "вечность".

@@ -2,17 +2,21 @@ id: RHx33T4oDaYFcsxi8BE1
 headword: абарьул
 ipa: ˈabarhul
 tags: [adv, vb]
-etymology:
-  en: Neg. prog. of *барьара* "to know".
-  ru: Отриц. прод. от *барьара* "знать".
+
 definitions:
   - translation:
       en: inadvertently
       ru: нечаянно
     aliases:
-      en: [accedentally]
+      en: [accidentally, unintentionally]
+      ru: [случайно, невольно]
     examples:
       - text: абарьул барив
         translation:
           en: did inadvertently
           ru: сделал нечаянно
+
+etymology:
+  en: The negative progressive of *барьара* "to know".
+  ru: Отрицательная продолженная форма от *барьара* "знать".
+derived_from: [барьара]

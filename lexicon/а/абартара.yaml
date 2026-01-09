@@ -2,23 +2,21 @@ id: RMZ7GRnuyItZOLObIt3V
 headword: абартара
 ipa: abarˈtara
 tags: [v, tr, cls]
-etymology:
-  en: Neg. of *бартара* "to let".
-  ru: Отриц. от *бартара* "давать, оставлять".
 forms:
-  - text: абатара
-    gloss: pfv
-  - text: абатур
-    gloss: aor
   - text: абартара
     gloss: ipfv
+  - text: абатур
+    gloss: pret
+  - text: абатара
+    gloss: pfv
+
 definitions:
   - translation:
       en: to harass
       ru: изводить
     aliases:
-      en: [attack, bother, pester]
-      ru: [атаковать, донимать, досаждать]
+      en: [to bother, to pester]
+      ru: [донимать, досаждать]
     examples:
       - text: Чикнал нисала тьутьи адартар.
         translation:
@@ -27,3 +25,8 @@ definitions:
   - translation:
       en: to prevent
       ru: предотвращать
+
+etymology:
+  en: The negative of *бартара* "to let, allow".
+  ru: Отрицательная форма от *бартара* "давать, оставлять".
+derived_from: [бартара]

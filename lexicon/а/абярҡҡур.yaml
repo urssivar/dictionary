@@ -2,18 +2,21 @@ id: GREcVpAku7vQDOSo199A
 headword: абярҡҡур
 ipa: abærˈqːur
 tags: [adj, cls, vb]
-etymology:
-  en: Neg. pret. of *руҡҡяра* "to educate, to bring up".
-  ru: Отриц. прет. от *руҡҡяра* "воспитывать".
 forms:
   - text: абярҡҡур
     gloss: adj
   - text: абярҡҡул
     gloss: adv
+
 definitions:
   - translation:
       en: ignorant
       ru: невежественный
     aliases:
       en: [boorish, rude]
-      ru: [грубый, тупой]
+      ru: [невоспитанный, грубый]
+
+etymology:
+  en: The negative preterite of *руҡҡяра* "to educate, to bring up".
+  ru: Отрицательный претерит от *руҡҡяра* "воспитывать".
+derived_from: [руҡҡяра]

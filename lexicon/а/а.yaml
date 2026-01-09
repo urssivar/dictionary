@@ -2,6 +2,7 @@ id: 2SoaSJBLfnSVV0Jtq0je
 headword: а
 ipa: a
 tags: [conj, loan, russian]
+
 definitions:
   - translation:
       en: but
@@ -14,3 +15,7 @@ definitions:
         translation:
           en: I will do this, and you do that.
           ru: Я сделаю это, а ты сделай то.
+
+etymology:
+  en: From Russian *а* "but, and".
+  ru: От русского *а*.

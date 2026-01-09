@@ -2,16 +2,20 @@ id: FbSm8ELH0qpZNLIJ31Zr
 headword: абирьора
 ipa: abirˈhora
 tags: [v, cls, ntr]
-etymology:
-  en: Neg. of *вирьора* "to be able".
-  ru: Отриц. от *вирьора* "мочь".
 forms:
   - text: абирьора
     gloss: ipfv
+
 definitions:
   - translation:
       en: to be ailing
       ru: хворать
+    tags: [disease]
     aliases:
-      en: [sick, ail]
-      ru: [болеть, недуг]
+      en: [to be sick, to be ill, to ail]
+      ru: [болеть, недомогать]
+
+etymology:
+  en: The negative of *бирьора* "to be able".
+  ru: Отрицательная форма от *бирьора* "мочь".
+derived_from: [бирьора]

@@ -2,10 +2,12 @@ id: 5IpD7HNwaze6mMHlODHX
 headword: ав
 ipa: ˈav
 tags: [n, loan, turkic]
-etymology:
-  en: From Kumyk *гьав* "hunt".
-  ru: От кумыкского *гьав* "охота".
+
 definitions:
   - translation:
       en: prey
       ru: добыча
+
+etymology:
+  en: From Kumyk *гьав* (hav) "hunt" (or Azerbaijani *ov*).
+  ru: От кумыкского *гьав* "охота" (или азербайджанского *ov*).

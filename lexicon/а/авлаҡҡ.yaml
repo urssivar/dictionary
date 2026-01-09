@@ -1,17 +1,22 @@
 id: hAiLJboI075IyZLphvnX
 headword: авлаҡҡ
 ipa: avˈlaqː
-tags: [n, loan]
+tags: [n, loan, turkic]
 forms:
   - text: авлаҡҡ
     gloss: nom
   - text: авлаҡҡе
     gloss: pl
+
 definitions:
   - translation:
       en: valley
       ru: долина
     tags: [nature]
     aliases:
-      en: [plain]
-      ru: [равнина]
+      en: [plain, field]
+      ru: [равнина, поле]
+
+etymology:
+  en: From Kumyk *авлакъ* "field, open land".
+  ru: От кумыкского *авлакъ* "поле, открытая местность".

@@ -1,11 +1,16 @@
 id: cKRgDEBlRXuehzDXTBaY
 headword: авадан
 ipa: avaˈdan
-tags: [adj, loan]
+tags: [adj, loan, iranian]
+
 definitions:
   - translation:
       en: vast
       ru: обширный
     aliases:
-      en: [expanse, space]
-      ru: [простор, пространство]
+      en: [broad, extensive, spacious]
+      ru: [широкий, просторный]
+
+etymology:
+  en: From Persian آبادان (*ābādān*) "thriving, prosperous".
+  ru: От персидского آبادان (*ābādān*) "процветающий".

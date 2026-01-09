@@ -1,18 +1,22 @@
 id: vISgU6D28bmi9K3RjyPW
 headword: авлийа
 ipa: avliˈja
-tags: [n, slur, loan, arabic]
-etymology:
-  en: From Arabic *أولياء* in the original meaning "the beloved of God".
+tags: [n, pejorative, loan, arabic]
 forms:
   - text: авлийа
     gloss: nom
   - text: авлийабе
     gloss: pl
+
 definitions:
   - translation:
-      en: insane
+      en: insane person
       ru: умалишённый
     aliases:
-      en: [mad, stupid]
-      ru: [сумасшедший, дурак]
+      en: [madman, lunatic]
+      ru: [сумасшедший, безумец]
+
+etymology:
+  en: From Arabic أولياء (*awliyāʾ*) "the beloved of God".
+  ru: От арабского أولياء (*awliyāʾ*) "возлюбленные Бога".
+see_also: [авдал]

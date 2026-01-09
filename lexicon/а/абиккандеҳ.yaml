@@ -1,14 +1,14 @@
 id: 8DdqMambIdHft2tnFWvX
 headword: абиккандеҳ
-ipa: abikːanˈdex
 tags: [n, vb]
-etymology:
-  en: From *абиккан* "disappointment".
-  ru: От *абиккан* "огорчение".
+
 definitions:
   - translation:
       en: trouble
       ru: неприятность
+    tags: [feeling]
     aliases:
       en: [misfortune, distress]
       ru: [неудача, страдание]
+
+derived_from: [абиккан]

@@ -2,10 +2,13 @@ id: oSHBBoQhAtKmXMtE134r
 headword: авдалдеҳ
 ipa: avdalˈdex
 tags: [n]
+
 definitions:
   - translation:
       en: stupidity
       ru: глупость
     aliases:
-      en: [folly]
-      ru: [дурь]
+      en: [folly, foolishness]
+      ru: [дурь, идиотизм]
+
+derived_from: [авдал]

@@ -1,12 +1,20 @@
 id: erYacDFuUTCVjNovkYdp
 headword: авсун
 ipa: avˈsun
-tags: [n, loan]
+tags: [n, loan, turkic]
+forms:
+  - text: авсун
+    gloss: nom
+  - text: авсунте
+    gloss: pl
+
 definitions:
   - translation:
       en: sister-in-law
       ru: золовка
     tags: [kinship]
-    aliases:
-      en: [woman, lady]
-      ru: [женщина, девушка]
+
+etymology:
+  en: From Kumyk *апсун* "sister-in-law".
+  ru: От кумыкского *апсун* "золовка".
+see_also: [уццуп]

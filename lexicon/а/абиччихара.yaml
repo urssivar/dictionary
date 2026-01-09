@@ -2,16 +2,25 @@ id: YpcVLSw9X2MqnjeAQQEE
 headword: абиччихара
 ipa: abitʃːiˈχara
 tags: [v, cls, tr]
-etymology:
-  en: Neg. of *биччихара* "to love".
-  ru: Отриц. от *биччихара* "любить".
 forms:
   - text: абиччихара
     gloss: ipfv
+
 definitions:
   - translation:
-      en: to detest
+      en: to hate
       ru: ненавидеть
+    tags: [feeling]
     aliases:
-      en: [dislike, hate]
-      ru: [нелюбить]
+      en: [to dislike, to loathe]
+      ru: [не любить, презирать]
+    examples:
+      - text: Дами адиччихид ьелтти цикьал.
+        translation:
+          en: I hate these things.
+          ru: Я ненавижу эти вещи.
+
+etymology:
+  en: The negative of *биччихара* "to love".
+  ru: Отрицательная форма от *биччихара* "любить".
+derived_from: [биччихара]

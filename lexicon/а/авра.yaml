@@ -1,22 +1,30 @@
 id: h1mRwCpiuBYdVVaN9Zga
 headword: авра
 ipa: ˈavra
-tags: [n, loan]
+tags: [n, loan, turkic]
 variants:
   - text: авара
+
 definitions:
   - translation:
       en: bother
-      ru: бейспокойство
-    tags: [emotion]
+      ru: беспокойство
+    tags: [feeling]
     aliases:
-      en: [interest, care]
-      ru: [интерес, забота]
+      en: [concern, worry]
+      ru: [забота, тревога]
     examples:
       - text: Дами авра бейкку ила дирантала.
         translation:
           en: It doesn't bother me what you do.
-          ru: Меня не беспокоют твои дела.
+          ru: Меня не беспокоят твои дела.
   - translation:
       en: chore
       ru: хлопота
+    aliases:
+      en: [task, hassle, errand]
+      ru: [возня, суета]
+
+etymology:
+  en: From Kumyk *авара* "worry, concern", ultimately from Persian آواره (*âvâre*) "vagabond".
+  ru: От кумыкского *авара* "беспокойство", восходит к персидскому آواره (*âvâre*) "бродяга".

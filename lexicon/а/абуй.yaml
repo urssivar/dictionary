@@ -7,7 +7,12 @@ forms:
     gloss: nom
   - text: абуйте
     gloss: pl
+
 definitions:
   - translation:
       en: wallpaper
       ru: обои
+
+etymology:
+  en: From Russian *обои* "wallpaper" (pl.), reanalyzed as singular.
+  ru: От русского *обои* (мн. ч.), переосмыслено как ед. ч.

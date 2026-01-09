@@ -2,7 +2,13 @@ id: OBMlPh7sBpAupvhtQOHn
 headword: авра аккор
 ipa: ˌavra aˈkːor
 tags: [adj]
+
 definitions:
   - translation:
       en: careless
       ru: беспечный
+    aliases:
+      en: [carefree, unconcerned]
+      ru: [беззаботный, небрежный]
+
+derived_from: [авра, аккор]

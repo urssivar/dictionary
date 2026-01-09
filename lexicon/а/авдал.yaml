@@ -1,16 +1,22 @@
 id: 153QGimJVn33k30768oW
 headword: авдал
 ipa: avˈdal
-tags: [n, slur, loan, arabic]
-etymology:
-  en: From Arabic *أبدال* in the original meaning "God's saint".
+tags: [n, pejorative, loan, arabic]
 forms:
   - text: авдал
     gloss: nom
   - text: авдалте
     gloss: pl
+
 definitions:
   - translation:
       en: fool
       ru: глупец
-    tags: [social]
+    aliases:
+      en: [idiot, simpleton]
+      ru: [дурак, идиот]
+
+etymology:
+  en: From Arabic أبدال (*abdāl*) "God's saint".
+  ru: От арабского أبدال (*abdāl*) "святой".
+see_also: [авлийа]

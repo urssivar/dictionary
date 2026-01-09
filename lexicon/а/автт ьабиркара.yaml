@@ -2,18 +2,22 @@ id: 3DjAQxYp1fg83udxSBwR
 headword: автт ьабиркара
 ipa: ˌavtː habirˈkara
 tags: [v, ntr, cls]
+
 forms:
-  - text: автт ьабикара
-    gloss: pfv
-  - text: автт ьабичив
-    gloss: aor
   - text: автт ьабиркара
     gloss: ipfv
+  - text: автт ьабичив
+    gloss: pret
+  - text: автт ьабикара
+    gloss: pfv
+
 definitions:
   - translation:
-      en: to strife
-      ru: междоусобить
-    tags: [social]
+      en: to quarrel
+      ru: враждовать
+    tags: [feeling]
     aliases:
-      en: [feud]
-      ru: [враждовать]
+      en: [to feud, to conflict]
+      ru: [конфликтовать, ссориться]
+
+derived_from: [автт, биркара]
