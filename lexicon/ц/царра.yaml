@@ -6,7 +6,7 @@ etymology:
   en: From *ца* "one" + concessive *ра*. The middle *р* is unclear, cf. *царра* "nothing", *чарра* "nobody".
 forms:
   - text: царра
-    gloss: nom
+    gloss: abs
   - text: цал-ра
     gloss: obl
 definitions:
@@ -15,7 +15,7 @@ definitions:
       ru: ни один
     tags: [pro]
     aliases:
-      en: ['no']
+      en: ["no"]
     examples:
       - text: царра хайре бейччу
         translation:

@@ -3,14 +3,14 @@ headword: цей
 ipa: ˈtsej
 tags: [pro, cls]
 note:
-  en: '*цеви* (nom m), *цинни* (erg)'
+  en: "*цеви* (abs m), *цинни* (erg)"
 forms:
   - text: цей
-    gloss: nom m
+    gloss: abs m
   - text: цере
-    gloss: nom f
+    gloss: abs f
   - text: цебе
-    gloss: nom n
+    gloss: abs n
   - text: цине
     gloss: obl
   - text: цинна

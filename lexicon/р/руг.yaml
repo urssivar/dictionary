@@ -3,10 +3,10 @@ headword: руг
 ipa: ˈrug
 tags: [n]
 note:
-  en: '*рук*'
+  en: "*рук*"
 forms:
   - text: руг
-    gloss: sg
+    gloss: abs
   - text: ругме
     gloss: pl
 definitions:

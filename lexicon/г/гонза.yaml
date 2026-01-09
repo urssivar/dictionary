@@ -3,10 +3,10 @@ headword: гонза
 ipa: ˈgonza
 tags: [n]
 note:
-  en: '*гамза*'
+  en: "*гамза*"
 forms:
   - text: гонза
-    gloss: sg
+    gloss: abs
   - text: гонзал
     gloss: obl
   - text: гонзурбе

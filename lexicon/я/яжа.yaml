@@ -3,10 +3,10 @@ headword: яжа
 ipa: æˈʒa
 tags: [n]
 note:
-  en: '*яжи*'
+  en: "*яжи*"
 forms:
   - text: яжа
-    gloss: sg
+    gloss: abs
   - text: яжне
     gloss: pl
 definitions:

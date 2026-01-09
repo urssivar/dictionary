@@ -3,10 +3,10 @@ headword: пьячьничь
 ipa: pʼætʃʼˈnitʃʼ
 tags: [n]
 note:
-  en: '*мячьа*, *пьячьан*'
+  en: "*мячьа*, *пьячьан*"
 forms:
   - text: пьячьничь
-    gloss: sg
+    gloss: abs
   - text: пьячьничье
     gloss: pl
 definitions:

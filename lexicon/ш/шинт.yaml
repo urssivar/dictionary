@@ -3,10 +3,10 @@ headword: шинт
 ipa: ˈʃint
 tags: [n]
 note:
-  en: '*сире*'
+  en: "*сире*"
 forms:
   - text: шинт
-    gloss: sg
+    gloss: abs
   - text: шинтан
     gloss: obl, loc
   - text: шинтре

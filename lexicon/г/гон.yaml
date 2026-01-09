@@ -4,7 +4,7 @@ ipa: ˈgon
 tags: [adv, pro, adj]
 forms:
   - text: гон
-    gloss: nom
+    gloss: abs
   - text: гонил
     gloss: obl
   - text: гонте
@@ -25,7 +25,7 @@ definitions:
           en: it's good in the village unlike in the city
       - text: марка барара гон це
         translation:
-          en: '[looks like] it''s going to rain'
+          en: "[looks like] it's going to rain"
   - translation:
       en: as soon as
       ru: как только

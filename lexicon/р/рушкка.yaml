@@ -3,10 +3,10 @@ headword: рушкка
 ipa: ruʃˈkːa
 tags: [n, loan, russian]
 note:
-  en: '*ручкке*'
+  en: "*ручкке*"
 forms:
   - text: рушкка
-    gloss: sg
+    gloss: abs
   - text: рушккан
     gloss: obl
   - text: рушккне

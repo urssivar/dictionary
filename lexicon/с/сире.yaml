@@ -3,10 +3,10 @@ headword: сире
 ipa: ˈsire
 tags: [n]
 note:
-  en: '*сиди*'
+  en: "*сиди*"
 forms:
   - text: сире
-    gloss: sg
+    gloss: abs
   - text: сирин
     gloss: obl
 definitions:

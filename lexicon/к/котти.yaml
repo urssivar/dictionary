@@ -3,10 +3,10 @@ headword: котти
 ipa: koˈtːi
 tags: [pro]
 note:
-  en: '*кутти*'
+  en: "*кутти*"
 forms:
   - text: котти
-    gloss: sg
+    gloss: abs
   - text: коттите
     gloss: pl
 definitions:

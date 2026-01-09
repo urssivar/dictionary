@@ -6,7 +6,7 @@ etymology:
   en: From pl. of *тьуз* "lie".
 forms:
   - text: тьузняҡҡ
-    gloss: sg
+    gloss: abs
   - text: тьузняҡҡе
     gloss: pl
 definitions:
@@ -14,4 +14,4 @@ definitions:
       en: liar
       ru: лжец
     aliases:
-      en: [lie, 'false']
+      en: [lie, "false"]

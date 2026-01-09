@@ -3,10 +3,10 @@ headword: жин
 ipa: ˈʒin
 tags: [n, loan, arabic]
 note:
-  en: '*жинд*'
+  en: "*жинд*"
 forms:
   - text: жин
-    gloss: sg
+    gloss: abs
   - text: жинбе
     gloss: pl
 definitions:

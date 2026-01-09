@@ -3,10 +3,10 @@ headword: сандуг
 ipa: sanˈdug
 tags: [n, loan]
 note:
-  en: '*кенду*'
+  en: "*кенду*"
 forms:
   - text: сандуг
-    gloss: sg
+    gloss: abs
   - text: сандуган
     gloss: loc
   - text: сандуге

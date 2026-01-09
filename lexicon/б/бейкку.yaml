@@ -5,16 +5,16 @@ tags: [cop, cls]
 etymology:
   en: Probably fusion of forms of *би* "to be" and *акку* "no".
 note:
-  en: '*байкку* (3 prs), *бейккура* (3 prs)'
+  en: "*байкку* (3 prs), *бейккура* (3 prs)"
 forms:
   - text: бейккоде
-    gloss: '1'
+    gloss: "1"
   - text: бейккотте
-    gloss: 2 sg
+    gloss: 2 abs
   - text: бейккотта
     gloss: 2 pl
   - text: бейкку
-    gloss: '3'
+    gloss: "3"
   - text: бейччу
     gloss: pst
 definitions:

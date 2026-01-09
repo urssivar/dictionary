@@ -3,10 +3,10 @@ headword: наслу
 ipa: ˈnaslu
 tags: [n, loan, arabic]
 note:
-  en: '*аслу*'
+  en: "*аслу*"
 forms:
   - text: наслу
-    gloss: sg
+    gloss: abs
   - text: наслубе
     gloss: pl
 definitions:

@@ -41,7 +41,7 @@
           },
           "gloss": {
             "type": "string",
-            "description": "Leipzig glossing abbreviation (e.g., ipfv, pret, pfv, nom, pl)."
+            "description": "Leipzig glossing abbreviation (e.g., ipfv, pret, pfv, abs, pl)."
           }
         }
       }

@@ -4,7 +4,7 @@ ipa: ˈbetsʼ
 tags: [n]
 forms:
   - text: бець
-    gloss: sg
+    gloss: abs
   - text: бецьи
     gloss: obl
   - text: бицье
@@ -15,6 +15,6 @@ definitions:
       ru: волк
     tags: [animal]
     examples:
-      - text: '* ил дикьал бець буцил цянне авааттал'
+      - text: "* ил дикьал бець буцил цянне авааттал"
         translation:
           en: and since you ain't coming having caught a wolf

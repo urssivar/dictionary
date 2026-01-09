@@ -3,10 +3,10 @@ headword: шаппа
 ipa: ʃaˈpːa
 tags: [n]
 note:
-  en: '*чаппа*'
+  en: "*чаппа*"
 forms:
   - text: шаппа
-    gloss: sg
+    gloss: abs
   - text: шаппан
     gloss: obl, loc
   - text: шиппне

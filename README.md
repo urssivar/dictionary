@@ -40,7 +40,7 @@ etymology:
   en: Neg. obl. of *биккара* "to want"
 forms:
   - text: абиккан
-    gloss: sg
+    gloss: abs
   - text: абикканил
     gloss: obl
 definitions:

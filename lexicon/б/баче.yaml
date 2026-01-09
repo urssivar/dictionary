@@ -3,10 +3,10 @@ headword: баче
 ipa: ˈbatʃe
 tags: [n]
 note:
-  en: '*шива*'
+  en: "*шива*"
 forms:
   - text: баче
-    gloss: sg
+    gloss: abs
   - text: бачин
     gloss: obl
   - text: бичне

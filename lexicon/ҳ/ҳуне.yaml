@@ -4,7 +4,7 @@ ipa: ˈxune
 tags: [n]
 forms:
   - text: ҳуне
-    gloss: sg
+    gloss: abs
   - text: ҳунбе
     gloss: pl
 definitions:
@@ -16,4 +16,4 @@ definitions:
     examples:
       - text: бурсан бець ҳуней бирьор
         translation:
-          en: '* thinking about bad and it happens'
+          en: "* thinking about bad and it happens"

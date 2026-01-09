@@ -3,10 +3,10 @@ headword: бент
 ipa: ˈbent
 tags: [n]
 note:
-  en: '*йурт*'
+  en: "*йурт*"
 forms:
   - text: бент
-    gloss: sg
+    gloss: abs
   - text: бентре
     gloss: pl
 definitions:

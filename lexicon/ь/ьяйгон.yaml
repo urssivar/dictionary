@@ -3,10 +3,10 @@ headword: ьяйгон
 ipa: hæjˈgon
 tags: [n, loan, arabic]
 note:
-  en: '*мицьир мас*'
+  en: "*мицьир мас*"
 forms:
   - text: ьяйгон
-    gloss: sg
+    gloss: abs
   - text: ьяйгонте
     gloss: pl
 definitions:
@@ -17,4 +17,4 @@ definitions:
     examples:
       - text: аллаьла ьяйгон
         translation:
-          en: '* simpleton'
+          en: "* simpleton"

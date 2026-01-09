@@ -3,14 +3,14 @@ headword: би
 ipa: ˈbi
 tags: [cop, cls]
 note:
-  en: '*биъра* (3)'
+  en: "*биъра* (3)"
 forms:
   - text: бида
     gloss: 1, 2 pl
   - text: биде
-    gloss: 2 sg, pst
+    gloss: 2 abs, pst
   - text: би
-    gloss: '3'
+    gloss: "3"
 definitions:
   - translation:
       en: is

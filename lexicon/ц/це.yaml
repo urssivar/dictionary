@@ -3,14 +3,14 @@ headword: це
 ipa: ˈtse
 tags: [cop]
 note:
-  en: '*цави*, *цай*, *ца*'
+  en: "*цави*, *цай*, *ца*"
 forms:
   - text: да
     gloss: 1, 2 pl
   - text: де
-    gloss: 2 sg, pst
+    gloss: 2 abs, pst
   - text: це
-    gloss: '3'
+    gloss: "3"
 definitions:
   - translation:
       en: is

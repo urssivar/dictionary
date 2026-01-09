@@ -3,12 +3,12 @@ headword: швента
 ipa: ˈʃʷenta
 tags: [n]
 note:
-  en: '*шонта*'
+  en: "*шонта*"
 forms:
   - text: швента
     gloss: pl
   - text: швентбе
-    gloss: sg
+    gloss: abs
 definitions:
   - translation:
       en: roe deer

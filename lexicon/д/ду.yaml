@@ -3,10 +3,10 @@ headword: ду
 ipa: ˈdu
 tags: [pro]
 note:
-  en: '*ди* (obl), *дийа* (gen), *дам* (dat), *дамижи* (dat)'
+  en: "*ди* (obl), *дийа* (gen), *дам* (dat), *дамижи* (dat)"
 forms:
   - text: ду
-    gloss: nom
+    gloss: abs
   - text: дила
     gloss: gen
   - text: дами

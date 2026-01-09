@@ -4,7 +4,7 @@ ipa: tːuˈtːu
 tags: [n]
 forms:
   - text: ттутту
-    gloss: sg
+    gloss: abs
   - text: ттуттун
     gloss: obl, loc
   - text: ттуттме
@@ -15,6 +15,6 @@ definitions:
       ru: рот
     tags: [body]
     examples:
-      - text: '* ьабаҳан ттутту'
+      - text: "* ьабаҳан ттутту"
         translation:
           en: gabber

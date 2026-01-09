@@ -4,11 +4,11 @@ ipa: ˈtsuga
 tags: [n]
 forms:
   - text: цуга
-    gloss: sg
+    gloss: abs
   - text: цуган
     gloss: obl, loc
   - text: цугме
-    gloss: sg
+    gloss: abs
 definitions:
   - translation:
       en: hayloft

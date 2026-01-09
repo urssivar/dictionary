@@ -3,10 +3,10 @@ headword: чума
 ipa: ˈtʃuma
 tags: [n]
 note:
-  en: '*чве*'
+  en: "*чве*"
 forms:
   - text: чума
-    gloss: sg
+    gloss: abs
   - text: чуме
     gloss: pl
 definitions:

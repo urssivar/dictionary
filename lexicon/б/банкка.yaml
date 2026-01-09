@@ -3,10 +3,10 @@ headword: банкка
 ipa: banˈkːa
 tags: [n, loan, russian]
 note:
-  en: '*банкьа*'
+  en: "*банкьа*"
 forms:
   - text: банкка
-    gloss: sg
+    gloss: abs
   - text: банккан
     gloss: obl, loc
   - text: бинккне
