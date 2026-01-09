@@ -77,7 +77,7 @@ All valid tags are defined in `tags.yaml`:
 
 ## Forms
 
-Use standard Leipzig abbreviations (see https://en.wikipedia.org/wiki/List_of_glossing_abbreviations)
+Use standard Leipzig abbreviations (see <https://en.wikipedia.org/wiki/List_of_glossing_abbreviations>)
 
 ### Standard Verb Forms (in order)
 
@@ -188,10 +188,11 @@ etymology:
 - Participles: `Negative present participle of *verb* "gloss".`
 - Don't over-explain productive patterns
 
-### Parenthetical Notes
+### Formatting Conventions
 
-- Use for `cf.` references: `(cf. *related_word* "gloss")`
-- Use for notable features: `(semantic pejoration)`, `(pl.)`, `(мн. ч.)`
+- Use *italics* for cited linguistic forms: *word*
+- Use "double quotes" for glosses/meanings in both English and Russian
+- Use (parentheses) for supplementary notes: (cf. *word*), (pl.), (мн. ч.)
 
 ## Cross-References
 
@@ -244,7 +245,7 @@ etymology:
 6. **Don't** forget to update field order with blank line separators
 7. **Don't** add transcription for Russian/Cyrillic Turkic
 8. **Don't** translate Russian words in Russian etymology
-9. **Don't** use quotation marks for linguistic forms (use _italics_)
+9. **Don't** use quotation marks for linguistic forms (use *italics*)
 10. **Don't** forget periods at end of schema descriptions
 
 ## Consistency Checklist
