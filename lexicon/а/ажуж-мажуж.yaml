@@ -2,10 +2,15 @@ id: dyAPEz4arCzhohZ1mqaZ
 headword: ажуж-мажуж
 ipa: aˌʒuʒ-maˈʒuʒ
 tags: [n, loan, arabic]
+
 definitions:
   - translation:
       en: anarchy
       ru: анархия
-    # TODO: "social" is not a valid semantic tag. Use "culture" instead
-    tags: [social]
-    # TODO: Add aliases: en: [chaos, disorder]; ru: [хаос, беспорядок]
+    aliases:
+      en: [chaos, disorder, bedlam]
+      ru: [хаос, беспорядок, суматоха]
+
+etymology:
+  en: From Arabic يَأْجُوج وَمَأْجُوج (*yaʔjūj wa-maʔjūj*) "Gog and Magog".
+  ru: От арабского يَأْجُوج وَمَأْجُوج (*yaʔjūj wa-maʔjūj*) "Яджудж и Маджудж".

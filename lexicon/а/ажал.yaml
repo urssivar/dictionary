@@ -1,11 +1,16 @@
 id: 2YgQkAXoiHJ2wjCf0XGo
 headword: ажал
 ipa: aˈʒal
-tags: [n, loan]
+tags: [n, loan, arabic]
+
 definitions:
   - translation:
       en: doom
       ru: рок
     aliases:
-      en: [demise, death]
-      ru: [кончина, смерть]
+      en: [death, fate, demise]
+      ru: [смерть, судьба, кончина]
+
+etymology:
+  en: From Arabic أَجَل (*ʔajal*) "appointed time, death".
+  ru: От арабского أَجَل (*ʔajal*) "назначенный срок, смерть".

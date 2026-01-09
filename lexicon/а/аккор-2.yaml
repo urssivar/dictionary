@@ -1,45 +1,23 @@
-id: UyNyIj9PbRrkC4uEggy4
+id: TuHMYdGXa1EY7lfywKae
 headword: аккор
-ipa: aˈkːor
-tags: [adj, vb]
-etymology:
-  # TODO: Fix asterisk formatting: **аккора* should be *аккора* (single asterisk on each side)
-  en: Habitual present of verb **аккора*, which is not retained. Semantically corresponds to English -les.
-  # TODO: Fix asterisk formatting: **аккора* should be *аккора*; also fix typo: "несохранившего" -> "несохранившегося"
-  ru: Настоящее общее от несохранившего глагола **аккора*.
-forms:
-  - text: аккор
-    gloss: adj
-  - text: аккол
-    gloss: adv
+ipa: ˈakːor
+tags: [adv, vb]
+
 definitions:
   - translation:
-      en: without
-      ru: не имеющий
+      en: not being
+      ru: не будучи
     aliases:
-      # TODO: "les" should be "-less" (English suffix). Consider: [missing, lacking, -less]
-      en: [missing, lacking, les]
-      # TODO: Add Russian aliases
+      en: [absent, lacking, missing]
+      ru: [отсутствуя, не имея, без]
     examples:
-      - text: ирхе аккор
+      - text: Ду ҡил аккор ҡҡел мацятте.
         translation:
-          en: fearles
-          ru: бесстрашный
-      - text: Арц аккол мавятте.
+          en: Don't come when I'm not home.
+          ru: Не приходи когда меня не дома.
+      - text: Марка аккорцци кицце.
         translation:
-          en: Don't go without money.
-          ru: Без денег не иди.
-      - text: лякко
-        translation:
-          en: ear-les (nickname)
-          ru: безухий (кличка)
-  - translation:
-      en: absent
-      ru: отсутствующий
-    aliases:
-      en: [missing]
-    examples:
-      - text: Аккортай ра бурса.
-        translation:
-          en: Tell to the absent ones too.
-          ru: Расскажи и тем, кто отсутствует
+          en: Stand where there's no rain.
+          ru: Стой там, где нет дождя.
+
+see_also: [акку]

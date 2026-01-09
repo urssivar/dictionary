@@ -1,20 +1,24 @@
 id: PDqdMd4rNelWwfmRg9Qf
 headword: азбар
 ipa: azˈbar
-tags: [n, loan]
-variants:
-  - text: шеркка
+tags: [n, loan, turkic]
 forms:
   - text: азбар
     gloss: abs
   - text: азбунде
     gloss: pl
+variants:
+  - text: шеркка
+
 definitions:
-  # TODO: Consider adding semantic tag: structure
   - translation:
       en: yard
       ru: двор
+    tags: [structure]
     aliases:
-      # TODO: "garth" is archaic. Consider more common aliases: [courtyard, enclosure]
-      en: [garth]
-      # TODO: Add Russian aliases: [двор, подворье]
+      en: [courtyard, enclosure, compound]
+      ru: [двор, подворье, огороженное пространство]
+
+etymology:
+  en: From Kumyk *абзар* "yard", possibly from Persian ابزار (*abzâr*) "tool, instrument".
+  ru: От кумыкского *абзар* "двор", возможно от персидского ابزار (*abzâr*) "инструмент, орудие".

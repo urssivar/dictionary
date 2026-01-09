@@ -1,19 +1,22 @@
 id: fmcsU9QKHCZGVmYXFtX4
 headword: айту
 ipa: ajˈtu
-tags: [n, loan]
+tags: [n, loan, turkic]
 forms:
   - text: айту
     gloss: abs
   - text: айтубе
     gloss: pl
+
 definitions:
-  # TODO: Consider adding semantic tag: culture
   - translation:
       en: legend
       ru: легенда
+    tags: [culture]
     aliases:
-      # TODO: Add more specific aliases: [tale, myth, folklore]
-      en: [story]
-      # TODO: "история" is too general. Consider: [сказание, миф, предание]
-      ru: [история]
+      en: [tale, myth, folklore]
+      ru: [сказание, миф, предание]
+
+etymology:
+  en: From Kumyk *айтыв* "saying, proverb".
+  ru: От кумыкского *айтыв* "поговорка, пословица".

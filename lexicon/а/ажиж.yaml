@@ -2,19 +2,21 @@ id: gvu1Tu5OylNtjzs5f4WD
 headword: ажиж
 ipa: aˈʒiʒ
 tags: [adj, vb]
-etymology:
-  # TODO: "Hyp." is unclear - does it mean "hypothetical" or some grammatical form? Clarify abbreviation
-  en: Hyp. of *аргара* "to happen".
-  # TODO: Add Russian translation of etymology
+
 definitions:
   - translation:
       en: probable
       ru: вероятный
     aliases:
-      en: [likely]
+      en: [likely, possible]
       ru: [возможный]
     examples:
       - text: Ижал марка ажижле це.
         translation:
           en: Possible rain today.
           ru: Сегодня возможен дождь.
+
+etymology:
+  en: Hypothetical participle of *аргара* "to happen".
+  ru: Гипотетическое причастие от *аргара* "случаться".
+derived_from: [аргара]

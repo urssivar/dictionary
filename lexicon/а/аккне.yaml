@@ -1,11 +1,8 @@
 id: TFPIioIyLaZHzACIoud9
 headword: аккне
 ipa: ˈakːne
-tags: [n]
-etymology:
-  # TODO: "msd." abbreviation is unclear. Use "masdar" or "verbal noun"
-  en: Likely the msd. of the origin verb of *аккор* "lacking".
-  ru: Вероятно масдар от глагола *аккор* "не имеющий".
+tags: [n, vb]
+
 definitions:
   - translation:
       en: absence
@@ -14,7 +11,13 @@ definitions:
       en: [lack]
       ru: [нехватка]
     examples:
-      - text: Атта ҡил аккне абаьурда.
+      - text: Атта ҡил аккне дул абаьурда.
         translation:
           en: I did not know father is not home.
           ru: Я не знал, что отец не дома.
+
+etymology:
+  en: Masdar from the historic verb *аккора* (cf. *акку* "not").
+  ru: Масдар от исторического глагола *аккора* (ср. *акку* "не").
+derived_from: [акку]
+see_also: [аккор, аккре]

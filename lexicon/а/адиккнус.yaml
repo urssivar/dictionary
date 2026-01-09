@@ -2,16 +2,22 @@ id: UH2GPrKkKRGP3B0HwTs6
 headword: адиккнус
 ipa: adikːˈnus
 tags: [n, vb]
-etymology:
-  en: From neg. of *биккара* "to want", cf. *буснус* "sleepy person".
-  # TODO: Add Russian translation of etymology
 forms:
   - text: адиккнус
     gloss: abs
   - text: адиккнусе
     gloss: pl
+
 definitions:
   - translation:
       en: inhospitable person
       ru: негостеприимный человек
-    # TODO: Add aliases: en: [unwelcoming person, unfriendly host]; ru: [негостеприимец, недоброжелатель]
+    aliases:
+      en: [unwelcoming person, unfriendly host]
+      ru: [недоброжелательный, неприятный]
+
+etymology:
+  en: From the negative of *биккара* "to want" (cf. *буснус* "sleepy person").
+  ru: От отрицательной формы *биккара* "хотеть" (ср. *буснус* "соня").
+derived_from: [биккара]
+see_also: [буснус]

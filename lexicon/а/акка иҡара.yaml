@@ -3,16 +3,27 @@ headword: акка иҡара
 ipa: aˌkːa iˈqara
 tags: [v, ntr]
 forms:
-  - text: акка аҡара
-    gloss: pfv
-  - text: акка аҡив
-    gloss: pret
   - text: акка иҡара
     gloss: ipfv
+  - text: акка аҡив
+    gloss: pret
+  - text: акка аҡара
+    gloss: pfv
+
 definitions:
   - translation:
-      en: to break up
+      en: to part
       ru: расходиться
     aliases:
-      en: [part, leave]
-      ru: [расставаться, уходить]
+      en: [part ways, leave, separate]
+      ru: [расставаться, уходить, разойтись]
+    examples:
+      - text: Миҡҡла ьереғ укка акка аҡив.
+        translation:
+          en: People parted after the wedding.
+          ru: Люди разошлись после свадьбы.
+
+etymology:
+  en: "*акка* does not occur independently; meaning and origin unclear."
+  ru: "*акка* не встречается самостоятельно; значение и происхождение неясны."
+derived_from: [иҡара]

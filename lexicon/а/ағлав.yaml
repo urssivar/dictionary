@@ -2,15 +2,19 @@ id: sVnyX4VHiPP9ckSBzPHf
 headword: ағлав
 ipa: aʁˈlav
 tags: [n, loan]
-variants:
-  - text: ағлаба
 forms:
   - text: ағлав
     gloss: abs
   - text: ағлавте
     gloss: pl
+variants:
+  - text: ағлаба
+
 definitions:
   - translation:
       en: pan
       ru: сковорода
-    tags: [tool, house]
+    tags: [tool]
+    aliases:
+      en: [skillet, kitchenware]
+      ru: [посуда]

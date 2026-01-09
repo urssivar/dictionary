@@ -14,3 +14,8 @@ definitions:
       en: ear
       ru: ухо
     tags: [body]
+    examples:
+      - text: лякко
+        translation:
+          en: ear-less (nickname)
+          ru: безухий (кличка)

@@ -2,20 +2,18 @@ id: vrWT7RJdJu75wV8HRYmY
 headword: аккол
 ipa: ˈakːol
 tags: [conj, vb]
-etymology:
-  en: From adv. of *аккор* "absent".
-  # TODO: Fix spelling: "отсутсвующий" -> "отсутствующий"
-  ru: От нареч. формы *аккор* "отсутсвующий".
+
 definitions:
   - translation:
       en: otherwise
       ru: иначе
     aliases:
       en: [or, else]
-      ru: [или, иначе]
+      ru: [или]
     examples:
       - text: Ижин аккол илин аргар у?
         translation:
           en: If it doesn't work here, will it there?
-          # TODO: Wrong language code - should be "ru", not "кг"
-          кг: Если не здесь, там получится?
+          ru: Если не здесь, там получится?
+
+derived_from: [аккор]

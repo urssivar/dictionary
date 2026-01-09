@@ -1,7 +1,13 @@
 id: 0s8RewmE8hhjwdHVl2F6
 headword: ағу
 ipa: aˈʁu
-tags: [n, loan]
+tags: [n, loan, turkic]
+forms:
+  - text: ағу
+    gloss: abs
+  - text: ағуйте
+    gloss: pl
+
 definitions:
   - translation:
       en: venom
@@ -9,3 +15,7 @@ definitions:
     aliases:
       en: [poison]
       ru: [отрава]
+
+etymology:
+  en: From Kumyk *агъу* or Azerbaijani *ağı* "poison".
+  ru: От кумыкского *агъу* или азербайджанского *ağı* "яд".

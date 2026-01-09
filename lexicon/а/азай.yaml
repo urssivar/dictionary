@@ -2,19 +2,19 @@ id: nGynxkGgjEPvDfvUgJ3G
 headword: азай
 ipa: aˈzaj
 tags: [n]
-variants:
-  - text: абизи
-  - text: абазай
-  - text: абайцци
-  - text: аттазай
 forms:
   - text: азай
     gloss: abs
   - text: азайхал
     gloss: pl
+variants:
+  - text: абизи
+  - text: абазай
+  - text: абайцци
+  - text: аттазай
+
 definitions:
-  # TODO: Add semantic tag: kinship
   - translation:
       en: aunt
       ru: тётя
-    # TODO: Add aliases: en: [auntie]; ru: [тётушка]
+    tags: [kinship]

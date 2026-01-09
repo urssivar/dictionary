@@ -1,13 +1,50 @@
-id: TuHMYdGXa1EY7lfywKae
+id: UyNyIj9PbRrkC4uEggy4
 headword: аккор
-ipa: ˈakːor
-tags: [adv]
+ipa: aˈkːor
+tags: [adj, vb]
+forms:
+  - text: аккор
+    gloss: adj
+  - text: аккол
+    gloss: adv
+
 definitions:
   - translation:
-      en: not being
-      ru: не будучи
+      en: without
+      ru: без
+    note:
+      en: Used to form adjectives expressing absence of a quality.
+      ru: Используется для образования прилагательных, выражающих отсутствие качества.
+    aliases:
+      en: [missing, lacking, -less]
+      ru: [не имеющий, лишённый]
     examples:
-      - text: Уба ҡил аккор ҡҡел мацятте.
+      - text: Арц аккол мавятте.
         translation:
-          en: Don't come when mother is not home there.
-          ru: Не приходи когда мама не дома.
+          en: Don't go without money.
+          ru: Без денег не иди.
+      - text: ирхе аккор
+        translation:
+          en: fearless
+          ru: бесстрашный
+      - text: барҳ аккор
+        translation:
+          en: wrong
+          ru: неправильный
+  - translation:
+      en: absent
+      ru: отсутствующий
+    aliases:
+      en: [absent]
+      ru: [нет]
+    examples:
+      - text: Аккортай ра бурса.
+        translation:
+          en: Tell to the absent ones too.
+          ru: Расскажи и тем, кого нет.
+
+etymology:
+  en: Habitual present of the historic verb *аккора* (cf. *акку* "not").
+  ru: Настоящее общее от исторического глагола *аккора* (ср. *акку* "не").
+derived_from: [акку]
+see_also: [буцьар, йяь аккор]

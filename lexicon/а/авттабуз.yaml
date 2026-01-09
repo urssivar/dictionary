@@ -7,9 +7,16 @@ forms:
     gloss: abs
   - text: авттабузе
     gloss: pl
+
 definitions:
   - translation:
       en: bus
       ru: автобус
-    # TODO: "tool" is not appropriate for "bus". Consider "technology" tag instead
-    tags: [tool]
+    tags: [technology]
+    aliases:
+      en: [vehicle]
+      ru: [транспорт]
+
+etymology:
+  en: From Russian *автобус* "bus".
+  ru: От русского *автобус*.

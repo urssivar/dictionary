@@ -2,19 +2,21 @@ id: ayAvsnGDXxUm7wsUUnf3
 headword: ажуғ
 ipa: aˈʒuʁ
 tags: [n, loan, turkic]
-etymology:
-  en: From Azerbaijani *acıq* "spite".
-  ru: От азербайджанского *acıq* "злоба".
 forms:
   - text: ажуғ
     gloss: abs
   - text: ажуғе
     gloss: pl
+
 definitions:
-  # TODO: Consider adding semantic tag: feeling
   - translation:
       en: spite
       ru: злоба
+    tags: [feeling]
     aliases:
-      en: [hate, rancor, malice]
-      ru: [ненависть, гнев, злость]
+      en: [malice, rancor, resentment]
+      ru: [злость, ненависть, гнев]
+
+etymology:
+  en: From Azerbaijani *acıq* "spite".
+  ru: От азербайджанского *acıq* "злоба".

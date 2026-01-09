@@ -1,22 +1,20 @@
 id: naUEZFpazmWdxL7vIIQM
 headword: аккре
 ipa: ˈakːre
-tags: [n]
-etymology:
-  en: Related to *аккор* "absent".
-  ru: Связано с *аккор* "отсутствующий".
+tags: [n, vb]
 forms:
   - text: аккре
     gloss: abs
   - text: аккунде
     gloss: pl
+
 definitions:
   - translation:
-      # TODO: Fix spelling: "nonsence" -> "nonsense"
-      en: nonsence
-      # TODO: "nonsense" and "клевета" (slander) are different meanings - consider splitting into separate definitions
+      en: nonsense
       ru: клевета
     aliases:
-      # TODO: "fiction" doesn't match "nonsense" or "slander". If keeping both meanings, clarify aliases for each
-      en: [fiction]
-      ru: [неправда]
+      en: [fiction, lies, falsehood]
+      ru: [неправда, ложь]
+
+derived_from: [акку]
+see_also: [аҡре]

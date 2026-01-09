@@ -2,13 +2,17 @@ id: nEeI3kokTXHlSH0p2C8K
 headword: аирғиж
 ipa: airʁˈiʒ
 tags: [adj, vb]
-etymology:
-  en: Neg. of *ирғиж* "understandable", from hyp. of *ирғара* "to understand".
-  # TODO: Add Russian translation of etymology
+
 definitions:
   - translation:
       en: obscure
-      ru: непонятный
+      ru: неясный
     aliases:
-      en: [unclear]
-      ru: [неясный]
+      en: [incomprehensible, opaque]
+      ru: [непонятный, темный]
+
+etymology:
+  en: Negative hypothetical participle of *ирғара* "to understand".
+  ru: Отрицательное гипотетическое причастие от *ирғара* "понимать".
+derived_from: [ирғара]
+see_also: [ирғиж]

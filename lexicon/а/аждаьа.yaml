@@ -2,18 +2,23 @@ id: gNLukVNccL4EggO0bVTo
 headword: аждаьа
 ipa: aʒdaˈha
 tags: [n, loan, iranian]
-variants:
-  - text: айдаьа
 forms:
   - text: аждаьа
     gloss: abs
   - text: аждиьне
     gloss: pl
+variants:
+  - text: айдаьа
+
 definitions:
   - translation:
       en: dragon
       ru: дракон
-    tags: [religion, animal]
+    tags: [religion]
     aliases:
-      en: [crocodile, serpent]
-      ru: [крокодил, змей]
+      en: [serpent, mythical creature]
+      ru: [змей, мифическое существо]
+
+etymology:
+  en: From Persian اژدها (*aždahā*) "dragon".
+  ru: От персидского اژدها (*aždahā*) "дракон".

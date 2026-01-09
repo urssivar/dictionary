@@ -7,14 +7,12 @@ forms:
     gloss: abs
   - text: ажне
     gloss: pl
+
 definitions:
   - translation:
       en: melody
       ru: мелодия
-    # TODO: "tool" is not appropriate for "melody". Consider "culture" tag instead or remove tag
-    tags: [tool]
+    tags: [culture]
     aliases:
-      # TODO: "note" and "music" are not good aliases for "melody". Consider: [tune, song]
-      en: [note, music, sound]
-      # TODO: "мелодия" is already the translation, shouldn't be in aliases. Consider: [напев, мотив]
-      ru: [нота, музыка, мелодия]
+      en: [tune, song, music]
+      ru: [напев, мотив, музыка]

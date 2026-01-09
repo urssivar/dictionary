@@ -2,14 +2,19 @@ id: dCXsw84KT66fDmQflGTs
 headword: азиртьялан
 ipa: azirtʼæˈlan
 tags: [n]
-# TODO: Add etymology explaining compound from *азир* "thousand" + *тьялан* "legs/feet"
 forms:
   - text: азиртьялан
     gloss: abs
   - text: азиртьяланте
     gloss: pl
+variants:
+  - text: азиртья
+  - text: даршал тьимяр
+
 definitions:
   - translation:
       en: centipede
       ru: многоножка
     tags: [animal, insect]
+
+derived_from: [азир, тья]

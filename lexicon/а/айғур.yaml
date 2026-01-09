@@ -7,13 +7,16 @@ forms:
     gloss: abs
   - text: айғурте
     gloss: pl
+
 definitions:
   - translation:
       en: stallion
       ru: жеребец
     tags: [animal]
     aliases:
-      # TODO: "horse" is too generic for "stallion" (male horse). Consider: [stud, male horse]
-      en: [horse, mustang]
-      # TODO: Add more specific Russian aliases: [жеребчик, скакун]
-      ru: [конь]
+      en: [stud, steed, horse]
+      ru: [конь, скакун, лошадь]
+
+etymology:
+  en: From Kumyk *айгъыр* "stallion".
+  ru: От кумыкского *айгъыр* "жеребец".

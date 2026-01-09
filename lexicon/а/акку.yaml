@@ -1,32 +1,38 @@
 id: KqTGbwI67Fy20RPlHNl4
 headword: акку
 ipa: ˈakːu
-tags: [cop]
-etymology:
-  # TODO: Fix asterisk formatting: **аккора* should be *аккора*
-  en: Habitual of **аккора*, see *аккор*. The past tense's form developed from *аккви* > *аччви* > *аччу*.
-  # TODO: Fix asterisk formatting: **аккора* should be *аккора*
-  ru: Настоящее общее от **аккора*, см. *аккор*. Форма прошедшего времени развивалась как *аккви* > *аччви* > *аччу*.
-variants:
-  - text: аккура
-    gloss: "3"
+tags: [cop, vb]
 forms:
   - text: аккоде
     gloss: "1"
   - text: аккотте
-    gloss: 2 abs
+    gloss: 2.abs
   - text: аккотта
-    gloss: 2 pl
+    gloss: 2.pl
   - text: акку
     gloss: "3"
   - text: аччу
     gloss: pst
+variants:
+  - text: аккура
+    gloss: "3"
+
 definitions:
   - translation:
       en: not
       ru: не
     examples:
-      - text: Бел тухтур акку.
+      - text: Ьел тухтур акку.
         translation:
           en: He's not a doctor.
           ru: Он не доктор.
+          examples:
+      - text: Дул барьул аккоде.
+        translation:
+          en: I do not know
+          ru: Я не знаю.
+
+etymology:
+  en: Habitual present of *аккора*, see *аккор*. The past tense's form developed from *аккви* → *аччви* → *аччу*.
+  ru: Настоящее общее от *аккора*, см. *аккор*. Форма прошедшего времени развивалась как *аккви* → *аччви* → *аччу*.
+see_also: [аккор]

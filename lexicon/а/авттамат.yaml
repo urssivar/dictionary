@@ -7,14 +7,16 @@ forms:
     gloss: abs
   - text: авттамате
     gloss: pl
+
 definitions:
   - translation:
       en: assault rifle
       ru: автомат
-    # TODO: "warfare" is not a valid semantic tag. Use only "tool" tag
-    tags: [tool, warfare]
+    tags: [tool]
     aliases:
-      # TODO: Add more specific aliases: [rifle, automatic weapon]
-      en: [gun]
-      # TODO: "пушка" means "cannon", not "assault rifle". Consider: [ружьё, оружие]
-      ru: [пушка]
+      en: [rifle, automatic weapon, gun]
+      ru: [ружьё, оружие]
+
+etymology:
+  en: From Russian *автомат* "assault rifle".
+  ru: От русского *автомат*.

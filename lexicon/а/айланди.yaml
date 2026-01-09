@@ -3,10 +3,17 @@ headword: айланди
 ipa: ajlanˈdi
 tags: [n, loan, turkic]
 variants:
-  - text: ҡҡайландир*
+  - text: ҡҡайландир
+
 definitions:
-  # TODO: Consider adding semantic tag: culture
   - translation:
       en: dancing circle
       ru: танцевальный круг
-    # TODO: Add aliases: en: [round dance, circle dance]; ru: [хоровод, круговой танец]
+    tags: [culture]
+    aliases:
+      en: [round dance, circle dance]
+      ru: [хоровод, круговой танец]
+
+etymology:
+  en: From Kumyk *айландыр* "rotation".
+  ru: От кумыкского *айландыр* "вращение".

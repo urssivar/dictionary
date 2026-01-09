@@ -2,7 +2,12 @@ id: JAIcS1PrlHStdfpi9Nk0
 headword: азир
 ipa: aˈzir
 tags: [num, loan, persian]
+
 definitions:
   - translation:
       en: thousand
       ru: тысяча
+
+etymology:
+  en: From Persian هزار (*hazâr*) "thousand".
+  ru: От персидского هزار (*hazâr*) "тысяча".
