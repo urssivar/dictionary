@@ -4,6 +4,8 @@
 
 ### Field Order (with blank line separators)
 
+The full scheme is at `.vscode\lexeme-schema.json`.
+
 ```yaml
 # Block 1: Metadata
 id: [unique identifier]
@@ -43,7 +45,7 @@ All valid tags are defined in `tags.yaml`:
 
 - Use sparingly for semantic tags - only for concrete content words
 - Don't tag abstract grammatical words (adverbs of manner, particles)
-- Verify all tags exist in tags.yaml taxonomy
+- Verify all tags exist in `lexicon/tags.yaml` taxonomy
 
 ## Translations
 
