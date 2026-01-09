@@ -106,6 +106,8 @@ forms:
     gloss: pl
 ```
 
+**Omit forms for transparent compounds**: When a compound's inflection is predictable from its head (final element), don't list forms. Example: *ағула иццала* "cancer" (lit. "poison disease") inflects through *иццала*, so forms are unnecessary.
+
 ### Class Agreement
 
 - Use neutral -б- class marker in headwords and references
