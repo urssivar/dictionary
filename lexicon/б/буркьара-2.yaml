@@ -3,12 +3,12 @@ headword: буркьара
 ipa: burˈkʼara
 tags: [v, tr, cls]
 note:
-  en: '*лукьана/балкьана*'
+  en: "*лукьана/балкьана*"
 forms:
   - text: баркьара
     gloss: pfv
   - text: барчьив
-    gloss: aor
+    gloss: pret
   - text: буркьара
     gloss: ipfv
 definitions:

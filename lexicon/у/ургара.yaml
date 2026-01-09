@@ -3,12 +3,12 @@ headword: ургара
 ipa: urˈgara
 tags: [v, tr]
 note:
-  en: '*иргора* (ipfv)'
+  en: "*иргора* (ipfv)"
 forms:
   - text: ергора
     gloss: pfv
   - text: ергур
-    gloss: aor
+    gloss: pret
   - text: ургара
     gloss: ipfv
 definitions:

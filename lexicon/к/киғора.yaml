@@ -3,12 +3,12 @@ headword: киғора
 ipa: kiˈʁora
 tags: [v, tr, cls]
 note:
-  en: '*бирғора/иғора*'
+  en: "*бирғора/иғора*"
 forms:
   - text: кирғора
     gloss: pfv
   - text: кирғив
-    gloss: aor
+    gloss: pret
   - text: киғора
     gloss: ipfv
 definitions:

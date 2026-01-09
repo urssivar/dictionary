@@ -3,12 +3,12 @@ headword: ирара
 ipa: iˈrara
 tags: [v, tr]
 note:
-  en: '*биъара*, *баара*, *бера*, *бе* (IMP), *баа*, *бив* (AOR)'
+  en: "*биъара*, *баара*, *бера*, *бе* (IMP), *баа*, *бив* (pret)"
 forms:
   - text: биара
     gloss: pfv
   - text: биив
-    gloss: aor
+    gloss: pret
   - text: ирара
     gloss: ipfv
 definitions:

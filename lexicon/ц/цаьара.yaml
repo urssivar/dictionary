@@ -3,12 +3,12 @@ headword: цаьара
 ipa: tʃibilˈhana
 tags: [v, tr, cls]
 note:
-  en: '*чибильана*'
+  en: "*чибильана*"
 forms:
   - text: цаьара
     gloss: pfv
   - text: цаьур
-    gloss: aor
+    gloss: pret
   - text: цурьара
     gloss: ipfv
 definitions:

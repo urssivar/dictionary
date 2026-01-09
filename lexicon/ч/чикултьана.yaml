@@ -3,12 +3,12 @@ headword: чикултьана
 ipa: tʃikulˈtʼana
 tags: [v, tr, cls]
 note:
-  en: '*чикалутьана*'
+  en: "*чикалутьана*"
 forms:
   - text: чикабалтьана
     gloss: pfv
   - text: чикабалтьун
-    gloss: aor
+    gloss: pret
   - text: чикултьана
     gloss: ipfv
 definitions:

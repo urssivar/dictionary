@@ -3,12 +3,12 @@ headword: куццара
 ipa: kuˈtsːara
 tags: [v, tr, cls]
 note:
-  en: '*киццара*'
+  en: "*киццара*"
 forms:
   - text: кабирццара
     gloss: pfv
   - text: кабирццив
-    gloss: aor
+    gloss: pret
   - text: куццара
     gloss: ipfv
 definitions:

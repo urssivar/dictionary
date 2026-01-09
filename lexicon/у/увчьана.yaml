@@ -3,12 +3,12 @@ headword: увчьана
 ipa: uvˈtʃʼana
 tags: [v, tr]
 note:
-  en: '*амчьана*, *явчьана*'
+  en: "*амчьана*, *явчьана*"
 forms:
   - text: авчьана
     gloss: pfv
   - text: авчьун
-    gloss: aor
+    gloss: pret
   - text: увчьана
     gloss: ipfv
 definitions:

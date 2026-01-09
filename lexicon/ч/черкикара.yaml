@@ -3,12 +3,12 @@ headword: черкикара
 ipa: tʃerkiˈkara
 tags: [v, tr]
 note:
-  en: '*киркара*/*кикара*'
+  en: "*киркара*/*кикара*"
 forms:
   - text: черкиркара
     gloss: pfv
   - text: черкирчив
-    gloss: aor
+    gloss: pret
   - text: черкикара
     gloss: ipfv
 definitions:

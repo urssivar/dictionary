@@ -3,12 +3,12 @@ headword: белсана
 ipa: belˈsana
 tags: [v, tr, cls]
 note:
-  en: '*ьабалсана*, *кабалсана*'
+  en: "*ьабалсана*, *кабалсана*"
 forms:
   - text: бесана
     gloss: pfv
   - text: бесун
-    gloss: aor
+    gloss: pret
   - text: белсана
     gloss: ipfv
 definitions:

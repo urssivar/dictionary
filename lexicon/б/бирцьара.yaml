@@ -3,12 +3,12 @@ headword: бирцьара
 ipa: birˈtsʼara
 tags: [v, tr, cls]
 note:
-  en: '*бицьур* (AOR)'
+  en: "*бицьур* (pret)"
 forms:
   - text: бицьара
     gloss: pfv
   - text: бицьив
-    gloss: aor
+    gloss: pret
   - text: бирцьара
     gloss: ipfv
 definitions:

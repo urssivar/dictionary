@@ -3,12 +3,12 @@ headword: чямҡ бирара
 ipa: ˌtʃæmq biˈrara
 tags: [v, cls, tr]
 note:
-  en: '*чявҡ ~*'
+  en: "*чявҡ ~*"
 forms:
   - text: чямҡ барара
     gloss: pfv
   - text: чямҡ барив
-    gloss: aor
+    gloss: pret
   - text: чямҡ бирара
     gloss: ipfv
 definitions:

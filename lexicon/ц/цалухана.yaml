@@ -3,12 +3,12 @@ headword: цалухана
 ipa: tsaluˈχana
 tags: [v, cls, tr]
 note:
-  en: '*балхана*~*булхана*'
+  en: "*балхана*~*булхана*"
 forms:
   - text: цабалхана
     gloss: pfv
   - text: цабалхун
-    gloss: aor
+    gloss: pret
   - text: цалухана
     gloss: ipfv
 definitions:

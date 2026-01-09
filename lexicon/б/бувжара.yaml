@@ -3,12 +3,12 @@ headword: бувжара
 ipa: buvˈʒara
 tags: [v, tr, cls]
 note:
-  en: '*бевгара/бувгара*'
+  en: "*бевгара/бувгара*"
 forms:
   - text: бевжара
     gloss: pfv
   - text: бевжур
-    gloss: aor
+    gloss: pret
   - text: бувжара
     gloss: ipfv
 definitions:

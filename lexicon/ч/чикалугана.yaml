@@ -3,12 +3,12 @@ headword: чикалугана
 ipa: tʃikaluˈgana
 tags: [v, tr]
 note:
-  en: '**калугана**'
+  en: "**калугана**"
 forms:
   - text: чикабелгона
     gloss: pfv
   - text: чикабелгун
-    gloss: aor
+    gloss: pret
   - text: чикалугана
     gloss: ipfv
 definitions:

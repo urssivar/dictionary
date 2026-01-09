@@ -3,12 +3,12 @@ headword: чиликкона
 ipa: tʃiliˈkːona
 tags: [v, cls, tr]
 note:
-  en: '*чибелҳана/чилуҳана*'
+  en: "*чибелҳана/чилуҳана*"
 forms:
   - text: чибелккона
     gloss: pfv
   - text: чибелккун
-    gloss: aor
+    gloss: pret
   - text: чиликкона
     gloss: ipfv
 definitions:

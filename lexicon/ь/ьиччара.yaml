@@ -3,12 +3,12 @@ headword: ьиччара
 ipa: hiˈtʃːara
 tags: [v, cls, tr]
 note:
-  en: '*ьабиччур* (aor), *черьиччара*'
+  en: "*ьабиччур* (pret), *черьиччара*"
 forms:
   - text: ьабиччара
     gloss: pfv
   - text: ьабиччив
-    gloss: aor
+    gloss: pret
   - text: ьиччара
     gloss: ipfv
 definitions:

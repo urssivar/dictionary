@@ -3,12 +3,12 @@ headword: лугана
 ipa: luˈgana
 tags: [v, tr]
 note:
-  en: '*лигона*'
+  en: "*лигона*"
 forms:
   - text: белгона
     gloss: pfv
   - text: белгун
-    gloss: aor
+    gloss: pret
   - text: лугана
     gloss: ipfv
 definitions:

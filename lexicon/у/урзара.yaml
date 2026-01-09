@@ -3,12 +3,12 @@ headword: урзара
 ipa: urˈzara
 tags: [v, ntr]
 note:
-  en: "*ерзур* (AOR)"
+  en: "*ерзур* (pret)"
 forms:
   - text: ерзара
     gloss: pfv
   - text: ерзив
-    gloss: aor
+    gloss: pret
   - text: урзара
     gloss: ipfv
 definitions:

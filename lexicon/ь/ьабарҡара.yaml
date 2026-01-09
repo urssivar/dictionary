@@ -3,12 +3,12 @@ headword: ьабарҡара
 ipa: habarˈqara
 tags: [v, cls, tr]
 note:
-  en: '*ьабаҡа сар*'
+  en: "*ьабаҡа сар*"
 forms:
   - text: ьабаҡара
     gloss: pfv
   - text: ьабаҡив
-    gloss: aor
+    gloss: pret
   - text: ьабарҡара
     gloss: ipfv
 definitions:

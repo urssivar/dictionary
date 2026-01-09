@@ -3,12 +3,12 @@ headword: кискьара
 ipa: kisˈkʼara
 tags: [v, tr]
 note:
-  en: '*кускьара* (ipfv)'
+  en: "*кускьара* (ipfv)"
 forms:
   - text: кескьара
     gloss: pfv
   - text: кескьур
-    gloss: aor
+    gloss: pret
   - text: кискьара
     gloss: ipfv
 definitions:

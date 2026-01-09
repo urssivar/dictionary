@@ -3,12 +3,12 @@ headword: ьиҡьора
 ipa: hiˈqʼora
 tags: [v, tr, cls]
 note:
-  en: '*бирзара*'
+  en: "*бирзара*"
 forms:
   - text: ьабирҡьора
     gloss: pfv
   - text: ьабирҡьур
-    gloss: aor
+    gloss: pret
   - text: ьиҡьора
     gloss: ipfv
 definitions:

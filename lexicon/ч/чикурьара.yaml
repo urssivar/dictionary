@@ -3,12 +3,12 @@ headword: чикурьара
 ipa: tʃikurˈhara
 tags: [v, tr]
 note:
-  en: '*чикарьара*'
+  en: "*чикарьара*"
 forms:
   - text: чикаьара
     gloss: pfv
   - text: чикаьур
-    gloss: aor
+    gloss: pret
   - text: чикурьара
     gloss: ipfv
 definitions:

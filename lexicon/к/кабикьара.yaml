@@ -3,12 +3,12 @@ headword: кабикьара
 ipa: kabiˈkʼara
 tags: [v, tr, cls]
 note:
-  en: '*бакьара/бикьара*, *чибекьара/чибикьара*'
+  en: "*бакьара/бикьара*, *чибекьара/чибикьара*"
 forms:
   - text: кабакьара
     gloss: pfv
   - text: кабачьив
-    gloss: aor
+    gloss: pret
   - text: кабикьара
     gloss: ipfv
 definitions:

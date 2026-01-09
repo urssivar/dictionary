@@ -3,12 +3,12 @@ headword: бивкьара
 ipa: bivˈkʼara
 tags: [v, cls, tr]
 note:
-  en: '*бевкьана*~*бувкьана*'
+  en: "*бевкьана*~*бувкьана*"
 forms:
   - text: бувкьара
     gloss: pfv
   - text: бувчьив
-    gloss: aor
+    gloss: pret
   - text: бивкьара
     gloss: ipfv
 definitions:

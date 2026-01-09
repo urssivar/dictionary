@@ -3,12 +3,12 @@ headword: кивьара
 ipa: kivˈhara
 tags: [v, tr]
 note:
-  en: '*кивьана*/*кувьана*'
+  en: "*кивьана*/*кувьана*"
 forms:
   - text: кавьара
     gloss: pfv
   - text: кавьив
-    gloss: aor
+    gloss: pret
   - text: кивьара
     gloss: ipfv
 definitions:

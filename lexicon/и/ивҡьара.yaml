@@ -4,7 +4,7 @@ ipa: ivˈqʼara
 tags: [v, tr]
 forms:
   - text: ивҡьив
-    gloss: aor
+    gloss: pret
   - text: ивҡьара
     gloss: ipfv
 definitions:
@@ -14,6 +14,6 @@ definitions:
     aliases:
       en: [support]
     examples:
-      - text: '* муҡь ивҡьара'
+      - text: "* муҡь ивҡьара"
         translation:
           en: to rely on someone

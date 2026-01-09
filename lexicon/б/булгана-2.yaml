@@ -3,12 +3,12 @@ headword: булгана
 ipa: bulˈgana
 tags: [v, tr, cls]
 note:
-  en: '*лугана* (IPFV)'
+  en: "*лугана* (IPFV)"
 forms:
   - text: балгана
     gloss: pfv
   - text: балгун
-    gloss: aor
+    gloss: pret
   - text: булгана
     gloss: ipfv
 definitions:

@@ -3,12 +3,12 @@ headword: бикьара
 ipa: biˈkʼara
 tags: [v, cls, tr]
 note:
-  en: '*чибикьара*'
+  en: "*чибикьара*"
 forms:
   - text: бекьара
     gloss: pfv
   - text: бечьив
-    gloss: aor
+    gloss: pret
   - text: бикьара
     gloss: ipfv
 definitions:

@@ -3,12 +3,12 @@ headword: биш дирара
 ipa: ˌbiʃ diˈrara
 tags: [v, tr]
 note:
-  en: '*ччиш ~*'
+  en: "*ччиш ~*"
 forms:
   - text: биш дарара
     gloss: pfv
   - text: биш дарив
-    gloss: aor
+    gloss: pret
   - text: биш дирара
     gloss: ipfv
 definitions:

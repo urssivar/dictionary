@@ -3,12 +3,12 @@ headword: ьабуркьара
 ipa: haburˈkʼara
 tags: [v, tr, cls]
 note:
-  en: '*ьабалтьана*/*ьалутьана*'
+  en: "*ьабалтьана*/*ьалутьана*"
 forms:
   - text: ьабаркьара
     gloss: pfv
   - text: ьабарчьив
-    gloss: aor
+    gloss: pret
   - text: ьабуркьара
     gloss: ipfv
 definitions:

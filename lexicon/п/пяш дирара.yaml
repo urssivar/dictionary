@@ -3,12 +3,12 @@ headword: пяш дирара
 ipa: ˌpæʃ diˈrara
 tags: [v, tr]
 note:
-  en: '*пяс ~*'
+  en: "*пяс ~*"
 forms:
   - text: пяш дарара
     gloss: pfv
   - text: пяш дарив
-    gloss: aor
+    gloss: pret
   - text: пяш дирара
     gloss: ipfv
 definitions:

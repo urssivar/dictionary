@@ -3,12 +3,12 @@ headword: сарбурҡара
 ipa: sarburˈqara
 tags: [v, tr, cls]
 note:
-  en: '*сабурҡара*, *сатти бурҡара*'
+  en: "*сабурҡара*, *сатти бурҡара*"
 forms:
   - text: сарбяҡара
     gloss: pfv
   - text: сарбяҡив
-    gloss: aor
+    gloss: pret
   - text: сарбурҡара
     gloss: ipfv
 definitions:

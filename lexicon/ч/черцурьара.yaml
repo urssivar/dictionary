@@ -6,7 +6,7 @@ forms:
   - text: черцаьара
     gloss: pfv
   - text: черцаьур
-    gloss: aor
+    gloss: pret
   - text: черцурьара
     gloss: ipfv
 definitions:
@@ -14,4 +14,4 @@ definitions:
       en: to unscrew
       ru: откручивать
     aliases:
-      en: [detach, twist, 'off']
+      en: [detach, twist, "off"]

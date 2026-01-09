@@ -3,12 +3,12 @@ headword: чикабиғихара
 ipa: tʃikabiʁiˈχara
 tags: [v, cls, tr]
 note:
-  en: '*чьичья бирара*'
+  en: "*чьичья бирара*"
 forms:
   - text: чикабеғихара
     gloss: pfv
   - text: чикабеғихив
-    gloss: aor
+    gloss: pret
   - text: чикабиғихара
     gloss: ipfv
 definitions:

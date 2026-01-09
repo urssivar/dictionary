@@ -3,12 +3,12 @@ headword: ьяья кабирара
 ipa: hæˌhæ kabiˈrara
 tags: [v, tr, cls]
 note:
-  en: '*~ кабиргара*'
+  en: "*~ кабиргара*"
 forms:
   - text: ьяья кабарара
     gloss: pfv
   - text: ьяья кабарив
-    gloss: aor
+    gloss: pret
   - text: ьяья кабирара
     gloss: ipfv
 definitions:

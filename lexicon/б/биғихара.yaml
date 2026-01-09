@@ -3,12 +3,12 @@ headword: биғихара
 ipa: biʁiˈχara
 tags: [v, tr, cls]
 note:
-  en: '*бехара*'
+  en: "*бехара*"
 forms:
   - text: беғихара
     gloss: pfv
   - text: беғихив
-    gloss: aor
+    gloss: pret
   - text: биғихара
     gloss: ipfv
 definitions:

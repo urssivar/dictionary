@@ -3,12 +3,12 @@ headword: билъана
 ipa: bilˈʔana
 tags: [v, cls, tr]
 note:
-  en: '*билъяна*'
+  en: "*билъяна*"
 forms:
   - text: биъана
     gloss: pfv
   - text: биъун
-    gloss: aor
+    gloss: pret
   - text: билъана
     gloss: ipfv
 definitions:

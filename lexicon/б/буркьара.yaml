@@ -3,12 +3,12 @@ headword: буркьара
 ipa: burˈkʼara
 tags: [v, tr, cls]
 note:
-  en: '*беркьур* (AOR)'
+  en: "*беркьур* (pret)"
 forms:
   - text: беркьора
     gloss: pfv
   - text: берчьив
-    gloss: aor
+    gloss: pret
   - text: буркьара
     gloss: ipfv
 definitions:

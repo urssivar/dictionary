@@ -3,12 +3,12 @@ headword: ьаручара
 ipa: haruˈtʃara
 tags: [v, cls, tr]
 note:
-  en: '*ьаберчара*'
+  en: "*ьаберчара*"
 forms:
   - text: ьабарчара
     gloss: pfv
   - text: ьабарчур
-    gloss: aor
+    gloss: pret
   - text: ьаручара
     gloss: ipfv
 definitions:
