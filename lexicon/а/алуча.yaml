@@ -6,4 +6,6 @@ definitions:
   - translation:
       en: cherry plum
       ru: алыча
+    # TODO: Use "fruit" tag instead of "nature" for fruits; or consider both "plant" and "fruit"
     tags: [plant, nature]
+    # TODO: Add aliases: en: [myrobalan plum]; ru: [слива вишнёвая]

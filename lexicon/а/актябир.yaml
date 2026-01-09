@@ -3,9 +3,13 @@ headword: актябир
 ipa: aktæˈbir
 tags: [n, loan, russian]
 definitions:
+  # TODO: Add semantic tag: time
   - translation:
+      # TODO: Capitalize: "october" -> "October"
       en: october
       ru: октябрь
     aliases:
+      # TODO: "month" is too generic - not appropriate alias for "october"
       en: [month]
+      # TODO: "месяц" is too generic - not appropriate alias for "октябрь"
       ru: [месяц]

@@ -8,9 +8,12 @@ forms:
   - text: айтубе
     gloss: pl
 definitions:
+  # TODO: Consider adding semantic tag: culture
   - translation:
       en: legend
       ru: легенда
     aliases:
+      # TODO: Add more specific aliases: [tale, myth, folklore]
       en: [story]
+      # TODO: "история" is too general. Consider: [сказание, миф, предание]
       ru: [история]

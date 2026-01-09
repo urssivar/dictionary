@@ -6,7 +6,10 @@ definitions:
   - translation:
       en: etiquette
       ru: этикет
+    # TODO: "social" is not a valid semantic tag. Use "culture" instead
     tags: [social]
     aliases:
+      # TODO: "decent" is an adjective, not a noun like "etiquette". Consider: [manners, decency]
       en: [decent]
+      # TODO: "достойный" is an adjective, not a noun. Consider: [манеры, приличие]
       ru: [достойный]

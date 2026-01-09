@@ -3,9 +3,13 @@ headword: аллаь
 ipa: alˈlah
 tags: [n, loan, arabic]
 definitions:
+  # TODO: Add semantic tag: religion
   - translation:
+      # TODO: Capitalize proper noun: "allah" -> "Allah"
       en: allah
       ru: Аллах
     aliases:
+      # TODO: Capitalize: "god" -> "God" (when referring to the deity)
       en: [god]
+      # TODO: Capitalize: "бог" -> "Бог" (when referring to the deity)
       ru: [бог]

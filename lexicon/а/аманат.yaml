@@ -6,3 +6,4 @@ definitions:
   - translation:
       en: custody
       ru: попечение
+    # TODO: Add aliases: en: [guardianship, care]; ru: [опека, попечительство]

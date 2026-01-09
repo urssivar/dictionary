@@ -11,7 +11,9 @@ definitions:
   - translation:
       en: idler
       ru: бездельник
+    # TODO: "social" is not a valid semantic tag. Consider "occupation" or remove tag
     tags: [social]
     aliases:
+      # TODO: "quitter" has a different meaning (someone who gives up), not "idler". Consider: [loafer, slacker, layabout]
       en: [quitter]
       ru: [лентяй]

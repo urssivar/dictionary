@@ -1,6 +1,7 @@
 id: l4FBRv0ZMEMDa2XJumpc
 headword: ахмах
 ipa: aχˈmaχ
+# TODO: "slur" is not a valid tag. Use "pejorative" instead
 tags: [n, slur]
 forms:
   - text: ахмах
@@ -11,3 +12,4 @@ definitions:
   - translation:
       en: idiot
       ru: идиот
+    # TODO: Add aliases: en: [fool, moron]; ru: [дурак, болван]

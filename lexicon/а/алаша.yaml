@@ -12,5 +12,7 @@ definitions:
       en: dwarf
       ru: карлик
     aliases:
+      # TODO: "short" is an adjective, not a noun like "dwarf". Consider: [midget, little person]
       en: [short]
+      # TODO: "низкий" is an adjective, not a noun. Consider: [лилипут, коротышка]
       ru: [низкий]

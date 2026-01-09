@@ -3,7 +3,9 @@ headword: аккор
 ipa: aˈkːor
 tags: [adj, vb]
 etymology:
+  # TODO: Fix asterisk formatting: **аккора* should be *аккора* (single asterisk on each side)
   en: Habitual present of verb **аккора*, which is not retained. Semantically corresponds to English -les.
+  # TODO: Fix asterisk formatting: **аккора* should be *аккора*; also fix typo: "несохранившего" -> "несохранившегося"
   ru: Настоящее общее от несохранившего глагола **аккора*.
 forms:
   - text: аккор
@@ -15,7 +17,9 @@ definitions:
       en: without
       ru: не имеющий
     aliases:
+      # TODO: "les" should be "-less" (English suffix). Consider: [missing, lacking, -less]
       en: [missing, lacking, les]
+      # TODO: Add Russian aliases
     examples:
       - text: ирхе аккор
         translation:

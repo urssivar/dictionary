@@ -4,7 +4,9 @@ ipa: albuˈχar
 tags: [n]
 definitions:
   - translation:
+      # TODO: Capitalize proper noun: "bukhara" -> "Bukhara"
       en: bukhara
       ru: Бухара
+    # TODO: "toponym" is not a valid semantic tag - use "placename" instead
     tags: [toponym]
 source: temirbulatova2004

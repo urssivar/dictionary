@@ -2,10 +2,14 @@ id: sYv6FWMUwxss0BX32jkZ
 headword: албастти
 ipa: albasˈtːi
 tags: [n, loan]
+# TODO: Add etymology explaining the source of this loanword
 definitions:
+  # TODO: Consider adding semantic tag: religion
   - translation:
       en: devil
       ru: дьявол
     aliases:
+      # TODO: Add more aliases: [demon, evil spirit]
       en: [satan]
+      # TODO: Add more aliases: [демон, злой дух]
       ru: [сатана]

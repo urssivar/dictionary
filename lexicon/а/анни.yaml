@@ -3,6 +3,8 @@ headword: анни
 ipa: anˈni
 tags: [n, child]
 definitions:
+  # TODO: Consider adding semantic tag: feeling or disease
   - translation:
       en: pain
       ru: боль
+    # TODO: Add aliases: en: [ache, hurt]; ru: [недомогание, боль]

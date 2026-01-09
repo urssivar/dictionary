@@ -9,5 +9,7 @@ definitions:
       en: around
       ru: вокруг
     aliases:
+      # TODO: "encircle" is a verb, but "around" is a preposition/adverb. Consider: [about, surrounding]
       en: [encircle]
+      # TODO: "окружить" is a verb, but "вокруг" is a preposition. Consider: [вблизи, кругом]
       ru: [окружить]

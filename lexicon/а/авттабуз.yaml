@@ -11,4 +11,5 @@ definitions:
   - translation:
       en: bus
       ru: автобус
+    # TODO: "tool" is not appropriate for "bus". Consider "technology" tag instead
     tags: [tool]

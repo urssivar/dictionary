@@ -12,6 +12,7 @@ forms:
 definitions:
   - translation:
       en: to stick
+      # TODO: "втыкать" is transitive (tr), but this verb is tagged as ntr. Either change tag to tr or change translation to intransitive form: "втыкаться"
       ru: втыкать
     aliases:
       en: [prick]

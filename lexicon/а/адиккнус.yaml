@@ -4,6 +4,7 @@ ipa: adikːˈnus
 tags: [n, vb]
 etymology:
   en: From neg. of *биккара* "to want", cf. *буснус* "sleepy person".
+  # TODO: Add Russian translation of etymology
 forms:
   - text: адиккнус
     gloss: nom
@@ -13,3 +14,4 @@ definitions:
   - translation:
       en: inhospitable person
       ru: негостеприимный человек
+    # TODO: Add aliases: en: [unwelcoming person, unfriendly host]; ru: [негостеприимец, недоброжелатель]

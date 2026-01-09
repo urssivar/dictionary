@@ -6,3 +6,4 @@ definitions:
   - translation:
       en: impression
       ru: впечатление
+    # TODO: Add aliases: en: [impact, effect]; ru: [воздействие, эффект]

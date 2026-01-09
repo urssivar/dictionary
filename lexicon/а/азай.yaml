@@ -13,6 +13,8 @@ forms:
   - text: азайхал
     gloss: pl
 definitions:
+  # TODO: Add semantic tag: kinship
   - translation:
       en: aunt
       ru: тётя
+    # TODO: Add aliases: en: [auntie]; ru: [тётушка]

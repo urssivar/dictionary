@@ -6,4 +6,6 @@ definitions:
   - translation:
       en: anarchy
       ru: анархия
+    # TODO: "social" is not a valid semantic tag. Use "culture" instead
     tags: [social]
+    # TODO: Add aliases: en: [chaos, disorder]; ru: [хаос, беспорядок]

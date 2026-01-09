@@ -10,8 +10,11 @@ forms:
   - text: азбунде
     gloss: pl
 definitions:
+  # TODO: Consider adding semantic tag: structure
   - translation:
       en: yard
       ru: двор
     aliases:
+      # TODO: "garth" is archaic. Consider more common aliases: [courtyard, enclosure]
       en: [garth]
+      # TODO: Add Russian aliases: [двор, подворье]

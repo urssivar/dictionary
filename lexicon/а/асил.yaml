@@ -6,3 +6,4 @@ definitions:
   - translation:
       en: noble
       ru: благородный
+    # TODO: Add aliases: en: [aristocratic, dignified]; ru: [благородный, аристократичный]

@@ -7,5 +7,7 @@ definitions:
       en: alphabet
       ru: алфавит
     aliases:
+      # TODO: "letter" refers to a single letter, not "alphabet". Consider: [abc, letters]
       en: [abc, letter]
+      # TODO: "буква" is a single letter, not "alphabet". Consider: [азбука, письменность]
       ru: [абв, буква]

@@ -6,4 +6,6 @@ definitions:
   - translation:
       en: caraway
       ru: тмин
+    # TODO: "nature" is too generic. Use "plant" tag instead
     tags: [nature]
+    # TODO: Add aliases: en: [cumin]; ru: [кмин, семена тмина]

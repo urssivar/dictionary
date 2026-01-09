@@ -3,7 +3,9 @@ headword: акку
 ipa: ˈakːu
 tags: [cop]
 etymology:
+  # TODO: Fix asterisk formatting: **аккора* should be *аккора*
   en: Habitual of **аккора*, see *аккор*. The past tense's form developed from *аккви* > *аччви* > *аччу*.
+  # TODO: Fix asterisk formatting: **аккора* should be *аккора*
   ru: Настоящее общее от **аккора*, см. *аккор*. Форма прошедшего времени развивалась как *аккви* > *аччви* > *аччу*.
 variants:
   - text: аккура

@@ -2,10 +2,14 @@ id: J4Qtne0TErovx7ZsQCpo
 headword: адаьре
 ipa: ˈadahre
 tags: [n, vb]
+# TODO: Add etymology explaining derivation (likely from negative form of *даьа* "to know")
 definitions:
   - translation:
+      # TODO: "dunno" is informal/colloquial - consider more formal: "ignoramus" or "know-nothing"
       en: dunno
       ru: незнайка
     aliases:
+      # TODO: "dummy" is not a good synonym for "dunno" - too different in meaning. Consider: [ignoramus, know-nothing]
       en: [dummy]
+      # TODO: "дурак" means "fool", not "незнайка" (ignoramus). Consider: [невежда]
       ru: [дурак]

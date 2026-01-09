@@ -10,7 +10,9 @@ definitions:
       en: in great numbers
       ru: в великом множестве
     aliases:
+      # TODO: "all" doesn't match "in great numbers". Consider: [countless, innumerable]
       en: [all]
+      # TODO: "все" doesn't match "в великом множестве". Consider: [бесчисленное множество, тысячи]
       ru: [все]
     examples:
       - text: азиранцци вейкку

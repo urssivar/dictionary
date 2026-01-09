@@ -12,8 +12,11 @@ forms:
     gloss: pl
 definitions:
   - translation:
+      # TODO: Fix spelling: "nonsence" -> "nonsense"
       en: nonsence
+      # TODO: "nonsense" and "клевета" (slander) are different meanings - consider splitting into separate definitions
       ru: клевета
     aliases:
+      # TODO: "fiction" doesn't match "nonsense" or "slander". If keeping both meanings, clarify aliases for each
       en: [fiction]
       ru: [неправда]

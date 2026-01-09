@@ -7,4 +7,6 @@ definitions:
       en: canteen
       ru: столовая
     aliases:
+      # TODO: Add more aliases: [cafeteria, dining hall]
       en: [buffet]
+      # TODO: Add Russian aliases: [кафетерий, буфет]

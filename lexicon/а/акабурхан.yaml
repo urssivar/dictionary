@@ -4,6 +4,7 @@ ipa: akaburˈχan
 tags: [adj, vb, cls]
 etymology:
   en: Neg. obl. of *кабурхара* in the sense "to complete".
+  # TODO: Add Russian translation of etymology
 forms:
   - text: акабурхан
     gloss: adj

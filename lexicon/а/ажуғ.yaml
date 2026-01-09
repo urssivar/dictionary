@@ -11,6 +11,7 @@ forms:
   - text: ажуғе
     gloss: pl
 definitions:
+  # TODO: Consider adding semantic tag: feeling
   - translation:
       en: spite
       ru: злоба

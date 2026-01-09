@@ -6,3 +6,4 @@ definitions:
   - translation:
       en: barren
       ru: яловой
+    # TODO: Add aliases: en: [sterile, infertile]; ru: [бесплодный, неплодный]
