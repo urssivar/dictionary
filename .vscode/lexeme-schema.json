@@ -10,22 +10,22 @@
   "properties": {
     "id": {
       "type": "string",
-      "description": "Unique entry identifier"
+      "description": "Unique entry identifier."
     },
     "headword": {
       "type": "string",
-      "description": "Main word form"
+      "description": "Main word form."
     },
     "ipa": {
       "type": "string",
-      "description": "IPA pronunciation"
+      "description": "IPA pronunciation."
     },
     "tags": {
       "type": "array",
       "items": {
         "type": "string"
       },
-      "description": "Grammar and semantic tags"
+      "description": "Grammar, etymology, and register tags (see tags.yaml taxonomy)."
     },
     "forms": {
       "type": "array",
@@ -37,11 +37,11 @@
         "properties": {
           "text": {
             "type": "string",
-            "description": "Word form"
+            "description": "Word form."
           },
           "gloss": {
             "type": "string",
-            "description": "Leipzig gloss abbreviation"
+            "description": "Leipzig glossing abbreviation (e.g., ipfv, pret, pfv, nom, pl)."
           }
         }
       }
@@ -56,15 +56,15 @@
         "properties": {
           "text": {
             "type": "string",
-            "description": "Dialectal variant form"
+            "description": "Dialectal variant form."
           },
           "gloss": {
             "type": "string",
-            "description": "Leipzig gloss abbreviation"
+            "description": "Leipzig gloss abbreviation."
           },
           "lect": {
             "type": "string",
-            "description": "Dialect/lect code"
+            "description": "Dialect/lect code."
           }
         }
       }
@@ -80,37 +80,36 @@
         "properties": {
           "translation": {
             "$ref": "#/definitions/bilingualText",
-            "description": "Translation in English and/or Russian"
+            "description": "Translation in English/Russian."
           },
           "tags": {
             "type": "array",
             "items": {
               "type": "string"
             },
-            "description": "Semantic tags for this definition"
+            "description": "Semantic domain tags for this definition (e.g., kinship, animal, time)."
           },
           "aliases": {
             "type": "object",
+            "description": "Alternative translations and hypernyms for search discoverability. Not displayed in UI. Includes both strict synonyms and category terms (e.g., 'dog' for 'puppy', 'month' for 'August').",
             "properties": {
               "en": {
                 "type": "array",
                 "items": {
                   "type": "string"
-                },
-                "description": "Alternative English translations"
+                }
               },
               "ru": {
                 "type": "array",
                 "items": {
                   "type": "string"
-                },
-                "description": "Alternative Russian translations"
+                }
               }
             }
           },
           "note": {
             "$ref": "#/definitions/bilingualText",
-            "description": "Notes specific to this definition"
+            "description": "Notes specific to this definition."
           },
           "examples": {
             "type": "array",
@@ -122,11 +121,11 @@
               "properties": {
                 "text": {
                   "type": "string",
-                  "description": "Example sentence in Kaitag"
+                  "description": "Example sentence in Kaitag."
                 },
                 "translation": {
                   "$ref": "#/definitions/bilingualText",
-                  "description": "Translation of example"
+                  "description": "Translation of example."
                 }
               }
             }
@@ -136,25 +135,25 @@
     },
     "note": {
       "$ref": "#/definitions/bilingualText",
-      "description": "Word-level notes"
+      "description": "Word-level notes."
     },
     "etymology": {
       "$ref": "#/definitions/bilingualText",
-      "description": "Etymology and origin information"
+      "description": "Etymology and origin information. Include for loans (with source), non-obvious semantic shifts, and irregular formations."
     },
     "derived_from": {
       "type": "array",
       "items": {
         "type": "string"
       },
-      "description": "Source headword(s) for derivation or compounding"
+      "description": "Source headword(s) for derivation or compounding."
     },
     "see_also": {
       "type": "array",
       "items": {
         "type": "string"
       },
-      "description": "Related headwords to cross-reference"
+      "description": "Related headwords to cross-reference."
     },
     "source": {
       "type": "string",
@@ -167,11 +166,11 @@
       "properties": {
         "en": {
           "type": "string",
-          "description": "English text"
+          "description": "English text."
         },
         "ru": {
           "type": "string",
-          "description": "Russian text"
+          "description": "Russian text."
         }
       }
     }
