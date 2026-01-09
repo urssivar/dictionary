@@ -167,8 +167,8 @@ etymology:
 
 ```yaml
 etymology:
-  en: From Kumyk *гьав* "hunt" (or Azerbaijani *ov*).
-  ru: От кумыкского *гьав* "охота" (или азербайджанского *ov*).
+  en: From Kumyk *гьав* or Azerbaijani *ov* "hunt".
+  ru: От кумыкского *гьав* или азербайджанского *ov* "охота".
 ```
 
 - No transcription for Cyrillic in English
