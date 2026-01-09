@@ -77,6 +77,8 @@ All valid tags are defined in `tags.yaml`:
 
 ## Forms
 
+Use standard Leipzig abbreviations (see https://en.wikipedia.org/wiki/List_of_glossing_abbreviations)
+
 ### Standard Verb Forms (in order)
 
 ```yaml
@@ -108,6 +110,22 @@ forms:
 
 - Use neutral -б- class marker in headwords and references
 - Tag with `cls` when verb has class agreement slots
+- Don't list all class variants (б/в/р/д) in forms - class variation is implicit
+
+### Multiple Glosses
+
+**Use periods for portmanteau/fused categories:**
+
+```yaml
+gloss: 1.sg.pst # Single form expressing person, number, and tense
+```
+
+**Use commas for alternatives/syncretism:**
+
+```yaml
+gloss: 1.pl, 2.pl  # Same form serves different functions
+gloss: 2.sg, pst   # Polyfunctional form
+```
 
 ## Etymology
 
