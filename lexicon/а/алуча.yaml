@@ -1,11 +1,17 @@
 id: woWeRCCwDFtK6WcEBPWP
 headword: алуча
 ipa: aluˈtʃa
-tags: [n, loan]
+tags: [n, loan, iranian]
+
 definitions:
   - translation:
       en: cherry plum
       ru: алыча
-    # TODO: Use "fruit" tag instead of "nature" for fruits; or consider both "plant" and "fruit"
-    tags: [plant, nature]
-    # TODO: Add aliases: en: [myrobalan plum]; ru: [слива вишнёвая]
+    tags: [tree, fruit]
+    aliases:
+      en: [plum]
+      ru: [слива]
+
+etymology:
+  en: From Persian آلوچه (*âluče*) "damson, plum".
+  ru: От персидского آلوچه (*âluče*) "слива, алыча".

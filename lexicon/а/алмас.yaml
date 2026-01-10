@@ -1,9 +1,14 @@
 id: eQ7liiBFTlPyOz4bCsDM
 headword: алмас
 ipa: alˈmas
-tags: [n]
+tags: [n, loan, iranian]
+
 definitions:
   - translation:
       en: glass cutter
       ru: стеклорез
     tags: [tool]
+
+etymology:
+  en: From Persian الماس (*almās*) "diamond", though the semantic shift to "glass cutter" is unclear.
+  ru: От персидского الماس (*almās*) "алмаз", хотя семантический сдвиг к "стеклорез" неясен.

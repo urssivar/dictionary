@@ -1,12 +1,12 @@
 id: sBDatGK7QGU7rMLqXxwU
 headword: албухар
 ipa: albuˈχar
-tags: [n]
+tags: [n, loan, arabic]
+
 definitions:
   - translation:
-      # TODO: Capitalize proper noun: "bukhara" -> "Bukhara"
-      en: bukhara
+      en: Bukhara
       ru: Бухара
-    # TODO: "toponym" is not a valid semantic tag - use "placename" instead
-    tags: [toponym]
+    tags: [placename]
+
 source: temirbulatova2004

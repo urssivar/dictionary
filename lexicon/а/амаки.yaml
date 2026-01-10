@@ -2,9 +2,9 @@ id: lZTcrSzBD2AuqOSMjcWx
 headword: амаки
 ipa: amaˈki
 tags: [conj]
-etymology:
-  en: Related to *ама* "but".
-  ru: Связано с *ама* "но".
+variants:
+  - text: аммаки
+
 definitions:
   - translation:
       en: however
@@ -12,3 +12,5 @@ definitions:
     aliases:
       en: [yet, but]
       ru: [всё же, но]
+
+derived_from: [ама]

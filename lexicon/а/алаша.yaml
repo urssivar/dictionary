@@ -1,18 +1,21 @@
 id: 2u09MPjR2dV7fkXCAIkW
 headword: алаша
 ipa: alaˈʃa
-tags: [n]
+tags: [n, loan, turkic]
 forms:
   - text: алаша
     gloss: abs
   - text: алашабе
     gloss: pl
+
 definitions:
   - translation:
       en: dwarf
       ru: карлик
     aliases:
-      # TODO: "short" is an adjective, not a noun like "dwarf". Consider: [midget, little person]
-      en: [short]
-      # TODO: "низкий" is an adjective, not a noun. Consider: [лилипут, коротышка]
-      ru: [низкий]
+      en: [short, runt]
+      ru: [коротышка, низкий]
+
+etymology:
+  en: From Kumyk *алаша* "short".
+  ru: От кумыкского *алаша* "низкий".

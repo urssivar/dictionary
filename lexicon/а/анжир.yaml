@@ -1,9 +1,14 @@
 id: OTLPPvuQ14eqG8cwn079
 headword: анжир
 ipa: anˈʒir
-tags: [n, loan]
+tags: [n, loan, iranian]
+
 definitions:
   - translation:
       en: fig
       ru: инжир
-    tags: [food, fruit, plant]
+    tags: [tree, fruit]
+
+etymology:
+  en: From Persian انجیر (*anjir*) "fig".
+  ru: От персидского انجیر (*anjir*) "инжир".

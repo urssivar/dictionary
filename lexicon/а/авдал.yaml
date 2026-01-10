@@ -1,7 +1,7 @@
 id: 153QGimJVn33k30768oW
 headword: авдал
 ipa: avˈdal
-tags: [n, pejorative, loan, arabic]
+tags: [n, loan, arabic]
 forms:
   - text: авдал
     gloss: abs
@@ -15,6 +15,7 @@ definitions:
     aliases:
       en: [idiot, simpleton]
       ru: [дурак, идиот]
+    tags: [pejorative]
 
 etymology:
   en: From Arabic أبدال (*abdāl*) "God's saint".

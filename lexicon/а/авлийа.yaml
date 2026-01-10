@@ -1,7 +1,7 @@
 id: vISgU6D28bmi9K3RjyPW
 headword: авлийа
 ipa: avliˈja
-tags: [n, pejorative, loan, arabic]
+tags: [n, loan, arabic]
 forms:
   - text: авлийа
     gloss: abs
@@ -15,6 +15,7 @@ definitions:
     aliases:
       en: [madman, lunatic]
       ru: [сумасшедший, безумец]
+    tags: [pejorative]
 
 etymology:
   en: From Arabic أولياء (*awliyāʾ*) "the beloved of God".

@@ -2,6 +2,9 @@ id: Z1r9rPvJ12RiEAVI2Ozk
 headword: ама
 ipa: ˈama
 tags: [conj, loan, arabic]
+variants:
+  - text: амма
+
 definitions:
   - translation:
       en: but
@@ -9,3 +12,7 @@ definitions:
     aliases:
       en: [though, and]
       ru: [хотя, а]
+
+etymology:
+  en: From Arabic أَمَّا (*ʔammā*) "as for".
+  ru: От арабского أَمَّا (*ʔammā*) "что касается".

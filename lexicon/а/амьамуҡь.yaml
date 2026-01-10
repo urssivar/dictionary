@@ -7,11 +7,17 @@ forms:
     gloss: abs
   - text: амьамуҡье
     gloss: pl
+
 definitions:
   - translation:
       en: woodlouse
       ru: мокрица
-    tags: [animal, insect]
+    tags: [insect]
     aliases:
-      en: [bug]
-      ru: [жук]
+      en: [bug, pill bug]
+      ru: [жук, мокрица]
+
+etymology:
+  en: Possibly from *имьа* "donkey".
+  ru: Возможно, от *имьа* "осёл".
+see_also: [имьа]

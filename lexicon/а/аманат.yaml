@@ -1,9 +1,16 @@
 id: 2KgcbH9rBSlCfmSONShV
 headword: аманат
 ipa: amaˈnat
-tags: [n, loan]
+tags: [n, loan, arabic]
+
 definitions:
   - translation:
       en: custody
       ru: попечение
-    # TODO: Add aliases: en: [guardianship, care]; ru: [опека, попечительство]
+    aliases:
+      en: [guardianship, care]
+      ru: [опека, попечительство]
+
+etymology:
+  en: From Arabic أَمَانَة (*ʔamāna*) "trust, reliability".
+  ru: От арабского أَمَانَة (*ʔamāna*) "верность, надёжность".

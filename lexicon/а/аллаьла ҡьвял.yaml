@@ -2,9 +2,11 @@ id: RcWxD3pstDG11GFQtmgh
 headword: аллаьла ҡьвял
 ipa: alˌlahla ˈqʼʷæl
 tags: [n]
-# TODO: Add etymology explaining this compound from *аллаь* "Allah" + *ҡьвял*
+
 definitions:
   - translation:
       en: firebug
       ru: клоп-солдатик
-    tags: [animal, insect]
+    tags: [insect]
+
+derived_from: [аллаь, ҡьвял]

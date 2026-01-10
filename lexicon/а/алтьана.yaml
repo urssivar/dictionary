@@ -3,20 +3,20 @@ headword: алтьана
 ipa: alˈtʼana
 tags: [v, ntr]
 forms:
-  - text: атьана
-    gloss: pfv
-  - text: атьун
-    gloss: pret
   - text: алтьана
     gloss: ipfv
+  - text: атьун
+    gloss: pret
+  - text: атьана
+    gloss: pfv
+
 definitions:
   - translation:
       en: to stick
-      # TODO: "втыкать" is transitive (tr), but this verb is tagged as ntr. Either change tag to tr or change translation to intransitive form: "втыкаться"
-      ru: втыкать
+      ru: втыкаться
     aliases:
-      en: [prick]
-      ru: [уколоть]
+      en: [prick, pierce]
+      ru: [уколоть, проткнуть]
     examples:
       - text: Тьуппуцци чахул атьун.
         translation:
