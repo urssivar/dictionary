@@ -23,4 +23,5 @@ definitions:
           en: got some sleep
           ru: поспал
 
-see_also: [анкь кабиргара]
+derived_from: ["*анкь"]
+see_also: [анкь кабиргара, иццала]

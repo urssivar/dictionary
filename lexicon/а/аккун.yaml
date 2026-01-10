@@ -23,4 +23,5 @@ definitions:
           en: There's but a single cow.
           ru: Есть лишь одна корова.
 
-derived_from: [акку]
+derived_from: ["*аккора"]
+see_also: [аккол]

@@ -33,6 +33,7 @@ definitions:
           ru: Я не знаю.
 
 etymology:
-  en: Habitual present of *аккора*, see *аккор*. The past tense's form developed from *аккви* → *аччви* → *аччу*.
-  ru: Настоящее общее от *аккора*, см. *аккор*. Форма прошедшего времени развивалась как *аккви* → *аччви* → *аччу*.
-see_also: [аккор]
+  en: Habitual present of the historic verb *\*аккора*. The past tense's form developed from *аккви* → *аччви* → *аччу*.
+  ru: Настоящее общее от исторического глагола *\*аккора*. Форма прошедшего времени развивалась как *аккви* → *аччви* → *аччу*.
+derived_from: ["*аккора"]
+see_also: [аккор-2]

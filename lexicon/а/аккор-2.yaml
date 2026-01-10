@@ -20,4 +20,4 @@ definitions:
           en: Stand where there's no rain.
           ru: Стой там, где нет дождя.
 
-see_also: [акку]
+derived_from: ["*аккора"]

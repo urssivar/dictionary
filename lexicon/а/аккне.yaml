@@ -17,7 +17,7 @@ definitions:
           ru: Я не знал, что отец не дома.
 
 etymology:
-  en: Masdar from the historic verb *аккора* (cf. *акку* "not").
-  ru: Масдар от исторического глагола *аккора* (ср. *акку* "не").
-derived_from: [акку]
-see_also: [аккор, аккре]
+  en: Masdar from the historic verb *\*аккора* (cf. *акку* "not").
+  ru: Масдар от исторического глагола *\*аккора* (ср. *акку* "не").
+derived_from: ["*аккора"]
+see_also: [акку, биьне, аккре]

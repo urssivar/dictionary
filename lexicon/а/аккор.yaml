@@ -44,7 +44,7 @@ definitions:
           ru: Расскажи и тем, кого нет.
 
 etymology:
-  en: Habitual present of the historic verb *аккора* (cf. *акку* "not").
-  ru: Настоящее общее от исторического глагола *аккора* (ср. *акку* "не").
-derived_from: [акку]
-see_also: [буцьар, йяь аккор]
+  en: Habitual present of the historic verb *\*аккора* (cf. *акку* "not").
+  ru: Настоящее общее от исторического глагола *\*аккора* (ср. *акку* "не").
+derived_from: ["*аккора"]
+see_also: [йяь аккор, буцьар, акку]

@@ -194,7 +194,7 @@ etymology:
 
 ### Formatting Conventions
 
-- Use *italics* for cited linguistic forms: *word*
+- Use *\*italics* for cited linguistic forms: *word*
 - Use "double quotes" for glosses/meanings in both English and Russian
 - Use (parentheses) for supplementary notes: (cf. *word*), (pl.), (мн. ч.)
 
@@ -205,6 +205,8 @@ etymology:
 - Link to source headwords for derivation/compounding
 - For compounds: include both elements `[noun, verb]`
 - Use even when etymology is present (for navigation)
+- **Reconstructed roots**: Use asterisk prefix `[*root]` when the base form doesn't exist as a dictionary entry - these are hidden from UI but maintain structured relationships
+- **Semantic head first**: The element that determines the core meaning/category, modifiers/specifiers follow
 
 ### see_also
 

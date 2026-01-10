@@ -16,5 +16,5 @@ definitions:
       ru: бабушка по отцу
     tags: [kinship]
 
-derived_from: [атта, уба]
+derived_from: [уба, атта]
 see_also: [абаба]

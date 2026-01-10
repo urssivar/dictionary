@@ -16,5 +16,5 @@ definitions:
       en: [fiction, lies, falsehood]
       ru: [неправда, ложь]
 
-derived_from: [акку]
+derived_from: ["*аккора"]
 see_also: [аҡре]
