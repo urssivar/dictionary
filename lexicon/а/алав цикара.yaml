@@ -3,12 +3,13 @@ headword: алав цикара
 ipa: aˌlav tsiˈkara
 tags: [v, tr]
 forms:
-  - text: алав цакара
-    gloss: pfv
-  - text: алав цачив
-    gloss: pret
   - text: алав цикара
     gloss: ipfv
+  - text: алав цачив
+    gloss: pret
+  - text: алав цакара
+    gloss: pfv
+
 definitions:
   - translation:
       en: to navigate
@@ -21,3 +22,5 @@ definitions:
         translation:
           en: Navigated the conversation to where was needed.
           ru: Подвёл разговор куда надо было.
+
+derived_from: [алав, бикара]

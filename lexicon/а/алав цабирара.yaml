@@ -3,16 +3,19 @@ headword: алав цабирара
 ipa: aˌlav tsabiˈrara
 tags: [v, cls, tr]
 forms:
-  - text: алав цабарара
-    gloss: pfv
-  - text: алав цабарив
-    gloss: pret
   - text: алав цабирара
     gloss: ipfv
+  - text: алав цабарив
+    gloss: pret
+  - text: алав цабарара
+    gloss: pfv
+
 definitions:
   - translation:
       en: to enclose
       ru: огораживать
     aliases:
-      en: [encircle, surround, fence]
-      ru: [окружить]
+      en: [fence, encircle, surround]
+      ru: [окружить, обнести, изгородить]
+
+derived_from: [алав, бирара]

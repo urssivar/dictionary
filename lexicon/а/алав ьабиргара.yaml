@@ -3,16 +3,19 @@ headword: алав ьабиргара
 ipa: aˌlav habirˈgara
 tags: [v, cls, ntr]
 forms:
-  - text: алав ьабигара
-    gloss: pfv
-  - text: алав ьабижив
-    gloss: pret
   - text: алав ьабиргара
     gloss: ipfv
+  - text: алав ьабижив
+    gloss: pret
+  - text: алав ьабигара
+    gloss: pfv
+
 definitions:
   - translation:
       en: to rally
       ru: сплачиваться
     aliases:
-      en: [gather, congregate]
-      ru: [собираться, сойтись]
+      en: [unite, band together, gather]
+      ru: [объединяться, сплотиться]
+
+derived_from: [алав, биргара]

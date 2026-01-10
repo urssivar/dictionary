@@ -3,12 +3,13 @@ headword: алав ьабирара
 ipa: aˌlav habiˈrara
 tags: [v, cls, tr]
 forms:
-  - text: алав ьабарара
-    gloss: pfv
-  - text: алав ьабарив
-    gloss: pret
   - text: алав ьабирара
     gloss: ipfv
+  - text: алав ьабарив
+    gloss: pret
+  - text: алав ьабарара
+    gloss: pfv
+
 definitions:
   - translation:
       en: to envelop
@@ -16,3 +17,5 @@ definitions:
     aliases:
       en: [enclose, wrap]
       ru: [обволакивать, заворачивать]
+
+derived_from: [алав, бирара]

@@ -3,12 +3,13 @@ headword: алав ьабурцара
 ipa: aˌlav haburˈtsara
 tags: [v, cls, tr]
 forms:
-  - text: алав ьабуцара
-    gloss: pfv
-  - text: алав ьабуцив
-    gloss: pret
   - text: алав ьабурцара
     gloss: ipfv
+  - text: алав ьабуцив
+    gloss: pret
+  - text: алав ьабуцара
+    gloss: pfv
+
 definitions:
   - translation:
       en: to surround
@@ -16,3 +17,5 @@ definitions:
     aliases:
       en: [encircle]
       ru: [обводить]
+
+derived_from: [алав, бурцара]
