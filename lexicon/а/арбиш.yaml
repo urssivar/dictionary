@@ -5,8 +5,12 @@ tags: [n]
 variants:
   - text: авриш
   - text: арша
+
 definitions:
   - translation:
       en: halva
       ru: халва
     tags: [food]
+    aliases:
+      en: [sweet, confection]
+      ru: [сладость, десерт]

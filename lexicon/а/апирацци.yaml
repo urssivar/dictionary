@@ -7,10 +7,12 @@ forms:
     gloss: abs
   - text: апираццибе
     gloss: pl
+
 definitions:
   - translation:
-      en: operation
-      ru: операция
-    aliases:
-      en: [procedure]
-      ru: [процедура]
+      en: surgery
+      ru: операция (хирургическая)
+
+etymology:
+  en: From Russian *операция* "surgery operation".
+  ru: От русского *операция*.

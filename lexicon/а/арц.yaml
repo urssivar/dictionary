@@ -7,18 +7,18 @@ forms:
     gloss: abs
   - text: арцре
     gloss: pl
+
 definitions:
   - translation:
       en: money
       ru: деньги
-    # TODO: "social" is not a valid semantic tag. Remove or replace with appropriate tag
-    tags: [social]
-    # TODO: Add aliases: en: [currency, cash]; ru: [валюта, наличные]
+    aliases:
+      en: [currency, cash]
+      ru: [валюта, наличные]
   - translation:
       en: silver
       ru: серебро
-    # TODO: "metal" is not a valid semantic tag. Use "material" instead; remove "nature" tag
-    tags: [nature, metal]
+    tags: [material]
     note:
       en: Also *цьябарц*.
       ru: Также *цьябарц*.

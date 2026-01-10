@@ -2,18 +2,19 @@ id: zOFYXYQcsN0D6CAmqG77
 headword: аттаба
 ipa: atːaˈba
 tags: [n]
-variants:
-  - text: аттуба
-etymology:
-  en: Compound of *атта* "father" + *аба* "mother" (cf. *абаба* "maternal grandmother").
-  ru: Сложение *атта* "отец" + *аба* "мать" (ср. *абаба* "бабушка по матери").
 forms:
   - text: аттаба
     gloss: abs
   - text: аттабне
     gloss: pl
+variants:
+  - text: аттуба
+
 definitions:
   - translation:
       en: paternal grandmother
       ru: бабушка по отцу
     tags: [kinship]
+
+derived_from: [атта, уба]
+see_also: [абаба]

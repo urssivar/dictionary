@@ -9,8 +9,12 @@ forms:
     gloss: obl
   - text: анттиппе
     gloss: pl
+
 definitions:
   - translation:
       en: forehead
       ru: лоб
+    aliases:
+      en: [head]
+      ru: [голова]
     tags: [body]

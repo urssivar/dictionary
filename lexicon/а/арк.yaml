@@ -7,7 +7,11 @@ forms:
     gloss: abs
   - text: аркре
     gloss: pl
+
 definitions:
   - translation:
       en: axis
       ru: ось
+    aliases:
+      en: [axle, shaft]
+      ru: [вал]

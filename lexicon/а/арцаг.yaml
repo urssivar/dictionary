@@ -2,16 +2,19 @@ id: uVRZVYnrZTK70ISAl7Vr
 headword: арцаг
 ipa: arˈtsag
 tags: [n]
-variants:
-  - text: арславул
-  - text: арсавккаг
 forms:
   - text: арцаг
     gloss: abs
   - text: арцаге
     gloss: pl
+variants:
+  - text: арслав
+    lect: snch
+  - text: арсавккаг
+    lect: kttg
+
 definitions:
   - translation:
       en: arch
       ru: арка
-    tags: []
+    tags: [structure]

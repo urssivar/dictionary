@@ -2,8 +2,13 @@ id: DMTmf55mc6lN8ifFcu5t
 headword: асил
 ipa: aˈsil
 tags: [adj]
+
 definitions:
   - translation:
       en: noble
       ru: благородный
-    # TODO: Add aliases: en: [aristocratic, dignified]; ru: [благородный, аристократичный]
+    aliases:
+      en: [aristocratic, dignified]
+      ru: [аристократичный, высокородный]
+
+derived_from: [ас]

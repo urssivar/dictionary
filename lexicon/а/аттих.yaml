@@ -2,10 +2,25 @@ id: 37AWXMBwxhemcD1d2TOH
 headword: аттих
 ipa: aˈtːiχ
 tags: [n, loan, russian]
+forms:
+  - text: аттих
+    gloss: abs
+  - text: аттихе
+    gloss: pl
+
 definitions:
   - translation:
-      en: rest
-      ru: отдых
+      en: respite
+      ru: передышка
     aliases:
-      en: [recreation, respite]
-      ru: [восстановление, передышка]
+      en: [break, rest]
+      ru: [отдых, перерыв]
+    examples:
+      - text: Вя, аттих бара.
+        translation:
+          en: Go, have some rest.
+          ru: Иди, передохни.
+
+etymology:
+  en: From Russian *отдых* "rest".
+  ru: От русского *отдых*.

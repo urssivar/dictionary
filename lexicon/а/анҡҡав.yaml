@@ -7,8 +7,12 @@ forms:
     gloss: abs
   - text: анҡҡавте
     gloss: pl
+
 definitions:
   - translation:
       en: kite
       ru: коршун
-    tags: [animal, bird]
+    tags: [bird]
+    aliases:
+      en: [raptor]
+      ru: [хищная птица, орёл]

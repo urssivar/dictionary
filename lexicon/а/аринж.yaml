@@ -2,10 +2,12 @@ id: FX3hCNL6flh77sFcrqtV
 headword: аринж
 ipa: aˈrinʒ
 tags: [n]
+
 definitions:
   - translation:
       en: epidemic
       ru: эпидемия
+    tags: [disease]
     aliases:
-      en: [disease]
-      ru: [болезнь]
+      en: [outbreak, plague]
+      ru: [вспышка, мор]

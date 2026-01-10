@@ -4,10 +4,15 @@ ipa: aˈrind
 tags: [n, loan, russian]
 variants:
   - text: ижар
+
 definitions:
   - translation:
       en: rent
       ru: аренда
     aliases:
       en: [lease]
-      ru: [заём]
+      ru: [наём]
+
+etymology:
+  en: From Russian *аренда* "rent".
+  ru: От русского *аренда*.

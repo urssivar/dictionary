@@ -2,21 +2,25 @@ id: NC2eqONayhyx8FaoeMeu
 headword: арғ
 ipa: ˈarʁ
 tags: [n]
-variants:
-  - text: ерғ
+forms:
+  - text: арғ
+    gloss: abs
+  - text: арғре
+    gloss: pl
+
 definitions:
-  - translation:
-      en: weather
-      ru: погода
-    tags: [nature]
   - translation:
       en: season
       ru: сезон
     aliases:
       en: [time]
-      ru: [время]
+      ru: [время, пора]
     examples:
       - text: ца арғла
         translation:
           en: contemporary
           ru: современный
+      - text: дусела арғре
+        translation:
+          en: seasons (of year)
+          ru: времена года

@@ -7,10 +7,11 @@ forms:
     gloss: abs
   - text: анццуҡҡе
     gloss: pl
+
 definitions:
   - translation:
       en: taunt
       ru: подколка
     aliases:
-      en: [jest, joke, mock]
-      ru: [шутка, издёвка]
+      en: [mockery, tease]
+      ru: [издёвка, насмешка]

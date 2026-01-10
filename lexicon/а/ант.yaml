@@ -2,6 +2,7 @@ id: b97m5HpGR4Q3wDjyUA2C
 headword: ант
 ipa: ˈant
 tags: [n]
+
 definitions:
   - translation:
       en: squeak
@@ -10,7 +11,7 @@ definitions:
       en: [peep, beep]
       ru: [пик]
     examples:
-      - text: ант аҡара ра аватур
+      - text: Ант аҡара ра аватур.
         translation:
-          en: didn't let him even make a sound
-          ru: не дал даже пикнуть
+          en: Didn't let him even make a sound.
+          ru: Не дал ему даже пикнуть.

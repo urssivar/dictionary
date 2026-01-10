@@ -1,9 +1,21 @@
 id: UXJU8FI5IkBPJpzv8M6S
 headword: асар
 ipa: aˈsar
-tags: [n, loan]
+tags: [n, loan, iranian]
+forms:
+  - text: асар
+    gloss: abs
+  - text: асарте
+    gloss: pl
+
 definitions:
   - translation:
       en: impression
       ru: впечатление
-    # TODO: Add aliases: en: [impact, effect]; ru: [воздействие, эффект]
+    aliases:
+      en: [impact, effect]
+      ru: [воздействие, эффект]
+
+etymology:
+  en: From Persian اثر (*asar*), from Arabic أَثَر (*ʔaṯar*) "trace, impression".
+  ru: От персидского اثر (*asar*), от арабского أَثَر (*ʔaṯar*) "след, впечатление".

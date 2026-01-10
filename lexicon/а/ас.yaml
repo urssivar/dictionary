@@ -2,10 +2,11 @@ id: fRsNoqU4sG8NTpxUtGoq
 headword: ас
 ipa: ˈas
 tags: [n]
+
 definitions:
   - translation:
       en: status
       ru: статус
     aliases:
-      en: [privilege]
-      ru: [привелегия]
+      en: [rank, privilege]
+      ru: [ранг, привилегия]

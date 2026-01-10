@@ -3,19 +3,44 @@ headword: аргара
 ipa: arˈgara
 tags: [v, ntr]
 forms:
-  - text: агара
-    gloss: pfv
-  - text: агур
-    gloss: pret
   - text: аргара
     gloss: ipfv
+  - text: агур
+    gloss: pret
+  - text: агара
+    gloss: pfv
+
 definitions:
   - translation:
       en: to happen
       ru: случаться
     aliases:
-      en: [become]
-      ru: [стать]
+      en: [to occur, to take place]
+      ru: [происходить]
+    examples:
+      - text: Церра аарганне етти.
+        translation:
+          en: Nothing will happen to you.
+          ru: Ничего с тобой случится.
+  - translation:
+      en: to work out
+      ru: получаться
+    aliases:
+      en: [to succeed, to manage]
+      ru: [удаваться]
+    examples:
+      - text: Агур у ила?
+        translation:
+          en: Did you manage it?
+          ru: Получилось у тебя?
+  - translation:
+      en: to become
+      ru: становиться
+    examples:
+      - text: Иригле ду дирихтур агурда.
+        translation:
+          en: Last year I became director.
+          ru: В прошлом году я стал директором.
 note:
-  en: There seems to be also *алгана/агана* with related meaning "to plan".
-  ru: Кажется, что есть ещё *алгана/агана* со смыслом "планироваь".
+  en: Temirbulatova 2004 also lists *агана* with meaning "to plan", but it's unclear if it's a typo.
+  ru: В Темирбулатова 2004 также указано *агана* со значением "планировать", но неясно, не опечатка ли это.

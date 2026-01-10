@@ -7,11 +7,12 @@ forms:
     gloss: abs
   - text: анцьенте
     gloss: pl
+
 definitions:
   - translation:
       en: heifer
       ru: тёлка
-    tags: [animal, house]
+    tags: [animal]
     aliases:
-      en: [calf]
-      ru: [телёнок]
+      en: [cow, cattle]
+      ru: [корова, скот]

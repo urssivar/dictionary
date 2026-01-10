@@ -1,15 +1,24 @@
 id: 8mbRqfrgMfov0nWr2Y7k
 headword: атте
 ipa: aˈtːe
-tags: [conj]
+tags: [ptcl]
 variants:
   - text: атти
+
 definitions:
   - translation:
-      en: really
-      ru: разве
+      en: interrogative particle (really?, is it true?)
+      ru: вопросительная частица (разве?, правда ли?)
     examples:
-      - text: Ила уцци ви у атте?
+      - text: Ила бизи би у атте?
         translation:
-          en: Do you realy have a brother?
-          ru: У тебя разве есть брат?
+          en: You really have a cat?
+          ru: У тебя разве есть кошка?
+  - translation:
+      en: emphatic particle (come on, already, now)
+      ru: усилительная частица (же, давай, ну)
+    examples:
+      - text: Бурса атте.
+        translation:
+          en: Tell it already.
+          ru: Расскажи же.

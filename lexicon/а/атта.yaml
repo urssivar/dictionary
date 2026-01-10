@@ -7,8 +7,12 @@ forms:
     gloss: abs
   - text: аттне
     gloss: pl
+
 definitions:
   - translation:
       en: father
       ru: отец
     tags: [kinship]
+    aliases:
+      en: [dad, papa]
+      ru: [папа]

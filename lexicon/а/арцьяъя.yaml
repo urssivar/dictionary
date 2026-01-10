@@ -2,16 +2,19 @@ id: ilULTmo8i3LUJM6NMEBr
 headword: арцьяъя
 ipa: artsʼæˈʔæ
 tags: [n, vb]
-etymology:
-  en: From *ирцьара* "to weed", cf. *уттяъя* "mower".
-  ru: От *ирцьара* "полоть", ср. *уттяъя* "косарь".
 forms:
   - text: арцьяъя
     gloss: abs
   - text: арцьяъне
     gloss: pl
+variants:
+  - text: арцьиҡьян
+
 definitions:
   - translation:
       en: weeder
       ru: пропольщик
-    tags: [n, occupation]
+    tags: [occupation, agriculture]
+
+derived_from: [ирцьара]
+see_also: [уттяъя]

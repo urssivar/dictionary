@@ -7,10 +7,11 @@ forms:
     gloss: abs
   - text: арин
     gloss: obl
+
 definitions:
   - translation:
       en: authority
       ru: власть
     aliases:
-      en: [influence, rule, power]
-      ru: [влияние, повелевание, сила]
+      en: [power, influence]
+      ru: [влияние, сила]

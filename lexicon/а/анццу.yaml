@@ -2,10 +2,14 @@ id: 0n2TxWvmxo0y7ViycJQz
 headword: анццу
 ipa: anˈtsːu
 tags: [adj]
+
 definitions:
   - translation:
       en: bland
       ru: пресный
     aliases:
-      en: [fresh, dull]
-      ru: [свежий]
+      en: [unsalted, tasteless]
+      ru: [несолёный, безвкусный]
+
+see_also: [цце]
+source: temirbulatova2004

@@ -2,18 +2,18 @@ id: tuuFl5grYvOCfMgmmKwC
 headword: арцре
 ipa: artsˈre
 tags: [n, pl]
-etymology:
-  en: Pl. of *арц* "money".
-  ru: Мн. ч. от *арц* "деньги".
+
 definitions:
   - translation:
       en: earnings
       ru: заработок
     aliases:
-      en: [gain, profit]
-      ru: [прибыль, выгода]
+      en: [income, gain, profit]
+      ru: [доход, прибыль, выгода]
     examples:
       - text: арцре дирара
         translation:
           en: to earn
           ru: зарабатывать
+
+derived_from: [арц]

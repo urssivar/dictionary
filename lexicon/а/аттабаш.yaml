@@ -7,9 +7,11 @@ forms:
     gloss: abs
   - text: аттабаше
     gloss: pl
+
 definitions:
   - translation:
       en: cricket
       ru: сверчок
-    tags: [animal, insect]
+    tags: [insect]
+
 source: temirbulatova2004

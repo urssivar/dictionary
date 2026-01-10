@@ -2,20 +2,25 @@ id: dxyDDCKfuiO7HGHEsTQX
 headword: аржихара
 ipa: arʒiˈχara
 tags: [v, tr]
-etymology:
-  en: Caus. of *аргара* "to happen".
-  ru: Кауз. от *аргара* "случаться".
 forms:
-  - text: ажихара
-    gloss: pfv
-  - text: ажихив
-    gloss: pret
   - text: аржихара
     gloss: ipfv
+  - text: ажихив
+    gloss: pret
+  - text: ажихара
+    gloss: pfv
+
 definitions:
   - translation:
       en: to cause
-      ru: вызывать
+      ru: причинять
     aliases:
-      en: [bring, commit]
-      ru: [совершить]
+      en: [to bring about, to inflict]
+      ru: [вызывать, наносить]
+    examples:
+      - text: Ил ьелей ваьядеҳ ажихурде.
+        translation:
+          en: You caused him harm.
+          ru: Ты причинил ему вред.
+
+derived_from: [аргара]

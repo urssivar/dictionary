@@ -2,8 +2,12 @@ id: u5lg0y8LCc8VDCqX6rkQ
 headword: аркьа
 ipa: arˈkʼa
 tags: [adj]
+
 definitions:
   - translation:
       en: barren
       ru: яловой
-    # TODO: Add aliases: en: [sterile, infertile]; ru: [бесплодный, неплодный]
+    tags: [agriculture]
+    aliases:
+      en: [sterile, infertile]
+      ru: [бесплодный, неплодный]

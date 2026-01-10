@@ -2,19 +2,20 @@ id: 5f5xbQkDeHSttfSCnlWH
 headword: арше
 ipa: ˈarʃe
 tags: [n, vb]
-etymology:
-  en: From pfv. *ирҳара* "to reap" (cf. *арцье* "weed").
-  ru: От сов. *ирҳара* "жать" (ср. *арцье* "сорняки").
 forms:
   - text: арше
     gloss: abs
   - text: аршин
     gloss: obl
+
 definitions:
   - translation:
       en: harvest
       ru: урожай
     tags: [agriculture]
     aliases:
-      en: [reaping]
+      en: [crop, reaping]
       ru: [жатва]
+
+derived_from: [ирҳара]
+see_also: [арцье]

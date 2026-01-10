@@ -9,6 +9,7 @@ forms:
     gloss: obl
   - text: анкьлиппе
     gloss: pl
+
 definitions:
   - translation:
       en: sleep
@@ -21,3 +22,5 @@ definitions:
         translation:
           en: got some sleep
           ru: поспал
+
+see_also: [анкь кабиргара]

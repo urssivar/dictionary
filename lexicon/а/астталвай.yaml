@@ -2,11 +2,20 @@ id: qL46bwPxiZI764ShIPCg
 headword: астталвай
 ipa: astːalˈvaj
 tags: [n, loan, russian]
+forms:
+  - text: астталвай
+    gloss: abs
+  - text: астталвайте
+    gloss: pl
+
 definitions:
   - translation:
       en: canteen
       ru: столовая
     aliases:
-      # TODO: Add more aliases: [cafeteria, dining hall]
-      en: [buffet]
-      # TODO: Add Russian aliases: [кафетерий, буфет]
+      en: [cafeteria, dining hall]
+      ru: [кафетерий, буфет]
+
+etymology:
+  en: From Russian *столовая* "canteen".
+  ru: От русского *столовая*.
