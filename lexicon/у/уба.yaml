@@ -2,13 +2,17 @@ id: ey0cwVNfScpuJr3gOcFC
 headword: уба
 ipa: ˈuba
 tags: [n]
-note:
-  en: "*аба*"
 forms:
   - text: уба
     gloss: abs
   - text: убне
     gloss: pl
+variants:
+  - text: аба
+    lect: kttg
+  - text: ваба
+    lect: shrh
+
 definitions:
   - translation:
       en: mother

@@ -7,6 +7,9 @@ forms:
     gloss: abs
   - text: аттне
     gloss: pl
+variants:
+  - text: датте
+    lect: shrh
 
 definitions:
   - translation:
