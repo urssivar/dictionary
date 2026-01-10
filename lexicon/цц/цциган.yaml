@@ -1,7 +1,7 @@
 id: 1JXJlHTjyA0gCBCdWkvp
 headword: цциган
 ipa: tsːiˈgan
-tags: [n, loan, russian]
+tags: [n, people, loan, russian]
 forms:
   - text: цциган
     gloss: abs
@@ -9,8 +9,16 @@ forms:
     gloss: obl
   - text: цциганте
     gloss: pl
+
 definitions:
   - translation:
-      en: gypsy
+      en: Romani
       ru: цыган
     tags: [demonym]
+    aliases:
+      en: [gypsy]
+      ru: [ром]
+
+etymology:
+  en: From Russian *цыган* "Romani".
+  ru: От русского *цыган*.

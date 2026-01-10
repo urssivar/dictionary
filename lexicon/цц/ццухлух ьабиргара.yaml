@@ -3,15 +3,19 @@ headword: ццухлух ьабиргара
 ipa: tsːuχˌluχ habirˈgara
 tags: [v, ntr, cls]
 forms:
-  - text: ццухлух ьабигара
-    gloss: pfv
-  - text: ццухлух ьабижив
-    gloss: pret
   - text: ццухлух ьабиргара
     gloss: ipfv
+  - text: ццухлух ьабижив
+    gloss: pret
+  - text: ццухлух ьабигара
+    gloss: pfv
+
 definitions:
   - translation:
       en: to shrivel
-      ru: съеживаться
+      ru: съёживаться
     aliases:
-      en: [cringe, shrink]
+      en: [shrink, cringe, huddle]
+      ru: [сжиматься, корчиться, скукоживаться]
+
+derived_from: [ццухлух, биргара]

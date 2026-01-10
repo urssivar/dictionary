@@ -9,7 +9,12 @@ forms:
     gloss: obl
   - text: ццихниппе
     gloss: pl
+
 definitions:
   - translation:
-      en: main pillar
-      ru: матица, несущий столб
+      en: main beam
+      ru: матица
+    tags: [structure]
+    aliases:
+      en: [pillar, post, column]
+      ru: [несущий столб, опора]

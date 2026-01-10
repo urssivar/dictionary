@@ -7,8 +7,16 @@ forms:
     gloss: abs
   - text: цциппре
     gloss: pl
+
 definitions:
   - translation:
-      en: chainlet
+      en: chain
       ru: цепочка
     tags: [clothing]
+    aliases:
+      en: [necklace]
+      ru: [цепь]
+
+etymology:
+  en: From Russian *цепь* "chain".
+  ru: От русского *цепь*.

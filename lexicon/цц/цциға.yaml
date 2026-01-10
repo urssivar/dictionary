@@ -9,9 +9,11 @@ forms:
     gloss: obl
   - text: цциғне
     gloss: pl
+
 definitions:
   - translation:
       en: rule
       ru: правило
     aliases:
-      en: [ban, norm]
+      en: [ban, norm, regulation, law]
+      ru: [норма, закон, запрет]

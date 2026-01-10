@@ -2,8 +2,12 @@ id: m1LvspXJ7qWUHJbUPKjI
 headword: ццис
 ipa: ˈtsːis
 tags: [n]
+
 definitions:
   - translation:
       en: pee
-      ru: писать (дет.)
+      ru: пи-пи
     tags: [child]
+    aliases:
+      en: [wee, piss]
+      ru: [писать]

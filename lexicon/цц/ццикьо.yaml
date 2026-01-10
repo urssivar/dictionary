@@ -9,9 +9,11 @@ forms:
     gloss: obl
   - text: ццикьме
     gloss: pl
+
 definitions:
   - translation:
-      en: clew
+      en: ball
       ru: клубок
     aliases:
-      en: [tangle, thread]
+      en: [clew, skein]
+      ru: [моток]

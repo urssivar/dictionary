@@ -7,9 +7,11 @@ forms:
     gloss: abs
   - text: ццуълуме
     gloss: pl
+
 definitions:
   - translation:
       en: matter
       ru: дело
     aliases:
-      en: [work, case]
+      en: [work, case, affair, business]
+      ru: [работа, занятие, вопрос]

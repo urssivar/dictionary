@@ -2,12 +2,11 @@ id: XGztExZjZ0kD2tHGKtRY
 headword: цциза
 ipa: ˈtsːiza
 tags: [n]
-note:
-  en: '*пялҡу*'
+variants:
+  - text: пялҡу
+
 definitions:
   - translation:
-      en: ash-tree
+      en: ash tree
       ru: ясень
     tags: [tree]
-    aliases:
-      en: [populus, tremula]

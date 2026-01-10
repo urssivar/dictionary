@@ -2,12 +2,14 @@ id: VyiPS4RSBQB4ZPEraF2Q
 headword: ццяь
 ipa: ˈtsːæh
 tags: [n]
-note:
-  en: '*ццирхӏ*'
+variants:
+  - text: ццирхӏ
+
 definitions:
   - translation:
       en: spruce
       ru: ель
-    tags: [nature, tree]
+    tags: [tree]
     aliases:
       en: [fir]
+      ru: [ёлка]

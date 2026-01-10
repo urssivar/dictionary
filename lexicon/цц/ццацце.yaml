@@ -9,9 +9,11 @@ forms:
     gloss: obl
   - text: цциццбе
     gloss: pl
+
 definitions:
   - translation:
-      en: thorn
+      en: splinter
       ru: заноза
     aliases:
-      en: [bard]
+      en: [sliver, thorn]
+      ru: [щепка, колючка]

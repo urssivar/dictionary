@@ -7,8 +7,12 @@ forms:
     gloss: abs
   - text: цциҡьне
     gloss: pl
+
 definitions:
   - translation:
       en: mortar
       ru: ступка
     tags: [tool]
+    aliases:
+      en: [pestle]
+      ru: [ступа]
