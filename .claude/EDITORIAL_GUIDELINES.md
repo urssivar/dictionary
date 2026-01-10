@@ -38,7 +38,7 @@ All valid tags are defined in `tags.yaml`:
 
 - **Grammar tags** (top-level): Part of speech, verb features, nominal features
 - **Etymology tags** (top-level): Loan sources (arabic, russian, turkic, iranian, neologism)
-- **Register tags** (top-level): pejorative, child
+- **Register tags** (definition-level): pejorative, child
 - **Semantic tags** (definition-level): Concrete domains (kinship, animal, food, etc.)
 
 ### Tag Usage
