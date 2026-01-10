@@ -1,0 +1,16 @@
+id: NC2eqONayhyx8FaoeMeu
+headword: ерғ
+ipa: ˈerʁ
+tags: [n]
+
+definitions:
+  - translation:
+      en: weather
+      ru: погода
+    examples:
+      - text: Ерғ вяьи биьяв.
+        translation:
+          en: The weather turned bad.
+          ru: Погода испортилась.
+
+derived_from: [арғ]
