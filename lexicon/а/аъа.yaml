@@ -7,7 +7,7 @@ variants:
 
 definitions:
   - translation:
-      en: no
+      en: "no"
       ru: нет
     aliases:
       en: [nope]
