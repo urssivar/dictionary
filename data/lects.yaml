@@ -3,13 +3,16 @@
 lects:
   snch:
     en: Sanchi
-    ru: Санчи
+    ru: санчинский
   irch:
     en: Irchamul
-    ru: Ирчамул
+    ru: ирчамульский
   kttg:
     en: Kattagan
-    ru: Каттаган
+    ru: каттаганский
   shrh:
     en: Shari
-    ru: Шари
+    ru: шаринский
+  avsh:
+    en: Avshe
+    ru: авшиманский
