@@ -173,7 +173,7 @@ def simplify_forms(forms, headword, tags):
 
         # Compound verb: collapse first part to tilde
         if is_compound_verb:
-            text = '~ ' + text.split()[-1]
+            text = text.split()[-1]
 
         # Oblique stem: append dash
         if form.get('gloss') == 'obl':
