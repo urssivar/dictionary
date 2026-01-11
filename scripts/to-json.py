@@ -200,6 +200,73 @@ def simplify_forms(forms, headword, tags):
     return result
 
 
+def resolve_headword_link(headword_ref, lexicon_dir, alphabet_tokens):
+    """Resolve a headword reference to {headword, link} format.
+
+    Args:
+        headword_ref: Reference string (e.g., "хъан", "хъан-2", "*root")
+        lexicon_dir: Path to lexicon directory
+        alphabet_tokens: Alphabet tokens for letter extraction
+
+    Returns:
+        Dict with {headword, link} or None if should be skipped/not found
+    """
+    # Skip reconstructed roots
+    if headword_ref.startswith('*'):
+        return None
+
+    # Extract clean headword (remove homonym suffix for display)
+    clean_headword = re.sub(r'-\d+$', '', headword_ref)
+
+    # Get first letter
+    letter = get_first_letter(headword_ref, alphabet_tokens)
+
+    # Build file path (use full reference including homonym suffix)
+    yaml_file = lexicon_dir / letter / f"{headword_ref}.yaml"
+
+    # Read file to get ID
+    try:
+        with open(yaml_file, 'r', encoding='utf-8') as f:
+            yaml_data = yaml.safe_load(f)
+            if 'id' not in yaml_data:
+                print(f"Warning: No ID found in {yaml_file}")
+                return None
+
+            return {
+                'headword': clean_headword,
+                'link': f"{letter}#{yaml_data['id']}"
+            }
+    except FileNotFoundError:
+        print(f"Warning: Referenced file not found: {yaml_file}")
+        return None
+    except Exception as e:
+        print(f"Error reading {yaml_file}: {e}")
+        return None
+
+
+def resolve_headword_links(headword_refs, lexicon_dir, alphabet_tokens):
+    """Resolve a list of headword references to link objects.
+
+    Args:
+        headword_refs: List of headword reference strings
+        lexicon_dir: Path to lexicon directory
+        alphabet_tokens: Alphabet tokens for letter extraction
+
+    Returns:
+        List of {headword, link} objects
+    """
+    if not headword_refs:
+        return []
+
+    result = []
+    for ref in headword_refs:
+        link_obj = resolve_headword_link(ref, lexicon_dir, alphabet_tokens)
+        if link_obj:
+            result.append(link_obj)
+
+    return result
+
+
 def transform_definitions(definitions):
     """Convert YAML definitions to JSON with bilingual structure (low-level i18n).
 
@@ -239,7 +306,7 @@ def transform_definitions(definitions):
     return result
 
 
-def convert_entry(yaml_entry, vowels, tag_map):
+def convert_entry(yaml_entry, vowels, tag_map, lexicon_dir, alphabet_tokens):
     """Convert single YAML entry to JSON format."""
     # Validate required fields
     if 'id' not in yaml_entry or 'headword' not in yaml_entry or 'definitions' not in yaml_entry:
@@ -285,6 +352,20 @@ def convert_entry(yaml_entry, vowels, tag_map):
     if 'note' in yaml_entry:
         result['note'] = yaml_entry['note']
 
+    # Derived from (cross-references with links)
+    if 'derived_from' in yaml_entry and yaml_entry['derived_from']:
+        derived_links = resolve_headword_links(
+            yaml_entry['derived_from'], lexicon_dir, alphabet_tokens)
+        if derived_links:
+            result['derived_from'] = derived_links
+
+    # See also (cross-references with links)
+    if 'see_also' in yaml_entry and yaml_entry['see_also']:
+        see_also_links = resolve_headword_links(
+            yaml_entry['see_also'], lexicon_dir, alphabet_tokens)
+        if see_also_links:
+            result['see_also'] = see_also_links
+
     return result
 
 
@@ -325,9 +406,9 @@ def create_tokenizer(alphabet, alphabet_tokens):
 
 
 def main():
-    # Default output to data/dictionary.json if not specified
+    # Default output to export/dictionary.json if not specified
     if len(sys.argv) < 2:
-        output_file = Path(__file__).parent.parent / 'data' / 'dictionary.json'
+        output_file = Path(__file__).parent.parent / 'export' / 'dictionary.json'
     else:
         output_file = sys.argv[1]
 
@@ -359,7 +440,8 @@ def main():
                 with open(yaml_file, 'r', encoding='utf-8') as f:
                     yaml_data = yaml.safe_load(f)
 
-                converted = convert_entry(yaml_data, vowels, tag_map)
+                converted = convert_entry(
+                    yaml_data, vowels, tag_map, lexicon_dir, alphabet_tokens)
                 if converted:
                     entries.append(converted)
                     total_entries += 1

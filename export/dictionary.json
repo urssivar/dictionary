@@ -33,7 +33,11 @@
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Russian *а* \"but, and\".",
+        "ru": "От русского *а*."
+      }
     },
     {
       "id": "YkZtiqCYGrbTzESn1sZW",
@@ -69,9 +73,21 @@
         "бавба"
       ],
       "etymology": {
-        "en": "Reduplication of *аба* \"mother\" (cf. *аттаба* \"paternal grandmother\")",
-        "ru": "Редупликация *аба* \"мама\" (ср. *аттаба* \"бабушка по отцу\")"
-      }
+        "en": "Reduplication of *аба* \"mother\" (cf. *аттаба* \"paternal grandmother\").",
+        "ru": "Редупликация *аба* \"мама\" (ср. *аттаба* \"бабушка по отцу\")."
+      },
+      "derived_from": [
+        {
+          "headword": "уба",
+          "link": "у#ey0cwVNfScpuJr3gOcFC"
+        }
+      ],
+      "see_also": [
+        {
+          "headword": "аттаба",
+          "link": "а#zOFYXYQcsN0D6CAmqG77"
+        }
+      ]
     },
     {
       "id": "wPJr8xEhJFVCfbaNZP6k",
@@ -96,9 +112,21 @@
                 "ru": "c давних времён"
               }
             }
-          ]
+          ],
+          "aliases": {
+            "en": [
+              "era"
+            ],
+            "ru": [
+              "эра"
+            ]
+          }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Arabic أَبَد (*ʔabad*) \"eternity\".",
+        "ru": "От арабского أَبَد (*ʔabad*) \"вечность\"."
+      }
     },
     {
       "id": "3wgwN32czwW8wWIGkkR8",
@@ -117,35 +145,45 @@
           },
           "examples": [
             {
-              "text": "абал вяьил акку",
+              "text": "абал, вяьил акку",
               "translation": {
-                "en": "then not bad",
+                "en": "well then, not bad",
                 "ru": "ну тогда неплохо"
               }
             }
           ],
           "aliases": {
             "en": [
-              "okay",
-              "fine",
-              "if",
-              "so"
+              "so",
+              "in that case"
             ],
             "ru": [
-              "хорошо",
-              "ладно",
-              "если"
+              "ну так",
+              "в таком случае"
             ]
           }
         }
       ],
       "variants": [
-        "абиьолли"
+        "абиьолли",
+        "абалле"
       ],
       "etymology": {
         "en": "Contracted from *абиьолли*, the negative conditional of *бирьора* \"to be\".",
         "ru": "Сокращение от *абиьолли*, отрицательной условной формы *бирьора* \"быть\"."
-      }
+      },
+      "derived_from": [
+        {
+          "headword": "бирьора",
+          "link": "б#2ECky4yqqOv37yDDZHaH"
+        }
+      ],
+      "see_also": [
+        {
+          "headword": "баал",
+          "link": "б#RTZtpQ5ALFRIvhpItMao"
+        }
+      ]
     },
     {
       "id": "RMZ7GRnuyItZOLObIt3V",
@@ -161,8 +199,8 @@
         }
       ],
       "forms": [
-        "абатара",
-        "абатур"
+        "абатур",
+        "абатара"
       ],
       "definitions": [
         {
@@ -181,12 +219,10 @@
           ],
           "aliases": {
             "en": [
-              "attack",
-              "bother",
-              "pester"
+              "to bother",
+              "to pester"
             ],
             "ru": [
-              "атаковать",
               "донимать",
               "досаждать"
             ]
@@ -200,9 +236,15 @@
         }
       ],
       "etymology": {
-        "en": "Neg. of *бартара* \"to let\".",
-        "ru": "Отриц. от *бартара* \"давать, оставлять\"."
-      }
+        "en": "The negative of *бартара* \"to let, allow\".",
+        "ru": "Отрицательная форма от *бартара* \"давать, оставлять\"."
+      },
+      "derived_from": [
+        {
+          "headword": "бартара",
+          "link": "б#XTbyVt137nwxLMIbK0Lp"
+        }
+      ]
     },
     {
       "id": "RHx33T4oDaYFcsxi8BE1",
@@ -230,15 +272,26 @@
           ],
           "aliases": {
             "en": [
-              "accedentally"
+              "accidentally",
+              "unintentionally"
+            ],
+            "ru": [
+              "случайно",
+              "невольно"
             ]
           }
         }
       ],
       "etymology": {
-        "en": "Neg. prog. of *барьара* \"to know\".",
-        "ru": "Отриц. прод. от *барьара* \"знать\"."
-      }
+        "en": "The negative progressive of *барьара* \"to know\".",
+        "ru": "Отрицательная продолженная форма от *барьара* \"знать\"."
+      },
+      "derived_from": [
+        {
+          "headword": "барьара",
+          "link": "б#MuCHGh5pKeBDWjCK7b7j"
+        }
+      ]
     },
     {
       "id": "SaZFtrg5rkjmNmX7pMDn",
@@ -264,7 +317,7 @@
               "text": "абиккан агур",
               "translation": {
                 "en": "got disappointed",
-                "ru": "разачаровался"
+                "ru": "разочаровался"
               }
             },
             {
@@ -274,17 +327,39 @@
                 "ru": "Ты огорчил его."
               }
             }
-          ]
+          ],
+          "aliases": {
+            "en": [
+              "letdown",
+              "disillusionment"
+            ],
+            "ru": [
+              "разочарование",
+              "расстройство"
+            ]
+          }
         }
       ],
       "etymology": {
-        "en": "Neg. obl. of *биккара* \"to want\", cf. *биккан* \"wish\".",
-        "ru": "Отриц. обяз. то *биккара* \"хотеть\", ср. *биккан* \"желание\"."
-      }
+        "en": "Negative present participle of *биккара* \"to want\" (cf. *биккан* \"wish\").",
+        "ru": "Отрицательное настоящее причастие от *биккара* \"хотеть\" (ср. *биккан* \"желание\")."
+      },
+      "derived_from": [
+        {
+          "headword": "биккара",
+          "link": "б#DFT2IFEmOJB77jA2PnjV"
+        }
+      ],
+      "see_also": [
+        {
+          "headword": "биккан",
+          "link": "б#OX8XIMr950mksGmhv6hr"
+        }
+      ]
     },
     {
       "id": "8DdqMambIdHft2tnFWvX",
-      "headword": "абикканде́ҳ",
+      "headword": "абиккандеҳ",
       "tags": [
         {
           "en": "n",
@@ -309,10 +384,12 @@
           }
         }
       ],
-      "etymology": {
-        "en": "From *абиккан* \"disappointment\".",
-        "ru": "От *абиккан* \"огорчение\"."
-      }
+      "derived_from": [
+        {
+          "headword": "абиккан",
+          "link": "а#SaZFtrg5rkjmNmX7pMDn"
+        }
+      ]
     },
     {
       "id": "d8YtVP7i7A0O4cwN8bth",
@@ -324,8 +401,8 @@
         }
       ],
       "forms": [
-        "~ аҡара",
-        "~ аҡив"
+        "~ аҡив",
+        "~ аҡара"
       ],
       "definitions": [
         {
@@ -335,28 +412,25 @@
           },
           "aliases": {
             "en": [
-              "hurt",
-              "insult"
+              "to be offended",
+              "to feel insulted",
+              "to get upset"
             ],
             "ru": [
               "обидеться",
-              "оскорбить"
-            ]
-          }
-        },
-        {
-          "translation": {
-            "en": "to get upset",
-            "ru": "огорчаться"
-          },
-          "aliases": {
-            "en": [
-              "upset"
-            ],
-            "ru": [
               "расстроиться"
             ]
           }
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "биккара",
+          "link": "б#DFT2IFEmOJB77jA2PnjV"
+        },
+        {
+          "headword": "иҡара",
+          "link": "и#evJEPAObUX7CEKcZMxTl"
         }
       ]
     },
@@ -381,20 +455,27 @@
           },
           "aliases": {
             "en": [
-              "sick",
-              "ail"
+              "to be sick",
+              "to be ill",
+              "to ail"
             ],
             "ru": [
               "болеть",
-              "недуг"
+              "недомогать"
             ]
           }
         }
       ],
       "etymology": {
-        "en": "Neg. of *вирьора* \"to be able\".",
-        "ru": "Отриц. от *вирьора* \"мочь\"."
-      }
+        "en": "The negative of *бирьора* \"to be able\".",
+        "ru": "Отрицательная форма от *бирьора* \"мочь\"."
+      },
+      "derived_from": [
+        {
+          "headword": "бирьора",
+          "link": "б#2ECky4yqqOv37yDDZHaH"
+        }
+      ]
     },
     {
       "id": "YpcVLSw9X2MqnjeAQQEE",
@@ -412,24 +493,40 @@
       "definitions": [
         {
           "translation": {
-            "en": "to detest",
+            "en": "to hate",
             "ru": "ненавидеть"
           },
+          "examples": [
+            {
+              "text": "Дами адиччихид ьелтти цикьал.",
+              "translation": {
+                "en": "I hate these things.",
+                "ru": "Я ненавижу эти вещи."
+              }
+            }
+          ],
           "aliases": {
             "en": [
-              "dislike",
-              "hate"
+              "to dislike",
+              "to loathe"
             ],
             "ru": [
-              "нелюбить"
+              "не любить",
+              "презирать"
             ]
           }
         }
       ],
       "etymology": {
-        "en": "Neg. of *биччихара* \"to love\".",
-        "ru": "Отриц. от *биччихара* \"любить\"."
-      }
+        "en": "The negative of *биччихара* \"to love\".",
+        "ru": "Отрицательная форма от *биччихара* \"любить\"."
+      },
+      "derived_from": [
+        {
+          "headword": "биччихара",
+          "link": "б#QNxP3qDPF8XaOjKZqOJH"
+        }
+      ]
     },
     {
       "id": "VAYyA9Wo9itBzy0Gr6Jv",
@@ -450,7 +547,11 @@
             "ru": "обои"
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Russian *обои* \"wallpaper\" (pl.), reanalyzed as singular.",
+        "ru": "От русского *обои* (мн. ч.), переосмыслено как ед. ч."
+      }
     },
     {
       "id": "GREcVpAku7vQDOSo199A",
@@ -480,16 +581,22 @@
               "rude"
             ],
             "ru": [
-              "грубый",
-              "тупой"
+              "невоспитанный",
+              "грубый"
             ]
           }
         }
       ],
       "etymology": {
-        "en": "Neg. pret. of *руҡҡяра* \"to educate, to bring up\".",
-        "ru": "Отриц. прет. от *руҡҡяра* \"воспитывать\"."
-      }
+        "en": "The negative preterite of *руҡҡяра* \"to educate, to bring up\".",
+        "ru": "Отрицательный претерит от *руҡҡяра* \"воспитывать\"."
+      },
+      "derived_from": [
+        {
+          "headword": "руҡҡяра",
+          "link": "р#6DSG1fzKQ3JeUU6XOej5"
+        }
+      ]
     },
     {
       "id": "5IpD7HNwaze6mMHlODHX",
@@ -509,8 +616,8 @@
         }
       ],
       "etymology": {
-        "en": "From Kumyk *гьав* \"hunt\".",
-        "ru": "От кумыкского *гьав* \"охота\"."
+        "en": "From Kumyk *гьав* or Azerbaijani *ov* \"hunt\".",
+        "ru": "От кумыкского *гьав* или азербайджанского *ov* \"охота\"."
       }
     },
     {
@@ -530,16 +637,21 @@
           },
           "aliases": {
             "en": [
-              "expanse",
-              "space"
+              "broad",
+              "extensive",
+              "spacious"
             ],
             "ru": [
-              "простор",
-              "пространство"
+              "широкий",
+              "просторный"
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Persian آبادان (*ābādān*) \"thriving, prosperous\".",
+        "ru": "От персидского آبادان (*ābādān*) \"процветающий\"."
+      }
     },
     {
       "id": "OqcdJx78eKNoh2F22zyl",
@@ -562,11 +674,15 @@
               "imprest"
             ],
             "ru": [
-              "вклад"
+              "предоплата"
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Russian *аванс* \"advance payment\".",
+        "ru": "От русского *аванс*."
+      }
     },
     {
       "id": "8mqeU49w8ZiL2o1RlYTh",
@@ -580,7 +696,7 @@
       "definitions": [
         {
           "translation": {
-            "en": "august",
+            "en": "August",
             "ru": "август"
           },
           "aliases": {
@@ -592,7 +708,11 @@
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Russian *август* \"August\".",
+        "ru": "От русского *август*."
+      }
     },
     {
       "id": "153QGimJVn33k30768oW",
@@ -611,12 +731,29 @@
           "translation": {
             "en": "fool",
             "ru": "глупец"
+          },
+          "aliases": {
+            "en": [
+              "idiot",
+              "simpleton"
+            ],
+            "ru": [
+              "дурак",
+              "идиот"
+            ]
           }
         }
       ],
       "etymology": {
-        "en": "From Arabic *أبدال* in the original meaning \"God's saint\"."
-      }
+        "en": "From Arabic أبدال (*abdāl*) \"God's saint\".",
+        "ru": "От арабского أبدال (*abdāl*) \"святой\"."
+      },
+      "see_also": [
+        {
+          "headword": "авлийа",
+          "link": "а#vISgU6D28bmi9K3RjyPW"
+        }
+      ]
     },
     {
       "id": "oSHBBoQhAtKmXMtE134r",
@@ -635,12 +772,20 @@
           },
           "aliases": {
             "en": [
-              "folly"
+              "folly",
+              "foolishness"
             ],
             "ru": [
-              "дурь"
+              "дурь",
+              "идиотизм"
             ]
           }
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "авдал",
+          "link": "а#153QGimJVn33k30768oW"
         }
       ]
     },
@@ -659,18 +804,16 @@
             "en": "flour porridge",
             "ru": "мучная каша"
           },
-          "aliases": {
-            "en": [
-              "hominy"
-            ],
-            "ru": [
-              "мамалыга"
-            ]
-          },
           "note": {
-            "en": "A Dagestani dish made of flour and linen seed butter.",
-            "ru": "Дагестанское блюдо из муки и пасты льняных семян."
+            "en": "A Dagestani dish made of flour and flaxseed paste.",
+            "ru": "Дагестанское блюдо из муки и урбеча."
           }
+        }
+      ],
+      "see_also": [
+        {
+          "headword": "пьялцьикь",
+          "link": "пь#SLG9Mu1ZHcUjmiTOV4Z2"
         }
       ]
     },
@@ -694,14 +837,20 @@
           },
           "aliases": {
             "en": [
-              "plain"
+              "plain",
+              "field"
             ],
             "ru": [
-              "равнина"
+              "равнина",
+              "поле"
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Kumyk *авлакъ* \"field, open land\".",
+        "ru": "От кумыкского *авлакъ* \"поле, открытая местность\"."
+      }
     },
     {
       "id": "vISgU6D28bmi9K3RjyPW",
@@ -718,24 +867,31 @@
       "definitions": [
         {
           "translation": {
-            "en": "insane",
+            "en": "insane person",
             "ru": "умалишённый"
           },
           "aliases": {
             "en": [
-              "mad",
-              "stupid"
+              "madman",
+              "lunatic"
             ],
             "ru": [
               "сумасшедший",
-              "дурак"
+              "безумец"
             ]
           }
         }
       ],
       "etymology": {
-        "en": "From Arabic *أولياء* in the original meaning \"the beloved of God\"."
-      }
+        "en": "From Arabic أولياء (*awliyāʾ*) \"the beloved of God\".",
+        "ru": "От арабского أولياء (*awliyāʾ*) \"возлюбленные Бога\"."
+      },
+      "see_also": [
+        {
+          "headword": "авдал",
+          "link": "а#153QGimJVn33k30768oW"
+        }
+      ]
     },
     {
       "id": "h1mRwCpiuBYdVVaN9Zga",
@@ -750,25 +906,25 @@
         {
           "translation": {
             "en": "bother",
-            "ru": "бейспокойство"
+            "ru": "беспокойство"
           },
           "examples": [
             {
               "text": "Дами авра бейкку ила дирантала.",
               "translation": {
                 "en": "It doesn't bother me what you do.",
-                "ru": "Меня не беспокоют твои дела."
+                "ru": "Меня не беспокоят твои дела."
               }
             }
           ],
           "aliases": {
             "en": [
-              "interest",
-              "care"
+              "concern",
+              "worry"
             ],
             "ru": [
-              "интерес",
-              "забота"
+              "забота",
+              "тревога"
             ]
           }
         },
@@ -776,12 +932,27 @@
           "translation": {
             "en": "chore",
             "ru": "хлопота"
+          },
+          "aliases": {
+            "en": [
+              "task",
+              "hassle",
+              "errand"
+            ],
+            "ru": [
+              "возня",
+              "суета"
+            ]
           }
         }
       ],
       "variants": [
         "авара"
-      ]
+      ],
+      "etymology": {
+        "en": "From Kumyk *авара* \"worry, concern\", ultimately from Persian آواره (*âvâre*) \"vagabond\".",
+        "ru": "От кумыкского *авара* \"беспокойство\", восходит к персидскому آواره (*âvâre*) \"бродяга\"."
+      }
     },
     {
       "id": "OBMlPh7sBpAupvhtQOHn",
@@ -797,7 +968,27 @@
           "translation": {
             "en": "careless",
             "ru": "беспечный"
+          },
+          "aliases": {
+            "en": [
+              "carefree",
+              "unconcerned"
+            ],
+            "ru": [
+              "беззаботный",
+              "небрежный"
+            ]
           }
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "авра",
+          "link": "а#h1mRwCpiuBYdVVaN9Zga"
+        },
+        {
+          "headword": "аккор",
+          "link": "а#UyNyIj9PbRrkC4uEggy4"
         }
       ]
     },
@@ -810,22 +1001,25 @@
           "ru": "сущ."
         }
       ],
+      "forms": [
+        "авсунте"
+      ],
       "definitions": [
         {
           "translation": {
             "en": "sister-in-law",
             "ru": "золовка"
-          },
-          "aliases": {
-            "en": [
-              "woman",
-              "lady"
-            ],
-            "ru": [
-              "женщина",
-              "девушка"
-            ]
           }
+        }
+      ],
+      "etymology": {
+        "en": "From Kumyk *апсун* \"sister-in-law\".",
+        "ru": "От кумыкского *апсун* \"золовка\"."
+      },
+      "see_also": [
+        {
+          "headword": "уццуп",
+          "link": "у#dY29FoUgpIPCpRw0rWxT"
         }
       ]
     },
@@ -846,7 +1040,8 @@
           },
           "aliases": {
             "en": [
-              "simultaneous"
+              "simultaneous",
+              "concurrent"
             ],
             "ru": [
               "одновременный"
@@ -869,23 +1064,35 @@
         }
       ],
       "forms": [
-        "~ ьабикара",
-        "~ ьабичив"
+        "~ ьабичив",
+        "~ ьабикара"
       ],
       "definitions": [
         {
           "translation": {
-            "en": "to strife",
-            "ru": "междоусобить"
+            "en": "to quarrel",
+            "ru": "враждовать"
           },
           "aliases": {
             "en": [
-              "feud"
+              "to feud",
+              "to conflict"
             ],
             "ru": [
-              "враждовать"
+              "конфликтовать",
+              "ссориться"
             ]
           }
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "автт",
+          "link": "а#n88iBWTNA5gaopgzTTxu"
+        },
+        {
+          "headword": "биркара",
+          "link": "б#NR0l93DeHQdhhSHD1W5u"
         }
       ]
     },
@@ -906,9 +1113,21 @@
           "translation": {
             "en": "bus",
             "ru": "автобус"
+          },
+          "aliases": {
+            "en": [
+              "vehicle"
+            ],
+            "ru": [
+              "транспорт"
+            ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Russian *автобус* \"bus\".",
+        "ru": "От русского *автобус*."
+      }
     },
     {
       "id": "6CrYxqYiua87etI6tgB7",
@@ -930,14 +1149,21 @@
           },
           "aliases": {
             "en": [
+              "rifle",
+              "automatic weapon",
               "gun"
             ],
             "ru": [
-              "пушка"
+              "ружьё",
+              "оружие"
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Russian *автомат* \"assault rifle\".",
+        "ru": "От русского *автомат*."
+      }
     },
     {
       "id": "bKHLLcwOMgCTBL9w95gf",
@@ -959,14 +1185,23 @@
           },
           "aliases": {
             "en": [
-              "quitter"
+              "loafer",
+              "slacker",
+              "layabout"
             ],
             "ru": [
               "лентяй"
             ]
           }
         }
-      ]
+      ],
+      "variants": [
+        "азғин"
+      ],
+      "etymology": {
+        "en": "From Kumyk *азгъын* \"dissolute, feeble\".",
+        "ru": "От кумыкского *азгъын* \"беспутный, немощный\"."
+      }
     },
     {
       "id": "sVnyX4VHiPP9ckSBzPHf",
@@ -985,6 +1220,15 @@
           "translation": {
             "en": "pan",
             "ru": "сковорода"
+          },
+          "aliases": {
+            "en": [
+              "skillet",
+              "kitchenware"
+            ],
+            "ru": [
+              "посуда"
+            ]
           }
         }
       ],
@@ -1001,6 +1245,9 @@
           "ru": "сущ."
         }
       ],
+      "forms": [
+        "ағуйте"
+      ],
       "definitions": [
         {
           "translation": {
@@ -1016,7 +1263,11 @@
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Kumyk *агъу* or Azerbaijani *ağı* \"poison\".",
+        "ru": "От кумыкского *агъу* или азербайджанского *ağı* \"яд\"."
+      }
     },
     {
       "id": "53j6WLEBXsngdHpA0Mk0",
@@ -1032,7 +1283,25 @@
           "translation": {
             "en": "cancer",
             "ru": "рак"
+          },
+          "aliases": {
+            "en": [
+              "tumor"
+            ],
+            "ru": [
+              "опухоль"
+            ]
           }
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "ағу",
+          "link": "а#0s8RewmE8hhjwdHVl2F6"
+        },
+        {
+          "headword": "иццала",
+          "link": "и#4FZgYvflp6rHl5P7HKPB"
         }
       ]
     },
@@ -1053,14 +1322,22 @@
           },
           "aliases": {
             "en": [
-              "decent"
+              "manners",
+              "custom",
+              "decorum"
             ],
             "ru": [
-              "достойный"
+              "манеры",
+              "обычай",
+              "приличие"
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Arabic أَدَب (*ʔadab*) \"manners, etiquette\".",
+        "ru": "От арабского أَدَب (*ʔadab*) \"манеры, этикет\"."
+      }
     },
     {
       "id": "J4Qtne0TErovx7ZsQCpo",
@@ -1074,17 +1351,33 @@
       "definitions": [
         {
           "translation": {
-            "en": "dunno",
+            "en": "ignoramus",
             "ru": "незнайка"
           },
           "aliases": {
             "en": [
-              "dummy"
+              "know-nothing"
             ],
             "ru": [
-              "дурак"
+              "невежда"
             ]
           }
+        }
+      ],
+      "etymology": {
+        "en": "From the negative of *барьара* \"to know\".",
+        "ru": "От отрицательной формы *барьара* \"знать\"."
+      },
+      "derived_from": [
+        {
+          "headword": "барьара",
+          "link": "б#MuCHGh5pKeBDWjCK7b7j"
+        }
+      ],
+      "see_also": [
+        {
+          "headword": "даҡдаь",
+          "link": "д#AW5PVxT4WWADBjv4tc33"
         }
       ]
     },
@@ -1105,12 +1398,35 @@
           "translation": {
             "en": "inhospitable person",
             "ru": "негостеприимный человек"
+          },
+          "aliases": {
+            "en": [
+              "unwelcoming person",
+              "unfriendly host"
+            ],
+            "ru": [
+              "недоброжелательный",
+              "неприятный"
+            ]
           }
         }
       ],
       "etymology": {
-        "en": "From neg. of *биккара* \"to want\", cf. *буснус* \"sleepy person\"."
-      }
+        "en": "From the negative of *биккара* \"to want\" (cf. *буснус* \"sleepy person\").",
+        "ru": "От отрицательной формы *биккара* \"хотеть\" (ср. *буснус* \"соня\")."
+      },
+      "derived_from": [
+        {
+          "headword": "биккара",
+          "link": "б#DFT2IFEmOJB77jA2PnjV"
+        }
+      ],
+      "see_also": [
+        {
+          "headword": "буснус",
+          "link": "б#AxOyUk3RRJ3zb17mUCjt"
+        }
+      ]
     },
     {
       "id": "2YgQkAXoiHJ2wjCf0XGo",
@@ -1129,16 +1445,22 @@
           },
           "aliases": {
             "en": [
-              "demise",
-              "death"
+              "death",
+              "fate",
+              "demise"
             ],
             "ru": [
-              "кончина",
-              "смерть"
+              "смерть",
+              "судьба",
+              "кончина"
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Arabic أَجَل (*ʔajal*) \"appointed time, death\".",
+        "ru": "От арабского أَجَل (*ʔajal*) \"назначенный срок, смерть\"."
+      }
     },
     {
       "id": "gNLukVNccL4EggO0bVTo",
@@ -1160,19 +1482,23 @@
           },
           "aliases": {
             "en": [
-              "crocodile",
-              "serpent"
+              "serpent",
+              "mythical creature"
             ],
             "ru": [
-              "крокодил",
-              "змей"
+              "змей",
+              "мифическое существо"
             ]
           }
         }
       ],
       "variants": [
         "айдаьа"
-      ]
+      ],
+      "etymology": {
+        "en": "From Persian اژدها (*aždahā*) \"dragon\".",
+        "ru": "От персидского اژدها (*aždahā*) \"дракон\"."
+      }
     },
     {
       "id": "DILsYsSbwSFCUBEaLqXT",
@@ -1194,14 +1520,14 @@
           },
           "aliases": {
             "en": [
-              "note",
-              "music",
-              "sound"
+              "tune",
+              "song",
+              "music"
             ],
             "ru": [
-              "нота",
-              "музыка",
-              "мелодия"
+              "напев",
+              "мотив",
+              "музыка"
             ]
           }
         }
@@ -1233,7 +1559,8 @@
           ],
           "aliases": {
             "en": [
-              "likely"
+              "likely",
+              "possible"
             ],
             "ru": [
               "возможный"
@@ -1242,8 +1569,15 @@
         }
       ],
       "etymology": {
-        "en": "Hyp. of *аргара* \"to happen\"."
-      }
+        "en": "Hypothetical participle of *аргара* \"to happen\".",
+        "ru": "Гипотетическое причастие от *аргара* \"случаться\"."
+      },
+      "derived_from": [
+        {
+          "headword": "аргара",
+          "link": "а#zXPlPKSRavp4tcQlpaUv"
+        }
+      ]
     },
     {
       "id": "ayAvsnGDXxUm7wsUUnf3",
@@ -1265,14 +1599,14 @@
           },
           "aliases": {
             "en": [
-              "hate",
+              "malice",
               "rancor",
-              "malice"
+              "resentment"
             ],
             "ru": [
+              "злость",
               "ненависть",
-              "гнев",
-              "злость"
+              "гнев"
             ]
           }
         }
@@ -1296,9 +1630,25 @@
           "translation": {
             "en": "anarchy",
             "ru": "анархия"
+          },
+          "aliases": {
+            "en": [
+              "chaos",
+              "disorder",
+              "bedlam"
+            ],
+            "ru": [
+              "хаос",
+              "беспорядок",
+              "суматоха"
+            ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Arabic يَأْجُوج وَمَأْجُوج (*yaʔjūj wa-maʔjūj*) \"Gog and Magog\".",
+        "ru": "От арабского يَأْجُوج وَمَأْجُوج (*yaʔjūj wa-maʔjūj*) \"Яджудж и Маджудж\"."
+      }
     },
     {
       "id": "nGynxkGgjEPvDfvUgJ3G",
@@ -1344,16 +1694,20 @@
           },
           "aliases": {
             "en": [
-              "liberal",
-              "vacant"
+              "independent",
+              "unimpeded"
             ],
             "ru": [
-              "вольный",
-              "вакантный"
+              "независимый",
+              "вольный"
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Kumyk *азат*, ultimately from Persian آزاد (*āzād*) \"free\".",
+        "ru": "От кумыкского *азат*, восходит к персидскому آزاد (*āzād*) \"свободный\"."
+      }
     },
     {
       "id": "PDqdMd4rNelWwfmRg9Qf",
@@ -1375,14 +1729,25 @@
           },
           "aliases": {
             "en": [
-              "garth"
+              "courtyard",
+              "enclosure",
+              "compound"
+            ],
+            "ru": [
+              "двор",
+              "подворье",
+              "огороженное пространство"
             ]
           }
         }
       ],
       "variants": [
         "шеркка"
-      ]
+      ],
+      "etymology": {
+        "en": "From Kumyk *абзар* \"yard\", possibly from Persian ابزار (*abzâr*) \"tool, instrument\".",
+        "ru": "От кумыкского *абзар* \"двор\", возможно от персидского ابزار (*abzâr*) \"инструмент, орудие\"."
+      }
     },
     {
       "id": "JAIcS1PrlHStdfpi9Nk0",
@@ -1400,7 +1765,11 @@
             "ru": "тысяча"
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Persian هزار (*hazâr*) \"thousand\".",
+        "ru": "От персидского هزار (*hazâr*) \"тысяча\"."
+      }
     },
     {
       "id": "NKFpOojlx7zhgOoSSRoE",
@@ -1428,18 +1797,30 @@
           ],
           "aliases": {
             "en": [
-              "all"
+              "countless",
+              "innumerable",
+              "by the thousands"
             ],
             "ru": [
-              "все"
+              "бесчисленное множество",
+              "тысячи",
+              "множество"
             ]
           }
         }
       ],
-      "etymology": {
-        "en": "From *азир* \"thousand\".",
-        "ru": "От *азир* \"тысяча\"."
-      }
+      "derived_from": [
+        {
+          "headword": "азир",
+          "link": "а#JAIcS1PrlHStdfpi9Nk0"
+        }
+      ],
+      "see_also": [
+        {
+          "headword": "суккенцци",
+          "link": "с#zVU7IUFOjUzstbYjhBAS"
+        }
+      ]
     },
     {
       "id": "dCXsw84KT66fDmQflGTs",
@@ -1460,6 +1841,20 @@
             "ru": "многоножка"
           }
         }
+      ],
+      "variants": [
+        "азиртья",
+        "даршал тьимяр"
+      ],
+      "derived_from": [
+        {
+          "headword": "тья",
+          "link": "ть#Doa98okrgBgYZPSrvD9A"
+        },
+        {
+          "headword": "азир",
+          "link": "а#JAIcS1PrlHStdfpi9Nk0"
+        }
       ]
     },
     {
@@ -1475,21 +1870,30 @@
         {
           "translation": {
             "en": "obscure",
-            "ru": "непонятный"
+            "ru": "неясный"
           },
           "aliases": {
             "en": [
-              "unclear"
+              "incomprehensible",
+              "opaque"
             ],
             "ru": [
-              "неясный"
+              "непонятный",
+              "темный"
             ]
           }
         }
       ],
       "etymology": {
-        "en": "Neg. of *ирғиж* \"understandable\", from hyp. of *ирғара* \"to understand\"."
-      }
+        "en": "Negative hypothetical participle of *ирғара* \"to understand\".",
+        "ru": "Отрицательное гипотетическое причастие от *ирғара* \"понимать\"."
+      },
+      "derived_from": [
+        {
+          "headword": "ирғиж",
+          "link": "и#ntaWfswVouB0XX5u0gmE"
+        }
+      ]
     },
     {
       "id": "5nmmebPsxCFaBaZZwZ8D",
@@ -1511,15 +1915,22 @@
           },
           "aliases": {
             "en": [
-              "horse",
-              "mustang"
+              "stud",
+              "steed",
+              "horse"
             ],
             "ru": [
-              "конь"
+              "конь",
+              "скакун",
+              "лошадь"
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Kumyk *айгъыр* \"stallion\".",
+        "ru": "От кумыкского *айгъыр* \"жеребец\"."
+      }
     },
     {
       "id": "KkwipNqfgQ1wPDE9wfPl",
@@ -1535,12 +1946,26 @@
           "translation": {
             "en": "dancing circle",
             "ru": "танцевальный круг"
+          },
+          "aliases": {
+            "en": [
+              "round dance",
+              "circle dance"
+            ],
+            "ru": [
+              "хоровод",
+              "круговой танец"
+            ]
           }
         }
       ],
       "variants": [
-        "ҡҡайландир*"
-      ]
+        "ҡҡайландир"
+      ],
+      "etymology": {
+        "en": "From Kumyk *айландыр* \"rotation\".",
+        "ru": "От кумыкского *айландыр* \"вращение\"."
+      }
     },
     {
       "id": "fmcsU9QKHCZGVmYXFtX4",
@@ -1562,14 +1987,22 @@
           },
           "aliases": {
             "en": [
-              "story"
+              "tale",
+              "myth",
+              "folklore"
             ],
             "ru": [
-              "история"
+              "сказание",
+              "миф",
+              "предание"
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Kumyk *айтыв* \"saying, proverb\".",
+        "ru": "От кумыкского *айтыв* \"поговорка, пословица\"."
+      }
     },
     {
       "id": "I1CQfM84ng73Jiqhu6qy",
@@ -1578,10 +2011,6 @@
         {
           "en": "adj",
           "ru": "прил."
-        },
-        {
-          "en": "cls",
-          "ru": "кл."
         }
       ],
       "forms": [
@@ -1604,17 +2033,22 @@
           ],
           "aliases": {
             "en": [
-              "endless"
+              "endless",
+              "infinite"
             ],
             "ru": [
-              "бесконечный"
+              "бесконечный",
+              "вечный"
             ]
           }
         }
       ],
-      "etymology": {
-        "en": "Neg. obl. of *кабурхара* in the sense \"to complete\"."
-      }
+      "derived_from": [
+        {
+          "headword": "кабурхара",
+          "link": "к#Hrlb1zcbfwXpnbHxPlBW"
+        }
+      ]
     },
     {
       "id": "sEHEQdCMBR2V6CaHt4CC",
@@ -1628,7 +2062,7 @@
       "definitions": [
         {
           "translation": {
-            "en": "october",
+            "en": "October",
             "ru": "октябрь"
           },
           "aliases": {
@@ -1640,7 +2074,11 @@
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Russian *октябрь* \"October\".",
+        "ru": "От русского *октябрь*."
+      }
     },
     {
       "id": "14rCYWoMbR71mrKLrLeG",
@@ -1655,18 +2093,23 @@
         {
           "translation": {
             "en": "trench",
-            "ru": "траншея"
+            "ru": "окоп"
           },
           "aliases": {
             "en": [
-              "entrenchment"
+              "entrenchment",
+              "foxhole"
             ],
             "ru": [
-              "окоп"
+              "траншея"
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Russian *окоп* \"trench\".",
+        "ru": "От русского *окоп*."
+      }
     },
     {
       "id": "rPiNLiZQUavmGCFWAwoI",
@@ -1678,25 +2121,46 @@
         }
       ],
       "forms": [
-        "~ аҡара",
-        "~ аҡив"
+        "~ аҡив",
+        "~ аҡара"
       ],
       "definitions": [
         {
           "translation": {
-            "en": "to break up",
+            "en": "to part",
             "ru": "расходиться"
           },
+          "examples": [
+            {
+              "text": "Миҡҡла ьереғ укка акка аҡив.",
+              "translation": {
+                "en": "People parted after the wedding.",
+                "ru": "Люди разошлись после свадьбы."
+              }
+            }
+          ],
           "aliases": {
             "en": [
-              "part",
-              "leave"
+              "part ways",
+              "leave",
+              "separate"
             ],
             "ru": [
               "расставаться",
-              "уходить"
+              "уходить",
+              "разойтись"
             ]
           }
+        }
+      ],
+      "etymology": {
+        "en": "*акка* does not occur independently.",
+        "ru": "*акка* не встречается самостоятельно."
+      },
+      "derived_from": [
+        {
+          "headword": "иҡара",
+          "link": "и#evJEPAObUX7CEKcZMxTl"
         }
       ]
     },
@@ -1717,7 +2181,7 @@
           },
           "examples": [
             {
-              "text": "Атта ҡил аккне абаьурда.",
+              "text": "Атта ҡил аккне дул абаьурда.",
               "translation": {
                 "en": "I did not know father is not home.",
                 "ru": "Я не знал, что отец не дома."
@@ -1735,9 +2199,23 @@
         }
       ],
       "etymology": {
-        "en": "Likely the msd. of the origin verb of *аккор* \"lacking\".",
-        "ru": "Вероятно масдар от глагола *аккор* \"не имеющий\"."
-      }
+        "en": "Masdar from the historic verb *\\*аккора* (cf. *акку* \"not\").",
+        "ru": "Масдар от исторического глагола *\\*аккора* (ср. *акку* \"не\")."
+      },
+      "see_also": [
+        {
+          "headword": "акку",
+          "link": "а#KqTGbwI67Fy20RPlHNl4"
+        },
+        {
+          "headword": "биьне",
+          "link": "б#r47qb02Jol7cfwDgEgtj"
+        },
+        {
+          "headword": "аккре",
+          "link": "а#naUEZFpazmWdxL7vIIQM"
+        }
+      ]
     },
     {
       "id": "vrWT7RJdJu75wV8HRYmY",
@@ -1759,7 +2237,7 @@
               "text": "Ижин аккол илин аргар у?",
               "translation": {
                 "en": "If it doesn't work here, will it there?",
-                "кг": "Если не здесь, там получится?"
+                "ru": "Если не здесь, там получится?"
               }
             }
           ],
@@ -1769,91 +2247,17 @@
               "else"
             ],
             "ru": [
-              "или",
-              "иначе"
+              "или"
             ]
           }
         }
       ],
-      "etymology": {
-        "en": "From adv. of *аккор* \"absent\".",
-        "ru": "От нареч. формы *аккор* \"отсутсвующий\"."
-      }
-    },
-    {
-      "id": "UyNyIj9PbRrkC4uEggy4",
-      "headword": "акко́р",
-      "tags": [
+      "derived_from": [
         {
-          "en": "adj",
-          "ru": "прил."
+          "headword": "аккор",
+          "link": "а#UyNyIj9PbRrkC4uEggy4"
         }
-      ],
-      "forms": [
-        "аккол"
-      ],
-      "definitions": [
-        {
-          "translation": {
-            "en": "without",
-            "ru": "не имеющий"
-          },
-          "examples": [
-            {
-              "text": "ирхе аккор",
-              "translation": {
-                "en": "fearles",
-                "ru": "бесстрашный"
-              }
-            },
-            {
-              "text": "Арц аккол мавятте.",
-              "translation": {
-                "en": "Don't go without money.",
-                "ru": "Без денег не иди."
-              }
-            },
-            {
-              "text": "лякко",
-              "translation": {
-                "en": "ear-les (nickname)",
-                "ru": "безухий (кличка)"
-              }
-            }
-          ],
-          "aliases": {
-            "en": [
-              "missing",
-              "lacking",
-              "les"
-            ]
-          }
-        },
-        {
-          "translation": {
-            "en": "absent",
-            "ru": "отсутствующий"
-          },
-          "examples": [
-            {
-              "text": "Аккортай ра бурса.",
-              "translation": {
-                "en": "Tell to the absent ones too.",
-                "ru": "Расскажи и тем, кто отсутствует"
-              }
-            }
-          ],
-          "aliases": {
-            "en": [
-              "missing"
-            ]
-          }
-        }
-      ],
-      "etymology": {
-        "en": "Habitual present of verb **аккора*, which is not retained. Semantically corresponds to English -les.",
-        "ru": "Настоящее общее от несохранившего глагола **аккора*."
-      }
+      ]
     },
     {
       "id": "TuHMYdGXa1EY7lfywKae",
@@ -1872,13 +2276,132 @@
           },
           "examples": [
             {
-              "text": "Уба ҡил аккор ҡҡел мацятте.",
+              "text": "Ду ҡил аккор ҡҡел мацятте.",
               "translation": {
-                "en": "Don't come when mother is not home there.",
-                "ru": "Не приходи когда мама не дома."
+                "en": "Don't come when I'm not home.",
+                "ru": "Не приходи когда меня не дома."
+              }
+            },
+            {
+              "text": "Марка аккорцци кицце.",
+              "translation": {
+                "en": "Stand where there's no rain.",
+                "ru": "Стой там, где нет дождя."
               }
             }
-          ]
+          ],
+          "aliases": {
+            "en": [
+              "absent",
+              "lacking",
+              "missing"
+            ],
+            "ru": [
+              "отсутствуя",
+              "не имея",
+              "без"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "UyNyIj9PbRrkC4uEggy4",
+      "headword": "акко́р",
+      "tags": [
+        {
+          "en": "adj",
+          "ru": "прил."
+        }
+      ],
+      "forms": [
+        "аккол"
+      ],
+      "definitions": [
+        {
+          "translation": {
+            "en": "without",
+            "ru": "без"
+          },
+          "examples": [
+            {
+              "text": "Арц аккол мавятте.",
+              "translation": {
+                "en": "Don't go without money.",
+                "ru": "Без денег не иди."
+              }
+            },
+            {
+              "text": "ирхе аккор",
+              "translation": {
+                "en": "fearless",
+                "ru": "бесстрашный"
+              }
+            },
+            {
+              "text": "барҳ аккор",
+              "translation": {
+                "en": "wrong",
+                "ru": "неправильный"
+              }
+            }
+          ],
+          "aliases": {
+            "en": [
+              "missing",
+              "lacking",
+              "-less"
+            ],
+            "ru": [
+              "не имеющий",
+              "лишённый"
+            ]
+          },
+          "note": {
+            "en": "Used to form adjectives expressing absence of a quality.",
+            "ru": "Используется для образования прилагательных, выражающих отсутствие качества."
+          }
+        },
+        {
+          "translation": {
+            "en": "absent",
+            "ru": "отсутствующий"
+          },
+          "examples": [
+            {
+              "text": "Аккортай ра бурса.",
+              "translation": {
+                "en": "Tell to the absent ones too.",
+                "ru": "Расскажи и тем, кого нет."
+              }
+            }
+          ],
+          "aliases": {
+            "en": [
+              "absent"
+            ],
+            "ru": [
+              "нет"
+            ]
+          }
+        }
+      ],
+      "etymology": {
+        "en": "Habitual present of the historic verb *\\*аккора* (cf. *акку* \"not\").",
+        "ru": "Настоящее общее от исторического глагола *\\*аккора* (ср. *акку* \"не\")."
+      },
+      "see_also": [
+        {
+          "headword": "йяь аккор",
+          "link": "й#JERgC7L6fr7ZbWwTDuf2"
+        },
+        {
+          "headword": "буцьар",
+          "link": "б#LIDJVBM6Ca2JEXWGJFDy"
+        },
+        {
+          "headword": "акку",
+          "link": "а#KqTGbwI67Fy20RPlHNl4"
         }
       ]
     },
@@ -1896,8 +2419,8 @@
         }
       ],
       "forms": [
-        "~ биьора",
-        "~ биьяв"
+        "~ биьяв",
+        "~ биьора"
       ],
       "definitions": [
         {
@@ -1907,30 +2430,26 @@
           },
           "aliases": {
             "en": [
-              "die"
+              "die out",
+              "disappear",
+              "vanish"
             ],
             "ru": [
-              "исчезать"
+              "исчезать",
+              "пропадать",
+              "уходить"
             ]
           }
         }
-      ]
-    },
-    {
-      "id": "MWjxnlQTxQH7H3aXobtD",
-      "headword": "а́ккорцци",
-      "tags": [
-        {
-          "en": "adv",
-          "ru": "нар."
-        }
       ],
-      "definitions": [
+      "derived_from": [
         {
-          "translation": {
-            "en": "where is no",
-            "ru": "где нет"
-          }
+          "headword": "аккор",
+          "link": "а#UyNyIj9PbRrkC4uEggy4"
+        },
+        {
+          "headword": "бирьора",
+          "link": "б#2ECky4yqqOv37yDDZHaH"
         }
       ]
     },
@@ -1949,23 +2468,28 @@
       "definitions": [
         {
           "translation": {
-            "en": "nonsence",
+            "en": "nonsense",
             "ru": "клевета"
           },
           "aliases": {
             "en": [
-              "fiction"
+              "fiction",
+              "lies",
+              "falsehood"
             ],
             "ru": [
-              "неправда"
+              "неправда",
+              "ложь"
             ]
           }
         }
       ],
-      "etymology": {
-        "en": "Related to *аккор* \"absent\".",
-        "ru": "Связано с *аккор* \"отсутствующий\"."
-      }
+      "see_also": [
+        {
+          "headword": "аҡре",
+          "link": "а#rMN9gYALsNYU4MfQsepG"
+        }
+      ]
     },
     {
       "id": "KqTGbwI67Fy20RPlHNl4",
@@ -1990,10 +2514,18 @@
           },
           "examples": [
             {
-              "text": "Бел тухтур акку.",
+              "text": "Ьел тухтур акку.",
               "translation": {
                 "en": "He's not a doctor.",
-                "ru": "Он не доктор."
+                "ru": "Он не доктор.",
+                "examples": null
+              }
+            },
+            {
+              "text": "Дул барьул аккоде.",
+              "translation": {
+                "en": "I do not know",
+                "ru": "Я не знаю."
               }
             }
           ]
@@ -2003,9 +2535,15 @@
         "аккура"
       ],
       "etymology": {
-        "en": "Habitual of **аккора*, see *аккор*. The past tense's form developed from *аккви* > *аччви* > *аччу*.",
-        "ru": "Настоящее общее от **аккора*, см. *аккор*. Форма прошедшего времени развивалась как *аккви* > *аччви* > *аччу*."
-      }
+        "en": "Habitual present of the historic verb *\\*аккора*. The past tense's form developed from *аккви* → *аччви* → *аччу*.",
+        "ru": "Настоящее общее от исторического глагола *\\*аккора*. Форма прошедшего времени развивалась как *аккви* → *аччви* → *аччу*."
+      },
+      "see_also": [
+        {
+          "headword": "аккор",
+          "link": "а#TuHMYdGXa1EY7lfywKae"
+        }
+      ]
     },
     {
       "id": "CWkzPDmzDLquAV0GQayD",
@@ -2045,18 +2583,21 @@
             ],
             "ru": [
               "лишь",
-              "без"
+              "исключая"
             ]
           }
         }
       ],
       "variants": [
-        "аккол"
+        "аккол",
+        "аккон"
       ],
-      "etymology": {
-        "en": "Related to *аккор* \"without\".",
-        "ru": "Связано с *аккор* \"без\"."
-      }
+      "see_also": [
+        {
+          "headword": "аккол",
+          "link": "а#vrWT7RJdJu75wV8HRYmY"
+        }
+      ]
     },
     {
       "id": "Dwbn2SIZy3leW9m5osy8",
@@ -2076,6 +2617,16 @@
           "translation": {
             "en": "vineyard",
             "ru": "виноградник"
+          },
+          "aliases": {
+            "en": [
+              "garden",
+              "grape"
+            ],
+            "ru": [
+              "сад",
+              "виноград"
+            ]
           }
         }
       ]
@@ -2101,12 +2652,13 @@
           "aliases": {
             "en": [
               "peak",
-              "tip",
-              "top"
+              "top",
+              "tip"
             ],
             "ru": [
-              "высь",
-              "пик"
+              "пик",
+              "верх",
+              "высь"
             ]
           }
         }
@@ -2132,7 +2684,9 @@
           },
           "aliases": {
             "en": [
-              "passage"
+              "entry",
+              "passage",
+              "doorway"
             ],
             "ru": [
               "проход"
@@ -2140,10 +2694,18 @@
           }
         }
       ],
-      "etymology": {
-        "en": "From *иҡара* \"to pass\".",
-        "ru": "От *иҡара* \"проходить\"."
-      }
+      "derived_from": [
+        {
+          "headword": "иҡара",
+          "link": "и#evJEPAObUX7CEKcZMxTl"
+        }
+      ],
+      "see_also": [
+        {
+          "headword": "бетьре",
+          "link": "б#QiUzM9jjFuVpXVV3ootn"
+        }
+      ]
     },
     {
       "id": "Xsz94pgaqjPOe0cuJ3WP",
@@ -2162,12 +2724,23 @@
           },
           "aliases": {
             "en": [
+              "fireplace",
               "fire"
             ],
             "ru": [
-              "огонь"
+              "огонь",
+              "костёр"
             ]
           }
+        }
+      ],
+      "variants": [
+        "яҡҡи"
+      ],
+      "see_also": [
+        {
+          "headword": "цьиппа",
+          "link": "ць#YG2TbgAuRMbYEfNEUt5W"
         }
       ]
     },
@@ -2188,10 +2761,12 @@
           },
           "aliases": {
             "en": [
-              "encircle"
+              "about",
+              "round"
             ],
             "ru": [
-              "окружить"
+              "кругом",
+              "округ"
             ]
           }
         }
@@ -2214,8 +2789,8 @@
         }
       ],
       "forms": [
-        "~ бикара",
-        "~ бичив"
+        "~ бичив",
+        "~ бикара"
       ],
       "definitions": [
         {
@@ -2225,14 +2800,26 @@
           },
           "aliases": {
             "en": [
+              "dodge",
               "hedge",
-              "prevaricate",
-              "dodge"
+              "prevaricate"
             ],
             "ru": [
+              "избегать",
+              "уворачиваться",
               "увиливать"
             ]
           }
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "алав",
+          "link": "а#DWfEuIWsObkWJHArhU2J"
+        },
+        {
+          "headword": "бикара",
+          "link": "б#Nb9bD60fUmV45XpfTyF7"
         }
       ]
     },
@@ -2250,8 +2837,8 @@
         }
       ],
       "forms": [
-        "~ цабарара",
-        "~ цабарив"
+        "~ цабарив",
+        "~ цабарара"
       ],
       "definitions": [
         {
@@ -2261,14 +2848,26 @@
           },
           "aliases": {
             "en": [
+              "fence",
               "encircle",
-              "surround",
-              "fence"
+              "surround"
             ],
             "ru": [
-              "окружить"
+              "окружить",
+              "обнести",
+              "изгородить"
             ]
           }
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "алав",
+          "link": "а#DWfEuIWsObkWJHArhU2J"
+        },
+        {
+          "headword": "бирара",
+          "link": "б#fxLaR1iOs14XkNvNbCFH"
         }
       ]
     },
@@ -2286,8 +2885,8 @@
         }
       ],
       "forms": [
-        "~ цабигара",
-        "~ цабижив"
+        "~ цабижив",
+        "~ цабигара"
       ],
       "definitions": [
         {
@@ -2297,14 +2896,25 @@
           },
           "aliases": {
             "en": [
-              "gather",
-              "meet"
+              "meet",
+              "congregate"
             ],
             "ru": [
               "собраться",
-              "встретиться"
+              "встретиться",
+              "сходиться"
             ]
           }
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "алав",
+          "link": "а#DWfEuIWsObkWJHArhU2J"
+        },
+        {
+          "headword": "биргара",
+          "link": "б#A64K1sVxaFYXHLlJCCFd"
         }
       ]
     },
@@ -2318,8 +2928,8 @@
         }
       ],
       "forms": [
-        "~ цакара",
-        "~ цачив"
+        "~ цачив",
+        "~ цакара"
       ],
       "definitions": [
         {
@@ -2347,6 +2957,16 @@
             ]
           }
         }
+      ],
+      "derived_from": [
+        {
+          "headword": "алав",
+          "link": "а#DWfEuIWsObkWJHArhU2J"
+        },
+        {
+          "headword": "бикара",
+          "link": "б#Nb9bD60fUmV45XpfTyF7"
+        }
       ]
     },
     {
@@ -2363,8 +2983,8 @@
         }
       ],
       "forms": [
-        "~ ьабарара",
-        "~ ьабарив"
+        "~ ьабарив",
+        "~ ьабарара"
       ],
       "definitions": [
         {
@@ -2383,6 +3003,16 @@
             ]
           }
         }
+      ],
+      "derived_from": [
+        {
+          "headword": "алав",
+          "link": "а#DWfEuIWsObkWJHArhU2J"
+        },
+        {
+          "headword": "бирара",
+          "link": "б#fxLaR1iOs14XkNvNbCFH"
+        }
       ]
     },
     {
@@ -2399,8 +3029,8 @@
         }
       ],
       "forms": [
-        "~ ьабигара",
-        "~ ьабижив"
+        "~ ьабижив",
+        "~ ьабигара"
       ],
       "definitions": [
         {
@@ -2410,14 +3040,25 @@
           },
           "aliases": {
             "en": [
-              "gather",
-              "congregate"
+              "unite",
+              "band together",
+              "gather"
             ],
             "ru": [
-              "собираться",
-              "сойтись"
+              "объединяться",
+              "сплотиться"
             ]
           }
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "алав",
+          "link": "а#DWfEuIWsObkWJHArhU2J"
+        },
+        {
+          "headword": "биргара",
+          "link": "б#A64K1sVxaFYXHLlJCCFd"
         }
       ]
     },
@@ -2435,8 +3076,8 @@
         }
       ],
       "forms": [
-        "~ ьабуцара",
-        "~ ьабуцив"
+        "~ ьабуцив",
+        "~ ьабуцара"
       ],
       "definitions": [
         {
@@ -2452,6 +3093,16 @@
               "обводить"
             ]
           }
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "алав",
+          "link": "а#DWfEuIWsObkWJHArhU2J"
+        },
+        {
+          "headword": "бурцара",
+          "link": "б#C7iK4oxh81az0w0IWXOi"
         }
       ]
     },
@@ -2475,14 +3126,20 @@
           },
           "aliases": {
             "en": [
-              "short"
+              "short",
+              "runt"
             ],
             "ru": [
+              "коротышка",
               "низкий"
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Kumyk *алаша* \"short\".",
+        "ru": "От кумыкского *алаша* \"низкий\"."
+      }
     },
     {
       "id": "sYv6FWMUwxss0BX32jkZ",
@@ -2501,10 +3158,14 @@
           },
           "aliases": {
             "en": [
-              "satan"
+              "satan",
+              "demon",
+              "evil spirit"
             ],
             "ru": [
-              "сатана"
+              "сатана",
+              "демон",
+              "злой дух"
             ]
           }
         }
@@ -2522,7 +3183,7 @@
       "definitions": [
         {
           "translation": {
-            "en": "bukhara",
+            "en": "Bukhara",
             "ru": "Бухара"
           }
         }
@@ -2549,10 +3210,17 @@
           "aliases": {
             "en": [
               "paradise"
+            ],
+            "ru": [
+              "небеса"
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Arabic جَنَّة (*janna*) \"heaven\".",
+        "ru": "От арабского جَنَّة (*janna*) \"рай\"."
+      }
     },
     {
       "id": "vCF9iznNMqM8AIE0NHyb",
@@ -2575,12 +3243,16 @@
               "letter"
             ],
             "ru": [
-              "абв",
+              "азбука",
               "буква"
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From the first letter of the Arabic alphabet أَلِف (*ʔalif*).",
+        "ru": "От первой буквы арабского алфавита أَلِف (*ʔalif*)."
+      }
     },
     {
       "id": "jNYuQCs7H7aeFAuuewg0",
@@ -2594,19 +3266,23 @@
       "definitions": [
         {
           "translation": {
-            "en": "allah",
+            "en": "Allah",
             "ru": "Аллах"
           },
           "aliases": {
             "en": [
-              "god"
+              "God"
             ],
             "ru": [
-              "бог"
+              "Бог"
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Arabic اللّٰه (*allāh*).",
+        "ru": "От арабского اللّٰه (*allāh*)."
+      }
     },
     {
       "id": "RcWxD3pstDG11GFQtmgh",
@@ -2623,6 +3299,16 @@
             "en": "firebug",
             "ru": "клоп-солдатик"
           }
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "ҡьвял",
+          "link": "ҡь#FIdENof4JB6RmJjQm8Kl"
+        },
+        {
+          "headword": "аллаь",
+          "link": "а#jNYuQCs7H7aeFAuuewg0"
         }
       ]
     },
@@ -2642,7 +3328,11 @@
             "ru": "стеклорез"
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Persian الماس (*almās*) \"diamond\", though the semantic shift to \"glass cutter\" is unclear.",
+        "ru": "От персидского الماس (*almās*) \"алмаз\", хотя семантический сдвиг к \"стеклорез\" неясен."
+      }
     },
     {
       "id": "P2HavzEU5kfbFlSFdtdm",
@@ -2654,14 +3344,14 @@
         }
       ],
       "forms": [
-        "атьана",
-        "атьун"
+        "атьун",
+        "атьана"
       ],
       "definitions": [
         {
           "translation": {
             "en": "to stick",
-            "ru": "втыкать"
+            "ru": "втыкаться"
           },
           "examples": [
             {
@@ -2674,10 +3364,12 @@
           ],
           "aliases": {
             "en": [
-              "prick"
+              "prick",
+              "pierce"
             ],
             "ru": [
-              "уколоть"
+              "уколоть",
+              "проткнуть"
             ]
           }
         }
@@ -2697,9 +3389,21 @@
           "translation": {
             "en": "cherry plum",
             "ru": "алыча"
+          },
+          "aliases": {
+            "en": [
+              "plum"
+            ],
+            "ru": [
+              "слива"
+            ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Persian آلوچه (*âluče*) \"damson, plum\".",
+        "ru": "От персидского آلوچه (*âluče*) \"слива, алыча\"."
+      }
     },
     {
       "id": "Z1r9rPvJ12RiEAVI2Ozk",
@@ -2727,7 +3431,14 @@
             ]
           }
         }
-      ]
+      ],
+      "variants": [
+        "амма"
+      ],
+      "etymology": {
+        "en": "From Arabic أَمَّا (*ʔammā*) \"as for\".",
+        "ru": "От арабского أَمَّا (*ʔammā*) \"что касается\"."
+      }
     },
     {
       "id": "lZTcrSzBD2AuqOSMjcWx",
@@ -2756,10 +3467,15 @@
           }
         }
       ],
-      "etymology": {
-        "en": "Related to *ама* \"but\".",
-        "ru": "Связано с *ама* \"но\"."
-      }
+      "variants": [
+        "аммаки"
+      ],
+      "derived_from": [
+        {
+          "headword": "ама",
+          "link": "а#Z1r9rPvJ12RiEAVI2Ozk"
+        }
+      ]
     },
     {
       "id": "2KgcbH9rBSlCfmSONShV",
@@ -2775,9 +3491,23 @@
           "translation": {
             "en": "custody",
             "ru": "попечение"
+          },
+          "aliases": {
+            "en": [
+              "guardianship",
+              "care"
+            ],
+            "ru": [
+              "опека",
+              "попечительство"
+            ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Arabic أَمَانَة (*ʔamāna*) \"trust, reliability\".",
+        "ru": "От арабского أَمَانَة (*ʔamāna*) \"верность, надёжность\"."
+      }
     },
     {
       "id": "qxXLhhKBU73Wh3rvdKyO",
@@ -2794,16 +3524,23 @@
             "en": "stroll",
             "ru": "прогулка"
           },
+          "examples": [
+            {
+              "text": "Даҳай амма.",
+              "translation": {
+                "en": "Come for a stroll.",
+                "ru": "Пойдём на прогулку."
+              }
+            }
+          ],
           "aliases": {
             "en": [
-              "elsewhere",
               "walk",
-              "outside"
+              "outing"
             ],
             "ru": [
-              "куда",
-              "гулять",
-              "наружу"
+              "прогулка",
+              "гулять"
             ]
           }
         }
@@ -2826,23 +3563,19 @@
           },
           "examples": [
             {
-              "text": "Амъам рикьул це.",
-              "translation": {
-                "en": "She is stuttering.",
-                "ru": "Она заикается."
-              }
-            },
-            {
               "text": "амъам ьижив",
               "translation": {
-                "en": "He stuttered.",
-                "ru": "Он заикнулся."
+                "en": "[he] stuttered",
+                "ru": "заикнулся"
               }
             }
           ],
           "aliases": {
             "en": [
               "stammer"
+            ],
+            "ru": [
+              "заикаться"
             ]
           },
           "note": {
@@ -2850,7 +3583,11 @@
             "ru": "Есть ещё *амъамчи* \"заика\"."
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "Probably onomatopoeia.",
+        "ru": "Вероятно, звукоподражание."
+      }
     },
     {
       "id": "cG7QZoTm1cb3daGPW0id",
@@ -2872,10 +3609,12 @@
           },
           "aliases": {
             "en": [
-              "bug"
+              "bug",
+              "pill bug"
             ],
             "ru": [
-              "жук"
+              "жук",
+              "мокрица"
             ]
           }
         }
@@ -2897,7 +3636,11 @@
             "ru": "инжир"
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Persian انجیر (*anjir*) \"fig\".",
+        "ru": "От персидского انجیر (*anjir*) \"инжир\"."
+      }
     },
     {
       "id": "dEfPtGMSBObTKPjWLp2A",
@@ -2913,8 +3656,8 @@
         }
       ],
       "forms": [
-        "~ кабигара",
-        "~ кабижив"
+        "~ кабижив",
+        "~ кабигара"
       ],
       "definitions": [
         {
@@ -2924,10 +3667,12 @@
           },
           "aliases": {
             "en": [
-              "sleep"
+              "to sleep",
+              "to nap"
             ],
             "ru": [
-              "спать"
+              "спать",
+              "дремать"
             ]
           }
         }
@@ -2936,9 +3681,21 @@
         "чибусана"
       ],
       "etymology": {
-        "en": "The first part is related to *анкьала* \"sleep\".",
-        "ru": "Первая часть связана с *анкьала* \"сон\"."
-      }
+        "en": "The first element shares a root with *анкьала* \"sleep\".",
+        "ru": "Первый элемент имеет общий корень с *анкьала* \"сон\"."
+      },
+      "derived_from": [
+        {
+          "headword": "кабиргара",
+          "link": "к#ltsNk8x1cq7JqLQcEhMr"
+        }
+      ],
+      "see_also": [
+        {
+          "headword": "анкьала",
+          "link": "а#yJMhbkFbYd2lMdagQDWc"
+        }
+      ]
     },
     {
       "id": "yJMhbkFbYd2lMdagQDWc",
@@ -2977,6 +3734,16 @@
             ]
           }
         }
+      ],
+      "see_also": [
+        {
+          "headword": "анкь кабиргара",
+          "link": "а#dEfPtGMSBObTKPjWLp2A"
+        },
+        {
+          "headword": "иццала",
+          "link": "и#4FZgYvflp6rHl5P7HKPB"
+        }
       ]
     },
     {
@@ -2996,6 +3763,15 @@
           "translation": {
             "en": "kite",
             "ru": "коршун"
+          },
+          "aliases": {
+            "en": [
+              "raptor"
+            ],
+            "ru": [
+              "хищная птица",
+              "орёл"
+            ]
           }
         }
       ]
@@ -3014,6 +3790,24 @@
           "translation": {
             "en": "pain",
             "ru": "боль"
+          },
+          "examples": [
+            {
+              "text": "Анни агур у етти?",
+              "translation": {
+                "en": "Did it hurt?",
+                "ru": "Больно стало?"
+              }
+            }
+          ],
+          "aliases": {
+            "en": [
+              "ache",
+              "hurt"
+            ],
+            "ru": [
+              "недомогание"
+            ]
           }
         }
       ]
@@ -3035,10 +3829,10 @@
           },
           "examples": [
             {
-              "text": "ант аҡара ра аватур",
+              "text": "Ант аҡара ра аватур.",
               "translation": {
-                "en": "didn't let him even make a sound",
-                "ru": "не дал даже пикнуть"
+                "en": "Didn't let him even make a sound.",
+                "ru": "Не дал ему даже пикнуть."
               }
             }
           ],
@@ -3074,19 +3868,22 @@
               "text": "антуҡь виьяв",
               "translation": {
                 "en": "forgot",
-                "ru": "забыл"
+                "ru": "забылся"
               }
             }
           ],
           "aliases": {
             "en": [
-              "forget"
+              "forgetfulness"
             ],
             "ru": [
-              "забыл"
+              "забывчивость"
             ]
           }
         }
+      ],
+      "variants": [
+        "антаҡь"
       ]
     },
     {
@@ -3107,6 +3904,14 @@
           "translation": {
             "en": "forehead",
             "ru": "лоб"
+          },
+          "aliases": {
+            "en": [
+              "head"
+            ],
+            "ru": [
+              "голова"
+            ]
           }
         }
       ]
@@ -3128,13 +3933,20 @@
           },
           "aliases": {
             "en": [
-              "fresh",
-              "dull"
+              "unsalted",
+              "tasteless"
             ],
             "ru": [
-              "свежий"
+              "несолёный",
+              "безвкусный"
             ]
           }
+        }
+      ],
+      "see_also": [
+        {
+          "headword": "цце",
+          "link": "цц#wJvoGnFKaqRqkdfK1xfm"
         }
       ]
     },
@@ -3158,13 +3970,12 @@
           },
           "aliases": {
             "en": [
-              "jest",
-              "joke",
-              "mock"
+              "mockery",
+              "tease"
             ],
             "ru": [
-              "шутка",
-              "издёвка"
+              "издёвка",
+              "насмешка"
             ]
           }
         }
@@ -3190,10 +4001,12 @@
           },
           "aliases": {
             "en": [
-              "calf"
+              "cow",
+              "cattle"
             ],
             "ru": [
-              "телёнок"
+              "корова",
+              "скот"
             ]
           }
         }
@@ -3214,19 +4027,15 @@
       "definitions": [
         {
           "translation": {
-            "en": "operation",
-            "ru": "операция"
-          },
-          "aliases": {
-            "en": [
-              "procedure"
-            ],
-            "ru": [
-              "процедура"
-            ]
+            "en": "surgery",
+            "ru": "операция (хирургическая)"
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Russian *операция* \"surgery operation\".",
+        "ru": "От русского *операция*."
+      }
     },
     {
       "id": "gJ1VizV5hru4k9fDX6ma",
@@ -3245,10 +4054,10 @@
           },
           "examples": [
             {
-              "text": "аппу вичив",
+              "text": "аппу ричив",
               "translation": {
                 "en": "fell",
-                "ru": "упал"
+                "ru": "упала"
               }
             }
           ]
@@ -3269,6 +4078,16 @@
           "translation": {
             "en": "halva",
             "ru": "халва"
+          },
+          "aliases": {
+            "en": [
+              "sweet",
+              "confection"
+            ],
+            "ru": [
+              "сладость",
+              "десерт"
+            ]
           }
         }
       ],
@@ -3287,8 +4106,8 @@
         }
       ],
       "forms": [
-        "агара",
-        "агур"
+        "агур",
+        "агара"
       ],
       "definitions": [
         {
@@ -3296,19 +4115,68 @@
             "en": "to happen",
             "ru": "случаться"
           },
+          "examples": [
+            {
+              "text": "Церра аарганне етти.",
+              "translation": {
+                "en": "Nothing will happen to you.",
+                "ru": "Ничего с тобой случится."
+              }
+            }
+          ],
           "aliases": {
             "en": [
-              "become"
+              "to occur",
+              "to take place"
             ],
             "ru": [
-              "стать"
+              "происходить"
             ]
           }
+        },
+        {
+          "translation": {
+            "en": "to work out",
+            "ru": "получаться"
+          },
+          "examples": [
+            {
+              "text": "Агур у ила?",
+              "translation": {
+                "en": "Did you manage it?",
+                "ru": "Получилось у тебя?"
+              }
+            }
+          ],
+          "aliases": {
+            "en": [
+              "to succeed",
+              "to manage"
+            ],
+            "ru": [
+              "удаваться"
+            ]
+          }
+        },
+        {
+          "translation": {
+            "en": "to become",
+            "ru": "становиться"
+          },
+          "examples": [
+            {
+              "text": "Иригле ду дирихтур агурда.",
+              "translation": {
+                "en": "Last year I became director.",
+                "ru": "В прошлом году я стал директором."
+              }
+            }
+          ]
         }
       ],
       "note": {
-        "en": "There seems to be also *алгана/агана* with related meaning \"to plan\".",
-        "ru": "Кажется, что есть ещё *алгана/агана* со смыслом \"планироваь\"."
+        "en": "Temirbulatova 2004 also lists *агана* with meaning \"to plan\", but it's unclear if it's a typo.",
+        "ru": "В Темирбулатова 2004 также указано *агана* со значением \"планировать\", но неясно, не опечатка ли это."
       }
     },
     {
@@ -3320,13 +4188,10 @@
           "ru": "сущ."
         }
       ],
+      "forms": [
+        "арғре"
+      ],
       "definitions": [
-        {
-          "translation": {
-            "en": "weather",
-            "ru": "погода"
-          }
-        },
         {
           "translation": {
             "en": "season",
@@ -3339,6 +4204,13 @@
                 "en": "contemporary",
                 "ru": "современный"
               }
+            },
+            {
+              "text": "дусела арғре",
+              "translation": {
+                "en": "seasons (of year)",
+                "ru": "времена года"
+              }
             }
           ],
           "aliases": {
@@ -3346,13 +4218,11 @@
               "time"
             ],
             "ru": [
-              "время"
+              "время",
+              "пора"
             ]
           }
         }
-      ],
-      "variants": [
-        "ерғ"
       ]
     },
     {
@@ -3375,13 +4245,11 @@
           },
           "aliases": {
             "en": [
-              "influence",
-              "rule",
-              "power"
+              "power",
+              "influence"
             ],
             "ru": [
               "влияние",
-              "повелевание",
               "сила"
             ]
           }
@@ -3430,30 +4298,42 @@
         }
       ],
       "forms": [
-        "ажихара",
-        "ажихив"
+        "ажихив",
+        "ажихара"
       ],
       "definitions": [
         {
           "translation": {
             "en": "to cause",
-            "ru": "вызывать"
+            "ru": "причинять"
           },
+          "examples": [
+            {
+              "text": "Ил ьелей ваьядеҳ ажихурде.",
+              "translation": {
+                "en": "You caused him harm.",
+                "ru": "Ты причинил ему вред."
+              }
+            }
+          ],
           "aliases": {
             "en": [
-              "bring",
-              "commit"
+              "to bring about",
+              "to inflict"
             ],
             "ru": [
-              "совершить"
+              "вызывать",
+              "наносить"
             ]
           }
         }
       ],
-      "etymology": {
-        "en": "Caus. of *аргара* \"to happen\".",
-        "ru": "Кауз. от *аргара* \"случаться\"."
-      }
+      "derived_from": [
+        {
+          "headword": "аргара",
+          "link": "а#zXPlPKSRavp4tcQlpaUv"
+        }
+      ]
     },
     {
       "id": "wRLyC9rPKaqg6FBBeIQR",
@@ -3475,14 +4355,18 @@
               "lease"
             ],
             "ru": [
-              "заём"
+              "наём"
             ]
           }
         }
       ],
       "variants": [
         "ижар"
-      ]
+      ],
+      "etymology": {
+        "en": "From Russian *аренда* \"rent\".",
+        "ru": "От русского *аренда*."
+      }
     },
     {
       "id": "FX3hCNL6flh77sFcrqtV",
@@ -3501,10 +4385,12 @@
           },
           "aliases": {
             "en": [
-              "disease"
+              "outbreak",
+              "plague"
             ],
             "ru": [
-              "болезнь"
+              "вспышка",
+              "мор"
             ]
           }
         }
@@ -3527,6 +4413,15 @@
           "translation": {
             "en": "axis",
             "ru": "ось"
+          },
+          "aliases": {
+            "en": [
+              "axle",
+              "shaft"
+            ],
+            "ru": [
+              "вал"
+            ]
           }
         }
       ]
@@ -3545,6 +4440,16 @@
           "translation": {
             "en": "barren",
             "ru": "яловой"
+          },
+          "aliases": {
+            "en": [
+              "sterile",
+              "infertile"
+            ],
+            "ru": [
+              "бесплодный",
+              "неплодный"
+            ]
           }
         }
       ]
@@ -3597,6 +4502,16 @@
           "translation": {
             "en": "money",
             "ru": "деньги"
+          },
+          "aliases": {
+            "en": [
+              "currency",
+              "cash"
+            ],
+            "ru": [
+              "валюта",
+              "наличные"
+            ]
           }
         },
         {
@@ -3632,7 +4547,7 @@
         }
       ],
       "variants": [
-        "арславул",
+        "арслав",
         "арсавккаг"
       ]
     },
@@ -3666,20 +4581,24 @@
           ],
           "aliases": {
             "en": [
+              "income",
               "gain",
               "profit"
             ],
             "ru": [
+              "доход",
               "прибыль",
               "выгода"
             ]
           }
         }
       ],
-      "etymology": {
-        "en": "Pl. of *арц* \"money\".",
-        "ru": "Мн. ч. от *арц* \"деньги\"."
-      }
+      "derived_from": [
+        {
+          "headword": "арц",
+          "link": "а#lE0KnsmEJpUvokp4Fszp"
+        }
+      ]
     },
     {
       "id": "dFgFnx9p8YJrZo7QP0xl",
@@ -3701,10 +4620,18 @@
           }
         }
       ],
-      "etymology": {
-        "en": "From pfv. of *ирцьара* \"to weed\".",
-        "ru": "От сов. *ирцьара* \"полоть\"."
-      }
+      "derived_from": [
+        {
+          "headword": "ирцьара",
+          "link": "и#qX1ouMKJtgvTr545gPtW"
+        }
+      ],
+      "see_also": [
+        {
+          "headword": "арше",
+          "link": "а#5f5xbQkDeHSttfSCnlWH"
+        }
+      ]
     },
     {
       "id": "ilULTmo8i3LUJM6NMEBr",
@@ -3726,10 +4653,21 @@
           }
         }
       ],
-      "etymology": {
-        "en": "From *ирцьара* \"to weed\", cf. *уттяъя* \"mower\".",
-        "ru": "От *ирцьара* \"полоть\", ср. *уттяъя* \"косарь\"."
-      }
+      "variants": [
+        "арцьиҡьян"
+      ],
+      "derived_from": [
+        {
+          "headword": "ирцьара",
+          "link": "и#qX1ouMKJtgvTr545gPtW"
+        }
+      ],
+      "see_also": [
+        {
+          "headword": "уттяъя",
+          "link": "у#tTLTTHpKu1lG6HeD6BtL"
+        }
+      ]
     },
     {
       "id": "5f5xbQkDeHSttfSCnlWH",
@@ -3751,6 +4689,7 @@
           },
           "aliases": {
             "en": [
+              "crop",
               "reaping"
             ],
             "ru": [
@@ -3759,10 +4698,18 @@
           }
         }
       ],
-      "etymology": {
-        "en": "From pfv. *ирҳара* \"to reap\" (cf. *арцье* \"weed\").",
-        "ru": "От сов. *ирҳара* \"жать\" (ср. *арцье* \"сорняки\")."
-      }
+      "derived_from": [
+        {
+          "headword": "ирҳара",
+          "link": "и#SthvTMuwnxAZ39Ohvpqz"
+        }
+      ],
+      "see_also": [
+        {
+          "headword": "арцье",
+          "link": "а#dFgFnx9p8YJrZo7QP0xl"
+        }
+      ]
     },
     {
       "id": "5G9w7BOXyB8NE7TrA1xI",
@@ -3784,10 +4731,21 @@
           }
         }
       ],
-      "etymology": {
-        "en": "From *ирҳара* \"to reap\", cf. *уттяъя* \"mower\".",
-        "ru": "От *ирҳара* \"жать\", ср. *уттяъя* \"косарь\"."
-      }
+      "variants": [
+        "аршиҡьян"
+      ],
+      "derived_from": [
+        {
+          "headword": "ирҳара",
+          "link": "и#SthvTMuwnxAZ39Ohvpqz"
+        }
+      ],
+      "see_also": [
+        {
+          "headword": "уттяъя",
+          "link": "у#tTLTTHpKu1lG6HeD6BtL"
+        }
+      ]
     },
     {
       "id": "mOJfBS57aJlfTVMvb2cT",
@@ -3827,10 +4785,12 @@
           },
           "aliases": {
             "en": [
+              "rank",
               "privilege"
             ],
             "ru": [
-              "привелегия"
+              "ранг",
+              "привилегия"
             ]
           }
         }
@@ -3845,14 +4805,31 @@
           "ru": "сущ."
         }
       ],
+      "forms": [
+        "асарте"
+      ],
       "definitions": [
         {
           "translation": {
             "en": "impression",
             "ru": "впечатление"
+          },
+          "aliases": {
+            "en": [
+              "impact",
+              "effect"
+            ],
+            "ru": [
+              "воздействие",
+              "эффект"
+            ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Persian اثر (*asar*), from Arabic أَثَر (*ʔaṯar*) \"trace, impression\".",
+        "ru": "От персидского اثر (*asar*), от арабского أَثَر (*ʔaṯar*) \"след, впечатление\"."
+      }
     },
     {
       "id": "DMTmf55mc6lN8ifFcu5t",
@@ -3868,7 +4845,23 @@
           "translation": {
             "en": "noble",
             "ru": "благородный"
+          },
+          "aliases": {
+            "en": [
+              "aristocratic",
+              "dignified"
+            ],
+            "ru": [
+              "аристократичный",
+              "высокородный"
+            ]
           }
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "ас",
+          "link": "а#fRsNoqU4sG8NTpxUtGoq"
         }
       ]
     },
@@ -3890,11 +4883,11 @@
           "aliases": {
             "en": [
               "miserable",
-              "poor"
+              "pitiful"
             ],
             "ru": [
               "жалкий",
-              "бедняга"
+              "несчастный"
             ]
           }
         }
@@ -3909,6 +4902,9 @@
           "ru": "сущ."
         }
       ],
+      "forms": [
+        "астталвайте"
+      ],
       "definitions": [
         {
           "translation": {
@@ -3917,11 +4913,20 @@
           },
           "aliases": {
             "en": [
-              "buffet"
+              "cafeteria",
+              "dining hall"
+            ],
+            "ru": [
+              "кафетерий",
+              "буфет"
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Russian *столовая* \"canteen\".",
+        "ru": "От русского *столовая*."
+      }
     },
     {
       "id": "o6r62JrABDfBQkoBZOpG",
@@ -3935,11 +4940,15 @@
       "definitions": [
         {
           "translation": {
-            "en": "god forbid!",
-            "ru": "не дай бог!"
+            "en": "expression of disapproval, shock",
+            "ru": "выражение неодобрения, шока"
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Arabic أَسْتَغْفِرُ اللهَ (*ʔastaḡfiru llāha*) \"I ask God for forgiveness\".",
+        "ru": "От арабского أَسْتَغْفِرُ اللهَ (*ʔastaḡfiru llāha*) \"прошу прощения у Бога\"."
+      }
     },
     {
       "id": "PxdmopU7Lczusj3ehVCC",
@@ -3958,8 +4967,20 @@
           "translation": {
             "en": "father",
             "ru": "отец"
+          },
+          "aliases": {
+            "en": [
+              "dad",
+              "papa"
+            ],
+            "ru": [
+              "папа"
+            ]
           }
         }
+      ],
+      "variants": [
+        "датте"
       ]
     },
     {
@@ -3985,10 +5006,22 @@
       "variants": [
         "аттуба"
       ],
-      "etymology": {
-        "en": "Compound of *атта* \"father\" + *аба* \"mother\" (cf. *абаба* \"maternal grandmother\").",
-        "ru": "Сложение *атта* \"отец\" + *аба* \"мать\" (ср. *абаба* \"бабушка по матери\")."
-      }
+      "derived_from": [
+        {
+          "headword": "уба",
+          "link": "у#ey0cwVNfScpuJr3gOcFC"
+        },
+        {
+          "headword": "атта",
+          "link": "а#PxdmopU7Lczusj3ehVCC"
+        }
+      ],
+      "see_also": [
+        {
+          "headword": "абаба",
+          "link": "а#YkZtiqCYGrbTzESn1sZW"
+        }
+      ]
     },
     {
       "id": "93k9l8pUfIaGlhnr4Ot7",
@@ -4016,22 +5049,37 @@
       "headword": "атте́",
       "tags": [
         {
-          "en": "conj",
-          "ru": "союз"
+          "en": "ptcl",
+          "ru": "част."
         }
       ],
       "definitions": [
         {
           "translation": {
-            "en": "really",
-            "ru": "разве"
+            "en": "interrogative particle (really?, is it true?)",
+            "ru": "вопросительная частица (разве?, правда ли?)"
           },
           "examples": [
             {
-              "text": "Ила уцци ви у атте?",
+              "text": "Ила бизи би у атте?",
               "translation": {
-                "en": "Do you realy have a brother?",
-                "ru": "У тебя разве есть брат?"
+                "en": "You really have a cat?",
+                "ru": "У тебя разве есть кошка?"
+              }
+            }
+          ]
+        },
+        {
+          "translation": {
+            "en": "emphatic particle (come on, already, now)",
+            "ru": "усилительная частица (же, давай, ну)"
+          },
+          "examples": [
+            {
+              "text": "Бурса атте.",
+              "translation": {
+                "en": "Tell it already.",
+                "ru": "Расскажи же."
               }
             }
           ]
@@ -4050,24 +5098,40 @@
           "ru": "сущ."
         }
       ],
+      "forms": [
+        "аттихе"
+      ],
       "definitions": [
         {
           "translation": {
-            "en": "rest",
-            "ru": "отдых"
+            "en": "respite",
+            "ru": "передышка"
           },
+          "examples": [
+            {
+              "text": "Вя, аттих бара.",
+              "translation": {
+                "en": "Go, have some rest.",
+                "ru": "Иди, передохни."
+              }
+            }
+          ],
           "aliases": {
             "en": [
-              "recreation",
-              "respite"
+              "break",
+              "rest"
             ],
             "ru": [
-              "восстановление",
-              "передышка"
+              "отдых",
+              "перерыв"
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Russian *отдых* \"rest\".",
+        "ru": "От русского *отдых*."
+      }
     },
     {
       "id": "gDq3gCfpfLtZb3pQ1JRF",
@@ -4093,7 +5157,11 @@
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Arabic أَطْلَس (*ʔaṭlas*) \"satin\".",
+        "ru": "От арабского أَطْلَس (*ʔaṭlas*) \"атлас\"."
+      }
     },
     {
       "id": "rqPjebfc26lgwdygJk8u",
@@ -4118,7 +5186,8 @@
               "visitor"
             ],
             "ru": [
-              "посетитель"
+              "посетитель",
+              "кунак"
             ]
           }
         }
@@ -4144,9 +5213,16 @@
               "welcome"
             ],
             "ru": [
-              "пожаловать"
+              "приём",
+              "радушие"
             ]
           }
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "ахал",
+          "link": "а#rqPjebfc26lgwdygJk8u"
         }
       ]
     },
@@ -4159,17 +5235,35 @@
           "ru": "сущ."
         }
       ],
+      "forms": [
+        "ахирте"
+      ],
       "definitions": [
         {
           "translation": {
             "en": "end",
             "ru": "конец"
+          },
+          "aliases": {
+            "en": [
+              "finish",
+              "conclusion"
+            ],
+            "ru": [
+              "финал",
+              "окончание",
+              "завершение"
+            ]
           }
         }
       ],
       "variants": [
         "яхир"
-      ]
+      ],
+      "etymology": {
+        "en": "From Arabic آخِر (*ʔāḵir*) \"last\".",
+        "ru": "От арабского آخِر (*ʔāḵir*) \"последний\"."
+      }
     },
     {
       "id": "06bDMy080yUEmZbs9HIg",
@@ -4185,9 +5279,22 @@
           "translation": {
             "en": "afterlife",
             "ru": "загробная жизнь"
+          },
+          "aliases": {
+            "en": [
+              "hereafter"
+            ],
+            "ru": [
+              "загробный мир",
+              "тот свет"
+            ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Arabic آخِرَة (*ʔāḵira*) \"hereafter\".",
+        "ru": "От арабского آخِرَة (*ʔāḵira*) \"загробная жизнь\"."
+      }
     },
     {
       "id": "m7qByPfe44KvcNgW6Bhu",
@@ -4213,6 +5320,12 @@
             ]
           }
         }
+      ],
+      "derived_from": [
+        {
+          "headword": "ахир",
+          "link": "а#Vj9kxFNlWXHKhBSgIJNb"
+        }
       ]
     },
     {
@@ -4220,30 +5333,24 @@
       "headword": "ахла́т",
       "tags": [
         {
-          "en": "adv",
-          "ru": "нар."
+          "en": "n",
+          "ru": "сущ."
         }
       ],
       "definitions": [
         {
           "translation": {
-            "en": "visit to an outsider",
-            "ru": "визит к постороннему"
-          },
-          "aliases": {
-            "en": [
-              "kunak"
-            ],
-            "ru": [
-              "кунак"
-            ]
+            "en": "visit to a non-relative",
+            "ru": "визит к постороннему человеку"
           }
         }
       ],
-      "etymology": {
-        "en": "From *ахал* \"guest\".",
-        "ru": "От *ахал* \"гость\"."
-      }
+      "derived_from": [
+        {
+          "headword": "ахал",
+          "link": "а#rqPjebfc26lgwdygJk8u"
+        }
+      ]
     },
     {
       "id": "7AYqO9xmuxZTfb04YChg",
@@ -4255,8 +5362,8 @@
         }
       ],
       "forms": [
-        "~ агара",
-        "~ агур"
+        "~ агур",
+        "~ агара"
       ],
       "definitions": [
         {
@@ -4266,14 +5373,25 @@
           },
           "aliases": {
             "en": [
-              "friend",
-              "relation"
+              "to befriend"
             ],
             "ru": [
-              "дружить",
-              "связь"
+              "подружиться"
             ]
           }
+        }
+      ],
+      "variants": [
+        "ахал бирццара"
+      ],
+      "derived_from": [
+        {
+          "headword": "ахал",
+          "link": "а#rqPjebfc26lgwdygJk8u"
+        },
+        {
+          "headword": "аргара",
+          "link": "а#zXPlPKSRavp4tcQlpaUv"
         }
       ]
     },
@@ -4294,9 +5412,23 @@
           "translation": {
             "en": "idiot",
             "ru": "идиот"
+          },
+          "aliases": {
+            "en": [
+              "fool",
+              "moron"
+            ],
+            "ru": [
+              "дурак",
+              "болван"
+            ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Arabic أَحْمَق (*ʔaḥmaq*) \"stupid\".",
+        "ru": "От арабского أَحْمَق (*ʔaḥmaq*) \"глупый\"."
+      }
     },
     {
       "id": "88utyDMWy8RkoD3hNQON",
@@ -4318,14 +5450,20 @@
           },
           "aliases": {
             "en": [
-              "watch"
+              "guard",
+              "watchman"
             ],
             "ru": [
-              "дозор"
+              "охранник",
+              "сторож"
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Russian *охрана* \"security\".",
+        "ru": "От русского *охрана*."
+      }
     },
     {
       "id": "Yw8PBsYHNRLZi7nNMWii",
@@ -4344,10 +5482,10 @@
           },
           "aliases": {
             "en": [
-              "month"
+              "festival"
             ],
             "ru": [
-              "месяц"
+              "праздник"
             ]
           }
         }
@@ -4355,7 +5493,17 @@
       "etymology": {
         "en": "May be related to *аҡ* \"vineyard\" < \"garden\" and *ирцьара* \"to weed\".",
         "ru": "Может быть связано с *аҡ* \"виноградник\" < \"сад\" и *ирцьара* \"полоть\"."
-      }
+      },
+      "see_also": [
+        {
+          "headword": "аҡ",
+          "link": "а#Dwbn2SIZy3leW9m5osy8"
+        },
+        {
+          "headword": "ирцьара",
+          "link": "и#qX1ouMKJtgvTr545gPtW"
+        }
+      ]
     },
     {
       "id": "Dpd45wVIf5ZR5ijHQPSs",
@@ -4371,8 +5519,8 @@
         }
       ],
       "forms": [
-        "~ бикара",
-        "~ бичив"
+        "~ бичив",
+        "~ бикара"
       ],
       "definitions": [
         {
@@ -4382,12 +5530,29 @@
           },
           "aliases": {
             "en": [
-              "sleep"
+              "to doze",
+              "to snooze"
             ],
             "ru": [
-              "спать"
+              "вздремнуть"
             ]
           }
+        }
+      ],
+      "etymology": {
+        "en": "*ахрей* does not occur independently.",
+        "ru": "*ахрей* не встречается самостоятельно."
+      },
+      "derived_from": [
+        {
+          "headword": "биркара",
+          "link": "б#NR0l93DeHQdhhSHD1W5u"
+        }
+      ],
+      "see_also": [
+        {
+          "headword": "анкь кабиргара",
+          "link": "а#dEfPtGMSBObTKPjWLp2A"
         }
       ]
     },
@@ -4408,11 +5573,9 @@
           },
           "aliases": {
             "en": [
-              "dye",
               "blue"
             ],
             "ru": [
-              "пигмент",
               "синий"
             ]
           }
@@ -4448,19 +5611,23 @@
           ],
           "aliases": {
             "en": [
-              "test",
-              "verify"
+              "inspection",
+              "examination"
             ],
             "ru": [
-              "тест",
-              "удостоверение"
+              "проверка",
+              "осмотр"
             ]
           }
         }
       ],
       "variants": [
         "ахтарди"
-      ]
+      ],
+      "etymology": {
+        "en": "From Kumyk *ахтармакъ* \"to search\".",
+        "ru": "От кумыкского *ахтармакъ* \"искать\"."
+      }
     },
     {
       "id": "tkZ5jGKiyUr5CcPe4M1s",
@@ -4471,20 +5638,21 @@
           "ru": "сущ."
         }
       ],
-      "forms": [
-        "ахтирекке"
-      ],
       "definitions": [
         {
           "translation": {
             "en": "poplar",
             "ru": "тополь"
+          },
+          "note": {
+            "en": "Also *шан ахтирекк*, *цьяв ахтирекк* for specific poplar species.",
+            "ru": "Также *шан ахтирекк*, *цьяв ахтирекк* для конкретных видов тополя."
           }
         }
       ],
-      "note": {
-        "en": "Also used in compounds *шан ахтирекк*, *цьяв ахтirекк* for specific poplar species.",
-        "ru": "Также используется в сложениях *шан ахтирекк*, *цьяв ахтirекк* для конкретных видов тополя."
+      "etymology": {
+        "en": "From Kumyk *акътерек* \"aspen\".",
+        "ru": "От кумыкского *акътерек* \"осина\"."
       }
     },
     {
@@ -4505,13 +5673,23 @@
           "translation": {
             "en": "sputum",
             "ru": "мокрота"
+          },
+          "aliases": {
+            "en": [
+              "phlegm"
+            ],
+            "ru": [
+              "слизь"
+            ]
           }
         }
       ],
-      "etymology": {
-        "en": "Related to *ту* \"spit\".",
-        "ru": "Связано с *ту* \"плевок\"."
-      }
+      "derived_from": [
+        {
+          "headword": "ту",
+          "link": "т#uwPR2LbZGBJsDpLs6R83"
+        }
+      ]
     },
     {
       "id": "fIMcXHNIfdA6D00TfOZO",
@@ -4535,6 +5713,16 @@
       ],
       "variants": [
         "аҳлиҡья"
+      ],
+      "see_also": [
+        {
+          "headword": "ьиҳора",
+          "link": "ь#S2jC21RgQQUwJe7zQSDN"
+        },
+        {
+          "headword": "бежлиъя",
+          "link": "б#kheTlYlXOUf8H49Me20a"
+        }
       ]
     },
     {
@@ -4552,9 +5740,23 @@
       "definitions": [
         {
           "translation": {
-            "en": "respected elder men",
+            "en": "respected elder man",
             "ru": "уважаемый пожилой"
+          },
+          "aliases": {
+            "en": [
+              "elder"
+            ],
+            "ru": [
+              "старший"
+            ]
           }
+        }
+      ],
+      "see_also": [
+        {
+          "headword": "уцци",
+          "link": "у#DeV4yxqA0F742Ty32aj9"
         }
       ]
     },
@@ -4578,25 +5780,19 @@
               "text": "Уцца ач дара!",
               "translation": {
                 "en": "Open the door!",
-                "ru": "Открой двери!"
+                "ru": "Открой дверь!"
               }
             }
-          ],
-          "aliases": {
-            "en": [
-              "unblock",
-              "access"
-            ],
-            "ru": [
-              "разблокировать",
-              "доступ"
-            ]
-          }
+          ]
         }
       ],
       "variants": [
         "яч"
-      ]
+      ],
+      "etymology": {
+        "en": "From Kumyk *ачмакъ* \"to open\".",
+        "ru": "От кумыкского *ачмакъ* \"открывать\"."
+      }
     },
     {
       "id": "roUfdjJ9nxKAPF6YeocI",
@@ -4615,9 +5811,21 @@
           "translation": {
             "en": "report",
             "ru": "отчёт"
+          },
+          "aliases": {
+            "en": [
+              "account"
+            ],
+            "ru": [
+              "доклад"
+            ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Russian *отчёт* \"report\".",
+        "ru": "От русского *отчёт*."
+      }
     },
     {
       "id": "g12626la6s8rVPdTRvGL",
@@ -4636,13 +5844,21 @@
           "translation": {
             "en": "wheat",
             "ru": "пшеница"
+          },
+          "aliases": {
+            "en": [
+              "grain"
+            ],
+            "ru": [
+              "зерно"
+            ]
           }
         }
       ]
     },
     {
       "id": "TiXjA7SiqPrv1QmzZr6n",
-      "headword": "а́чье ҡьар",
+      "headword": "а́чьиҡьа́р",
       "tags": [
         {
           "en": "n",
@@ -4657,10 +5873,16 @@
           }
         }
       ],
-      "etymology": {
-        "en": "Lit. \"wheat-grass\".",
-        "ru": "Букв. \"пшеница-трава\"."
-      }
+      "derived_from": [
+        {
+          "headword": "ачье",
+          "link": "а#g12626la6s8rVPdTRvGL"
+        },
+        {
+          "headword": "ҡьар",
+          "link": "ҡь#GnfVUMt21HMvWicUXB8y"
+        }
+      ]
     },
     {
       "id": "X4hU9K5cKccjMyZuPqXe",
@@ -4676,6 +5898,14 @@
           "translation": {
             "en": "caraway",
             "ru": "тмин"
+          },
+          "aliases": {
+            "en": [
+              "cumin"
+            ],
+            "ru": [
+              "кмин"
+            ]
           }
         }
       ]
@@ -4704,7 +5934,11 @@
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Persian آشكار (*âškâr*) \"obvious\".",
+        "ru": "От персидского آشكار (*âškâr*) \"очевидный\"."
+      }
     },
     {
       "id": "PpdXMtgvPJFibv9Tqmr4",
@@ -4720,13 +5954,13 @@
         }
       ],
       "forms": [
-        "~ барара",
-        "~ барив"
+        "~ барив",
+        "~ барара"
       ],
       "definitions": [
         {
           "translation": {
-            "en": "to elicit",
+            "en": "to reveal",
             "ru": "выявлять"
           },
           "aliases": {
@@ -4739,6 +5973,16 @@
               "находить"
             ]
           }
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "ашккар",
+          "link": "а#KZtGk5GwlG56X6BrGiTk"
+        },
+        {
+          "headword": "бирара",
+          "link": "б#fxLaR1iOs14XkNvNbCFH"
         }
       ]
     },
@@ -4787,7 +6031,11 @@
             "ru": "утвердительная частица"
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Persian آشنا (*âšnâ*) \"acquainted\".",
+        "ru": "От персидского آشنا (*âšnâ*) \"знакомый\"."
+      }
     },
     {
       "id": "CVZw1hlTCv4qKVZeSnG5",
@@ -4816,6 +6064,12 @@
             ]
           }
         }
+      ],
+      "derived_from": [
+        {
+          "headword": "ашна",
+          "link": "а#wScUCpx7lznlv7aJfxA7"
+        }
       ]
     },
     {
@@ -4835,9 +6089,21 @@
           "translation": {
             "en": "golden coin",
             "ru": "золотая монета"
+          },
+          "aliases": {
+            "en": [
+              "money"
+            ],
+            "ru": [
+              "деньги"
+            ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Arabic أَشْرَفِيّ (*ʔašrafiyy*) \"ashrafi\" (historical gold coin).",
+        "ru": "От арабского أَشْرَفِيّ (*ʔašrafiyy*) \"ашрафи\" (историческая золотая монета)."
+      }
     },
     {
       "id": "tARlIuGaId2O3Ia2hog7",
@@ -4863,7 +6129,11 @@
             ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Russian *страховой* \"insurance\" (relational adjective).",
+        "ru": "От русского *страховой*."
+      }
     },
     {
       "id": "geAOmnWc3xxCNYkHBOjj",
@@ -4887,7 +6157,7 @@
       ],
       "variants": [
         "яъ",
-        "аагула",
+        "аъгула",
         "кьавгула"
       ]
     },
@@ -4901,8 +6171,8 @@
         }
       ],
       "forms": [
-        "~ кабяҡара",
-        "~ кабяҡив"
+        "~ кабяҡив",
+        "~ кабяҡара"
       ],
       "definitions": [
         {
@@ -4922,6 +6192,16 @@
               "видеть"
             ]
           }
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "аъ",
+          "link": "а#geAOmnWc3xxCNYkHBOjj"
+        },
+        {
+          "headword": "кабурҡара",
+          "link": "к#FMBiEASv405UUytzcMdd"
         }
       ]
     },
@@ -4967,14 +6247,14 @@
         {
           "translation": {
             "en": "oh",
-            "ru": "ох"
+            "ru": "ах"
           },
           "examples": [
             {
               "text": "Аь, ьеж марка!",
               "translation": {
                 "en": "Oh, this rain!",
-                "ru": "Ох, этот дождь!"
+                "ru": "Ах, этот дождь!"
               }
             }
           ]
@@ -4983,7 +6263,7 @@
     },
     {
       "id": "0IRCUWHJd6zAjHSN7rjX",
-      "headword": "а́ь-ьаьа́й",
+      "headword": "аь-ьаьа́й",
       "tags": [
         {
           "en": "intj",
@@ -4993,26 +6273,34 @@
       "definitions": [
         {
           "translation": {
-            "en": "damn it!",
-            "ru": "блин!"
+            "en": "dammit",
+            "ru": "ничего себе"
           },
           "examples": [
             {
-              "text": "Аь-ьаьай, ижин би пинцьа!",
+              "text": "Аь-ьаьай, ижин ди пинцьа!",
               "translation": {
-                "en": "Damn, all this trash!",
-                "ru": "Блин, сколько здесь мусора!"
+                "en": "Dammit, all this trash!",
+                "ru": "Ничего себе, сколько здесь мусора!"
               }
             }
           ],
           "aliases": {
             "en": [
-              "what the"
+              "what the hell",
+              "wtf",
+              "geez"
             ],
             "ru": [
-              "ничего себе"
+              "блин"
             ]
           }
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "аь",
+          "link": "а#Em2PM5QmK5yMzQaMTMil"
         }
       ]
     },
@@ -5037,12 +6325,22 @@
           },
           "aliases": {
             "en": [
-              "sick"
+              "to be sick"
             ],
             "ru": [
               "болеть"
             ]
           }
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "аь",
+          "link": "а#Em2PM5QmK5yMzQaMTMil"
+        },
+        {
+          "headword": "бикьора",
+          "link": "б#tzkTWWeqw935ZJj9WV3n"
         }
       ]
     },
@@ -5060,8 +6358,22 @@
           "translation": {
             "en": "yeah",
             "ru": "ага"
+          },
+          "aliases": {
+            "en": [
+              "yep",
+              "uh-huh",
+              "mhm"
+            ],
+            "ru": [
+              "да",
+              "угу"
+            ]
           }
         }
+      ],
+      "variants": [
+        "уьу"
       ]
     },
     {
@@ -5076,7 +6388,7 @@
       "definitions": [
         {
           "translation": {
-            "en": "weep",
+            "en": "weeping",
             "ru": "рыдание"
           },
           "examples": [
@@ -5090,14 +6402,13 @@
           ],
           "aliases": {
             "en": [
-              "mourn",
-              "cry",
-              "sob"
+              "crying",
+              "sobbing",
+              "lamentation"
             ],
             "ru": [
-              "оплакивать",
-              "плакать",
-              "сопеть"
+              "плач",
+              "всхлипывание"
             ]
           }
         }
@@ -5115,14 +6426,33 @@
           "ru": "сущ."
         }
       ],
+      "forms": [
+        "аьлубе"
+      ],
       "definitions": [
         {
           "translation": {
             "en": "generation",
             "ru": "поколение"
+          },
+          "aliases": {
+            "en": [
+              "people",
+              "family",
+              "kin"
+            ],
+            "ru": [
+              "люди",
+              "семья",
+              "род"
+            ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Arabic أَهْل (*ʔahl*) \"people\".",
+        "ru": "От арабского أَهْل (*ʔahl*) \"люди\"."
+      }
     }
   ],
   "б": [
@@ -10293,7 +11623,7 @@
         }
       ],
       "etymology": {
-        "en": "Aor. of *бергара* \"to depart\"."
+        "en": "pret. of *бергара* \"to depart\"."
       }
     },
     {
@@ -11689,7 +13019,7 @@
         }
       ],
       "etymology": {
-        "en": "Seems to be aor of *бирьара* \"to strike\", but the semantic connection is unclear."
+        "en": "Seems to be pret of *бирьара* \"to strike\", but the semantic connection is unclear."
       },
       "note": {
         "en": "*берьивли*"
@@ -15229,7 +16559,7 @@
         }
       ],
       "note": {
-        "en": "*бицьур* (AOR)"
+        "en": "*бицьур* (pret)"
       }
     },
     {
@@ -18834,7 +20164,7 @@
         }
       ],
       "note": {
-        "en": "*беркьур* (AOR)"
+        "en": "*беркьур* (pret)"
       }
     },
     {
@@ -19168,7 +20498,7 @@
         }
       ],
       "etymology": {
-        "en": "Aor. of *бурсара* \"to tell\"."
+        "en": "pret. of *бурсара* \"to tell\"."
       }
     },
     {
@@ -21594,7 +22924,7 @@
         }
       ],
       "etymology": {
-        "en": "Aor. of *бялчьана* \"to crush\"."
+        "en": "pret. of *бялчьана* \"to crush\"."
       },
       "note": {
         "en": "*ҡьялчьун*"
@@ -21965,7 +23295,7 @@
         }
       ],
       "etymology": {
-        "en": "Aor. of *уръара* \"to cool down\"."
+        "en": "pret. of *уръара* \"to cool down\"."
       }
     },
     {
@@ -23574,7 +24904,7 @@
         }
       ],
       "etymology": {
-        "en": "Question forms of aor. of *бальана* \"to wake\", *бусана* \"to sleep\". The first verb doesn't seem to exist."
+        "en": "Question forms of pret. of *бальана* \"to wake\", *бусана* \"to sleep\". The first verb doesn't seem to exist."
       },
       "note": {
         "en": "*вальат*"
@@ -37400,6 +38730,39 @@
       }
     },
     {
+      "id": "893fb4e4-8f7c-4edd-adc4-c1456d76e73b",
+      "headword": "ерғ",
+      "tags": [
+        {
+          "en": "n",
+          "ru": "сущ."
+        }
+      ],
+      "definitions": [
+        {
+          "translation": {
+            "en": "weather",
+            "ru": "погода"
+          },
+          "examples": [
+            {
+              "text": "Ерғ вяьи биьяв.",
+              "translation": {
+                "en": "The weather turned bad.",
+                "ru": "Погода испортилась."
+              }
+            }
+          ]
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "арғ",
+          "link": "а#NC2eqONayhyx8FaoeMeu"
+        }
+      ]
+    },
+    {
       "id": "D6PeYSG0eiO28LtIKqPD",
       "headword": "ерғу́ть",
       "tags": [
@@ -43827,7 +45190,7 @@
         }
       ],
       "note": {
-        "en": "*биъара*, *баара*, *бера*, *бе* (IMP), *баа*, *бив* (AOR)"
+        "en": "*биъара*, *баара*, *бера*, *бе* (IMP), *баа*, *бив* (pret)"
       }
     },
     {
@@ -48723,7 +50086,7 @@
         }
       ],
       "etymology": {
-        "en": "From aor. of *кулгана* \"to remain\"."
+        "en": "From pret. of *кулгана* \"to remain\"."
       }
     },
     {
@@ -71590,7 +72953,16 @@
           "translation": {
             "en": "ear",
             "ru": "ухо"
-          }
+          },
+          "examples": [
+            {
+              "text": "лякко",
+              "translation": {
+                "en": "ear-less (nickname)",
+                "ru": "безухий (кличка)"
+              }
+            }
+          ]
         }
       ]
     },
@@ -77280,6 +78652,34 @@
       ]
     },
     {
+      "id": "b7e34a6f-19a5-41cd-98bf-42fc73b42108",
+      "headword": "мь",
+      "tags": [
+        {
+          "en": "intj",
+          "ru": "межд."
+        }
+      ],
+      "definitions": [
+        {
+          "translation": {
+            "en": "mhm",
+            "ru": "мм"
+          },
+          "aliases": {
+            "en": [
+              true,
+              "yeah"
+            ],
+            "ru": [
+              "да",
+              "ага"
+            ]
+          }
+        }
+      ]
+    },
+    {
       "id": "bmf4s6O9boqA16uMGxUH",
       "headword": "мяв",
       "tags": [
@@ -80417,7 +81817,7 @@
         }
       ],
       "note": {
-        "en": "*нуса* (nom), *нисавиж* (dat)"
+        "en": "*нуса* (abs), *нисавиж* (dat)"
       }
     },
     {
@@ -80602,7 +82002,7 @@
         }
       ],
       "note": {
-        "en": "*ниҳа* (nom)"
+        "en": "*ниҳа* (abs)"
       }
     },
     {
@@ -100471,9 +101871,10 @@
           }
         }
       ],
-      "note": {
-        "en": "*аба*"
-      }
+      "variants": [
+        "аба",
+        "ваба"
+      ]
     },
     {
       "id": "VJ2yftYKExCYPK48Xgh3",
@@ -102325,7 +103726,7 @@
         }
       ],
       "note": {
-        "en": "*ерзур* (AOR)"
+        "en": "*ерзур* (pret)"
       }
     },
     {
@@ -110409,7 +111810,7 @@
         }
       ],
       "note": {
-        "en": "*цеви* (nom m), *цинни* (erg)"
+        "en": "*цеви* (abs m), *цинни* (erg)"
       }
     },
     {
@@ -111784,12 +113185,23 @@
           "translation": {
             "en": "sky",
             "ru": "небо"
+          },
+          "aliases": {
+            "en": [
+              "heaven",
+              "firmament"
+            ],
+            "ru": [
+              "небеса",
+              "небосвод"
+            ]
           }
         }
       ],
-      "note": {
-        "en": "*ццай*, *ццилбе*"
-      }
+      "variants": [
+        "ццай",
+        "ццилбе"
+      ]
     },
     {
       "id": "jbkT2cTyE1ymnErA74O0",
@@ -111807,12 +113219,17 @@
       "definitions": [
         {
           "translation": {
-            "en": "thorn",
+            "en": "splinter",
             "ru": "заноза"
           },
           "aliases": {
             "en": [
-              "bard"
+              "sliver",
+              "thorn"
+            ],
+            "ru": [
+              "щепка",
+              "колючка"
             ]
           }
         }
@@ -111854,11 +113271,23 @@
       "definitions": [
         {
           "translation": {
-            "en": "chainlet",
+            "en": "chain",
             "ru": "цепочка"
+          },
+          "aliases": {
+            "en": [
+              "necklace"
+            ],
+            "ru": [
+              "цепь"
+            ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Russian *цепь* \"chain\".",
+        "ru": "От русского *цепь*."
+      }
     },
     {
       "id": "XYxO3OFJ3G8k0J3P50yc",
@@ -111881,27 +113310,36 @@
           },
           "aliases": {
             "en": [
-              "unverse",
+              "universe",
               "sky",
               "heaven"
+            ],
+            "ru": [
+              "вселенная",
+              "небо",
+              "мироздание"
             ]
           }
         },
         {
           "translation": {
-            "en": "comb (bird)",
+            "en": "comb (of birds)",
             "ru": "гребень (птиц)"
           },
           "aliases": {
             "en": [
+              "crest",
               "cockscomb"
+            ],
+            "ru": [
+              "гребешок"
             ]
           }
         }
       ],
-      "note": {
-        "en": "*ццарццар*"
-      }
+      "variants": [
+        "ццарццар"
+      ]
     },
     {
       "id": "1JXJlHTjyA0gCBCdWkvp",
@@ -111919,11 +113357,23 @@
       "definitions": [
         {
           "translation": {
-            "en": "gypsy",
+            "en": "Romani",
             "ru": "цыган"
+          },
+          "aliases": {
+            "en": [
+              "gypsy"
+            ],
+            "ru": [
+              "ром"
+            ]
           }
         }
-      ]
+      ],
+      "etymology": {
+        "en": "From Russian *цыган* \"Romani\".",
+        "ru": "От русского *цыган*."
+      }
     },
     {
       "id": "RCVG1DVC5NqRXct5g7KR",
@@ -111947,7 +113397,14 @@
           "aliases": {
             "en": [
               "ban",
-              "norm"
+              "norm",
+              "regulation",
+              "law"
+            ],
+            "ru": [
+              "норма",
+              "закон",
+              "запрет"
             ]
           }
         }
@@ -111965,20 +113422,14 @@
       "definitions": [
         {
           "translation": {
-            "en": "ash-tree",
+            "en": "ash tree",
             "ru": "ясень"
-          },
-          "aliases": {
-            "en": [
-              "populus",
-              "tremula"
-            ]
           }
         }
       ],
-      "note": {
-        "en": "*пялҡу*"
-      }
+      "variants": [
+        "пялҡу"
+      ]
     },
     {
       "id": "AXV9PorLlbPZJkIxAxtR",
@@ -111996,13 +113447,16 @@
       "definitions": [
         {
           "translation": {
-            "en": "clew",
+            "en": "ball",
             "ru": "клубок"
           },
           "aliases": {
             "en": [
-              "tangle",
-              "thread"
+              "clew",
+              "skein"
+            ],
+            "ru": [
+              "моток"
             ]
           }
         }
@@ -112025,6 +113479,14 @@
           "translation": {
             "en": "mortar",
             "ru": "ступка"
+          },
+          "aliases": {
+            "en": [
+              "pestle"
+            ],
+            "ru": [
+              "ступа"
+            ]
           }
         }
       ]
@@ -112043,12 +113505,21 @@
           "translation": {
             "en": "barefoot",
             "ru": "босой"
+          },
+          "aliases": {
+            "en": [
+              "unshod"
+            ],
+            "ru": [
+              "босиком",
+              "разутый"
+            ]
           }
         }
       ],
-      "note": {
-        "en": "*ливцьа*"
-      }
+      "variants": [
+        "ливцьа"
+      ]
     },
     {
       "id": "m1LvspXJ7qWUHJbUPKjI",
@@ -112063,7 +113534,16 @@
         {
           "translation": {
             "en": "pee",
-            "ru": "писать (дет.)"
+            "ru": "пи-пи"
+          },
+          "aliases": {
+            "en": [
+              "wee",
+              "piss"
+            ],
+            "ru": [
+              "писать"
+            ]
           }
         }
       ]
@@ -112084,8 +113564,19 @@
       "definitions": [
         {
           "translation": {
-            "en": "main pillar",
-            "ru": "матица, несущий столб"
+            "en": "main beam",
+            "ru": "матица"
+          },
+          "aliases": {
+            "en": [
+              "pillar",
+              "post",
+              "column"
+            ],
+            "ru": [
+              "несущий столб",
+              "опора"
+            ]
           }
         }
       ]
@@ -112108,7 +113599,13 @@
           "aliases": {
             "en": [
               "poor",
-              "pitiful"
+              "pitiful",
+              "miserable"
+            ],
+            "ru": [
+              "бедный",
+              "жалкий",
+              "убогий"
             ]
           }
         }
@@ -112131,8 +113628,14 @@
           },
           "aliases": {
             "en": [
-              "big",
-              "large"
+              "magnificent",
+              "imposing",
+              "majestic"
+            ],
+            "ru": [
+              "величественный",
+              "внушительный",
+              "помпезный"
             ]
           }
         }
@@ -112152,21 +113655,33 @@
         }
       ],
       "forms": [
-        "~ ьабигара",
-        "~ ьабижив"
+        "~ ьабижив",
+        "~ ьабигара"
       ],
       "definitions": [
         {
           "translation": {
             "en": "to shrivel",
-            "ru": "съеживаться"
+            "ru": "съёживаться"
           },
           "aliases": {
             "en": [
+              "shrink",
               "cringe",
-              "shrink"
+              "huddle"
+            ],
+            "ru": [
+              "сжиматься",
+              "корчиться",
+              "скукоживаться"
             ]
           }
+        }
+      ],
+      "derived_from": [
+        {
+          "headword": "биргара",
+          "link": "б#A64K1sVxaFYXHLlJCCFd"
         }
       ]
     },
@@ -112191,7 +113706,14 @@
           "aliases": {
             "en": [
               "work",
-              "case"
+              "case",
+              "affair",
+              "business"
+            ],
+            "ru": [
+              "работа",
+              "занятие",
+              "вопрос"
             ]
           }
         }
@@ -112215,13 +113737,16 @@
           "aliases": {
             "en": [
               "fir"
+            ],
+            "ru": [
+              "ёлка"
             ]
           }
         }
       ],
-      "note": {
-        "en": "*ццирхӏ*"
-      }
+      "variants": [
+        "ццирхӏ"
+      ]
     }
   ],
   "ць": [
@@ -117791,7 +119316,7 @@
         }
       ],
       "etymology": {
-        "en": "Aor. of *чибурхара* \"to reach\"."
+        "en": "pret. of *чибурхара* \"to reach\"."
       },
       "note": {
         "en": "*чибеғив*"
@@ -134755,7 +136280,7 @@
         }
       ],
       "note": {
-        "en": "*ьабиччур* (aor), *черьиччара*"
+        "en": "*ьабиччур* (pret), *черьиччара*"
       }
     },
     {
@@ -134938,6 +136463,32 @@
       ]
     },
     {
+      "id": "c2556ef0-c81b-484a-bd9f-7fa771c68c65",
+      "headword": "ьм",
+      "tags": [
+        {
+          "en": "intj",
+          "ru": "межд."
+        }
+      ],
+      "definitions": [
+        {
+          "translation": {
+            "en": "hmm",
+            "ru": "хм"
+          },
+          "examples": [
+            {
+              "text": "ьу, белки",
+              "translation": {
+                "en": "hmm, maybe"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "HbOjozEVIomt4Lf7WlZ2",
       "headword": "ьой",
       "tags": [
@@ -135001,7 +136552,7 @@
         {
           "translation": {
             "en": "wow",
-            "ru": "ах, ничего себе"
+            "ru": "ух, ничего себе"
           },
           "examples": [
             {
@@ -139863,7 +141414,7 @@
         }
       ],
       "etymology": {
-        "en": "Aor. of *увчьана* \"to peel\"."
+        "en": "pret. of *увчьана* \"to peel\"."
       }
     },
     {
