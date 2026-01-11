@@ -2,7 +2,13 @@ id: qh4ZyVae59vYiRuoBmxH
 headword: аьа
 ipa: aˈha
 tags: [intj]
+variants:
+  - text: уьу
+
 definitions:
   - translation:
       en: yeah
       ru: ага
+    aliases:
+      en: [yep, uh-huh, mhm]
+      ru: [да, угу]

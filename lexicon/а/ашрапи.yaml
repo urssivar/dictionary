@@ -1,13 +1,21 @@
 id: zwauTH414vjERgfwwo0g
 headword: ашрапи
 ipa: aʃraˈpi
-tags: [n, loan]
+tags: [n, loan, arabic]
 forms:
   - text: ашрапи
     gloss: abs
   - text: ашрапне
     gloss: pl
+
 definitions:
   - translation:
       en: golden coin
       ru: золотая монета
+    aliases:
+      en: [money]
+      ru: [деньги]
+
+etymology:
+  en: From Arabic أَشْرَفِيّ (*ʔašrafiyy*) "ashrafi" (historical gold coin).
+  ru: От арабского أَشْرَفِيّ (*ʔašrafiyy*) "ашрафи" (историческая золотая монета).

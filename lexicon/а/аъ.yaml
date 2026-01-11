@@ -2,15 +2,17 @@ id: geAOmnWc3xxCNYkHBOjj
 headword: аъ
 ipa: aʔ
 tags: [n]
-variants:
-  - text: яъ
-  - text: аагула
-  - text: кьавгула
 forms:
   - text: аъ
     gloss: abs
   - text: аъбе
     gloss: pl
+variants:
+  - text: яъ
+  - text: аъгула
+  - text: кьавгула
+    lect: snch
+
 definitions:
   - translation:
       en: palate

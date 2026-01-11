@@ -1,7 +1,8 @@
 id: KZtGk5GwlG56X6BrGiTk
 headword: ашккар
 ipa: aʃˈkːar
-tags: [adj, loan]
+tags: [adj, loan, iranian]
+
 definitions:
   - translation:
       en: explicit
@@ -9,3 +10,7 @@ definitions:
     aliases:
       en: [clear]
       ru: [ясный]
+
+etymology:
+  en: From Persian آشكار (*âškâr*) "obvious".
+  ru: От персидского آشكار (*âškâr*) "очевидный".

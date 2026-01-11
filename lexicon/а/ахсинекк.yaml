@@ -1,14 +1,15 @@
 id: cjFNBqKLiyFPXoYTsm4H
 headword: ахсинекк
 ipa: aχsiˈnekː
-tags: [n]
+tags: [n, loan]
 variants:
   - text: синкка
+
 definitions:
   - translation:
       en: indigo
       ru: индиго
     tags: [color]
     aliases:
-      en: [dye, blue]
-      ru: [пигмент, синий]
+      en: [blue]
+      ru: [синий]

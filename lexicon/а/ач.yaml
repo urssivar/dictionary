@@ -4,15 +4,18 @@ ipa: ˈatʃ
 tags: [adj, loan, turkic]
 variants:
   - text: яч
+    lect: avsh
+
 definitions:
   - translation:
       en: open
       ru: открытый
-    aliases:
-      en: [unblock, access]
-      ru: [разблокировать, доступ]
     examples:
       - text: Уцца ач дара!
         translation:
           en: Open the door!
-          ru: Открой двери!
+          ru: Открой дверь!
+
+etymology:
+  en: From Kumyk *ачмакъ* "to open".
+  ru: От кумыкского *ачмакъ* "открывать".

@@ -2,9 +2,23 @@ id: Vj9kxFNlWXHKhBSgIJNb
 headword: ахир
 ipa: aˈχir
 tags: [n, loan, arabic]
+forms:
+  - text: ахир
+    gloss: abs
+  - text: ахирте
+    gloss: pl
 variants:
   - text: яхир
+    lect: snch
+
 definitions:
   - translation:
       en: end
       ru: конец
+    aliases:
+      en: [finish, conclusion]
+      ru: [финал, окончание, завершение]
+
+etymology:
+  en: From Arabic آخِر (*ʔāḵir*) "last".
+  ru: От арабского آخِر (*ʔāḵir*) "последний".

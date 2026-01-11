@@ -2,14 +2,17 @@ id: Yw8PBsYHNRLZi7nNMWii
 headword: ахрарцьи
 ipa: aχrarˈtsʼi
 tags: [n]
-etymology:
-  en: May be related to *аҡ* "vineyard" < "garden" and *ирцьара* "to weed".
-  ru: Может быть связано с *аҡ* "виноградник" < "сад" и *ирцьара* "полоть".
+
 definitions:
   - translation:
       en: first furrow festival
       ru: праздник первой борозды
-    tags: [time]
+    tags: [culture]
     aliases:
-      en: [month]
-      ru: [месяц]
+      en: [festival]
+      ru: [праздник]
+
+etymology:
+  en: May be related to *аҡ* "vineyard" < "garden" and *ирцьара* "to weed".
+  ru: Может быть связано с *аҡ* "виноградник" < "сад" и *ирцьара* "полоть".
+see_also: [аҡ, ирцьара]

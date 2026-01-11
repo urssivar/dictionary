@@ -3,16 +3,23 @@ headword: ахрей биркара
 ipa: aχˌrej birˈkara
 tags: [v, ntr, cls]
 forms:
-  - text: ахрей бикара
-    gloss: pfv
-  - text: ахрей бичив
-    gloss: pret
   - text: ахрей биркара
     gloss: ipfv
+  - text: ахрей бичив
+    gloss: pret
+  - text: ахрей бикара
+    gloss: pfv
+
 definitions:
   - translation:
       en: to nap
       ru: дремать
     aliases:
-      en: [sleep]
-      ru: [спать]
+      en: [to doze, to snooze]
+      ru: [вздремнуть]
+
+etymology:
+  en: "*ахрей* does not occur independently."
+  ru: "*ахрей* не встречается самостоятельно."
+derived_from: [биркара]
+see_also: [анкь кабиргара]

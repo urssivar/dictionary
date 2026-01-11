@@ -2,8 +2,16 @@ id: 06bDMy080yUEmZbs9HIg
 headword: ахират
 ipa: aχiˈrat
 tags: [n, loan, arabic]
+
 definitions:
   - translation:
       en: afterlife
       ru: загробная жизнь
     tags: [religion]
+    aliases:
+      en: [hereafter]
+      ru: [загробный мир, тот свет]
+
+etymology:
+  en: From Arabic آخِرَة (*ʔāḵira*) "hereafter".
+  ru: От арабского آخِرَة (*ʔāḵira*) "загробная жизнь".

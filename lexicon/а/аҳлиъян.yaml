@@ -2,15 +2,19 @@ id: fIMcXHNIfdA6D00TfOZO
 headword: аҳлиъян
 ipa: axliˈʔæn
 tags: [n]
-variants:
-  - text: аҳлиҡья
 forms:
   - text: аҳлиъян
     gloss: abs
   - text: аҳлиъне
     gloss: pl
+variants:
+  - text: аҳлиҡья
+
 definitions:
   - translation:
       en: bird
       ru: птица
-    tags: [animal]
+    tags: [bird]
+
+derived_from: ["*аҳора"]
+see_also: [ьаҳора, бежлиъя]

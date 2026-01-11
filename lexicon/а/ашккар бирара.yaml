@@ -3,16 +3,19 @@ headword: ашккар бирара
 ipa: aʃˌkːar biˈrara
 tags: [v, cls, tr]
 forms:
-  - text: ашккар барара
-    gloss: pfv
-  - text: ашккар барив
-    gloss: pret
   - text: ашккар бирара
     gloss: ipfv
+  - text: ашккар барив
+    gloss: pret
+  - text: ашккар барара
+    gloss: pfv
+
 definitions:
   - translation:
-      en: to elicit
+      en: to reveal
       ru: выявлять
     aliases:
       en: [detect, identify]
       ru: [обнаруживать, находить]
+
+derived_from: [ашккар, бирара]

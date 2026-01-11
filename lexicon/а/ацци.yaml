@@ -7,7 +7,13 @@ forms:
     gloss: abs
   - text: аццне
     gloss: pl
+
 definitions:
   - translation:
-      en: respected elder men
+      en: respected elder man
       ru: уважаемый пожилой
+    aliases:
+      en: [elder]
+      ru: [старший]
+
+see_also: [уцци]

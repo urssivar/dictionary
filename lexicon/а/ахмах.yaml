@@ -1,15 +1,22 @@
 id: l4FBRv0ZMEMDa2XJumpc
 headword: ахмах
 ipa: aχˈmaχ
-# TODO: "slur" is not a valid tag. Use "pejorative" instead
-tags: [n, slur]
+tags: [n, loan, arabic]
 forms:
   - text: ахмах
     gloss: abs
   - text: ахмахе
     gloss: pl
+
 definitions:
   - translation:
       en: idiot
       ru: идиот
-    # TODO: Add aliases: en: [fool, moron]; ru: [дурак, болван]
+    aliases:
+      en: [fool, moron]
+      ru: [дурак, болван]
+    tags: [pejorative]
+
+etymology:
+  en: From Arabic أَحْمَق (*ʔaḥmaq*) "stupid".
+  ru: От арабского أَحْمَق (*ʔaḥmaq*) "глупый".

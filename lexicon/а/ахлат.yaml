@@ -1,14 +1,11 @@
 id: WX1DoDX2WIdEBiQRJLSE
 headword: ахлат
 ipa: aχˈlat
-tags: [adv]
-etymology:
-  en: From *ахал* "guest".
-  ru: От *ахал* "гость".
+tags: [n]
+
 definitions:
   - translation:
-      en: visit to an outsider
-      ru: визит к постороннему
-    aliases:
-      en: [kunak]
-      ru: [кунак]
+      en: visit to a non-relative
+      ru: визит к постороннему человеку
+
+derived_from: [ахал]

@@ -1,16 +1,19 @@
 id: 0IRCUWHJd6zAjHSN7rjX
 headword: аь-ьаьай
-ipa: ˈahhaˌhaj
+ipa: ˈah haˌhaj
 tags: [intj]
+
 definitions:
   - translation:
-      en: damn it!
-      ru: блин!
+      en: dammit
+      ru: ничего себе
     aliases:
-      en: [what the]
-      ru: [ничего себе]
+      en: [what the hell, wtf, geez]
+      ru: [блин]
     examples:
-      - text: Аь-ьаьай, ижин би пинцьа!
+      - text: Аь-ьаьай, ижин ди пинцьа!
         translation:
-          en: Damn, all this trash!
-          ru: Блин, сколько здесь мусора!
+          en: Dammit, all this trash!
+          ru: Ничего себе, сколько здесь мусора!
+
+derived_from: [аь]

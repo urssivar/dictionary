@@ -3,16 +3,21 @@ headword: ахле аргара
 ipa: aχˌle arˈgara
 tags: [v, ntr]
 forms:
-  - text: ахле агара
-    gloss: pfv
-  - text: ахле агур
-    gloss: pret
   - text: ахле аргара
     gloss: ipfv
+  - text: ахле агур
+    gloss: pret
+  - text: ахле агара
+    gloss: pfv
+variants:
+  - text: ахал бирццара
+
 definitions:
   - translation:
       en: to fraternize
       ru: брататься
     aliases:
-      en: [friend, relation]
-      ru: [дружить, связь]
+      en: [to befriend]
+      ru: [подружиться]
+
+derived_from: [ахле, аргара]

@@ -2,7 +2,20 @@ id: Q3syQoZ3dVKIM1XEARoR
 headword: аьлу
 ipa: ˈahlu
 tags: [n, loan, arabic]
+forms:
+  - text: аьлу
+    gloss: abs
+  - text: аьлубе
+    gloss: pl
+
 definitions:
   - translation:
       en: generation
       ru: поколение
+    aliases:
+      en: [people, family, kin]
+      ru: [люди, семья, род]
+
+etymology:
+  en: From Arabic أَهْل (*ʔahl*) "people".
+  ru: От арабского أَهْل (*ʔahl*) "люди".

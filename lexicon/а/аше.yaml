@@ -2,10 +2,12 @@ id: X4hU9K5cKccjMyZuPqXe
 headword: аше
 ipa: ˈaʃe
 tags: [n]
+
 definitions:
   - translation:
       en: caraway
       ru: тмин
-    # TODO: "nature" is too generic. Use "plant" tag instead
-    tags: [nature]
-    # TODO: Add aliases: en: [cumin]; ru: [кмин, семена тмина]
+    tags: [plant, food]
+    aliases:
+      en: [cumin]
+      ru: [кмин]

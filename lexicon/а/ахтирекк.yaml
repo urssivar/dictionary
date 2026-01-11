@@ -2,16 +2,16 @@ id: tkZ5jGKiyUr5CcPe4M1s
 headword: ахтирекк
 ipa: aχtiˈrekː
 tags: [n, loan, turkic]
-forms:
-  - text: ахтирекк
-    gloss: abs
-  - text: ахтирекке
-    gloss: pl
+
 definitions:
   - translation:
       en: poplar
       ru: тополь
-    tags: [nature, plant, tree]
-note:
-  en: Also used in compounds *шан ахтирекк*, *цьяв ахтirекк* for specific poplar species.
-  ru: Также используется в сложениях *шан ахтирекк*, *цьяв ахтirекк* для конкретных видов тополя.
+    tags: [tree]
+    note:
+      en: Also *шан ахтирекк*, *цьяв ахтирекк* for specific poplar species.
+      ru: Также *шан ахтирекк*, *цьяв ахтирекк* для конкретных видов тополя.
+
+etymology:
+  en: From Kumyk *акътерек* "aspen".
+  ru: От кумыкского *акътерек* "осина".

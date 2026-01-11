@@ -4,18 +4,15 @@ ipa: ˈahi
 tags: [n]
 variants:
   - text: биса-ҡвяса
+
 definitions:
   - translation:
-      # TODO: "weep" is a verb, but headword is tagged as noun. Change to "weeping" or "weep (n.)"
-      en: weep
+      en: weeping
       ru: рыдание
-    # TODO: "emotion" is not a valid semantic tag. Use "feeling" instead
-    tags: [emotion]
+    tags: [feeling]
     aliases:
-      # TODO: "mourn", "cry", "sob" are verbs, not nouns. Consider: [weeping, crying, sobbing, lamentation]
-      en: [mourn, cry, sob]
-      # TODO: "оплакивать", "плакать" are verbs, not nouns; "сопеть" means "to sniffle/breathe heavily", not "weep". Consider: [плач, рыдания, всхлипывание]
-      ru: [оплакивать, плакать, сопеть]
+      en: [crying, sobbing, lamentation]
+      ru: [плач, всхлипывание]
     examples:
       - text: Аьи рикьул ри.
         translation:

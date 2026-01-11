@@ -24,6 +24,6 @@ definitions:
           ru: Люди разошлись после свадьбы.
 
 etymology:
-  en: "*акка* does not occur independently; meaning and origin unclear."
-  ru: "*акка* не встречается самостоятельно; значение и происхождение неясны."
-derived_from: ["*акка", иҡара]
+  en: "*акка* does not occur independently."
+  ru: "*акка* не встречается самостоятельно."
+derived_from: [иҡара]

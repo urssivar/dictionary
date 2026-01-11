@@ -1,14 +1,15 @@
 id: QeEYP8nU8goPrhuC8RI2
 headword: аъ кабурҡара
 ipa: ˌaʔ kaburˈqara
-tags: [v]
+tags: [v, ntr]
 forms:
-  - text: аъ кабяҡара
-    gloss: pfv
-  - text: аъ кабяҡив
-    gloss: pret
   - text: аъ кабурҡара
     gloss: ipfv
+  - text: аъ кабяҡив
+    gloss: pret
+  - text: аъ кабяҡара
+    gloss: pfv
+
 definitions:
   - translation:
       en: to gawp
@@ -16,3 +17,5 @@ definitions:
     aliases:
       en: [stare, watch, see]
       ru: [глядеть, смотреть, видеть]
+
+derived_from: [аъ, кабурҡара]

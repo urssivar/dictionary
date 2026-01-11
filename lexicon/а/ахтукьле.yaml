@@ -2,11 +2,14 @@ id: iz55Mbanvfeq9TzFlsiI
 headword: ахтукьле
 ipa: aχˈtukʼle
 tags: [n, pl]
-etymology:
-  en: Related to *ту* "spit".
-  ru: Связано с *ту* "плевок".
+
 definitions:
   - translation:
       en: sputum
       ru: мокрота
     tags: [body]
+    aliases:
+      en: [phlegm]
+      ru: [слизь]
+
+derived_from: [ту]

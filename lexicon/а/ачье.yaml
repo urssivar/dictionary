@@ -7,8 +7,12 @@ forms:
     gloss: abs
   - text: ачьне
     gloss: pl
+
 definitions:
   - translation:
       en: wheat
       ru: пшеница
-    tags: [agriculture, nature, food, plant]
+    tags: [plant, food]
+    aliases:
+      en: [grain]
+      ru: [зерно]

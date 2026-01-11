@@ -1,18 +1,23 @@
 id: D5mMdCDEmIEUJdeUK00A
 headword: ахтар
 ipa: aχˈtar
-tags: [n, loan]
+tags: [n, loan, turkic]
 variants:
   - text: ахтарди
+
 definitions:
   - translation:
       en: check
       ru: проверка
     aliases:
-      en: [test, verify]
-      ru: [тест, удостоверение]
+      en: [inspection, examination]
+      ru: [проверка, осмотр]
     examples:
       - text: Дарс ахтар барив.
         translation:
           en: Checked the lesson.
           ru: Проверил урок.
+
+etymology:
+  en: From Kumyk *ахтармакъ* "to search".
+  ru: От кумыкского *ахтармакъ* "искать".

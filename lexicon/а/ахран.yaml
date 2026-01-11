@@ -7,10 +7,16 @@ forms:
     gloss: abs
   - text: ахранте
     gloss: pl
+
 definitions:
   - translation:
       en: security guard
       ru: охранник
+    tags: [occupation]
     aliases:
-      en: [watch]
-      ru: [дозор]
+      en: [guard, watchman]
+      ru: [охранник, сторож]
+
+etymology:
+  en: From Russian *охрана* "security".
+  ru: От русского *охрана*.

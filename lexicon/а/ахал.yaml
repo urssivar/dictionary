@@ -7,11 +7,11 @@ forms:
     gloss: abs
   - text: ахле
     gloss: pl
+
 definitions:
-  # TODO: Consider adding semantic tag: culture or kinship (depending on cultural context)
   - translation:
       en: guest
       ru: гость
     aliases:
       en: [visitor]
-      ru: [посетитель]
+      ru: [посетитель, кунак]

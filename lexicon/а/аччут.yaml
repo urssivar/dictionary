@@ -7,7 +7,15 @@ forms:
     gloss: abs
   - text: аччуте
     gloss: pl
+
 definitions:
   - translation:
       en: report
       ru: отчёт
+    aliases:
+      en: [account]
+      ru: [доклад]
+
+etymology:
+  en: From Russian *отчёт* "report".
+  ru: От русского *отчёт*.

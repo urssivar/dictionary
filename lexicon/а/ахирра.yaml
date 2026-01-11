@@ -2,6 +2,7 @@ id: m7qByPfe44KvcNgW6Bhu
 headword: ахирра
 ipa: aˈχirra
 tags: [adv]
+
 definitions:
   - translation:
       en: at last
@@ -9,3 +10,5 @@ definitions:
     aliases:
       en: [eventually]
       ru: [в итоге]
+
+derived_from: [ахир]

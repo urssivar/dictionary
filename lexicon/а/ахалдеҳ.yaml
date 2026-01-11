@@ -2,10 +2,13 @@ id: GWYuI8ZyUBjbtG6mUWq2
 headword: ахалдеҳ
 ipa: aχːalˈdex
 tags: [n]
+
 definitions:
   - translation:
       en: hospitality
       ru: гостеприимство
     aliases:
       en: [welcome]
-      ru: [пожаловать]
+      ru: [приём, радушие]
+
+derived_from: [ахал]

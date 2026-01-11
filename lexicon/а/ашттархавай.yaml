@@ -2,6 +2,7 @@ id: tARlIuGaId2O3Ia2hog7
 headword: ашттархавай
 ipa: aʃtːarχaˈvaj
 tags: [n, loan, russian]
+
 definitions:
   - translation:
       en: insurance
@@ -9,3 +10,7 @@ definitions:
     aliases:
       en: [guarantee]
       ru: [гарантия]
+
+etymology:
+  en: From Russian *страховой* "insurance" (relational adjective).
+  ru: От русского *страховой*.

@@ -5,10 +5,13 @@ tags: [v, ntr, cls]
 forms:
   - text: аь бикьора
     gloss: ipfv
+
 definitions:
   - translation:
       en: to be unwell
       ru: недомогать
     aliases:
-      en: [sick]
+      en: [to be sick]
       ru: [болеть]
+
+derived_from: [аь, бикьора]

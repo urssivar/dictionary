@@ -1,8 +1,13 @@
 id: wScUCpx7lznlv7aJfxA7
 headword: ашна
 ipa: aʃˈna
-tags: [intj, loan, persian]
+tags: [intj, loan, iranian]
+
 definitions:
   - translation:
       en: affirmative particle
       ru: утвердительная частица
+
+etymology:
+  en: From Persian آشنا (*âšnâ*) "acquainted".
+  ru: От персидского آشنا (*âšnâ*) "знакомый".
