@@ -1,58 +1,49 @@
 #!/usr/bin/env python3
 """Build all dictionary export formats."""
 
-import subprocess
 import sys
-from pathlib import Path
-
-
-def run_script(script_path):
-    """Run a Python script and handle errors."""
-    script_name = script_path.name
-    print(f"Running {script_name}...")
-
-    try:
-        result = subprocess.run(
-            [sys.executable, str(script_path)],
-            check=True,
-            capture_output=True,
-            text=True
-        )
-        if result.stdout:
-            print(result.stdout)
-        print(f"✓ {script_name} completed successfully")
-        return True
-    except subprocess.CalledProcessError as e:
-        print(f"✗ {script_name} failed with error:")
-        print(e.stderr)
-        return False
+from validate import main as validate_main
+from to_json_web import main as export_web
+from to_json_archive import main as export_archive
+from to_csv import main as export_csv
 
 
 def main():
-    """Run all export scripts."""
-    scripts_dir = Path(__file__).parent
+    """Run validation, then all export scripts."""
 
-    export_scripts = [
-        scripts_dir / 'to_json_web.py',
-        scripts_dir / 'to_json_archive.py',
-        scripts_dir / 'to_csv.py',
+    # Run validation
+    print("Validating entries...")
+    try:
+        validate_main()
+    except SystemExit as e:
+        if e.code != 0:
+            print("Export aborted due to validation errors.\n")
+            sys.exit(1)
+
+    print("\nBuilding dictionary exports...\n")
+
+    # Run exporters
+    exporters = [
+        ("to_json_web.py", export_web),
+        ("to_json_archive.py", export_archive),
+        ("to_csv.py", export_csv),
     ]
 
-    print("Building dictionary exports...\n")
-
     success_count = 0
-    for script in export_scripts:
-        if not script.exists():
-            print(f"Warning: {script.name} not found, skipping...")
-            continue
-
-        if run_script(script):
+    for name, exporter_fn in exporters:
+        print(f"Running {name}...")
+        try:
+            exporter_fn()
+            print(f"✓ {name} completed successfully\n")
             success_count += 1
-        print()  # Blank line between scripts
+        except Exception as e:
+            print(f"✗ {name} failed with error:")
+            print(str(e))
+            print()
 
-    print(f"Export complete: {success_count}/{len(export_scripts)} scripts succeeded")
+    print(f"Export complete: {success_count}/{len(exporters)} scripts succeeded")
 
-    if success_count < len(export_scripts):
+    if success_count < len(exporters):
         sys.exit(1)
 
 
