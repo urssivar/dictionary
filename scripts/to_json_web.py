@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Convert Kaitag YAML lexicon to JSON for static website."""
+"""Convert Kaitag YAML lexicon to JSON for static website (optimized format)."""
 
 import json
 import yaml
@@ -14,7 +14,11 @@ from utils import (
     extract_yaml_variants,
     map_tags,
     simplify_forms,
-    create_tokenizer
+    create_tokenizer,
+    parse_output_path,
+    validate_entry,
+    print_export_stats,
+    load_lexicon_entries
 )
 
 
@@ -188,76 +192,46 @@ def convert_entry(yaml_entry, vowels, tag_map, lexicon_dir, alphabet_tokens):
 
 
 def main():
-    # Default output to export/dictionary.json if not specified
-    if len(sys.argv) < 2:
-        output_file = Path(__file__).parent.parent / 'export' / 'dictionary.json'
-    else:
-        output_file = sys.argv[1]
+    # Use new utility for output path
+    output_file = parse_output_path('dictionary-web.json')
 
     # Load data files
     alphabet, alphabet_tokens, vowels = load_alphabet()
     tag_map = load_grammar_tags()
-
-    # Create sorting function
     sorting_key = create_tokenizer(alphabet, alphabet_tokens)
 
-    # Process all letters
-    output = {}
-    total_entries = 0
-    skipped_entries = 0
+    # Load all entries using new utility
+    entries_by_letter, total_entries, skipped_entries = load_lexicon_entries(
+        alphabet,
+        validate_fn=validate_entry
+    )
 
     lexicon_dir = Path(__file__).parent.parent / 'lexicon'
 
+    # Convert and sort entries per letter
+    converted_entries = {}
     for letter in alphabet:
-        letter_dir = lexicon_dir / letter
-        if not letter_dir.exists():
-            print(f"Warning: Directory not found for letter '{letter}'")
+        if letter not in entries_by_letter:
             continue
 
-        entries = []
-
-        # Load all YAML files in letter directory
-        for yaml_file in sorted(letter_dir.glob('*.yaml')):
-            try:
-                with open(yaml_file, 'r', encoding='utf-8') as f:
-                    yaml_data = yaml.safe_load(f)
-
-                converted = convert_entry(
-                    yaml_data, vowels, tag_map, lexicon_dir, alphabet_tokens)
-                if converted:
-                    entries.append(converted)
-                    total_entries += 1
-                else:
-                    skipped_entries += 1
-                    print(
-                        f"Warning: Skipped {yaml_file.name} (missing required fields)")
-
-            except Exception as e:
-                skipped_entries += 1
-                print(f"Error processing {yaml_file.name}: {e}")
+        # Convert entries
+        converted = [
+            convert_entry(entry, vowels, tag_map, lexicon_dir, alphabet_tokens)
+            for entry in entries_by_letter[letter]
+        ]
 
         # Sort entries
-        entries.sort(key=sorting_key)
-        output[letter] = entries
+        converted.sort(key=sorting_key)
+        converted_entries[letter] = converted
 
-    # Write output JSON
+    # Write output
     output_path = Path(output_file)
     output_path.parent.mkdir(parents=True, exist_ok=True)
-
     with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
+        json.dump(converted_entries, f, ensure_ascii=False, indent=2)
 
-    # Report statistics
-    print(f"\nConversion complete!")
-    print(f"Total entries: {total_entries}")
-    print(f"Skipped entries: {skipped_entries}")
-    print(f"Output written to: {output_path}")
-
-    # Entries per letter
-    print(f"\nEntries per letter:")
-    for letter in alphabet:
-        if letter in output:
-            print(f"  {letter}: {len(output[letter])}")
+    # Print stats using new utility
+    print_export_stats(total_entries, skipped_entries, output_path, converted_entries)
 
 
 if __name__ == '__main__':

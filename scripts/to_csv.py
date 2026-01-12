@@ -8,12 +8,15 @@ from pathlib import Path
 from utils import (
     load_alphabet,
     load_grammar_tags,
-    get_first_letter,
     mark_stress,
     extract_yaml_variants,
     map_tags,
     simplify_forms,
-    create_tokenizer
+    create_tokenizer,
+    parse_output_path,
+    validate_entry,
+    print_export_stats,
+    load_lexicon_entries
 )
 
 
@@ -93,61 +96,40 @@ def convert_entry_to_csv(yaml_entry, vowels, tag_map, alphabet_tokens):
 
 
 def main():
-    # Default output to export/dictionary.csv if not specified
-    if len(sys.argv) < 2:
-        output_file = Path(__file__).parent.parent / 'export' / 'dictionary.csv'
-    else:
-        output_file = sys.argv[1]
+    # Use new utility for output path
+    output_file = parse_output_path('dictionary.csv')
 
     # Load data files
     alphabet, alphabet_tokens, vowels = load_alphabet()
     tag_map = load_grammar_tags()
-
-    # Create sorting function
     sorting_key = create_tokenizer(alphabet, alphabet_tokens)
+
+    # Load all entries using new utility
+    entries_by_letter, total_entries, skipped_entries = load_lexicon_entries(
+        alphabet,
+        validate_fn=validate_entry
+    )
 
     # Process all letters
     all_entries = []
-    total_entries = 0
-    skipped_entries = 0
-
-    lexicon_dir = Path(__file__).parent.parent / 'lexicon'
-
     for letter in alphabet:
-        letter_dir = lexicon_dir / letter
-        if not letter_dir.exists():
-            print(f"Warning: Directory not found for letter '{letter}'")
+        if letter not in entries_by_letter:
             continue
 
-        entries = []
+        # Convert entries
+        entries = [
+            convert_entry_to_csv(entry, vowels, tag_map, alphabet_tokens)
+            for entry in entries_by_letter[letter]
+        ]
 
-        # Load all YAML files in letter directory
-        for yaml_file in sorted(letter_dir.glob('*.yaml')):
-            try:
-                with open(yaml_file, 'r', encoding='utf-8') as f:
-                    yaml_data = yaml.safe_load(f)
-
-                # Validate required fields
-                if 'id' not in yaml_data or 'headword' not in yaml_data or 'definitions' not in yaml_data:
-                    skipped_entries += 1
-                    print(
-                        f"Warning: Skipped {yaml_file.name} (missing required fields)")
-                    continue
-
-                converted = convert_entry_to_csv(
-                    yaml_data, vowels, tag_map, alphabet_tokens)
-                entries.append(converted)
-                total_entries += 1
-
-            except Exception as e:
-                skipped_entries += 1
-                print(f"Error processing {yaml_file.name}: {e}")
-
-        # Sort entries for this letter
+        # Sort entries
         entries.sort(key=lambda e: sorting_key({'headword': e['headword'].split('\n')[0]}))
 
         # Add letter separator row
-        all_entries.append({'letter': letter, 'tags': '', 'headword': '', 'eng': '', 'rus': '', 'forms': '', 'variants': ''})
+        all_entries.append({
+            'letter': letter, 'tags': '', 'headword': '',
+            'eng': '', 'rus': '', 'forms': '', 'variants': ''
+        })
 
         # Add all entries for this letter
         all_entries.extend(entries)
@@ -157,17 +139,13 @@ def main():
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     fieldnames = ['letter', 'tags', 'headword', 'eng', 'rus', 'forms', 'variants']
-
     with open(output_path, 'w', newline='', encoding='utf-8-sig') as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(all_entries)
 
-    # Report statistics
-    print(f"\nConversion complete!")
-    print(f"Total entries: {total_entries}")
-    print(f"Skipped entries: {skipped_entries}")
-    print(f"Output written to: {output_path}")
+    # Print stats using new utility
+    print_export_stats(total_entries, skipped_entries, output_path)
 
 
 if __name__ == '__main__':

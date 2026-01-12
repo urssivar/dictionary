@@ -25,10 +25,7 @@ jobs:
           pip install pyyaml
 
       - name: Build dictionary exports
-        run: |
-          python3 scripts/to-json-urssivar.py
-          python3 scripts/to-json-full.py
-          python3 scripts/to-csv.py
+        run: python3 scripts/export.py
 
       - name: List generated files
         run: ls -lh export/
