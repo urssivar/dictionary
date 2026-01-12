@@ -1,0 +1,61 @@
+name: Build and Publish Release Assets
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  build-and-upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install pyyaml
+
+      - name: Build dictionary exports
+        run: |
+          python3 scripts/to-json-urssivar.py
+          python3 scripts/to-json-full.py
+          python3 scripts/to-csv.py
+
+      - name: List generated files
+        run: ls -lh export/
+
+      - name: Upload JSON (website format)
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ github.event.release.upload_url }}
+          asset_path: ./export/dictionary.json
+          asset_name: dictionary.json
+          asset_content_type: application/json
+
+      - name: Upload JSON (full format)
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ github.event.release.upload_url }}
+          asset_path: ./export/dictionary-full.json
+          asset_name: dictionary-full.json
+          asset_content_type: application/json
+
+      - name: Upload CSV
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ github.event.release.upload_url }}
+          asset_path: ./export/dictionary.csv
+          asset_name: dictionary.csv
+          asset_content_type: text/csv

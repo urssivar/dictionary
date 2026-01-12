@@ -33,3 +33,7 @@ Desktop.ini
 *.tmp
 *.bak
 *.log
+
+# Generated/compiled files
+export/
+*.pdf
