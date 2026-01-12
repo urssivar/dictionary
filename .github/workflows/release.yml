@@ -22,10 +22,10 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install pyyaml
+          pip install -r requirements.txt
 
       - name: Build dictionary exports
-        run: python3 scripts/export.py
+        run: make export
 
       - name: List generated files
         run: ls -lh export/
