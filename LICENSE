@@ -1,44 +1,23 @@
-# License
+# Dual License
 
-This repository contains two types of content with different licenses:
+This project uses a dual-licensing model:
 
-## Dictionary Data - CC BY 4.0
+## Content License: CC BY 4.0
 
-All dictionary content and reference data is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+All **content** (dictionary data, exports, documentation, etc.) is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-This includes:
-
-- All files in `/lexicon/` (dictionary entries)
-- All files in `/data/` (alphabet, lookup tables, source data)
-- Any other YAML/JSON files containing dictionary content
-
-**You are free to:**
-
-- Share, copy, and redistribute the data
-- Adapt, remix, transform, and build upon the data
-- Use for any purpose, including commercially
-
-**Under the following terms:**
-
-- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-
-Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
-
----
-
-## Code - MIT License
-
-All code and scripts are licensed under the **MIT License**.
-
-This includes:
-
-- All files in `/scripts/` (conversion utilities)
-- Any Python, TypeScript, or other code files
+**Attribution:**
 
 ```
-MIT License
+Magomedov M., Gasanova U. (2026). Kaitag Dictionary. Licensed under CC BY 4.0.
+https://github.com/urssivar/dictionary
+```
 
-Copyright (c) 2025 Urssivar
+## Code License: MIT
+
+All **code** (`.py` files, etc.) is licensed under the MIT License.
+
+Copyright (c) 2026 Urssivar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -57,23 +36,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
-
----
-
-## Attribution
-
-When using the dictionary data, please provide attribution such as:
-
-```
-Kaitag Dictionary by Magomedov M., Gasanova U.
-Licensed under CC BY 4.0
-https://github.com/urssivar/dictionary
-```
-
-Or in academic contexts:
-
-```
-Magomedov M., Gasanova U. (2025). Kaitag Dictionary [Data set].
-https://github.com/urssivar/dictionary
-```

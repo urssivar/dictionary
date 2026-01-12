@@ -148,26 +148,15 @@ The published dictionary includes:
 - **Grammar guide** - Phonetics, orthography, and grammatical reference
 - **Additional tools** - Keyboards, text converter, video introduction
 
----
-
-## Authors
-
-**Magomed Magomedov** and **Uzlipat Gasanova**
-
 ## License
 
-This project uses dual licensing:
-
-- **Dictionary data** (`/lexicon/`, `/data/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - Free to use, including commercially, with attribution
-- **Code** (`/scripts/`): [MIT License](https://opensource.org/licenses/MIT) - Use freely without restrictions
-
-See [LICENSE](LICENSE) for full details.
+Dual-licensed: **Content** under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), **Code** under [MIT](https://opensource.org/licenses/MIT). See [LICENSE](LICENSE) for details.
 
 ### Attribution
 
 When using the dictionary data, please cite as:
 
 ```
-Magomedov M., Gasanova U. (2025). Kaitag Dictionary [Data set].
+Magomedov M., Gasanova U. (2026). Kaitag Dictionary [Data set].
 https://github.com/urssivar/dictionary
 ```
