@@ -7,17 +7,20 @@ This project uses a dual-licensing model:
 All **content** is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
 **Content includes:**
+
 - Dictionary entries (`lexemes/*.yaml`)
 - Documentation files (`*.md`)
 - Exported formats (JSON, CSV, etc.)
 
 **Attribution:**
+
 ```
 Magomedov, M., & Gasanova, U. (2026). Kaitag Dictionary. 
 Licensed under CC BY-SA 4.0. https://github.com/urssivar/dictionary
 ```
 
 **What this means:**
+
 - You can use, modify, and redistribute this data
 - You must give appropriate credit
 - Derivatives must use the same CC BY-SA 4.0 license
@@ -28,6 +31,7 @@ Licensed under CC BY-SA 4.0. https://github.com/urssivar/dictionary
 All **code** is licensed under the MIT License.
 
 **Code includes:**
+
 - Python scripts (`*.py`)
 - Build and processing tools
 - Validation scripts
