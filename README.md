@@ -56,11 +56,13 @@ definitions:
 ## Data Structure
 
 ### Required Fields
+
 - `id` - Unique identifier
 - `headword` - The Kaitag word
 - `definitions` - At least one definition
 
 ### Optional Fields
+
 - `ipa` - IPA pronunciation
 - `tags` - Grammar and semantic tags
 - `etymology` - Word origin (bilingual)
@@ -83,11 +85,13 @@ translation:
 ### Tag System
 
 **Grammar tags** use Leipzig glossing codes:
+
 - `n` (noun), `v` (verb), `adj` (adjective), `adv` (adverb)
 - `tr` (transitive), `intr` (intransitive)
 - `phr` (phrasal), `cls` (class agreement)
 
 **Semantic tags** use readable names:
+
 - `loan`, `arabic`, `turkic`, `persian`, `russian`
 - `kinship`, `emotion`, `animal`, `tool`, `food`
 
@@ -142,6 +146,7 @@ For browsing and using the dictionary, visit:
 ### **[📖 Kaitag Dictionary at Urssivar.com](https://urssivar.com/language/dictionary/intro)**
 
 The published dictionary includes:
+
 - **Online browsing** - Search and explore all 5,171 entries
 - **PDF download** - Printable offline version
 - **Google Sheets** - Spreadsheet format for analysis
@@ -150,13 +155,13 @@ The published dictionary includes:
 
 ## License
 
-Dual-licensed: **Content** under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), **Code** under [MIT](https://opensource.org/licenses/MIT). See [LICENSE](LICENSE) for details.
+Dual-licensed: **Content** under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), **Code** under [MIT](https://opensource.org/licenses/MIT). See [LICENSE](LICENSE) for details.
 
 ### Attribution
 
 When using the dictionary data, please cite as:
 
 ```
-Magomedov M., Gasanova U. (2026). Kaitag Dictionary [Data set].
-https://github.com/urssivar/dictionary
+Magomedov, M., & Gasanova, U. (2026). Kaitag Dictionary [Data set]. 
+Licensed under CC BY-SA 4.0. https://github.com/urssivar/dictionary
 ```
