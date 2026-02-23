@@ -212,6 +212,7 @@ def main():
     converted_entries = {}
     for letter in alphabet:
         if letter not in entries_by_letter:
+            converted_entries[letter] = []
             continue
 
         # Convert entries

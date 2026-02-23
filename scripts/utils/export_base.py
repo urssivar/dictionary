@@ -52,7 +52,7 @@ def load_lexicon_entries(alphabet, validate_fn=None):
     for letter in alphabet:
         letter_dir = lexicon_dir / letter
         if not letter_dir.exists():
-            print(f"Warning: Directory not found for letter '{letter}'")
+            entries_by_letter[letter] = []
             continue
 
         entries_by_letter[letter] = []
