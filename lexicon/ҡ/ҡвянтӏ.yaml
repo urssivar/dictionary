@@ -1,0 +1,18 @@
+id: kf7wxEYhoxzVXPa4Cdg0
+headword: ҡвянтӏ
+ipa: ˈqʷæntʼ
+tags: [n]
+forms:
+  - text: ҡвянтӏ
+    gloss: abs
+  - text: ҡвянтӏа
+    gloss: obl
+  - text: ҡвянтӏбе
+    gloss: pl
+definitions:
+  - translation:
+      en: nape
+      ru: затылок
+    tags: [body]
+    aliases:
+      en: [head, back]

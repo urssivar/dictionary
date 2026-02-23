@@ -1,0 +1,19 @@
+id: dT7BY1s2zYvG4050I6h6
+headword: уш билҡӏана
+ipa: ˌuʃ bilˈqʼana
+tags: [v, ntr, cls]
+note:
+  en: "*~ буҡьана/булҡьана*"
+forms:
+  - text: уш биҡӏана
+    gloss: pfv
+  - text: уш биҡӏун
+    gloss: pret
+  - text: уш билҡӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to move away
+      ru: отодвигаться
+    aliases:
+      en: [aside, leave]

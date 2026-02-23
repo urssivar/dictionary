@@ -1,0 +1,20 @@
+id: HsyMHJvKKKaw0a4bqnBt
+headword: цӏецӏе
+ipa: ˈtsʼetsʼe
+tags: [n]
+note:
+  en: "*женигор*"
+forms:
+  - text: цӏецӏе
+    gloss: abs
+  - text: цӏицӏи
+    gloss: obl
+  - text: цӏицӏбе
+    gloss: pl
+definitions:
+  - translation:
+      en: snake
+      ru: змея
+    tags: [animal]
+    aliases:
+      en: [serpent]

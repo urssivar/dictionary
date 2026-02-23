@@ -1,0 +1,17 @@
+id: Z7ecYtnp6123tgez5ec2
+headword: дуцӏ урғара
+ipa: ˌdutsʼ urˈʁara
+tags: [v, tr]
+forms:
+  - text: дуцӏ ағара
+    gloss: pfv
+  - text: дуцӏ ағив
+    gloss: pret
+  - text: дуцӏ урғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to race
+      ru: гнать
+    aliases:
+      en: [run]

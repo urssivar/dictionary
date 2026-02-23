@@ -1,0 +1,17 @@
+id: gZ3rpNi9x5jmITqu1uD3
+headword: ҡячӏ кабиргара
+ipa: ˌqætʃʼ kabirˈgara
+tags: [v, ntr, cls]
+forms:
+  - text: ҡячӏ кабигара
+    gloss: pfv
+  - text: ҡячӏ кабижив
+    gloss: pret
+  - text: ҡячӏ кабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to spasm
+      ru: спазмировать
+    aliases:
+      en: [convulse]

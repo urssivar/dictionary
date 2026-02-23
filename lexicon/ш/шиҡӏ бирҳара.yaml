@@ -1,0 +1,17 @@
+id: oJNK3nCsPJffPPEOhwoM
+headword: шиҡӏ бирҳара
+ipa: ˌʃiqʼ birˈxara
+tags: [v, tr, cls]
+forms:
+  - text: шиҡӏ биҳара
+    gloss: pfv
+  - text: шиҡӏ бишив
+    gloss: pret
+  - text: шиҡӏ бирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to start
+      ru: начинать
+    aliases:
+      en: [begin]

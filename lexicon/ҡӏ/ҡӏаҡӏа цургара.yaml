@@ -1,0 +1,17 @@
+id: KPV7v3pus41Nl9vycSio
+headword: ҡӏаҡӏа цургара
+ipa: qʼaˌqʼa tsurˈgara
+tags: [v, ntr, cls]
+forms:
+  - text: ҡӏаҡӏа цагара
+    gloss: pfv
+  - text: ҡӏаҡӏа цагур
+    gloss: pret
+  - text: ҡӏаҡӏа цургара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to bewail
+      ru: сокрушаться
+    aliases:
+      en: [lament, regret]

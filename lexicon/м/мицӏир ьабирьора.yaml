@@ -1,0 +1,17 @@
+id: Wq7likUrFD4MnENb0hVf
+headword: мицӏир ьабирьора
+ipa: miˌtsʼir habirˈhora
+tags: [v, cls, tr]
+forms:
+  - text: мицӏир ьабиьора
+    gloss: pfv
+  - text: мицӏир ьабиьяв
+    gloss: pret
+  - text: мицӏир ьабирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to revive
+      ru: оживать
+    aliases:
+      en: [resurrect]

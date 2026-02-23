@@ -1,0 +1,25 @@
+id: z32LEJDrRgY2BT05Z0SR
+headword: ҡӏона
+ipa: ˈqʼona
+tags: [n]
+forms:
+  - text: ҡӏона
+    gloss: abs
+  - text: ҡӏонбе
+    gloss: pl
+definitions:
+  - translation:
+      en: chest
+      ru: сундук
+    aliases:
+      en: [storage]
+  - translation:
+      en: cage
+      ru: клетка
+    aliases:
+      en: [rectangle, box]
+  - translation:
+      en: square
+      ru: квадрат
+    aliases:
+      en: [rectangle]

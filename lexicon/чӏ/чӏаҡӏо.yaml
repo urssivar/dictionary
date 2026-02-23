@@ -1,0 +1,23 @@
+id: k6doi8qf35ofUGNrqtTi
+headword: чӏаҡӏо
+ipa: tʃʼaˈqʼo
+tags: [n]
+note:
+  en: "*чьуҡьа*"
+forms:
+  - text: чӏаҡӏо
+    gloss: abs
+  - text: чӏаҡӏон
+    gloss: obl
+definitions:
+  - translation:
+      en: bread
+      ru: хлеб
+    tags: [food]
+    examples:
+      - text: бершур чӏаҡӏо
+        translation:
+          en: sweet bread
+      - text: ҡӏяшҡӏя чӏаҡӏо
+        translation:
+          en: unleavened bread

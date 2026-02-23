@@ -1,0 +1,17 @@
+id: c6Z8cd2flC1oRUWWL7iD
+headword: шиҡӏ цабирара
+ipa: ˌʃiqʼ tsabiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: шиҡӏ цабарара
+    gloss: pfv
+  - text: шиҡӏ цабарив
+    gloss: pret
+  - text: шиҡӏ цабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to engage
+      ru: задействовать
+    aliases:
+      en: [use, utilize, involve]

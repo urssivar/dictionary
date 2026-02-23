@@ -1,0 +1,17 @@
+id: 0NpgeOOV0Rbv7aJk5qSB
+headword: чӏиғ бирара
+ipa: ˌtʃʼiʁ biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: чӏиғ барара
+    gloss: pfv
+  - text: чӏиғ барив
+    gloss: pret
+  - text: чӏиғ бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to scald
+      ru: ошпаривать
+    aliases:
+      en: [burn]

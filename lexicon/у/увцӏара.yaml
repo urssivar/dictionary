@@ -1,0 +1,17 @@
+id: 85rhXdaVaF4ZcAL2eYRd
+headword: увцӏара
+ipa: uvˈtsʼara
+tags: [v]
+note:
+  en: "*унцьана*"
+forms:
+  - text: увцӏив
+    gloss: pret
+  - text: увцӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to research
+      ru: исследовать
+    aliases:
+      en: [study, search]

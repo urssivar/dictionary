@@ -1,0 +1,17 @@
+id: FhvbrcKBUCxu9GZdkZ5e
+headword: аь бикӏора
+ipa: ˌah biˈkʼora
+tags: [v, ntr, cls]
+forms:
+  - text: аь бикӏора
+    gloss: ipfv
+
+definitions:
+  - translation:
+      en: to be unwell
+      ru: недомогать
+    aliases:
+      en: [to be sick]
+      ru: [болеть]
+
+derived_from: [аь, бикӏора]

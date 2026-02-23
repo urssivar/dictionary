@@ -1,0 +1,19 @@
+id: pSIYvJLswt2Vzuzvwa50
+headword: мятӏа
+ipa: ˈmætʼa
+tags: [n]
+note:
+  en: "*кьаць*"
+forms:
+  - text: мятӏа
+    gloss: abs
+  - text: мятӏан
+    gloss: obl
+  - text: мятӏре
+    gloss: pl
+definitions:
+  - translation:
+      en: scrap
+      ru: клочок
+    aliases:
+      en: [blob, mass, clot]

@@ -1,0 +1,15 @@
+id: ZrRHT1Y3opV9QGhWRzUM
+headword: бувкӏара
+ipa: buvˈkʼara
+tags: [v, ntr, cls]
+forms:
+  - text: бевкӏара
+    gloss: pfv
+  - text: бевчӏив
+    gloss: pret
+  - text: бувкӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to die
+      ru: умирать

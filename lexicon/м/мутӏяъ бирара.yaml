@@ -1,0 +1,17 @@
+id: Lge5UUXpZl5kcLZcnQYo
+headword: мутӏяъ бирара
+ipa: muˌtʼæʔ biˈrara
+tags: [v, cls, tr]
+forms:
+  - text: мутӏяъ барара
+    gloss: pfv
+  - text: мутӏяъ барив
+    gloss: pret
+  - text: мутӏяъ бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to subdue
+      ru: подчинять
+    aliases:
+      en: [subordinate]

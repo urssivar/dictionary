@@ -1,0 +1,17 @@
+id: pVMHjU6h7ZhRgvSRLRyK
+headword: кӏоь билтӏана
+ipa: ˌkʼoh bilˈtʼana
+tags: [v, ntr, cls]
+forms:
+  - text: кӏоь битӏана
+    gloss: pfv
+  - text: кӏоь битӏун
+    gloss: pret
+  - text: кӏоь билтӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to subside
+      ru: утихать
+    aliases:
+      en: [cure, abate]

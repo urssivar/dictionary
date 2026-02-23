@@ -1,0 +1,22 @@
+id: NK4zkH2JB9XKaXEH0v4N
+headword: ҡӏанцӏрукк
+ipa: qʼantsʼˈrukː
+tags: [n]
+etymology:
+  en: From *ҡьамць* "sour".
+note:
+  en: |-
+    *ҡьанцькка*
+    *межикьа*
+forms:
+  - text: ҡӏанцӏрукк
+    gloss: abs
+  - text: ҡӏанцӏрукке
+    gloss: pl
+definitions:
+  - translation:
+      en: sorrel
+      ru: щавель
+    tags: [nature, plant, food]
+    aliases:
+      en: [dock, rumex]

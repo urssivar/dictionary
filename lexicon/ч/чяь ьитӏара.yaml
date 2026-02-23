@@ -1,0 +1,24 @@
+id: dZ901x4je2R53Dq17tIh
+headword: чяь ьитӏара
+ipa: ˌtʃæh hiˈtʼara
+tags: [v, tr, ntr]
+note:
+  en: "*чяь бирара*"
+forms:
+  - text: чяь ьатӏара
+    gloss: pfv
+  - text: чяь ьатӏив
+    gloss: pret
+  - text: чяь ьитӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to empty
+      ru: выливать
+    aliases:
+      en: [pour]
+  - translation:
+      en: to get disgraced
+      ru: позориться
+    aliases:
+      en: [shame]

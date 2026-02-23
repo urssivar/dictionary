@@ -1,0 +1,15 @@
+id: 1T5tjJhPITNtdnbnIeM3
+headword: чӏям бирара
+ipa: ˌtʃʼæm biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: чӏям барара
+    gloss: pfv
+  - text: чӏям барив
+    gloss: pret
+  - text: чӏям бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to chew
+      ru: жевать

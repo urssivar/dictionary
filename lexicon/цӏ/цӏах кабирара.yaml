@@ -1,0 +1,17 @@
+id: YYYqFIqSm0V9uo3iwD54
+headword: цӏах кабирара
+ipa: ˌtsʼaχ kabiˈrara
+tags: [v, cls, tr]
+forms:
+  - text: цӏах кабарара
+    gloss: pfv
+  - text: цӏах кабарив
+    gloss: pret
+  - text: цӏах кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dishonor
+      ru: позорить
+    aliases:
+      en: [disgrace, shame]

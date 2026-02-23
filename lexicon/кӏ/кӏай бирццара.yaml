@@ -1,0 +1,17 @@
+id: G76o6VYHsgdHMMix5JwH
+headword: кӏай бирццара
+ipa: ˌkʼaj birˈtsːara
+tags: [v, ntr, cls]
+forms:
+  - text: кӏай биццара
+    gloss: pfv
+  - text: кӏай биццур
+    gloss: pret
+  - text: кӏай бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to freeze
+      ru: застывать
+    aliases:
+      en: [stop]

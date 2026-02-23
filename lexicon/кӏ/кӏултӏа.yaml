@@ -1,0 +1,18 @@
+id: c0uhLdS9SPn8ODXsFmbU
+headword: кӏултӏа
+ipa: ˈkʼultʼa
+tags: [n]
+forms:
+  - text: кӏултӏа
+    gloss: abs
+  - text: кӏултӏан
+    gloss: obl, loc
+  - text: кӏултӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: belly
+      ru: живот
+    tags: [body]
+    aliases:
+      en: [abdomen, stomach]

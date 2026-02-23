@@ -1,0 +1,19 @@
+id: fqQa6pC0EFUCdbROevBs
+headword: илтӏана
+ipa: ilˈtʼana
+tags: [v, tr]
+note:
+  en: "*битьана/билтьана*"
+forms:
+  - text: итӏана
+    gloss: pfv
+  - text: итӏун
+    gloss: pret
+  - text: илтӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to unblock
+      ru: отпирать
+    aliases:
+      en: [open, release]

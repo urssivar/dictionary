@@ -1,0 +1,17 @@
+id: 6tKydqHlPVjopnsX5KeR
+headword: бялчӏана
+ipa: bælˈtʃʼana
+tags: [v, cls, tr]
+forms:
+  - text: бячӏана
+    gloss: pfv
+  - text: бячӏун
+    gloss: pret
+  - text: бялчӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to trample
+      ru: растаптывать
+    aliases:
+      en: [squeeze, smash, crush]

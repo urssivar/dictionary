@@ -1,0 +1,17 @@
+id: yqoycikCSEY5FboJD4QL
+headword: вяж ьиҡӏара
+ipa: ˌvæʒ hiˈqʼara
+tags: [v, ntr, cls]
+forms:
+  - text: вяж ьаҡӏара
+    gloss: pfv
+  - text: вяж ьаҡӏив
+    gloss: pret
+  - text: вяж ьиҡӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to strew
+      ru: посыпать
+    aliases:
+      en: [sprinkle, dredge]

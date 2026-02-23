@@ -1,0 +1,17 @@
+id: cTiRpjTVnDv0lmGzYHFN
+headword: карукӏара
+ipa: karuˈkʼara
+tags: [v, tr, cls]
+forms:
+  - text: каберкӏора
+    gloss: pfv
+  - text: каберчӏив
+    gloss: pret
+  - text: карукӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to secure
+      ru: закреплять
+    aliases:
+      en: [fix, fasten]

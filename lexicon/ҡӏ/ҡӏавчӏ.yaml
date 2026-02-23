@@ -1,0 +1,19 @@
+id: jufzOv6qb7XAW2ABxulj
+headword: ҡӏавчӏ
+ipa: ˈqʼavtʃʼ
+tags: [n]
+forms:
+  - text: ҡӏавчӏ
+    gloss: abs
+  - text: ҡӏавчӏан
+    gloss: obl
+definitions:
+  - translation:
+      en: carbon monoxide
+      ru: гарь
+    aliases:
+      en: [soot, burn]
+    examples:
+      - text: ҡӏавчӏанла кквяъ
+        translation:
+          en: smell of burning

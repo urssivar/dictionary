@@ -1,0 +1,20 @@
+id: t5m3GFBhBhFnNTSIO6GS
+headword: бецӏ
+ipa: ˈbetsʼ
+tags: [n]
+forms:
+  - text: бецӏ
+    gloss: abs
+  - text: бецӏи
+    gloss: obl
+  - text: бицӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: wolf
+      ru: волк
+    tags: [animal]
+    examples:
+      - text: "* ил дикӏал бецӏ буцил цянне авааттал"
+        translation:
+          en: and since you ain't coming having caught a wolf

@@ -1,0 +1,17 @@
+id: WGdKBeogiXGqJtvB9BAz
+headword: бувчӏихара
+ipa: buvtʃʼiˈχara
+tags: [v, cls, tr]
+forms:
+  - text: бевчӏихара
+    gloss: pfv
+  - text: бевчӏихив
+    gloss: pret
+  - text: бувчӏихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to ruin
+      ru: губить
+    aliases:
+      en: [kill]

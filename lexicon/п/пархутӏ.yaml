@@ -1,0 +1,16 @@
+id: YejuauZwX7jPtatIO6Ep
+headword: пархутӏ
+ipa: parˈχutʼ
+tags: [n, loan, russian]
+forms:
+  - text: пархутӏ
+    gloss: abs
+  - text: пархутӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: steamship
+      ru: пароход
+    tags: [tool]
+    aliases:
+      en: [ship, vessel]

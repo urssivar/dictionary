@@ -1,0 +1,17 @@
+id: dMbOPcQkWwZjmudF5ywq
+headword: уртӏара
+ipa: urˈtʼara
+tags: [v, tr]
+forms:
+  - text: ертӏара
+    gloss: pfv
+  - text: ертӏур
+    gloss: pret
+  - text: уртӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sting
+      ru: жалить
+    aliases:
+      en: [bite]

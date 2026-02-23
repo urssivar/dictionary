@@ -1,0 +1,19 @@
+id: W38a53H0kDfe73TBpeTJ
+headword: кабикӏара
+ipa: kabiˈkʼara
+tags: [v, tr, cls]
+note:
+  en: "*бакьара/бикьара*, *чибекьара/чибикьара*"
+forms:
+  - text: кабакӏара
+    gloss: pfv
+  - text: кабачӏив
+    gloss: pret
+  - text: кабикӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lock
+      ru: запирать
+    aliases:
+      en: [close]

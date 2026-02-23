@@ -1,0 +1,20 @@
+id: IRVBFDqDKtZa5MI19RPa
+headword: ьирцӏан
+ipa: hirˈtsʼan
+tags: [n, vb]
+etymology:
+  en: Obl. of *ьирцьара* "to scoop".
+note:
+  en: "*чумуч* (Kumyk)"
+forms:
+  - text: ьирцӏан
+    gloss: abs
+  - text: ьирцӏанте
+    gloss: pl
+definitions:
+  - translation:
+      en: ladle
+      ru: черпак
+    tags: [tool]
+    aliases:
+      en: [scoop, dipper]

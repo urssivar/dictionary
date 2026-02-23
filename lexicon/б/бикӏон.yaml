@@ -1,0 +1,24 @@
+id: wXfGAaksehrAVJpEabeI
+headword: бикӏон
+ipa: biˈkʼon
+tags: [adj, vb, cls]
+etymology:
+  en: From *бикьора* "to speak" in the sense "spoken by people".
+forms:
+  - text: бикӏон
+    gloss: adj
+  - text: бикӏул
+    gloss: adv
+definitions:
+  - translation:
+      en: so called
+      ru: так называемый
+    aliases:
+      en: [notion, term, concept]
+    examples:
+      - text: коцци йа ьел риҡна да рикӏон
+        translation:
+          en: where the that so-called old lady?
+      - text: цаҡҡа ьел айпун бикӏон
+        translation:
+          en: bring here the so-called iphone

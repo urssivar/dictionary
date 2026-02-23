@@ -1,0 +1,16 @@
+id: bjrw3XxI7OomEcbs4zyh
+headword: тӏаликӏ
+ipa: tʼaˈlikʼ
+tags: [n]
+forms:
+  - text: тӏаликӏ
+    gloss: abs
+  - text: тӏаликӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: stalk
+      ru: плодоножка
+    tags: [nature]
+    aliases:
+      en: [handle, peduncle]

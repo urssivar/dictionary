@@ -1,0 +1,23 @@
+id: lHcde4sSL06pgIHFXp2U
+headword: булчӏана
+ipa: bulˈtʃʼana
+tags: [v, tr, ntr, cls]
+forms:
+  - text: белчӏана
+    gloss: pfv
+  - text: белчӏун
+    gloss: pret
+  - text: булчӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to read
+      ru: читать
+  - translation:
+      en: to study
+      ru: изучать, учить
+    aliases:
+      en: [learn]
+  - translation:
+      en: to sing
+      ru: петь

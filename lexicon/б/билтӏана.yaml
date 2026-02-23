@@ -1,0 +1,26 @@
+id: k7wVwDLr3ONPT0oOrxZD
+headword: билтӏана
+ipa: bilˈtʼana
+tags: [v, tr, cls]
+forms:
+  - text: битӏана
+    gloss: pfv
+  - text: битӏун
+    gloss: pret
+  - text: билтӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to seize
+      ru: заполучать
+    aliases:
+      en: [take, grasp]
+  - translation:
+      en: to extract
+      ru: добывать
+    aliases:
+      en: [mine]
+    examples:
+      - text: меь дитӏана
+        translation:
+          en: to extract iron

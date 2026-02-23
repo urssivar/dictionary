@@ -1,0 +1,24 @@
+id: sx0S7GmZlBUHoBj50FZZ
+headword: луҡӏана
+ipa: luˈqʼana
+tags: [v, cls, tr, ntr]
+forms:
+  - text: белҡӏона
+    gloss: pfv
+  - text: белҡӏун
+    gloss: pret
+  - text: луҡӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to break
+      ru: ломать, разбиваться
+    aliases:
+      en: [down]
+    examples:
+      - text: тӏяме белҡӏун
+        translation:
+          en: broke legs
+      - text: машин белҡӏун
+        translation:
+          en: the car broke down

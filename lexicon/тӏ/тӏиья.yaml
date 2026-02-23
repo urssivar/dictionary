@@ -1,0 +1,18 @@
+id: 3YJMHy7V0v7iTvorzavX
+headword: тӏиья
+ipa: ˈtʼihæ
+tags: [n]
+forms:
+  - text: тӏиья
+    gloss: abs
+  - text: тӏиьян
+    gloss: obl
+  - text: тӏиьне
+    gloss: pl
+definitions:
+  - translation:
+      en: nut kernel
+      ru: ядро ореха
+    tags: [nature]
+    aliases:
+      en: [core]

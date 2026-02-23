@@ -1,0 +1,17 @@
+id: rehW9LCgq4C8ifIvkGWm
+headword: ҡӏутӏ кабирара
+ipa: ˌqʼutʼ kabiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ҡӏутӏ кабарара
+    gloss: pfv
+  - text: ҡӏутӏ кабарив
+    gloss: pret
+  - text: ҡӏутӏ кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to nail
+      ru: прибивать
+    aliases:
+      en: [hammer, pin]

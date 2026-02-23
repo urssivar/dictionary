@@ -1,0 +1,22 @@
+id: YZ7vAhOOFZBzrAeAAGK7
+headword: ҡӏак
+ipa: ˈqʼak
+tags: [n]
+forms:
+  - text: ҡӏак
+    gloss: abs
+  - text: ҡӏакре
+    gloss: pl
+definitions:
+  - translation:
+      en: carcass
+      ru: туша
+    tags: [body]
+    aliases:
+      en: [body]
+  - translation:
+      en: pharynx
+      ru: глотка
+    tags: [body]
+    aliases:
+      en: [throat, mouth]

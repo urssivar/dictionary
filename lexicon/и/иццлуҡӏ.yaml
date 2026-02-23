@@ -1,0 +1,17 @@
+id: qdkDQn2aBBV94ytKKtMH
+headword: иццлуҡӏ
+ipa: itsːˈluqʼ
+tags: [n, vb]
+etymology:
+  en: From *иццала* "disease".
+forms:
+  - text: иццлуҡӏ
+    gloss: abs
+  - text: иццлуҡӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: infection
+      ru: инфекция
+    aliases:
+      en: [virus]

@@ -1,0 +1,20 @@
+id: 98vJEnUK7Pl93bB6ZOz9
+headword: деғятӏа
+ipa: deˈʁætʼa
+tags: [n]
+etymology:
+  en: From *деғ* "land" + *ятьа* "frog".
+note:
+  en: "*гаргар ятьа*"
+forms:
+  - text: деғятӏа
+    gloss: abs
+  - text: деғятӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: toad
+      ru: жаба
+    tags: [animal]
+    aliases:
+      en: [frog]

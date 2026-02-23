@@ -1,0 +1,17 @@
+id: ohkB6M4FrZ4ydN2ArjCe
+headword: линкӏ бирара
+ipa: ˌlinkʼ biˈrara
+tags: [v, tr]
+forms:
+  - text: линкӏ барара
+    gloss: pfv
+  - text: линкӏ барив
+    gloss: pret
+  - text: линкӏ бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to point with eyes
+      ru: показывать глазами
+    aliases:
+      en: [gesture]

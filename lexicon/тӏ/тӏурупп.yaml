@@ -1,0 +1,16 @@
+id: eEl3dj11b6nq93UOR8yf
+headword: тӏурупп
+ipa: tʼuˈrupː
+tags: [n]
+forms:
+  - text: тӏурупп
+    gloss: abs
+  - text: тӏуруппе
+    gloss: pl
+definitions:
+  - translation:
+      en: awl
+      ru: шило
+    tags: [tool]
+    aliases:
+      en: [bodkin, needle]

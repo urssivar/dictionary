@@ -1,0 +1,17 @@
+id: nn3X4bnZOYGVXhLESTZv
+headword: биж киҡӏара
+ipa: ˌbiʒ kiˈqʼara
+tags: [v, tr, cls]
+forms:
+  - text: биж каҡӏара
+    gloss: pfv
+  - text: биж каҡӏив
+    gloss: pret
+  - text: биж киҡӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pour in
+      ru: всыпывать
+    aliases:
+      en: [sprinkle]

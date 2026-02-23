@@ -1,0 +1,24 @@
+id: vM1VITNUZRfWQbPPN7mj
+headword: баҡӏ ургара
+ipa: ˌbaqʼ urˈgara
+tags: [v, tr, ntr, cls]
+forms:
+  - text: баҡӏ агара
+    gloss: pfv
+  - text: баҡӏ агур
+    gloss: pret
+  - text: баҡӏ ургара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to prepare
+      ru: подготавливать
+    aliases:
+      en: [ready]
+    examples:
+      - text: баҡӏ ага машин
+        translation:
+          en: prepare the car
+      - text: ваҡӏ аже ттура верхора
+        translation:
+          en: prepare to depart

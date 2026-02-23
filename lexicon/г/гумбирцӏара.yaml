@@ -1,0 +1,16 @@
+id: yJS01ShsjFtwZdFmHqp3
+headword: гумбирцӏара
+ipa: gumbirˈtsʼara
+tags: [v, ntr, cls]
+forms:
+  - text: гумбицӏара
+    gloss: pfv
+  - text: гумбицӏив
+    gloss: pret
+  - text: гумбирцӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fester
+      ru: гноиться
+    tags: [body]

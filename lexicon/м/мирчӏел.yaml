@@ -1,0 +1,18 @@
+id: 5qAXwYWXONJC86cfGq9e
+headword: мирчӏел
+ipa: ˈmirtʃʼel
+tags: [n]
+note:
+  en: "*мирчьари*"
+forms:
+  - text: мирчӏел
+    gloss: abs
+  - text: мирчӏле
+    gloss: obl
+definitions:
+  - translation:
+      en: wax
+      ru: воск
+    tags: [nature]
+    aliases:
+      en: [bee]

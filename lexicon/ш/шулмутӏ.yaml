@@ -1,0 +1,18 @@
+id: hYU46gQZtaTZZNDcWnFY
+headword: шулмутӏ
+ipa: ʃulˈmutʼ
+tags: [n]
+note:
+  en: |-
+    *шармуть*
+    *ҡьвяржим*
+forms:
+  - text: шулмутӏ
+    gloss: abs
+  - text: шулмутӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: mole cricket
+      ru: медведка
+    tags: [nature, animal, insect]

@@ -1,0 +1,18 @@
+id: dY6D9ecLZTXFO9HBP7yD
+headword: анцӏен
+ipa: anˈtsʼen
+tags: [n]
+forms:
+  - text: анцӏен
+    gloss: abs
+  - text: анцӏенте
+    gloss: pl
+
+definitions:
+  - translation:
+      en: heifer
+      ru: тёлка
+    tags: [animal]
+    aliases:
+      en: [cow, cattle]
+      ru: [корова, скот]

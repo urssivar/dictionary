@@ -1,0 +1,20 @@
+id: ilULTmo8i3LUJM6NMEBr
+headword: арцӏяъя
+ipa: artsʼæˈʔæ
+tags: [n, vb]
+forms:
+  - text: арцӏяъя
+    gloss: abs
+  - text: арцӏяъне
+    gloss: pl
+variants:
+  - text: арцӏиҡӏян
+
+definitions:
+  - translation:
+      en: weeder
+      ru: пропольщик
+    tags: [occupation, agriculture]
+
+derived_from: [ирцӏара]
+see_also: [уттяъя]

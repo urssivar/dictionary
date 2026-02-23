@@ -1,0 +1,24 @@
+id: COQTsAtbrK28N2OT2D7r
+headword: тӏатӏ
+ipa: ˈtʼatʼ
+tags: [n]
+forms:
+  - text: тӏатӏ
+    gloss: abs
+  - text: тӏитӏре
+    gloss: pl
+definitions:
+  - translation:
+      en: string
+      ru: струна
+    aliases:
+      en: [rope, cord]
+  - translation:
+      en: feature
+      ru: черта
+    aliases:
+      en: [character]
+    examples:
+      - text: ьелецци вяьи тӏатӏ би
+        translation:
+          en: something's off about him

@@ -1,0 +1,16 @@
+id: qX1ouMKJtgvTr545gPtW
+headword: ирцӏара
+ipa: irˈtsʼara
+tags: [v]
+note:
+  en: '*арцьара* (PFV)'
+forms:
+  - text: ирцӏив
+    gloss: pret
+  - text: ирцӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to weed
+      ru: полоть
+    tags: [agriculture]

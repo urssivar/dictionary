@@ -1,0 +1,28 @@
+id: tzkTWWeqw935ZJj9WV3n
+headword: бикӏора
+ipa: biˈkʼora
+tags: [v, ntr, cls]
+forms:
+  - text: икӏора
+    gloss: ipfv m
+  - text: бикӏора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to mean
+      ru: иметь ввиду
+    aliases:
+      en: [speak, communicate]
+    examples:
+      - text: ду ичӏид
+        translation:
+          en: i mean
+  - translation:
+      en: to speak
+      ru: говорить
+    aliases:
+      en: [say]
+    examples:
+      - text: ниҳола ғайли цигле бикӏор ей ьел?
+        translation:
+          en: how is it in our langauge?

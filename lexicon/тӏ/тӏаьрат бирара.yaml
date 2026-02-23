@@ -1,0 +1,15 @@
+id: tuTTgA0baC5HmfKynUVW
+headword: тӏаьрат бирара
+ipa: tʼahˌrat biˈrara
+tags: [v, cls, tr, loan, arabic]
+forms:
+  - text: тӏаьрат барара
+    gloss: pfv
+  - text: тӏаьрат барив
+    gloss: pret
+  - text: тӏаьрат бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to go to the toilet
+      ru: идти в туалет

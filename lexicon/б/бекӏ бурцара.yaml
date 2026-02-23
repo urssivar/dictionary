@@ -1,0 +1,21 @@
+id: mO1OIB52mB7Ag50mmPl7
+headword: бекӏ бурцара
+ipa: ˌbekʼ burˈtsara
+tags: [v, ntr]
+forms:
+  - text: бекӏ буцара
+    gloss: pfv
+  - text: бекӏ буцив
+    gloss: pret
+  - text: бекӏ бурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to mull
+      ru: размышлять
+    aliases:
+      en: [think]
+    examples:
+      - text: бекӏ буцил кижил це
+        translation:
+          en: sitting in thoughts

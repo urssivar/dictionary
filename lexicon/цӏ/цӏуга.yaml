@@ -1,0 +1,18 @@
+id: nzVh5iC6ocVkYHbrYNTr
+headword: цӏуга
+ipa: ˈtsʼuga
+tags: [n]
+note:
+  en: There's also *ҳунцьур* but the exact meaning is unclear.
+forms:
+  - text: цӏуга
+    gloss: abs
+  - text: цӏуган
+    gloss: obl
+  - text: цӏугне
+    gloss: pl
+definitions:
+  - translation:
+      en: swamp
+      ru: болото
+    tags: [nature]

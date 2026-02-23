@@ -1,0 +1,18 @@
+id: DGwUWLjkIwDf53W2btmO
+headword: буцӏаре
+ipa: buˈtsʼare
+tags: [n, vb]
+note:
+  en: "*буцьри*, *буцьере*"
+forms:
+  - text: буцӏаре
+    gloss: abs
+  - text: буцӏарил
+    gloss: obl
+definitions:
+  - translation:
+      en: hot weather
+      ru: жара
+    tags: [nature]
+    aliases:
+      en: [heat]

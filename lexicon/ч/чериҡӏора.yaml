@@ -1,0 +1,17 @@
+id: ujYyi8XtIJ9WSrp8R4qS
+headword: чериҡӏора
+ipa: tʃeriˈqʼora
+tags: [v, tr, cls]
+forms:
+  - text: чербирҡӏора
+    gloss: pfv
+  - text: чербирҡӏур
+    gloss: pret
+  - text: чериҡӏора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to unbutton
+      ru: расстегивать
+    aliases:
+      en: [detach]

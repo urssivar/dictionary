@@ -1,0 +1,21 @@
+id: G4PADg2xR48om22jW3xr
+headword: никӏна бирццара
+ipa: nikʼˌna birˈtsːara
+tags: [v, cls, ntr]
+note:
+  en: "*никьна биргара*"
+forms:
+  - text: никӏна биццара
+    gloss: pfv
+  - text: никӏна биццур
+    gloss: pret
+  - text: никӏна бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to listen
+      ru: слушать
+    examples:
+      - text: дяьне никӏна бирццул акку
+        translation:
+          en: the kids are not listening

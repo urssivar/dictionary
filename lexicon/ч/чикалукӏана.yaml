@@ -1,0 +1,21 @@
+id: gDAlfau9yf9HfLkwAnWH
+headword: чикалукӏана
+ipa: tʃikaluˈkʼana
+tags: [v, cls, tr]
+forms:
+  - text: чикабелкӏона
+    gloss: pfv
+  - text: чикабелкӏун
+    gloss: pret
+  - text: чикалукӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tie down
+      ru: связывать
+    aliases:
+      en: [shackle]
+    examples:
+      - text: дярья шинтан чикелкӏо
+        translation:
+          en: tie down the child into the cradle

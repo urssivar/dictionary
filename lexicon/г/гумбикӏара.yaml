@@ -1,0 +1,17 @@
+id: km8QnQHUapEWf88spF8i
+headword: гумбикӏара
+ipa: gumbiˈkʼara
+tags: [v, ntr, cls]
+forms:
+  - text: гумбакӏара
+    gloss: pfv
+  - text: гумбачӏив
+    gloss: pret
+  - text: гумбикӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to aid
+      ru: способствовать
+    aliases:
+      en: [help, fasciliate]

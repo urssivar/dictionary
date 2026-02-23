@@ -1,0 +1,19 @@
+id: 0MzTvlwStn6NjIuykKGj
+headword: бикӏара
+ipa: biˈkʼara
+tags: [v, cls, tr]
+note:
+  en: "*чибикьара*"
+forms:
+  - text: бекӏара
+    gloss: pfv
+  - text: бечӏив
+    gloss: pret
+  - text: бикӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to thread
+      ru: продевать
+    aliases:
+      en: [shove, push, through]

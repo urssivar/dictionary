@@ -21,7 +21,7 @@ definitions:
     aliases:
       en: [turn]
     examples:
-      - text: палтар ҳаць ьадичив
+      - text: палтар ҳацӏ ьадичив
         translation:
           en: the clothes became blue
   - translation:
@@ -30,6 +30,6 @@ definitions:
     aliases:
       en: [affect]
     examples:
-      - text: ҡьяряҡьи бекьи ьадичив
+      - text: ҡӏяряҡӏи бекӏи ьадичив
         translation:
           en: the vodka acted on his head

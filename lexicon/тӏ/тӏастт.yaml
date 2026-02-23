@@ -1,0 +1,18 @@
+id: ykji46SZ2EixMoFX6QFC
+headword: тӏастт
+ipa: ˈtʼastː
+tags: [n, loan]
+note:
+  en: "*тьас*"
+forms:
+  - text: тӏастт
+    gloss: abs
+  - text: тӏисттре
+    gloss: pl
+definitions:
+  - translation:
+      en: basin
+      ru: таз
+    tags: [tool]
+    aliases:
+      en: [washbowl]

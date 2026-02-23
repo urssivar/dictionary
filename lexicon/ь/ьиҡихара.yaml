@@ -18,6 +18,6 @@ definitions:
     aliases:
       en: [persist, continue]
     examples:
-      - text: ьештти цьидеҳ еви ьиҡихара биккан це
+      - text: ьештти цӏидеҳ еви ьиҡихара биккан це
         translation:
           en: these fruits should last until spring

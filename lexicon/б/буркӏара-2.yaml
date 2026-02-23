@@ -1,0 +1,19 @@
+id: bsqgEEkItCJ0D6hsaqmA
+headword: буркӏара
+ipa: burˈkʼara
+tags: [v, tr, cls]
+note:
+  en: "*лукьана/балкьана*"
+forms:
+  - text: баркӏара
+    gloss: pfv
+  - text: барчӏив
+    gloss: pret
+  - text: буркӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to turn on
+      ru: включать
+    aliases:
+      en: [light]

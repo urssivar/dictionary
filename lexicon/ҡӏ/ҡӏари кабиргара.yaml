@@ -1,0 +1,17 @@
+id: xgFrWdrwhzSCkrPfy9Hh
+headword: ҡӏари кабиргара
+ipa: qʼaˌri kabirˈgara
+tags: [v, cls, ntr]
+forms:
+  - text: ҡӏари кабигара
+    gloss: pfv
+  - text: ҡӏари кабижив
+    gloss: pret
+  - text: ҡӏари кабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to guard
+      ru: стеречь
+    aliases:
+      en: [watch, over]

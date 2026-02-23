@@ -1,0 +1,17 @@
+id: OjlpdsKo2rBeCgL9JmUo
+headword: бурукӏ
+ipa: buˈrukʼ
+tags: [n]
+forms:
+  - text: бурукӏ
+  - text: буркӏан
+    gloss: obl
+  - text: буркӏме
+    gloss: pl
+definitions:
+  - translation:
+      en: arm
+      ru: передняя конечность
+    tags: [body]
+    aliases:
+      en: [limb]

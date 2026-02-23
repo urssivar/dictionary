@@ -8,7 +8,7 @@ alphabet:
     ipa: b
     type: consonant
   в:
-    ipa: v
+    ipa: β
     type: consonant
   г:
     ipa: ɡ
@@ -35,21 +35,21 @@ alphabet:
     ipa: j
     type: consonant
   к:
-    ipa: k
+    ipa: kʰ
     type: consonant
   кк:
     ipa: kː
     type: consonant
-  кь:
+  кӏ:
     ipa: kʼ
     type: consonant
   ҡ:
-    ipa: q
+    ipa: qʰ
     type: consonant
   ҡҡ:
     ipa: qː
     type: consonant
-  ҡь:
+  ҡӏ:
     ipa: qʼ
     type: consonant
   л:
@@ -62,15 +62,15 @@ alphabet:
     ipa: n
     type: consonant
   о:
-    ipa: o
+    ipa: ʷa
     type: vowel
   п:
-    ipa: p
+    ipa: pʰ
     type: consonant
   пп:
     ipa: pː
     type: consonant
-  пь:
+  пӏ:
     ipa: pʼ
     type: consonant
   р:
@@ -80,12 +80,12 @@ alphabet:
     ipa: s
     type: consonant
   т:
-    ipa: t
+    ipa: tʰ
     type: consonant
   тт:
     ipa: tː
     type: consonant
-  ть:
+  тӏ:
     ipa: tʼ
     type: consonant
   у:
@@ -98,21 +98,21 @@ alphabet:
     ipa: x
     type: consonant
   ц:
-    ipa: ts
+    ipa: tsʰ
     type: consonant
   цц:
     ipa: tsː
     type: consonant
-  ць:
+  цӏ:
     ipa: tsʼ
     type: consonant
   ч:
-    ipa: tʃ
+    ipa: tʃʰ
     type: consonant
   чч:
     ipa: tʃː
     type: consonant
-  чь:
+  чӏ:
     ipa: tʃʼ
     type: consonant
   ш:

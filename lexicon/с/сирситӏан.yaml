@@ -1,0 +1,16 @@
+id: LGyGFZMD5c7upddQKAwm
+headword: сирситӏан
+ipa: sirˈsitʼan
+tags: [n]
+forms:
+  - text: сирситӏан
+    gloss: abs
+  - text: сирситӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: flute
+      ru: свирель
+    tags: [tool]
+    aliases:
+      en: [music]

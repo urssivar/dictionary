@@ -1,0 +1,17 @@
+id: dfqq2YzDOlccG54AZR8B
+headword: килтӏана
+ipa: kilˈtʼana
+tags: [v, tr]
+forms:
+  - text: китӏана
+    gloss: pfv
+  - text: китӏун
+    gloss: pret
+  - text: килтӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to setup loom
+      ru: настраивать ковёр
+    aliases:
+      en: [station, prepare, overlay]

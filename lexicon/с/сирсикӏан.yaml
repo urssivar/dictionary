@@ -1,0 +1,16 @@
+id: FIyZUWMnyXbjwPUn1KIT
+headword: сирсикӏан
+ipa: sirˈsikʼan
+tags: [n]
+note:
+  en: "*ситьу чако*"
+forms:
+  - text: сирсикӏан
+    gloss: abs
+  - text: сирсикӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: wagtail
+      ru: трясогузка
+    tags: [animal, bird]

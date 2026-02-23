@@ -1,0 +1,18 @@
+id: IvGqRKKKtXjK4uNJJY85
+headword: чӏале
+ipa: ˈtʃʼale
+tags: [n]
+forms:
+  - text: чӏале
+    gloss: abs
+  - text: чӏалин
+    gloss: obl
+  - text: чӏилме
+    gloss: pl
+definitions:
+  - translation:
+      en: shoot
+      ru: побег
+    tags: [nature]
+    aliases:
+      en: [branch, plant]

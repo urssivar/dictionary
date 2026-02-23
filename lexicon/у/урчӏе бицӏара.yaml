@@ -1,0 +1,17 @@
+id: cl1BxBjKGjBPJL2R4Otp
+headword: урчӏе бицӏара
+ipa: ˌurtʃʼe biˈtsʼara
+tags: [v, ntr]
+forms:
+  - text: урчӏе бацӏара
+    gloss: pfv
+  - text: урчӏе бацӏив
+    gloss: pret
+  - text: урчӏе бицӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be horrified
+      ru: ужасаться
+    aliases:
+      en: [fear]

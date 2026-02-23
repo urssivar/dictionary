@@ -1,0 +1,20 @@
+id: 05T7RuXndhnzYetMSggt
+headword: ҡӏимат
+ipa: qʼiˈmat
+tags: [n, loan, arabic]
+forms:
+  - text: ҡӏимат
+    gloss: abs
+  - text: ҡӏимате
+    gloss: pl
+definitions:
+  - translation:
+      en: grade
+      ru: оценка
+    aliases:
+      en: [rating, assess]
+  - translation:
+      en: cost
+      ru: стоимость
+    aliases:
+      en: [price]

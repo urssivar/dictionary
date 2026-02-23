@@ -1,0 +1,17 @@
+id: Akm8V04LaWbOQoiPFfD2
+headword: ҡӏаҡӏа бирара
+ipa: qʼaˌqʼa biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ҡӏаҡӏа барара
+    gloss: pfv
+  - text: ҡӏаҡӏа барив
+    gloss: pret
+  - text: ҡӏаҡӏа бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to plague
+      ru: досаждать
+    aliases:
+      en: [besiege]

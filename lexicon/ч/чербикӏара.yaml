@@ -1,0 +1,17 @@
+id: wti6YiR47ROgm4g5q8cS
+headword: чербикӏара
+ipa: tʃerbiˈkʼara
+tags: [v, cls, tr]
+forms:
+  - text: чербекӏара
+    gloss: pfv
+  - text: чербечӏив
+    gloss: pret
+  - text: чербикӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to wean
+      ru: отучать
+    aliases:
+      en: [halt, seprate]

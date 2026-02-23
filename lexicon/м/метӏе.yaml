@@ -1,0 +1,22 @@
+id: 9uw8F8mRQ6zXl4256LyN
+headword: метӏе
+ipa: ˈmetʼe
+tags: [n]
+forms:
+  - text: метӏе
+    gloss: abs
+  - text: метӏи
+    gloss: obl
+  - text: метӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: oil
+      ru: масло
+    tags: [food]
+    aliases:
+      en: [ghee]
+    examples:
+      - text: мяйла метӏе
+        translation:
+          en: sunflower oil

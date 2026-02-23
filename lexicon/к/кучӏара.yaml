@@ -1,0 +1,23 @@
+id: Ee7g8MmAmq5rcc68wfKW
+headword: кучӏара
+ipa: kuˈtʃʼara
+tags: [v, cls, ntr]
+note:
+  en: "*черкучьара*"
+forms:
+  - text: кабурчӏара
+    gloss: pfv
+  - text: кабурчӏив
+    gloss: pret
+  - text: кучӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to climb down
+      ru: слезать
+    aliases:
+      en: [dismount]
+    examples:
+      - text: машинцци тта курчӏе
+        translation:
+          en: get off the car

@@ -1,0 +1,17 @@
+id: G0Qd0UhzlKdPyykXXciC
+headword: цалукӏана
+ipa: tsaluˈkʼana
+tags: [v, tr, cls]
+forms:
+  - text: цабелкӏона
+    gloss: pfv
+  - text: цабелкӏун
+    gloss: pret
+  - text: цалукӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to bandage
+      ru: перевязывать
+    aliases:
+      en: [tie]

@@ -1,0 +1,17 @@
+id: KtudF9rlF7BdC4VaZ5Xr
+headword: тӏутӏу бирьора
+ipa: tʼuˌtʼu birˈhora
+tags: [v, ntr, cls]
+forms:
+  - text: тӏутӏу биьора
+    gloss: pfv
+  - text: тӏутӏу биьяв
+    gloss: pret
+  - text: тӏутӏу бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to scatter
+      ru: рассеиваться
+    aliases:
+      en: [disband, break, dissipate]

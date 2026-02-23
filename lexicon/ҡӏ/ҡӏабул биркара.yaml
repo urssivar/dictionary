@@ -1,0 +1,17 @@
+id: tKWG0Y24BXXiRD0DlGl7
+headword: ҡӏабул биркара
+ipa: qʼaˌbul birˈkara
+tags: [v, ntr, cls]
+forms:
+  - text: ҡӏабул бикара
+    gloss: pfv
+  - text: ҡӏабул бичив
+    gloss: pret
+  - text: ҡӏабул биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to agree
+      ru: договариваться
+    aliases:
+      en: [deal]

@@ -1,0 +1,15 @@
+id: bm7zTRjYddCDJvrcBg5t
+headword: лямцӏ ьадирара
+ipa: ˌlæmtsʼ hadiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: лямцӏ ьабарара
+    gloss: pfv
+  - text: лямцӏ ьабарив
+    gloss: pret
+  - text: лямцӏ ьабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lick
+      ru: лизать

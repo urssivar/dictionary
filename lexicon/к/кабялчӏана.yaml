@@ -1,0 +1,17 @@
+id: H7KXnTR7499OqybXJ0HA
+headword: кабялчӏана
+ipa: kabælˈtʃʼana
+tags: [v, tr, cls]
+forms:
+  - text: кабячӏана
+    gloss: pfv
+  - text: кабячӏун
+    gloss: pret
+  - text: кабялчӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: repress
+      ru: подавлять
+    aliases:
+      en: [overpower, supress]

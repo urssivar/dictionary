@@ -1,0 +1,27 @@
+id: dEfPtGMSBObTKPjWLp2A
+headword: анкӏ кабиргара
+ipa: ˌankʼ kabirˈgara
+tags: [v, ntr, cls]
+forms:
+  - text: анкӏ кабиргара
+    gloss: ipfv
+  - text: анкӏ кабижив
+    gloss: pret
+  - text: анкӏ кабигара
+    gloss: pfv
+variants:
+  - text: чибусана
+
+definitions:
+  - translation:
+      en: to doze
+      ru: кимарить
+    aliases:
+      en: [to sleep, to nap]
+      ru: [спать, дремать]
+
+etymology:
+  en: The first element shares a root with *анкьала* "sleep".
+  ru: Первый элемент имеет общий корень с *анкьала* "сон".
+derived_from: ["*анкӏ", кабиргара]
+see_also: [анкӏала]

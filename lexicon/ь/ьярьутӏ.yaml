@@ -1,0 +1,20 @@
+id: My8qbv9HT83LovVpQ65W
+headword: ьярьутӏ
+ipa: hærˈhutʼ
+tags: [n]
+etymology:
+  en: From *ьярья* "bullet".
+note:
+  en: "*ҡҡаннуть*"
+forms:
+  - text: ьярьутӏ
+    gloss: abs
+  - text: ьярьутӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: sling
+      ru: праща
+    tags: [tool]
+    aliases:
+      en: [shot]

@@ -1,0 +1,22 @@
+id: pJeBYaAQx58xyvTRhJeH
+headword: ниҡӏи
+ipa: niˈqʼi
+tags: [n]
+note:
+  en: |-
+    *наҡьай*
+    *кацьи*
+forms:
+  - text: ниҡӏи
+    gloss: abs
+  - text: ниҡӏин
+    gloss: obl
+  - text: ниҡӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: puppy
+      ru: щенок
+    tags: [animal]
+    aliases:
+      en: [dog]

@@ -1,0 +1,17 @@
+id: B2w3vPVneA8YfyJuBaJO
+headword: ғуртӏум бирара
+ipa: ʁurˌtʼum biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ғуртӏум барара
+    gloss: pfv
+  - text: ғуртӏум барив
+    gloss: pret
+  - text: ғуртӏум бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rinse
+      ru: прополаскивать
+    aliases:
+      en: [wash, clean]

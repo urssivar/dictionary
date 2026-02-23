@@ -1,0 +1,19 @@
+id: aPHd8dnDbMRQaUFv8N6m
+headword: зупӏ ьабирара
+ipa: ˌzupʼ habiˈrara
+tags: [v, tr, cls]
+note:
+  en: "*супь ~*"
+forms:
+  - text: зупӏ ьабарара
+    gloss: pfv
+  - text: зупӏ ьабарив
+    gloss: pret
+  - text: зупӏ ьабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to suck out
+      ru: высасывать
+    aliases:
+      en: [dry]

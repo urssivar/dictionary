@@ -1,0 +1,18 @@
+id: EhH6WyS8IVy82FaDAvGk
+headword: пӏаҡӏа
+ipa: pʼaˈqʼa
+tags: [n]
+forms:
+  - text: пӏаҡӏа
+    gloss: abs
+  - text: пӏаҡӏан
+    gloss: obl
+  - text: пӏиҡӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: spool
+      ru: катушка
+    tags: [tool]
+    aliases:
+      en: [coil, reel]

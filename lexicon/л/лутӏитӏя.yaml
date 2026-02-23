@@ -1,0 +1,20 @@
+id: 73LbXHbswkaUFgccpCgO
+headword: лутӏитӏя
+ipa: lutʼiˈtʼæ
+tags: [n]
+etymology:
+  en: Lit. *sole-leg*.
+forms:
+  - text: лутӏитӏя
+    gloss: abs
+  - text: лутӏитӏял
+    gloss: obl
+  - text: лутӏитӏяме
+    gloss: pl
+definitions:
+  - translation:
+      en: foot
+      ru: стопа
+    tags: [body]
+    aliases:
+      en: [sole, leg]

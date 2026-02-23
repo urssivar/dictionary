@@ -1,0 +1,20 @@
+id: HJlKxoItfcgmh8wh0Ucy
+headword: балтӏа
+ipa: ˈbaltʼa
+tags: [n, vb]
+etymology:
+  en: From *лутьана* "to pluck".
+forms:
+  - text: балтӏа
+    gloss: abs
+  - text: балтӏан
+    gloss: obl
+  - text: балтӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: clearing
+      ru: поляна
+    tags: [nature]
+    aliases:
+      en: [glade]

@@ -1,0 +1,19 @@
+id: BA8gDMGfjdqKYK7enABG
+headword: кӏиме дирара
+ipa: kʼiˌme diˈrara
+tags: [v, tr]
+etymology:
+  en: The first part is pl. of *кьа* "talisman".
+forms:
+  - text: кӏиме дарара
+    gloss: pfv
+  - text: кӏиме дарив
+    gloss: pret
+  - text: кӏиме дирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to witch
+      ru: порча
+    aliases:
+      en: [sorcery]

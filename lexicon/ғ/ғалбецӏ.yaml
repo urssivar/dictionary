@@ -1,0 +1,18 @@
+id: FRhf3W7kwYXkGHVtGVQp
+headword: ғалбецӏ
+ipa: ʁalˈbetsʼ
+tags: [n]
+etymology:
+  en: From *бець* "wolf", the part *ғал* is unclear.
+forms:
+  - text: ғалбецӏ
+    gloss: abs
+  - text: ғалбецӏи
+    gloss: obl
+  - text: ғалбицӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: lion
+      ru: лев
+    tags: [animal]

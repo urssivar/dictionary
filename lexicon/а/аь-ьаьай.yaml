@@ -11,7 +11,7 @@ definitions:
       en: [what the hell, wtf, geez]
       ru: [блин]
     examples:
-      - text: Аь-ьаьай, ижин ди пинцьа!
+      - text: Аь-ьаьай, ижин ди пинцӏа!
         translation:
           en: Dammit, all this trash!
           ru: Ничего себе, сколько здесь мусора!

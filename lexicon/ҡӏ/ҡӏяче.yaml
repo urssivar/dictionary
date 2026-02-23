@@ -1,0 +1,18 @@
+id: 8BCgKarjLhzkYsYPIdpU
+headword: ҡӏяче
+ipa: ˈqʼætʃe
+tags: [n]
+note:
+  en: "*жяжне*"
+forms:
+  - text: ҡӏяче
+    gloss: abs
+  - text: ҡӏячин
+    gloss: obl
+definitions:
+  - translation:
+      en: mucus
+      ru: слизь
+    tags: [body]
+    aliases:
+      en: [slime]

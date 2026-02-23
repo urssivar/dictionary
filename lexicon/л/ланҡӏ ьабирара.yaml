@@ -1,0 +1,17 @@
+id: cdecCeBPb1Y0g49u1KKI
+headword: ланҡӏ ьабирара
+ipa: ˌlanqʼ habiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ланҡӏ ьабарара
+    gloss: pfv
+  - text: ланҡӏ ьабарив
+    gloss: pret
+  - text: ланҡӏ ьабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lap up
+      ru: лакать
+    aliases:
+      en: [drink, lick]

@@ -1,0 +1,16 @@
+id: wv6XIsTYhmLwpAoUUep4
+headword: пинцӏур
+ipa: pinˈtsʼur
+tags: [n]
+forms:
+  - text: пинцӏур
+    gloss: abs
+  - text: пинцӏурте
+    gloss: pl
+definitions:
+  - translation:
+      en: finch
+      ru: зяблик
+    tags: [animal, bird]
+    aliases:
+      en: [chaffinch]

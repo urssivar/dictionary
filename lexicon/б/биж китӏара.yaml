@@ -1,0 +1,17 @@
+id: 1aiO3GVrEae1XwqpFTBz
+headword: биж китӏара
+ipa: ˌbiʒ kiˈtʼara
+tags: [v, tr, cls]
+forms:
+  - text: биж катӏара
+    gloss: pfv
+  - text: биж катӏив
+    gloss: pret
+  - text: биж китӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pour in
+      ru: вливать
+    aliases:
+      en: [infuse]

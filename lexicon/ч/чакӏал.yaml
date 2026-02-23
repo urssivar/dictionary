@@ -1,0 +1,16 @@
+id: OBCjRpAAoV401pfhkZo5
+headword: чакӏал
+ipa: ˈtʃakʼal
+tags: [n]
+etymology:
+  en: From *ча* "who" + *кьал*, cf. *цикьал* "thing".
+definitions:
+  - translation:
+      en: individual
+      ru: некто, персона
+    aliases:
+      en: [certain, person]
+    examples:
+      - text: чакӏал вел у?
+        translation:
+          en: is there still someone?

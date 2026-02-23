@@ -1,0 +1,15 @@
+id: iz55Mbanvfeq9TzFlsiI
+headword: ахтукӏле
+ipa: aχˈtukʼle
+tags: [n, pl]
+
+definitions:
+  - translation:
+      en: sputum
+      ru: мокрота
+    tags: [body]
+    aliases:
+      en: [phlegm]
+      ru: [слизь]
+
+derived_from: [ту]

@@ -1,0 +1,16 @@
+id: aW6dF4KJIZJa2TOKlmFX
+headword: тӏутӏар
+ipa: tʼuˈtʼar
+tags: [n]
+note:
+  en: "*хвя тьутьар*"
+forms:
+  - text: тӏутӏар
+    gloss: abs
+  - text: тӏутӏре
+    gloss: pl
+definitions:
+  - translation:
+      en: fly
+      ru: муха
+    tags: [animal, insect]

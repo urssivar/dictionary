@@ -1,0 +1,18 @@
+id: dFgFnx9p8YJrZo7QP0xl
+headword: арцӏе
+ipa: ˈartsʼe
+tags: [n, vb]
+forms:
+  - text: арцӏе
+    gloss: abs
+  - text: арцӏин
+    gloss: obl
+
+definitions:
+  - translation:
+      en: weed
+      ru: сорняки
+    tags: [agriculture, plant]
+
+derived_from: [ирцӏара]
+see_also: [арше]

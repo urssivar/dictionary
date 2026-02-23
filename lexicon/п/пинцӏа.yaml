@@ -1,0 +1,20 @@
+id: POzDLbt1EDeDS6mNRg3V
+headword: пинцӏа
+ipa: ˈpintsʼa
+tags: [n, adj]
+forms:
+  - text: пинцӏа
+    gloss: abs
+  - text: пинцӏан
+    gloss: obl
+definitions:
+  - translation:
+      en: garbage
+      ru: мусор
+    aliases:
+      en: [trash]
+  - translation:
+      en: messy
+      ru: грязный
+    aliases:
+      en: [dirty]

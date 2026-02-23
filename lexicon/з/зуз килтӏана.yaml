@@ -1,0 +1,17 @@
+id: wF0JPz21Kn67FHE28WSf
+headword: зуз килтӏана
+ipa: ˌzuz kilˈtʼana
+tags: [v, tr]
+forms:
+  - text: зуз китӏана
+    gloss: pfv
+  - text: зуз китӏун
+    gloss: pret
+  - text: зуз килтӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tug
+      ru: тягать
+    aliases:
+      en: [tow, haul]

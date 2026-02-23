@@ -1,0 +1,24 @@
+id: P2HavzEU5kfbFlSFdtdm
+headword: алтӏана
+ipa: alˈtʼana
+tags: [v, ntr]
+forms:
+  - text: алтӏана
+    gloss: ipfv
+  - text: атӏун
+    gloss: pret
+  - text: атӏана
+    gloss: pfv
+
+definitions:
+  - translation:
+      en: to stick
+      ru: втыкаться
+    aliases:
+      en: [prick, pierce]
+      ru: [уколоть, проткнуть]
+    examples:
+      - text: Тьуппуцци чахул атӏун.
+        translation:
+          en: A thorn stuck into finger.
+          ru: Колючка воткнулась в палец.

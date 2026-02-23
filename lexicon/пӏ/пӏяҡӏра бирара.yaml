@@ -1,0 +1,17 @@
+id: ylxDYNXpJ7KaTZladibe
+headword: пӏяҡӏра бирара
+ipa: pʼæqʼˌra biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: пӏяҡӏра барара
+    gloss: pfv
+  - text: пӏяҡӏра барив
+    gloss: pret
+  - text: пӏяҡӏра бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to whack
+      ru: колотить
+    aliases:
+      en: [beat, hit, pound]

@@ -1,0 +1,18 @@
+id: BQXuMmXk9S9bqNPKwNYG
+headword: биркӏам
+ipa: birˈkʼam
+tags: [n, vb]
+etymology:
+  en: Likely related to *кабикьара* "to lock".
+forms:
+  - text: биркӏам
+    gloss: abs
+  - text: биркӏме
+    gloss: pl
+definitions:
+  - translation:
+      en: limb
+      ru: конечность
+    tags: [body]
+    aliases:
+      en: [part, connection]

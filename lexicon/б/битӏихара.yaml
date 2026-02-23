@@ -1,0 +1,19 @@
+id: tS78kxyx4DE5GmA0ThZh
+headword: битӏихара
+ipa: bitʼiˈχara
+tags: [v, ntr, cls]
+note:
+  en: "*чибитьара*"
+forms:
+  - text: бетӏихара
+    gloss: pfv
+  - text: бетӏихив
+    gloss: pret
+  - text: битӏихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to annoy
+      ru: надоедать
+    aliases:
+      en: [bother]

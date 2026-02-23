@@ -1,0 +1,17 @@
+id: 4amsAhMgyiu9DlhHOrEx
+headword: цабувцӏана
+ipa: tsabuvˈtsʼana
+tags: [v, ntr, cls]
+forms:
+  - text: цабевцӏана
+    gloss: pfv
+  - text: цабевцӏун
+    gloss: pret
+  - text: цабувцӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to activate
+      ru: активизироваться
+    aliases:
+      en: [turn, "on"]

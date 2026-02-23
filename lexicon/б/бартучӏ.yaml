@@ -1,0 +1,18 @@
+id: qI51hJSM3IWCp6traDxA
+headword: бартучӏ
+ipa: barˈtutʃʼ
+tags: [n]
+etymology:
+  en: ST2008
+forms:
+  - text: бартучӏ
+    gloss: abs
+  - text: бартучӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: bearing
+      ru: крутящийся элемент, подшипник (?)
+    tags: [tool]
+    aliases:
+      en: [hinge]

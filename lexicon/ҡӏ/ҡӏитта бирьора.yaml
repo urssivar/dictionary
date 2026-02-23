@@ -1,0 +1,17 @@
+id: FOW3p06JHQmO1T1tRO0B
+headword: ҡӏитта бирьора
+ipa: ˌqʼitːa birˈhora
+tags: [v, ntr, cls]
+forms:
+  - text: ҡӏитта биьора
+    gloss: pfv
+  - text: ҡӏитта биьяв
+    gloss: pret
+  - text: ҡӏитта бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to confront
+      ru: противостоять
+    aliases:
+      en: [conflict, war]

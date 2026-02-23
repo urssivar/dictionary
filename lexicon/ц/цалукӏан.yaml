@@ -1,0 +1,16 @@
+id: JMC4baKNr17L6PP9xKrU
+headword: цалукӏан
+ipa: tsaluˈkʼan
+tags: [n, vb]
+forms:
+  - text: цалукӏан
+    gloss: abs
+  - text: цалукӏанил
+    gloss: obl
+  - text: цалукӏанте
+    gloss: pl
+definitions:
+  - translation:
+      en: bandage
+      ru: повязка
+    tags: [tool]

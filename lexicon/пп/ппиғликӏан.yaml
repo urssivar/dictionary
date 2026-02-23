@@ -1,0 +1,18 @@
+id: M1PPp3fOYPAcKKbxHnwo
+headword: ппиғликӏан
+ipa: pːiʁliˈkʼan
+tags: [n]
+note:
+  en: "*пиғиллив*"
+forms:
+  - text: ппиғликӏан
+    gloss: abs
+  - text: ппиғликӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: harmonica
+      ru: зубная гармошка
+    tags: [tool]
+    aliases:
+      en: [flute, mouth, organ]

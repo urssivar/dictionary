@@ -1,0 +1,18 @@
+id: z43h6dKLyRl55AzSBGwE
+headword: сатӏакӏ
+ipa: saˈtʼakʼ
+tags: [n]
+note:
+  en: "*сядякь*"
+forms:
+  - text: сатӏакӏ
+    gloss: abs
+  - text: сатӏакӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: cleaver
+      ru: тесак
+    tags: [tool, warfare]
+    aliases:
+      en: [knife, axe]

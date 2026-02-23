@@ -1,0 +1,19 @@
+id: RX5o3EyXrhSkZAW1N4is
+headword: ҡӏасе
+ipa: ˈqʼasːe
+tags: [n]
+forms:
+  - text: ҡӏасе
+    gloss: abs
+  - text: ҡӏасирбе
+    gloss: pl
+definitions:
+  - translation:
+      en: bench
+      ru: скамейка
+  - translation:
+      en: shelf
+      ru: полка
+    tags: [nature]
+    aliases:
+      en: [level]

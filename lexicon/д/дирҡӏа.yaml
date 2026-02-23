@@ -1,0 +1,18 @@
+id: 9oUNFZxWLPu1sTFJGiDT
+headword: дирҡӏа
+ipa: dirˈqʼa
+tags: [n]
+forms:
+  - text: дирҡӏа
+    gloss: abs
+  - text: дирҡӏан
+    gloss: loc
+  - text: дирҡӏме
+    gloss: pl
+definitions:
+  - translation:
+      en: flatland
+      ru: равнина
+    tags: [nature]
+    aliases:
+      en: [plain]

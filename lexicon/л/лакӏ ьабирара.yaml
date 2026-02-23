@@ -1,0 +1,17 @@
+id: 7aSOOnX8uYoLBmJU52nr
+headword: лакӏ ьабирара
+ipa: ˌlakʼ habiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: лакӏ ьабарара
+    gloss: pfv
+  - text: лакӏ ьабарив
+    gloss: pret
+  - text: лакӏ ьабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to toss
+      ru: подбрасывать
+    aliases:
+      en: [throw]

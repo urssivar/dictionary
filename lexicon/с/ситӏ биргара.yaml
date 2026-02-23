@@ -1,0 +1,19 @@
+id: cRFsSkAEUzsthWDrwKO2
+headword: ситӏ биргара
+ipa: ˌsitʼ birˈgara
+tags: [v, ntr, cls]
+note:
+  en: "*чьичь ~*"
+forms:
+  - text: ситӏ бигара
+    gloss: pfv
+  - text: ситӏ бижив
+    gloss: pret
+  - text: ситӏ биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to germinate
+      ru: распускаться, прорастать
+    aliases:
+      en: [sprout, grow]

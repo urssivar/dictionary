@@ -1,0 +1,19 @@
+id: AUOhdPAZFp9TBqeYfzBx
+headword: янтӏи ьабартара
+ipa: ænˌtʼi habarˈtara
+tags: [v, cls, tr]
+note:
+  en: The nominal part is unclear
+forms:
+  - text: янтӏи ьабатара
+    gloss: pfv
+  - text: янтӏи ьабатур
+    gloss: pret
+  - text: янтӏи ьабартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pamper
+      ru: баловать
+    aliases:
+      en: [indulge, spoil]

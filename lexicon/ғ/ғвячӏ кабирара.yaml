@@ -1,0 +1,20 @@
+id: rFXFHHO4a9vdeafbgVaK
+headword: ғвячӏ кабирара
+ipa: ˌʁʷætʃʼ kabiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ғвячӏ кабарара
+    gloss: pfv
+  - text: ғвячӏ кабарив
+    gloss: pret
+  - text: ғвячӏ кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dunk
+      ru: окунать, макать
+    aliases:
+      en: [dip]
+  - translation:
+      en: to press (a button)
+      ru: нажимать

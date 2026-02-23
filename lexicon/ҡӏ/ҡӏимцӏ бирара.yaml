@@ -1,0 +1,17 @@
+id: W5kW9yGavJZ9gjloL2Sx
+headword: ҡӏимцӏ бирара
+ipa: ˌqʼimtsʼ biˈrara
+tags: [v, cls, tr]
+forms:
+  - text: ҡӏимцӏ барара
+    gloss: pfv
+  - text: ҡӏимцӏ барив
+    gloss: pret
+  - text: ҡӏимцӏ бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cut with scissors
+      ru: резать ножницами
+    aliases:
+      en: [snip, snap, cut]

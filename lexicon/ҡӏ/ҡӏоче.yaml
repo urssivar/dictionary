@@ -1,0 +1,18 @@
+id: MP1Ui4Xzh9OFNjSsPTHR
+headword: ҡӏоче
+ipa: ˈqʼotʃe
+tags: [n]
+forms:
+  - text: ҡӏоче
+    gloss: abs
+  - text: ҡӏочин
+    gloss: obl
+  - text: ҡӏочме
+    gloss: pl
+definitions:
+  - translation:
+      en: braid
+      ru: косичка
+    tags: [body]
+    aliases:
+      en: [hair]

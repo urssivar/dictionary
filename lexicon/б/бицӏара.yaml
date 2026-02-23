@@ -1,0 +1,22 @@
+id: jmaFJD3TUc0aLERIPefW
+headword: бицӏара
+ipa: biˈtsʼara
+tags: [v, cls, ntr]
+forms:
+  - text: бацӏара
+    gloss: pfv
+  - text: бацӏив
+    gloss: pret
+  - text: бицӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dissolve
+      ru: растворяться
+    aliases:
+      en: [melt]
+  - translation:
+      en: to melt
+      ru: плавиться, таять
+    aliases:
+      en: [thaw]

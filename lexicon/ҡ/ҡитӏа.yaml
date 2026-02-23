@@ -1,0 +1,18 @@
+id: ROSHaNjtGlOQleiQ3IKL
+headword: ҡитӏа
+ipa: ˈqitʼa
+tags: [n]
+forms:
+  - text: ҡитӏа
+    gloss: abs
+  - text: ҡитӏан
+    gloss: obl
+  - text: ҡитӏме
+    gloss: pl
+definitions:
+  - translation:
+      en: stump
+      ru: пень
+    tags: [nature]
+    aliases:
+      en: [stub]

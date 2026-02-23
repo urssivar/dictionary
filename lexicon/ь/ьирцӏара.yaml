@@ -1,0 +1,17 @@
+id: HqoE5puHLWsQUOuau24e
+headword: ьирцӏара
+ipa: hirˈtsʼara
+tags: [v, tr, cls]
+forms:
+  - text: ьицӏара
+    gloss: pfv
+  - text: ьицӏив
+    gloss: pret
+  - text: ьирцӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to scoop
+      ru: черпать
+    aliases:
+      en: [draw, ladle]

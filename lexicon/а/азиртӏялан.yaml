@@ -1,0 +1,20 @@
+id: dCXsw84KT66fDmQflGTs
+headword: азиртӏялан
+ipa: azirtʼæˈlan
+tags: [n]
+forms:
+  - text: азиртӏялан
+    gloss: abs
+  - text: азиртӏяланте
+    gloss: pl
+variants:
+  - text: азиртӏя
+  - text: даршал тӏимяр
+
+definitions:
+  - translation:
+      en: centipede
+      ru: многоножка
+    tags: [animal, insect]
+
+derived_from: [тӏя, азир]

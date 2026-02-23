@@ -1,0 +1,18 @@
+id: v66753LFtEwqL8Obz0bg
+headword: туснукӏ
+ipa: tusˈnukʼ
+tags: [n]
+note:
+  en: "*пуснукь*, *тусуьяр*"
+forms:
+  - text: туснукӏ
+    gloss: abs
+  - text: туснукӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: cockroach
+      ru: таракан
+    tags: [nature, animal, insect]
+    aliases:
+      en: [bug, beetle]

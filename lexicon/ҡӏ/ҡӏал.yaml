@@ -1,0 +1,21 @@
+id: rYe6HgIxqxbpROhw3xWx
+headword: ҡӏал
+ipa: ˈqʼal
+tags: [intj]
+note:
+  en: '*ҡьали*'
+definitions:
+  - note:
+      en: Expresses assurance.
+    translation:
+      en: surely
+      ru: ведь
+    aliases:
+      en: [of, course, indeed]
+    examples:
+      - text: вярунда кӏал
+        translation:
+          en: surely i went
+      - text: ьел ҡӏал
+        translation:
+          en: this is indeed

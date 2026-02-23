@@ -1,0 +1,17 @@
+id: fgQylcENK1qxoJLt0ue3
+headword: цӏяв ьабирчихара
+ipa: ˌtsʼæv habirtʃiˈχara
+tags: [v, cls, tr]
+forms:
+  - text: цӏяв ьабичихара
+    gloss: abs
+  - text: цӏяв ьабичихив
+    gloss: obl
+  - text: цӏяв ьабирчихара
+    gloss: pl
+definitions:
+  - translation:
+      en: to bleach
+      ru: белить
+    aliases:
+      en: [white]

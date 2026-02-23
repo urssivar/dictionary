@@ -1,0 +1,15 @@
+id: vJpWKFUHxVzvtVzKV1MK
+headword: патӏран
+ipa: patʼˈran
+tags: [n, loan, russian]
+forms:
+  - text: патӏран
+    gloss: abs
+  - text: патӏранте
+    gloss: pl
+definitions:
+  - translation:
+      en: cartridge
+      ru: патрон
+    aliases:
+      en: [bullet, ammo, holder, socket]

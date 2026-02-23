@@ -1,0 +1,17 @@
+id: MNhD2TuQGKzSM1sKe19R
+headword: кӏукӏ кабиргара
+ipa: ˌkʼukʼ kabirˈgara
+tags: [v, tr, cls]
+forms:
+  - text: кӏукӏ кабигара
+    gloss: pfv
+  - text: кӏукӏ кабижив
+    gloss: pret
+  - text: кӏукӏ кабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to squat
+      ru: приседать
+    aliases:
+      en: [sit, low]

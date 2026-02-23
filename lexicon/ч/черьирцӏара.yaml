@@ -1,0 +1,17 @@
+id: bIejoVvuLUCbrlixhXfq
+headword: черьирцӏара
+ipa: tʃerhirˈtsʼara
+tags: [v, tr, cls]
+forms:
+  - text: черьицӏара
+    gloss: pfv
+  - text: черьицӏив
+    gloss: pret
+  - text: черьирцӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to subtract
+      ru: отбавлять
+    aliases:
+      en: [low]

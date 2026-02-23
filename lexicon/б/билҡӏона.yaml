@@ -1,0 +1,19 @@
+id: MbTwST1fQdSeZXzTZloM
+headword: билҡӏона
+ipa: bilˈqʼona
+tags: [v, cls, ntr]
+note:
+  en: Unusual inf. difference between the aspects.
+forms:
+  - text: биҡӏора
+    gloss: pfv
+  - text: биҡӏур
+    gloss: pret
+  - text: билҡӏона
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to mature
+      ru: зреть
+    aliases:
+      en: [grow, ripe]

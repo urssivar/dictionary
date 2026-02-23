@@ -1,0 +1,21 @@
+id: uDkz3MIVvri8wQ21jfjY
+headword: ҡӏабул бирара
+ipa: qʼaˌbul biˈrara
+tags: [v, tr, cls, loan, arabic]
+forms:
+  - text: ҡӏабул барара
+    gloss: pfv
+  - text: ҡӏабул барив
+    gloss: pret
+  - text: ҡӏабул бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to accept
+      ru: принимать
+    aliases:
+      en: [agree, take]
+    examples:
+      - text: аллаьли ҡӏабул барав
+        translation:
+          en: may god accept

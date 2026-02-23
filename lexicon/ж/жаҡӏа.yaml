@@ -1,0 +1,21 @@
+id: hDEEMG5Q33mS0tR7mh6X
+headword: жаҡӏа
+ipa: ˈʒaqʼa
+tags: [n]
+forms:
+  - text: жаҡӏа
+    gloss: abs
+  - text: жиҡӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: boar
+      ru: кабан
+    tags: [animal]
+    examples:
+      - text: wild board
+        translation:
+          en: цунҡҡа жаҡьа
+  - translation:
+      en: pig
+      ru: свинья

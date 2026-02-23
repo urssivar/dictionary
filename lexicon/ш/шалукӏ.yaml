@@ -1,0 +1,18 @@
+id: UlJ2ipvwHsx0OCVujVdw
+headword: шалукӏ
+ipa: ʃaˈlukʼ
+tags: [n]
+note:
+  en: "*ваҡҡа бекӏ*"
+forms:
+  - text: шалукӏ
+    gloss: abs
+  - text: шалукӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: tadpole
+      ru: головастик
+    tags: [nature, animal]
+    aliases:
+      en: [frog]

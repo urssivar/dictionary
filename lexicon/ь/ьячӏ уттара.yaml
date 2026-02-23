@@ -1,0 +1,17 @@
+id: 3uWhBCBGSaeyK32VrdtK
+headword: ьячӏ уттара
+ipa: ˌhætʃʼ uˈtːara
+tags: [v, ntr, cls]
+forms:
+  - text: ьячӏ берттара
+    gloss: pfv
+  - text: ьячӏ берттив
+    gloss: pret
+  - text: ьячӏ уттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to slip
+      ru: подскальзываться
+    aliases:
+      en: [slide, fall]

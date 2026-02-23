@@ -1,0 +1,17 @@
+id: j7K0PbmL1jtSOb3yMxos
+headword: черикӏ ьабирара
+ipa: tʃeˌrikʼ habiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: черикӏ ьабарара
+    gloss: pfv
+  - text: черикӏ ьабарив
+    gloss: pret
+  - text: черикӏ ьабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to elect
+      ru: избирать
+    aliases:
+      en: [select]

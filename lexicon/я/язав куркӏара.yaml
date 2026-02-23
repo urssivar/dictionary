@@ -1,0 +1,15 @@
+id: OszL3cE97cjaJkn6ZOXH
+headword: язав куркӏара
+ipa: æˌzav kurˈkʼara
+tags: [v, cls, tr]
+forms:
+  - text: язав каберкӏора
+    gloss: pfv
+  - text: язав каберчӏив
+    gloss: pret
+  - text: язав карукӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to torture
+      ru: пытать

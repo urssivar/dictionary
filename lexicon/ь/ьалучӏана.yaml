@@ -1,0 +1,17 @@
+id: BUW1OlyeZKiJ7mHzfZjQ
+headword: ьалучӏана
+ipa: haluˈtʃʼana
+tags: [v, tr, cls]
+forms:
+  - text: ьабелчӏана
+    gloss: pfv
+  - text: ьабелчӏун
+    gloss: pret
+  - text: ьалучӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to think up
+      ru: сочинять
+    aliases:
+      en: [compose, write, come]

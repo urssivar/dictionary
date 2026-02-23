@@ -1,0 +1,19 @@
+id: 07WAJzIhKufdUMHNYBpt
+headword: иҡӏяра
+ipa: iˈqʼæra
+tags: [v, tr]
+forms:
+  - text: иҡӏяв
+    gloss: pret
+  - text: иҡӏяра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to quench
+      ru: утолять
+    aliases:
+      en: [satisfy]
+    examples:
+      - text: мирже иҡӏяв
+        translation:
+          en: quenched thirst

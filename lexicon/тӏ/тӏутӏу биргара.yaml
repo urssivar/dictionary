@@ -1,0 +1,17 @@
+id: nmR8lGMQhXrxuiuQiGGp
+headword: тӏутӏу биргара
+ipa: tʼuˌtʼu birˈgara
+tags: [v, ntr, cls]
+forms:
+  - text: тӏутӏу бигара
+    gloss: pfv
+  - text: тӏутӏу бижив
+    gloss: pret
+  - text: тӏутӏу биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to spill out
+      ru: высыпываться
+    aliases:
+      en: [scatter]

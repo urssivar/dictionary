@@ -1,0 +1,17 @@
+id: rjMVqr6LmPfH6yZCKGM8
+headword: хуцӏ кабирара
+ipa: ˌχutsʼ kabiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: хуцӏ кабарара
+    gloss: pfv
+  - text: хуцӏ кабарив
+    gloss: pret
+  - text: хуцӏ кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cut up
+      ru: стругать
+    aliases:
+      en: [slice, shave]

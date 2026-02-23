@@ -1,0 +1,18 @@
+id: 6EWXZH2CHXgLolLa5X1Q
+headword: нитӏ
+ipa: ˈnitʼ
+tags: [n]
+note:
+  en: There's also some kind of dragonfly called *нетьнетьи*.
+forms:
+  - text: нитӏ
+    gloss: abs
+  - text: нитӏбе
+    gloss: pl
+definitions:
+  - translation:
+      en: nit
+      ru: гнида
+    tags: [animal, insect]
+    aliases:
+      en: [crum, head, louse]

@@ -1,0 +1,17 @@
+id: 1QegvWzfSPQliFYyYdEz
+headword: тӏяҡӏ уттара
+ipa: ˌtʼæqʼ uˈtːara
+tags: [v, ntr, cls]
+forms:
+  - text: тӏяҡӏ берттара
+    gloss: pfv
+  - text: тӏяҡӏ берттив
+    gloss: pret
+  - text: тӏяҡӏ уттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shatter
+      ru: разбиваться
+    aliases:
+      en: [break, collapse]

@@ -1,0 +1,21 @@
+id: Qahhdtfs2SAkSLAyjGVV
+headword: янкӏ
+ipa: ˈænkʼ
+tags: [n]
+note:
+  en: "*лугмес*"
+forms:
+  - text: янкӏ
+    gloss: abs
+  - text: янкӏре
+    gloss: pl
+definitions:
+  - translation:
+      en: gum
+      ru: жвачка
+    aliases:
+      en: [chew]
+  - translation:
+      en: wood resin
+      ru: древесная смола
+    tags: [nature]

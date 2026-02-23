@@ -1,0 +1,18 @@
+id: aK6C2qvj5m1MBHACBGNe
+headword: иркӏла
+ipa: ˈirkʼla
+tags: [n]
+forms:
+  - text: иркӏла
+    gloss: abs
+  - text: иркӏлан
+    gloss: obl
+  - text: иркӏлуме
+    gloss: pl
+definitions:
+  - translation:
+      en: drawknife
+      ru: скобель
+    tags: [tool]
+    aliases:
+      en: [scraper]

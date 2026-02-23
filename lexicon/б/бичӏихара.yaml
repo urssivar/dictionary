@@ -1,0 +1,18 @@
+id: KfB4ZhLCkKBPvr4kZMST
+headword: бичӏихара
+ipa: bitʃʼiˈχara
+tags: [v, cls, tr]
+forms:
+  - text: бачӏихара
+    gloss: pfv
+  - text: бачӏихив
+    gloss: pret
+  - text: бичӏихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cultivate
+      ru: выращивать
+    tags: [agriculture]
+    aliases:
+      en: [grow]

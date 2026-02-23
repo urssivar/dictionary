@@ -1,0 +1,26 @@
+id: RlOX97Q8yrseVDp8hyJ1
+headword: бекӏ бирара
+ipa: ˌbekʼ biˈrara
+tags: [v, cls, tr]
+etymology:
+  en: Lit. "to do head".
+forms:
+  - text: бекӏ барара
+    gloss: pfv
+  - text: бекӏ барив
+    gloss: pret
+  - text: бекӏ бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sort out
+      ru: разбираться
+    aliases:
+      en: [resolve]
+    examples:
+      - text: ила уршила бекӏ дара
+        translation:
+          en: sort things out with your son
+      - text: дила белчӏутте бекӏ барил да
+        translation:
+          en: i've sorted out my education

@@ -1,0 +1,27 @@
+id: 1viaX85hW0Xdt0fwo9LG
+headword: чӏала
+ipa: ˈtʃʼala
+tags: [n]
+forms:
+  - text: чӏала
+    gloss: abs
+  - text: чӏалан
+    gloss: obl
+  - text: чӏиле
+    gloss: pl
+definitions:
+  - translation:
+      en: spoke
+      ru: спица
+    tags: [tool]
+    aliases:
+      en: [needle]
+  - translation:
+      en: lot
+      ru: жребий
+    aliases:
+      en: [chance, ticket]
+  - translation:
+      en: fork
+      ru: филка
+    tags: [tool]

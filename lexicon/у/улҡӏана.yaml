@@ -1,0 +1,17 @@
+id: 0My56hiNRLGhgSe4x9r6
+headword: улҡӏана
+ipa: ulˈqʼana
+tags: [v, ntr]
+forms:
+  - text: алҡӏана
+    gloss: pfv
+  - text: алҡӏун
+    gloss: pret
+  - text: улкӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tingle
+      ru: колоться, болеть
+    aliases:
+      en: [prick, spasm, ache]

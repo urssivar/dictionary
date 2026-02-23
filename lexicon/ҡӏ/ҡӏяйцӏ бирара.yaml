@@ -1,0 +1,17 @@
+id: HIMEcEu5gp2hBkoWEhk4
+headword: ҡӏяйцӏ бирара
+ipa: ˌqʼæjtsʼ biˈrara
+tags: [v, cls, tr]
+forms:
+  - text: ҡӏяйцӏ барара
+    gloss: pfv
+  - text: ҡӏяйцӏ барив
+    gloss: pret
+  - text: ҡӏяйцӏ бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to browse
+      ru: просматривать
+    aliases:
+      en: [search, inspect]

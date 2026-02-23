@@ -1,0 +1,18 @@
+id: ZgNjk4RqdbTV1I8ePjGi
+headword: бирцӏал
+ipa: birˈtsʼal
+tags: [n, vb]
+etymology:
+  en: From *бирцьара* "to fill".
+forms:
+  - text: бирцӏал
+    gloss: abs
+  - text: бирцӏле
+    gloss: pl
+definitions:
+  - translation:
+      en: bandolier
+      ru: газырь
+    tags: [tool]
+    aliases:
+      en: [gazyr]

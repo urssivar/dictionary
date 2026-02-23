@@ -1,0 +1,19 @@
+id: mLMdKtVti1T3PilH7Oow
+headword: цӏикка
+ipa: ˈtsʼikːa
+tags: [n]
+note:
+  en: "*цьукка*"
+forms:
+  - text: цӏикка
+    gloss: abs
+  - text: цӏиккан
+    gloss: obl
+  - text: цӏиккме
+    gloss: pl
+definitions:
+  - translation:
+      en: ember
+      ru: тлеющий уголь
+    aliases:
+      en: [coal, fire]

@@ -1,0 +1,17 @@
+id: u2WJ81ruM0zgwarJDw7d
+headword: дикӏар ьабирара
+ipa: diˌkʼar habiˈrara
+tags: [v, cls, tr]
+forms:
+  - text: дикӏар ьабарара
+    gloss: pfv
+  - text: дикӏар ьабарив
+    gloss: pret
+  - text: дикӏар ьабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to select
+      ru: отбирать
+    aliases:
+      en: [choose, filter]

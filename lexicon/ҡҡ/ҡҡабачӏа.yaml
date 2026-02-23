@@ -1,0 +1,20 @@
+id: 0JezHe4piklOFo3opBDx
+headword: ҡҡабачӏа
+ipa: qːabaˈtʃʼa
+tags: [n]
+note:
+  en: "*хола ьяка*"
+forms:
+  - text: ҡҡабачӏа
+    gloss: abs
+  - text: ҡҡабачӏан
+    gloss: obl
+  - text: ҡҡабачӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: tulup
+      ru: тулуп
+    tags: [clothing]
+    aliases:
+      en: [coat]

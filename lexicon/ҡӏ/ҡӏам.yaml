@@ -1,0 +1,16 @@
+id: 4UUxzKXOTYYFzBQa5yI1
+headword: ҡӏам
+ipa: ˈqʼam
+tags: [n, loan, arabic]
+forms:
+  - text: ҡӏам
+    gloss: abs
+  - text: ҡӏамре
+    gloss: pl
+definitions:
+  - translation:
+      en: ancestor
+      ru: предок
+    tags: [social, kinship]
+    aliases:
+      en: [father]

@@ -1,0 +1,22 @@
+id: RQrBBCPIQPMNvQG7dij8
+headword: ьилтӏана
+ipa: hilˈtʼana
+tags: [v, tr, cls]
+forms:
+  - text: ьитӏана
+    gloss: pfv
+  - text: ьитӏун
+    gloss: pret
+  - text: ьилтӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to record
+      ru: записывать, снимать
+    aliases:
+      en: [picture, shoot]
+  - translation:
+      en: to pull out
+      ru: вырывать
+    aliases:
+      en: [draw]

@@ -1,0 +1,22 @@
+id: NRkUXqytvEGpECaFHbtb
+headword: ҡӏярт
+ipa: ˈqʼært
+tags: [n]
+forms:
+  - text: ҡӏярт
+    gloss: abs
+  - text: ҡӏиртме
+    gloss: pl
+definitions:
+  - translation:
+      en: segment
+      ru: сегмент
+    aliases:
+      en: [part, division]
+  - note:
+      en: Also e.g. half of mustache.
+    translation:
+      en: trouser leg
+      ru: штанина
+    aliases:
+      en: [pant]

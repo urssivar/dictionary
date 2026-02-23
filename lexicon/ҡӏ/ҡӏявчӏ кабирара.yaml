@@ -1,0 +1,17 @@
+id: PZBpeCa4oQIoSyanSOX3
+headword: ҡӏявчӏ кабирара
+ipa: ˌqʼævtʃʼ kabiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ҡӏявчӏ кабарара
+    gloss: pfv
+  - text: ҡӏявчӏ кабарив
+    gloss: pret
+  - text: ҡӏявчӏ кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to break apart
+      ru: разламывать
+    aliases:
+      en: [frangment]

@@ -1,0 +1,17 @@
+id: 5ZIfZJwHOz6ozL6ReG1e
+headword: ҡӏуцӏ биғара
+ipa: ˌqʼutsʼ biˈʁara
+tags: [v, ntr, cls]
+forms:
+  - text: ҡӏуцӏ беғара
+    gloss: pfv
+  - text: ҡӏуцӏ беғив
+    gloss: pret
+  - text: ҡӏуцӏ биғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to resent
+      ru: обижаться
+    aliases:
+      en: [offence]

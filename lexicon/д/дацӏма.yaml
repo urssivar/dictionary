@@ -1,0 +1,16 @@
+id: Q7wD5e4bn2XZ0UY92ffB
+headword: дацӏма
+ipa: ˈdatsʼma
+tags: [n]
+note:
+  en: "*ляьимцьал*"
+forms:
+  - text: дацӏма
+    gloss: abs
+  - text: дацӏмунде
+    gloss: pl
+definitions:
+  - translation:
+      en: mirror
+      ru: зеркало
+    tags: [tool]

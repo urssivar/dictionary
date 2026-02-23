@@ -1,0 +1,14 @@
+id: 6qrkHc5G6tegBq6QlsCL
+headword: кӏарант
+ipa: kʼaˈrant
+tags: [n, loan, russian]
+forms:
+  - text: кӏарант
+    gloss: abs
+  - text: кӏаранте
+    gloss: pl
+definitions:
+  - translation:
+      en: tap
+      ru: крант
+    tags: [tool]

@@ -1,0 +1,17 @@
+id: 097x7UHXbyJ6DxA54z2S
+headword: чибирцӏара
+ipa: tʃibirˈtsʼara
+tags: [v, tr, cls]
+forms:
+  - text: чибицӏара
+    gloss: pfv
+  - text: чибицӏив
+    gloss: pret
+  - text: чибирцӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to replenish
+      ru: пополнять
+    aliases:
+      en: [top, fuel, fill]

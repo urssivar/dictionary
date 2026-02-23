@@ -1,0 +1,17 @@
+id: sQoYa6f8Tgsa97xKGyrg
+headword: чируцӏара
+ipa: tʃiruˈtsʼara
+tags: [v, ntr, cls]
+forms:
+  - text: чиберцӏара
+    gloss: pfv
+  - text: чиберцӏив
+    gloss: pret
+  - text: чируцӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stick
+      ru: прилипать
+    aliases:
+      en: [attach, cling]

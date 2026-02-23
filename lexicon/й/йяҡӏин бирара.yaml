@@ -1,0 +1,17 @@
+id: kDf80yoOnNoTQEecEET3
+headword: йяҡӏин бирара
+ipa: jæˌqʼin biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: йяҡӏин барара
+    gloss: pfv
+  - text: йяҡӏин барив
+    gloss: pret
+  - text: йяҡӏин бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to determine
+      ru: определять, узнавать
+    aliases:
+      en: [specify, learn, detect]

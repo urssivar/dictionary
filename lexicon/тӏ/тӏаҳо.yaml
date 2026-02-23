@@ -1,0 +1,18 @@
+id: LbkQJr1pZSreZg7UxDcU
+headword: тӏаҳо
+ipa: ˈtʼaxo
+tags: [n]
+forms:
+  - text: тӏаҳо
+    gloss: pl
+  - text: тӏаҳон
+    gloss: loc, obl
+  - text: тӏаҳне
+    gloss: pl
+definitions:
+  - translation:
+      en: waterskin
+      ru: бурдюк
+    tags: [tool]
+    aliases:
+      en: [bottle, can]

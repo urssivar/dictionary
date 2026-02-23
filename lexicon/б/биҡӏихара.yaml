@@ -1,0 +1,17 @@
+id: jzB03h8Fnby6peXveDme
+headword: биҡӏихара
+ipa: biqʼiˈχara
+tags: [v, tr, cls]
+forms:
+  - text: баҡӏихара
+    gloss: pfv
+  - text: баҡӏихив
+    gloss: pret
+  - text: биҡӏихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to inform
+      ru: доносить
+    aliases:
+      en: [report]

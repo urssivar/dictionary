@@ -1,0 +1,17 @@
+id: BId7O9nz9GYyjwG29BXq
+headword: гунер китӏара
+ipa: guˌner kiˈtʼara
+tags: [v, tr]
+forms:
+  - text: гунер катӏара
+    gloss: pfv
+  - text: гунер катӏив
+    gloss: pret
+  - text: гунер китӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to drain
+      ru: сливать
+    aliases:
+      en: [pour, leak]

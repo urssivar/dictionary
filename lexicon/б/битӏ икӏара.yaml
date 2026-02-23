@@ -1,0 +1,15 @@
+id: T8Z0eu5QpJO3rp6p9eWr
+headword: битӏ икӏара
+ipa: ˌbitʼ iˈkʼara
+tags: [v, tr, cls]
+forms:
+  - text: битӏ акӏара
+    gloss: pfv
+  - text: битӏ ачӏив
+    gloss: pret
+  - text: битӏ икӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pull
+      ru: тянуть

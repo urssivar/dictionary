@@ -1,0 +1,17 @@
+id: Flnf1Dfa1fkwewV2gp0k
+headword: тӏакӏ уттара
+ipa: ˌtʼakʼ uˈtːara
+tags: [v, ntr, cls]
+forms:
+  - text: тӏакӏ берттара
+    gloss: pfv
+  - text: тӏакӏ берттив
+    gloss: pret
+  - text: тӏакӏ уттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be dumbfounded
+      ru: ошарашиваться
+    aliases:
+      en: [amaze, surprise]

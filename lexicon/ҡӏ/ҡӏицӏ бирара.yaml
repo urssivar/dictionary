@@ -1,0 +1,17 @@
+id: JDj0kzFVuIDyoKJ6i07o
+headword: ҡӏицӏ бирара
+ipa: ˌqʼitsʼ biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ҡӏицӏ барара
+    gloss: pfv
+  - text: ҡӏицӏ барив
+    gloss: pret
+  - text: ҡӏицӏ бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to puncture
+      ru: прокалывать
+    aliases:
+      en: [pierce, prick]

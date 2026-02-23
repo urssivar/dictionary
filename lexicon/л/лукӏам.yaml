@@ -1,0 +1,16 @@
+id: BPOk2cBeUib6KL5kpHKD
+headword: лукӏам
+ipa: luˈkʼam
+tags: [n]
+forms:
+  - text: лукӏам
+    gloss: abs
+  - text: лукӏме
+    gloss: pl
+definitions:
+  - translation:
+      en: bar
+      ru: перекладина
+    tags: [tool]
+    aliases:
+      en: [wood]

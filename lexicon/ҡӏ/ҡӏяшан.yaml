@@ -1,0 +1,16 @@
+id: KdRCf4hDq8BzjI3tMxPO
+headword: ҡӏяшан
+ipa: qʼæˈʃan
+tags: [n]
+forms:
+  - text: ҡӏяшан
+    gloss: abs
+  - text: ҡӏяшанте
+    gloss: pl
+definitions:
+  - translation:
+      en: fetter
+      ru: оковы
+    tags: [tool]
+    aliases:
+      en: [handcuff, chain, shackle, manacle]

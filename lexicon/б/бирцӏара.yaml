@@ -1,0 +1,17 @@
+id: JLIzCWXBKewqiaaDnLCc
+headword: бирцӏара
+ipa: birˈtsʼara
+tags: [v, tr, cls]
+note:
+  en: "*бицьур* (pret)"
+forms:
+  - text: бицӏара
+    gloss: pfv
+  - text: бицӏив
+    gloss: pret
+  - text: бирцӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fill
+      ru: наполнять

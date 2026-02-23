@@ -1,0 +1,17 @@
+id: BdSkO8jMBc5Gadl1ozyU
+headword: тӏаш бирҡяра
+ipa: ˌtʼaʃ birˈqæra
+tags: [v, ntr, cls]
+forms:
+  - text: тӏаш биҡяра
+    gloss: pfv
+  - text: тӏаш биҡив
+    gloss: pret
+  - text: тӏаш бирҡяра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to wait
+      ru: ждать
+    aliases:
+      en: [stop, stay]

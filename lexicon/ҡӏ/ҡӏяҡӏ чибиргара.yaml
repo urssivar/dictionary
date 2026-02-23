@@ -1,0 +1,17 @@
+id: 9TsUdpCOUBcFoHdktifQ
+headword: ҡӏяҡӏ чибиргара
+ipa: ˌqʼæqʼ tʃibirˈgara
+tags: [v, cls, ntr]
+forms:
+  - text: ҡӏяҡӏ чибигара
+    gloss: pfv
+  - text: ҡӏяҡӏ чибижив
+    gloss: pret
+  - text: ҡӏяҡӏ чибиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to gaze
+      ru: глядеть
+    aliases:
+      en: [stare, view]

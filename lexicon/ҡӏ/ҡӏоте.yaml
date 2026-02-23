@@ -1,0 +1,21 @@
+id: YBgONGiKfMINSs1G4EVX
+headword: ҡӏоте
+ipa: ˈqʼote
+tags: [n]
+forms:
+  - text: ҡӏоте
+    gloss: abs
+  - text: ҡӏотин
+    gloss: obl
+  - text: ҡӏотирбе
+    gloss: pl
+definitions:
+  - translation:
+      en: bush
+      ru: куст
+    tags: [nature]
+  - translation:
+      en: hive
+      ru: улей
+    aliases:
+      en: [bee]

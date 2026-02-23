@@ -1,0 +1,39 @@
+id: bZAEINfZSXtX4QD5B1yF
+headword: балҡӏана
+ipa: balˈqʼana
+tags: [v, cls, ntr]
+forms:
+  - text: баҡӏана
+    gloss: pfv
+  - text: баҡӏун
+    gloss: pret
+  - text: балҡӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get sad
+      ru: расстраиваться
+    tags: [emotion]
+    aliases:
+      en: [sad, s]
+    examples:
+      - text: уцци ваҡӏун
+        translation:
+          en: brother got sad
+  - translation:
+      en: to crash
+      ru: разбиваться
+    aliases:
+      en: [break]
+    examples:
+      - text: ьинце кабичил баҡӏун
+        translation:
+          en: apple fell and crashed
+      - text: курсум даҡӏун
+        translation:
+          en: earthquake happened (lit. crashed)
+  - translation:
+      en: to ferment
+      ru: бросить, скисать
+    aliases:
+      en: [sour]

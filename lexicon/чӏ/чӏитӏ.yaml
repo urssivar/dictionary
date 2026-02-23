@@ -1,0 +1,17 @@
+id: mAspjzf98awDGcIvhGLr
+headword: чӏитӏ
+ipa: tʃʼiˈtʼ
+tags: [n]
+note:
+  en: "*замар*"
+forms:
+  - text: чӏитӏа
+    gloss: abs
+  - text: чӏитӏан
+    gloss: obl, loc
+definitions:
+  - translation:
+      en: chimney
+      ru: дымоход
+    aliases:
+      en: [vent]

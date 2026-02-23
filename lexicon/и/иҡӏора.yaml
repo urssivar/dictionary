@@ -1,0 +1,17 @@
+id: RXXri9phLjZl9pELnrlZ
+headword: иҡӏора
+ipa: iˈqʼora
+tags: [v, tr, cls]
+forms:
+  - text: бирҡӏора
+    gloss: pfv
+  - text: бирҡӏур
+    gloss: pret
+  - text: иҡӏора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to untie
+      ru: развязывать
+    aliases:
+      en: [unleash]

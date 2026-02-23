@@ -1,0 +1,17 @@
+id: fYoUhzrqqD7XPLvMCQfq
+headword: бярх итӏара
+ipa: ˌbærχ iˈtʼara
+tags: [v, tr, ntr, cls]
+forms:
+  - text: бярх атӏара
+    gloss: pfv
+  - text: бярх атӏив
+    gloss: pret
+  - text: бярх итӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: overturn
+      ru: опрокидывать
+    aliases:
+      en: [upset, topple, tip, over]

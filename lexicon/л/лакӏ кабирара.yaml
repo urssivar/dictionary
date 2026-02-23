@@ -1,0 +1,17 @@
+id: adMbBlCwx7xjkYi3YQd6
+headword: лакӏ кабирара
+ipa: ˌlakʼ kabiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: лакӏ кабарара
+    gloss: pfv
+  - text: лакӏ кабарив
+    gloss: pret
+  - text: лакӏ кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dump
+      ru: сбрасывать
+    aliases:
+      en: [throw, drop]

@@ -1,0 +1,17 @@
+id: NjHXGMRqgufcr229oS07
+headword: ҡҡев китӏара
+ipa: ˌqːev kiˈtʼara
+tags: [v, tr, cls]
+forms:
+  - text: ҡҡев катӏара
+    gloss: pfv
+  - text: ҡҡев катӏив
+    gloss: pret
+  - text: ҡҡев китӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to announce
+      ru: объявлять
+    aliases:
+      en: [declare, proclaim, call]

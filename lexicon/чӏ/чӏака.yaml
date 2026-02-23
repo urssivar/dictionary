@@ -1,0 +1,16 @@
+id: uASgZygylqdJWXYVXUYM
+headword: чӏака
+ipa: ˈtʃʼaka
+tags: [n]
+note:
+  en: "*чьако*"
+forms:
+  - text: чӏака
+    gloss: abs
+  - text: чӏикне
+    gloss: pl
+definitions:
+  - translation:
+      en: eagle
+      ru: орёл
+    tags: [animal, bird]

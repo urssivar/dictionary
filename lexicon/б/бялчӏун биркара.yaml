@@ -1,0 +1,17 @@
+id: 12Fdq4H073iKosXP5tfj
+headword: бялчӏун биркара
+ipa: bælˌtʃʼun birˈkara
+tags: [v, ntr, cls]
+forms:
+  - text: бялчӏун бикара
+    gloss: pfv
+  - text: бялчӏун бичив
+    gloss: pret
+  - text: бялчӏун биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to deviate
+      ru: отклоняться
+    aliases:
+      en: [stray]

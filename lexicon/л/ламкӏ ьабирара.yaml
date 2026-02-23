@@ -1,0 +1,17 @@
+id: AAYcUc1QpoSJtgw1oKKL
+headword: ламкӏ ьабирара
+ipa: ˌlamkʼ habiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ламкӏ ьабарара
+    gloss: pfv
+  - text: ламкӏ ьабарив
+    gloss: pret
+  - text: ламкӏ ьабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to swallow whole
+      ru: заглатывать
+    aliases:
+      en: [ingest, dose]

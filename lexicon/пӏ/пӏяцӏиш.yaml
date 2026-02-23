@@ -1,0 +1,18 @@
+id: 3OI5EzYi9VelLogbqa8Z
+headword: пӏяцӏиш
+ipa: pʼæˈtsʼiʃ
+tags: [n]
+etymology:
+  en: From *пьяць* "flat".
+forms:
+  - text: пӏяцӏиш
+    gloss: abs
+  - text: пӏяцӏише
+    gloss: pl
+definitions:
+  - translation:
+      en: crucian carp
+      ru: карась
+    tags: [nature, animal, fish]
+    aliases:
+      en: [carassius]

@@ -1,0 +1,17 @@
+id: 7Q9WvN8NdpkGAGK9Dp1i
+headword: урцӏара
+ipa: urˈtsʼara
+tags: [v, ntr]
+forms:
+  - text: ерцӏара
+    gloss: pfv
+  - text: ерцӏур
+    gloss: pret
+  - text: урцӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to chafe
+      ru: раздражать, натирать
+    aliases:
+      en: [rub, sore]

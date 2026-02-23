@@ -1,0 +1,15 @@
+id: HJH1hSQMPupanLt0nfwS
+headword: ғай кабикӏора
+ipa: ˌʁaj kabiˈkʼora
+tags: [v, cls, ntr]
+forms:
+  - text: ғай кабичӏив
+    gloss: pfv
+  - text: ғай кабикӏора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to talk
+      ru: разговаривать
+    aliases:
+      en: [communicate]

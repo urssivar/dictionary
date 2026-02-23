@@ -1,0 +1,17 @@
+id: sciafAHsO5LTRGMc38AI
+headword: хапӏ бирара
+ipa: ˌχapʼ biˈrara
+tags: [v, tr, cls]
+forms:
+  - text: хапӏ барара
+    gloss: pfv
+  - text: хапӏ барив
+    gloss: pret
+  - text: хапӏ бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to grab
+      ru: хватать, брать
+    aliases:
+      en: [take, fetch]

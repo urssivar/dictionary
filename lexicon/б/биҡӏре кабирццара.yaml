@@ -1,0 +1,17 @@
+id: cjtybzZZJfgopknXeQ7B
+headword: биҡӏре кабирццара
+ipa: ˌbiqʼre kabirˈtsːara
+tags: [v, ntr, cls]
+forms:
+  - text: биҡӏре кабиццара
+    gloss: pfv
+  - text: биҡӏре кабиццур
+    gloss: pret
+  - text: биҡӏре кабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to testify
+      ru: свидетельствовать
+    aliases:
+      en: [witness]

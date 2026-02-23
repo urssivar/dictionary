@@ -1,0 +1,18 @@
+id: Doa98okrgBgYZPSrvD9A
+headword: тӏя
+ipa: ˈtʼæ
+tags: [n]
+note:
+  en: "*тьяь*"
+forms:
+  - text: тӏя
+    gloss: abs
+  - text: тӏял
+    gloss: obl
+  - text: тӏяме
+    gloss: pl
+definitions:
+  - translation:
+      en: leg
+      ru: нога
+    tags: [body]

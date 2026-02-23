@@ -1,0 +1,19 @@
+id: UzZSDZ9AOoulYvsv5YJs
+headword: антуҡӏ
+ipa: anˈtuqʼ
+tags: [n]
+variants:
+  - text: антаҡӏ
+
+definitions:
+  - translation:
+      en: oblivion
+      ru: забвение
+    aliases:
+      en: [forgetfulness]
+      ru: [забывчивость]
+    examples:
+      - text: антуҡӏ виьяв
+        translation:
+          en: forgot
+          ru: забылся

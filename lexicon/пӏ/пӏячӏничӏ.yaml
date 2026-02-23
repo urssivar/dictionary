@@ -1,0 +1,16 @@
+id: jHSx1shYjmGUE8HonP3i
+headword: пӏячӏничӏ
+ipa: pʼætʃʼˈnitʃʼ
+tags: [n]
+note:
+  en: "*мячьа*, *пьячьан*"
+forms:
+  - text: пӏячӏничӏ
+    gloss: abs
+  - text: пӏячӏничӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: eye pus
+      ru: глазной гной
+    tags: [body]

@@ -1,0 +1,18 @@
+id: 8EK4pdSZ9s5aV3gwDDX8
+headword: бекӏ
+ipa: ˈbekʼ
+tags: [n, adj]
+forms:
+  - text: бекӏ
+    gloss: abs
+  - text: бикӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: head
+      ru: голова
+    tags: [body]
+    examples:
+      - text: бекӏи цяна
+        translation:
+          en: to meet fate

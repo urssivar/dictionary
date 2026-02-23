@@ -1,0 +1,17 @@
+id: Op0ggnjPa5tOvV1kiLT2
+headword: ғвячӏ цабирара
+ipa: ˌʁʷætʃʼ tsabiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: ғвячӏ цабарара
+    gloss: pfv
+  - text: ғвячӏ цабарив
+    gloss: pret
+  - text: ғвячӏ цабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to compress
+      ru: сжимать
+    aliases:
+      en: [hug, squeeze]

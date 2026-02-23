@@ -1,0 +1,16 @@
+id: V0TFLNtoYnwFVJA3lBfN
+headword: ҳацӏдеҳ
+ipa: xatsʼˈdex
+tags: [n]
+forms:
+  - text: ҳацӏдеҳ
+    gloss: abs
+  - text: ҳацӏдеҳе
+    gloss: pl
+definitions:
+  - translation:
+      en: bruise
+      ru: синяк
+    tags: [body]
+    aliases:
+      en: [hit]

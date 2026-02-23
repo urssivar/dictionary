@@ -1,0 +1,32 @@
+id: 6q9rLQV6QCBuuJm2AIwL
+headword: тӏупп
+ipa: ˈtʼupː
+tags: [n]
+forms:
+  - text: тӏупп
+    gloss: abs
+  - text: тӏуппу
+    gloss: obl
+  - text: тӏиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: finger
+      ru: палец
+    tags: [body]
+    examples:
+      - text: ттатта тӏупп
+        translation:
+          en: thumb
+      - text: бурьан тӏупп
+        translation:
+          en: index finger
+      - text: дагна тӏупп
+        translation:
+          en: middle finger
+      - text: зимиз тӏупп
+        translation:
+          en: ring finger
+      - text: ҡӏячӏа тӏупп
+        translation:
+          en: little finger

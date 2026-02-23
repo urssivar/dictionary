@@ -1,0 +1,21 @@
+id: JmmFOITmGIsUwpxFobeS
+headword: хинкӏ
+ipa: ˈχinkʼ
+tags: [n]
+note:
+  en: There's also a type called *мярчи хинкье* (ST2004).
+forms:
+  - text: хинкӏ
+    gloss: abs
+  - text: хинкӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: hingel
+      ru: хинкал
+    tags: [food]
+  - translation:
+      en: rhombus
+      ru: ромб
+    aliases:
+      en: [rectangle]

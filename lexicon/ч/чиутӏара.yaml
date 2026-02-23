@@ -1,0 +1,17 @@
+id: rX23NGPndYMkIwbNnbpM
+headword: чиутӏара
+ipa: tʃiuˈtʼara
+tags: [v, tr, cls]
+forms:
+  - text: чибуртӏара
+    gloss: pfv
+  - text: чибуртӏив
+    gloss: pret
+  - text: чиутӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to supplement
+      ru: дополнять
+    aliases:
+      en: [add]

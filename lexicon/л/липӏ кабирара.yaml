@@ -1,0 +1,18 @@
+id: yTE95p7vT7dopnPLWU1M
+headword: липӏ кабирара
+ipa: ˌlipʼ kabiˈrara
+tags: [v, tr, cls]
+forms:
+  - text: липӏ кабарара
+    gloss: pfv
+  - text: липӏ кабарив
+    gloss: pret
+  - text: липӏ кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to blink
+      ru: моргать
+    tags: [body]
+    aliases:
+      en: [eye]

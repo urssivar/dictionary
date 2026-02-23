@@ -1,0 +1,17 @@
+id: laxtJvsQeJRpDXxX96C2
+headword: чикурцӏара
+ipa: tʃikurˈtsʼara
+tags: [v, ntr, cls]
+forms:
+  - text: чикаберцӏара
+    gloss: pfv
+  - text: чикаберцӏив
+    gloss: pret
+  - text: чикурцӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be burnt
+      ru: пригорать
+    aliases:
+      en: [stick, cling]

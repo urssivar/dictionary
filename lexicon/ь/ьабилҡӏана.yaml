@@ -1,0 +1,22 @@
+id: kTpST8fFa1ilUfulltRt
+headword: ьабилҡӏана
+ipa: habilˈqʼana
+tags: [v, tr, cls]
+forms:
+  - text: ьабиҡӏана
+    gloss: pfv
+  - text: ьабиҡӏун
+    gloss: pret
+  - text: ьабилҡӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rear
+      ru: содержать, растить
+    aliases:
+      en: [parent, foster]
+  - translation:
+      en: to kindle
+      ru: зажигать
+    aliases:
+      en: [ignite]

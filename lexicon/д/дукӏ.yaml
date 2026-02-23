@@ -1,0 +1,16 @@
+id: fWh1u1PuSmSyO2VTsYEi
+headword: дукӏ
+ipa: ˈdukʼ
+tags: [n]
+forms:
+  - text: дукӏ
+    gloss: abs
+  - text: дукӏун
+    gloss: obl
+  - text: дукӏре
+    gloss: pl
+definitions:
+  - translation:
+      en: yoke
+      ru: ярмо
+    tags: [agriculture, tool]

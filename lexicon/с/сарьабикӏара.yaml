@@ -1,0 +1,17 @@
+id: 5h7EgysbpolWtOiLmk03
+headword: сарьабикӏара
+ipa: sarhabiˈkʼara
+tags: [v, ntr, cls]
+forms:
+  - text: сарьабакӏара
+    gloss: pfv
+  - text: сарьабачӏив
+    gloss: pret
+  - text: сарьабикӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to emerge
+      ru: возникать, появзяться
+    aliases:
+      en: [appear, rise, show]

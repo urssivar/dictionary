@@ -19,7 +19,7 @@ definitions:
       - text: машин ижин кағара
         translation:
           en: park the car here
-      - text: бекь буццара кағив
+      - text: бекӏ буццара кағив
         translation:
           en: turned on his head
   - translation:
@@ -28,6 +28,6 @@ definitions:
     aliases:
       en: [force]
     examples:
-      - text: улчьана кағив
+      - text: улчӏана кағив
         translation:
           en: made him study

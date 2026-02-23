@@ -1,0 +1,18 @@
+id: r4sNKjvvWmBXHgKG9AB0
+headword: цӏах кабирццара
+ipa: ˌtsʼaχ kabirˈtsːara
+tags: [v, ntr, cls]
+forms:
+  - text: цӏах кабиццара
+    gloss: pfv
+  - text: цӏах кабиццур
+    gloss: pret
+  - text: цӏах кабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be embarassed
+      ru: стыдиться
+    tags: [emotion]
+    aliases:
+      en: [shame]

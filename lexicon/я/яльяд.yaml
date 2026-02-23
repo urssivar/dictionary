@@ -17,6 +17,6 @@ definitions:
       ru: неделя
     tags: [time]
     examples:
-      - text: чьвел яльяд дегур
+      - text: чӏвел яльяд дегур
         translation:
           en: two weeks passed

@@ -1,0 +1,22 @@
+id: dBCMtnS9IAtTTxObYeUJ
+headword: утӏара
+ipa: uˈtʼara
+tags: [v, cls, tr]
+forms:
+  - text: буртӏара
+    gloss: pfv
+  - text: буртӏив
+    gloss: pret
+  - text: утӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to share
+      ru: делиться
+    aliases:
+      en: [split]
+  - translation:
+      en: to give out
+      ru: раздавать
+    aliases:
+      en: [distribute]

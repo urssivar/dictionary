@@ -1,0 +1,24 @@
+id: igBVOSiVeRKeCNVYX6Dq
+headword: ҡӏвяш
+ipa: ˈqʼʷæʃ
+tags: [n]
+forms:
+  - text: ҡӏвяш
+    gloss: abs
+  - text: ҡӏвяшин
+    gloss: obl
+  - text: ҡӏвяшме
+    gloss: pl
+definitions:
+  - translation:
+      en: heel
+      ru: пятка
+    tags: [body]
+    aliases:
+      en: [foot]
+  - translation:
+      en: top crust
+      ru: горбушка
+    tags: [food]
+    aliases:
+      en: [bread]

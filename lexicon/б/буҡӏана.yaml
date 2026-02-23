@@ -1,0 +1,17 @@
+id: MPrSyUb6YCfitWWHqyur
+headword: буҡӏана
+ipa: buˈqʼana
+tags: [v, cls, tr]
+forms:
+  - text: белҡӏона
+    gloss: pfv
+  - text: белҡӏун
+    gloss: pret
+  - text: буҡӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to mill
+      ru: молоть
+    aliases:
+      en: [crush, mash, mill]

@@ -1,0 +1,19 @@
+id: UHb7gTOlqbP9pIX74pBS
+headword: ҡӏацӏ биркара
+ipa: ˌqʼatsʼ birˈkara
+tags: [v, ntr, cls]
+forms:
+  - text: ҡӏацӏ бикара
+    gloss: pfv
+  - text: ҡӏацӏ бичив
+    gloss: pret
+  - text: ҡӏацӏ биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to bite
+      ru: кусать
+    examples:
+      - text: хвя дами ҡӏацӏ бичив
+        translation:
+          en: the dog bit me

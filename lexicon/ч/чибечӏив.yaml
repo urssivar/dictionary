@@ -1,0 +1,19 @@
+id: wclO2rFFLXQhUccPEgow
+headword: чибечӏив
+ipa: tʃibeˈtʃʼiv
+tags: [adj, cls, vb]
+forms:
+  - text: чибечӏив
+    gloss: adj
+  - text: чибечӏил
+    gloss: adv
+definitions:
+  - translation:
+      en: neat
+      ru: аккуратный
+    aliases:
+      en: [proper, careful, nice]
+    examples:
+      - text: чивечӏил уче
+        translation:
+          en: eat neatly

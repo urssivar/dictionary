@@ -1,0 +1,21 @@
+id: z677jtIlWKolcxYPbSwE
+headword: чибелтӏана
+ipa: tʃibelˈtʼana
+tags: [v, ntr, cls]
+forms:
+  - text: чибетӏана
+    gloss: pfv
+  - text: чибетӏун
+    gloss: pret
+  - text: чибелтӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to influence
+      ru: воздействовать
+    aliases:
+      en: [control]
+    examples:
+      - text: паччяьи чарра чиветӏана авиьяв
+        translation:
+          en: none could influence the king

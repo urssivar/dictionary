@@ -1,0 +1,17 @@
+id: 6yxca3FJk9jAIhhzZn6p
+headword: черлукӏана
+ipa: tʃerluˈkʼana
+tags: [v, tr, cls]
+forms:
+  - text: чербелкӏона
+    gloss: pfv
+  - text: чербелкӏун
+    gloss: pret
+  - text: черлукӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to unbind
+      ru: высвобождать
+    aliases:
+      en: [undo, loose]

@@ -1,0 +1,18 @@
+id: wI9qzJj3zC2Oq5YlvMvu
+headword: мутӏрус
+ipa: mutʼˈrus
+tags: [n, vb]
+etymology:
+  en: From *муцьур* "beard" + *усара* "to shave".
+forms:
+  - text: мутӏрус
+    gloss: abs
+  - text: мутӏрусе
+    gloss: pl
+definitions:
+  - translation:
+      en: razor
+      ru: бритва
+    tags: [tool]
+    aliases:
+      en: [shaver]

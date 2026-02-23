@@ -1,0 +1,18 @@
+id: ghlU0qu81VZGauiGcsYW
+headword: чӏиья
+ipa: ˈtʃʼihæ
+tags: [n]
+forms:
+  - text: чӏиья
+    gloss: abs
+  - text: чӏиьян
+    gloss: obl
+  - text: чӏиьме
+    gloss: pl
+definitions:
+  - translation:
+      en: culinary scoop
+      ru: ковш, кулинарный совок
+    tags: [tool]
+    aliases:
+      en: [ladle]

@@ -1,0 +1,22 @@
+id: 729Bxhz7aTXVH7H8MWvQ
+headword: калуцӏана
+ipa: kaluˈtsʼana
+tags: [v, tr, cls]
+forms:
+  - text: кабалцӏана
+    gloss: pfv
+  - text: кабалцӏун
+    gloss: pret
+  - text: калуцӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to ravage
+      ru: разорять
+    aliases:
+      en: [waste, devastate]
+  - translation:
+      en: to ransack
+      ru: обыскивать
+    aliases:
+      en: [search]

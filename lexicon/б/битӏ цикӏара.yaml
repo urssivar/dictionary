@@ -1,0 +1,17 @@
+id: jSAkrumPOB3J5Kfifou7
+headword: битӏ цикӏара
+ipa: ˌbitʼ tsiˈkʼara
+tags: [v, tr, ntr, cls]
+forms:
+  - text: битӏ цакӏара
+    gloss: pfv
+  - text: битӏ цачӏив
+    gloss: pret
+  - text: битӏ цикӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to move off
+      ru: подвигать
+    aliases:
+      en: [attract, push]

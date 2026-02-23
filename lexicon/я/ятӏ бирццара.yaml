@@ -1,0 +1,17 @@
+id: iDzjTEwimCJzx7n75TJT
+headword: ятӏ бирццара
+ipa: ˌætʼ birˈtsːara
+tags: [v, ntr, cls]
+forms:
+  - text: ятӏ биццара
+    gloss: pfv
+  - text: ятӏ биццур
+    gloss: pret
+  - text: ятӏ бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to collapse
+      ru: обрушиваться
+    aliases:
+      en: [fall, destroy]

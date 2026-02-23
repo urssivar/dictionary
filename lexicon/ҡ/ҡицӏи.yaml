@@ -1,0 +1,18 @@
+id: ydJAEjZX1EA62VshxKBY
+headword: ҡицӏи
+ipa: qiˈtsʼi
+tags: [n]
+forms:
+  - text: ҡицӏи
+    gloss: abs
+  - text: ҡицӏин
+    gloss: obl
+  - text: ҡицӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: balance wheel
+      ru: балансирный круг
+    tags: [tool]
+    aliases:
+      en: [stabilizer]

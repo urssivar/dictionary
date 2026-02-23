@@ -1,0 +1,20 @@
+id: URQxy9PaA6FdnDip3jX5
+headword: цилтӏана
+ipa: tsilˈtʼana
+tags: [v, tr, ntr]
+forms:
+  - text: цитӏана
+    gloss: pfv
+  - text: цитӏун
+    gloss: pret
+  - text: цилтӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hatch out
+      ru: вылупляться
+  - translation:
+      en: to obtain
+      ru: извлекать
+    aliases:
+      en: [clean]

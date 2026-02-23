@@ -1,0 +1,17 @@
+id: tBRXG1hmJbuNx5QsHHRy
+headword: чиьитӏара
+ipa: tʃihiˈtʼara
+tags: [v, tr]
+forms:
+  - text: чиьатӏара
+    gloss: pfv
+  - text: чиьатӏив
+    gloss: pret
+  - text: чиьитӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to top up
+      ru: доливать
+    aliases:
+      en: [fill, full]

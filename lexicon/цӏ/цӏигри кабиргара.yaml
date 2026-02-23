@@ -1,0 +1,19 @@
+id: anrNwOldmvMLVDim6QuD
+headword: цӏигри кабиргара
+ipa: ˌtsʼigri kabirˈgara
+tags: [v, cls, ntr]
+note:
+  en: It seems the first part isn't used on its own.
+forms:
+  - text: цӏигри кабигара
+    gloss: pfv
+  - text: цӏигри кабижив
+    gloss: pret
+  - text: цӏигри кабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to incubate
+      ru: высижывать яйца
+    aliases:
+      en: [hatch, egg]

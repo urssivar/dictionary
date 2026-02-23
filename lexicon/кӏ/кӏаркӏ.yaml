@@ -1,0 +1,21 @@
+id: hqvZbFmNJGdi0QoF1cD5
+headword: кӏаркӏ
+ipa: ˈkʼarkʼ
+tags: [n]
+forms:
+  - text: кӏаркӏ
+    gloss: abs
+  - text: кӏиркӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: club
+      ru: дубина
+    tags: [tool]
+    aliases:
+      en: [bat, cudgel]
+  - translation:
+      en: rolling ping
+      ru: скалка
+    aliases:
+      en: [roller]

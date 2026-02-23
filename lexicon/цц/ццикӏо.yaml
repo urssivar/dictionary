@@ -1,0 +1,19 @@
+id: AXV9PorLlbPZJkIxAxtR
+headword: ццикӏо
+ipa: ˈtsːikʼo
+tags: [n]
+forms:
+  - text: ццикӏо
+    gloss: abs
+  - text: ццикӏон
+    gloss: obl
+  - text: ццикӏме
+    gloss: pl
+
+definitions:
+  - translation:
+      en: ball
+      ru: клубок
+    aliases:
+      en: [clew, skein]
+      ru: [моток]

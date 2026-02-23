@@ -1,0 +1,19 @@
+id: hlQPl8ZOz9OGbQyfqIs0
+headword: чӏиж бирара
+ipa: ˌtʃʼiʒ biˈrara
+tags: [v, ntr, cls]
+note:
+  en: "*пьиж*"
+forms:
+  - text: чӏиж барара
+    gloss: pfv
+  - text: чӏиж барив
+    gloss: pret
+  - text: чӏиж бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to roast
+      ru: прожаривать
+    aliases:
+      en: [fry]

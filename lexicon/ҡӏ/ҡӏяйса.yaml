@@ -1,0 +1,18 @@
+id: N62STi0cpt0zo7l9hLYD
+headword: ҡӏяйса
+ipa: qʼæjˈsa
+tags: [n, loan, arabic]
+forms:
+  - text: ҡӏяйса
+    gloss: abs
+  - text: ҡӏяйсан
+    gloss: obl
+  - text: ҡӏяйсне
+    gloss: pl
+definitions:
+  - translation:
+      en: staff
+      ru: посох
+    tags: [tool]
+    aliases:
+      en: [crutch]
