@@ -21,7 +21,7 @@ definitions:
       - text: Церра аарганне етти.
         translation:
           en: Nothing will happen to you.
-          ru: Ничего с тобой случится.
+          ru: Ничего с тобой не случится.
   - translation:
       en: to work out
       ru: получаться

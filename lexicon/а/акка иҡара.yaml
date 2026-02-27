@@ -23,7 +23,7 @@ definitions:
           en: People parted after the wedding.
           ru: Люди разошлись после свадьбы.
 
-etymology:
-  en: "*акка* does not occur independently."
-  ru: "*акка* не встречается самостоятельно."
+note:
+  en: "*акка* does not occur independently and its meaning is unclear."
+  ru: "*акка* не встречается самостоятельно и его значение неясно."
 derived_from: [иҡара]

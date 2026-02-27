@@ -9,7 +9,7 @@ definitions:
       ru: прогулка
     aliases:
       en: [walk, outing]
-      ru: [прогулка, гулять]
+      ru: [прогулка, выход]
     tags: [child]
     examples:
       - text: Даҳай амма.
