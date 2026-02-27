@@ -7,6 +7,7 @@ definitions:
   - translation:
       en: doom
       ru: рок
+    tags: [religion]
     aliases:
       en: [death, fate, demise]
       ru: [смерть, судьба, кончина]

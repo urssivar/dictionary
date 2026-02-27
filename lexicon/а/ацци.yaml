@@ -12,6 +12,7 @@ definitions:
   - translation:
       en: respected elder man
       ru: уважаемый пожилой
+    tags: [culture]
     aliases:
       en: [elder]
       ru: [старший]

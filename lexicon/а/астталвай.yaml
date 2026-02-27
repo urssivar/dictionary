@@ -12,6 +12,7 @@ definitions:
   - translation:
       en: canteen
       ru: столовая
+    tags: [structure]
     aliases:
       en: [cafeteria, dining hall]
       ru: [кафетерий, буфет]

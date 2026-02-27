@@ -7,5 +7,6 @@ definitions:
   - translation:
       en: visit to a non-relative
       ru: визит к постороннему человеку
+    tags: [culture]
 
 derived_from: [ахал]
