@@ -24,3 +24,10 @@ data/               — other reference tables
 - All valid tags are defined in `data/tags.yaml` — never invent tags
 - Semantic tags go at definition level; grammar/etymology/register tags go at entry level
 - Full editorial rules are in `.claude/EDITORIAL_GUIDELINES.md`
+
+## Progress & Notes
+
+- Letter а: completed and polished
+- Docs are intentionally rough — proper contributor-facing rewrite planned after current iteration (~1-2 mo)
+- Future semantic tags to add when ready: `health`, `language`, `behavior`
+- Tag review lessons: don't force `culture` on abstract social nouns; `disease` is for conditions not substances/procedures; `material` is for raw substances not objects
