@@ -1,7 +1,6 @@
 ---
 name: lexeme-polish
 description: This skill should be used when the user asks to "polish", "review", or "check" a lexeme file or an entire letter folder in the Kaitag dictionary. Provides a concise advisory review of a YAML lexeme entry or all entries in a folder against editorial guidelines.
-version: 1.0.0
 ---
 
 # Lexeme Polish
@@ -44,6 +43,7 @@ For each entry, check the following — only flag real issues, not hypothetical 
 - Format correct per guidelines: script + transliteration for Arabic/Persian; Cyrillic only for Russian/Turkic
 - Omitted correctly for transparent derivations (use `derived_from` instead)
 - No transcription for Russian; no translation in Russian etymology
+- Do NOT flag missing `loan` tag or etymology on a derived form if its base loanword is already a separate dictionary entry
 
 ### 6. Examples
 - Present for common or ambiguous words
@@ -79,3 +79,5 @@ For a folder, output a table: headword | issues. Skip clean entries entirely. Ke
 - Advisory, not prescriptive
 - Flag things worth reconsidering, not every imperfection
 - If something is clearly fine, say nothing
+- Do NOT flag semantic shift between a loanword's source meaning and its Kaitag meaning — shift on borrowing is normal
+- Do NOT flag `derived_from` mismatching etymology — they can legitimately point to different bases (phonological vs. lexical)

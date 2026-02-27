@@ -94,7 +94,7 @@ forms:
 ```
 
 - Headword is ipfv (except rare cases with only pfv)
-- Not all verbs have all three forms
+- Not all verbs have all three forms — some legitimately have only `ipfv` + `pret`; this is normal and does not require a note
 
 ### Noun Forms
 
@@ -145,6 +145,7 @@ gloss: 2.sg, pst   # Polyfunctional form
 
 - Transparent, productive derivations (use `derived_from` only)
 - Regular morphological patterns (negative prefix, -деҳ abstract suffix, etc.)
+- Derivations of loanwords via native morphology — if the base loanword is already a separate entry (e.g. *авдалдеҳ* from *авдал*), no `loan` tag or etymology needed on the derived form
 
 ### Format for Loanwords
 
@@ -226,6 +227,11 @@ etymology:
 
 - One or two sentences maximum
 - Bilingual when needed for clarity
+
+### Formatting
+
+- Full sentences: capitalize and end with a period
+- Nominal descriptions (labels, classifications): lowercase, no period
 
 ## Examples
 
