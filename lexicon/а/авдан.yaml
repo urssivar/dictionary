@@ -1,7 +1,9 @@
 id: cKRgDEBlRXuehzDXTBaY
-headword: авадан
-ipa: aβaˈdan
+headword: авдан
+ipa: aβˈdan
 tags: [adj, loan, iranian]
+variants:
+  - text: авадан
 
 definitions:
   - translation:
@@ -10,6 +12,17 @@ definitions:
     aliases:
       en: [broad, extensive, spacious]
       ru: [широкий, просторный]
+  - translation:
+      en: rich
+      ru: богатый
+    aliases:
+      en: [wealthy]
+      ru: [состоятельный]
+    examples:
+      - text: Убала уцци авдан виьяв.
+        translation:
+          en: Mother's brother got rich.
+          ru: Брат мамы разбогател.
 
 etymology:
   en: From Persian آبادان (*ābādān*) "thriving, prosperous".

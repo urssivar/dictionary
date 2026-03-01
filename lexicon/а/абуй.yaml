@@ -12,6 +12,11 @@ definitions:
   - translation:
       en: wallpaper
       ru: обои
+    examples:
+      - text: Нисал ижал абуйте чидяҡивда.
+        translation:
+          en: Today we pasted wallpapers.
+          ru: Сегодня мы приклеили обои.
 
 etymology:
   en: From Russian *обои* "wallpaper" (pl.), reanalyzed as singular.

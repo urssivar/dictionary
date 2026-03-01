@@ -16,6 +16,11 @@ definitions:
     aliases:
       en: [malice, rancor, resentment]
       ru: [злость, ненависть, гнев]
+    examples:
+      - text: ажуғ чикабуцил
+        translation:
+          en: harboring spite
+          ru: затаив злобу
 
 etymology:
   en: From Azerbaijani *acıq* "spite".

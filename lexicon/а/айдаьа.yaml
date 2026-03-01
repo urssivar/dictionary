@@ -1,0 +1,34 @@
+id: gNLukVNccL4EggO0bVTo
+headword: айдаьа
+ipa: ajdaˈha
+tags: [n, loan, iranian]
+forms:
+  - text: айдаьа
+    gloss: abs
+  - text: айдиьне
+    gloss: pl
+variants:
+  - text: аждаьа
+
+definitions:
+  - translation:
+      en: dragon
+      ru: дракон
+    tags: [religion]
+    aliases:
+      en: [serpent, monster, behemoth]
+      ru: [змей, чудище]
+    examples:
+      - text: айдаьала ҡҡушни
+        type: idiom
+        translation:
+          en: very far (lit. "at dragon's hut")
+          ru: очень далеко (букв. "в шалаше у дракона")
+      - text: айдаьала аттаба
+        translation:
+          en: witch
+          ru: ведьма
+
+etymology:
+  en: From Persian اژدها (*aždahā*) "dragon".
+  ru: От персидского اژدها (*aždahā*) "дракон".

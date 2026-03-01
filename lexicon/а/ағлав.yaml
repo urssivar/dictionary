@@ -5,10 +5,15 @@ tags: [n]
 forms:
   - text: ағлав
     gloss: abs
-  - text: ағлавте
+  - text: ағлаван
+    gloss: loc
+  - text: ағлавне
     gloss: pl
 variants:
   - text: ағлаба
+    lect: irch
+  - text: йағлав
+    lect: snch
 
 definitions:
   - translation:
@@ -18,3 +23,8 @@ definitions:
     aliases:
       en: [skillet, kitchenware]
       ru: [посуда]
+    examples:
+      - text: Ағлаван ҡҡярттушкка дерцӏа.
+        translation:
+          en: Fry potatoes in pan.
+          ru: Пожарь картшку в сковородке.

@@ -22,9 +22,6 @@ definitions:
         translation:
           en: The sparrows harass our grapes.
           ru: Воробьи изводят наш виноград.
-  - translation:
-      en: to prevent
-      ru: предотвращать
 
 etymology:
   en: The negative of *бартара* "to let, allow".

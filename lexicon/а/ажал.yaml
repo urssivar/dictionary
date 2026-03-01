@@ -11,6 +11,11 @@ definitions:
     aliases:
       en: [death, fate, demise]
       ru: [смерть, судьба, кончина]
+    examples:
+      - text: И ажалли вяҡ!
+        translation:
+          en: May you die!
+          ru: Чтоб ты сдох!
 
 etymology:
   en: From Arabic أَجَل (*ʔajal*) "appointed time, death".

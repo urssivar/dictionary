@@ -10,5 +10,10 @@ definitions:
     aliases:
       en: [folly, foolishness]
       ru: [дурь, идиотизм]
+    examples:
+      - text: ила авдалдеҳли 
+        translation:
+          en: by your stupidity
+          ru: твоей глупостью
 
 derived_from: [авдал]

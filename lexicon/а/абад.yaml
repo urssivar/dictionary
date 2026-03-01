@@ -13,9 +13,10 @@ definitions:
       ru: [эра]
     examples:
       - text: абадла абад
+        type: idiom
         translation:
-          en: since a long time ago
-          ru: c давних времён
+          en: since a long time ago (lit. "epoch's epoch")
+          ru: c давних времён (букв. "эпоха эпохи")
 
 etymology:
   en: From Arabic أَبَد (*ʔabad*) "eternity".

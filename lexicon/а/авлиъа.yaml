@@ -1,12 +1,14 @@
 id: vISgU6D28bmi9K3RjyPW
-headword: авлийа
-ipa: aβliˈja
+headword: авлиъа
+ipa: aβliˈʔa
 tags: [n, loan, arabic]
 forms:
-  - text: авлийа
+  - text: авлиъа
     gloss: abs
-  - text: авлийабе
+  - text: авлиъне
     gloss: pl
+variants:
+  - text: авлийа
 
 definitions:
   - translation:
