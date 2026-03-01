@@ -123,6 +123,11 @@
                   "type": "string",
                   "description": "Example sentence in Kaitag."
                 },
+                "type": {
+                  "type": "string",
+                  "enum": ["idiom"],
+                  "description": "Mark as 'idiom' if the example is a fixed expression with non-compositional meaning."
+                },
                 "translation": {
                   "$ref": "#/definitions/bilingualText",
                   "description": "Translation of example."

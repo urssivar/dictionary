@@ -241,6 +241,19 @@ etymology:
 - Illustrate the definition, not other definitions
 - Include translation in both languages
 
+### Fixed Expressions
+
+Mark with `type: idiom` when the example is a set phrase with non-compositional meaning:
+
+```yaml
+examples:
+  - text: абадла абад
+    type: idiom
+    translation:
+      en: since time immemorial
+      ru: с давних времён
+```
+
 ### When to Include
 
 - At least one for common/ambiguous words

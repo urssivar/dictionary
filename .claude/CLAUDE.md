@@ -29,6 +29,7 @@ data/               — other reference tables
 ## Progress & Notes
 
 - Letter а: completed and polished
-- Docs are intentionally rough — proper contributor-facing rewrite planned after current iteration (~1-2 mo)
+- Current priority: capture meanings and examples quickly while speaker access is available (~1-2 mo)
+- Docs are intentionally rough — proper contributor-facing rewrite planned after current iteration
 - Future semantic tags to add when ready: `health`, `language`, `behavior`
 - Tag review lessons: don't force `culture` on abstract social nouns; `disease` is for conditions not substances/procedures; `material` is for raw substances not objects
