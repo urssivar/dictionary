@@ -15,3 +15,8 @@ definitions:
     aliases:
       en: [visitor]
       ru: [посетитель, кунак]
+  - translation:
+      en: kunak
+      ru: кунак
+    examples:
+      - text: Ьет шилцци нисала яь ахле би.

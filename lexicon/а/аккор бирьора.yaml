@@ -17,5 +17,7 @@ definitions:
     aliases:
       en: [die out, disappear, vanish]
       ru: [исчезать, пропадать, уходить]
+    examples:
+      - text: Дуццан бицӏе аккор биьяв.
 
 derived_from: [аккор, бирьора]

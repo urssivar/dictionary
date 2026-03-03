@@ -17,5 +17,7 @@ definitions:
     aliases:
       en: [meet, congregate]
       ru: [собраться, встретиться, сходиться]
+    examples:
+      - text: рирсбе алав цабижил азбар унзу барив
 
 derived_from: [алав, биргара]

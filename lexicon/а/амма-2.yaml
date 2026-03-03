@@ -1,0 +1,18 @@
+id: qxXLhhKBU73Wh3rvdKyO
+headword: амма
+ipa: amˈma
+tags: [n]
+
+definitions:
+  - translation:
+      en: stroll
+      ru: прогулка
+    aliases:
+      en: [walk, outing]
+      ru: [прогулка, выход]
+    tags: [child]
+    examples:
+      - text: Даҳай амма.
+        translation:
+          en: Come for a stroll.
+          ru: Пойдём на прогулку.

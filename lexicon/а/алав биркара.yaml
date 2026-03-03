@@ -17,5 +17,7 @@ definitions:
     aliases:
       en: [dodge, hedge, prevaricate]
       ru: [избегать, уворачиваться, увиливать]
+    examples:
+      - text: ьярьянцци тта алав вичил
 
 derived_from: [алав, бикара]

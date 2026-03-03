@@ -17,5 +17,7 @@ definitions:
     aliases:
       en: [enclose, wrap]
       ru: [обволакивать, заворачивать]
+    examples:
+      - text: Лузум алав ьабара.
 
 derived_from: [алав, бирара]

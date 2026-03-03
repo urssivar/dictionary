@@ -1,5 +1,5 @@
 id: 7Z91qBvnjzKqz4ARmy7g
-headword: амъам
+headword: амъамчи
 ipa: amˈʔam
 tags: [n]
 
@@ -10,6 +10,9 @@ definitions:
     aliases:
       en: [stammer]
       ru: [заикаться]
+    note:
+      en: There's also *амъамчи* "stutterer".
+      ru: Есть ещё *амъамчи* "заика".
 
     examples:
       - text: амъам ьижив

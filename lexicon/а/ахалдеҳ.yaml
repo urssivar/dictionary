@@ -10,5 +10,7 @@ definitions:
     aliases:
       en: [welcome]
       ru: [приём, радушие]
-
+    examples:
+      - text: Ьелттал ахалдеҳ барьар.
+        
 derived_from: [ахал]

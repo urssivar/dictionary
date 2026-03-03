@@ -1,18 +1,16 @@
-id: qxXLhhKBU73Wh3rvdKyO
+id: Z1r9rPvJ12RiEAVI2Ozk
 headword: амма
-ipa: amˈma
-tags: [n]
+ipa: ˈamma
+tags: [conj, loan, arabic]
 
 definitions:
   - translation:
-      en: stroll
-      ru: прогулка
+      en: but
+      ru: но
     aliases:
-      en: [walk, outing]
-      ru: [прогулка, выход]
-    tags: [child]
-    examples:
-      - text: Даҳай амма.
-        translation:
-          en: Come for a stroll.
-          ru: Пойдём на прогулку.
+      en: [though, and]
+      ru: [хотя, а]
+
+etymology:
+  en: From Arabic أَمَّا (*ʔammā*) "as for".
+  ru: От арабского أَمَّا (*ʔammā*) "что касается".
