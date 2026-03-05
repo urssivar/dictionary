@@ -7,6 +7,9 @@ forms:
     gloss: abs
   - text: баккан
     gloss: obl
+  - text: баккне
+    gloss: pl
+
 definitions:
   - translation:
       en: beanie

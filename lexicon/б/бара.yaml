@@ -9,7 +9,10 @@ definitions:
     aliases:
       en: [just, almost]
     examples:
-      - text: бара рел де карикара
+      - text: нерғ бара бел ьядур биьора
+        translation:
+          en: she nearly fell
+      - text: бара бара ачибеғив
         translation:
           en: she nearly fell
       - text: ьана бара вегур

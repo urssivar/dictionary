@@ -14,6 +14,8 @@ forms:
 definitions:
   - translation:
       en: to mold
-      ru: лепить
+      ru: лепить; слепливать
     aliases:
       en: [sculpt]
+    examples:
+      - text: янччинццил келпиче далсид

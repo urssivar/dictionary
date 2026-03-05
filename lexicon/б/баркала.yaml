@@ -2,7 +2,11 @@ id: tw7JM7uSLJZWNPUiWU4D
 headword: баркала
 ipa: ˈbaɾkala
 tags: [n, loan, arabic]
+
 definitions:
   - translation:
       en: thanks
       ru: спасибо
+    examples:
+      - text: хола баркала етти
+      - text: баркала биьов циней

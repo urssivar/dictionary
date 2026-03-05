@@ -11,11 +11,6 @@ forms:
     gloss: ipfv
 definitions:
   - translation:
-      en: to correct
-      ru: исправлять
-    aliases:
-      en: [rectify, fix]
-  - translation:
       en: to admonish
       ru: наставлять
     aliases:

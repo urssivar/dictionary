@@ -11,8 +11,13 @@ forms:
     gloss: obl
   - text: бирме
     gloss: pl
+variants:
+  - text: бар
+
 definitions:
   - translation:
       en: day
       ru: день
     tags: [time]
+    examples:
+      - text: ганела бирме кутӏ дирьор

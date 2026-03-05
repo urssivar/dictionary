@@ -4,11 +4,14 @@ ipa: baɾˈkat
 tags: [n, loan, arabic]
 definitions:
   - translation:
-      en: abundance
-      ru: изобилие
+      en: abundance; boon
+      ru: изобилие; благо; благодать
     aliases:
       en: [grace, prosperity]
     examples:
-      - text: баркат биьав
+      - text: Ил барив ьулмат баркат биьав етти.
         translation:
-          en: all the best
+          ru: Пусть оказанное тобой уважение будет тебе во благо
+      - text: Барив хурег баркатла агур, явра халкӏи чиьаҡив.
+        translation:
+          ru: Приготовленная еда получилась благодатной, множеству людей хватило.

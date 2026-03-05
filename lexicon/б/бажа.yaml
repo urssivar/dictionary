@@ -1,14 +1,15 @@
 id: vP6j44BRIh9BieGGFvRt
-headword: бажанах
-ipa: baʒaˈnaχ
+headword: бажа
+ipa: baˈʒa
 tags: [n, loan, turkic]
-note:
-  en: "*бажа*"
 forms:
-  - text: бажанах
+  - text: бажа
     gloss: abs
-  - text: бажанахе
+  - text: бажне
     gloss: pl
+variants:
+  - text: бажанағ
+
 definitions:
   - translation:
       en: brother-in-law

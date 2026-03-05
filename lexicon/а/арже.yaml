@@ -18,3 +18,9 @@ definitions:
     aliases:
       en: [handle, knob, helve]
       ru: [ручка, держатель]
+  - translation:
+      en: long tail
+      ru: длинный хвост
+    tags: [tool]
+    examples:
+      - text: йябула арже

@@ -11,9 +11,10 @@ definitions:
     aliases:
       en: [overly, much]
     examples:
-      - text: баҡ явра ғай дарив
+      - text: баҡ явра ғай дарив ҡӏал
         translation:
           en: talked too much
-      - text: баҡ дурҡал це ьурсара
+          ry: чрезчур много разговаривал
+      - text: баҡ дурҡал це асара
         translation:
           en: too expensive to buy

@@ -11,7 +11,16 @@ forms:
     gloss: ipfv
 definitions:
   - translation:
+      en: to correct
+      ru: исправлять
+    aliases:
+      en: [rectify, fix]
+    examples:
+      - text: ила хатӏа барҳ бара
+  - translation:
       en: to straighten
       ru: выпрямлять
     aliases:
       en: [fix, right]
+    examples:
+      - text: уццил ччям барҳ барив

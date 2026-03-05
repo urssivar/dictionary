@@ -9,7 +9,12 @@ forms:
     gloss: pret
   - text: барх ьабирьора
     gloss: ipfv
+
 definitions:
   - translation:
-      en: to deal with
-      ru: иметь дело
+      en: to confuse
+      ru: запутываться
+    aliases:
+      en: [tangle, snarl]
+    examples:
+      - text: Сукке дарх ьадиьяв дила

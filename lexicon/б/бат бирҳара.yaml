@@ -12,6 +12,8 @@ forms:
 definitions:
   - translation:
       en: to set off
-      ru: начинать движение
+      ru: начинать движение, трогадться
     aliases:
       en: [pace, go, set, "off"]
+    examples:
+      - text: пуез бат бишив

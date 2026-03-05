@@ -1,0 +1,17 @@
+id: 4hMzc16aYnUg7LKqU2rX
+headword: балун
+ipa: banˈkːa
+tags: [n, loan, russian]
+note:
+  en: "*банкьа*"
+forms:
+  - text: банкка
+    gloss: abs
+  - text: балунте
+    gloss: pl
+definitions:
+  - translation:
+      en: jar
+      ru: банка
+    aliases:
+      en: [can]

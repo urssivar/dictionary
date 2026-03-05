@@ -15,8 +15,14 @@ definitions:
       ru: знать
     aliases:
       en: [learn]
+    examples:
+      - text: ьел агне дул абаьурда
+        translation:
+          ru: я не знал, что это случилось
   - translation:
       en: to recognise
       ru: узнавать
     aliases:
       en: [see]
+    examples:
+      - text: дул ьел чиражив гон раьурда

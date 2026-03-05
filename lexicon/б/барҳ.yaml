@@ -10,13 +10,17 @@ definitions:
       ru: справедливый
     aliases:
       en: [right, "true"]
+    examples:
+      - text: варҳ мейдам це
+        translation:
+          ru: он справедливый человек
   - translation:
       en: honest
       ru: честный
     examples:
-      - text: барҳ челле
+      - text: барҳле бурсадал
         translation:
-          en: honestly
+          en: if I say honestly
   - translation:
       en: right
       ru: верный

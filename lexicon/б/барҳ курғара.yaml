@@ -1,0 +1,19 @@
+id: GhWDJWqvpgC9Gt2XropV
+headword: барҳ курғара
+ipa: ˌbaɾx kuɾˈʁaɾa
+tags: [v, cls, tr]
+forms:
+  - text: барҳ кағара
+    gloss: pfv
+  - text: барҳ кағив
+    gloss: pret
+  - text: барҳ курғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to route
+      ru: направлять, проводить
+    examples:
+      - text: шин ишккар дарҳ каға
+        translation:
+          ru: проведи воду отсюда

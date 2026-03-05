@@ -12,3 +12,5 @@ definitions:
       en: sun
       ru: солнце
     tags: [nature]
+    examples:
+      - text: барила бирме

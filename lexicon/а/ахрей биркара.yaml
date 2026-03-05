@@ -3,7 +3,7 @@ headword: ахрей биркара
 ipa: aχˌɾej biɾˈkaɾa
 tags: [v, ntr, cls]
 forms:
-  - text: ахрей биркара
+  - text: ахрей биркара 
     gloss: ipfv
   - text: ахрей бичив
     gloss: pret
@@ -17,6 +17,8 @@ definitions:
     aliases:
       en: [to doze, to snooze]
       ru: [вздремнуть]
+    examples:
+      - text: Нишай ьереғ кижил ахрей вичивда.
 
 etymology:
   en: "*ахрей* does not occur independently."

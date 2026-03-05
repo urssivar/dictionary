@@ -13,9 +13,7 @@ definitions:
     aliases:
       en: [in, into, within]
     examples:
-      - text: машинла бакки
-        translation:
-          en: inside the car
       - text: атта вакки ви
         translation:
           en: father is inside
+      - text: сункка бакки тта башун це
