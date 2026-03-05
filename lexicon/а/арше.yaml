@@ -16,7 +16,6 @@ definitions:
     aliases:
       en: [crop, reaping]
       ru: [жатва]
-    + жатва
 
 derived_from: [ирҳара]
 see_also: [арцӏе]

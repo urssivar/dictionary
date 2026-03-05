@@ -1,3 +1,4 @@
+id: e_o_-GbwC_bzUhTYPLgJU
 headword: урсара
 
 forms:
@@ -7,3 +8,8 @@ forms:
     gloss: pret
   - text: асара
     gloss: pfv
+
+definitions:
+  - translation:
+      en: to buy
+      ru: покупать
