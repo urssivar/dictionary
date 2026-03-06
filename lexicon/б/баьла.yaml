@@ -6,10 +6,15 @@ definitions:
   - translation:
       en: slow
       ru: медленный
+    examples:
+      - text: баьлал маваҳатте
   - translation:
       en: careful
-      ru: аккуратный
+      ru: размереный, аккуратный
     examples:
-      - text: баьлал вя
+      - text: баьлал булчӏе
         translation:
-          en: go carefully
+          en: read carefully
+      - text: цула баьла биьяв
+        translation:
+          en: tooth eased

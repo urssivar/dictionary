@@ -12,10 +12,10 @@ forms:
 definitions:
   - translation:
       en: to abandon
-      ru: бросать
+      ru: бросать, оставлять, прекращать
     aliases:
       en: [desert, quit, stop]
     examples:
-      - text: дирсле даҳ чидатур
+      - text: ячу даҳ чидатул вегур
         translation:
           en: abandoned lessons

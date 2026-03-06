@@ -13,6 +13,6 @@ definitions:
     aliases:
       en: [first]
     examples:
-      - text: баьсар ьеж бара
+      - text: баьсар ьеж бара, цӏил ьет бара
         translation:
           en: first do this

@@ -1,14 +1,18 @@
 id: jxgl4YEly0NzB0fJ2CTp
 headword: баҳу
-ipa: ˈbaxu
+ipa: baˈxu
 tags: [n, vb]
 etymology:
   en: From *баҳара* "to walk".
-note:
-  en: "*баҳре*"
+variants:
+  - text: баҳне
+  - text: баҳре
+
 definitions:
   - translation:
       en: gait
       ru: походка
     aliases:
       en: [walk]
+    examples:
+      - text: Ила баҳу ила холаттай мешул це.

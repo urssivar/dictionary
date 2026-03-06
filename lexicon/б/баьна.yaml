@@ -1,6 +1,6 @@
 id: 77rFRuxIKR3B3wIYA0da
 headword: баьна
-ipa: bahˈna
+ipa: ˈbahna
 tags: [n, loan]
 forms:
   - text: баьна
@@ -13,3 +13,9 @@ definitions:
       ru: повод
     aliases:
       en: [case]
+    examples:
+      - text: ду ижин угара баьна бейкку
+  - translation:
+      en: guilt
+    examples:
+      - text: баьна аккол туснаҡҡцци катур

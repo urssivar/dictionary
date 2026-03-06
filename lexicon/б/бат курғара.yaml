@@ -12,6 +12,6 @@ forms:
 definitions:
   - translation:
       en: to drop
-      ru: бросать
+      ru: бросать, отпускать
     aliases:
       en: [throw]

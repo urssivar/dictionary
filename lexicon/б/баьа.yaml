@@ -12,3 +12,5 @@ definitions:
       en: price
       ru: цена
     tags: [social]
+    examples:
+      - text: арц баьа дерҡӏил це

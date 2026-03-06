@@ -11,6 +11,8 @@ definitions:
     aliases:
       en: [God]
       ru: [Бог]
+    examples:
+      - text: Аллаьли цере рат.
 
 etymology:
   en: From Arabic اللّٰه (*allāh*).

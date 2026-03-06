@@ -1,11 +1,9 @@
 id: ZUNzR1MisRYpGiGgD5Wc
-headword: бахма
-ipa: baχˈma
+headword: ҡӏолт
 tags: [n]
-note:
-  en: |-
-    *махмар*
-    *ҡьолт*
+variants:
+  - text: махмар
+
 definitions:
   - translation:
       en: velveteen

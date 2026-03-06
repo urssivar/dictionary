@@ -18,9 +18,6 @@ definitions:
     aliases:
       en: [matchmake]
     examples:
-      - text: дам баъ дарара цябун
+      - text: дами баъ дарара цябун
         translation:
           en: they came to woo me
-      - text: ьел баъ раривда
-        translation:
-          en: i got her engaged

@@ -11,7 +11,9 @@ forms:
     gloss: ipfv
 definitions:
   - translation:
-      en: to provide
-      ru: предоставлять, отправлять \\ пошли ?
+      en: to send
+      ru: посылать
     aliases:
       en: [give, send]
+    examples:
+      - text: Дул ттавттар етти пуштталццил бат бурғанда.

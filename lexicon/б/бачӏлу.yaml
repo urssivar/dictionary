@@ -1,15 +1,16 @@
 id: kZqExd4S9Dem2oLzysJg
-headword: бачӏру
-ipa: ˈbatʃʼɾu
+headword: бачӏлу
+ipa: ˈbatʃʼlu
 tags: [n]
-note:
-  en: |-
-    *бачьрум*, *бачьлу*
-    *пьяҡьли* (Kumyk)
+variants:
+  - text: бачӏрум
+    lect: kttg
+  - text: пӏяҡӏли
+    lect: snch
 forms:
-  - text: бачӏру
+  - text: бачӏлу
     gloss: abs
-  - text: бачӏунде
+  - text: бачӏлуме
     gloss: pl
 definitions:
   - translation:

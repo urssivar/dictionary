@@ -14,6 +14,8 @@ definitions:
       en: moon
       ru: луна
     tags: [nature]
+    examples:
+      - text: Бацц чибигул йе?
   - translation:
       en: month
       ru: месяц

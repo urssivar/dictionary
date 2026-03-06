@@ -4,12 +4,10 @@ ipa: ˈbeβkʼa
 tags: [n, vb]
 etymology:
   en: From *бувкьара* "to die".
-forms:
-  - text: бевкӏа
-    gloss: abs
-  - text: бевкӏан
-    gloss: obl
+
 definitions:
   - translation:
       en: death
       ru: смерть
+    examples:
+      - text: бевкӏала хабар

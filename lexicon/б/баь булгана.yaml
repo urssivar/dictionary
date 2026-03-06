@@ -3,9 +3,9 @@ headword: баь булгана
 ipa: ˌbah bulˈgana
 tags: [v, tr, ntr, cls]
 forms:
-  - text: баь балгана
+  - text: баь белгана
     gloss: pfv
-  - text: баь балгун
+  - text: баь белгун
     gloss: pret
   - text: баь булгана
     gloss: ipfv
@@ -13,3 +13,5 @@ definitions:
   - translation:
       en: to dress
       ru: одеваться
+    examples:
+      - text: Ттура дурхан ҡҡе гунал ваь велже.

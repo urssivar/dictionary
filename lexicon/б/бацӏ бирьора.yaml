@@ -11,5 +11,9 @@ forms:
     gloss: ipfv
 definitions:
   - translation:
+      en: пустеть
+    examples:
+      - text: Дяьне аккол ҡале бацӏ биьяв.
+  - translation:
       en: to have a miscarriage
       ru: иметь выкидыш

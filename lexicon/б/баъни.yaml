@@ -11,9 +11,9 @@ definitions:
     aliases:
       en: [nearly, almost]
     examples:
-      - text: машин баъне це зай биьора
+      - text: машин баъни це зай биьора
         translation:
           en: the car is about to break
-      - text: баъне веғил
+      - text: баъни веғил
         translation:
           en: '*at critical state, in need of help'

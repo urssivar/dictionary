@@ -14,9 +14,9 @@ definitions:
     aliases:
       en: [rim]
     examples:
-      - text: баъне кижил ви
+      - text: карватла баъи кижил ви
         translation:
-          en: he's eager to
+          en: he's sitting at the edge
   - translation:
       en: opportunity
       ru: возможность

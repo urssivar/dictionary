@@ -22,3 +22,5 @@ definitions:
     tags: [food]
     aliases:
       en: [pie]
+    examples:
+      - text: Аттабал дигулла бацбикӏе дири.
