@@ -12,6 +12,6 @@ forms:
 definitions:
   - translation:
       en: to provide
-      ru: предоставлять, отправлять
+      ru: предоставлять, отправлять \\ пошли ?
     aliases:
       en: [give, send]

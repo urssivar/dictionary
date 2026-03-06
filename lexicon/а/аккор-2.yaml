@@ -11,7 +11,7 @@ definitions:
       en: [absent, lacking, missing]
       ru: [отсутствуя, не имея, без]
     examples:
-      - text: Ду ҡил аккор ҡҡел мацятте.
+      - text: Ду ҡил аккор ҡҡе мацятте.
         translation:
           en: Don't come when I'm not home.
           ru: Не приходи когда меня не дома.

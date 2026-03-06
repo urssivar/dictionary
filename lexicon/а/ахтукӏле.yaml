@@ -11,5 +11,7 @@ definitions:
     aliases:
       en: [phlegm]
       ru: [слизь]
+    examples:
+      - text: ахтукӏле ту дара
 
 derived_from: [ту]
