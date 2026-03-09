@@ -1,16 +1,16 @@
 id: peQS9PNKSEk3fgLWqNWK
-headword: бижел
+headword: бижел бирара
 ipa: biˈʒel
 tags: [n, cls]
 note:
-  en: '*бижил*, *бижелла*'
+  en: '*бижил*, *бижела*'
 definitions:
   - translation:
       en: acknowledgement
-      ru: признание
+      ru: признавать, уважать
     aliases:
       en: [respect]
     examples:
-      - text: вижел ра вирул акку
+      - text: ҳулумла тухумтал ду вяьил вижела варивда
         translation:
           en: they don't even acknowledge him

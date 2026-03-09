@@ -5,7 +5,7 @@ tags: [v, tr, cls]
 forms:
   - text: беҡара
     gloss: pfv
-  - text: берҡив
+  - text: беҡив
     gloss: pret
   - text: берҡара
     gloss: ipfv
@@ -16,6 +16,6 @@ definitions:
     aliases:
       en: [end, finish]
     examples:
-      - text: деҡив дунцра
+      - text: Аллаьли ҡӏабул дарав нишал деҡив дунцра
         translation:
           en: completed fasting

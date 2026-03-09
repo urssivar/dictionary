@@ -12,6 +12,19 @@ forms:
 definitions:
   - translation:
       en: to carry
-      ru: нести
+      ru: относить
     aliases:
       en: [move]
+    examples:
+      - text: убаса дян ҡҡел ьештти цӏидеҳ ра дуҡка
+  - translation:
+      en: уносить
+    examples:
+      - text: букӏумли сукке ьадишур холтӏе дуҡҡив
+      - text: ижал чиркала умрал нисала ҡӏяҡӏ буҡҡив
+  - translation:
+      en: носить, одевать
+    examples:
+      - text: ьеж берттив ккуртте мабиҡҡатте
+        translation:
+          ru: не носи эту порванную рубашку

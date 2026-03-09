@@ -1,6 +1,6 @@
 id: OZmfGjufi24NyowTSdfS
-headword: бези бирьора
-ipa: beˌzi biɾˈhʷaɾa
+headword: беза бирьора
+ipa: ˌbeza biɾˈhʷaɾa
 tags: [v, ntr, cls]
 forms:
   - text: бези биьора
@@ -9,9 +9,13 @@ forms:
     gloss: pret
   - text: бези бирьора
     gloss: ipfv
+variants:
+  - text: бези
 definitions:
   - translation:
       en: to calm down
       ru: униматься
     aliases:
       en: [low, quiet, easy]
+    examples:
+      - text: аттал маймай варил дярья беза виьяв

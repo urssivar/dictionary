@@ -13,8 +13,12 @@ definitions:
       ru: раскидывать
     aliases:
       en: [scatter, disperse, throw]
+    examples:
+      - text: дила холтӏе мадивзатте
   - translation:
       en: to scurry
-      ru: копошиться
+      ru: копошиться, рыть
     aliases:
       en: [dig]
+    examples:
+      - text: ҡҡум кадара ирҡӏвяй дивзихара

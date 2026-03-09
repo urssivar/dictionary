@@ -13,6 +13,10 @@ definitions:
       ru: голова
     tags: [body]
     examples:
-      - text: бекӏи цяна
+      - text: бекӏи кижил це
         translation:
-          en: to meet fate
+          en: imputend
+      - text: бекӏ буцил ви 
+        translation:
+          en: sitting in thoughts
+      - text: дила бекӏ буццул акку ьана

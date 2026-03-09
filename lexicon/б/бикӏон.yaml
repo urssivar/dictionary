@@ -12,11 +12,11 @@ forms:
 definitions:
   - translation:
       en: so called
-      ru: так называемый
+      ru: так называемый, нечто, некто
     aliases:
       en: [notion, term, concept]
     examples:
-      - text: коцци йа ьел риҡна да рикӏон
+      - text: коцци йа ьел цӏекуре да рикӏон
         translation:
           en: where the that so-called old lady?
       - text: цаҡҡа ьел айпун бикӏон

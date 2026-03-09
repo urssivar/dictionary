@@ -15,3 +15,9 @@ definitions:
       ru: уходить
     aliases:
       en: [depart, go]
+    examples:
+      - text: чӏвел сяят дегур
+  - translation:
+      en: depart
+    examples:
+      - text: дяьне ушккулцци бегур

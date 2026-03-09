@@ -9,13 +9,13 @@ definitions:
     aliases:
       en: [wish, attract]
     examples:
-      - text: дам шин диккул да
+      - text: ду ккушле да, дами укана биккар
         translation:
           en: i want water
       - text: дуцци ци биккул де йа и?
         translation:
           en: what do you want from me?
-      - text: ду ижин угара биккул да
+      - text: ду ҡил вянара биккул да
         translation:
           en: i want to stay here
   - translation:

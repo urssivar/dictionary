@@ -2,8 +2,6 @@ id: lUnQ0e2qhgbuTUj5GMFl
 headword: биғихара
 ipa: biʁiˈχaɾa
 tags: [v, tr, cls]
-note:
-  en: "*бехара*"
 forms:
   - text: беғихара
     gloss: pfv
@@ -11,9 +9,14 @@ forms:
     gloss: pret
   - text: биғихара
     gloss: ipfv
+variants:
+  - text: бехара
+
 definitions:
   - translation:
       en: to deliver
       ru: доставлять
     aliases:
       en: [move, get, send]
+    examples:
+      - text: ьеж сункка дила дярьяй беғиха

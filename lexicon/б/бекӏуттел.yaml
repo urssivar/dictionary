@@ -4,11 +4,14 @@ ipa: ˈbekʼutːel
 tags: [adv]
 etymology:
   en: From *бекь* "head", the second part is related to *гуни* "below".
-note:
-  en: '*бекь гуттер*'
+variants:
+  - text: бекӏ гуттер
+  - text: бекӏ саттинне
 definitions:
   - translation:
       en: upside down
       ru: вверх ногами
     aliases:
       en: [bottom, up]
+    examples:
+      - text: ттартт бяҡил бекӏуттел кагур 

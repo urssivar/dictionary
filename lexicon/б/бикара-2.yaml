@@ -15,8 +15,10 @@ definitions:
       ru: мазать
     aliases:
       en: [oint, smear]
+    examples:
+      - text: бацбикӏ метӏил бака
   - translation:
       en: to fool
-      ru: дурачить
+      ru: дурачить, обманывать
     aliases:
       en: [lie]

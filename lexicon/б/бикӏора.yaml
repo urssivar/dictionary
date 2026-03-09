@@ -9,15 +9,6 @@ forms:
     gloss: ipfv
 definitions:
   - translation:
-      en: to mean
-      ru: иметь ввиду
-    aliases:
-      en: [speak, communicate]
-    examples:
-      - text: ду ичӏид
-        translation:
-          en: i mean
-  - translation:
       en: to speak
       ru: говорить
     aliases:
@@ -26,3 +17,15 @@ definitions:
       - text: ниҳола ғайли цигле бикӏор ей ьел?
         translation:
           en: how is it in our langauge?
+      - text: ьелттежил мабиратте, ду икӏул да
+        translation:
+          en: i mean
+      - text: на ци дичӏида йе агурилла ьереғ  
+  - translation:
+      en: to mean
+      ru: иметь ввиду, думать
+    aliases:
+      en: [speak, communicate]
+    examples:
+      - text: ду икӏул да, бажил абяяж
+        

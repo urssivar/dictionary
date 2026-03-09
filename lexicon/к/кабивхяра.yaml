@@ -1,0 +1,19 @@
+id: IiU8KfNZeqn2PsgK5XL8
+headword: кабивхяра
+ipa: kaˈtːila
+tags: [n]
+etymology:
+  en: From *катт* "downward", cf *ьаттила* "ascent".
+forms:
+  - text: каттила
+    gloss: abs
+  - text: каттилал
+    gloss: obl
+definitions:
+  - translation:
+      en: descent
+      ru: спуск
+    aliases:
+      en: [fall]
+    examples:
+      - text: халича ттура цаҡҡа кабивхяра

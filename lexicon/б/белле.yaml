@@ -11,12 +11,9 @@ definitions:
     aliases:
       en: [before, while, til]
     examples:
-      - text: абарил велле мацят
+      - text: абарил велле мацятте
         translation:
           en: don't come until you're done
-      - text: аряръил релле ря ҡил
-        translation:
-          en: go home before you caught cold
-      - text: хурег белле вя уче
+      - text: хурег гунал белле ваше укана
         translation:
           en: go eat while there's food left

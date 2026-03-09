@@ -11,9 +11,6 @@ definitions:
     aliases:
       en: [completely]
     examples:
-      - text: дам ьел бекӏле бажил акку
+      - text: дами ьел бекӏле бажил акку
         translation:
           en: i don't need that at all
-      - text: бекӏле арц дейкку
-        translation:
-          en: no money at all

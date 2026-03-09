@@ -16,3 +16,5 @@ definitions:
       en: axe
       ru: топор
     tags: [tool, warfare]
+    examples:
+      - text: береттанццил диг бувғя барив

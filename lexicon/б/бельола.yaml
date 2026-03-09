@@ -9,6 +9,9 @@ forms:
     gloss: abs
   - text: бельле
     gloss: obl
+  - text: бельлуме
+    gloss: pl
+
 definitions:
   - translation:
       en: animal for slaughter

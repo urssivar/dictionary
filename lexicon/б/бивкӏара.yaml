@@ -11,6 +11,9 @@ forms:
     gloss: pret
   - text: бивкӏара
     gloss: ipfv
+variants:
+  - text: бувкӏара
+  - text: бувкӏана
 definitions:
   - translation:
       en: to perform

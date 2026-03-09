@@ -3,15 +3,18 @@ headword: бивхяра
 ipa: biβˈχːæɾa
 tags: [v, cls, ntr]
 forms:
-  - text: бявхяра
-    gloss: pfv
-  - text: бявхив
+  - text: бивхяв
     gloss: pret
   - text: бивхяра
     gloss: ipfv
+variants:
+  - text: бявхяра
+
 definitions:
   - translation:
       en: to shake up
       ru: трусить
     aliases:
       en: [rock]
+    examples:
+      - text: ккалкка бявхя удре кадичихара 
