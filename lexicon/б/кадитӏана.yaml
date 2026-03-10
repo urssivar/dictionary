@@ -16,15 +16,11 @@ definitions:
     aliases:
       en: [take, grasp]
   - translation:
-      ru: отпирать
-    examples:
-      - text: мажинжи ҡҡапу дитӏа
-  - translation:
       en: to extract
       ru: добывать
     aliases:
       en: [mine]
     examples:
-      - text: даҳай ккартушшка дилтӏанда
+      - text: меь дитӏана
         translation:
           en: to extract iron

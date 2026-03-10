@@ -11,12 +11,18 @@ forms:
     gloss: ipfv
 definitions:
   - translation:
-      en: to do
+      en: to do, to make
       ru: делать
     aliases:
       en: [implement]
+    examples:
+      - text: аттала риццил ца яь бицци хурег барив ҡӏал
+      - text: дул иранил бара, цӏил вя
   - translation:
-      en: to create
-      ru: создавать
+      en: to create, to birth
+      ru: создавать, рожать
     aliases:
       en: [make]
+    examples:
+      - text: рирси са дучче рарив
+      - text: нисала усттул ьел усттал дарив

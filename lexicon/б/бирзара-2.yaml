@@ -1,0 +1,16 @@
+id: uJzWOvuLrnZN2PtFRsdI
+headword: бирзара
+ipa: biɾˈzaɾa
+tags: [v, tr, cls]
+forms:
+  - text: бирзив
+  - text: бирзара
+definitions:
+  - translation:
+      en: to strew
+      ru: раскидывать, рабегаться
+    aliases:
+      en: [scatter, disperse, throw]
+    examples:
+      - text: дила холтӏе мадирзатте
+      - text: чикне ьашул дирзив

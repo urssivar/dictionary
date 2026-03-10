@@ -16,7 +16,7 @@ definitions:
     aliases:
       en: [construct]
     examples:
-      - text: тупанг бирғил де
+      - text: уццил машинна матур бирғул де
         translation:
           en: the rifle was assembled
   - translation:
@@ -25,6 +25,6 @@ definitions:
     aliases:
       en: [collect]
     examples:
-      - text: дивҳне дирға
+      - text: дивҳне дирғил дирца
         translation:
           en: gather the dishes

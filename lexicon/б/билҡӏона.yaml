@@ -9,6 +9,7 @@ forms:
     gloss: pfv
   - text: биҡӏур
     gloss: pret
+variants:
   - text: билҡӏона
     gloss: ipfv
 definitions:
@@ -17,3 +18,5 @@ definitions:
       ru: зреть
     aliases:
       en: [grow, ripe]
+    examples:
+      - text: ьеж ивҳнела тӏутӏи исле диҡӏур

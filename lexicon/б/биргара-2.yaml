@@ -16,7 +16,7 @@ definitions:
     aliases:
       en: [setup]
     examples:
-      - text: уцца бига
+      - text: уцца дига
         translation:
           en: install the door
   - translation:
@@ -25,6 +25,6 @@ definitions:
     aliases:
       en: [start]
     examples:
-      - text: милҡҡвя дижив
+      - text: ьинцецци милҡҡвя дижив
         translation:
           en: worms appeared

@@ -9,6 +9,8 @@ definitions:
     aliases:
       en: [existing]
     examples:
-      - text: илттел бил ҳарра аагур
+      - text: ьелттел бил ҳарра аагур
         translation:
           en: despite it being so it didn't work
+      - text: ду никӏол вил ҡҡел шилцци угаде
+      - text: нисала холаттнала ҡилбе дилцци ьана гяма агул ди

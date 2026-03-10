@@ -2,8 +2,15 @@ id: FWVGBKaTULTW2v1UeM6b
 headword: билекко
 ipa: bileˈkːʷa
 tags: [n]
+forms:
+  - text: билеккон
+  - text: билеккола
+    
 definitions:
   - translation:
       en: lakia
       ru: лакия
     tags: [toponym]
+    examples:
+      - text: атта билекконхалса це
+      - text: ьеж шилцци чӏвел билеккола кулпет ьербирьор  

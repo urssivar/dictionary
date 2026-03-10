@@ -9,13 +9,6 @@ forms:
     gloss: ipfv
 definitions:
   - translation:
-      en: to strew
-      ru: раскидывать
-    aliases:
-      en: [scatter, disperse, throw]
-    examples:
-      - text: дила холтӏе мадивзатте
-  - translation:
       en: to scurry
       ru: копошиться, рыть
     aliases:
