@@ -17,3 +17,5 @@ definitions:
       ru: заставлять
     aliases:
       en: [force, make]
+    examples:
+      - text: аттал уршицци дирсле дарихив

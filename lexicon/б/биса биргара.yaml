@@ -1,5 +1,5 @@
 id: TJ8cCcObfUdN5m3uA10i
-headword: биса биргара
+headword: биса ьабиргара
 ipa: ˌbisːa biɾˈgaɾa
 tags: [v, ntr, cls]
 forms:
@@ -9,9 +9,12 @@ forms:
     gloss: pret
   - text: биса биргара
     gloss: ipfv
+
 definitions:
   - translation:
       en: to burst into tears
       ru: расплакаться
     aliases:
       en: [cry, weep]
+    examples:
+      - text: уцци вевчӏил рицци риса ьарижив

@@ -12,6 +12,8 @@ forms:
 definitions:
   - translation:
       en: to move off
-      ru: подвигать
+      ru: притягивать, пододвигать
     aliases:
       en: [attract, push]
+    examples:
+      - text: чӏаҡӏо иса битӏ цаҡӏа

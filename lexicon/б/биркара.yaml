@@ -12,12 +12,15 @@ forms:
 definitions:
   - translation:
       en: to receive
-      ru: получать
+      ru: попадаться, получать
     aliases:
       en: [get]
+    examples:
+      - text: ьелей яь ҳулум ричив
+      - text: цӏидеҳ дицил дами яь арц дичив 
   - translation:
       en: to occur
-      ru: наступать
+      ru: наступать, оказываться
     aliases:
       en: [turn, arrive]
     examples:

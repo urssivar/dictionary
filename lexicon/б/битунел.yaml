@@ -1,10 +1,10 @@
 id: U3VsVvJcFvaMiUz0ZYu9
-headword: битун
+headword: битунел
 ipa: biˈtun
 tags: [adj]
-note:
-  en: *бутун*
-
+variants:
+  - text: битуньер
+    
 definitions:
   - translation:
       en: whole
@@ -12,6 +12,6 @@ definitions:
     aliases:
       en: [entire]
     examples:
-      - text: битун ҡҡабағ беркун
+      - text: саҡли чӏвел кила ҡҡампитала битунел деркул
         translation:
           en: ate entire pumpkin

@@ -19,15 +19,15 @@ definitions:
       - text: урши витив
         translation:
           en: they beat up the boy
-      - text: битив диг
-        translation:
-          en: minced meat
   - translation:
       en: to pound
-      ru: толочь
+      ru: толочь, отбиваня
     aliases:
       en: [crush]
     examples:
-      - text: ачӏе дитара
+      - text: ччашин барара шерже дита
         translation:
           en: to pound wheat
+      - text: битив диг
+        translation:
+          en: minced meat
