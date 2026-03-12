@@ -11,8 +11,11 @@ forms:
     gloss: ipfv
 definitions:
   - translation:
-      en: to swell
-      ru: опухать
+      en: to inflate, to swell
+      ru: надуваться, опухать
+    examples:
+      - text: бачӏлул велҡҡун кӏултӏа бевттун
   - translation:
-      en: to inflate
-      ru: надуваться
+      ru: обижаться
+    examples:
+      - text: циней биккан абичил вевттун виде

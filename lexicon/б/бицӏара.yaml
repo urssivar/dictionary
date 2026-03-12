@@ -15,8 +15,12 @@ definitions:
       ru: растворяться
     aliases:
       en: [melt]
+    examples:
+      - text: дарман шинецци бацӏа
   - translation:
       en: to melt
       ru: плавиться, таять
     aliases:
       en: [thaw]
+    examples:
+      - text: баре чикабиццнелццил дяья бацӏив 

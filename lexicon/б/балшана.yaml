@@ -15,4 +15,5 @@ definitions:
       ru: пачкаться
     aliases:
       en: [stain, smudge]
-    text: пинцӏа куржинжи кижил ила вачаг башун
+    examples:
+      - text: пинцӏа курсинжи кижил ила вачаг башун

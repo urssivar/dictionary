@@ -2,8 +2,7 @@ id: tS78kxyx4DE5GmA0ThZh
 headword: битӏихара
 ipa: bitʼiˈχaɾa
 tags: [v, ntr, cls]
-note:
-  en: "*чибитьара*"
+
 forms:
   - text: бетӏихара
     gloss: pfv
@@ -13,7 +12,8 @@ forms:
     gloss: ipfv
 definitions:
   - translation:
-      en: to annoy
-      ru: надоедать
-    aliases:
-      en: [bother]
+      en: to miss
+    examples:
+      - text: рицци аккол дами битӏихул це
+        translation:
+          en: i miss my sister

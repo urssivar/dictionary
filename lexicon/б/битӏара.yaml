@@ -9,13 +9,16 @@ forms:
     gloss: pret
   - text: битӏара
     gloss: ipfv
+variants:
+  - text: чибитӏара
+
 definitions:
   - translation:
-      en: to bore
-      ru: наскучивать
+      en: to annoy
+      ru: надоедать
     aliases:
       en: [idle, miss]
     examples:
-      - text: уба аккол бетӏил це
+      - text: уссун бетӏил акку у етти?
         translation:
-          en: i miss my mom
+          en: i miss my sister

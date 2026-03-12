@@ -1,7 +1,7 @@
 id: yvclsrG14nZkb74DyHwl
 headword: бувччана
 ipa: buβˈtʃːana
-tags: [v, ntr, cls]
+tags: [v, tr, ntr, cls]
 forms:
   - text: бевччана
     gloss: pfv
@@ -16,3 +16,5 @@ definitions:
     tags: []
     aliases:
       en: [warm, hot]
+    examples:
+      - text: пич яьле бевччун це

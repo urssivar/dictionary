@@ -1,6 +1,6 @@
 id: K2vmJ7XHabFOAi2ZunuD
 headword: бувкка
-ipa: buβˈkːa
+ipa: ˈbuβkːa
 tags: [adj, cls]
 definitions:
   - translation:
@@ -8,6 +8,6 @@ definitions:
       ru: острый
     tags: [tool]
     examples:
-      - text: бувкка барара
+      - text: дис бувкка барара
         translation:
-          en: to sharpen
+          en: sharpen the knife
