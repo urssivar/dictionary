@@ -4,6 +4,7 @@ ipa: bulˈgana
 tags: [v, ntr, cls]
 note:
   en: "*сарбулгана*"
+
 forms:
   - text: бугана
     gloss: pfv
@@ -14,6 +15,8 @@ forms:
 definitions:
   - translation:
       en: to destroy
-      ru: рушиться
+      ru: уничтожать, рушить
     aliases:
       en: [delete, ruin]
+    examples:
+      - text: ясккартал ши бугун

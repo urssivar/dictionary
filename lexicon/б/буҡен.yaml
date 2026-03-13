@@ -5,7 +5,7 @@ tags: [adj, cls]
 definitions:
   - translation:
       en: long
-      ru: длинный
+      ru: длинный,
     aliases:
       en: [tall, lengthy]
     examples:

@@ -3,15 +3,18 @@ headword: буҡӏана
 ipa: buˈqʼana
 tags: [v, cls, tr]
 forms:
-  - text: белҡӏона
+  - text: беҡӏона
     gloss: pfv
-  - text: белҡӏун
+  - text: беҡӏун
     gloss: pret
   - text: буҡӏана
     gloss: ipfv
+
 definitions:
   - translation:
       en: to mill
       ru: молоть
     aliases:
       en: [crush, mash, mill]
+    examples:
+      - text: бацӏле буҡӏан урха

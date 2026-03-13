@@ -4,6 +4,7 @@ ipa: ˈbuɾta
 tags: [n]
 note:
   en: "*буҳтта*, *ҡар*"
+
 forms:
   - text: бурта
     gloss: abs
@@ -17,3 +18,5 @@ definitions:
       ru: крышка
     aliases:
       en: [cap]
+    examples:
+      - text: бурта чеҡ бара

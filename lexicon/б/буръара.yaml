@@ -15,8 +15,12 @@ definitions:
       ru: остывать
     aliases:
       en: [chill, flue]
+    examples:
+      - text: яшакк ттура буссяят буръанне
   - translation:
       en: to catch a cold
       ru: простывать
     aliases:
       en: [ill]
+    examples:
+      - text: са пич биршил вяръивда

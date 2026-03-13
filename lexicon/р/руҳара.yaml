@@ -15,3 +15,6 @@ definitions:
       ru: красить
     aliases:
       en: [dye, color]
+  - translation:
+      en: to decorate
+      ru: украшать

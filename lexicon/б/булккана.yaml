@@ -5,6 +5,8 @@ tags: [v, cls, ntr]
 definitions:
   - translation:
       en: to worship
-      ru: поклоняться
+      ru: молиться, поклоняться
     aliases:
       en: [pray]
+    examples:
+      - text: чирка деғарай рулккун де

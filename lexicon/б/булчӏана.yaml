@@ -13,11 +13,17 @@ definitions:
   - translation:
       en: to read
       ru: читать
+    examples:
+      - text: сахсара белчӏа 
   - translation:
       en: to study
       ru: изучать, учить
     aliases:
       en: [learn]
+    examples:
+      - text: мисттикӏан дяьне ҡӏурамли булчӏи
   - translation:
       en: to sing
       ru: петь
+    examples:
+      - text: белчӏа ьари далай

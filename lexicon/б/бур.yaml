@@ -13,3 +13,5 @@ definitions:
       ru: порог
     aliases:
       en: [door, step]
+    examples:
+      - text: мялала бур

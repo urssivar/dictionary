@@ -10,15 +10,11 @@ forms:
 definitions:
   - translation:
       en: to tell
-      ru: рассказывать
+      ru: рассказывать, сообщать
     aliases:
       en: [say]
-  - translation:
-      en: to invite
-      ru: приглашать
-    aliases:
-      en: [call, ask]
     examples:
+      - text: на дурсай нишшала хабарте  
       - text: суккелцци миҡҡцци бурсив
         translation:
           en: invited all to the wedding

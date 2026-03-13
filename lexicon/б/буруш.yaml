@@ -12,6 +12,6 @@ forms:
 definitions:
   - translation:
       en: mattress
-      ru: матрас
+      ru: матрас, постель
     aliases:
       en: [bed]

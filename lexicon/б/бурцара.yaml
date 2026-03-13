@@ -13,9 +13,18 @@ definitions:
   - translation:
       en: to hold
       ru: держать
+    examples:
+      - text: буца уццула тӏеле
+      - text: ттутту буца
   - translation:
       en: to catch
       ru: ловить
+    examples:
+      - text: аттацци варх бялиҡҡе дурцаде
+  - translation:
+      en: hire
+    examples:
+      - text: устта урцанда бяъруме чидяҡяра
   - translation:
       en: to bear
       ru: переносить, выдерживать

@@ -12,7 +12,10 @@ forms:
 definitions:
   - translation:
       en: to bloom
-      ru: цвести
+      ru: цвести, уродиться
+    examples:
+      - text: ҡӏвярче берҡил це
+      - text: ила ҡале берҡ!
   - translation:
       en: to suck
       ru: сосать
