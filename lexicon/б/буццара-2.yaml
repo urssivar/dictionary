@@ -15,7 +15,7 @@ definitions:
     aliases:
       en: [work, operate]
     examples:
-      - text: дярья уццул акку
+      - text: тилпун буццул акку, зай биьял бяяж
         translation:
           en: child doesn't grow
   - translation:
@@ -26,7 +26,7 @@ definitions:
     examples:
       - text: сяят чӏулжи буццул це
         translation:
-          en: getting closer to 2 o'clock
+          ru: начало второго
       - text: дярья уццул акку
         translation:
           en: the child is not growing

@@ -1,7 +1,7 @@
 id: LIDJVBM6Ca2JEXWGJFDy
 headword: буцӏар
 ipa: buˈtsʼaɾ
-tags: [adj, vb]
+tags: [adj, vb, cls]
 forms:
   - text: буцӏар
     gloss: adj
@@ -11,3 +11,5 @@ definitions:
   - translation:
       en: hot
       ru: горячий, жаркий
+    examples:
+      - text: шин дуцӏал це

@@ -16,13 +16,23 @@ definitions:
     tags: [food]
     aliases:
       en: [fry]
+    examples:
+      - text: черинцци дерцӏив чӏаҡӏо
+  - translation:
+      en: жарить
+    examples:
+      - text: берта берцӏа
   - translation:
       en: to ripen
       ru: созревать
     aliases:
-      en: [mature, mellow]
+      en: [mature, mellow] 
+    examples:
+      - text: тӏутӏи дуцӏул це
   - translation:
       en: to tan
       ru: загорать
     aliases:
       en: [burn]
+    examples:
+      - text: баригу верцӏив

@@ -12,6 +12,6 @@ forms:
 definitions:
   - translation:
       en: to give to eat
-      ru: давать еду
+      ru: скармливать
     aliases:
       en: [feed]

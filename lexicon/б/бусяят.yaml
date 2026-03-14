@@ -9,3 +9,5 @@ definitions:
     tags: [time]
     aliases:
       en: [immediately, once]
+    examples:
+      - text: ьана буссяят биранда 

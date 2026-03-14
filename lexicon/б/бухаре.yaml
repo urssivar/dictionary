@@ -7,6 +7,9 @@ forms:
     gloss: abs
   - text: бухарил
     gloss: obl
+variants:
+  - text: бухари
+  - text: бухере
 definitions:
   - translation:
       en: cold weather

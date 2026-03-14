@@ -13,6 +13,8 @@ definitions:
   - translation:
       en: to use
       ru: использовать
+    examples:
+      - text: ма, ьеж ҡӏяҡӏ буцциха
   - translation:
       en: to adhere
       ru: придерживаться, соблюдать

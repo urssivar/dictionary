@@ -15,8 +15,12 @@ definitions:
       ru: блокировать
     aliases:
       en: [obstruct]
+    examples:
+      - text: дяьнал ҳуне бяъун
   - translation:
       en: to seal
       ru: запечатывать
     aliases:
       en: [shut]
+    examples:
+      - text: бяъя шуҡҡа

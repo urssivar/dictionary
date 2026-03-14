@@ -1,6 +1,6 @@
 id: wRlebd3pCAu33mbHcLtf
 headword: бялҡя
-ipa: bælˈqæ
+ipa: ˈbælqæ
 tags: [adj, n, cls]
 definitions:
   - translation:
@@ -8,3 +8,6 @@ definitions:
       ru: трудолюбивый
     aliases:
       en: [productive, nimble]
+    examples:
+      - text: вялҡял улшун
+    
