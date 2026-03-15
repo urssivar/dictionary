@@ -1,16 +1,11 @@
 id: BldhfNwgRIsdkb3p3bVs
-headword: бяс кабирццара
+headword: бяс бикӏора
 ipa: ˌbæs kabiɾˈtsːaɾa
 tags: [v, ntr, cls]
-forms:
-  - text: бяс кабиццара
-  - text: бяс кабиццур
-  - text: бяс кабирццара
+
 definitions:
   - translation:
       en: to uphold
-      ru: препираться
+      ru: добиваться, стремиться, проявлять амбиции
     aliases:
       en: [defend, advocate, stand]
-    examples:
-      - text: цинна рицций бяс киццур

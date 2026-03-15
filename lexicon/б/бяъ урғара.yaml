@@ -12,6 +12,8 @@ forms:
 definitions:
   - translation:
       en: to aim
-      ru: нацеливать
+      ru: нацеливать, направлять
     aliases:
       en: [direct, rotate, steer]
+    examples:
+      - text: шин ккалккунжи дяъ аға
