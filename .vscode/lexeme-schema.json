@@ -41,30 +41,7 @@
           },
           "gloss": {
             "type": "string",
-            "description": "Leipzig glossing abbreviation (e.g., ipfv, pret, pfv, abs, pl)."
-          }
-        }
-      }
-    },
-    "variants": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": [
-          "text"
-        ],
-        "properties": {
-          "text": {
-            "type": "string",
-            "description": "Dialectal variant form."
-          },
-          "gloss": {
-            "type": "string",
-            "description": "Leipzig gloss abbreviation."
-          },
-          "lect": {
-            "type": "string",
-            "description": "Dialect/lect code."
+            "description": "Leipzig glossing abbreviation (e.g., ipfv, pret, pfv, abs, pl). Comma-separated for syncretic forms serving multiple functions (e.g., `obl, loc`)."
           }
         }
       }
@@ -123,11 +100,6 @@
                   "type": "string",
                   "description": "Example sentence in Kaitag."
                 },
-                "type": {
-                  "type": "string",
-                  "enum": ["idiom"],
-                  "description": "Mark as 'idiom' if the example is a fixed expression with non-compositional meaning."
-                },
                 "translation": {
                   "$ref": "#/definitions/bilingualText",
                   "description": "Translation of example."
@@ -146,6 +118,13 @@
       "$ref": "#/definitions/bilingualText",
       "description": "Etymology and origin information. Include for loans (with source), non-obvious semantic shifts, and irregular formations."
     },
+    "variants": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Dialectal variants. Forms of a single variant are slash-separated within one string; use ~ for a form identical to the headword. E.g. `[тӏя / тӏял- / тӏяьри]` or `[~ / барара / барив]`."
+    },
     "derived_from": {
       "type": "array",
       "items": {
@@ -159,10 +138,6 @@
         "type": "string"
       },
       "description": "Related headwords to cross-reference."
-    },
-    "source": {
-      "type": "string",
-      "description": "Source code for data provenance (references lookups/sources.yaml)."
     }
   },
   "definitions": {
