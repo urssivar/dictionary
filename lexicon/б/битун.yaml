@@ -2,8 +2,6 @@ id: U3VsVvJcFvaMiUz0ZYu9
 headword: битун
 ipa: biˈtun
 tags: [adj]
-note:
-  en: *бутун*
 
 definitions:
   - translation:
@@ -15,3 +13,5 @@ definitions:
       - text: битун ҡҡабағ беркун
         translation:
           en: ate entire pumpkin
+
+variants: [бутун]

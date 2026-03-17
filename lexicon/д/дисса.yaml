@@ -1,20 +1,19 @@
 id: cwVQTmIdWZw9ga3BjkJq
-headword: диса
+headword: дисcа
 ipa: ˈdisːa
 tags: [n, vb]
-etymology:
-  en: From *бисара* "to cry".
 forms:
-  - text: биса
-    gloss: abs
-  - text: бисан
+  - text: диссан
     gloss: obl
-variants:
-  - text: биса 
-  
+
 definitions:
   - translation:
       en: crying
       ru: плач
     examples:
       - text: ила диса детӏил це
+
+etymology:
+  en: From *биссара* "to cry".
+
+variants: [бисса]

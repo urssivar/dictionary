@@ -1,7 +1,8 @@
 id: yCYp8ZjAAaRvqnVLxwoE
-headword: бутӏрей бутӏре
+headword: бутӏрей
 ipa: butʼˈɾej
 tags: [n, vb]
+
 definitions:
   - translation:
       en: alms
@@ -9,3 +10,5 @@ definitions:
     tags: [social]
     aliases:
       en: [charity]
+
+variants: [бутӏре]
