@@ -3,12 +3,10 @@ headword: ашккар бирара
 ipa: aʃˌkːaɾ biˈɾaɾa
 tags: [v, cls, tr]
 forms:
-  - text: ашккар бирара
-    gloss: ipfv
-  - text: ашккар барив
-    gloss: pret
-  - text: ашккар барара
+  - text: барара
     gloss: pfv
+  - text: барив
+    gloss: pret
 
 definitions:
   - translation:

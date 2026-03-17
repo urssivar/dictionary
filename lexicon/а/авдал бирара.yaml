@@ -3,12 +3,10 @@ headword: авдал бирара
 ipa: aβˌdal biˈɾaɾa
 tags: [v, cls, tr]
 forms:
-  - text: авдал бирара
-    gloss: ipfv
-  - text: авдал барив
-    gloss: pret
-  - text: авдал барара
+  - text: барара
     gloss: pfv
+  - text: барив
+    gloss: pret
 
 definitions:
   - translation:
@@ -18,7 +16,7 @@ definitions:
       en: [fool, trick, deceive]
       ru: [обманывать, разыгрывать]
     examples:
-      - text: Нишала пишнал ду авдал варивда.
+      - text: Нишшала пишнал ду авдал варивда.
         translation:
           en: Your actions fooled me.
           ru: Ваши действия меня одурачили.

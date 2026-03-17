@@ -2,8 +2,6 @@ id: 0n2TxWvmxo0y7ViycJQz
 headword: анццу
 ipa: anˈtsːu
 tags: [adj]
-variants:
-  - text: цце аккор
 
 definitions:
   - translation:
@@ -13,5 +11,7 @@ definitions:
       en: [unsalted, tasteless]
       ru: [несолёный, безвкусный]
 
+variants: [цце аккор]
 see_also: [цце]
-source: temirbulatova2004
+
+#src: temirbulatova2004

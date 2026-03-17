@@ -2,8 +2,6 @@ id: D5mMdCDEmIEUJdeUK00A
 headword: ахтар
 ipa: aχˈtaɾ
 tags: [n, loan, turkic]
-variants:
-  - text: ахтарди
 
 definitions:
   - translation:
@@ -21,3 +19,5 @@ definitions:
 etymology:
   en: From Kumyk *ахтармакъ* "to search".
   ru: От кумыкского *ахтармакъ* "искать".
+
+variants: [ахтарди]

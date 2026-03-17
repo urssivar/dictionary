@@ -3,12 +3,10 @@ headword: автт ьабиркара
 ipa: ˌaβtː habiɾˈkaɾa
 tags: [v, ntr, cls]
 forms:
-  - text: автт ьабиркара
-    gloss: ipfv
-  - text: автт ьабичив
-    gloss: pret
   - text: автт ьабикара
     gloss: pfv
+  - text: автт ьабичив
+    gloss: pret
 
 definitions:
   - translation:

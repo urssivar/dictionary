@@ -2,8 +2,6 @@ id: h1mRwCpiuBYdVVaN9Zga
 headword: авра
 ipa: ˈaβɾa
 tags: [n, loan, turkic]
-variants:
-  - text: авара
 
 definitions:
   - translation:
@@ -28,3 +26,5 @@ definitions:
 etymology:
   en: From Kumyk *авара* "worry, concern", ultimately from Persian آواره (*âvâre*) "vagabond".
   ru: От кумыкского *авара* "беспокойство", восходит к персидскому آواره (*âvâre*) "бродяга".
+
+variants: [авара]

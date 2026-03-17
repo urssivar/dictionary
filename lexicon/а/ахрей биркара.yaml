@@ -3,12 +3,10 @@ headword: ахрей биркара
 ipa: aχˌɾej biɾˈkaɾa
 tags: [v, ntr, cls]
 forms:
-  - text: ахрей биркара 
-    gloss: ipfv
-  - text: ахрей бичив
-    gloss: pret
-  - text: ахрей бикара
+  - text: бикара
     gloss: pfv
+  - text: бичив
+    gloss: pret
 
 definitions:
   - translation:
@@ -18,10 +16,14 @@ definitions:
       en: [to doze, to snooze]
       ru: [вздремнуть]
     examples:
-      - text: Нишай ьереғ кижил ахрей вичивда.
+      - text: Нишшай ьереғ кижил ахрей вичивда.
+        translation:
+          en: I napped waiting for you.
+          ru: Ожидая вас я задремал.
 
 etymology:
   en: "*ахрей* does not occur independently."
   ru: "*ахрей* не встречается самостоятельно."
+
 derived_from: [биркара]
 see_also: [анкӏ кабиргара]

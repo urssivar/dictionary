@@ -3,12 +3,10 @@ headword: алав цикара
 ipa: aˌlaβ tsiˈkaɾa
 tags: [v, tr]
 forms:
-  - text: алав цикара
-    gloss: ipfv
-  - text: алав цачив
-    gloss: pret
-  - text: алав цакара
+  - text: цакара
     gloss: pfv
+  - text: цачив
+    gloss: pret
 
 definitions:
   - translation:
@@ -18,9 +16,9 @@ definitions:
       en: [steer, influence]
       ru: [направлять, влиять]
     examples:
-      - text: Ихтилат баживцци алав цачив.
+      - text: Ихтилат циней баживцци алав цачив.
         translation:
-          en: Navigated the conversation to where was needed.
-          ru: Подвёл разговор куда надо было.
+          en: Navigated the conversation to where he needed.
+          ru: Подвёл разговор куда ему надо было.
 
 derived_from: [алав, бикара]

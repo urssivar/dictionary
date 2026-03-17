@@ -3,12 +3,8 @@ headword: ағзин
 ipa: aʁˈzin
 tags: [n, loan, turkic]
 forms:
-  - text: ағзин
-    gloss: abs
   - text: ағзинте
     gloss: pl
-variants:
-  - text: азғин
 
 definitions:
   - translation:
@@ -21,3 +17,5 @@ definitions:
 etymology:
   en: From Kumyk *азгъын* "dissolute, feeble".
   ru: От кумыкского *азгъын* "беспутный, немощный".
+
+variants: [азғин]

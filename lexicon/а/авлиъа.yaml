@@ -3,12 +3,8 @@ headword: авлиъа
 ipa: aβliˈʔa
 tags: [n, loan, arabic]
 forms:
-  - text: авлиъа
-    gloss: abs
   - text: авлиъне
     gloss: pl
-variants:
-  - text: авлийа
 
 definitions:
   - translation:
@@ -22,4 +18,6 @@ definitions:
 etymology:
   en: From Arabic أولياء (*awliyāʾ*) "the beloved of God".
   ru: От арабского أولياء (*awliyāʾ*) "возлюбленные Бога".
+
+variants: [авлиъа]
 see_also: [авдал]

@@ -7,8 +7,6 @@ forms:
     gloss: abs
   - text: акберте
     gloss: pl
-variants:
-  - text: акбар
 
 definitions:
   - translation:
@@ -26,3 +24,5 @@ definitions:
 etymology:
   en: From Arabic أَكْبَر (*ʔakbar*) "greatest".
   ru: От арабского أَكْبَر (*ʔakbar*) "величайший".
+
+variants: [акбар]

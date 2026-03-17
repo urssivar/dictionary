@@ -8,10 +8,10 @@ definitions:
       en: poplar
       ru: тополь
     tags: [tree]
-    note:
-      en: Also *шан ахтирекк*, *цьяв ахтирекк* for specific poplar species.
-      ru: Также *шан ахтирекк*, *цьяв ахтирекк* для конкретных видов тополя.
 
 etymology:
   en: From Kumyk *акътерек* "aspen".
   ru: От кумыкского *акътерек* "осина".
+note:
+  en: Also *шан ахтирекк*, *цьяв ахтирекк* for specific poplar species.
+  ru: Также *шан ахтирекк*, *цьяв ахтирекк* для конкретных видов тополя.

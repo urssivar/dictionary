@@ -3,21 +3,22 @@ headword: алав биркара
 ipa: aˌlaβ biɾˈkaɾa
 tags: [v, cls, ntr]
 forms:
-  - text: алав биркара
-    gloss: ipfv
-  - text: алав бичив
-    gloss: pret
-  - text: алав бикара
+  - text: бикара
     gloss: pfv
+  - text: бичив
+    gloss: pret
 
 definitions:
   - translation:
-      en: to evade
-      ru: уклоняться
+      en: to evade, to dodge
+      ru: уклоняться, уворачиваться
     aliases:
-      en: [dodge, hedge, prevaricate]
-      ru: [избегать, уворачиваться, увиливать]
+      en: [hedge, prevaricate]
+      ru: [избегать, увиливать]
     examples:
-      - text: ьярьянцци тта алав вичил
+      - text: Ьярьянцци тта алав вичив.
+        translation:
+          en: He dodged a bullet.
+          ru: Он уклонился от пули.
 
 derived_from: [алав, бикара]

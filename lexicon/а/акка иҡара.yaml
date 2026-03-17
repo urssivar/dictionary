@@ -3,12 +3,10 @@ headword: акка иҡара
 ipa: aˌkːa iˈqaɾa
 tags: [v, ntr]
 forms:
-  - text: акка иҡара
-    gloss: ipfv
-  - text: акка аҡив
-    gloss: pret
-  - text: акка аҡара
+  - text: аҡара
     gloss: pfv
+  - text: аҡив
+    gloss: pret
 
 definitions:
   - translation:
@@ -26,4 +24,5 @@ definitions:
 note:
   en: "*акка* does not occur independently and its meaning is unclear."
   ru: "*акка* не встречается самостоятельно и его значение неясно."
+
 derived_from: [иҡара]

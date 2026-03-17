@@ -3,12 +3,10 @@ headword: алав цабиргара
 ipa: aˌlaβ tsabiɾˈgaɾa
 tags: [v, ntr, cls]
 forms:
-  - text: алав цабиргара
-    gloss: ipfv
-  - text: алав цабижив
-    gloss: pret
-  - text: алав цабигара
+  - text: цабигара
     gloss: pfv
+  - text: цабижив
+    gloss: pret
 
 definitions:
   - translation:
@@ -18,6 +16,9 @@ definitions:
       en: [meet, congregate]
       ru: [собраться, встретиться, сходиться]
     examples:
-      - text: рирсбе алав цабижил азбар унзу барив
+      - text: Рирсбе алав цабижил азбар унзу барив.
+        translation:
+          en: Girls gathered and cleaned the yard.
+          ru: Девушки собрались и почистили двор.
 
 derived_from: [алав, биргара]

@@ -2,8 +2,6 @@ id: UzZSDZ9AOoulYvsv5YJs
 headword: антуҡӏ
 ipa: anˈtuqʼ
 tags: [n]
-variants:
-  - text: антаҡӏ
 
 definitions:
   - translation:
@@ -17,3 +15,5 @@ definitions:
         translation:
           en: forgot
           ru: забылся
+
+variants: [антаҡӏ]

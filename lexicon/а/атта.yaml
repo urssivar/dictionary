@@ -3,13 +3,8 @@ headword: атта
 ipa: ˈatːa
 tags: [n]
 forms:
-  - text: атта
-    gloss: abs
   - text: аттне
     gloss: pl
-variants:
-  - text: датте
-    lect: shrh
 
 definitions:
   - translation:
@@ -19,3 +14,5 @@ definitions:
     aliases:
       en: [dad, papa]
       ru: [папа]
+
+variants: [датте]

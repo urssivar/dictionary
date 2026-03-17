@@ -3,8 +3,6 @@ headword: авдал
 ipa: aβˈdal
 tags: [n, loan, arabic]
 forms:
-  - text: авдал
-    gloss: abs
   - text: авдалте
     gloss: pl
 
@@ -20,4 +18,5 @@ definitions:
 etymology:
   en: From Arabic أبدال (*abdāl*) "God's saint".
   ru: От арабского أبدال (*abdāl*) "святой".
+
 see_also: [авлийа]

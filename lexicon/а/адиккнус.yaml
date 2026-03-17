@@ -3,9 +3,7 @@ headword: адиккнус
 ipa: adikːˈnus
 tags: [n, vb]
 forms:
-  - text: адиккнус
-    gloss: abs
-  - text: адиккнусе
+  - text: адиккнуссе
     gloss: pl
 
 definitions:
@@ -19,5 +17,6 @@ definitions:
 etymology:
   en: From the negative of *биккара* "to want" (cf. *буснус* "sleepy person").
   ru: От отрицательной формы *биккара* "хотеть" (ср. *буснус* "соня").
+
 derived_from: [биккара]
 see_also: [буснус]

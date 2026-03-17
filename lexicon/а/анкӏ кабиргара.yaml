@@ -3,14 +3,10 @@ headword: анкӏ кабиргара
 ipa: ˌankʼ kabiɾˈgaɾa
 tags: [v, ntr, cls]
 forms:
-  - text: анкӏ кабиргара
-    gloss: ipfv
-  - text: анкӏ кабижив
-    gloss: pret
-  - text: анкӏ кабигара
+  - text: кабигара
     gloss: pfv
-variants:
-  - text: чибусана
+  - text: кабижив
+    gloss: pret
 
 definitions:
   - translation:
@@ -23,5 +19,7 @@ definitions:
 etymology:
   en: The first element shares a root with *анкьала* "sleep".
   ru: Первый элемент имеет общий корень с *анкьала* "сон".
+
+variants: [чибуссана]
 derived_from: ["*анкӏ", кабиргара]
 see_also: [анкӏала]

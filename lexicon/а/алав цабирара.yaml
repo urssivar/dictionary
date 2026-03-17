@@ -3,12 +3,10 @@ headword: алав цабирара
 ipa: aˌlaβ tsabiˈɾaɾa
 tags: [v, cls, tr]
 forms:
-  - text: алав цабирара
-    gloss: ipfv
-  - text: алав цабарив
-    gloss: pret
-  - text: алав цабарара
+  - text: цабарара
     gloss: pfv
+  - text: цабарив
+    gloss: pret
 
 definitions:
   - translation:

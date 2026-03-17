@@ -3,18 +3,13 @@ headword: азай
 ipa: aˈzaj
 tags: [n]
 forms:
-  - text: азай
-    gloss: abs
   - text: азайхал
     gloss: pl
-variants:
-  - text: абизи
-  - text: абазай
-  - text: абайцци
-  - text: аттазай
 
 definitions:
   - translation:
       en: aunt
       ru: тётя
     tags: [kinship]
+
+variants: [абизи, абазай, абайцци, аттазай]

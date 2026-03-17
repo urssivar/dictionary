@@ -3,12 +3,8 @@ headword: арцӏяъя
 ipa: aɾtsʼæˈʔæ
 tags: [n, vb]
 forms:
-  - text: арцӏяъя
-    gloss: abs
   - text: арцӏяъне
     gloss: pl
-variants:
-  - text: арцӏиҡӏян
 
 definitions:
   - translation:
@@ -16,5 +12,6 @@ definitions:
       ru: пропольщик
     tags: [occupation, agriculture]
 
+variants: [арцӏиҡӏян]
 derived_from: [ирцӏара]
 see_also: [уттяъя]

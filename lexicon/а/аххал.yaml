@@ -1,11 +1,9 @@
 id: rqPjebfc26lgwdygJk8u
-headword: ахал
+headword: аххал
 ipa: aˈχːal
 tags: [n]
 forms:
-  - text: ахал
-    gloss: abs
-  - text: ахле
+  - text: аххле
     gloss: pl
 
 definitions:
@@ -19,4 +17,7 @@ definitions:
       en: kunak
       ru: кунак
     examples:
-      - text: Ьет шилцци нисала яь ахле би.
+      - text: Ьет шилцци ниссала яь аххле би.
+        translation:
+          en: We have good kunaks in that village.
+          ru: В том селе у нас есть хорошие кунаки.

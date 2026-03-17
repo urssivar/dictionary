@@ -2,8 +2,6 @@ id: cjFNBqKLiyFPXoYTsm4H
 headword: ахсинекк
 ipa: aχsiˈnekː
 tags: [n, loan]
-variants:
-  - text: синкка
 
 definitions:
   - translation:
@@ -13,3 +11,5 @@ definitions:
     aliases:
       en: [blue]
       ru: [синий]
+
+variants: [синкка]

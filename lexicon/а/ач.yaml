@@ -2,9 +2,6 @@ id: 8XsotvXd3ljVqr0rEBnJ
 headword: ач
 ipa: ˈatʃ
 tags: [adj, loan, turkic]
-variants:
-  - text: яч
-    lect: avsh
 
 definitions:
   - translation:
@@ -19,3 +16,5 @@ definitions:
 etymology:
   en: From Kumyk *ачмакъ* "to open".
   ru: От кумыкского *ачмакъ* "открывать".
+
+variants: [яч]

@@ -3,13 +3,8 @@ headword: азиртӏялан
 ipa: aziɾtʼæˈlan
 tags: [n]
 forms:
-  - text: азиртӏялан
-    gloss: abs
   - text: азиртӏяланте
     gloss: pl
-variants:
-  - text: азиртӏя
-  - text: даршал тӏимяр
 
 definitions:
   - translation:
@@ -17,4 +12,5 @@ definitions:
       ru: многоножка
     tags: [animal, insect]
 
+variants: [азиртӏя, даршал тӏимяр]
 derived_from: [тӏя, азир]

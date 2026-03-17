@@ -3,12 +3,10 @@ headword: аккор бирьора
 ipa: aˌkːʷaɾ biɾˈhʷaɾa
 tags: [v, ntr, cls]
 forms:
-  - text: аккор бирьора
-    gloss: ipfv
-  - text: аккор биьяв
-    gloss: pret
-  - text: аккор биьора
+  - text: биьора
     gloss: pfv
+  - text: биьяв
+    gloss: pret
 
 definitions:
   - translation:
@@ -18,6 +16,6 @@ definitions:
       en: [die out, disappear, vanish]
       ru: [исчезать, пропадать, уходить]
     examples:
-      - text: Дуццан бицӏе аккор биьяв.
+      - text: Дуццан бицӏе аккор диьяв.
 
 derived_from: [аккор, бирьора]

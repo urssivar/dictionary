@@ -3,8 +3,6 @@ headword: авсун
 ipa: aβˈsun
 tags: [n, loan, turkic]
 forms:
-  - text: авсун
-    gloss: abs
   - text: авсунте
     gloss: pl
 
@@ -17,4 +15,5 @@ definitions:
 etymology:
   en: From Kumyk *апсун* "sister-in-law".
   ru: От кумыкского *апсун* "золовка".
+
 see_also: [уццуп]

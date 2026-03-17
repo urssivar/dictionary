@@ -2,8 +2,6 @@ id: 8mbRqfrgMfov0nWr2Y7k
 headword: атте
 ipa: aˈtːe
 tags: [ptcl]
-variants:
-  - text: атти
 
 definitions:
   - translation:
@@ -20,5 +18,7 @@ definitions:
     examples:
       - text: Бурса атте.
         translation:
-          en: Tell it already.
+          en: Tell it, come on.
           ru: Расскажи же.
+
+variants: [атте]

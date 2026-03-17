@@ -11,7 +11,7 @@ definitions:
       en: [or, else]
       ru: [или]
     examples:
-      - text: Ижин аккол илин аргар у?
+      - text: Ьежин аккол, ьелин аргар у?
         translation:
           en: If it doesn't work here, will it there?
           ru: Если не здесь, там получится?

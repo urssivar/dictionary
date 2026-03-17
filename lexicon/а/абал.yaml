@@ -2,9 +2,6 @@ id: 3wgwN32czwW8wWIGkkR8
 headword: абал
 ipa: ˈabal
 tags: [conj, vb]
-variants:
-  - text: абиьолли
-  - text: абалле
 
 definitions:
   - translation:
@@ -14,13 +11,15 @@ definitions:
       en: [so, in that case]
       ru: [ну так, в таком случае]
     examples:
-      - text: абал, вяьил акку
+      - text: Абал, вяьил акку.
         translation:
-          en: well then, not bad
-          ru: ну тогда неплохо
+          en: Well then, not bad.
+          ru: Ну тогда неплохо.
 
 etymology:
   en: Contracted from *абиьолли*, the negative conditional of *бирьора* "to be".
   ru: Сокращение от *абиьолли*, отрицательной условной формы *бирьора* "быть".
+
+variants: [абиьолли, абалле]
 derived_from: [бирьора]
 see_also: [баал]

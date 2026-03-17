@@ -2,8 +2,6 @@ id: tmhQYbnG8aHIav7WyGQg
 headword: аъа
 ipa: ˈaʔa
 tags: [intj]
-variants:
-  - text: уъу
 
 definitions:
   - translation:
@@ -14,3 +12,8 @@ definitions:
       ru: [неа]
     examples:
       - text: И ҡил де у? Аъа, аккоде.
+        translation:
+          en: Are you home? No, I'm not.
+          ru: Ты дома? Нет, меня нет.
+
+variants: [уъу]

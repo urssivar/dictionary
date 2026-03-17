@@ -1,19 +1,12 @@
 id: sVnyX4VHiPP9ckSBzPHf
-headword: ағлав
-ipa: aʁˈlaβ
+headword: ағлаба
+ipa: aʁˈlaba
 tags: [n]
 forms:
-  - text: ағлав
-    gloss: abs
   - text: ағлаван
-    gloss: loc
-  - text: ағлавне
+    gloss: obl, loc
+  - text: ағлабне
     gloss: pl
-variants:
-  - text: ағлаба
-    lect: irch
-  - text: йағлав
-    lect: snch
 
 definitions:
   - translation:
@@ -24,7 +17,9 @@ definitions:
       en: [skillet, kitchenware]
       ru: [посуда]
     examples:
-      - text: Ағлаван ҡҡярттушкка дерцӏа.
+      - text: Ағлабан ккарттушкка дерцӏа.
         translation:
-          en: Fry potatoes in pan.
+          en: Fry potatoes in a pan.
           ru: Пожарь картшку в сковородке.
+
+variants: [ағлав, йағлав]

@@ -3,8 +3,6 @@ headword: абиккан
 ipa: abiˈkːan
 tags: [n, vb]
 forms:
-  - text: абиккан
-    gloss: abs
   - text: абикканил
     gloss: obl
   - text: адикканте
@@ -31,5 +29,6 @@ definitions:
 etymology:
   en: Negative present participle of *биккара* "to want" (cf. *биккан* "wish").
   ru: Отрицательное настоящее причастие от *биккара* "хотеть" (ср. *биккан* "желание").
+
 derived_from: [биккара]
 see_also: [биккан]

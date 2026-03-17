@@ -13,6 +13,9 @@ definitions:
       ru: [Бог]
     examples:
       - text: Аллаьли цере рат.
+        translation:
+          en: God keep her.
+          ru: Храни её Бог.
 
 etymology:
   en: From Arabic اللّٰه (*allāh*).

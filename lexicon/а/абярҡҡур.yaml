@@ -3,8 +3,6 @@ headword: абярҡҡур
 ipa: abæɾˈqːuɾ
 tags: [adj, cls, vb]
 forms:
-  - text: абярҡҡур
-    gloss: adj
   - text: абярҡҡул
     gloss: adv
 
@@ -19,4 +17,5 @@ definitions:
 etymology:
   en: The negative preterite of *руҡҡяра* "to educate, to bring up".
   ru: Отрицательный претерит от *руҡҡяра* "воспитывать".
+
 derived_from: [руҡҡяра]

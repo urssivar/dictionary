@@ -3,12 +3,8 @@ headword: аҳлиъян
 ipa: axliˈʔæn
 tags: [n]
 forms:
-  - text: аҳлиъян
-    gloss: abs
   - text: аҳлиъне
     gloss: pl
-variants:
-  - text: аҳлиҡӏя
 
 definitions:
   - translation:
@@ -16,5 +12,6 @@ definitions:
       ru: птица
     tags: [bird]
 
+variants: [аҳлиҡӏя]
 derived_from: ["*аҳора"]
 see_also: [ьиҳора, бежлиъя]

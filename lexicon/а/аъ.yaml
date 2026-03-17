@@ -3,18 +3,13 @@ headword: аъ
 ipa: aʔ
 tags: [n]
 forms:
-  - text: аъ
-    gloss: abs
   - text: аъбе
     gloss: pl
-variants:
-  - text: яъ
-  - text: аъгула
-  - text: кӏавгула
-    lect: snch
 
 definitions:
   - translation:
       en: palate
       ru: нёбо
     tags: [body]
+
+variants: [яъ, аъгула, кӏавгула]

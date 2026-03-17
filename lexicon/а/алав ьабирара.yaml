@@ -3,12 +3,10 @@ headword: алав ьабирара
 ipa: aˌlaβ habiˈɾaɾa
 tags: [v, cls, tr]
 forms:
-  - text: алав ьабирара
-    gloss: ipfv
-  - text: алав ьабарив
-    gloss: pret
-  - text: алав ьабарара
+  - text: ьабарара
     gloss: pfv
+  - text: ьабарив
+    gloss: pret
 
 definitions:
   - translation:
@@ -19,5 +17,8 @@ definitions:
       ru: [обволакивать, заворачивать]
     examples:
       - text: Лузум алав ьабара.
+        translation:
+          en: Envelop the dough.
+          ru: Окутай тесто.
 
 derived_from: [алав, бирара]

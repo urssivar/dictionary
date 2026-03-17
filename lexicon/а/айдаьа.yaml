@@ -3,12 +3,8 @@ headword: айдаьа
 ipa: ajdaˈha
 tags: [n, loan, iranian]
 forms:
-  - text: айдаьа
-    gloss: abs
   - text: айдиьне
     gloss: pl
-variants:
-  - text: аждаьа
 
 definitions:
   - translation:
@@ -24,7 +20,7 @@ definitions:
         translation:
           en: very far (lit. "at dragon's hut")
           ru: очень далеко (букв. "в шалаше у дракона")
-      - text: айдаьала аттаба
+      - text: айдаьа-аттаба
         translation:
           en: witch
           ru: ведьма
@@ -32,3 +28,5 @@ definitions:
 etymology:
   en: From Persian اژدها (*aždahā*) "dragon".
   ru: От персидского اژدها (*aždahā*) "дракон".
+
+variants: [аждаьа]

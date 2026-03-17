@@ -2,8 +2,6 @@ id: KkwipNqfgQ1wPDE9wfPl
 headword: айланди
 ipa: ajlanˈdi
 tags: [n, loan, turkic]
-variants:
-  - text: ҡҡайландир
 
 definitions:
   - translation:
@@ -17,3 +15,5 @@ definitions:
 etymology:
   en: From Kumyk *айландыр* "rotation".
   ru: От кумыкского *айландыр* "вращение".
+
+variants: [ҡҡайландир]

@@ -3,8 +3,6 @@ headword: абуй
 ipa: aˈbuj
 tags: [n, loan, russian]
 forms:
-  - text: абуй
-    gloss: abs
   - text: абуйте
     gloss: pl
 
@@ -13,7 +11,7 @@ definitions:
       en: wallpaper
       ru: обои
     examples:
-      - text: Нисал ижал абуйте чидяҡивда.
+      - text: Ниссал ижал абуйте чидяҡивда.
         translation:
           en: Today we pasted wallpapers.
           ru: Сегодня мы приклеили обои.

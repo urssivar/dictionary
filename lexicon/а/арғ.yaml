@@ -3,8 +3,6 @@ headword: арғ
 ipa: ˈaɾʁ
 tags: [n]
 forms:
-  - text: арғ
-    gloss: abs
   - text: арғре
     gloss: pl
 
@@ -20,7 +18,7 @@ definitions:
         translation:
           en: contemporary
           ru: современный
-      - text: дусела арғре
+      - text: дуссела арғре
         translation:
           en: seasons (of year)
           ru: времена года

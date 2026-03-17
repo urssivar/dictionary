@@ -2,9 +2,6 @@ id: PqLvSrNhti5MxDYLNOoC
 headword: арбиш
 ipa: aɾˈbiʃ
 tags: [n]
-variants:
-  - text: авриш
-  - text: арша
 
 definitions:
   - translation:
@@ -14,3 +11,5 @@ definitions:
     aliases:
       en: [sweet, confection]
       ru: [сладость, десерт]
+
+variants: [авриш, арша]

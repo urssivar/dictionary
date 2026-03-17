@@ -2,9 +2,6 @@ id: CWkzPDmzDLquAV0GQayD
 headword: аккун
 ipa: ˈakːun
 tags: [adv]
-variants:
-  - text: аккол
-  - text: аккон
 
 definitions:
   - translation:
@@ -23,5 +20,6 @@ definitions:
           en: There's but a single cow.
           ru: Есть лишь одна корова.
 
+variants: [аккол, аккон]
 derived_from: ["*аккора"]
 see_also: [аккол]

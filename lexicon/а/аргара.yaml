@@ -3,12 +3,10 @@ headword: аргара
 ipa: aɾˈgaɾa
 tags: [v, ntr]
 forms:
-  - text: аргара
-    gloss: ipfv
-  - text: агур
-    gloss: pret
   - text: агара
     gloss: pfv
+  - text: агур
+    gloss: pret
 
 definitions:
   - translation:
@@ -41,6 +39,5 @@ definitions:
         translation:
           en: Last year I became director.
           ru: В прошлом году я стал директором.
-note:
-  en: Temirbulatova 2004 also lists *агана* with meaning "to plan", but it's unclear if it's a typo.
-  ru: В Темирбулатова 2004 также указано *агана* со значением "планировать", но неясно, не опечатка ли это.
+
+# Temirbulatova 2004 also lists *агана* with meaning "to plan", but it's unclear if it's a typo.

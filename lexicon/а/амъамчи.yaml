@@ -1,25 +1,11 @@
 id: gRNhLLWqhJdvbp3_eG6aV
 headword: амъамчи
-ipa: amˈʔam
+ipa: amʔamˈtʃi
 tags: [n]
 
 definitions:
   - translation:
-      en: stutter
-      ru: заикание
-    aliases:
-      en: [stammer]
-      ru: [заикаться]
-    note:
-      en: There's also *амъамчи* "stutterer".
-      ru: Есть ещё *амъамчи* "заика".
+      en: stutterer
+      ru: заика
 
-    examples:
-      - text: амъам ьижив
-        translation:
-          en: "[he] stuttered"
-          ru: заикнулся
-
-etymology:
-  en: Probably onomatopoeia.
-  ru: Вероятно, звукоподражание.
+derived_from: [амъам]

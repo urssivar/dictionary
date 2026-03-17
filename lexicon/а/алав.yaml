@@ -2,8 +2,6 @@ id: DWfEuIWsObkWJHArhU2J
 headword: алав
 ipa: aˈlaβ
 tags: [post]
-variants:
-  - text: алавчил
 
 definitions:
   - translation:
@@ -12,3 +10,5 @@ definitions:
     aliases:
       en: [about, round]
       ru: [кругом, округ]
+
+variants: [алавчил]

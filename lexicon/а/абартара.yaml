@@ -3,12 +3,10 @@ headword: абартара
 ipa: abaɾˈtaɾa
 tags: [v, tr, cls]
 forms:
-  - text: абартара
-    gloss: ipfv
-  - text: абатур
-    gloss: pret
   - text: абатара
     gloss: pfv
+  - text: абатур
+    gloss: pret
 
 definitions:
   - translation:
@@ -18,7 +16,7 @@ definitions:
       en: [to bother, to pester]
       ru: [донимать, досаждать]
     examples:
-      - text: Чикнал нисала тӏутӏи адартар.
+      - text: Чикнал ниссала тӏутӏи адартар.
         translation:
           en: The sparrows harass our grapes.
           ru: Воробьи изводят наш виноград.
@@ -26,4 +24,5 @@ definitions:
 etymology:
   en: The negative of *бартара* "to let, allow".
   ru: Отрицательная форма от *бартара* "давать, оставлять".
+
 derived_from: [бартара]

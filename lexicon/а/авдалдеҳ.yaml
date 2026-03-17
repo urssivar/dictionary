@@ -11,7 +11,7 @@ definitions:
       en: [folly, foolishness]
       ru: [дурь, идиотизм]
     examples:
-      - text: ила авдалдеҳли 
+      - text: ила авдалдеҳли
         translation:
           en: by your stupidity
           ru: твоей глупостью

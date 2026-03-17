@@ -3,13 +3,8 @@ headword: абаба
 ipa: abaˈba
 tags: [n]
 forms:
-  - text: абаба
-    gloss: abs
   - text: абабне
     gloss: pl
-variants:
-  - text: авба
-  - text: бавба
 
 definitions:
   - translation:
@@ -25,5 +20,7 @@ definitions:
 etymology:
   en: Reduplication of *аба* "mother" (cf. *аттаба* "paternal grandmother").
   ru: Редупликация *аба* "мама" (ср. *аттаба* "бабушка по отцу").
+
+variants: [авба, бавба]
 derived_from: [уба]
 see_also: [аттаба]

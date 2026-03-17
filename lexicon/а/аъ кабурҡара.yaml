@@ -3,12 +3,10 @@ headword: аъ кабурҡара
 ipa: ˌaʔ kabuɾˈqaɾa
 tags: [v, ntr]
 forms:
-  - text: аъ кабурҡара
-    gloss: ipfv
-  - text: аъ кабяҡив
-    gloss: pret
-  - text: аъ кабяҡара
+  - text: кабяҡара
     gloss: pfv
+  - text: кабяҡив
+    gloss: pret
 
 definitions:
   - translation:

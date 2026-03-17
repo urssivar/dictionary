@@ -3,12 +3,10 @@ headword: абиккул иҡара
 ipa: ˌabikːul iˈqaɾa
 tags: [v, ntr]
 forms:
-  - text: абиккул иҡара
-    gloss: ipfv
-  - text: абиккул аҡив
-    gloss: pret
-  - text: абиккул аҡара
+  - text: аҡара
     gloss: pfv
+  - text: аҡив
+    gloss: pret
 
 definitions:
   - translation:

@@ -3,8 +3,6 @@ headword: аттабаш
 ipa: atːaˈbaʃ
 tags: [n]
 forms:
-  - text: аттабаш
-    gloss: abs
   - text: аттабаше
     gloss: pl
 
@@ -14,4 +12,4 @@ definitions:
       ru: сверчок
     tags: [insect]
 
-source: temirbulatova2004
+#src: temirbulatova2004

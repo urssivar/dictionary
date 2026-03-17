@@ -5,13 +5,16 @@ tags: [n, pl]
 
 definitions:
   - translation:
-      en: sputum
+      en: phlegm
       ru: мокрота
     tags: [body]
     aliases:
-      en: [phlegm]
+      en: [sputum]
       ru: [слизь]
     examples:
-      - text: ахтукӏле ту дара
+      - text: Ахтукӏле ту дара.
+        translation:
+          en: Spit out the phlegm.
+          ru: Выплюнь мокроту.
 
 derived_from: [ту]

@@ -3,12 +3,8 @@ headword: аршяъя
 ipa: aɾˈʃæʔæ
 tags: [n, vb]
 forms:
-  - text: аршяъя
-    gloss: abs
   - text: аршяъне
     gloss: pl
-variants:
-  - text: аршиҡӏян
 
 definitions:
   - translation:
@@ -16,5 +12,6 @@ definitions:
       ru: жнец
     tags: [occupation]
 
+variants: [аршиҡӏян]
 derived_from: [ирҳара]
 see_also: [уттяъя]

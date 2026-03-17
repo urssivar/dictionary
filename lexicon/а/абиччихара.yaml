@@ -2,9 +2,6 @@ id: YpcVLSw9X2MqnjeAQQEE
 headword: абиччихара
 ipa: abitʃːiˈχaɾa
 tags: [v, cls, tr]
-forms:
-  - text: абиччихара
-    gloss: ipfv
 
 definitions:
   - translation:
@@ -23,4 +20,5 @@ definitions:
 etymology:
   en: The negative of *биччихара* "to love".
   ru: Отрицательная форма от *биччихара* "любить".
+
 derived_from: [биччихара]

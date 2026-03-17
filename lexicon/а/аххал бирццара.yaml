@@ -1,16 +1,12 @@
 id: 7AYqO9xmuxZTfb04YChg
-headword: ахал бирццара
+headword: аххал бирццара
 ipa: aˌχːal biɾˈtsːaɾa
 tags: [v, ntr]
 forms:
-  - text: ахле аргара
-    gloss: ipfv
-  - text: ахле агур
-    gloss: pret
-  - text: ахле агара
+  - text: биццара
     gloss: pfv
-variants:
-  - text: ахал бирццара
+  - text: биццур
+    gloss: pret
 
 definitions:
   - translation:

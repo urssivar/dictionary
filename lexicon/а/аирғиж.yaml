@@ -2,9 +2,6 @@ id: nEeI3kokTXHlSH0p2C8K
 headword: аирғиж
 ipa: aiɾʁˈiʒ
 tags: [adj, vb]
-variants:
-  - text: аирғижив
-    lect: irch
 
 definitions:
   - translation:
@@ -17,4 +14,5 @@ definitions:
 etymology:
   en: Negative hypothetical participle of *ирғара* "to understand".
   ru: Отрицательное гипотетическое причастие от *ирғара* "понимать".
+
 derived_from: [ирғара]

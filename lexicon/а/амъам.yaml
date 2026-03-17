@@ -10,7 +10,6 @@ definitions:
     aliases:
       en: [stammer]
       ru: [заикаться]
-
     examples:
       - text: амъам ьижив
         translation:

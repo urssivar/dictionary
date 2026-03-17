@@ -3,12 +3,10 @@ headword: аржихара
 ipa: aɾʒiˈχaɾa
 tags: [v, tr]
 forms:
-  - text: аржихара
-    gloss: ipfv
-  - text: ажихур
-    gloss: pret
   - text: ажихара
     gloss: pfv
+  - text: ажихур
+    gloss: pret
 
 definitions:
   - translation:

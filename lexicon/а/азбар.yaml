@@ -3,13 +3,8 @@ headword: азбар
 ipa: azˈbaɾ
 tags: [n, loan, turkic]
 forms:
-  - text: азбар
-    gloss: abs
   - text: азбунде
     gloss: pl
-variants:
-  - text: шеркка
-    lect: krts
 
 definitions:
   - translation:
@@ -23,3 +18,5 @@ definitions:
 etymology:
   en: From Kumyk *абзар* "yard", possibly from Persian ابزار (*abzâr*) "tool, instrument".
   ru: От кумыкского *абзар* "двор", возможно от персидского ابزار (*abzâr*) "инструмент, орудие".
+
+variants: [шеркка]

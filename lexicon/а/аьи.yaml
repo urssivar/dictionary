@@ -2,8 +2,6 @@ id: jideQD8LBynxuI3YYilb
 headword: аьи
 ipa: ˈahi
 tags: [n]
-variants:
-  - text: биса-ҡвяса
 
 definitions:
   - translation:
@@ -18,3 +16,5 @@ definitions:
         translation:
           en: She is weeping.
           ru: Она рыдает.
+
+variants: [дисса-ҡвясса]

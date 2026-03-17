@@ -3,12 +3,10 @@ headword: алав ьабиргара
 ipa: aˌlaβ habiɾˈgaɾa
 tags: [v, cls, ntr]
 forms:
-  - text: алав ьабиргара
-    gloss: ipfv
-  - text: алав ьабижив
-    gloss: pret
-  - text: алав ьабигара
+  - text: ьабигара
     gloss: pfv
+  - text: ьабижив
+    gloss: pret
 
 definitions:
   - translation:

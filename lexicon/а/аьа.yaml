@@ -2,8 +2,6 @@ id: qh4ZyVae59vYiRuoBmxH
 headword: аьа
 ipa: aˈha
 tags: [intj]
-variants:
-  - text: уьу
 
 definitions:
   - translation:
@@ -12,3 +10,5 @@ definitions:
     aliases:
       en: [yep, uh-huh, mhm]
       ru: [да, угу]
+
+variants: [уьу]

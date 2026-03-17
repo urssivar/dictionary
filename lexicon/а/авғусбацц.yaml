@@ -2,8 +2,6 @@ id: 8mqeU49w8ZiL2o1RlYTh
 headword: авғусбацц
 ipa: aβˈʁusbatsː
 tags: [n, loan, russian]
-variants:
-  - text: авғус
 
 definitions:
   - translation:
@@ -17,4 +15,5 @@ definitions:
 etymology:
   en: From Russian *август* "August".
   ru: От русского *август*.
+
 derived_from: [бацц]
