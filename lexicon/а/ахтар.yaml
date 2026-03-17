@@ -11,10 +11,10 @@ definitions:
       en: [inspection, examination]
       ru: [проверка, осмотр]
     examples:
-      - text: Дарс ахтар барив.
+      - text: Ушттилли дарс ахтар барив.
         translation:
-          en: Checked the lesson.
-          ru: Проверил урок.
+          en: The teacher checked the lesson.
+          ru: Учитель проверил урок.
 
 etymology:
   en: From Kumyk *ахтармакъ* "to search".

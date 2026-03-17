@@ -13,8 +13,8 @@ definitions:
     examples:
       - text: амъам ьижив
         translation:
-          en: "[he] stuttered"
-          ru: заикнулся
+          en: he stuttered
+          ru: он заикнулся
 
 etymology:
   en: Probably onomatopoeia.

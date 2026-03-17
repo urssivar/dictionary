@@ -18,7 +18,7 @@ definitions:
     examples:
       - text: Лузум алав ьабара.
         translation:
-          en: Envelop the dough.
-          ru: Окутай тесто.
+          en: Wrap the dough.
+          ru: Заверни тесто.
 
 derived_from: [алав, бирара]

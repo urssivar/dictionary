@@ -11,6 +11,6 @@ definitions:
       en: [welcome]
       ru: [приём, радушие]
     examples:
-      - text: Ьелттал ахалдеҳ барьар.
+      - text: Ьелттал аххалдеҳ барьар.
         
 derived_from: [аххал]
