@@ -13,8 +13,13 @@ def validate_ids(lexicon_dir):
 
     # Scan all YAML files
     for yaml_file in lexicon_dir.rglob("*.yaml"):
-        with open(yaml_file, 'r', encoding='utf-8') as f:
-            data = yaml.safe_load(f)
+        try:
+            with open(yaml_file, 'r', encoding='utf-8') as f:
+                data = yaml.safe_load(f)
+        except yaml.YAMLError as e:
+            has_errors = True
+            print(f"ERROR: YAML parse error in {yaml_file.relative_to(lexicon_dir.parent)}: {e}")
+            continue
         if not data:
             continue
         if 'id' not in data or not data['id']:

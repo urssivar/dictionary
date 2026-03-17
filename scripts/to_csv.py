@@ -9,7 +9,6 @@ from utils import (
     load_alphabet,
     load_grammar_tags,
     mark_stress,
-    extract_yaml_variants,
     map_tags,
     simplify_forms,
     create_tokenizer,
@@ -60,22 +59,18 @@ def get_definitions(definitions, lang):
     return '\n'.join(translations)
 
 
-def get_forms(forms, headword, tags):
-    """Use existing simplify_forms(), join with newlines."""
+def get_forms(forms, headword):
     if not forms:
         return ''
-
-    simplified = simplify_forms(forms, headword, tags)
-    return '\n'.join(simplified)
+    return '\n'.join(simplify_forms(forms, headword))
 
 
 def get_variants(yaml_variants):
-    """Use existing extract_yaml_variants(), join with newlines."""
     if not yaml_variants:
         return ''
-
-    variants = extract_yaml_variants(yaml_variants)
-    return '\n'.join(variants)
+    return '\n'.join(
+        v['text'] if isinstance(v, dict) else v for v in yaml_variants
+    )
 
 
 def convert_entry_to_csv(yaml_entry, vowels, tag_map, alphabet_tokens):
@@ -86,11 +81,7 @@ def convert_entry_to_csv(yaml_entry, vowels, tag_map, alphabet_tokens):
         'headword': get_headword_with_ipa(yaml_entry, vowels),
         'eng': get_definitions(yaml_entry.get('definitions', []), 'en'),
         'rus': get_definitions(yaml_entry.get('definitions', []), 'ru'),
-        'forms': get_forms(
-            yaml_entry.get('forms', []),
-            yaml_entry['headword'],
-            yaml_entry.get('tags', [])
-        ),
+        'forms': get_forms(yaml_entry.get('forms', []), yaml_entry['headword']),
         'variants': get_variants(yaml_entry.get('variants', []))
     }
 

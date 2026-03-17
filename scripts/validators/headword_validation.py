@@ -4,7 +4,7 @@
 import re
 import yaml
 from pathlib import Path
-from utils.alphabet import load_alphabet
+from utils.loaders import load_alphabet
 
 
 def _folder_for_headword(headword: str, alphabet_tokens: list[str]) -> str | None:
@@ -27,8 +27,13 @@ def validate_headwords(lexicon_dir: Path) -> bool | None:
     has_errors = False
 
     for yaml_file in sorted(lexicon_dir.rglob("*.yaml")):
-        with open(yaml_file, 'r', encoding='utf-8') as f:
-            data = yaml.safe_load(f)
+        try:
+            with open(yaml_file, 'r', encoding='utf-8') as f:
+                data = yaml.safe_load(f)
+        except yaml.YAMLError as e:
+            has_errors = True
+            print(f"ERROR: YAML parse error in {yaml_file.relative_to(lexicon_dir.parent)}: {e}")
+            continue
 
         if not data:
             continue

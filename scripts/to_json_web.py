@@ -11,7 +11,6 @@ from utils import (
     load_grammar_tags,
     get_first_letter,
     mark_stress,
-    extract_yaml_variants,
     map_tags,
     simplify_forms,
     create_tokenizer,
@@ -149,8 +148,7 @@ def convert_entry(yaml_entry, vowels, tag_map, lexicon_dir, alphabet_tokens):
     if 'forms' in yaml_entry:
         forms = simplify_forms(
             yaml_entry['forms'],
-            yaml_entry['headword'],
-            yaml_entry.get('tags', [])
+            yaml_entry['headword']
         )
         if forms:
             result['forms'] = forms
@@ -160,11 +158,11 @@ def convert_entry(yaml_entry, vowels, tag_map, lexicon_dir, alphabet_tokens):
     if definitions:
         result['definitions'] = definitions
 
-    # Variants (from YAML variants field only - note extraction deprecated)
-    if 'variants' in yaml_entry and yaml_entry['variants']:
-        variants = extract_yaml_variants(yaml_entry['variants'])
-        if variants:
-            result['variants'] = variants
+    if yaml_entry.get('variants'):
+        result['variants'] = [
+            v['text'] if isinstance(v, dict) else v
+            for v in yaml_entry['variants']
+        ]
 
     # Etymology (bilingual text)
     if 'etymology' in yaml_entry:
