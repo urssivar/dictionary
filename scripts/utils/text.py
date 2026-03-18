@@ -1,29 +1,22 @@
 #!/usr/bin/env python3
-"""Text manipulation: stress marking, tokenization, sorting, form simplification."""
 
 
 def get_first_letter(word, alphabet_tokens):
-    """Get first grapheme of word, respecting digraphs."""
     word = word.lower()
     for letter in alphabet_tokens:
         if word.startswith(letter):
             return letter
-    print(f'Warning: unknown first letter in "{word}"')
+    print(f'⚠️ unknown first letter in "{word}"')
     return word[0]
 
 
 def mark_stress(entry, vowels):
-    """Add stress marks to headword based on IPA."""
     if 'ipa' not in entry or not entry['ipa']:
         return entry['headword']
 
     headword = entry['headword']
     ipa = entry['ipa'].replace('ˈ', "'").replace('ˌ', "'")
 
-    def count_vowels(s):
-        return sum(1 for c in s if c in vowels)
-
-    # Remove predictable stresses (single vowel in word part)
     i_stress = -1
     i_word = 0
     v_count = 0
@@ -46,7 +39,6 @@ def mark_stress(entry, vowels):
     if "'" not in ipa:
         return headword
 
-    # Apply stress marks to headword
     i_vowel = -1
     needs_stress = False
 
@@ -66,7 +58,6 @@ def mark_stress(entry, vowels):
 
 
 def create_tokenizer(alphabet, alphabet_tokens):
-    """Create a sorting key function for dictionary entries."""
     alphabet_full = ['-', ' '] + alphabet
     letter_order = {letter: i for i, letter in enumerate(alphabet_full)}
 
@@ -98,7 +89,6 @@ def create_tokenizer(alphabet, alphabet_tokens):
 
 
 def simplify_forms(forms, headword):
-    """Return form texts, skipping headword-identical forms; append dash to oblique stems."""
     if not forms:
         return []
     result = []

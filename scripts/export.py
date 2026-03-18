@@ -9,39 +9,30 @@ from to_csv import main as export_csv
 
 
 def main():
-    """Run validation, then all export scripts."""
-
-    # Run validation
-    print("Validating entries...")
+    print("🔍 Validating...")
     try:
         validate_main()
     except SystemExit as e:
         if e.code != 0:
-            print("Export aborted due to validation errors.\n")
+            print("⛔ Export aborted.")
             sys.exit(1)
 
-    print("\nBuilding dictionary exports...\n")
+    print("\n📦 Exporting...\n")
 
-    # Run exporters
-    exporters = [
-        ("to_json_web.py", export_web),
-        ("to_json_archive.py", export_archive),
-        ("to_csv.py", export_csv),
-    ]
+    exporters = [export_web, export_archive, export_csv]
 
     success_count = 0
-    for name, exporter_fn in exporters:
-        print(f"Running {name}...")
+    for exporter_fn in exporters:
+        name = exporter_fn.__name__
+        print(f"  {name}...")
         try:
             exporter_fn()
-            print(f"✓ {name} completed successfully\n")
+            print(f"✔️ done\n")
             success_count += 1
         except Exception as e:
-            print(f"✗ {name} failed with error:")
-            print(str(e))
-            print()
+            print(f"❌ {e}\n")
 
-    print(f"Export complete: {success_count}/{len(exporters)} scripts succeeded")
+    print(f"{'✔️' if success_count == len(exporters) else '❌'} {success_count}/{len(exporters)} succeeded")
 
     if success_count < len(exporters):
         sys.exit(1)

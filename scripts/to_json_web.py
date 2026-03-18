@@ -5,7 +5,7 @@ import json
 import yaml
 import sys
 import re
-from pathlib import Path
+from utils.paths import ROOT
 from utils import (
     load_alphabet,
     load_grammar_tags,
@@ -50,7 +50,7 @@ def resolve_headword_link(headword_ref, lexicon_dir, alphabet_tokens):
         with open(yaml_file, 'r', encoding='utf-8') as f:
             yaml_data = yaml.safe_load(f)
             if 'id' not in yaml_data:
-                print(f"Warning: No ID found in {yaml_file}")
+                print(f"⚠️ no ID in {yaml_file}")
                 return None
 
             return {
@@ -58,10 +58,10 @@ def resolve_headword_link(headword_ref, lexicon_dir, alphabet_tokens):
                 'link': f"{letter}#{yaml_data['id']}"
             }
     except FileNotFoundError:
-        print(f"Warning: Referenced file not found: {yaml_file}")
+        print(f"⚠️ ref not found: {yaml_file}")
         return None
     except Exception as e:
-        print(f"Error reading {yaml_file}: {e}")
+        print(f"❌ {yaml_file}: {e}")
         return None
 
 
@@ -201,7 +201,7 @@ def main():
         validate_fn=validate_entry
     )
 
-    lexicon_dir = Path(__file__).parent.parent / 'lexicon'
+    lexicon_dir = ROOT / 'lexicon'
 
     # Convert and sort entries per letter
     converted_entries = {}

@@ -1,16 +1,12 @@
 #!/usr/bin/env python3
-"""Data loading utilities: alphabet, tags, and lexicon entries."""
-
-import sys
 import yaml
-from pathlib import Path
+from utils.paths import ROOT
 
-_DATA_DIR = Path(__file__).parent.parent.parent / 'data'
-_LEXICON_DIR = Path(__file__).parent.parent.parent / 'lexicon'
+_DATA_DIR = ROOT / 'data'
+_LEXICON_DIR = ROOT / 'lexicon'
 
 
 def load_alphabet():
-    """Load Kaitag alphabet and derive vowel mappings."""
     with open(_DATA_DIR / 'alphabet.yaml', encoding='utf-8') as f:
         data = yaml.safe_load(f)
 
@@ -26,7 +22,6 @@ def load_alphabet():
 
 
 def load_grammar_tags():
-    """Load grammar tag mappings for export (part of speech + cls/pl only)."""
     with open(_DATA_DIR / 'tags.yaml', encoding='utf-8') as f:
         data = yaml.safe_load(f)
 
@@ -43,10 +38,6 @@ def load_grammar_tags():
 
 
 def load_lexicon_entries(alphabet, validate_fn=None):
-    """Load all lexicon entries from YAML files organized by letter.
-
-    Returns (entries_by_letter, total_entries, skipped_entries).
-    """
     entries_by_letter = {}
     total_entries = 0
     skipped_entries = 0
@@ -65,7 +56,7 @@ def load_lexicon_entries(alphabet, validate_fn=None):
 
                 if validate_fn and not validate_fn(yaml_data):
                     skipped_entries += 1
-                    print(f"Warning: Skipped {yaml_file.name} (missing required fields)")
+                    print(f"⚠️ skipped {yaml_file.name} (missing required fields)")
                     continue
 
                 entries_by_letter[letter].append(yaml_data)
@@ -73,6 +64,6 @@ def load_lexicon_entries(alphabet, validate_fn=None):
 
             except Exception as e:
                 skipped_entries += 1
-                print(f"Error processing {yaml_file.name}: {e}")
+                print(f"❌ {yaml_file.name}: {e}")
 
     return entries_by_letter, total_entries, skipped_entries
