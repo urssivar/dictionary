@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import yaml
 from utils.paths import ROOT
+from utils.text import create_tokenizer
 
 _DATA_DIR = ROOT / 'data'
 _LEXICON_DIR = ROOT / 'lexicon'
@@ -18,7 +19,14 @@ def load_alphabet():
         if info['type'] == 'vowel':
             vowels[info['ipa']] = grapheme
 
-    return alphabet, alphabet_tokens, vowels
+    sorting_key = create_tokenizer(alphabet, alphabet_tokens)
+    return alphabet, alphabet_tokens, vowels, sorting_key
+
+
+def load_valid_tags():
+    with open(_DATA_DIR / 'tags.yaml', 'r', encoding='utf-8') as f:
+        taxonomy = yaml.safe_load(f)
+    return {k for cat in taxonomy.values() if isinstance(cat, dict) for k in cat}
 
 
 def load_grammar_tags():
@@ -37,7 +45,7 @@ def load_grammar_tags():
     }
 
 
-def load_lexicon_entries(alphabet, validate_fn=None):
+def load_lexicon_entries(alphabet):
     entries_by_letter = {}
     total_entries = 0
     skipped_entries = 0
@@ -53,15 +61,8 @@ def load_lexicon_entries(alphabet, validate_fn=None):
             try:
                 with open(yaml_file, encoding='utf-8') as f:
                     yaml_data = yaml.safe_load(f)
-
-                if validate_fn and not validate_fn(yaml_data):
-                    skipped_entries += 1
-                    print(f"⚠️ skipped {yaml_file.name} (missing required fields)")
-                    continue
-
                 entries_by_letter[letter].append(yaml_data)
                 total_entries += 1
-
             except Exception as e:
                 skipped_entries += 1
                 print(f"❌ {yaml_file.name}: {e}")

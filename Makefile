@@ -1,16 +1,13 @@
 # Auto-detect Python: use venv if it exists, otherwise system python
 PYTHON := $(shell test -d venv && echo venv/bin/python3 || echo python3)
 
-.PHONY: genid validate lint export
+.PHONY: id validate export
 
-genid:
-	@$(PYTHON) scripts/tools/generate_id.py
+id:
+	@$(PYTHON) -c "from nanoid import generate; print(generate())"
 
 validate:
-	@$(PYTHON) scripts/validate.py
-
-lint:
-	@$(PYTHON) scripts/lint.py $(L)
+	@$(PYTHON) scripts/validate.py $(L)
 
 export:
 	@$(PYTHON) scripts/export.py
