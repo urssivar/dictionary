@@ -25,7 +25,7 @@
       "items": {
         "type": "string"
       },
-      "description": "Grammar, etymology, and register tags (see tags.yaml taxonomy)."
+      "description": "Entry-level grammar and etymology tags (see data/tags.yaml)."
     },
     "forms": {
       "type": "array",
@@ -64,11 +64,11 @@
             "items": {
               "type": "string"
             },
-            "description": "Semantic domain tags for this definition (e.g., kinship, animal, time)."
+            "description": "Definition-level semantic and register tags (see data/tags.yaml)."
           },
           "aliases": {
             "type": "object",
-            "description": "Alternative translations and hypernyms for search discoverability. Not displayed in UI. Includes both strict synonyms and category terms (e.g., 'dog' for 'puppy', 'month' for 'August').",
+            "description": "Synonyms and hypernyms for search discoverability (not displayed in UI).",
             "properties": {
               "en": {
                 "type": "array",
@@ -93,7 +93,8 @@
             "items": {
               "type": "object",
               "required": [
-                "text"
+                "text",
+                "translation"
               ],
               "properties": {
                 "text": {
@@ -116,21 +117,21 @@
     },
     "etymology": {
       "$ref": "#/definitions/bilingualText",
-      "description": "Etymology and origin information. Include for loans (with source), non-obvious semantic shifts, and irregular formations."
+      "description": "Word origin. Include for loanwords and non-obvious formations."
     },
     "variants": {
       "type": "array",
       "items": {
         "type": "string"
       },
-      "description": "Dialectal variants. Forms of a single variant are slash-separated within one string; use ~ for a form identical to the headword. E.g. `[тӏя / тӏял- / тӏяьри]` or `[~ / барара / барив]`."
+      "description": "Dialectal or alternative forms. Slash-separate paradigm forms within one string; use ~ for forms matching the headword."
     },
     "derived_from": {
       "type": "array",
       "items": {
         "type": "string"
       },
-      "description": "Source headword(s) for derivation or compounding."
+      "description": "Source headwords this entry is derived from."
     },
     "see_also": {
       "type": "array",
@@ -143,6 +144,7 @@
   "definitions": {
     "bilingualText": {
       "type": "object",
+      "required": ["en", "ru"],
       "properties": {
         "en": {
           "type": "string",
