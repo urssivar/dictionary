@@ -1,167 +1,136 @@
 # Kaitag Dictionary
 
-Digital dictionary for the Kaitag language with 5,171 entries, exported from the Bazur dictionary app.
+Source repository for a bilingual (English/Russian) dictionary of the Kaitag language, a Northeast Caucasian language spoken in Dagestan.
 
 ## Project Structure
 
 ```
-├── data/              # Reference data
-│   ├── alphabet.yaml  # Kaitag alphabet with digraphs
-    └── bazur.json     # Source data from Bazur app
-├── lexicon/           # Dictionary entries (one YAML file per entry)
-│   ├── а/             # Organized by first letter
-│   ├── б/
-│   ├── кк/            # Digraphs get their own folders
-│   └── ...
-└── scripts/           # Conversion utilities
-    └── bazur-to-yaml.py
+lexicon/[letter]/              — one YAML file per lexeme, organized by first letter
+data/alphabet.yaml             — Kaitag alphabet with digraphs and IPA mappings
+data/tags.yaml                 — complete tag taxonomy (grammar, etymology, register, semantic)
+data/lects.yaml                — dialect inventory
+scripts/                       — export and validation scripts
+.vscode/lexeme-schema.json     — JSON schema for lexeme files (powers VSCode autocomplete)
+EDITORIAL_GUIDELINES.md            — editorial rules and conventions
 ```
 
-## Quick Start
+## Entry Format
 
-### Convert from Bazur JSON to YAML
-
-```bash
-python3 scripts/bazur-to-yaml.py data/bazur.json
-```
-
-This creates individual YAML files in `/lexicon/` organized by first letter.
-
-### Entry Format
-
-Each entry is a standalone YAML file:
+Each entry is a standalone YAML file. Fields are grouped in three blocks separated by blank lines:
 
 ```yaml
-id: unique-id
+# Block 1: Identity
+id: SaZFtrg5rkjmNmX7pMDn
 headword: абиккан
 ipa: abiˈkːan
-tags: [n, nmlz]
-etymology:
-  en: Neg. obl. of *биккара* "to want"
+tags: [n, vb]
 forms:
-  - text: абиккан
-    gloss: abs
   - text: абикканил
     gloss: obl
+  - text: адикканте
+    gloss: pl
+
+# Block 2: Content
 definitions:
   - translation:
       en: disappointment
       ru: огорчение
+    tags: [feeling]
+    aliases:
+      en: [letdown, disillusionment]
+      ru: [разочарование, расстройство]
     examples:
-      - text: дами абиккан агур
+      - text: Ил ьелей абиккан баривде.
         translation:
-          en: i got disappointed
-```
+          en: You disappointed him.
+          ru: Ты огорчил его.
 
-## Data Structure
+# Block 3: References
+etymology:
+  en: Negative present participle of *биккара* "to want".
+  ru: Отрицательное настоящее причастие от *биккара* "хотеть".
+derived_from: [биккара]
+see_also: [биккан]
+```
 
 ### Required Fields
 
-- `id` - Unique identifier
-- `headword` - The Kaitag word
-- `definitions` - At least one definition
-
-### Optional Fields
-
-- `ipa` - IPA pronunciation
-- `tags` - Grammar and semantic tags
-- `etymology` - Word origin (bilingual)
-- `note` - Usage notes (bilingual)
-- `forms` - Inflectional paradigm
-- `variants` - Dialectal variants
-- `derived_from` - Source words
-- `see_also` - Cross-references
+- `id` — unique nanoid (generate with `python3 scripts/tools/generate_id.py`)
+- `headword` — citation form (abs sg for nouns, ipfv inf for verbs)
+- `definitions` — at least one definition
 
 ### Bilingual Fields
 
-Most text fields support optional `en` and `ru` keys:
-
-```yaml
-translation:
-  en: English translation
-  ru: Russian translation
-```
+`translation`, `aliases`, `note`, `etymology`, and `examples.translation` all take `{en:, ru:}` objects.
 
 ### Tag System
 
-**Grammar tags** use Leipzig glossing codes:
+All valid tags are in `data/tags.yaml`. Tags fall into four categories:
 
-- `n` (noun), `v` (verb), `adj` (adjective), `adv` (adverb)
-- `tr` (transitive), `intr` (intransitive)
-- `phr` (phrasal), `cls` (class agreement)
+- **Grammar** (entry-level): `n`, `v`, `adj`, `adv`, `tr`, `ntr`, `cls`, `pl`, `vb`, etc.
+- **Etymology** (entry-level): `loan`, `arabic`, `turkic`, `iranian`, `russian`
+- **Register/semantic** (definition-level): `pejorative`, `child`, `kinship`, `animal`, `food`, `tool`, `body`, etc.
 
-**Semantic tags** use readable names:
+### Forms
 
-- `loan`, `arabic`, `turkic`, `persian`, `russian`
-- `kinship`, `emotion`, `animal`, `tool`, `food`
+Only list forms that differ from the headword. The headword is the default citation form (abs sg for nouns, ipfv for verbs) — don't repeat it.
 
-### File Organization
+For compound verbs, list only the verbal part (the nominal part never changes).
 
-- **Homonyms**: First entry = `word.yaml`, subsequent = `word-2.yaml`, `word-3.yaml`
-- **Digraphs**: Letters like `кк`, `чч`, `цц` get their own folders
-- **No triple dashes**: Each file is a standalone YAML document
+Syncretic forms use comma-separated glosses: `gloss: obl, loc`.
 
-## YAML Formatting
+### Variants
 
-- **Simple arrays**: Inline style → `tags: [n, v]`
-- **Complex arrays**: Block style with proper indentation
-- **All objects**: Block style (never inline `{key: value}`)
-- **Multiline strings**: Literal style `|`
+Plain string array. For variants with their own paradigm, slash-separate the forms within one string. Use `~` for forms identical to the headword's corresponding form:
 
-## Editing Workflow
-
-1. **Conversion**: Run `bazur-to-yaml.py` to generate initial YAML files
-2. **Editing**: Manual refinement in VSCode with YAML validation
-3. **Future**: Convert back to JSON for static website
-
-### VSCode Setup
-
-Install **YAML by Red Hat** extension for:
-- Autocomplete
-- Schema validation
-- Hover documentation
-
-## Alphabet
-
-Kaitag uses 42 letters including digraphs (stored in `/data/alphabet.yaml`):
-
-```
-а б в г ғ д е ж з и й к кк кь ҡ ҡҡ ҡь л м н о п пп пь
-р с т тт ть у х ҳ ц цц ць ч чч чь ш ъ ь я
+```yaml
+variants: [тӏя / тӏял- / тӏяме, тӏяь / тӏяьу / тӏяьри]
+variants: [~ / барара / барив]
 ```
 
-## Future Work
+### File Naming
 
-- Tag normalization and lookup tables (`/data/tags.yaml`, `/data/glosses.yaml`)
-- Stress marking script for publication
-- YAML→JSON converter for static website
-- Audio pronunciation files
+- Headword = filename (e.g. `абиккан.yaml`)
+- Homonyms: `аккор.yaml`, `аккор-2.yaml`, `аккор-3.yaml`
+- File must be in the folder matching its first letter/digraph
 
-## Published Dictionary
+## Scripts
 
-This repository contains the **source data** for editing and development.
+Run from the `scripts/` directory with the virtualenv active:
 
-For browsing and using the dictionary, visit:
+```bash
+cd scripts
+source ../venv/bin/activate
 
-### **[📖 Kaitag Dictionary at Urssivar.com](https://urssivar.com/language/dictionary/intro)**
+python3 validate.py          # validate all entries (IDs, headwords, tags)
+python3 export.py            # validate + build all export formats
+python3 to_json_web.py       # build website JSON only
+python3 to_csv.py            # build CSV only
+```
 
-The published dictionary includes:
+Exports are written to `export/`.
 
-- **Online browsing** - Search and explore all 5,171 entries
-- **PDF download** - Printable offline version
-- **Google Sheets** - Spreadsheet format for analysis
-- **Grammar guide** - Phonetics, orthography, and grammatical reference
-- **Additional tools** - Keyboards, text converter, video introduction
+## VSCode Setup
+
+Install the **YAML by Red Hat** extension. The schema at `.vscode/lexeme-schema.json` is automatically applied to all `lexicon/**/*.yaml` files, providing autocomplete and validation.
+
+## Status & Roadmap
+
+- **Letter а**: complete (~175 entries), v1.1 conventions established
+- **In progress**: remaining letters — priority is capturing meanings and examples while speaker access is available
+- **Planned**: proper dialect variant entries (currently stored as plaintext in `variants`); semantic tags `health`, `language`, `behavior` when ready
+
+## Contributing
+
+See [`EDITORIAL_GUIDELINES.md`](EDITORIAL_GUIDELINES.md) for the full editorial guide covering translations, forms, tags, etymology, cross-references, and examples.
 
 ## License
 
-Dual-licensed: **Content** under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), **Code** under [MIT](https://opensource.org/licenses/MIT). See [LICENSE](LICENSE) for details.
+**Content** under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), **Code** under [MIT](https://opensource.org/licenses/MIT).
 
-### Attribution
-
-When using the dictionary data, please cite as:
+When using the dictionary data, cite as:
 
 ```
-Magomedov, M., & Gasanova, U. (2026). Kaitag Dictionary [Data set]. 
+Magomedov, M., & Gasanova, U. (2026). Kaitag Dictionary [Data set].
 Licensed under CC BY-SA 4.0. https://github.com/urssivar/dictionary
 ```

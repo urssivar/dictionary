@@ -159,10 +159,7 @@ def convert_entry(yaml_entry, vowels, tag_map, lexicon_dir, alphabet_tokens):
         result['definitions'] = definitions
 
     if yaml_entry.get('variants'):
-        result['variants'] = [
-            v['text'] if isinstance(v, dict) else v
-            for v in yaml_entry['variants']
-        ]
+        result['variants'] = yaml_entry['variants']
 
     # Etymology (bilingual text)
     if 'etymology' in yaml_entry:

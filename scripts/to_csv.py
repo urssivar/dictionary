@@ -68,9 +68,7 @@ def get_forms(forms, headword):
 def get_variants(yaml_variants):
     if not yaml_variants:
         return ''
-    return '\n'.join(
-        v['text'] if isinstance(v, dict) else v for v in yaml_variants
-    )
+    return '\n'.join(yaml_variants)
 
 
 def convert_entry_to_csv(yaml_entry, vowels, tag_map, alphabet_tokens):
