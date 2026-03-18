@@ -17,8 +17,8 @@ Lexemes live in `lexicon/[letter]/`, one YAML file per entry named after its hea
 
 ```yaml
 # Block 1: Identity
-id: YkZtiqCYGrbTzESn1sZW # required; generate with make genid
-headword: абаба # required; abs sg for nouns, ipfv inf for verbs
+id: YkZtiqCYGrbTzESn1sZW # required; generate with command
+headword: абаба # required; default citation form
 ipa: abaˈba
 tags: [n]
 forms:
@@ -59,9 +59,12 @@ Python scripts in `scripts/` handle validation and export. The `export` script p
 Shortcuts for common commands:
 
 ```bash
-make id              # generate a new entry ID
-make validate [L="а б"]  # validate entries: structure, IDs, tags, schema
-make export          # validate + build all three export formats
+# generate a new entry ID
+make id
+# validate entries: structure, IDs, tags, schema
+make validate [L="а б"]
+# validate + build all three export formats
+make export
 ```
 
 ## VSCode Setup
