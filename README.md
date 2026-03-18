@@ -1,128 +1,74 @@
 # Kaitag Dictionary
 
-Source repository for a bilingual (English/Russian) dictionary of the Kaitag language, a Northeast Caucasian language spoken in Dagestan.
-
-## Project Structure
-
-```
-lexicon/[letter]/              — one YAML file per lexeme, organized by first letter
-data/alphabet.yaml             — Kaitag alphabet with digraphs and IPA mappings
-data/tags.yaml                 — complete tag taxonomy (grammar, etymology, register, semantic)
-data/lects.yaml                — dialect inventory
-scripts/                       — export and validation scripts
-.vscode/lexeme-schema.json     — JSON schema for lexeme files (powers VSCode autocomplete)
-EDITORIAL_GUIDELINES.md            — editorial rules and conventions
-```
-
-## Entry Format
-
-Each entry is a standalone YAML file. Fields are grouped in three blocks separated by blank lines:
-
-```yaml
-# Block 1: Identity
-id: SaZFtrg5rkjmNmX7pMDn
-headword: абиккан
-ipa: abiˈkːan
-tags: [n, vb]
-forms:
-  - text: абикканил
-    gloss: obl
-  - text: адикканте
-    gloss: pl
-
-# Block 2: Content
-definitions:
-  - translation:
-      en: disappointment
-      ru: огорчение
-    tags: [feeling]
-    aliases:
-      en: [letdown, disillusionment]
-      ru: [разочарование, расстройство]
-    examples:
-      - text: Ил ьелей абиккан баривде.
-        translation:
-          en: You disappointed him.
-          ru: Ты огорчил его.
-
-# Block 3: References
-etymology:
-  en: Negative present participle of *биккара* "to want".
-  ru: Отрицательное настоящее причастие от *биккара* "хотеть".
-derived_from: [биккара]
-see_also: [биккан]
-```
-
-### Required Fields
-
-- `id` — unique nanoid (generate with `python3 scripts/tools/generate_id.py`)
-- `headword` — citation form (abs sg for nouns, ipfv inf for verbs)
-- `definitions` — at least one definition
-
-### Bilingual Fields
-
-`translation`, `aliases`, `note`, `etymology`, and `examples.translation` all take `{en:, ru:}` objects.
-
-### Tag System
-
-All valid tags are in `data/tags.yaml`. Tags fall into four categories:
-
-- **Grammar** (entry-level): `n`, `v`, `adj`, `adv`, `tr`, `ntr`, `cls`, `pl`, `vb`, etc.
-- **Etymology** (entry-level): `loan`, `arabic`, `turkic`, `iranian`, `russian`
-- **Register/semantic** (definition-level): `pejorative`, `child`, `kinship`, `animal`, `food`, `tool`, `body`, etc.
-
-### Forms
-
-Only list forms that differ from the headword. The headword is the default citation form (abs sg for nouns, ipfv for verbs) — don't repeat it.
-
-For compound verbs, list only the verbal part (the nominal part never changes).
-
-Syncretic forms use comma-separated glosses: `gloss: obl, loc`.
-
-### Variants
-
-Plain string array. For variants with their own paradigm, slash-separate the forms within one string. Use `~` for forms identical to the headword's corresponding form:
-
-```yaml
-variants: [тӏя / тӏял- / тӏяме, тӏяь / тӏяьу / тӏяьри]
-variants: [~ / барара / барив]
-```
-
-### File Naming
-
-- Headword = filename (e.g. `абиккан.yaml`)
-- Homonyms: `аккор.yaml`, `аккор-2.yaml`, `аккор-3.yaml`
-- File must be in the folder matching its first letter/digraph
-
-## Scripts
-
-Run from the `scripts/` directory with the virtualenv active:
-
-```bash
-cd scripts
-source ../venv/bin/activate
-
-python3 validate.py          # validate all entries (IDs, headwords, tags)
-python3 export.py            # validate + build all export formats
-python3 to_json_web.py       # build website JSON only
-python3 to_csv.py            # build CSV only
-```
-
-Exports are written to `export/`.
-
-## VSCode Setup
-
-Install the **YAML by Red Hat** extension. The schema at `.vscode/lexeme-schema.json` is automatically applied to all `lexicon/**/*.yaml` files, providing autocomplete and validation.
+Source repository for a bilingual (English/Russian) dictionary of Kaitag, a Northeast Caucasian language spoken in Dagestan.
 
 ## Status & Roadmap
 
-- **Letter а**: complete (~175 entries), v1.1 conventions established
-- **In progress**: remaining letters — priority is capturing meanings and examples while speaker access is available
-- **Planned**: proper dialect variant entries (currently stored as plaintext in `variants`); semantic tags `health`, `language`, `behavior` when ready
+**v1.1 (in progress)**: enriching entries with examples and cross-references, normalizing structure, improving tooling.
 
-## Contributing
+- Letter **а**: complete (~175 entries)
+- Remaining letters: in progress — priority is capturing meanings and examples while speaker access is available
 
-See [`EDITORIAL_GUIDELINES.md`](EDITORIAL_GUIDELINES.md) for the full editorial guide covering translations, forms, tags, etymology, cross-references, and examples.
+**Future**: proper dialect variant entries; tag taxonomy improvements; analysis and stats scripts; lexicographic structure review after consulting reference literature
+
+## Entry Format
+
+Lexemes live in `lexicon/[letter]/`, one YAML file per entry named after its headword (e.g. `абаба.yaml`). Homonyms: `аккор.yaml`, `аккор-2.yaml`. Fields in four blocks separated by blank lines:
+
+```yaml
+# Block 1: Identity
+id: YkZtiqCYGrbTzESn1sZW # required; generate with make genid
+headword: абаба # required; abs sg for nouns, ipfv inf for verbs
+ipa: abaˈba
+tags: [n]
+forms:
+  - text: абабне
+    gloss: pl
+
+# Block 2: Content
+definitions: # required; one or more senses
+  - translation:
+      en: maternal grandmother
+      ru: бабушка по матери
+    tags: [kinship]
+    examples:
+      - text: Дами дила абаба риччихид.
+        translation:
+          en: I love my grandmother.
+          ru: Я люблю мою бабушку.
+
+# Block 3: About
+etymology:
+  en: Reduplication of *аба* "mother" (cf. *аттаба* "paternal grandmother").
+  ru: Редупликация *аба* "мама" (ср. *аттаба* "бабушка по отцу").
+
+# Block 4: Links
+variants: [авба, бавба]
+derived_from: [уба]
+see_also: [аттаба]
+```
+
+Reference tables in `data/` include the tag taxonomy (`tags.yaml`), alphabet with IPA mappings (`alphabet.yaml`), and dialect inventory (`lects.yaml`).
+
+See [EDITORIAL_GUIDELINES.md](EDITORIAL_GUIDELINES.md) for all authoring rules.
+
+## Scripts
+
+Python scripts in `scripts/` handle validation and export. The `export` script produces three formats: website JSON, archive JSON, and CSV — all written to `export/`.
+
+Shortcuts for common commands:
+
+```bash
+make validate   # validate all entries (IDs, headwords)
+make export     # validate + build all three export formats
+make genid      # generate a new entry ID
+```
+
+## VSCode Setup
+
+Install the [YAML by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) extension — the schema at `.vscode/lexeme-schema.json` is automatically applied to all `lexicon/**/*.yaml` files, providing autocomplete and validation.
+
+The **Claude Code** extension with the `lexeme-polish` skill can assist with entry review, but all review decisions remain with the author.
 
 ## License
 

@@ -22,9 +22,11 @@ definitions:
     note: [clarifications]
     examples: [usage examples]
 
-# Block 3: References
+# Block 3: About
 note: [word-level notes]
 etymology: [origin information]
+
+# Block 4: Links
 variants: [dialectal variants]
 derived_from: [source headwords]
 see_also: [related headwords]

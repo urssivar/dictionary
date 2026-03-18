@@ -24,7 +24,7 @@ For each entry, check — only flag real issues, not hypothetical ones. See `EDI
 6. **Etymology** — present for loanwords with correct format; omitted for transparent derivations; do NOT flag on derived forms whose base loanword is already an entry
 7. **Examples** — present for common/ambiguous words; each illustrates its own definition; both languages
 8. **Cross-references** — `derived_from` for derivations/compounds; `see_also` for related terms; reconstructed roots use `*` prefix
-9. **Field order** — Block 1: id, headword, ipa, tags, forms / Block 2: definitions / Block 3: note, etymology, variants, derived_from, see_also; blank lines between blocks
+9. **Field order** — Block 1: id, headword, ipa, tags, forms / Block 2: definitions / Block 3: note, etymology (About) / Block 4: variants, derived_from, see_also; blank lines between blocks
 
 ## Output Format
 
