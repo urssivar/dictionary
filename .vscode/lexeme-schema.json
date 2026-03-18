@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Kaitag Dictionary Entry",
+  "title": "Kaitag Lexeme",
   "type": "object",
   "required": [
     "id",
@@ -9,25 +9,26 @@
   ],
   "properties": {
     "id": {
-      "type": "string",
-      "description": "Unique entry identifier."
+      "description": "Unique entry identifier",
+      "type": "string"
     },
     "headword": {
-      "type": "string",
-      "description": "Main word form."
+      "description": "Main word form",
+      "type": "string"
     },
     "ipa": {
-      "type": "string",
-      "description": "IPA pronunciation."
+      "description": "IPA transcription of the headword",
+      "type": "string"
     },
     "tags": {
+      "description": "Entry-level grammar and etymology tags (see data/tags.yaml)",
       "type": "array",
       "items": {
         "type": "string"
-      },
-      "description": "Entry-level grammar and etymology tags (see data/tags.yaml)."
+      }
     },
     "forms": {
+      "description": "Inflectional paradigm",
       "type": "array",
       "items": {
         "type": "object",
@@ -36,17 +37,18 @@
         ],
         "properties": {
           "text": {
-            "type": "string",
-            "description": "Word form."
+            "description": "Inflected form text",
+            "type": "string"
           },
           "gloss": {
-            "type": "string",
-            "description": "Leipzig glossing abbreviation (e.g., ipfv, pret, pfv, abs, pl). Comma-separated for syncretic forms serving multiple functions (e.g., `obl, loc`)."
+            "description": "Leipzig gloss code, comma-separated for syncretism (e.g. obl, loc)",
+            "type": "string"
           }
         }
       }
     },
     "definitions": {
+      "description": "Senses of the word, each with translation, examples, and optional metadata",
       "type": "array",
       "minItems": 1,
       "items": {
@@ -56,19 +58,19 @@
         ],
         "properties": {
           "translation": {
-            "$ref": "#/definitions/bilingualText",
-            "description": "Translation in English/Russian."
+            "description": "Translation of this sense",
+            "$ref": "#/definitions/bilingualText"
           },
           "tags": {
+            "description": "Definition-level semantic and register tags (see data/tags.yaml)",
             "type": "array",
             "items": {
               "type": "string"
-            },
-            "description": "Definition-level semantic and register tags (see data/tags.yaml)."
+            }
           },
           "aliases": {
+            "description": "Synonyms and hypernyms for search discoverability",
             "type": "object",
-            "description": "Synonyms and hypernyms for search discoverability (not displayed in UI).",
             "properties": {
               "en": {
                 "type": "array",
@@ -85,10 +87,11 @@
             }
           },
           "note": {
-            "$ref": "#/definitions/bilingualText",
-            "description": "Notes specific to this definition."
+            "description": "Notes specific to this definition",
+            "$ref": "#/definitions/bilingualText"
           },
           "examples": {
+            "description": "Usage examples",
             "type": "array",
             "items": {
               "type": "object",
@@ -98,12 +101,12 @@
               ],
               "properties": {
                 "text": {
-                  "type": "string",
-                  "description": "Example sentence in Kaitag."
+                  "description": "Example sentence in Kaitag",
+                  "type": "string"
                 },
                 "translation": {
-                  "$ref": "#/definitions/bilingualText",
-                  "description": "Translation of example."
+                  "description": "Translation of this example",
+                  "$ref": "#/definitions/bilingualText"
                 }
               }
             }
@@ -112,47 +115,48 @@
       }
     },
     "note": {
-      "$ref": "#/definitions/bilingualText",
-      "description": "Word-level notes."
+      "description": "Word-level notes",
+      "$ref": "#/definitions/bilingualText"
     },
     "etymology": {
-      "$ref": "#/definitions/bilingualText",
-      "description": "Word origin. Include for loanwords and non-obvious formations."
+      "description": "Word origin for loanwords and non-obvious formations",
+      "$ref": "#/definitions/bilingualText"
     },
     "variants": {
+      "description": "Dialectal or alternative forms",
       "type": "array",
       "items": {
         "type": "string"
-      },
-      "description": "Dialectal or alternative forms. Slash-separate paradigm forms within one string; use ~ for forms matching the headword."
+      }
     },
     "derived_from": {
+      "description": "Source headwords this entry is derived from",
       "type": "array",
       "items": {
         "type": "string"
-      },
-      "description": "Source headwords this entry is derived from."
+      }
     },
     "see_also": {
+      "description": "Related headwords to cross-reference",
       "type": "array",
       "items": {
         "type": "string"
-      },
-      "description": "Related headwords to cross-reference."
+      }
     }
   },
   "definitions": {
     "bilingualText": {
       "type": "object",
-      "required": ["en", "ru"],
+      "required": [
+        "en",
+        "ru"
+      ],
       "properties": {
         "en": {
-          "type": "string",
-          "description": "English text."
+          "type": "string"
         },
         "ru": {
-          "type": "string",
-          "description": "Russian text."
+          "type": "string"
         }
       }
     }
