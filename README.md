@@ -2,6 +2,9 @@
 
 Source repository for a bilingual (English/Russian) dictionary of Kaitag, a Northeast Caucasian language spoken in Dagestan.
 
+Browse the dictionary at [urssivar.com/language/dictionary](https://urssivar.com/language/dictionary).
+
+
 ## Status & Roadmap
 
 **v1.1 (in progress)**: enriching entries with examples and cross-references, normalizing structure, improving tooling.
@@ -72,6 +75,10 @@ make export
 Install the [YAML by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) extension — the schema at `.vscode/lexeme-schema.json` is automatically applied to all `lexicon/**/*.yaml` files, providing autocomplete and validation.
 
 The **Claude Code** extension with the `lexeme-polish` skill can assist with entry review, but all review decisions remain with the author.
+
+## Published Dictionary
+
+This repository is the source data. To browse the dictionary, visit [urssivar.com/language/dictionary](https://urssivar.com/language/dictionary).
 
 ## License
 
