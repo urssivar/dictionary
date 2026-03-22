@@ -1,131 +1,63 @@
 # Kaitag Dictionary Editorial Guidelines
 
-## General Principles
+## Entries
 
-### Field Order (with blank line separators)
+**Homonyms** — first entry is `word.yaml`, subsequent are `word-2.yaml`, `word-3.yaml`.
 
-The full schema is at `.vscode/lexeme-schema.json`.
+**Deverbal adjectives** — Kaitag preterites regularly function as adjectives (*бяръив* "cold" from *буръара* "to cool"). Add as a separate entry with `vb` tag and `derived_from` when frequent or lexicalized enough.
+
+**Skip** lexically transparent productive patterns: causatives (*X барара* "to make X"), inchoatives (*X бирьора* "to become X"), regular adverbs with *-ле*, etc. These are grammar, not lexicon. Exception: include compound verbs with non-compositional meaning (e.g. *алав биркара* "to evade", not literally "to occur around").
+
+### Structure
+
+Four blocks separated by blank lines. Full schema at `.vscode/lexeme-schema.json`.
 
 ```yaml
 # Block 1: Identity
-id: [unique identifier]
-headword: [main form]
-ipa: [pronunciation]
-tags: [grammar, etymology tags]
-forms: [inflected forms]
+id:
+headword:
+ipa:
+tags:
+forms:
+  - text:
+    gloss:
 
-# Block 2: Content
+# Block 2: Definitions
 definitions:
-  - translation: [main translation]
-    tags: [semantic domain tags]
-    aliases: [synonyms and hypernyms]
-    note: [clarifications]
-    examples: [usage examples]
+  - translation:
+    tags:
+    aliases:
+    note:
+    examples:
+      - text:
+        translation:
 
 # Block 3: About
-note: [word-level notes]
-etymology: [origin information]
+note:
+etymology:
 
 # Block 4: Links
-variants: [dialectal variants]
-derived_from: [source headwords]
-see_also: [related headwords]
+variants:
+derived_from:
+see_also:
 ```
 
-### YAML Formatting
+YAML conventions: simple arrays inline `[a, b]`; object arrays and all objects in block style.
 
-- **Simple string arrays**: inline style `[a, b, c]` (tags, variants, derived_from, see_also)
-- **Object arrays**: block style with dashes (forms, definitions, examples)
-- **All objects**: block style (never inline `{key: value}`)
-- **Multiline strings**: literal style `|`
-- **Strings containing `*`**: must be quoted (`"*бутун*"`) — unquoted `*` triggers YAML alias syntax
+## Fields
 
-## Tags
+### `headword` & `forms`
 
-### Tag Categories
+**Headword** is the default citation form:
 
-All valid tags are defined in `data/tags.yaml`:
+- Nouns: absolutive singular
+- Verbs: imperfective infinitive
+- Copulas / person-agreeing words: 3rd person singular
+- Words with class agreement: neutral *-б-* class marker; tag with `cls`
 
-- **Grammar tags** (entry-level): Part of speech, verb features, nominal features
-- **Etymology tags** (entry-level): Loan sources (arabic, russian, turkic, iranian, neologism)
-- **Register/semantic tags** (definition-level): pejorative, child, kinship, animal, food, etc.
+**Forms** — only list what differs from the headword. Omit `forms` entirely if nothing does. Use Leipzig abbreviations (<https://en.wikipedia.org/wiki/List_of_glossing_abbreviations>). Use `.` for portmanteau glosses (`1.sg.pst`), `,` for syncretism (`obl, loc` / `1, 2.pl`).
 
-### Tag Usage
-
-- Use sparingly for semantic tags — only for concrete content words
-- Don't tag abstract grammatical words (adverbs of manner, particles)
-- Verify all tags exist in `data/tags.yaml` taxonomy
-
-## Translations
-
-### Main Translations
-
-- **Verbs**: always use infinitive with "to" in English: `to walk`, `to eat`
-- **Nouns**: use singular form unless plurale tantum
-- **Adjectives**: use base form
-- Translations should be self-sufficient; use commas for clarification if needed
-
-### Particles and Function Words
-
-Use a grammatical label followed by equivalents in parentheses:
-
-```yaml
-translation:
-  en: affirmative particle (right?, isn't it?)
-  ru: утвердительная частица (да же?, правда?)
-```
-
-### Deverbal Adjectives
-
-Kaitag preterite forms regularly function as adjectives (e.g. бяръив "cold" from буръара "to cool"). Include as separate entries when frequent or lexicalized enough, with `vb` tag and `derived_from` linking to the source verb.
-
-### Aliases
-
-**Purpose**: search discoverability (not displayed in UI).
-
-**Include**:
-
-- Strict synonyms: `to walk` → `[to stroll, to pace]`
-- Hypernyms/categories: `puppy` → `[dog]`, `August` → `[month]`
-- Related terms that aid discovery
-
-**Don't include**:
-
-- Words from different parts of speech
-- Completely unrelated terms
-- The main translation repeated
-
-**Format**:
-
-- Match grammatical form: if translation is `to eat`, aliases are `[to consume, to dine]` not `[consume, dine]`
-- English and Russian aliases need not be parallel
-
-## Forms
-
-Use standard Leipzig abbreviations (see <https://en.wikipedia.org/wiki/List_of_glossing_abbreviations>).
-
-### Redundancy Rules
-
-- **Don't repeat the headword in forms.** The headword is the default citation form (ipfv infinitive for verbs, abs sg for nouns). Only list forms that differ from the headword.
-- Verbs with only ipfv: omit `forms` entirely.
-- Nouns with only abs: omit `forms` entirely.
-
-### Standard Verb Forms
-
-```yaml
-forms:
-  - text: аҡара
-    gloss: pfv
-  - text: аҡив
-    gloss: pret
-```
-
-- Headword is ipfv (except rare cases with only pfv)
-- Not all verbs have all three forms — some legitimately have only ipfv + pret; this is normal
-
-### Compound Verbs
-
-List only the verbal part (the nominal part never changes):
+**Verbs** — list `pfv` and `pret` when they exist (some verbs lack one or both). For compound verbs, list only the verbal part (nominal part never inflects):
 
 ```yaml
 headword: абиккул иҡара
@@ -136,75 +68,67 @@ forms:
     gloss: pret
 ```
 
-### Noun Forms
+**Nouns** — list `pl`, `obl`, `loc` as applicable:
 
 ```yaml
+headword: аҡ
 forms:
-  - text: аххле
+  - text: аҡа
+    gloss: obl
+  - text: иҡре
     gloss: pl
 ```
 
-List only what's non-obvious: `pl`, `obl` (when irregular), or both. Omit `abs` since it equals the headword.
+### `tags`
 
-**Omit forms for transparent compounds**: when a compound's inflection is predictable from its head (final element), don't list forms.
+All valid tags in `data/tags.yaml`. Grammar and etymology tags at entry level; semantic and register tags at definition level.
 
-### Class Agreement
+Required when applicable: `tr`/`ntr` for verbs, `cls` for class-agreeing words (any POS), `pl` for pluralia tantum nouns.
 
-- Use neutral -б- class marker in headwords, forms, and references
-- Tag with `cls` when verb has class agreement slots
-- Don't list all class variants (б/в/р/д) in forms — class variation is implicit
+Use semantic tags sparingly — concrete content words only. Don't tag particles or abstract grammatical words. In particular:
 
-### Multiple Glosses
+- `culture` — concrete practices/objects, not abstract social nouns
+- `disease` — conditions only, not substances or procedures
+- `material` — raw substances, not objects made from them
 
-**Use periods for portmanteau/fused categories:**
+### `translation` & `aliases`
 
-```yaml
-gloss: 1.sg.pst  # single form expressing person, number, and tense
-```
+**Translation:**
 
-**Use commas for syncretism (one form, multiple functions):**
-
-```yaml
-gloss: obl, loc   # same form serves as both oblique and locative
-gloss: 1, 2.pl    # bare number = all persons; only specify .sg/.pl where it splits
-```
-
-## Variants
-
-Plain string array of dialectal/alternative forms:
+- Verbs: English infinitive with "to" (`to walk`); Russian imperfective infinitive (`ходить`)
+- Nouns: singular unless plurale tantum
+- Adjectives: English base form (`cold`); Russian masculine singular (`холодный`)
+- Particles/function words: grammatical label with equivalents in parentheses:
 
 ```yaml
-variants: [авба, бавба]
+translation:
+  en: affirmative particle (right?, isn't it?)
+  ru: утвердительная частица (да же?, правда?)
 ```
 
-When a variant has its own paradigm, list forms slash-separated within one string. Use `~` for forms identical to the headword's corresponding form:
+**Aliases** — synonyms, hypernyms, and related terms for search discoverability. Match grammatical form of the translation. `en` and `ru` need not be parallel. Don't repeat the main translation or cross part-of-speech boundaries.
 
 ```yaml
-variants: [тӏя / тӏял- / тӏяме, тӏяь / тӏяьу / тӏяьри]
-variants: [~ / барара / барив]
+- translation:
+    en: entrance
+    ru: вход
+  tags: [structure]
+  aliases:
+    en: [entry, passage, doorway]
+    ru: [проход]
 ```
 
-Oblique dash `-` is included directly in the string (no structured gloss field).
+### `note` & `examples`
 
-## Etymology
+**Note** — cultural/technical clarifications that don't fit in translation: kinship specifics, regional dishes, specialized terminology. One or two sentences. Full sentences end with period; nominal labels don't.
 
-### When to Include
+**Examples** — natural, idiomatic usage illustrating the specific definition. Translation required in both languages. Include at least one for common or ambiguous words.
 
-**Always include** for:
+### `etymology`
 
-- Loanwords (with source language and original form)
-- Non-obvious semantic shifts
-- Irregular formations
+Include for loanwords and non-obvious formations. Omit for transparent derivations (use `derived_from` instead) and for derived forms whose base loanword already has its own entry.
 
-**Omit** for:
-
-- Transparent, productive derivations (use `derived_from` only)
-- Regular morphological patterns (negative prefix, -деҳ abstract suffix, etc.)
-- Derivations of loanwords via native morphology — if the base loanword is already a separate entry (e.g. *авдалдеҳ* from *авдал*), no `loan` tag or etymology needed on the derived form
-
-### Format for Loanwords
-
-**Arabic/Persian** (non-Latin scripts):
+**Arabic/Persian:**
 
 ```yaml
 etymology:
@@ -212,7 +136,7 @@ etymology:
   ru: От арабского أَبَد (*ʔabad*) "вечность".
 ```
 
-**Russian** (Cyrillic):
+**Russian** — no transcription in English; no translation in Russian:
 
 ```yaml
 etymology:
@@ -220,10 +144,7 @@ etymology:
   ru: От русского *обои* (мн. ч.), переосмыслено как ед. ч.
 ```
 
-- No transcription for Russian in English etymology
-- No translation in Russian etymology (word is already in Russian)
-
-**Turkic in Cyrillic** (Kumyk, etc.):
+**Turkic in Cyrillic** — no transcription; Cyrillic for Kumyk, Latin for Azerbaijani:
 
 ```yaml
 etymology:
@@ -231,10 +152,7 @@ etymology:
   ru: От кумыкского *гьав* или азербайджанского *ov* "охота".
 ```
 
-- No transcription for Cyrillic in English
-- Use modern orthography (Cyrillic for Kumyk, Latin for Azerbaijani)
-
-**Chains** (borrowed through intermediate language):
+**Chains:**
 
 ```yaml
 etymology:
@@ -242,89 +160,35 @@ etymology:
   ru: От кумыкского *авара* "беспокойство", восходит к персидскому آواره (*âvâre*) "бродяга".
 ```
 
-### Concise Formulae
+Formulae: `The negative of *verb* "gloss".` / `Negative present participle of *verb* "gloss".`
 
-- Negatives: `The negative of *verb* "gloss".`
-- Participles: `Negative present participle of *verb* "gloss".`
-- Don't over-explain productive patterns
+Formatting: *italics* for cited forms, "double quotes" for glosses, (parentheses) for supplementary notes.
 
-### Formatting Conventions
+### `variants`
 
-- Use *italics* for cited linguistic forms: *word*
-- Use "double quotes" for glosses/meanings in both English and Russian
-- Use (parentheses) for supplementary notes: (cf. *word*), (pl.), (мн. ч.)
+Plain string array of dialectal/alternative forms. For variants with their own paradigm, slash-separate forms; use `~` for forms matching the headword. Include oblique dash `-` directly in string:
 
-## Cross-References
+```yaml
+variants: [авба, бавба]
+variants: [тӏя / тӏял- / тӏяме, тӏяь / тӏяьу / тӏяьри]
+variants: [~ / барара / барив]
+```
 
-### derived_from
+### `derived_from` & `see_also`
 
-- Link to source headwords for derivation/compounding
-- For compounds: include both elements `[noun, verb]`
-- Use even when etymology is present (for navigation)
-- **Reconstructed roots**: use asterisk prefix `["*root"]` when the base form doesn't exist as a dictionary entry — these are hidden from UI but maintain structured relationships
-- **Semantic head first**: the element that determines the core meaning/category, modifiers/specifiers follow
+**`derived_from`** — link to source entry filenames for derivations and compounds. List semantic head first. Use even when etymology is present. Reconstructed roots: `["*root"]`.
 
-### see_also
+**`see_also`** — semantically related terms: antonyms, parallel formations, co-hyponyms, culturally related items. Don't overuse.
 
-- Semantically related terms (antonyms, parallel formations, co-hyponyms)
-- Culturally related terms (ingredients, related dishes, etc.)
-- Don't overuse — only genuinely useful connections
+## Checklist
 
-## Notes
-
-### When to Use
-
-- Cultural/technical clarifications that don't fit in translation
-- Specific kinship relationships lacking English/Russian precision
-- Regional dish descriptions, specialized terminology
-
-### Keep Brief
-
-- One or two sentences maximum
-- Bilingual when needed for clarity
-
-### Formatting
-
-- Full sentences: capitalize and end with a period
-- Nominal descriptions (labels, classifications): lowercase, no period
-
-## Examples
-
-### Quality
-
-- Natural, idiomatic usage
-- Illustrate the definition, not other definitions
-- Include translation in both languages
-
-### When to Include
-
-- At least one for common/ambiguous words
-- Optional for very clear, concrete terms
-- Multiple examples when word has distinct uses
-
-## Common Mistakes to Avoid
-
-1. **Don't** add aliases from wrong part of speech
-2. **Don't** use invalid semantic tags (check tags.yaml)
-3. **Don't** forget "to" in English verb infinitives and aliases
-4. **Don't** include etymology for transparent derivations
-5. **Don't** mix up `pret` and `aor` (use `pret`)
-6. **Don't** forget blank line separators between blocks
-7. **Don't** add transcription for Russian/Cyrillic Turkic
-8. **Don't** translate Russian words in Russian etymology
-9. **Don't** use quotation marks for linguistic forms (use *italics*)
-10. **Don't** repeat the headword in forms (abs for nouns, ipfv for verbs)
-
-## Consistency Checklist
-
-Before finalizing an entry:
-
-- [ ] Field order correct with blank lines?
+- [ ] Four blocks in correct order, blank lines between?
+- [ ] Headword uses correct citation form?
 - [ ] Forms don't repeat the headword?
+- [ ] Compound verbs: verbal part only?
 - [ ] All tags valid per tags.yaml?
-- [ ] Etymology needed or just derived_from?
-- [ ] Aliases appropriate (synonyms/hypernyms, correct POS)?
-- [ ] Cross-references added where helpful?
-- [ ] Class-agreeing verbs use neutral -б-?
-- [ ] Italics for cited forms, quotes for glosses?
-- [ ] Bilingual completeness (both en and ru)?
+- [ ] Etymology or just derived_from?
+- [ ] Aliases: correct POS, not redundant?
+- [ ] Neutral *-б-* class marker in headword and forms?
+- [ ] *Italics* for cited forms, "quotes" for glosses?
+- [ ] Both `en` and `ru` present everywhere?

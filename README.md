@@ -25,7 +25,7 @@ forms:
   - text: абабне
     gloss: pl
 
-# Block 2: Content
+# Block 2: Definitions
 definitions: # required; one or more senses
   - translation:
       en: maternal grandmother
@@ -62,7 +62,7 @@ Shortcuts for common commands:
 # generate a new entry ID
 make id
 # validate entries: structure, IDs, tags, schema
-make validate [L="а б"]
+make validate # optional: L="а б" to filter by letter
 # validate + build all three export formats
 make export
 ```
