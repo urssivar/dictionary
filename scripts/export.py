@@ -2,37 +2,23 @@
 """Build all dictionary export formats."""
 
 import sys
-from validate import main as validate_main
 from to_urssivar import main as export_urssivar
 from to_json import main as export_json
 from to_csv import main as export_csv
 
 
 def main():
-    print("🔍 Validating...")
-    try:
-        validate_main()
-    except SystemExit as e:
-        if e.code != 0:
-            print("⛔ Export aborted.")
-            sys.exit(1)
-
-    print("\n📦 Exporting...\n")
-
     exporters = [export_urssivar, export_json, export_csv]
 
     success_count = 0
     for exporter_fn in exporters:
-        name = exporter_fn.__name__
-        print(f"  {name}...")
         try:
             exporter_fn()
-            print(f"✔️ done\n")
             success_count += 1
         except Exception as e:
             print(f"❌ {e}\n")
 
-    print(f"{'✔️' if success_count == len(exporters) else '❌'} {success_count}/{len(exporters)} succeeded")
+    print(f"\n{'✔️' if success_count == len(exporters) else '❌'} {success_count}/{len(exporters)} exports")
 
     if success_count < len(exporters):
         sys.exit(1)
