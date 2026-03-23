@@ -62,12 +62,9 @@ Python scripts in `scripts/` handle validation and export. The `export` script p
 Shortcuts for common commands:
 
 ```bash
-# generate a new entry ID
-make id
-# validate entries: structure, IDs, tags, schema
-make validate # optional: L="а б" to filter by letter
-# validate + build all three export formats
-make export
+make new W=<headword>     # create a new entry file with ID
+make validate [L="а б"]   # validate entries: structure, IDs, tags, schema
+make export               # build all three export formats
 ```
 
 ## VSCode Setup
