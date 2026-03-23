@@ -9,9 +9,7 @@ forms:
     gloss: pfv
   - text: биҡӏур
     gloss: pret
-variants:
-  - text: билҡӏона
-    gloss: ipfv
+variants: [билҡӏона]
 definitions:
   - translation:
       en: to mature

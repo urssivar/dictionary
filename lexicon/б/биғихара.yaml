@@ -9,8 +9,7 @@ forms:
     gloss: pret
   - text: биғихара
     gloss: ipfv
-variants:
-  - text: бехара
+variants: [бехара]
 
 definitions:
   - translation:

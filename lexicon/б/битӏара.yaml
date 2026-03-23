@@ -9,8 +9,7 @@ forms:
     gloss: pret
   - text: битӏара
     gloss: ipfv
-variants:
-  - text: чибитӏара
+variants: [чибитӏара]
 
 definitions:
   - translation:

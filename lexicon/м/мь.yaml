@@ -7,5 +7,5 @@ definitions:
       en: mhm
       ru: мм
     aliases:
-      en: [yes, yeah]
+      en: ["yes", yeah]
       ru: [да, ага]

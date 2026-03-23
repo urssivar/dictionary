@@ -9,8 +9,7 @@ forms:
     gloss: obl
   - text: ццирме
     gloss: pl
-variants:
-  - text: ццарццар
+variants: [ццарццар]
 
 definitions:
   - translation:

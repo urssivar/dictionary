@@ -7,11 +7,7 @@ forms:
     gloss: abs
   - text: убне
     gloss: pl
-variants:
-  - text: аба
-    lect: kttg
-  - text: ваба
-    lect: shrh
+variants: [аба, ваба]
 
 definitions:
   - translation:

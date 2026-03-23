@@ -11,8 +11,7 @@ forms:
     gloss: obl
   - text: бирме
     gloss: pl
-variants:
-  - text: бар
+variants: [бар]
 
 definitions:
   - translation:

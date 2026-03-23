@@ -9,8 +9,7 @@ forms:
     gloss: pret
   - text: бези бирьора
     gloss: ipfv
-variants:
-  - text: бези
+variants: [бези]
 definitions:
   - translation:
       en: to calm down

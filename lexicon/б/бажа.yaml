@@ -7,8 +7,7 @@ forms:
     gloss: abs
   - text: бажне
     gloss: pl
-variants:
-  - text: бажанағ
+variants: [бажанағ]
 
 definitions:
   - translation:
