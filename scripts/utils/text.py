@@ -86,17 +86,3 @@ def create_tokenizer(alphabet, alphabet_tokens):
             return [0]
 
     return sorting_key
-
-
-def simplify_forms(forms, headword):
-    if not forms:
-        return []
-    result = []
-    for form in forms:
-        text = form.get('text', '')
-        if not text or text == headword:
-            continue
-        if 'obl' in form.get('gloss', ''):
-            text += '-'
-        result.append(text)
-    return result

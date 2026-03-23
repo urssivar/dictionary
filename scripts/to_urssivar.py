@@ -4,7 +4,7 @@
 import json
 import yaml
 import re
-from utils import ROOT, load_alphabet, load_grammar_tags, get_first_letter, mark_stress, simplify_forms, load_lexicon_entries
+from utils import ROOT, load_alphabet, load_grammar_tags, get_first_letter, mark_stress, load_lexicon_entries
 
 
 def resolve_headword_link(headword_ref, lexicon_dir, alphabet_tokens):
@@ -75,7 +75,14 @@ def convert_entry(yaml_entry, vowels, tag_map, lexicon_dir, alphabet_tokens):
             result['tags'] = mapped
 
     if 'forms' in yaml_entry:
-        forms = simplify_forms(yaml_entry['forms'], yaml_entry['headword'])
+        forms = []
+        for form in yaml_entry['forms']:
+            text = form.get('text', '')
+            if not text or text == yaml_entry['headword']:
+                continue
+            if 'obl' in form.get('gloss', ''):
+                text += '-'
+            forms.append(text)
         if forms:
             result['forms'] = forms
 
@@ -104,7 +111,7 @@ def convert_entry(yaml_entry, vowels, tag_map, lexicon_dir, alphabet_tokens):
 
 
 def main():
-    output_path = ROOT / 'export' / 'dictionary-web.json'
+    output_path = ROOT / 'export' / 'dictionary-urssivar.json'
 
     alphabet, alphabet_tokens, vowels, sorting_key = load_alphabet()
     tag_map = load_grammar_tags()

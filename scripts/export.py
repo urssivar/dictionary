@@ -3,8 +3,8 @@
 
 import sys
 from validate import main as validate_main
-from to_json_web import main as export_web
-from to_json_archive import main as export_archive
+from to_urssivar import main as export_urssivar
+from to_json import main as export_json
 from to_csv import main as export_csv
 
 
@@ -19,7 +19,7 @@ def main():
 
     print("\n📦 Exporting...\n")
 
-    exporters = [export_web, export_archive, export_csv]
+    exporters = [export_urssivar, export_json, export_csv]
 
     success_count = 0
     for exporter_fn in exporters:

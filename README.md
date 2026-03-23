@@ -57,7 +57,7 @@ See [EDITORIAL_GUIDELINES.md](EDITORIAL_GUIDELINES.md) for all authoring rules.
 
 ## Scripts
 
-Python scripts in `scripts/` handle validation and export. The `export` script produces three formats: website JSON, archive JSON, and CSV — all written to `export/`.
+Python scripts in `scripts/` handle validation and export. The `export` script produces three formats: Urssivar JSON, archive JSON, and CSV — all written to `export/`.
 
 Shortcuts for common commands:
 

@@ -6,7 +6,7 @@ from utils import ROOT, load_alphabet, load_lexicon_entries
 
 
 def main():
-    output_path = ROOT / 'export' / 'dictionary-archive.json'
+    output_path = ROOT / 'export' / 'dictionary.json'
 
     alphabet, _, _, sorting_key = load_alphabet()
     entries_by_letter, total_entries, skipped_entries = load_lexicon_entries(alphabet)
