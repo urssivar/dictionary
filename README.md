@@ -50,7 +50,7 @@ derived_from: [уба]
 see_also: [аттаба]
 ```
 
-Reference tables in `data/` include the tag taxonomy (`tags.yaml`) and alphabet with IPA mappings (`alphabet.yaml`).
+Reference tables in `meta/` include the tag taxonomy (`tags.yaml`) and alphabet with IPA mappings (`alphabet.yaml`).
 
 See [EDITORIAL_GUIDELINES.md](EDITORIAL_GUIDELINES.md) for all authoring rules.
 

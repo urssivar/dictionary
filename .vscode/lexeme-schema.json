@@ -21,7 +21,7 @@
       "type": "string"
     },
     "tags": {
-      "description": "Entry-level grammar and etymology tags (see data/tags.yaml)",
+      "description": "Entry-level grammar and etymology tags (see meta/tags.yaml)",
       "type": "array",
       "items": {
         "type": "string"
@@ -62,7 +62,7 @@
             "$ref": "#/definitions/bilingualText"
           },
           "tags": {
-            "description": "Definition-level semantic and register tags (see data/tags.yaml)",
+            "description": "Definition-level semantic and register tags (see meta/tags.yaml)",
             "type": "array",
             "items": {
               "type": "string"

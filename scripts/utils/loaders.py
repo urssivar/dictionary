@@ -3,12 +3,12 @@ import yaml
 from utils.paths import ROOT
 from utils.text import create_tokenizer
 
-_DATA_DIR = ROOT / 'data'
+_META_DIR = ROOT / 'meta'
 _LEXICON_DIR = ROOT / 'lexicon'
 
 
 def load_alphabet():
-    with open(_DATA_DIR / 'alphabet.yaml', encoding='utf-8') as f:
+    with open(_META_DIR / 'alphabet.yaml', encoding='utf-8') as f:
         data = yaml.safe_load(f)
 
     alphabet = list(data['alphabet'].keys())
@@ -24,13 +24,13 @@ def load_alphabet():
 
 
 def load_valid_tags():
-    with open(_DATA_DIR / 'tags.yaml', 'r', encoding='utf-8') as f:
+    with open(_META_DIR / 'tags.yaml', 'r', encoding='utf-8') as f:
         taxonomy = yaml.safe_load(f)
     return {k for cat in taxonomy.values() if isinstance(cat, dict) for k in cat}
 
 
 def load_grammar_tags():
-    with open(_DATA_DIR / 'tags.yaml', encoding='utf-8') as f:
+    with open(_META_DIR / 'tags.yaml', encoding='utf-8') as f:
         data = yaml.safe_load(f)
 
     exportable = {

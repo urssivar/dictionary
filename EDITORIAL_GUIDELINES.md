@@ -81,7 +81,7 @@ forms:
 
 ### `tags`
 
-All valid tags in `data/tags.yaml`. Grammar and etymology tags at entry level; semantic and register tags at definition level.
+All valid tags in `meta/tags.yaml`. Grammar and etymology tags at entry level; semantic and register tags at definition level.
 
 Required when applicable: `tr`/`ntr` for verbs, `cls` for class-agreeing words (any POS), `pl` for pluralia tantum nouns.
 
