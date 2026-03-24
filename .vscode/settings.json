@@ -1,5 +1,8 @@
 {
   "yaml.schemas": {
     ".vscode/lexeme-schema.json": "lexicon/**/*.yaml"
-  }
+  },
+  "python.analysis.extraPaths": [
+    "scripts"
+  ]
 }
