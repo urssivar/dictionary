@@ -50,27 +50,23 @@ derived_from: [уба]
 see_also: [аттаба]
 ```
 
-Reference tables in `data/` include the tag taxonomy (`tags.yaml`), alphabet with IPA mappings (`alphabet.yaml`), and dialect inventory (`lects.yaml`).
+Reference tables in `data/` include the tag taxonomy (`tags.yaml`) and alphabet with IPA mappings (`alphabet.yaml`).
 
 See [EDITORIAL_GUIDELINES.md](EDITORIAL_GUIDELINES.md) for all authoring rules.
 
-## Scripts
+## Setup
+
+Install the [YAML by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) VSCode extension — the schema at `.vscode/lexeme-schema.json` provides autocomplete and validation for all `lexicon/**/*.yaml` files.
+
+[Claude Code](https://claude.ai/claude-code) with the `lexeme-polish` skill can assist with entry review, but all review decisions remain with the author.
 
 Python scripts in `scripts/` handle validation and export, driven by `d.py` at the project root.
 
 ```bash
-python d.py new <headword>      # create a new entry file with ID
-python d.py validate [а б]      # validate entries: structure, IDs, tags, schema
-python d.py export              # build all three export formats
+python d.py new <headword>      # create a new entry file
+python d.py validate [а б]      # validate entries
+python d.py export              # create files to export/
 ```
-
-The `export` command produces three formats: Urssivar JSON, archive JSON, and CSV — all written to `export/`.
-
-## VSCode Setup
-
-Install the [YAML by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) extension — the schema at `.vscode/lexeme-schema.json` is automatically applied to all `lexicon/**/*.yaml` files, providing autocomplete and validation.
-
-The **Claude Code** extension with the `lexeme-polish` skill can assist with entry review, but all review decisions remain with the author.
 
 ## License
 
