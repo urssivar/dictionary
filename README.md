@@ -62,7 +62,7 @@ Python scripts in `scripts/` handle validation and export. The `export` script p
 Shortcuts for common commands:
 
 ```bash
-make new W=<headword>     # create a new entry file with ID
+make new W="<headword>"   # create a new entry file with ID
 make validate [L="а б"]   # validate entries: structure, IDs, tags, schema
 make export               # build all three export formats
 ```
