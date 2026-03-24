@@ -2,7 +2,7 @@
 """Convert Kaitag YAML lexicon to CSV for linguistic researchers."""
 
 import csv
-from utils import ROOT, load_alphabet, load_lexicon_entries, mark_stress
+from utils import ROOT, load_alphabet, load_lexicon_entries
 
 
 FIELDNAMES = ['headword', 'ipa', 'tags', 'forms', 'translation',
@@ -16,7 +16,7 @@ def fmt_translation(text, aliases=None):
     return text
 
 
-def convert_entry(entry, vowels):
+def convert_entry(entry):
     defs = entry.get('definitions', [])
     multi = len(defs) > 1
 
@@ -88,11 +88,9 @@ def convert_entry(entry, vowels):
             n = d['note']
             note_parts.append(f'{i}.\n{n.get("en", "")}\n{n.get("ru", "")}')
 
-    ipa = entry.get('ipa', '').replace('ˈ', '').replace('ˌ', '')
-
     return {
-        'headword': mark_stress(entry, vowels),
-        'ipa': ipa,
+        'headword': entry.get('headword', ''),
+        'ipa': entry.get('ipa', ''),
         'tags': '\n'.join(tags_parts),
         'forms': '\n'.join(forms_parts),
         'translation': '\n\n'.join(trans_blocks),
@@ -107,7 +105,7 @@ def convert_entry(entry, vowels):
 def main():
     output_path = ROOT / 'export' / 'dictionary.csv'
 
-    alphabet, _, vowels, sorting_key = load_alphabet()
+    alphabet, _, _, sorting_key = load_alphabet()
     entries_by_letter, total_entries, skipped_entries = load_lexicon_entries(alphabet)
 
     all_entries = []
@@ -116,7 +114,7 @@ def main():
         raw.sort(key=sorting_key)
         for e in raw:
             try:
-                all_entries.append(convert_entry(e, vowels))
+                all_entries.append(convert_entry(e))
             except Exception as err:
                 skipped_entries += 1
                 print(f"⚠️ {e.get('headword', '?')}: {err}")
