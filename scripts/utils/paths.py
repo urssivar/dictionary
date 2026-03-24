@@ -4,9 +4,9 @@ from pathlib import Path
 
 def _find_root() -> Path:
     for parent in Path(__file__).parents:
-        if (parent / 'Makefile').exists():
+        if (parent / 'd.py').exists():
             return parent
-    raise RuntimeError("Could not find project root (no Makefile found)")
+    raise RuntimeError("Could not find project root (no d.py found)")
 
 
 ROOT = _find_root()

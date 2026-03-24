@@ -56,14 +56,12 @@ See [EDITORIAL_GUIDELINES.md](EDITORIAL_GUIDELINES.md) for all authoring rules.
 
 ## Scripts
 
-Python scripts in `scripts/` handle validation and export. The `export` script produces three formats: Urssivar JSON, archive JSON, and CSV — all written to `export/`.
-
-Shortcuts for common commands:
+Python scripts in `scripts/` handle validation and export, driven by `d.py` at the project root. The `export` command produces three formats: Urssivar JSON, archive JSON, and CSV — all written to `export/`.
 
 ```bash
-make new W="<headword>"   # create a new entry file with ID
-make validate [L="а б"]   # validate entries: structure, IDs, tags, schema
-make export               # build all three export formats
+python d.py new <headword>      # create a new entry file with ID
+python d.py validate [а б]      # validate entries: structure, IDs, tags, schema
+python d.py export              # build all three export formats
 ```
 
 ## VSCode Setup
@@ -78,7 +76,5 @@ The **Claude Code** extension with the `lexeme-polish` skill can assist with ent
 
 When using the dictionary data, cite as:
 
-```
-Magomedov, M., & Gasanova, U. (2026). Kaitag Dictionary [Data set].
-Licensed under CC BY-SA 4.0. https://github.com/urssivar/dictionary
-```
+> Magomedov, M., & Gasanova, U. (2026). Kaitag Dictionary [Data set].
+> Licensed under CC BY-SA 4.0. <https://github.com/urssivar/dictionary>
