@@ -5,8 +5,14 @@ import argparse
 import sys
 import os
 
+# Auto-activate venv if present and not already active
+_dir = os.path.dirname(os.path.abspath(__file__))
+_venv_python = os.path.join(_dir, 'venv', 'bin', 'python3')
+if os.path.exists(_venv_python) and sys.prefix == sys.base_prefix:
+    os.execv(_venv_python, [_venv_python] + sys.argv)
+
 # Add scripts/ to path so imports work
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'scripts'))
+sys.path.insert(0, os.path.join(_dir, 'scripts'))
 
 
 def cmd_new(args):
