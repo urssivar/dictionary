@@ -109,13 +109,14 @@ translation:
 **Aliases** — synonyms, hypernyms, and related terms for search discoverability. Match grammatical form of the translation. `en` and `ru` need not be parallel. Don't repeat the main translation or cross part-of-speech boundaries.
 
 ```yaml
-- translation:
-    en: entrance
-    ru: вход
-  tags: [structure]
-  aliases:
-    en: [entry, passage, doorway]
-    ru: [проход]
+definitions:
+  - translation:
+      en: entrance
+      ru: вход
+    tags: [structure]
+    aliases:
+      en: [entry, passage, doorway]
+      ru: [проход]
 ```
 
 ### `note` & `examples`
