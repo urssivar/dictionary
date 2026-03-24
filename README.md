@@ -56,13 +56,15 @@ See [EDITORIAL_GUIDELINES.md](EDITORIAL_GUIDELINES.md) for all authoring rules.
 
 ## Scripts
 
-Python scripts in `scripts/` handle validation and export, driven by `d.py` at the project root. The `export` command produces three formats: Urssivar JSON, archive JSON, and CSV — all written to `export/`.
+Python scripts in `scripts/` handle validation and export, driven by `d.py` at the project root.
 
 ```bash
 python d.py new <headword>      # create a new entry file with ID
 python d.py validate [а б]      # validate entries: structure, IDs, tags, schema
 python d.py export              # build all three export formats
 ```
+
+The `export` command produces three formats: Urssivar JSON, archive JSON, and CSV — all written to `export/`.
 
 ## VSCode Setup
 
