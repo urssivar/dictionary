@@ -5,7 +5,7 @@ import csv
 from utils import ROOT, load_alphabet, load_lexicon_entries, mark_stress
 
 
-FIELDNAMES = ['id', 'headword', 'ipa', 'tags', 'forms', 'translation',
+FIELDNAMES = ['headword', 'ipa', 'tags', 'forms', 'translation',
               'examples', 'note', 'variants', 'derived_from', 'see_also']
 
 
@@ -20,16 +20,14 @@ def convert_entry(entry, vowels):
     defs = entry.get('definitions', [])
     multi = len(defs) > 1
 
-    # tags: entry-level first, then numbered sense tags
+    # tags: entry-level first, then each sense's tags on its own line
     tags_parts = []
     entry_tags = entry.get('tags', [])
     if entry_tags:
         tags_parts.append(', '.join(entry_tags))
-    sense_tags = [', '.join(d['tags']) for d in defs if d.get('tags')]
-    if sense_tags:
-        for i, d in enumerate(defs, 1):
-            if d.get('tags'):
-                tags_parts.append(f'{i}. {", ".join(d["tags"])}')
+    for d in defs:
+        if d.get('tags'):
+            tags_parts.append(', '.join(d['tags']))
 
     # forms: text (gloss) pairs
     forms_parts = []
@@ -90,12 +88,13 @@ def convert_entry(entry, vowels):
             n = d['note']
             note_parts.append(f'{i}.\n{n.get("en", "")}\n{n.get("ru", "")}')
 
+    ipa = entry.get('ipa', '').replace('ˈ', '').replace('ˌ', '')
+
     return {
-        'id': entry.get('id', ''),
         'headword': mark_stress(entry, vowels),
-        'ipa': entry.get('ipa', ''),
+        'ipa': ipa,
         'tags': '\n'.join(tags_parts),
-        'forms': ', '.join(forms_parts),
+        'forms': '\n'.join(forms_parts),
         'translation': '\n\n'.join(trans_blocks),
         'examples': '\n\n'.join(ex_blocks),
         'note': '\n\n'.join(note_parts),
