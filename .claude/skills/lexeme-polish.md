@@ -12,6 +12,15 @@ Advisory review of Kaitag dictionary YAML entries against `EDITORIAL_GUIDELINES.
 - User says "polish", "review", or "check" a file or letter folder
 - User finishes editing a letter and asks for a pass
 
+**Prerequisite:** `scripts/validate.py` should be clean before invoking this skill. If it isn't, ask the user to fix those issues first.
+
+## Performance
+
+- **Always use Haiku** for audit agents — these are pattern-matching tasks, not reasoning-heavy
+- **Always delegate to a subagent** (Agent tool) — keeps main context clean
+- **Disable thinking** before running — it burns context with no benefit here
+- `scripts/validate.py` handles mechanical checks (tags, schema, IDs, folder); don't re-check those — focus on judgment calls: alias POS, example quality, note clarity, semantic tag fitness
+
 ## How to Review
 
 Read `EDITORIAL_GUIDELINES.md` first. For each entry, check against the checklist at the end of the guidelines. Only flag real issues, not hypothetical ones.
@@ -20,12 +29,15 @@ Do NOT flag:
 
 - Semantic shift between a loanword's source and its Kaitag meaning — shift on borrowing is normal
 - `derived_from` mismatching etymology — they can legitimately point to different bases
+- Issues already caught by `validate.py` (tags, schema, IDs)
+
+For large folders (100+ files), prefer an incremental audit: `git diff --name-only` to find only changed files.
 
 ## Output Format
 
 For a single file, output issues grouped by category. Only include categories with actual issues:
 
-```
+```bash
 **абаба**
 - Examples: definition 1 has no example — consider adding one for clarity
 - Aliases: "grandmother" redundant with main translation
