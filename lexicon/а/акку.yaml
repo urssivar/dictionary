@@ -22,7 +22,6 @@ definitions:
         translation:
           en: He's not a doctor.
           ru: Он не доктор.
-          examples:
       - text: Дул барьул аккоде.
         translation:
           en: I do not know

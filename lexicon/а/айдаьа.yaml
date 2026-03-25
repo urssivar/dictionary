@@ -15,7 +15,6 @@ definitions:
       ru: [змей, чудище]
     examples:
       - text: айдаьала ҡҡушни
-        type: idiom
         translation:
           en: very far (lit. "at dragon's hut")
           ru: очень далеко (букв. "в шалаше у дракона")
