@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate dictionary entries: YAML, structure, IDs, tags, and schema."""
+"""Validate dictionary entries: YAML, structure, tags, cross-references, and schema."""
 
 import json
 import re
@@ -8,7 +8,7 @@ import yaml
 import argparse
 import jsonschema
 from utils.paths import ROOT
-from utils.loaders import load_alphabet, load_valid_tags
+from utils.loaders import load_alphabet, load_valid_tags, resolve_headword_ref
 from utils.text import get_first_letter
 
 
@@ -32,12 +32,11 @@ def main():
         missing = [d for d in dirs if not d.is_dir()]
         if missing:
             for d in missing:
-                print(f"❌ letter folder not found: {d.relative_to(ROOT)}")
+                print(f'letter folder not found: {d.relative_to(ROOT)}')
             sys.exit(1)
     else:
         dirs = sorted(d for d in lexicon_dir.iterdir() if d.is_dir())
 
-    seen_ids: dict[str, str] = {}
     has_errors = False
 
     for letter_dir in dirs:
@@ -49,7 +48,7 @@ def main():
                 with open(yaml_file, encoding='utf-8') as f:
                     data = yaml.safe_load(f)
             except yaml.YAMLError as e:
-                print(f"❌ {rel}:1\n  • YAML parse error: {e}")
+                print(f'{rel}\n  • YAML parse error: {e}')
                 has_errors = True
                 continue
 
@@ -59,51 +58,46 @@ def main():
             folder = yaml_file.parent.name
             headword = data.get('headword')
 
-            # Letter folder check
-            if headword:
-                expected = get_first_letter(headword.lower(), alphabet_tokens)
-                if folder != expected:
-                    errors.append(f"wrong folder: {headword!r} belongs in '{expected}/'")
-
-            # Headword/filename check
-            headword_from_filename = re.sub(
-                r'-\d+$', '', yaml_file.stem).lower()
+            # Headword placement check
             if headword is None:
                 errors.append("missing 'headword'")
-            elif headword.lower() != headword_from_filename:
-                errors.append(
-                    f"headword/filename mismatch: {headword!r} vs filename {headword_from_filename!r}")
-
-            # ID check + inline collision
-            entry_id = data.get('id')
-            if not entry_id:
-                errors.append("missing 'id'")
-            elif entry_id in seen_ids:
-                errors.append(
-                    f"ID collision '{entry_id}' (first seen in {seen_ids[entry_id]})")
             else:
-                seen_ids[entry_id] = str(rel)
+                headword_from_filename = re.sub(
+                    r'-\d+$', '', yaml_file.stem).lower()
+                if headword.lower() != headword_from_filename:
+                    errors.append(
+                        f"headword/filename mismatch: {headword!r} vs {headword_from_filename!r}")
+                expected = get_first_letter(headword.lower(), alphabet_tokens)
+                if folder != expected:
+                    errors.append(f"wrong folder: '{expected}/'expected")
+
+            # Cross-reference check
+            broken = [
+                ref
+                for field in ('see_also', 'derived_from')
+                for ref in data.get(field) or []
+                if resolve_headword_ref(ref, alphabet_tokens) is None
+            ]
+            if broken:
+                errors.append(f"broken refs: {', '.join(broken)}")
 
             # Tags check
-            for tag in data.get('tags') or []:
-                if tag not in valid_tags:
-                    errors.append(f"unknown tag '{tag}'")
+            all_tags = list(data.get('tags') or [])
             for defn in data.get('definitions') or []:
-                if isinstance(defn, dict):
-                    for tag in defn.get('tags') or []:
-                        if tag not in valid_tags:
-                            errors.append(f"unknown definition tag '{tag}'")
+                all_tags += defn.get('tags') or []
+            unknown = [t for t in all_tags if t not in valid_tags]
+            if unknown:
+                errors.append(f"unknown tags: {', '.join(unknown)}")
 
             # Schema check
             try:
                 jsonschema.validate(instance=data, schema=schema)
             except jsonschema.ValidationError as e:
-                path = " -> ".join(str(p) for p in e.absolute_path) or "(root)"
-                errors.append(f"schema {path}: {e.message}")
+                errors.append(f"schema: {e.message}")
 
             if errors:
                 has_errors = True
-                print(f"❌ {rel}:1")
+                print(f'{rel}')
                 for err in errors:
                     print(f"  • {err}")
 

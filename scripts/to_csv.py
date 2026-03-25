@@ -31,17 +31,11 @@ def convert_entry(entry):
 
     # forms: text (gloss) pairs
     forms_parts = []
-    headword = entry['headword']
     for form in entry.get('forms', []):
-        text = form.get('text', '')
-        if not text or text == headword:
-            continue
-        if 'obl' in form.get('gloss', ''):
+        text = form['text']
+        if 'obl' in form['gloss']:
             text += '-'
-        if form.get('gloss'):
-            forms_parts.append(f'{text} ({form["gloss"]})')
-        else:
-            forms_parts.append(text)
+        forms_parts.append(f'{text} ({form["gloss"]})')
 
     # translation: numbered blocks if multi-sense
     trans_blocks = []

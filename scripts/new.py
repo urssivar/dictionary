@@ -6,6 +6,7 @@ from utils.paths import ROOT
 from utils.loaders import load_alphabet
 from utils.text import get_first_letter
 
+
 def main():
     if len(sys.argv) < 2:
         print("Usage: python d.py new <headword>")

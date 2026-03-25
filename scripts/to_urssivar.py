@@ -2,38 +2,21 @@
 """Convert Kaitag YAML lexicon to JSON for static website (optimized format)."""
 
 import json
-import yaml
 import re
-from utils import ROOT, load_alphabet, load_grammar_tags, get_first_letter, mark_stress, load_lexicon_entries
+from utils import ROOT, load_alphabet, load_grammar_tags, mark_stress, load_lexicon_entries, resolve_headword_ref
 
 
-def resolve_headword_link(headword_ref, lexicon_dir, alphabet_tokens):
-    if headword_ref.startswith('*'):
-        return None
-
-    clean_headword = re.sub(r'-\d+$', '', headword_ref)
-    letter = get_first_letter(headword_ref, alphabet_tokens)
-    yaml_file = lexicon_dir / letter / f"{headword_ref}.yaml"
-
-    try:
-        with open(yaml_file, 'r', encoding='utf-8') as f:
-            yaml_data = yaml.safe_load(f)
-            if 'id' not in yaml_data:
-                print(f"⚠️ no ID in {yaml_file}")
-                return None
-            return {'headword': clean_headword, 'link': f"{letter}#{yaml_data['id']}"}
-    except FileNotFoundError:
-        print(f"⚠️ ref not found: {yaml_file}")
-        return None
-    except Exception as e:
-        print(f"❌ {yaml_file}: {e}")
-        return None
-
-
-def resolve_headword_links(headword_refs, lexicon_dir, alphabet_tokens):
-    if not headword_refs:
-        return []
-    return [r for ref in headword_refs if (r := resolve_headword_link(ref, lexicon_dir, alphabet_tokens))]
+def resolve_headword_links(headword_refs, alphabet_tokens):
+    result = []
+    for ref in headword_refs or []:
+        path = resolve_headword_ref(ref, alphabet_tokens)
+        if path is None:
+            print(f"⚠️ ref not found: {ref}")
+            continue
+        if path is not True:
+            clean = re.sub(r'-\d+$', '', ref)
+            result.append({'headword': clean, 'link': f"{path.parent.name}/{path.stem}"})
+    return result
 
 
 def transform_definitions(definitions):
@@ -47,8 +30,9 @@ def transform_definitions(definitions):
             def_obj['translation'] = defn['translation']
         if defn.get('examples'):
             def_obj['examples'] = [
-                {'text': ex['text'], **({'translation': ex['translation']} if 'translation' in ex else {})}
+                {'text': ex['text'], 'translation': ex['translation']}
                 for ex in defn['examples']
+                if 'translation' in ex
             ]
         if 'aliases' in defn:
             def_obj['aliases'] = defn['aliases']
@@ -60,10 +44,7 @@ def transform_definitions(definitions):
     return result
 
 
-def convert_entry(yaml_entry, vowels, tag_map, lexicon_dir, alphabet_tokens):
-    if 'id' not in yaml_entry or 'headword' not in yaml_entry or 'definitions' not in yaml_entry:
-        return None
-
+def convert_entry(yaml_entry, vowels, tag_map, alphabet_tokens):
     result = {
         'id': yaml_entry['id'],
         'headword': mark_stress(yaml_entry, vowels),
@@ -77,10 +58,8 @@ def convert_entry(yaml_entry, vowels, tag_map, lexicon_dir, alphabet_tokens):
     if 'forms' in yaml_entry:
         forms = []
         for form in yaml_entry['forms']:
-            text = form.get('text', '')
-            if not text or text == yaml_entry['headword']:
-                continue
-            if 'obl' in form.get('gloss', ''):
+            text = form['text']
+            if 'obl' in form['gloss']:
                 text += '-'
             forms.append(text)
         if forms:
@@ -98,12 +77,12 @@ def convert_entry(yaml_entry, vowels, tag_map, lexicon_dir, alphabet_tokens):
         result['note'] = yaml_entry['note']
 
     if yaml_entry.get('derived_from'):
-        links = resolve_headword_links(yaml_entry['derived_from'], lexicon_dir, alphabet_tokens)
+        links = resolve_headword_links(yaml_entry['derived_from'], alphabet_tokens)
         if links:
             result['derived_from'] = links
 
     if yaml_entry.get('see_also'):
-        links = resolve_headword_links(yaml_entry['see_also'], lexicon_dir, alphabet_tokens)
+        links = resolve_headword_links(yaml_entry['see_also'], alphabet_tokens)
         if links:
             result['see_also'] = links
 
@@ -117,12 +96,10 @@ def main():
     tag_map = load_grammar_tags()
     entries_by_letter, total_entries, skipped_entries = load_lexicon_entries(alphabet)
 
-    lexicon_dir = ROOT / 'lexicon'
-
     converted_entries = {}
     for letter in alphabet:
         converted = [
-            convert_entry(entry, vowels, tag_map, lexicon_dir, alphabet_tokens)
+            convert_entry(entry, vowels, tag_map, alphabet_tokens)
             for entry in entries_by_letter.get(letter, [])
         ]
         converted.sort(key=sorting_key)

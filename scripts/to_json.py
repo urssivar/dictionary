@@ -14,7 +14,6 @@ def main():
     entries = []
     for letter in alphabet:
         for e in entries_by_letter.get(letter, []):
-            e['id'] = e.pop('_id')
             entries.append(e)
     entries.sort(key=sorting_key)
 
