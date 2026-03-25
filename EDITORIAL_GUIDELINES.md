@@ -48,6 +48,8 @@ YAML conventions: simple arrays inline `[a, b]`; object arrays and all objects i
 
 ### `headword` & `forms`
 
+For spelling conventions (gemination, assimilation, paradigm roots), see [ORTHOGRAPHY.md](ORTHOGRAPHY.md).
+
 **Headword** is the default citation form:
 
 - Nouns: absolutive singular
