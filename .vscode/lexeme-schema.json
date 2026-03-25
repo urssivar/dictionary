@@ -31,6 +31,7 @@
           "text",
           "gloss"
         ],
+        "additionalProperties": false,
         "properties": {
           "text": {
             "description": "Inflected form text",
@@ -95,6 +96,7 @@
                 "text",
                 "translation"
               ],
+              "additionalProperties": false,
               "properties": {
                 "text": {
                   "description": "Example sentence in Kaitag",
@@ -147,6 +149,7 @@
         "en",
         "ru"
       ],
+      "additionalProperties": false,
       "properties": {
         "en": {
           "type": "string"
