@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import re
 import yaml
 from utils.paths import ROOT
 from utils.text import create_tokenizer, get_first_letter
