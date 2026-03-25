@@ -11,5 +11,8 @@ definitions:
       ru: [приём, радушие]
     examples:
       - text: Ьелттал аххалдеҳ барьар.
-        
+        translation:
+          en: They know hospitality.
+          ru: Они знают гостеприимство.
+
 derived_from: [аххал]

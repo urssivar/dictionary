@@ -16,5 +16,8 @@ definitions:
       ru: [исчезать, пропадать, уходить]
     examples:
       - text: Дуццан бицӏе аккор диьяв.
+        translation:
+          en: Wolves went extinct in the forest.
+          ru: В лесу вымерли волки.
 
 derived_from: [аккор, бирьора]

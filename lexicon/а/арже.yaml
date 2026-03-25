@@ -21,3 +21,6 @@ definitions:
     tags: [tool]
     examples:
       - text: йябула арже
+        translation:
+          en: horse tail
+          ru: хвост лошади
