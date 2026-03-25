@@ -50,7 +50,8 @@ def mark_stress(entry, vowels):
             if i_vowel == -1:
                 return entry['headword']
             if needs_stress:
-                headword = headword[:i_vowel + 1] + '\u0301' + headword[i_vowel + 1:]
+                headword = headword[:i_vowel + 1] + \
+                    '\u0301' + headword[i_vowel + 1:]
                 i_vowel += 1
                 needs_stress = False
 
@@ -79,7 +80,7 @@ def create_tokenizer(alphabet, alphabet_tokens):
         return tokens
 
     def sorting_key(entry):
-        headword = entry['headword'].lower().replace('\u0301', '')
+        headword = entry['id'].lower()
         try:
             return [letter_order.get(t, 999) for t in tokenize(headword)]
         except Exception:
