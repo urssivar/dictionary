@@ -15,7 +15,10 @@ def resolve_headword_links(headword_refs, alphabet_tokens):
             continue
         if path is not True:
             clean = re.sub(r'-\d+$', '', ref)
-            result.append({'headword': clean, 'link': f"{path.parent.name}/{path.stem}"})
+            result.append({
+                'headword': clean,
+                'link': f"{path.parent.name}#{path.stem}"
+            })
     return result
 
 
@@ -51,7 +54,8 @@ def convert_entry(yaml_entry, vowels, tag_map, alphabet_tokens):
     }
 
     if 'tags' in yaml_entry:
-        mapped = [{'en': tag_map[t]['en'], 'ru': tag_map[t]['ru']} for t in yaml_entry['tags'] if t in tag_map]
+        mapped = [{'en': tag_map[t]['en'], 'ru': tag_map[t]['ru']}
+                  for t in yaml_entry['tags'] if t in tag_map]
         if mapped:
             result['tags'] = mapped
 
@@ -77,7 +81,8 @@ def convert_entry(yaml_entry, vowels, tag_map, alphabet_tokens):
         result['note'] = yaml_entry['note']
 
     if yaml_entry.get('derived_from'):
-        links = resolve_headword_links(yaml_entry['derived_from'], alphabet_tokens)
+        links = resolve_headword_links(
+            yaml_entry['derived_from'], alphabet_tokens)
         if links:
             result['derived_from'] = links
 
