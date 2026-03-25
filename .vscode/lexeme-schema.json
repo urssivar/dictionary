@@ -28,7 +28,8 @@
       "items": {
         "type": "object",
         "required": [
-          "text"
+          "text",
+          "gloss"
         ],
         "properties": {
           "text": {

@@ -3,8 +3,11 @@ ipa: biɾˈzaɾa
 tags: [v, tr, cls]
 forms:
   - text: бизара
+    gloss: "?"
   - text: бизив
+    gloss: "?"
   - text: бирзара
+    gloss: "?"
 definitions:
   - translation:
       en: to spread
@@ -13,3 +16,4 @@ definitions:
       en: [lay]
     examples:
       - text: буруш биза рирси карисахана
+    gloss: "?"

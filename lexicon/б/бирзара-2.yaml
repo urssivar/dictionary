@@ -3,7 +3,9 @@ ipa: biɾˈzaɾa
 tags: [v, tr, cls]
 forms:
   - text: бирзив
+    gloss: "?"
   - text: бирзара
+    gloss: "?"
 definitions:
   - translation:
       en: to strew
@@ -12,4 +14,6 @@ definitions:
       en: [scatter, disperse, throw]
     examples:
       - text: дила холтӏе мадирзатте
+    gloss: "?"
       - text: чикне ьашул дирзив
+    gloss: "?"

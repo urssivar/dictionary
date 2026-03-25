@@ -3,8 +3,11 @@ ipa: ˌbæs kabiɾˈtsːaɾa
 tags: [v, ntr, cls]
 forms:
   - text: бяс кабиццара
+    gloss: "?"
   - text: бяс кабиццур
+    gloss: "?"
   - text: бяс кабирццара
+    gloss: "?"
 definitions:
   - translation:
       en: to uphold
@@ -13,3 +16,4 @@ definitions:
       en: [defend, advocate, stand]
     examples:
       - text: цинна рицций бяс киццур
+    gloss: "?"

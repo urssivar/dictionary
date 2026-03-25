@@ -3,8 +3,11 @@ ipa: tːuˌɾa tsuɾˈʁaɾa
 tags: [v, tr]
 forms:
   - text: ттура цағара
+    gloss: "?"
   - text: ттура цағив
+    gloss: "?"
   - text: ттура цурғара
+    gloss: "?"
 definitions:
   - translation:
       en: to issue
@@ -13,5 +16,6 @@ definitions:
       en: [release, publish]
     examples:
       - text: ҡҡиғре ттура цаға
+    gloss: "?"
         translation:
           en: print the papers

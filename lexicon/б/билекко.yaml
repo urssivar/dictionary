@@ -3,7 +3,9 @@ ipa: bileˈkːʷa
 tags: [n]
 forms:
   - text: билеккон
+    gloss: "?"
   - text: билеккола
+    gloss: "?"
     
 definitions:
   - translation:
@@ -12,4 +14,6 @@ definitions:
     tags: [toponym]
     examples:
       - text: атта билекконхалса це
+    gloss: "?"
       - text: ьеж шилцци чӏвел билеккола кулпет ьербирьор  
+    gloss: "?"

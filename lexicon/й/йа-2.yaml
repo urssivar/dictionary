@@ -5,21 +5,29 @@ note:
   en: Pronounced *ей*/*е*/*а* after consonants, otherwise *йа*/*йе*/*й*.
 forms:
   - text: йа
+    gloss: "?"
   - text: ейа
+    gloss: "?"
   - text: '''ей'
+    gloss: "?"
   - text: '''е'
+    gloss: "?"
   - text: '''а'
+    gloss: "?"
 definitions:
   - translation:
       en: '[open question]'
       ru: '[свободный вопрос]'
     examples:
       - text: на ци йа?
+    gloss: "?"
         translation:
           en: what now?
       - text: коцци рулши йа?
+    gloss: "?"
         translation:
           en: where did she use to work?
       - text: ци диг йа ьеж?
+    gloss: "?"
         translation:
           en: what meat is this?

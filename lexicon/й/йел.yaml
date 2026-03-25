@@ -5,13 +5,17 @@ note:
   en: Pronounced *йел*/*йал* after vowels, *ал*/*ел* otherwise.
 forms:
   - text: йал
+    gloss: "?"
   - text: '''ал'
+    gloss: "?"
   - text: '''ел'
+    gloss: "?"
 definitions:
   - translation:
       en: '[rhetorical question]'
       ru: '[риторический вопрос]'
     examples:
       - text: кон регур йел
+    gloss: "?"
         translation:
           en: '[i wonder] where did she go'
