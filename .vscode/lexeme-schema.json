@@ -3,15 +3,10 @@
   "title": "Kaitag Lexeme",
   "type": "object",
   "required": [
-    "id",
     "headword",
     "definitions"
   ],
   "properties": {
-    "id": {
-      "description": "Unique entry identifier",
-      "type": "string"
-    },
     "headword": {
       "description": "Main word form",
       "type": "string"

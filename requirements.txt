@@ -1,3 +1,2 @@
-nanoid
 pyyaml
 jsonschema

@@ -11,17 +11,19 @@ def main():
     alphabet, _, _, sorting_key = load_alphabet()
     entries_by_letter, total_entries, skipped_entries = load_lexicon_entries(alphabet)
 
-    for letter in entries_by_letter:
-        entries_by_letter[letter].sort(key=sorting_key)
+    entries = []
+    for letter in alphabet:
+        for e in entries_by_letter.get(letter, []):
+            e['id'] = e.pop('_id')
+            entries.append(e)
+    entries.sort(key=sorting_key)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(entries_by_letter, f, ensure_ascii=False, indent=2)
+        json.dump(entries, f, ensure_ascii=False, indent=2)
 
     skipped = f", {skipped_entries} skipped" if skipped_entries else ""
     print(f"\n✔️ {total_entries} entries{skipped} → {output_path}")
-    for letter, entries in entries_by_letter.items():
-        print(f"  {letter}: {len(entries)}")
 
 
 if __name__ == '__main__':
