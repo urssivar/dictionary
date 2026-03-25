@@ -1,9 +1,9 @@
 ---
-name: lexeme-polish
-description: Advisory review of Kaitag lexeme files against EDITORIAL_GUIDELINES.md.
+name: entry-polish
+description: Advisory review of Kaitag entry files against EDITORIAL_GUIDELINES.md.
 ---
 
-# Lexeme Polish
+# Entry Polish
 
 Advisory review of Kaitag dictionary YAML entries against `EDITORIAL_GUIDELINES.md`. Read the file(s), identify issues, output a concise list. Do not edit anything unless the user explicitly asks.
 

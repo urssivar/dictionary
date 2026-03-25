@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Convert Kaitag YAML lexicon to CSV for linguistic researchers."""
+"""Convert Kaitag YAML entries to CSV for linguistic researchers."""
 
 import csv
-from utils import ROOT, load_alphabet, load_lexicon_entries
+from utils import ROOT, load_alphabet, load_entries
 
 
 FIELDNAMES = ['headword', 'ipa', 'tags', 'forms', 'translation',
@@ -100,7 +100,7 @@ def main():
     output_path = ROOT / 'export' / 'dictionary.csv'
 
     alphabet, _, _, sorting_key = load_alphabet()
-    entries_by_letter, total_entries, skipped_entries = load_lexicon_entries(alphabet)
+    entries_by_letter, total_entries, skipped_entries = load_entries(alphabet)
 
     all_entries = []
     for letter in alphabet:

@@ -53,17 +53,17 @@ def resolve_headword_ref(headword_ref, alphabet_tokens):
     if headword_ref.startswith('*'):
         return True
     letter = get_first_letter(headword_ref, alphabet_tokens)
-    path = ROOT / 'lexicon' / letter / f"{headword_ref}.yaml"
+    path = ROOT / 'entries' / letter / f"{headword_ref}.yaml"
     return path if path.exists() else None
 
 
-def load_lexicon_entries(alphabet):
+def load_entries(alphabet):
     entries_by_letter = {}
     total_entries = 0
     skipped_entries = 0
 
     for letter in alphabet:
-        letter_dir = ROOT / 'lexicon' / letter
+        letter_dir = ROOT / 'entries' / letter
         entries_by_letter[letter] = []
 
         if not letter_dir.exists():

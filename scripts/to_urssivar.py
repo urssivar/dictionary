@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Convert Kaitag YAML lexicon to JSON for static website (optimized format)."""
+"""Convert Kaitag YAML entries to JSON for static website (optimized format)."""
 
 import json
 import re
-from utils import ROOT, load_alphabet, load_grammar_tags, mark_stress, load_lexicon_entries, resolve_headword_ref
+from utils import ROOT, load_alphabet, load_grammar_tags, mark_stress, load_entries, resolve_headword_ref
 
 
 def resolve_headword_links(headword_refs, alphabet_tokens):
@@ -94,7 +94,7 @@ def main():
 
     alphabet, alphabet_tokens, vowels, sorting_key = load_alphabet()
     tag_map = load_grammar_tags()
-    entries_by_letter, total_entries, skipped_entries = load_lexicon_entries(alphabet)
+    entries_by_letter, total_entries, skipped_entries = load_entries(alphabet)
 
     converted_entries = {}
     for letter in alphabet:

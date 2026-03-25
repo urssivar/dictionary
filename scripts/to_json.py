@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
-"""Convert Kaitag YAML lexicon to complete JSON archive (unprocessed format for research/tools)."""
+"""Convert Kaitag YAML entries to complete JSON archive (unprocessed format for research/tools)."""
 
 import json
-from utils import ROOT, load_alphabet, load_lexicon_entries
+from utils import ROOT, load_alphabet, load_entries
 
 
 def main():
     output_path = ROOT / 'export' / 'dictionary.json'
 
     alphabet, _, _, sorting_key = load_alphabet()
-    entries_by_letter, total_entries, skipped_entries = load_lexicon_entries(alphabet)
+    entries_by_letter, total_entries, skipped_entries = load_entries(alphabet)
 
     entries = []
     for letter in alphabet:

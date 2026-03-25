@@ -15,7 +15,7 @@ Browse the dictionary at [urssivar.com/language/dictionary](https://urssivar.com
 
 ## Entry Format
 
-Lexemes live in `lexicon/[letter]/`, one YAML file per entry named after its headword (e.g. `абаба.yaml`). Homonyms: `аккор.yaml`, `аккор-2.yaml`. Fields in four blocks separated by blank lines:
+Lexemes live in `entries/[letter]/`, one YAML file per entry named after its headword (e.g. `абаба.yaml`). Homonyms: `аккор.yaml`, `аккор-2.yaml`. Fields in four blocks separated by blank lines:
 
 ```yaml
 # Block 1: Identity
@@ -55,9 +55,9 @@ See [EDITORIAL_GUIDELINES.md](EDITORIAL_GUIDELINES.md) for all authoring rules a
 
 ## Setup
 
-Install the [YAML by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) VSCode extension — the schema at `.vscode/lexeme-schema.json` provides autocomplete and validation for all `lexicon/**/*.yaml` files.
+Install the [YAML by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) VSCode extension — the schema at `.vscode/entry-schema.json` provides autocomplete and validation for all `entries/**/*.yaml` files.
 
-[Claude Code](https://claude.ai/claude-code) with the `lexeme-polish` skill can assist with entry review, but all review decisions remain with the author.
+[Claude Code](https://claude.ai/claude-code) with the `entry-polish` skill can assist with entry review, but all review decisions remain with the author.
 
 Python scripts in `scripts/` handle validation and export, driven by `d.py` at the project root.
 

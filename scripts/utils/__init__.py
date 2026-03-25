@@ -1,5 +1,5 @@
 from .paths import ROOT
-from .loaders import load_alphabet, load_grammar_tags, load_valid_tags, load_lexicon_entries, resolve_headword_ref
+from .loaders import load_alphabet, load_grammar_tags, load_valid_tags, load_entries, resolve_headword_ref
 from .text import mark_stress, get_first_letter
 
 __all__ = [
@@ -7,7 +7,7 @@ __all__ = [
     'load_alphabet',
     'load_grammar_tags',
     'load_valid_tags',
-    'load_lexicon_entries',
+    'load_entries',
     'mark_stress',
     'get_first_letter',
 ]

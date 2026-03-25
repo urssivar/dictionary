@@ -18,8 +18,8 @@ def main():
     parser.add_argument("letters", nargs="*", metavar="LETTER")
     args = parser.parse_args()
 
-    lexicon_dir = ROOT / 'lexicon'
-    schema_path = ROOT / '.vscode' / 'lexeme-schema.json'
+    entries_dir = ROOT / 'entries'
+    schema_path = ROOT / '.vscode' / 'entry-schema.json'
 
     _, alphabet_tokens, _, _ = load_alphabet()
     valid_tags = load_valid_tags()
@@ -28,14 +28,14 @@ def main():
         schema = json.load(f)
 
     if args.letters:
-        dirs = [lexicon_dir / letter for letter in args.letters]
+        dirs = [entries_dir / letter for letter in args.letters]
         missing = [d for d in dirs if not d.is_dir()]
         if missing:
             for d in missing:
                 print(f'letter folder not found: {d.relative_to(ROOT)}')
             sys.exit(1)
     else:
-        dirs = sorted(d for d in lexicon_dir.iterdir() if d.is_dir())
+        dirs = sorted(d for d in entries_dir.iterdir() if d.is_dir())
 
     has_errors = False
 

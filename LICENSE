@@ -8,7 +8,7 @@ All **content** is licensed under [Creative Commons Attribution-ShareAlike 4.0 I
 
 **Content includes:**
 
-- Dictionary entries (`lexicon/*.yaml`)
+- Dictionary entries (`entries/*.yaml`)
 - Documentation files (`*.md`)
 - Exported formats (JSON, CSV, etc.)
 

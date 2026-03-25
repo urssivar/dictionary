@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Create a new lexicon entry file."""
+"""Create a new dictionary entry file."""
 
 import sys
 from utils.paths import ROOT
@@ -16,7 +16,7 @@ def main():
     _, alphabet_tokens, _, _ = load_alphabet()
 
     letter = get_first_letter(headword, alphabet_tokens)
-    letter_dir = ROOT / 'lexicon' / letter
+    letter_dir = ROOT / 'entries' / letter
     letter_dir.mkdir(parents=True, exist_ok=True)
 
     path = letter_dir / f"{headword}.yaml"
