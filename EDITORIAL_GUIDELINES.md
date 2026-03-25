@@ -12,6 +12,8 @@
 
 Four blocks separated by blank lines. Full schema at `.vscode/lexeme-schema.json`.
 
+`validate.py` enforces: headword/filename match, correct letter folder, valid tags, and resolved cross-references. The schema enforces field types and required fields. The guidelines below cover judgment calls not caught by tooling.
+
 ```yaml
 # Block 1: Identity
 headword:
@@ -82,7 +84,7 @@ forms:
 
 ### `tags`
 
-All valid tags in `meta/tags.yaml`. Grammar and etymology tags at entry level; semantic and register tags at definition level.
+Valid tags are in `meta/tags.yaml`. Grammar and etymology tags at entry level; semantic and register tags at definition level.
 
 Required when applicable: `tr`/`ntr` for verbs, `cls` for class-agreeing words (any POS), `pl` for pluralia tantum nouns.
 
@@ -124,7 +126,7 @@ definitions:
 
 **Note** — cultural/technical clarifications that don't fit in translation: kinship specifics, regional dishes, specialized terminology. One or two sentences. Full sentences end with period; nominal labels don't.
 
-**Examples** — natural, idiomatic usage illustrating the specific definition. Translation required in both languages. Include at least one for common or ambiguous words.
+**Examples** — natural, idiomatic usage illustrating the specific definition. Include at least one for common or ambiguous words.
 
 ### `etymology`
 
@@ -184,13 +186,10 @@ variants: [~ / барара / барив]
 
 ## Checklist
 
-- [ ] Four blocks in correct order, blank lines between?
 - [ ] Headword uses correct citation form?
 - [ ] Forms don't repeat the headword?
 - [ ] Compound verbs: verbal part only?
-- [ ] All tags valid per tags.yaml?
+- [ ] Neutral *-б-* class marker in headword and forms?
 - [ ] Etymology or just derived_from?
 - [ ] Aliases: correct POS, not redundant?
-- [ ] Neutral *-б-* class marker in headword and forms?
 - [ ] *Italics* for cited forms, "quotes" for glosses?
-- [ ] Both `en` and `ru` present everywhere?

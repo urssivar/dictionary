@@ -19,7 +19,7 @@ Lexemes live in `lexicon/[letter]/`, one YAML file per entry named after its hea
 
 ```yaml
 # Block 1: Identity
-headword: абаба # required; default citation form
+headword: абаба
 ipa: abaˈba
 tags: [n]
 forms:
@@ -27,7 +27,7 @@ forms:
     gloss: pl
 
 # Block 2: Definitions
-definitions: # required; one or more senses
+definitions:
   - translation:
       en: maternal grandmother
       ru: бабушка по матери
