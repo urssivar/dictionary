@@ -7,12 +7,10 @@ description: Advisory review of Kaitag lexeme files against EDITORIAL_GUIDELINES
 
 Advisory review of Kaitag dictionary YAML entries against `EDITORIAL_GUIDELINES.md`. Read the file(s), identify issues, output a concise list. Do not edit anything unless the user explicitly asks.
 
-## When This Skill Applies
+Apply this skill when:
 
 - User says "polish", "review", or "check" a file or letter folder
 - User finishes editing a letter and asks for a pass
-
-**Prerequisite:** `scripts/validate.py` should be clean before invoking this skill. If it isn't, ask the user to fix those issues first.
 
 ## Performance
 
