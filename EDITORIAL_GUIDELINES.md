@@ -14,7 +14,6 @@ Four blocks separated by blank lines. Full schema at `.vscode/lexeme-schema.json
 
 ```yaml
 # Block 1: Identity
-id:
 headword:
 ipa:
 tags:

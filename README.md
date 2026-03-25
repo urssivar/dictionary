@@ -19,7 +19,6 @@ Lexemes live in `lexicon/[letter]/`, one YAML file per entry named after its hea
 
 ```yaml
 # Block 1: Identity
-id: YkZtiqCYGrbTzESn1sZW # required; generate with command
 headword: абаба # required; default citation form
 ipa: abaˈba
 tags: [n]
