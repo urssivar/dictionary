@@ -59,7 +59,7 @@ def mark_stress(entry, vowels):
 
 
 def create_tokenizer(alphabet, alphabet_tokens):
-    alphabet_full = ['-', ' '] + alphabet
+    alphabet_full = ['-', ' ', '_'] + alphabet
     letter_order = {letter: i for i, letter in enumerate(alphabet_full)}
 
     def tokenize(word):

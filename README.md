@@ -15,7 +15,7 @@ Browse the dictionary at [urssivar.com/language/dictionary](https://urssivar.com
 
 ## Entry Format
 
-Lexemes live in `entries/[letter]/`, one YAML file per entry named after its headword (e.g. `абаба.yaml`). Homonyms: `аккор.yaml`, `аккор-2.yaml`. Fields in four blocks separated by blank lines:
+Lexemes live in `entries/[letter]/`, one YAML file per entry named after its headword (e.g. `абаба.yaml`), with spaces replaced by underscores (e.g. `алав_биркара.yaml`). Homonyms: `аккор.yaml`, `аккор-2.yaml`. Fields in four blocks separated by blank lines:
 
 ```yaml
 # Block 1: Identity

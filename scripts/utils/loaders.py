@@ -10,7 +10,7 @@ def load_alphabet():
         data = yaml.safe_load(f)
 
     alphabet = list(data['alphabet'].keys())
-    alphabet_tokens = sorted(['-', ' '] + alphabet, key=len, reverse=True)
+    alphabet_tokens = sorted(['-', ' ', '_'] + alphabet, key=len, reverse=True)
 
     vowels = {}
     for grapheme, info in data['alphabet'].items():

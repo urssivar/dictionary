@@ -19,12 +19,13 @@ def main():
     letter_dir = ROOT / 'entries' / letter
     letter_dir.mkdir(parents=True, exist_ok=True)
 
-    path = letter_dir / f"{headword}.yaml"
+    slug = headword.replace(' ', '_')
+    path = letter_dir / f"{slug}.yaml"
     if path.exists():
         n = 2
-        while (letter_dir / f"{headword}-{n}.yaml").exists():
+        while (letter_dir / f"{slug}-{n}.yaml").exists():
             n += 1
-        path = letter_dir / f"{headword}-{n}.yaml"
+        path = letter_dir / f"{slug}-{n}.yaml"
 
     path.write_text(
         f"headword: {headword}\n"
