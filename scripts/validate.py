@@ -63,7 +63,7 @@ def main():
                 errors.append("missing 'headword'")
             else:
                 headword_from_filename = re.sub(
-                    r'-\d+$', '', yaml_file.stem).lower()
+                    r'-\d+$', '', yaml_file.stem).replace('_', ' ').lower()
                 if headword.lower() != headword_from_filename:
                     errors.append(
                         f"headword/filename mismatch: {headword!r} vs {headword_from_filename!r}")
