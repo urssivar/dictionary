@@ -18,6 +18,7 @@ Apply this skill when:
 - **Always delegate to a subagent** (Agent tool) — keeps main context clean
 - **Disable thinking** before running — it burns context with no benefit here
 - `scripts/validate.py` handles mechanical checks (tags, schema, IDs, folder); don't re-check those — focus on judgment calls: alias POS, example quality, note clarity, semantic tag fitness
+- **File access: use Glob then Read only — never Bash** — Bash triggers permission prompts for every call; Read does not
 
 ## How to Review
 
@@ -28,8 +29,6 @@ Do NOT flag:
 - Semantic shift between a loanword's source and its Kaitag meaning — shift on borrowing is normal
 - `derived_from` mismatching etymology — they can legitimately point to different bases
 - Issues already caught by `validate.py` (tags, schema, IDs)
-
-For large folders (100+ files), prefer an incremental audit: `git diff --name-only` to find only changed files.
 
 ## Output Format
 
