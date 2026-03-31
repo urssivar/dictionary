@@ -2,7 +2,12 @@
 """Convert Kaitag YAML entries to CSV for linguistic researchers."""
 
 import csv
+import re
 from utils import ROOT, load_alphabet, load_entries
+
+
+def normalize_ref(ref):
+    return re.sub(r'-\d+$', '', ref).replace('_', ' ')
 
 
 FIELDNAMES = ['headword', 'ipa', 'tags', 'forms', 'translation',
@@ -91,8 +96,8 @@ def convert_entry(entry):
         'examples': '\n\n'.join(ex_blocks),
         'note': '\n\n'.join(note_parts),
         'variants': ', '.join(entry.get('variants') or []),
-        'derived_from': ', '.join(entry.get('derived_from') or []),
-        'see_also': ', '.join(entry.get('see_also') or []),
+        'derived_from': ', '.join(normalize_ref(r) for r in (entry.get('derived_from') or [])),
+        'see_also': ', '.join(normalize_ref(r) for r in (entry.get('see_also') or [])),
     }
 
 

@@ -14,7 +14,7 @@ def resolve_headword_links(headword_refs, alphabet_tokens):
             print(f"⚠️ ref not found: {ref}")
             continue
         if path is not True:
-            clean = re.sub(r'-\d+$', '', ref)
+            clean = re.sub(r'-\d+$', '', ref).replace('_', ' ')
             result.append({
                 'headword': clean,
                 'link': f"{path.parent.name}#{path.stem}"
