@@ -17,41 +17,57 @@ def mark_stress(entry, vowels):
     headword = entry['headword']
     ipa = entry['ipa'].replace('ˈ', "'").replace('ˌ', "'")
 
-    i_stress = -1
-    i_word = 0
+    # Sort longest-first so multi-char tokens (e.g. ʷa → о) match before substrings
+    vowel_tokens = sorted(vowels.keys(), key=len, reverse=True)
+
+    # Tokenize IPA once into (string, type) pairs
+    tokens = []
+    i = 0
+    while i < len(ipa):
+        if ipa[i] == "'":
+            tokens.append(("'", 'stress'))
+            i += 1
+        elif ipa[i] in ' -':
+            tokens.append((ipa[i], 'sep'))
+            i += 1
+        else:
+            tok = next((t for t in vowel_tokens if ipa[i:i + len(t)] == t), None)
+            if tok:
+                tokens.append((tok, 'vowel'))
+                i += len(tok)
+            else:
+                tokens.append((ipa[i], 'other'))
+                i += 1
+
+    # Pass 1: drop stress markers from monosyllabic words
+    stress_at = None
     v_count = 0
-    i_char = 0
-
-    while i_char < len(ipa):
-        char = ipa[i_char]
-        if char == "'":
-            i_stress = i_char
-        elif char in vowels:
+    for i, (tok, typ) in enumerate(tokens):
+        if typ == 'stress':
+            stress_at = i
+        elif typ == 'vowel':
             v_count += 1
-        if char in ' -' or i_char == len(ipa) - 1:
-            if v_count <= 1 and i_stress >= i_word:
-                ipa = ipa[:i_stress] + ipa[i_stress + 1:]
-                i_char -= 1
-            i_word = i_char + 1
+        if typ == 'sep' or i == len(tokens) - 1:
+            if v_count <= 1 and stress_at is not None:
+                tokens[stress_at] = ('', 'removed')
+            stress_at = None
             v_count = 0
-        i_char += 1
 
-    if "'" not in ipa:
+    if not any(typ == 'stress' for _, typ in tokens):
         return headword
 
+    # Pass 2: insert combining accent after the stressed vowel in the headword
     i_vowel = -1
     needs_stress = False
-
-    for char in ipa:
-        if char == "'":
+    for tok, typ in tokens:
+        if typ == 'stress':
             needs_stress = True
-        if char in vowels:
-            i_vowel = headword.find(vowels[char], i_vowel + 1)
+        elif typ == 'vowel':
+            i_vowel = headword.find(vowels[tok], i_vowel + 1)
             if i_vowel == -1:
                 return entry['headword']
             if needs_stress:
-                headword = headword[:i_vowel + 1] + \
-                    '\u0301' + headword[i_vowel + 1:]
+                headword = headword[:i_vowel + 1] + '\u0301' + headword[i_vowel + 1:]
                 i_vowel += 1
                 needs_stress = False
 
