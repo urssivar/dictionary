@@ -12,7 +12,7 @@ definitions:
     tags: [occupation]
     aliases:
       en: [guard, watchman]
-      ru: [охранник, сторож]
+      ru: [сторож]
 
 etymology:
   en: From Russian *охрана* "security".

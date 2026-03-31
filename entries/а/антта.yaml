@@ -12,6 +12,6 @@ definitions:
       en: forehead
       ru: лоб
     aliases:
-      en: [head]
-      ru: [голова]
+      en: [face]
+      ru: [лицо]
     tags: [body]
