@@ -14,14 +14,11 @@ definitions:
       ru: '[полярный вопрос]'
     examples:
       - text: акку у?
-    gloss: "?"
         translation:
           en: isn't it?
       - text: ьеж у?
-    gloss: "?"
         translation:
           en: is it this one?
       - text: ҡил у?
-    gloss: "?"
         translation:
           en: at home?

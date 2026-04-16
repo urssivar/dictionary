@@ -6,7 +6,7 @@ forms:
     gloss: "?"
   - text: билеккола
     gloss: "?"
-    
+
 definitions:
   - translation:
       en: lakia
@@ -14,6 +14,4 @@ definitions:
     tags: [toponym]
     examples:
       - text: атта билекконхалса це
-    gloss: "?"
-      - text: ьеж шилцци чӏвел билеккола кулпет ьербирьор  
-    gloss: "?"
+      - text: ьеж шилцци чӏвел билеккола кулпет ьербирьор

@@ -8,26 +8,23 @@ forms:
     gloss: "?"
   - text: ейа
     gloss: "?"
-  - text: '''ей'
+  - text: "'ей"
     gloss: "?"
-  - text: '''е'
+  - text: "'е"
     gloss: "?"
-  - text: '''а'
+  - text: "'а"
     gloss: "?"
 definitions:
   - translation:
-      en: '[open question]'
-      ru: '[свободный вопрос]'
+      en: "[open question]"
+      ru: "[свободный вопрос]"
     examples:
       - text: на ци йа?
-    gloss: "?"
         translation:
           en: what now?
       - text: коцци рулши йа?
-    gloss: "?"
         translation:
           en: where did she use to work?
       - text: ци диг йа ьеж?
-    gloss: "?"
         translation:
           en: what meat is this?
