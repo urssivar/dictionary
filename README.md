@@ -42,7 +42,7 @@ see_also: [аттаба]
 
 Reference tables in `meta/` include the tag taxonomy (`tags.yaml`) and alphabet with IPA mappings (`alphabet.yaml`).
 
-See [EDITORIAL_GUIDELINES.md](EDITORIAL_GUIDELINES.md) for all authoring rules, [ORTHOGRAPHY.md](ORTHOGRAPHY.md) for spelling conventions, and [urssivar/script](https://github.com/urssivar/script) for the underlying script and character system.
+See [guidelines.md](guidelines.md) for all authoring rules and spelling conventions, and [urssivar/script](https://github.com/urssivar/script) for the underlying script and character system.
 
 ## Setup
 

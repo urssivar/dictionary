@@ -1,6 +1,6 @@
 # Kaitag Dictionary Editorial Guidelines
 
-## Entries
+## Scope
 
 **Homonyms** — first entry is `word.yaml`, subsequent are `word-2.yaml`, `word-3.yaml`.
 
@@ -8,9 +8,9 @@
 
 **Skip** lexically transparent productive patterns: causatives (*X барара* "to make X"), inchoatives (*X бирьора* "to become X"), regular adverbs with *-ле*, etc. These are grammar, not lexicon. Exception: include compound verbs with non-compositional meaning (e.g. *алав биркара* "to evade", not literally "to occur around").
 
-### Structure
+## Structure
 
-Four blocks separated by blank lines. Full schema at `.vscode/lexeme-schema.json`.
+Four blocks separated by blank lines. Full schema at `.vscode/entry-schema.json`.
 
 `validate.py` enforces: headword/filename match, correct letter folder, valid tags, and resolved cross-references. The schema enforces field types and required fields. The guidelines below cover judgment calls not caught by tooling.
 
@@ -49,7 +49,7 @@ YAML conventions: simple arrays inline `[a, b]`; object arrays and all objects i
 
 ### `headword` & `forms`
 
-For spelling conventions (gemination, assimilation, paradigm roots), see [ORTHOGRAPHY.md](ORTHOGRAPHY.md). For the alphabet and IPA mappings, see [meta/alphabet.yaml](meta/alphabet.yaml).
+For spelling conventions, see [Orthography](#orthography) below. For the alphabet and IPA mappings, see [meta/alphabet.yaml](meta/alphabet.yaml).
 
 **Headword** is the default citation form:
 
@@ -184,6 +184,38 @@ variants: [~ / барара / барив]
 
 **`see_also`** — semantically related terms: antonyms, parallel formations, co-hyponyms, culturally related items. Don't overuse.
 
+## Orthography
+
+Spelling follows morpheme structure, not surface phonology. Predictable alternations are stated once in the grammar and not encoded in individual spellings. Four conventions apply:
+
+### Citation and Lexicalized Forms
+
+Write what surfaces in the citation form or in lexicalized derived words. Etymological spelling is not used.
+
+- *дис* (abs), despite geminate resurfacing in *диссу-* (obl)
+- *ахле* (pl), despite the geminate in *аххал* (abs) — forms written as they surface
+- *шимбе* (pl) — suffix *-бе* assimilated the root sonorant of *шин* (sg)
+
+### Inflectional Morpheme Boundaries
+
+Write each morpheme transparently. Never reflect assimilation — consonantal, vocalic, or nasal — at morpheme boundaries.
+
+- *машинла*, *чӏвел-ра*, *азирна* — case suffixes written transparently
+- *а-*/*ма-* negation, *ца-*/*ка-*/*ьа-* prefixes, *-их-* causative — written consistently regardless of context: *барихара*, *барихив*, *мабарихелде*
+
+### Verb Paradigm Roots
+
+Write the underlying root form recoverable from the paradigm. The geminate is real and surfaces before vowels; degemination before consonants is predictable and not reflected.
+
+- *биххяра*, *биххяв*, *биххне* (despite pronounced *бихне*) — *хх* written consistently throughout
+
+### Word Division (Interim Convention)
+
+Full standardization — compounds, clitics, hyphenation, apostrophe use — is deferred to v1.2 and requires a corpus. Until then, write all components separately regardless of lexicalization degree.
+
+- Compound verbs: *кумек барара*, *сар виьора*, *ул катара*
+- Compound nominals/adjectives: *миг бяръив*, *шяъ ҡерҡил*, *давла чев*
+
 ## Checklist
 
 - [ ] Headword uses correct citation form?
@@ -193,3 +225,4 @@ variants: [~ / барара / барив]
 - [ ] Etymology or just derived_from?
 - [ ] Aliases: correct POS, not redundant?
 - [ ] *Italics* for cited forms, "quotes" for glosses?
+- [ ] Components written separately (word division)?

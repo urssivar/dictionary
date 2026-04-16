@@ -1,11 +1,11 @@
 ---
 name: entry-polish
-description: Advisory review of Kaitag entry files against EDITORIAL_GUIDELINES.md.
+description: Advisory review of Kaitag entry files against guidelines.md.
 ---
 
 # Entry Polish
 
-Advisory review of Kaitag dictionary YAML entries against `EDITORIAL_GUIDELINES.md`. Read the file(s), identify issues, output a concise list. Do not edit anything unless the user explicitly asks.
+Advisory review of Kaitag dictionary YAML entries against `guidelines.md`. Read the file(s), identify issues, output a concise list. Do not edit anything unless the user explicitly asks.
 
 Apply this skill when:
 
@@ -22,7 +22,7 @@ Apply this skill when:
 
 ## How to Review
 
-Read `EDITORIAL_GUIDELINES.md` first. For each entry, check against the checklist at the end of the guidelines. Only flag real issues, not hypothetical ones.
+Read `guidelines.md` first. For each entry, check against the checklist at the end of the guidelines. Only flag real issues, not hypothetical ones.
 
 Do NOT flag:
 
