@@ -65,6 +65,8 @@ python d.py export              # create files to export/
 - Letter **а**: complete (~175 entries)
 - Remaining letters: in progress — priority is clarifying meanings and capturing examples
 
+**v1.2:** orthographic standard — word division, punctuation, capitalization, loanword handling.
+
 **[Future](https://github.com/urssivar/dictionary/issues/2):** dialect variant entries; tag taxonomy; corpus stats; lexicographic review against reference literature; morphological annotation and paradigm generation
 
 **[v1.0 (May 2025)](https://github.com/urssivar/dictionary/releases/tag/v1.0):** Import of JSON source from Bazur dictionary, converted to YAML files. Co-authored with U. Gasanova, based on her dissertation wordlist appendix. Output features: accented headwords, grammatical forms, POS tags, dialectal variants.

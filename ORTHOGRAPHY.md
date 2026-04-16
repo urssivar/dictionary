@@ -1,6 +1,6 @@
 # Kaitag Orthographic Conventions
 
-Spelling follows morpheme structure, not surface phonology. Predictable alternations are stated once in the grammar and not encoded in individual spellings. Three contexts determine the approach:
+Spelling follows morpheme structure, not surface phonology. Predictable alternations are stated once in the grammar and not encoded in individual spellings. Four contexts determine the approach:
 
 ## 1. Citation and Lexicalized Forms
 
@@ -22,3 +22,10 @@ Write each morpheme transparently. Never reflect assimilation — consonantal, v
 Write the underlying root form recoverable from the paradigm. The geminate is real and surfaces before vowels; degemination before consonants is predictable and not reflected.
 
 - *биххяра*, *биххяв*, *биххне* (despite pronounced *бихне*) — *хх* written consistently throughout
+
+## 4. Word Division (Interim Convention)
+
+Full standardization — compounds, clitics, hyphenation, apostrophe use — is deferred to v1.2 and requires a corpus. Until then, write all components separately regardless of lexicalization degree.
+
+- Compound verbs: *кумек барара*, *сар виьора*, *ул катара*
+- Compound nominals/adjectives: *миг бяръив*, *шяъ ҡерҡил*, *давла чев*
