@@ -4,15 +4,6 @@ Source repository for a bilingual (English/Russian) dictionary of Kaitag, a Nort
 
 Browse the dictionary at [urssivar.com/language/dictionary](https://urssivar.com/language/dictionary).
 
-## Status & Roadmap
-
-**v1.1 (in progress)**: enriching entries with examples and cross-references, normalizing structure, improving tooling.
-
-- Letter **а**: complete (~175 entries)
-- Remaining letters: in progress — priority is clarifying meanings and capturing examples
-
-**Future**: proper dialect variant entries; tag taxonomy improvements; analysis and stats scripts; lexicographic structure review after consulting reference literature
-
 ## Entry Format
 
 Lexemes live in `entries/[letter]/`, one YAML file per entry named after its headword (e.g. `абаба.yaml`), with spaces replaced by underscores (e.g. `алав_биркара.yaml`). Homonyms: `аккор.yaml`, `аккор-2.yaml`. Fields in four blocks separated by blank lines:
@@ -71,13 +62,18 @@ python d.py export              # create files to export/
 
 **v1.1 (in progress):** Open-source YAML repository with editorial guidelines and tooling. Enriching entries with cross-references, usage examples, semantic tags, aliases, etymologies, and notes.
 
-**[v1.0 (May 2025)](https://github.com/urssivar/dictionary/releases/tag/v1.0):** Import of JSON source from Bazur dictionary, converted to YAML files. Co-authored with U. Gasanova, based on her dissertation wordlist appendix. Output features: accented headwords, grammatical forms, POS tags, dialectal variants. See release notes for citation.
+- Letter **а**: complete (~175 entries)
+- Remaining letters: in progress — priority is clarifying meanings and capturing examples
+
+**[Future](https://github.com/urssivar/dictionary/issues/2):** dialect variant entries; tag taxonomy; corpus stats; lexicographic review against reference literature; morphological annotation and paradigm generation
+
+**[v1.0 (May 2025)](https://github.com/urssivar/dictionary/releases/tag/v1.0):** Import of JSON source from Bazur dictionary, converted to YAML files. Co-authored with U. Gasanova, based on her dissertation wordlist appendix. Output features: accented headwords, grammatical forms, POS tags, dialectal variants.
 
 ## License
 
 **Content** under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), **Code** under [MIT](https://opensource.org/licenses/MIT).
 
-When using the dictionary data, cite as:
+When citing a specific release, see its [release notes](https://github.com/urssivar/dictionary/releases) for the versioned citation. To cite the current state:
 
 > Magomedov, M. (2026). Kaitag Dictionary.
 > Licensed under CC BY-SA 4.0. <https://github.com/urssivar/dictionary>
