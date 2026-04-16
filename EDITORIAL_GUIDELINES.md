@@ -49,7 +49,7 @@ YAML conventions: simple arrays inline `[a, b]`; object arrays and all objects i
 
 ### `headword` & `forms`
 
-For spelling conventions (gemination, assimilation, paradigm roots), see [ORTHOGRAPHY.md](ORTHOGRAPHY.md).
+For spelling conventions (gemination, assimilation, paradigm roots), see [ORTHOGRAPHY.md](ORTHOGRAPHY.md). For the alphabet and IPA mappings, see [meta/alphabet.yaml](meta/alphabet.yaml).
 
 **Headword** is the default citation form:
 
