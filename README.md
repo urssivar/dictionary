@@ -9,7 +9,7 @@ Browse the dictionary at [urssivar.com/language/dictionary](https://urssivar.com
 **v1.1 (in progress)**: enriching entries with examples and cross-references, normalizing structure, improving tooling.
 
 - Letter **а**: complete (~175 entries)
-- Remaining letters: in progress — priority is capturing meanings and examples while speaker access is available
+- Remaining letters: in progress — priority is clarifying meanings and capturing examples
 
 **Future**: proper dialect variant entries; tag taxonomy improvements; analysis and stats scripts; lexicographic structure review after consulting reference literature
 
@@ -67,11 +67,17 @@ python d.py validate [а б]      # validate entries
 python d.py export              # create files to export/
 ```
 
+## Version History
+
+**v1.1 (in progress):** Open-source YAML repository with editorial guidelines and tooling. Enriching entries with cross-references, usage examples, semantic tags, aliases, etymologies, and notes.
+
+**[v1.0 (May 2025)](https://github.com/urssivar/dictionary/releases/tag/v1.0):** Import of JSON source from Bazur dictionary, converted to YAML files. Co-authored with U. Gasanova, based on her dissertation wordlist appendix. Output features: accented headwords, grammatical forms, POS tags, dialectal variants. See release notes for citation.
+
 ## License
 
 **Content** under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), **Code** under [MIT](https://opensource.org/licenses/MIT).
 
 When using the dictionary data, cite as:
 
-> Magomedov, M., & Gasanova, U. (2026). Kaitag Dictionary [Data set].
+> Magomedov, M. (2026). Kaitag Dictionary.
 > Licensed under CC BY-SA 4.0. <https://github.com/urssivar/dictionary>
