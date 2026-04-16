@@ -10,7 +10,7 @@ definitions:
       en: [only, but]
       ru: [лишь, исключая]
     examples:
-      - text: Уцци аккун чил-ра кумек абарив.
+      - text: Уцци аккун чил ра кумек абарив.
         translation:
           en: No one helped except for brother.
           ru: Никто не помог кроме брата.

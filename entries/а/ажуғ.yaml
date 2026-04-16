@@ -14,7 +14,7 @@ definitions:
       en: [malice, rancor, resentment]
       ru: [злость, ненависть, гнев]
     examples:
-      - text: ажуғ чикабуцил
+      - text: ажуғ чи кабуцил
         translation:
           en: harboring spite
           ru: затаив злобу
