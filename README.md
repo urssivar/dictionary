@@ -6,39 +6,7 @@ Browse the dictionary at [urssivar.com/language/dictionary](https://urssivar.com
 
 ## Entry Format
 
-Lexemes live in `entries/[letter]/`, one YAML file per entry named after its headword (e.g. `абаба.yaml`), with spaces replaced by underscores (e.g. `алав_биркара.yaml`). Homonyms: `аккор.yaml`, `аккор-2.yaml`. Fields in four blocks separated by blank lines:
-
-```yaml
-# Block 1: Identity
-headword: абаба
-ipa: abaˈba
-tags: [n]
-forms:
-  - text: абабне
-    gloss: pl
-
-# Block 2: Definitions
-definitions:
-  - translation:
-      en: maternal grandmother
-      ru: бабушка по матери
-    tags: [kinship]
-    examples:
-      - text: Дами дила абаба риччихид.
-        translation:
-          en: I love my grandmother.
-          ru: Я люблю мою бабушку.
-
-# Block 3: About
-etymology:
-  en: Reduplication of *аба* "mother" (cf. *аттаба* "paternal grandmother").
-  ru: Редупликация *аба* "мама" (ср. *аттаба* "бабушка по отцу").
-
-# Block 4: Links
-variants: [авба, бавба]
-derived_from: [уба]
-see_also: [аттаба]
-```
+Lexemes live in `entries/[letter]/`, one YAML file per entry named after its headword (e.g. `абаба.yaml`), with spaces replaced by underscores (e.g. `алав_биркара.yaml`). Homonyms: `аккор.yaml`, `аккор-2.yaml`. Four blocks separated by blank lines: Identity, Definitions, About, Links.
 
 Reference tables in `meta/` include the tag taxonomy (`tags.yaml`) and alphabet with IPA mappings (`alphabet.yaml`).
 

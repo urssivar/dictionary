@@ -1,14 +1,14 @@
-# Kaitag Dictionary Editorial Guidelines
+# Kaitag Dictionary Guidelines
 
 ## Scope
-
-**Homonyms** — first entry is `word.yaml`, subsequent are `word-2.yaml`, `word-3.yaml`.
 
 **Deverbal adjectives** — Kaitag preterites regularly function as adjectives (*бяръив* "cold" from *буръара* "to cool"). Add as a separate entry with `vb` tag and `derived_from` when frequent or lexicalized enough.
 
 **Skip** lexically transparent productive patterns: causatives (*X барара* "to make X"), inchoatives (*X бирьора* "to become X"), regular adverbs with *-ле*, etc. These are grammar, not lexicon. Exception: include compound verbs with non-compositional meaning (e.g. *алав биркара* "to evade", not literally "to occur around").
 
 ## Structure
+
+**Homonyms** — first entry is `word.yaml`, subsequent are `word-2.yaml`, `word-3.yaml`.
 
 Four blocks separated by blank lines. Full schema at `.vscode/entry-schema.json`.
 
