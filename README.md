@@ -75,5 +75,4 @@ python d.py export              # create files to export/
 
 When citing a specific release, see its [release notes](https://github.com/urssivar/dictionary/releases) for the versioned citation. To cite the current state:
 
-> Magomedov, M. (2026). Kaitag Dictionary.
-> Licensed under CC BY-SA 4.0. <https://github.com/urssivar/dictionary>
+> Magomedov, M. (2026). Kaitag Dictionary. Licensed under CC BY-SA 4.0. <https://github.com/urssivar/dictionary>
