@@ -60,7 +60,7 @@ python d.py export              # create files to export/
 
 ## Version History
 
-**v1.1 (in progress):** Open-source YAML repository with editorial guidelines and tooling. Enriching entries with cross-references, usage examples, semantic tags, aliases, etymologies, and notes. In collaboration with **Gasanov M. R.** from Kirki village. Additional references: **Temirbulatova S. M.** (2026).
+**v1.1 (2026, in progress):** Open-source YAML repository with editorial guidelines and tooling. Enriching entries with cross-references, usage examples, semantic tags, aliases, etymologies, and notes. In collaboration with **Gasanov M. R.** from Kirki village. Additional references: **Temirbulatova S. M.** (2026).
 
 - Letter **а**: complete (~175 entries)
 - Remaining letters: in progress — priority is clarifying meanings and capturing examples
