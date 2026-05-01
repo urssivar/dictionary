@@ -1,18 +1,10 @@
 headword: улккас
 ipa: ˈulkːas
 tags: [intj]
-etymology:
-  en: Could be from *улккана* "to pray".
-note:
-  en: '*улккасун* (?)'
+
 definitions:
-  - translation:
-      en: please
-      ru: пожалуйста
-    examples:
-      - text: улккас, киже
-        translation:
-          en: please, sit
   - translation:
       en: really?
       ru: неужели?
+    examples:
+      - text: улккас, на ци арганне'й?

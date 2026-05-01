@@ -1,13 +1,12 @@
 headword: наслу
 ipa: ˈnaslu
 tags: [n, loan, arabic]
-note:
-  en: "*аслу*"
 forms:
-  - text: наслу
+  - text: наслун
     gloss: abs
-  - text: наслубе
+  - text: наслуме
     gloss: pl
+
 definitions:
   - translation:
       en: descendant
@@ -15,3 +14,4 @@ definitions:
     tags: [kinship]
     aliases:
       en: [progeny, seed, offspring, child]
+      ru: [ребёнок]

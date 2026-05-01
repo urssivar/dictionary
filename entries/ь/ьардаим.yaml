@@ -1,9 +1,15 @@
 headword: ьардаим
 ipa: ˈhaɾdaim
 tags: [adv]
+
 definitions:
   - translation:
       en: forever
       ru: навсегда
     aliases:
       en: [always]
+    examples:
+      - text: ьардаим вице
+        translation:
+          en: eternal
+          ru: вечный

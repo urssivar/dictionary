@@ -1,16 +1,21 @@
 headword: ирғала
 ipa: iɾˈʁala
 tags: [n, vb]
-etymology:
-  en: From *ирғара* "to understand".
 forms:
-  - text: ирғала
-    gloss: abs
   - text: ирғле
     gloss: obl
+
 definitions:
   - translation:
       en: consciousness
       ru: сознание
     aliases:
       en: [mind]
+      ru: [разум]
+    examples:
+      - text: ирғала цабағив
+        translation:
+          en: consciousness came
+          ru: вернулось сознание
+
+derived_from: [ирғара]

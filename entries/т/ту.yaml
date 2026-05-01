@@ -1,15 +1,19 @@
 headword: ту
 ipa: ˈtu
 tags: [n]
-note:
-  en: "*тутукьне*"
 forms:
   - text: ту
     gloss: abs
   - text: туте
     gloss: pl
+
 definitions:
   - translation:
       en: spit
       ru: плевок
     tags: [body]
+    examples:
+      - text: Ту кадяҡил вегур.
+        translation:
+          en:
+          ru: Наплевал и ушёл.

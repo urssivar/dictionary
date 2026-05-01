@@ -1,0 +1,18 @@
+headword: еринел
+ipa: eˈɾinel
+tags: [adv]
+
+definitions:
+  - translation:
+      en: especially
+      ru: особенно
+    aliases:
+      en: [particularly]
+      ru: [именно]
+    examples:
+      - text: Дами ьештти сукке яь кадиццур, а ьел еринел.
+        translation:
+          en: I liked all of these, but especially that one.
+          ru: Мне все эти понравились, а особенно тот.
+
+variants: [ерин ьелле]

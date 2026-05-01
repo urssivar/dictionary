@@ -2,10 +2,9 @@ headword: мурад
 ipa: muˈɾad
 tags: [n, loan, arabic]
 forms:
-  - text: мурад
-    gloss: abs
   - text: мураде
     gloss: pl
+
 definitions:
   - translation:
       en: goal

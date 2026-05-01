@@ -6,15 +6,11 @@ forms:
     gloss: pfv
   - text: берҡив
     gloss: pret
-  - text: буҡара
-    gloss: ipfv
+
 definitions:
   - translation:
-      en: to bloom
-      ru: цвести, уродиться
+      en: to blossom, to yield
+      ru: плодоносить, цвести
     examples:
       - text: ҡӏвярче берҡил це
       - text: ила ҡале берҡ!
-  - translation:
-      en: to suck
-      ru: сосать

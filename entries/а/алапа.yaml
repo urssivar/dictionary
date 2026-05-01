@@ -1,0 +1,16 @@
+headword: алапа
+ipa: aˈlapa
+tags: [n, loan]
+forms:
+  - text: алапан
+    gloss: obl
+
+definitions:
+  - translation:
+      en: wage
+      ru: оплата
+    examples:
+      - text: Барив ячулла алапа ьассив
+        translation:
+          en: I will do this, and you do that.
+          ru: Я сделаю это, а ты сделай то.

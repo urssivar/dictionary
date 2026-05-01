@@ -1,19 +1,18 @@
 headword: черикӏ
 ipa: tʃeˈɾikʼ
-tags: [n]
+tags: [adj]
+
 definitions:
   - translation:
-      en: choice
-      ru: выбор
+      en: fastidious
+      ru: привередливый
     aliases:
-      en: [selection]
+      en: [choosy, fussy]
+      ru: [разборчивый, брезгливый]
     examples:
-      - text: черикӏ бара
+      - text: Черикӏ уле суҡҡур бирьор.
         translation:
-          en: choose
-      - text: черикӏ уле суҡҡур бирьор
-        translation:
-          en: "* choosing for long makes blind"
-      - text: черикӏла палтар
-        translation:
-          en: the best clothes
+          en: The fastidious eye goes blind.
+          ru: Привиредлевый глаз ослепнет.
+
+derived_from: [чер ьабикӏара]

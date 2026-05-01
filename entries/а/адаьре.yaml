@@ -4,15 +4,11 @@ tags: [n, vb]
 
 definitions:
   - translation:
-      en: ignoramus
-      ru: незнайка
-    aliases:
-      en: [know-nothing]
-      ru: [невежда]
+      en: ignorance
+      ru: неведение
 
 etymology:
   en: From the negative of *барьара* "to know".
   ru: От отрицательной формы *барьара* "знать".
 
 derived_from: [барьара]
-see_also: [даҡдаь]

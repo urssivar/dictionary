@@ -1,0 +1,16 @@
+headword: хасатан
+ipa: χaˈsatan
+tags: [adv]
+
+definitions:
+  - translation:
+      en: particularly
+      ru: в частности, особенно
+    aliases:
+      en: [especially, very]
+      ru: [отдельно, очень]
+    examples:
+      - text: Хасатан ра усттал ячу яьле бири.
+        translation:
+          en: And particularly the master was doing good job.
+          ru: И в частности мастер хорошо работал хорошо.

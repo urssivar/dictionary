@@ -1,0 +1,17 @@
+headword: риццики
+ipa: ɾitsːiˈki
+tags: [n]
+forms:
+  - text: риццикне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: sis
+      ru: сестрёнка
+    tags: [kinship]
+    aliases:
+      en: [little, sister]
+
+variants: [риццикӏи]
+derived_from: [рицци]

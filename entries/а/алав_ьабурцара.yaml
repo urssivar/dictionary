@@ -14,5 +14,10 @@ definitions:
     aliases:
       en: [encircle]
       ru: [обводить]
+    examples:
+      - text: Уба цинна дяьнал алав ьаруцил разил риххул це.
+        translation:
+          en: The mother is kept happy surrounded by her children.
+          ru: Мать окружена своими детьми и чувствует себя счастливо.
 
 derived_from: [алав, бурцара]

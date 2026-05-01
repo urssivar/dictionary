@@ -1,0 +1,17 @@
+headword: Биркли
+ipa: biɾkˈli
+tags: [n]
+forms:
+  - text: Бирклан
+    gloss: dnz.sg
+  - text: Бирклила
+    gloss: atr, dnz.pl
+
+definitions:
+  - translation:
+      en: v. Birkli
+      ru: с. Биркли
+    tags: [placename]
+    aliases:
+      en: [village]
+      ru: [село]

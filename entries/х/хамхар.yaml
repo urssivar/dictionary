@@ -1,0 +1,13 @@
+headword: хамхар
+ipa: χamˈχaɾ
+tags: [n, loan, persian]
+forms:
+  - text: хамхре
+    gloss: obl
+  - text: хамхарте
+    gloss: pl
+
+definitions:
+  - translation:
+      en: locker, ambry
+      ru: шкафчик, ниша для хранения

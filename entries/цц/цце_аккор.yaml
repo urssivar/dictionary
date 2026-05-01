@@ -1,0 +1,21 @@
+headword: цце аккор
+ipa: ˌtsːe aˈkːʷaɾ
+tags: [adj]
+
+definitions:
+  - translation:
+      en: bland, insipid
+      ru: пресный, невзрачный
+  - translation:
+      en: uninteresting
+      ru: неинтересный
+    aliases:
+      en: [trival]
+      ru: [банальный]
+    examples:
+      - text: цце аккор ғай
+        translation:
+          en: uninteresting conversations
+          ru: неинтересные разговоры
+
+derived_from: [цце, аккор]

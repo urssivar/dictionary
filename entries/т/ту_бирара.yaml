@@ -1,0 +1,13 @@
+headword: ту бирара
+ipa: ˌtu biˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: барив
+    gloss: pret
+  - text: бирара
+    gloss: ipfv
+
+definitions:
+  - translation:
+      en: to spit out
+      ru: выплёвывать

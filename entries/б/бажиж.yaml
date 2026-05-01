@@ -1,11 +1,14 @@
 headword: бажиж
 ipa: baˈʒiʒ
 tags: [adj, vb, cls]
-etymology:
-  en: Hyp. of *бигара* "to be needed".
+
 definitions:
   - translation:
-      en: obligatory
-      ru: обязательный
+      en: necessary
+      ru: необходимый
     aliases:
-      en: [required]
+      en: [required, needed]
+      ru: [нужный]
+
+variants: [яъни]
+derived_from: [бигара]

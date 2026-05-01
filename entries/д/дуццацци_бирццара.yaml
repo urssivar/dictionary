@@ -1,0 +1,17 @@
+headword: дуццацци бирццара
+ipa: duˌtsːatsːi biɾˈtsːaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: биццара
+    gloss: pfv
+  - text: биццур
+    gloss: pret
+
+definitions:
+  - translation:
+      en: run wild
+      ru: дичать
+    tags: [nature]
+    aliases:
+      en: [feral]
+      ru: [лесной, дикий]

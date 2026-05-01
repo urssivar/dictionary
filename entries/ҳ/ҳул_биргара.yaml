@@ -1,0 +1,13 @@
+headword: ҳул биргара
+ipa: ˌxul biɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: бигара
+    gloss: pfv
+  - text: бижив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to aspire
+      ru: стремиться

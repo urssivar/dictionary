@@ -1,8 +1,9 @@
 headword: белчӏутте
 ipa: belˈtʃʼutːe
 tags: [n]
-etymology:
-  en: From *булчьана* "to study".
+forms:
+  - text: белчӏуттне
+    gloss: pl
 
 definitions:
   - translation:
@@ -11,7 +12,11 @@ definitions:
     tags: [social]
     aliases:
       en: [study]
+      ru: [учёба]
     examples:
-      - text: ярасайцци вегур белчӏутте ьасара
+      - text: Ярасайцци вегур белчӏутте ьассара.
         translation:
-          en: went to russia to get education
+          en: Went to Russia to get education.
+          ru: Отправился в Россию чтобы получить образование.
+
+derived_from: [булчӏана]

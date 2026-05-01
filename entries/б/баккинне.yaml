@@ -1,0 +1,19 @@
+headword: баккинне
+ipa: baˈkːinne
+tags: [post]
+
+definitions:
+  - translation:
+      en: including
+      ru: включительно
+    aliases:
+      en: [with, along]
+      ru: [с, вместе]
+    examples:
+      - text: Атта ваккинне битун кулпет цабағив.
+        translation:
+          en: The whole family came, including the father.
+          ru: Приехала вся семья, включая отца.
+
+variants: [баккинел]
+derived_from: [бакки]

@@ -1,11 +1,15 @@
 headword: йенги
 ipa: jenˈgi
 tags: [adj, loan, turkic]
-note:
-  en: '*ненги*'
+
 definitions:
   - translation:
       en: new
       ru: новый
-    aliases:
-      en: [novel, fresh]
+    examples:
+      - text: йенгил бара
+        translation:
+          en: do it again
+          ru: сделай заново
+
+variants: [ненги, йянғи]

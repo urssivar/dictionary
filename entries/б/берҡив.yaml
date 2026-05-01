@@ -1,0 +1,18 @@
+headword: берҡив
+ipa: beɾˈqiβ
+tags: [adj, cls, vb]
+forms:
+  - text: берҡил
+    gloss: adv
+
+definitions:
+  - translation:
+      en: prosperous, abundant
+      ru: состоятельный, изобильный
+    aliases:
+      en: [rish, wealthy]
+      ru: [изобильный, богатый]
+    examples:
+      - text: берҡив ьулка
+        translation:
+          en: completed fasting

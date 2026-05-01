@@ -2,6 +2,8 @@ headword: аже
 ipa: ˈaʒe
 tags: [n]
 forms:
+  - text: ажил
+    gloss: obl
   - text: ажирбе
     gloss: pl
 
@@ -13,3 +15,8 @@ definitions:
     aliases:
       en: [tune, song, music]
       ru: [напев, мотив, музыка]
+    examples:
+      - text: Аже диҡӏул да
+        translation:
+          en: I'm hearing a melody.
+          ru: Я слышу мелодию.

@@ -1,22 +1,16 @@
 headword: ьаттера
 ipa: haˈtːeɾa
-tags: [adj, adv]
-note:
-  en: '*ьаттира*'
+tags: [adv]
+
 definitions:
   - translation:
       en: more
       ru: более
     aliases:
-      en: [greater]
+      en: [better, greater]
+      ru: [лучше, больше]
     examples:
-      - text: ьештти ьаттера бицците це
+      - text: Ьештти ьаттера бицците це.
         translation:
-          en: these are even more tasty
-  - translation:
-      en: particularly
-      ru: особенно
-    examples:
-      - text: дами ьештти сукке яь кадиццур, а ьел ьаттера
-        translation:
-          en: i liked these all, and that one in particular
+          en: These are even more tasty.
+          ru: Эти ещё более вкусные.

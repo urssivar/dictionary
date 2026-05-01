@@ -14,13 +14,6 @@ definitions:
         translation:
           ru: он справедливый человек
   - translation:
-      en: honest
-      ru: честный
-    examples:
-      - text: барҳле бурсадал
-        translation:
-          en: if I say honestly
-  - translation:
       en: right
       ru: верный
     aliases:

@@ -2,13 +2,10 @@ headword: пикре
 ipa: ˈpikɾe
 tags: [n, loan, arabic]
 forms:
-  - text: пикре
-    gloss: abs
   - text: пикунде
     gloss: pl
+
 definitions:
   - translation:
-      en: thought
-      ru: мысль
-    aliases:
-      en: [idea]
+      en: thought, idea
+      ru: мысль, идея

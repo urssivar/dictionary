@@ -1,9 +1,13 @@
 headword: даим
 ipa: ˈdaim
-tags: [adv, adj]
+tags: [n]
+
 definitions:
   - translation:
-      en: eternal
-      ru: вечный
-    aliases:
-      en: [timeless]
+      en: continuation
+      ru: продолжение
+    examples:
+      - text: даим бараба
+        translation:
+          en: let us continue
+          ru: давайте продолжим

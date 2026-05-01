@@ -2,13 +2,13 @@ headword: ирғутте
 ipa: iɾˈʁutːe
 tags: [n, vb]
 forms:
-  - text: ирғутте
-    gloss: abs
   - text: ирғуттне
     gloss: pl
+
 definitions:
   - translation:
       en: notion
       ru: понятие
     aliases:
-      en: [idea, understanding]
+      en: [idea]
+      ru: [идея]

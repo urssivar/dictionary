@@ -6,6 +6,7 @@ forms:
     gloss: abs
   - text: ҡӏамре
     gloss: pl
+
 definitions:
   - translation:
       en: ancestor
@@ -13,3 +14,6 @@ definitions:
     tags: [social, kinship]
     aliases:
       en: [father]
+      ru: [отец]
+
+variants: [аттатта]

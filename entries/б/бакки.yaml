@@ -1,18 +1,31 @@
 headword: бакки
 ipa: baˈkːi
 tags: [post, cls]
-etymology:
-  en: Likely loc. of *бакк* "interior".
-note:
-  en: '*баккни*'
+
 definitions:
   - translation:
       en: inside
       ru: внутри
     aliases:
       en: [in, into, within]
+      ru: [в]
     examples:
-      - text: атта вакки ви
+      - text: Атта машинла вакки ви.
         translation:
-          en: father is inside
-      - text: сункка бакки тта башун це
+          en: Father is inside the car.
+          ru: Отец находится внутри машины.
+      - text: Сункка бакки тта башун це.
+        translation:
+          en: The bag is durty inside.
+          ru: Сумка испачканная изнутри.
+  - translation:
+      en: straight in, directly to
+      ru: точно в, прямо к
+    examples:
+      - text: Ьеж ҳуней ттатин базари вакки виғитте.
+        translation:
+          en: By this road you arrive straight to the market.
+          ru: По этой дороге выйдешь прямо к рынку.
+
+variants: [баккни]
+derived_from: [бакк]

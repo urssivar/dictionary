@@ -1,13 +1,17 @@
 headword: тяп
 ipa: ˈtæp
-tags: [ptcl]
+tags: [adv]
+
 definitions:
   - translation:
-      en: just
-      ru: совсем, просто
-    aliases:
-      en: [exactly, really]
+      en: exactly, just
+      ru: точно, совсем
     examples:
-      - text: тяп и гон це ила урши
+      - text: Тяп и гон це ила урши ра.
         translation:
-          en: your son is just like you
+          en: Jour son is just like you.
+          ru: Точно как ты и твой сын.
+      - text: Тяп барҳле мялацци чибеғив.
+        translation:
+          en: Hit exactly right into the window.
+          ru: Попало совсем прямо в окно.

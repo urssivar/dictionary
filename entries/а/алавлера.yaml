@@ -1,0 +1,18 @@
+headword: алавлера
+ipa: aˈlaβleɾa
+tags: [intj]
+
+definitions:
+  - translation:
+      en: no way, under no circumstances
+      ru: ни за что, ни в коем случае
+    aliases:
+      en: [about, round]
+      ru: [кругом, округ]
+    examples:
+      - text: Алавлера мавяв!
+        translation:
+          en: No way, may he not go!
+          ru: Ни за что, пусть не идёт!
+
+derived_from: [алав]

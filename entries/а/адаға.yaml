@@ -1,0 +1,17 @@
+headword: Адаға
+ipa: aˈdaʁa
+tags: [n]
+forms:
+  - text: Иғдикӏан
+    gloss: dnz.sg
+  - text: Иғдичӏила
+    gloss: atr, dnz.pl
+
+definitions:
+  - translation:
+      en: v. Adaga
+      ru: с. Адага
+    tags: [placename]
+    aliases:
+      en: [village]
+      ru: [село]

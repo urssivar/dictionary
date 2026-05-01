@@ -1,14 +1,14 @@
-headword: цце
-ipa: ˈtsːe
-tags: [n]
-forms:
-  - text: цце
-    gloss: abs
-  - text: ццел
-    gloss: obl
+headword: цце кам
+ipa: ˌtsːe ˈkam
+tags: [adj]
 
 definitions:
   - translation:
       en: salt
       ru: соль
     tags: [food]
+    examples:
+      - text: цце кам диг
+        translation:
+          en: lightly salted meat
+          ru: малосолёное мяса

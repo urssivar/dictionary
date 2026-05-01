@@ -1,9 +1,14 @@
 headword: хийал
 ipa: χiˈjal
 tags: [n, loan]
+forms:
+  - text: хийалте
+    gloss: pl
+
 definitions:
   - translation:
-      en: idea
-      ru: идея
+      en: dream
+      ru: мечта
     aliases:
-      en: [concept]
+      en: [goal]
+      ru: [мечта]

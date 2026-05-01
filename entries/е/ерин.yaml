@@ -1,27 +1,25 @@
 headword: ерин
 ipa: eˈɾin
-tags: [adj]
-note:
-  en: '*арин*'
+tags: [adv]
+
 definitions:
   - translation:
-      en: entire
-      ru: целый
-    aliases:
-      en: [total, full, complete]
+      en: entirely, totally
+      ru: целиком, полностью
     examples:
-      - text: еринле вегул це
+      - text: Ерин вегул це.
         translation:
-          en: he is entirely gone
-      - text: ерин кулпет цабағив
+          en: He is entirely gone.
+          ru: Он совсем ушёл.
+      - text: Ерин кулпет цабағив.
         translation:
-          en: the entire family arrived
+          en: The entire family arrived.
+          ru: Полная семья прибыла.
   - translation:
-      en: particular
-      ru: особенный
-    aliases:
-      en: [very]
+      en: very
+      ru: очень
     examples:
-      - text: еринле музи удар
+      - text: Ерин музи удар.
         translation:
-          en: particularly sweet fruit
+          en: A very sweet fruit.
+          ru: Очень сладкий фрукт.

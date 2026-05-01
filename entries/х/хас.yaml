@@ -1,9 +1,16 @@
 headword: хас
 ipa: ˈχas
 tags: [adj, loan, arabic]
+
 definitions:
   - translation:
-      en: special
-      ru: особый
+      en: special, rare
+      ru: особый, редкостный
     aliases:
       en: [particular]
+      ru: [особенный]
+    examples:
+      - text: хас уғраш
+        translation:
+          en: a rare scoundrel
+          ru: редкостный мерзавец

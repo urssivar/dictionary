@@ -1,0 +1,17 @@
+headword: Барша
+ipa: ˈbaɾʃa
+tags: [n]
+forms:
+  - text: Баршиган
+    gloss: dnz.sg
+  - text: Баршигала
+    gloss: atr, dnz.pl
+
+definitions:
+  - translation:
+      en: v. Barsha
+      ru: с. Барша
+    tags: [placename]
+    aliases:
+      en: [village]
+      ru: [село]

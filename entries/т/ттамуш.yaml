@@ -1,0 +1,16 @@
+headword: ттамуш
+ipa: tːaˈmuʃ
+tags: [n]
+forms:
+  - text: ттамушше
+    gloss: pl
+
+definitions:
+  - translation:
+      en: plug, cork
+      ru: заглушка, пробка
+    examples:
+      - text: Турбанцци ттамуш кабяҡил шин тӏаш ағив.
+        translation:
+          en: He drove a plug into the pipe and stopped the water.
+          ru: Забив пробку в трубу остановил воду.

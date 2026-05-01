@@ -1,0 +1,13 @@
+headword: алавчер
+ipa: aˈlaβtʃeɾ
+tags: [post]
+
+definitions:
+  - translation:
+      en: all round
+      ru: кругом
+    aliases:
+      en: [about, round]
+      ru: [кругом, округ]
+
+derived_from: [алав]

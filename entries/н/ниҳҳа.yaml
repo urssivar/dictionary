@@ -1,0 +1,18 @@
+headword: ниҳҳа
+ipa: ˈnixːa
+tags: [adj]
+
+definitions:
+  - translation:
+      en: native
+      ru: родной, нативный
+    aliases:
+      en: [own]
+      ru: [свой]
+    examples:
+      - text: ниҳҳа ғай
+        translation:
+          en: native speech
+          ru: родная речь
+
+derived_from: [ниҳола]

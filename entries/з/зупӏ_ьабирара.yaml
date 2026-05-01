@@ -1,8 +1,7 @@
 headword: зупӏ ьабирара
 ipa: ˌzupʼ habiˈɾaɾa
 tags: [v, tr, cls]
-note:
-  en: "*супь ~*"
+
 forms:
   - text: зупӏ ьабарара
     gloss: pfv
@@ -16,3 +15,5 @@ definitions:
       ru: высасывать
     aliases:
       en: [dry]
+
+variants: [ссупӏ бикӏора]

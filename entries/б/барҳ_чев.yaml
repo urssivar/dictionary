@@ -1,0 +1,13 @@
+headword: барҳ чев
+ipa: ˈbaɾx
+tags: [adj, vb, cls]
+definitions:
+  - translation:
+      en: honest
+      ru: честный
+    aliases:
+      en: [right, "true"]
+    examples:
+      - text: барҳ челле бурсадал
+        translation:
+          ru: если говорить честно

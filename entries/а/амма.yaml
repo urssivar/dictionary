@@ -9,7 +9,11 @@ definitions:
     aliases:
       en: [though, and]
       ru: [хотя, а]
-
+    examples:
+      - text: И ьелин вярунде, амма ҡкуллуҡҡ таман абаривде.
+        translation:
+          en: You went there, but you didn't finish the job.
+          ru: Ты пошёл туда, но не завершил дело.
 etymology:
   en: From Arabic أَمَّا (*ʔammā*) "as for".
   ru: От арабского أَمَّا (*ʔammā*) "что касается".

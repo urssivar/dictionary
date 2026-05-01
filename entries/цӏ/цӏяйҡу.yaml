@@ -1,18 +1,17 @@
 headword: цӏяйҡу
 ipa: tsʼæjˈqu
 tags: [n]
-note:
-  en: |-
-    *цьярҡу*
-    *чьяғи*
 forms:
   - text: цӏяйҡу
     gloss: abs
-  - text: цӏяйҡне
+  - text: цӏяйҡубе
     gloss: pl
+
 definitions:
   - translation:
       en: screamer
       ru: крикун
     aliases:
       en: [loud, crier]
+
+variants: [цӏярҡу, чӏяғи]

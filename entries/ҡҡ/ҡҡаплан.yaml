@@ -1,13 +1,10 @@
 headword: ҡҡаплан
 ipa: qːapˈlan
 tags: [n, loan, turkic]
-note:
-  en: "*арслан-ҡҡаплан*"
 forms:
-  - text: ҡҡаплан
-    gloss: abs
   - text: ҡҡапланте
     gloss: pl
+
 definitions:
   - translation:
       en: tiger

@@ -1,0 +1,16 @@
+headword: аслу
+ipa: ˈaslu
+tags: [conj, loan, arabic]
+forms:
+  - text: аслун-
+    gloss: obl
+  - text: аслуме
+    gloss: pl
+
+definitions:
+  - translation:
+      en: framework, hull
+      ru: каркас, корпус
+    aliases:
+      en: [body, shell, skeleton]
+      ru: [остов, рама, скелет, база]

@@ -14,3 +14,6 @@ definitions:
       - text: иса шеттирла баривда
         translation:
           en: i payed visit to you
+  - translation:
+      en: festivity
+      ru: гулянье

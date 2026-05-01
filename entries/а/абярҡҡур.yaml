@@ -7,11 +7,11 @@ forms:
 
 definitions:
   - translation:
-      en: ignorant
-      ru: невежественный
+      en: uncultured
+      ru: невоспитанный
     aliases:
       en: [boorish, rude]
-      ru: [невоспитанный, грубый]
+      ru: [бескультурный, грубый]
 
 etymology:
   en: The negative preterite of *руҡҡяра* "to educate, to bring up".

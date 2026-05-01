@@ -14,5 +14,10 @@ definitions:
     aliases:
       en: [fence, encircle, surround]
       ru: [окружить, обнести, изгородить]
+    examples:
+      - text: Дяғя кабяҡил ҡу алав цабарив.
+        translation:
+          en: Забили забор и огородили огород.
+          ru: They put up a fence and enclosed the garden.
 
 derived_from: [алав, бирара]

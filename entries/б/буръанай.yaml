@@ -1,15 +1,12 @@
 headword: буръанай
 ipa: buɾʔaˈnaj
 tags: [n, vb]
-note:
-  en: |-
-    *берълуҡ*
-    булъан
 forms:
   - text: буръанай
     gloss: abs
   - text: буръанайте
     gloss: pl
+
 definitions:
   - translation:
       en: quagmire
@@ -17,3 +14,7 @@ definitions:
     tags: [nature]
     aliases:
       en: [bog, swamp]
+      ru: [топь, болото]
+
+variants: [беръла / берълан-]
+derived_from: [буъара]

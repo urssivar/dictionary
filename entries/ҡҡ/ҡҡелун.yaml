@@ -1,0 +1,20 @@
+headword: ҡҡелун
+ipa: qːeˈlun
+tags: [adv]
+
+definitions:
+  - translation:
+      en: during
+      ru: в течение
+    aliases:
+      en: [while, within, over]
+      ru: [по ходу, в процессе]
+    tags: [time]
+    examples:
+      - text: Баццела ҡҡелун биранда.
+        translation:
+          en: I will do it during a month.
+          ru: Я сделаю это в течение месяца.
+
+variants: [ҡҡелуни, ҡҡелунел]
+derived_from: [ҡҡелун]

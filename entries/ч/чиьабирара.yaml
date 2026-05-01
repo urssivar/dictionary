@@ -1,6 +1,7 @@
 headword: чиьабирара
 ipa: tʃihabiˈɾaɾa
 tags: [v, tr, cls]
+
 forms:
   - text: чиьабарара
     gloss: pfv
@@ -12,3 +13,5 @@ definitions:
   - translation:
       en: to spud
       ru: окучивать
+
+variants: [чииҡҡора / чибирҡҡора / чибирҡҡур]

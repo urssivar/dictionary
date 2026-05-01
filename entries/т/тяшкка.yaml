@@ -1,7 +1,16 @@
 headword: тяшкка
-ipa: ˌtaβla ˈqale
-tags: [n]
+ipa: tæʃˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: тяшккан
+    gloss: obl
+  - text: тяшккне
+    gloss: pl
+
 definitions:
   - translation:
-      en: living room
-      ru: гостиная
+      en: wheelbarrow
+      ru: тачка
+    aliases:
+      em: [car, barrow]
+      ru: [тележка]

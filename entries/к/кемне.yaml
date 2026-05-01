@@ -1,7 +1,10 @@
-headword: кемне
-ipa: ˈkemne
-tags: [n]
+headword: кемни
+ipa: ˈkemni
+tags: [adj]
+
 definitions:
   - translation:
-      en: disabled
-      ru: инвалид
+      en: exhausted
+      ru: изнемождённый
+
+variants: [кемли]

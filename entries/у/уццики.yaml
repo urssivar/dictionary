@@ -1,0 +1,17 @@
+headword: уццики
+ipa: utsːiˈki
+tags: [n]
+forms:
+  - text: уццикне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: bro
+      ru: братик
+    tags: [kinship]
+    aliases:
+      en: [little, brother]
+
+variants: [уццикӏи]
+derived_from: [уцци]

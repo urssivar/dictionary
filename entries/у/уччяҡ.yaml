@@ -1,0 +1,17 @@
+headword: уччяҡ
+ipa: detʃːˈluqː
+tags: [n, vb]
+forms:
+  - text: уччяҡе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: drunkard
+      ru: пьяница
+    tags: [occupation]
+    aliases:
+      en: [drinker, alcoholic]
+
+variants: [деччуҡӏ, уччан]
+derived_from: [буччара]

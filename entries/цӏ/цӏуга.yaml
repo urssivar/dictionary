@@ -1,17 +1,20 @@
 headword: цӏуга
 ipa: ˈtsʼuga
 tags: [n]
-note:
-  en: There's also *ҳунцьур* but the exact meaning is unclear.
 forms:
-  - text: цӏуга
-    gloss: abs
   - text: цӏуган
     gloss: obl
-  - text: цӏугне
-    gloss: pl
+
 definitions:
   - translation:
-      en: swamp
-      ru: болото
+      en: putridity
+      ru: затхлость
     tags: [nature]
+    aliases:
+      en: [rot, mustiness]
+      ru: [гниль, тухлость]
+    examples:
+      - text: цӏуганла кквяъ
+        translation:
+          en: putrid smell
+          ru: затхлый запах

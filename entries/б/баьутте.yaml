@@ -1,18 +1,21 @@
 headword: баьутте
 ipa: baˈhutːe
-tags: [n]
-etymology:
-  en: From *барьара* "to know".
+tags: [n, vb]
 forms:
-  - text: баьутте
-    gloss: abs
   - text: баьуттне
     gloss: pl
+
 definitions:
   - translation:
-      en: knowledge
-      ru: знание
+      en: experience, knowledge
+      ru: опыт, знание
     aliases:
-      en: [data, info, skill, mastery]
+      en: [education]
+      ru: [образование]
     examples:
-      - text: ьелецци баьутте би
+      - text: Ьелецци баьутте би.
+        translation:
+          en: He has experience.
+          ru: У него есть опыт.
+
+derived_from: [барьара]

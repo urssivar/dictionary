@@ -1,0 +1,20 @@
+headword: автт бирццара
+ipa: ˌaβtː biɾˈtsːaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: биццара
+    gloss: pfv
+  - text: биццур
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to line up, to align
+      ru: выравниваться, выстраиваться
+    examples:
+      - text: автт биццул дуцӏ бижив
+        translation:
+          en: they lined up and run
+          ru: выровнялись и побежали
+
+derived_from: [автт, бирццара]

@@ -2,14 +2,18 @@ headword: хахбецӏ
 ipa: χaχˈbetsʼ
 tags: [n]
 forms:
-  - text: хахбецӏ
-    gloss: abs
   - text: хахбецӏи
     gloss: obl
   - text: хахбицӏе
     gloss: pl
+
 definitions:
   - translation:
       en: jackal
       ru: шакал
     tags: [animal]
+    aliases:
+      en: [wolf, dog]
+      ru: [волк, собака]
+
+derived_from: [хах, бецӏ]

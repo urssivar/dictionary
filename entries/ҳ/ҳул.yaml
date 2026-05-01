@@ -2,15 +2,10 @@ headword: ҳул
 ipa: ˈxul
 tags: [n]
 forms:
-  - text: ҳул
-    gloss: abs
-  - text: ҳулме
+  - text: ҳулбе
     gloss: pl
+
 definitions:
   - translation:
-      en: dream
-      ru: мечта
-    examples:
-      - text: ҳул биргара
-        translation:
-          en: to dream
+      en: aspiration
+      ru: стремление

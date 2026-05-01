@@ -1,9 +1,14 @@
 headword: буҡӏиҡяш
 ipa: buqʼiˈqæʃ
 tags: [n, adj, cls]
+
 definitions:
   - translation:
-      en: cripple
-      ru: калека
+      en: disabled, cripple
+      ru: калека, инвалид
     aliases:
-      en: [disable, handicap]
+      en: [handicap]
+      ru: [увечье]
+
+variants: [уҡӏиҡяш]
+derived_from: [буҡӏе, ҡяш]

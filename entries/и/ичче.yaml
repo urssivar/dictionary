@@ -1,13 +1,16 @@
-headword: ичче
-ipa: ˈitʃːe
+headword: Аллаьичче
+ipa: alˈlahitʃːe
 tags: [post, vb]
-etymology:
-  en: Maybe from *биччен* , conditional of *биккара* "to want". In the sense "if it pleases". Actually only used with reference to God.
+
 definitions:
   - translation:
-      en: for the love of
-      ru: ради, для
+      en: for God's sake
+      ru: ради Бога
     examples:
-      - text: аллаь ичче ватаба ду
+      - text: Аллаьичче ватаба ду!
         translation:
-          en: for the sake of god leave me
+          en: For God's sake leave me alone!
+          ru: Ради Бога, оставьте меня в покое!
+
+variants: [Аллаь виччен]
+derived_from: [Аллаь, биккара]

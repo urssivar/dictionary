@@ -12,3 +12,8 @@ definitions:
       ru: священнослужитель
     aliases:
       en: [priest, mullah]
+    examples:
+      - text: рирсбала малла
+        translation:
+          en: 
+          ru: 

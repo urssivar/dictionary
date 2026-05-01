@@ -15,9 +15,9 @@ definitions:
       en: [meet, congregate]
       ru: [собраться, встретиться, сходиться]
     examples:
-      - text: Рирсбе алав цабижил азбар унзу барив.
+      - text: Ьари, ьежин алав цадигай.
         translation:
-          en: Girls gathered and cleaned the yard.
-          ru: Девушки собрались и почистили двор.
+          en: Hey, gather here.
+          ru: А ну, соберитесь здесь.
 
 derived_from: [алав, биргара]

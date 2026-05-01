@@ -4,8 +4,11 @@ tags: [n]
 
 definitions:
   - translation:
-      en: visit to a non-relative
-      ru: визит к постороннему человеку
+      en: visit
+      ru: визит
+    note:
+      en: usually for a business
+      ru: обычно за делом
     tags: [culture]
 
 derived_from: [аххал]

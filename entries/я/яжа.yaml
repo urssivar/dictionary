@@ -1,13 +1,12 @@
-headword: яжа
-ipa: æˈʒa
-tags: [n]
-note:
-  en: "*яжи*"
+headword: яжи
+ipa: æˈʒi
+tags: [n, loan, turkic]
 forms:
-  - text: яжа
+  - text: яжи
     gloss: abs
   - text: яжне
     gloss: pl
+
 definitions:
   - translation:
       en: respected elder woman
@@ -15,3 +14,5 @@ definitions:
     tags: [kinship]
     aliases:
       en: [mrs]
+
+variants: [яйжу, яжа, яжу]

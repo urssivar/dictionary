@@ -1,0 +1,16 @@
+headword: бялғя
+ipa: ˈbælʁæ
+tags: [n]
+
+definitions:
+  - translation:
+      en: decency, manners
+      ru: приличие, манеры
+    aliases:
+      en: [manners]
+      ru: [воспитание, манеры]
+    examples:
+      - text: Бялғя пикре диран мейдам це.
+        translation:
+          en: He's a person who values manners.
+          ru: Он человек, который думает о манерах.

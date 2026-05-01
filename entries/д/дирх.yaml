@@ -1,0 +1,15 @@
+headword: дирх
+ipa: ˈdiɾχ
+tags: [n]
+forms:
+  - text: дирхбе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: storey, level
+      ru: этаж, уровень
+    aliases:
+      en: [floor]
+
+variants: [дярҡ]

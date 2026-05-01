@@ -11,6 +11,6 @@ forms:
 definitions:
   - translation:
       en: to select
-      ru: отбирать
+      ru: выбирать
     aliases:
       en: [choose, filter]

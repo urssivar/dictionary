@@ -1,7 +1,13 @@
 headword: маҡӏам
 ipa: maˈqʼam
 tags: [n, loan, arabic]
+forms:
+  - text: маҡӏамте
+    gloss: pl
+
 definitions:
   - translation:
       en: music
       ru: музыка
+
+variants: [ҡӏам]

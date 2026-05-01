@@ -1,19 +1,19 @@
 headword: баҡ
 ipa: ˈbaq
 tags: [adv]
-etymology:
-  en: May be related to *баҡ* "multiple".
+
 definitions:
   - translation:
-      en: too
-      ru: слишком
+      en: too, overly
+      ru: слишком, чересчур
     aliases:
       en: [overly, much]
     examples:
-      - text: баҡ явра ғай дарив ҡӏал
+      - text: Баҡ явра ғай дарив ҡӏал.
         translation:
-          en: talked too much
-          ry: чрезчур много разговаривал
-      - text: баҡ дурҡал це асара
+          en: Talked well too much.
+          ru: Чересчур много же разговаривал.
+      - text: Баҡ дурҡал це ассара.
         translation:
-          en: too expensive to buy
+          en: Too expensive to buy.
+          ru: Слишком дорого, чтобы купить.

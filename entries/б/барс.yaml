@@ -1,0 +1,16 @@
+headword: барс
+ipa: ˈbaɾs
+tags: [post, cls]
+
+definitions:
+  - translation:
+      en: in place of
+      ru: взамен
+    aliases:
+      en: [swap, instead]
+      ru: [вместо]
+    examples:
+      - text: Ьеж белҡӏун диссуй барс ила дис ьакка.
+        translation:
+          en: Give me your knife in place of this broken one.
+          ru: Дай твой нож взамен этому сломанному.

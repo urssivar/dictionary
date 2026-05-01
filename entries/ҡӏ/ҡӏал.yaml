@@ -1,16 +1,15 @@
 headword: ҡӏал
 ipa: ˈqʼal
 tags: [intj]
-note:
-  en: '*ҡьали*'
+
 definitions:
-  - note:
-      en: Expresses assurance.
     translation:
       en: surely
       ru: ведь
     aliases:
       en: [of, course, indeed]
+  - note:
+      en: Expresses assurance.
     examples:
       - text: вярунда кӏал
         translation:
@@ -18,3 +17,5 @@ definitions:
       - text: ьел ҡӏал
         translation:
           en: this is indeed
+
+variants: [ал, ҡӏали]

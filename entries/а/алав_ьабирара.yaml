@@ -9,11 +9,11 @@ forms:
 
 definitions:
   - translation:
-      en: to envelop
-      ru: окутывать
+      en: to envelop, to wrap
+      ru: окутывать, заворачивать
     aliases:
       en: [enclose, wrap]
-      ru: [обволакивать, заворачивать]
+      ru: [обволакивать]
     examples:
       - text: Лузум алав ьабара.
         translation:

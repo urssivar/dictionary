@@ -1,0 +1,17 @@
+headword: ах бирара
+ipa: ˌaχ biˈɾaɾa
+tags: [v, cls, trs]
+forms:
+  - text: барара
+    gloss: pfv
+  - text: барив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: expectorate
+      ru: отхаркивать
+    tags: [body]
+
+derived_from: [ах]
+see_also: [ахтукӏле]

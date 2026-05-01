@@ -1,11 +1,7 @@
 headword: беғиж
 ipa: biˈʁan
 tags: [adj, cls, vb]
-forms:
-  - text: биған
-    gloss: adj
-  - text: биғул
-    gloss: adv
+
 definitions:
   - translation:
       en: due
@@ -13,4 +9,6 @@ definitions:
     aliases:
       en: [owed]
     examples:
-      - text: ьеж диг етти беғижил це
+      - text: Ьеж диг етти беғижил це.
+
+variants: [биған]

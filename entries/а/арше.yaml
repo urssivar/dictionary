@@ -7,12 +7,12 @@ forms:
 
 definitions:
   - translation:
-      en: harvest
-      ru: урожай
+      en: reaping, crop
+      ru: жатва, нива
     tags: [agriculture]
     aliases:
-      en: [crop, reaping]
-      ru: [жатва]
+      en: [field]
+      ru: [поле]
 
 derived_from: [ирҳара]
 see_also: [арцӏе]

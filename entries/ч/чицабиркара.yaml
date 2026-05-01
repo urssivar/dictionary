@@ -14,3 +14,6 @@ definitions:
       ru: захотеть сделать
     aliases:
       en: [wish, decide, want]
+  - translation:
+      en: to form up
+      ru: сформировываться

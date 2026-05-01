@@ -1,16 +1,14 @@
 headword: ерғутӏ
 ipa: eɾˈʁutʼ
 tags: [n, vb]
-etymology:
-  en: From *ирғара* "to understand".
-note:
-  en: "*ирғучь*, *ирғутте*"
 forms:
-  - text: ерғутӏ
-    gloss: abs
   - text: ерғутӏне
     gloss: pl
+
 definitions:
   - translation:
       en: hint
       ru: намёк
+
+variants: [ирғучӏ]
+derived_from: [ирғара]
