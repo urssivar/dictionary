@@ -1,0 +1,15 @@
+headword: гум кабурцара
+ipa: ˌgum kabuɾˈtsaɾa
+tags: [v, tr, cls]
+forms:
+  - text: кабуцара
+    gloss: pfv
+  - text: кабуцив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to take down
+      ru: поваливать
+    aliases:
+      en: [earth]

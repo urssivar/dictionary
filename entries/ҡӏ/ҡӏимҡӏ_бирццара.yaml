@@ -1,0 +1,17 @@
+headword: ҡӏимҡӏ бирццара
+ipa: ˌqʼimqʼ biɾˈtsːaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: биццара
+    gloss: pfv
+  - text: биццур
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to stick out
+      ru: выпячивать
+    aliases:
+      en: [set, show, highlight]
+
+variants: [ҡҡиҡҡ ~]

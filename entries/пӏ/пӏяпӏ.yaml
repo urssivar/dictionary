@@ -1,9 +1,13 @@
 headword: пӏяпӏ
 ipa: ˈpʼæpʼ
-tags: [adj]
+tags: [n]
+forms:
+  - text: пӏяпӏре
+    gloss: pl
+
 definitions:
   - translation:
-      en: suspicious
-      ru: подозрительный
+      en: uninvited guest
+      ru: незванный гость
     aliases:
       en: [fishy, dubious]

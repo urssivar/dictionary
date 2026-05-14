@@ -6,11 +6,18 @@ forms:
     gloss: pfv
   - text: цабуцив
     gloss: pret
-  - text: цабурцара
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to embrace
       ru: обхватывать
     aliases:
       en: [cover, armful]
+  - translation:
+      en: to solidify, to harden
+      ru: затвердевать, застывать
+    examples:
+      - text: ццимин цабуцив
+        translation:
+          en: the cement has hardened
+          ru: цемент затвердел

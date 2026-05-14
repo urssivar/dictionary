@@ -1,0 +1,19 @@
+headword: ҳади бергара
+ipa: xaˌdi beɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: ~ бегара
+    gloss: pfv
+  - text: ~ бегур
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to marry (a man)
+      ru: выходить замуж
+    tags: [kinship]
+    aliases:
+      en: [husband]
+
+variants: [ҳади бянара]
+derived_from: [ҳади, бергара]

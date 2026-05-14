@@ -1,0 +1,22 @@
+headword: ибил
+ipa: iˈbil
+tags: [noun]
+forms:
+  - text: ибилте
+    gloss: pl
+
+definitions:
+  - translation:
+      en: ordinal component
+      ru: порядковый компонент
+    examples:
+      - text: Ябал ибил ккалас таман барив.
+        translation:
+          en: Completed the third grade.
+          ru: Окончил третий клас.
+      - text: Чӏуйна ибил агур.
+        translation:
+          en: Succeeded the second time.
+          ru: Получилось на второй раз.
+
+variants: [бив, ьяҡӏи, -лжи]

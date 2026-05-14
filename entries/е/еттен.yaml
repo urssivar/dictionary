@@ -10,12 +10,12 @@ definitions:
     aliases:
       en: [rather]
     examples:
-      - text: са еттен ижал гунал це
+      - text: Сса еттен ижал гунал це.
         translation:
           en: today it's warmer than yesterday
-      - text: ьинце еттен дами ҡяр биччихид
+      - text: Ьинце еттен дами ҡяр диччихид.
         translation:
           en: i love pears more than apples
-      - text: ижин кигара еттен вярун яьле аччу у?
+      - text: Ьежин кижил еттен вярун яьле аччу у?
         translation:
           en: wouldn't it been better to go than to sit here?

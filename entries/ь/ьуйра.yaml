@@ -1,11 +1,12 @@
 headword: ьуйра
 ipa: hujˈɾa
 tags: [n]
-note:
-  en: '*ьайра*'
+
 definitions:
   - translation:
       en: reeling
       ru: шатание
     aliases:
       en: [shake, fluctuate]
+
+variants: [ьайра, ьур]

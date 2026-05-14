@@ -1,0 +1,14 @@
+headword: маккор
+ipa: maˈkːʷaɾ
+tags: [n]
+forms:
+  - text: маккорте
+    gloss: pl
+
+definitions:
+  - translation:
+      en: tide
+      ru: волна
+    tags: [nature]
+
+variants: [руккрукк]

@@ -1,6 +1,10 @@
 headword: хух
 ipa: ˈχuχ
 tags: [n]
+forms:
+  - text: хухре
+    gloss: pl
+
 definitions:
   - translation:
       en: snore

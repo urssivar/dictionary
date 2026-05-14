@@ -2,10 +2,9 @@ headword: тахсир
 ipa: taχˈsiɾ
 tags: [n, loan, arabic]
 forms:
-  - text: тахсир
-    gloss: abs
   - text: тахсирте
     gloss: pl
+
 definitions:
   - translation:
       en: guilt

@@ -2,15 +2,16 @@ headword: ҡӏолтикк
 ipa: qʼʷalˈtikː
 tags: [n]
 forms:
-  - text: ҡӏолтикк
-    gloss: abs
   - text: ҡӏолтиккан
     gloss: obl
   - text: ҡӏолтикке
     gloss: pl
+
 definitions:
   - translation:
       en: strap
       ru: тканный ремешок
     aliases:
       en: [tape, rope, band]
+
+variants: [ттаттиҡ]

@@ -1,14 +1,14 @@
 headword: пинцӏяҡҡ
 ipa: pinˈtsʼæqː
 tags: [n]
-etymology:
-  en: From *пинцьа* "unclean".
 forms:
-  - text: пинцӏяҡҡ
-    gloss: abs
   - text: пинцӏяҡҡе
     gloss: pl
+
 definitions:
   - translation:
       en: sloven
       ru: грязнуля
+
+derived_from: [пинцӏа]
+variants: [пинцӏуҡҡ, ҡвяссукӏ, ҡвясса батир]

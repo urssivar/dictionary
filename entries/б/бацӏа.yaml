@@ -1,0 +1,14 @@
+headword: бацӏа
+ipa: baˈtsʼa
+tags: [n, v, cls]
+forms:
+  - text: бацӏурбе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: non-pregnant
+      ru: небеременный
+
+derived_from: [бацӏ]
+see_also: [чӏурка]

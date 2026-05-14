@@ -1,0 +1,13 @@
+headword: ьекк бирьора
+ipa: ˌhekː biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: биьора
+    gloss: pfv
+  - text: биьяв
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to grow closer
+      ru: сближаться

@@ -11,5 +11,10 @@ definitions:
       ru: этаж, уровень
     aliases:
       en: [floor]
+    examples:
+      - text: чӏудирхла бурха
+        translation:
+          en: two-storey building
+          ru: двухэтажное здание
 
 variants: [дярҡ]

@@ -1,8 +1,7 @@
 headword: ивзағ
 ipa: iβˈzaʁ
 tags: [n]
-note:
-  en: '*евзағ*'
+
 definitions:
   - translation:
       en: hate
@@ -12,3 +11,9 @@ definitions:
       - text: ивзағ ьадачӏив
         translation:
           en: conceived a hatred
+      - text: Дила ьелей ивзағ би.
+        translation:
+          en:
+          ru:
+
+variants: [авзағ, евзағ]

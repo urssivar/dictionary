@@ -2,12 +2,11 @@ headword: пӏаҡӏа
 ipa: pʼaˈqʼa
 tags: [n]
 forms:
-  - text: пӏаҡӏа
-    gloss: abs
   - text: пӏаҡӏан
     gloss: obl
   - text: пӏиҡӏне
     gloss: pl
+
 definitions:
   - translation:
       en: spool

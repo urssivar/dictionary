@@ -1,15 +1,12 @@
 headword: гутти бирхара
 ipa: guˌtːi biɾˈχaɾa
 tags: [v, ntr, cls]
-note:
-  en: "*сатти бирхара*"
 forms:
-  - text: гутти бархара
+  - text: бархара
     gloss: pfv
-  - text: гутти бархив
+  - text: бархив
     gloss: pret
-  - text: гутти бирхара
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to impede
@@ -21,3 +18,5 @@ definitions:
       ru: мешать
     aliases:
       en: [disturb, stir]
+
+variants: [сатти бирхара]

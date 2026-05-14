@@ -9,3 +9,6 @@ definitions:
       ru: сверху, наверх
     aliases:
       en: [up, over]
+  - translation:
+      en: after
+      ru: после

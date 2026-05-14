@@ -2,12 +2,15 @@ headword: ҡяв
 ipa: ˈqæβ
 tags: [n]
 forms:
-  - text: ҡяв
-    gloss: abs
   - text: ҡявре
     gloss: pl
+
 definitions:
   - translation:
       en: neck
       ru: шея
     tags: [body]
+  - translation:
+      en: hill pass
+      ru: перевал
+    tags: [nature]

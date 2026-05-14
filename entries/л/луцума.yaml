@@ -1,11 +1,15 @@
 headword: луцума
 ipa: luˈtsuma
 tags: [n]
-note:
-  en: ST2004
+forms:
+  - text: луцумре
+    gloss: pl
+
 definitions:
   - translation:
-      en: doll
-      ru: кукла
+      en: figurine
+      ru: фигурка
     aliases:
       en: [toy]
+
+variants: [начи]

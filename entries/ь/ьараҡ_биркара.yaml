@@ -1,0 +1,15 @@
+headword: ьараҡ биркара
+ipa: haˌɾaq biɾˈkaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: бикара
+    gloss: pfv
+  - text: бичив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to move away, to drift
+      ru: отдаляться, отходить
+
+derived_from: [ьараҡ, бирьора]

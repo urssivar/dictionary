@@ -1,0 +1,17 @@
+headword: кабирцӏара
+ipa: kabiɾˈtsʼaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: кабицӏара
+    gloss: pfv
+  - text: кабицӏив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to permeate
+      ru: пропитываться
+    tags: [food]
+
+variants: [биж кабирцӏара]
+derived_from: [бирцӏара]

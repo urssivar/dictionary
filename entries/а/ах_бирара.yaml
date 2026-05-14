@@ -1,6 +1,6 @@
 headword: ах бирара
 ipa: ˌaχ biˈɾaɾa
-tags: [v, cls, trs]
+tags: [v, cls, tr]
 forms:
   - text: барара
     gloss: pfv
@@ -13,5 +13,5 @@ definitions:
       ru: отхаркивать
     tags: [body]
 
-derived_from: [ах]
-see_also: [ахтукӏле]
+derived_from: ["*ах"]
+see_also: [ахтукӏал]

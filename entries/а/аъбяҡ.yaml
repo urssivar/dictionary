@@ -9,7 +9,6 @@ definitions:
   - translation:
       en: bungler, inept
       ru: растяпа, неумеха
-    tags: [slur]
     examples:
       - text: Аъбяҡли дяъ ттуғ дарил велле бицӏал мярцца дуҡҡив.
         translation:

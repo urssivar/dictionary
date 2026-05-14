@@ -1,16 +1,15 @@
 headword: жин
 ipa: ˈʒin
 tags: [n, loan, arabic]
-note:
-  en: "*жинд*"
 forms:
-  - text: жин
-    gloss: abs
-  - text: жинбе
+  - text: жимбе
     gloss: pl
+
 definitions:
   - translation:
       en: jinn
       ru: джин
     aliases:
       en: [demon]
+
+variants: [жинд / жиндре]

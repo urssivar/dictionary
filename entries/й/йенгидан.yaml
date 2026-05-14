@@ -1,0 +1,15 @@
+headword: йенгидан
+ipa: jenˈgidan
+tags: [adv]
+
+definitions:
+  - translation:
+      en: anew, anew
+      ru: заново
+    examples:
+      - text: йенгидан белкӏо
+        translation:
+          en: rewrite it
+          ru: напиши заново
+
+variants: [йянғитим]

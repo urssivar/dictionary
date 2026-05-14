@@ -1,17 +1,12 @@
 headword: дувҳ
 ipa: ˈduβx
 tags: [n]
-note:
-  en: |-
-    *дувҳа-ҳана*
-    *тьальяна*
-forms:
-  - text: дувҳ
-    gloss: abs
+form:
   - text: дувҳан
     gloss: obl
   - text: дивҳне
     gloss: pl
+
 definitions:
   - translation:
       en: dish
@@ -19,3 +14,5 @@ definitions:
     tags: [house]
     aliases:
       en: [utensil]
+
+variants: [дувҳа-ҳҳана, тӏальяна]

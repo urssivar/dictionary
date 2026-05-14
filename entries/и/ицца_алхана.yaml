@@ -1,18 +1,18 @@
 headword: ицца алхана
 ipa: ˌitsːa alˈχana
 tags: [v, ntr]
-etymology:
-  en: The first part is from *иццара* "to hurt". The verbal root doesn't seem to have any other occurence.
 forms:
-  - text: ицца ахана
+  - text: ахана
     gloss: pfv
-  - text: ицца ахун
+  - text: ахун
     gloss: pret
-  - text: ицца алхана
-    gloss: ipfv
+
 definitions:
   - translation:
-      en: to begin to hurt
-      ru: разболеваться
+      en: to get injured
+      ru: травмироваться
     aliases:
       en: [cause, invoke, pain]
+
+variants: [~ балххана / ~ баххана / ~ баххун]
+derived_from: [иццара]

@@ -1,6 +1,11 @@
 headword: ахтябирбацц
-ipa: aktæˈbiɾ
+ipa: aχtæˈbiɾbatsː
 tags: [n, loan, russian]
+forms:
+  - text: ахтябирбацце
+    gloss: obl
+  - text: ахтябирбиццре
+    gloss: pl
 
 definitions:
   - translation:

@@ -1,0 +1,13 @@
+headword: пис кабирара
+ipa: ˌpis kabiˈɾaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: кабарара
+    gloss: pfv
+  - text: кабарив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to squint (due to poor eyesight)
+      ru: прищуриваться (из-за слабого зрения)

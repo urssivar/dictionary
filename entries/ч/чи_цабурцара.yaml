@@ -1,0 +1,13 @@
+headword: чи цабурцара
+ipa: ˌtʃi tsabuɾˈtsaɾa
+tags: [v, cls, tr]
+forms:
+  - text: чи цабуцара
+    gloss: pfv
+  - text: чи цабуцив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to put on
+      ru: надевать

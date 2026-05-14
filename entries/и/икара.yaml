@@ -6,11 +6,13 @@ forms:
     gloss: pfv
   - text: ачив
     gloss: pret
-  - text: икара
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to take offense
       ru: обижаться
     aliases:
       en: [resent]
+    examples:
+      - text: ичен — ҡҡере гон
+      - text: абараттал Аллаь икул авяяж етти

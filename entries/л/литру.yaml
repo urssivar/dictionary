@@ -1,0 +1,13 @@
+headword: литру
+ipa: ˈlitɾu
+tags: [n, loan, russian]
+forms:
+  - text: литрун
+    gloss: obl
+  - text: литруме
+    gloss: pl
+
+definitions:
+  - translation:
+      en: liter
+      ru: литр

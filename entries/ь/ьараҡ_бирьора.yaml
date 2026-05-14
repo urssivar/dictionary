@@ -1,0 +1,15 @@
+headword: ьараҡ бирьора
+ipa: haˌɾaq biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: биьора
+    gloss: pfv
+  - text: биьяв
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to distance, to detach
+      ru: дистанцироваться, отделяться
+
+derived_from: [ьараҡ, бирьора]

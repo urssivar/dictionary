@@ -1,6 +1,7 @@
 headword: рисҡӏе
 ipa: ˈɾisqʼe
 tags: [n, loan, arabic]
+
 definitions:
   - translation:
       en: grains
@@ -8,3 +9,8 @@ definitions:
     tags: [food]
     aliases:
       en: [cereals]
+    examples:
+      - text: ьялла рисҡӏе
+        translation:
+          en: subsistence
+          ru: пропитание

@@ -1,6 +1,7 @@
 headword: я бикӏора
 ipa: ˌæ biˈkʼʷaɾa
 tags: [v, ntr, cls]
+
 definitions:
   - translation:
       en: to yell
@@ -8,6 +9,7 @@ definitions:
     aliases:
       en: [cry, shout]
     examples:
-      - text: цили я дикӏул да йа ниша?
+      - text: Цили я дикӏул да йе нишша?
         translation:
-          en: why are you yelling?
+          en: Why are you yelling?
+          ru: Почему вы орёте?

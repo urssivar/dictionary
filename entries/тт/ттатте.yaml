@@ -1,0 +1,15 @@
+headword: ттатте
+ipa: ˈtːatːe
+tags: [n]
+forms:
+  - text: ттаттин
+    gloss: obl
+  - text: ттаттне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: sarcophagus
+      ru: саркофаг
+    aliases:
+      en: [cylinder, tombstone]

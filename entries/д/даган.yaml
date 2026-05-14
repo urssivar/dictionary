@@ -1,0 +1,22 @@
+headword: даган
+ipa: daˈgan
+tags: [adv]
+
+definitions:
+  - translation:
+      en: in the middle, in the center
+      ru: посреди, в центре
+    examples:
+      - text: дагна кабиҳа
+        translation:
+          en: pit into the center
+      - text: дагна тӏал
+        translation:
+          en: the central pillar
+      - text: дагла даган
+        translation:
+          en:
+          ru:
+
+variants: [дагна, дагни]
+derived_from: [даг]

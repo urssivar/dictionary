@@ -2,12 +2,11 @@ headword: митру
 ipa: ˈmitɾu
 tags: [n, loan, russian]
 forms:
-  - text: митру
-    gloss: abs
-  - text: митрул
+  - text: митрун
     gloss: obl
   - text: митрубе
     gloss: pl
+    
 definitions:
   - translation:
       en: meter

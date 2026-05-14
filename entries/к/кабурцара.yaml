@@ -19,3 +19,19 @@ definitions:
       ru: спускать
     aliases:
       en: [down]
+  - translation:
+      en: to follow
+      ru: следовать
+    examples:
+      - text: ҳуне кабуцил варҳле вя
+        translation:
+          en:
+          ru:
+  - translation:
+      en:
+      ru:
+    examples:
+      - text: ғай кадуцил це
+        translation:
+          en:
+          ru:

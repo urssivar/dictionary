@@ -2,13 +2,18 @@ headword: нухсан
 ipa: nuχˈsan
 tags: [n, loan, arabic]
 forms:
-  - text: нухсан
-    gloss: abs
   - text: нухсанте
     gloss: pl
+
 definitions:
   - translation:
-      en: flaw
-      ru: недостаток
+      en: flaw, defect
+      ru: изъян, порок
     aliases:
-      en: [defect, shortcoming]
+      en: [shortcoming, drawback]
+      ru: [недостаток]
+    examples:
+      - text: нухсанле варив
+        translation:
+          en: born with a defect
+          ru: родившийся с пороком

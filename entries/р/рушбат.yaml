@@ -2,10 +2,9 @@ headword: рушбат
 ipa: ɾuʃˈbat
 tags: [n, loan]
 forms:
-  - text: рушбат
-    gloss: abs
   - text: рушбате
     gloss: pl
+
 definitions:
   - translation:
       en: bribe

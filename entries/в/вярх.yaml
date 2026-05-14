@@ -1,0 +1,15 @@
+headword: вярх
+ipa: ˈβæɾχ
+tags: [n]
+
+definitions:
+  - translation:
+      en: clatter
+      ru: грохот
+    aliases:
+      en: [call, address]
+    examples:
+      - text: Вярх кадижил дивҳне кадичив.
+        translation:
+          en: Clattering the dishes fell.
+          ru: Грохотая посуда упала.

@@ -1,0 +1,20 @@
+headword: иццне
+ipa: ˈitsːne
+tags: [n, vb]
+forms:
+  - text: иццнел
+    gloss: obl
+
+definitions:
+  - translation:
+      en: pain
+      ru: боль
+    tags: [body]
+    examples:
+      - text: Иццне цӏаҡӏ бирьул це.
+        translation:
+          en: The pain is intensifying.
+          ru: Боль усиливается.
+
+variants: [иццре]
+derived_from: [иццара]

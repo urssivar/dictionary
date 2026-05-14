@@ -1,11 +1,13 @@
 headword: ьа
 ipa: ˈha
 tags: [intj]
+
 definitions:
   - translation:
       en: ah
       ru: ах
     examples:
-      - text: ьа, ьел у?
+      - text: Ьа, ьел у?
         translation:
           en: ah, that's it?
+          ru: Ах, этот?

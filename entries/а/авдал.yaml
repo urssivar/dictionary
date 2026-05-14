@@ -7,8 +7,8 @@ forms:
 
 definitions:
   - translation:
-      en: fool
-      ru: глупец
+      en: fool, stupid
+      ru: глупец, тупой
     aliases:
       en: [idiot, simpleton]
       ru: [дурак, идиот]

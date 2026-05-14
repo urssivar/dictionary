@@ -2,10 +2,9 @@ headword: набар
 ipa: naˈbaɾ
 tags: [n, loan, turkic]
 forms:
-  - text: набар
-    gloss: abs
   - text: набарте
     gloss: pl
+
 definitions:
   - translation:
       en: anchor

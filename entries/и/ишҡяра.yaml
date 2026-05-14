@@ -8,7 +8,9 @@ forms:
     gloss: ipfv
 definitions:
   - translation:
-      en: to skin
-      ru: снимать кожу
+      en: to skin, to peel off
+      ru: снимать кожу, отслаиваться
     aliases:
       en: [peel]
+
+variants: [ҡярш буҡҡив]

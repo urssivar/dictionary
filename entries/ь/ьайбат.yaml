@@ -4,6 +4,9 @@ tags: [adj, loan, arabic]
 definitions:
   - translation:
       en: sonorous
-      ru: звучный
+      ru: звонкий
     aliases:
       en: [resonant]
+  - translation:
+      en: vast, extensive
+      ru: обширный, просторный

@@ -1,0 +1,16 @@
+headword: цебебат
+ipa: tsebeˈbat
+tags: [n, cls, v]
+forms:
+  - text: цебебатте
+    gloss: pl
+
+definitions:
+  - translation:
+      en: fine fellow
+      ru: молодец
+    aliases:
+      en: [good, well, thanks]
+
+variants: [цейват]
+derived_from: [цебе, бартара]

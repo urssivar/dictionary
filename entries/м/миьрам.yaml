@@ -2,13 +2,14 @@ headword: миьрам
 ipa: mihˈɾam
 tags: [n, loan, arabic]
 forms:
-  - text: миьрам
-    gloss: abs
   - text: миьрамте
     gloss: pl
+
 definitions:
   - translation:
       en: chamber
       ru: камера
     aliases:
       en: [room]
+
+variants: [миьмар]

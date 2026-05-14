@@ -1,13 +1,10 @@
 headword: мирҡӏал
 ipa: ˈmiɾqʼal
 tags: [n]
-note:
-  en: "*шурҡь*"
 forms:
-  - text: мирҡӏал
-    gloss: abs
   - text: мирҡӏле
     gloss: obl
+
 definitions:
   - translation:
       en: wormwood
@@ -15,3 +12,5 @@ definitions:
     tags: [nature, plant, grass]
     aliases:
       en: [artemisia, sagebrush]
+
+variants: [шурҡӏ]

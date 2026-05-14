@@ -1,0 +1,13 @@
+headword: биж улғана
+ipa: ˌbiʒ ulˈʁana
+tags: [v, tr]
+forms:
+  - text: елғона
+    gloss: pfv
+  - text: елғун
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to lock inside
+      ru: запирать, закрывать

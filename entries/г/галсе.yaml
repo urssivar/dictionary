@@ -1,8 +1,7 @@
 headword: галсе
 ipa: ˈgalse
 tags: [n]
-note:
-  en: '*галусе*'
+
 definitions:
   - translation:
       en: rumex confertus
@@ -10,3 +9,5 @@ definitions:
     tags: [nature, plant]
     aliases:
       en: [armenian, dock]
+
+variants: [галуссе, гайсе]

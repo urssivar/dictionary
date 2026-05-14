@@ -6,8 +6,7 @@ forms:
     gloss: pfv
   - text: кабижив
     gloss: pret
-  - text: кабиргара
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to sit

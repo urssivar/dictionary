@@ -1,0 +1,15 @@
+headword: еркала
+ipa: eɾˈkala
+tags: [n]
+forms:
+  - text: ерклан
+    gloss: obl
+  - text: ерклуме
+    gloss: pl
+
+definitions:
+  - translation:
+      en: canal
+      ru: канал
+    aliases:
+      en: [pipeline, water, aqueduct]

@@ -2,12 +2,11 @@ headword: дерекка
 ipa: deˈɾekːa
 tags: [n]
 forms:
-  - text: дерекка
-    gloss: abs
   - text: дереккан
     gloss: obl
   - text: дириккбе
     gloss: pl
+
 definitions:
   - translation:
       en: comb

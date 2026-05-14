@@ -1,15 +1,14 @@
 headword: мимми
 ipa: mimˈmi
 tags: [n]
-note:
-  en: "*нини*"
 forms:
-  - text: мимми
-    gloss: abs
   - text: мимре
     gloss: pl
+
 definitions:
   - translation:
       en: doll
       ru: кукла
     tags: [child]
+
+variants: [нинни]

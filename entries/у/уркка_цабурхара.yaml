@@ -1,8 +1,6 @@
 headword: уркка цабурхара
 ipa: uɾˌkːa tsabuɾˈχaɾa
 tags: [v, ntr, cls]
-note:
-  en: "*биж ьабурхара*"
 forms:
   - text: уркка цаберхора
     gloss: pfv
@@ -10,9 +8,12 @@ forms:
     gloss: pret
   - text: уркка цабурхара
     gloss: ipfv
+
 definitions:
   - translation:
       en: to intervene
       ru: вмешиваться
     aliases:
       en: [interfere]
+
+variants: [бакки цабирхара, биж ьирхара]

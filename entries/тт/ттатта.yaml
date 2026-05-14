@@ -2,13 +2,12 @@ headword: ттатта
 ipa: ˈtːatːa
 tags: [n]
 forms:
-  - text: ттатта
-    gloss: abs
-  - text: ттиттирбе
+  - text: ттаттан
+    gloss: obl
+  - text: ттаттирбе
     gloss: pl
+
 definitions:
   - translation:
-      en: sarcophagus
-      ru: саркофаг
-    aliases:
-      en: [cylinder, tombstone]
+      en: boundary stone
+      ru: межевой камень

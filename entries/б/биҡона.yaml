@@ -1,0 +1,13 @@
+headword: билҡона
+ipa: bilˈqʷana
+tags: [v, ntr, cls]
+forms:
+  - text: биҡона
+    gloss: pfv
+  - text: биҡун
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to decay
+      ru: разлагаться

@@ -1,0 +1,14 @@
+headword: ваг цабурцара
+ipa: ˌβag tsabuɾˈtsaɾa
+tags: [v, tr, cls]
+forms:
+  - text: цабуцара
+    gloss: pfv
+  - text: цабуцив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to embrace (at the midpoint)
+      ru: обхватывать (по середине)
+    tags: [body]

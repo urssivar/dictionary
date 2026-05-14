@@ -2,10 +2,9 @@ headword: тӏулим
 ipa: tʼuˈlim
 tags: [n]
 forms:
-  - text: тӏулим
-    gloss: abs
-  - text: тӏулме
+  - text: тӏилме
     gloss: pl
+
 definitions:
   - translation:
       en: rope

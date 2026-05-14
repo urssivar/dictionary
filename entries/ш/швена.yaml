@@ -1,8 +1,7 @@
 headword: швена
 ipa: ˈʃʷena
 tags: [n]
-note:
-  en: '*шона*, *шуна*'
+
 definitions:
   - translation:
       en: north
@@ -11,3 +10,5 @@ definitions:
   - translation:
       en: shadow side
       ru: теневой склон
+
+variants: [шона, шшена, шшуна]

@@ -1,15 +1,10 @@
 headword: явачӏаҡӏо
-ipa: æβatʃʼaˈqʼʷa
+ipa: ˈæβatʃʼaqʼʷa
 tags: [n]
-etymology:
-  en: Lit. *oily bread*.
-note:
-  en: "*ьялбуч*"
 forms:
-  - text: явачӏаҡӏо
-    gloss: abs
   - text: явачӏаҡӏон
     gloss: pl
+
 definitions:
   - translation:
       en: layered bread
@@ -17,3 +12,6 @@ definitions:
     tags: [food]
     aliases:
       en: [puff]
+
+derived_from: [ява, чӏаҡӏо]
+variants: [берккуре, ьялбуч]

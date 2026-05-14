@@ -6,8 +6,7 @@ forms:
     gloss: pfv
   - text: аччив
     gloss: pret
-  - text: иккара
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to affect

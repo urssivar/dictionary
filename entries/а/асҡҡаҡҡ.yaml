@@ -1,11 +1,14 @@
 headword: асҡҡаҡҡ
 ipa: asˈqːaqː
 tags: [adj]
+forms:
+  - text: асҡҡаҡҡе
+    gloss: pl
 
 definitions:
   - translation:
-      en: wretched
-      ru: убогий
+      en: disabled, cripple
+      ru: инвалид, калека
     aliases:
       en: [miserable, pitiful]
       ru: [жалкий, несчастный]

@@ -2,15 +2,17 @@ headword: цӏах кабирара
 ipa: ˌtsʼaχ kabiˈɾaɾa
 tags: [v, cls, tr]
 forms:
-  - text: цӏах кабарара
+  - text: кабарара
     gloss: pfv
-  - text: цӏах кабарив
+  - text: кабарив
     gloss: pret
-  - text: цӏах кабирара
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to dishonor
       ru: позорить
     aliases:
       en: [disgrace, shame]
+  - translation:
+      en: to rape
+      ru: насиловать

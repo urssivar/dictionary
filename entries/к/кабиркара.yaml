@@ -6,9 +6,16 @@ forms:
     gloss: pfv
   - text: кабичив
     gloss: pret
-  - text: кабиркара
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to fall
       ru: падать
+  - translation:
+      en: to elapse, to pass
+      ru: проходить, истекать
+    examples:
+      - text: бацц кабикарай чин
+        translation:
+          en: before the end of the month
+          ru: до окончания месяца

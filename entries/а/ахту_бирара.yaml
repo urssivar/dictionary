@@ -13,5 +13,5 @@ definitions:
       ru: плевать
     tags: [body]
 
-derived_from: [ах]
-see_also: [ахтукӏле]
+derived_from: ["*ах", ту]
+see_also: [ахтукӏал]

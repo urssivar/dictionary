@@ -2,10 +2,9 @@ headword: ҳар
 ipa: ˈxaɾ
 tags: [n]
 forms:
-  - text: ҳар
-    gloss: abs
   - text: ҳарте
     gloss: pl
+    
 definitions:
   - translation:
       en: bottom

@@ -1,0 +1,17 @@
+headword: ҳумручӏ
+ipa: xumˈɾutʃʼ
+tags: [n]
+forms:
+  - text: ҳумручӏе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: dissolute man
+      ru: распутный мужчина
+    tags: [kinship]
+    aliases:
+      en: [womanizer]
+      ru: [бабник]
+
+derived_from: [ҳулум]

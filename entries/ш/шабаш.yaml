@@ -1,0 +1,17 @@
+headword: шабаш
+ipa: ʃaˈbaʃ
+tags: [n]
+
+definitions:
+  - translation:
+      en: bonus, donation
+      ru: бонус, дар
+    tags: [food]
+    aliases:
+      en: [gift]
+      ru: [подарок]
+    examples:
+      - text: Чӏвел азир ҡҡуруш шабаш дарив
+        translation:
+          en: Donated two thousand rubles.
+          ru: Передал в дар две тысячи рублей.

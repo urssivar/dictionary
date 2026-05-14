@@ -2,12 +2,11 @@ headword: чяли
 ipa: tʃæˈli
 tags: [n, loan, turkic]
 forms:
-  - text: чяли
-    gloss: abs
   - text: чялин
     gloss: obl
   - text: чялиппе
     gloss: pl
+
 definitions:
   - translation:
       en: wattle

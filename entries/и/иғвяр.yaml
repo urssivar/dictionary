@@ -1,8 +1,7 @@
 headword: иғвяр
 ipa: iˈʁʷæɾ
 tags: [n]
-note:
-  en: '*иғал*'
+
 definitions:
   - translation:
       en: dirt coating
@@ -10,3 +9,5 @@ definitions:
     tags: [body]
     aliases:
       en: [scurf, plaque]
+
+variants: [иғор, иғал]

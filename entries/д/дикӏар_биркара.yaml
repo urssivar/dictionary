@@ -1,16 +1,18 @@
 headword: дикӏар биркара
 ipa: diˌkʼaɾ biɾˈkaɾa
-tags: [v, cls, ntr]
+tags: [v, ntr, cls]
 forms:
-  - text: дикӏар бикара
+  - text: бикара
     gloss: pfv
-  - text: дикӏар бичив
+  - text: бичив
     gloss: pret
-  - text: дикӏар биркара
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to detach
       ru: отделяться
     aliases:
       en: [split, separate, secede]
+  - translation:
+      en: to divorce
+      ru: разводиться

@@ -1,0 +1,13 @@
+headword: ьекк биркара
+ipa: ˌhekː biɾˈkaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: бикара
+    gloss: pfv
+  - text: бичив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to come near, to approach
+      ru: приближаться

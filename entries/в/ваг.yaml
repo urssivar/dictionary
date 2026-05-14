@@ -2,12 +2,11 @@ headword: ваг
 ipa: ˈβag
 tags: [n]
 forms:
-  - text: ваг
-    gloss: abs m
-  - text: раг
-    gloss: abs f
+  - text: вагре
+    gloss: pl
+
 definitions:
   - translation:
       en: waist
-      ru: талия
+      ru: талия, пояс
     tags: [body]

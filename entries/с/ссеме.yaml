@@ -1,0 +1,20 @@
+headword: ссеме
+ipa: ˈsːeme
+tags: [v, ntr, cls]
+forms:
+  - text: сабав биьора
+    gloss: pfv
+  - text: сабав биьяв
+    gloss: pret
+  - text: сабав бирьора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to heal
+      ru: исцелять
+    aliases:
+      en: [cure]
+    examples:
+      - text: ьел шин сабав диьяв дами
+        translation:
+          en: that water healed me

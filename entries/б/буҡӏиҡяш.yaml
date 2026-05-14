@@ -1,14 +1,16 @@
 headword: буҡӏиҡяш
 ipa: buqʼiˈqæʃ
-tags: [n, adj, cls]
+tags: [n, cls]
+forms:
+  - text: буҡӏиҡяште
+    gloss: pl
 
 definitions:
   - translation:
-      en: disabled, cripple
-      ru: калека, инвалид
+      en: feeble, crippled
+      ru: немощный, увечный
     aliases:
-      en: [handicap]
-      ru: [увечье]
+      en: [weak, disabled]
+      ru: [слабый, инвалид]
 
-variants: [уҡӏиҡяш]
 derived_from: [буҡӏе, ҡяш]
