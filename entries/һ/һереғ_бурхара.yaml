@@ -1,0 +1,16 @@
+headword: һереғ бурхара
+ipa: heˌɾeʁ buɾˈχaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һереғ берхора
+    gloss: pfv
+  - text: һереғ берхур
+    gloss: pret
+  - text: һереғ бурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to ask for help
+      ru: просить помощь
+    aliases:
+      en: [apply, address, appeal]

@@ -1,0 +1,16 @@
+headword: һабарҡихара
+ipa: habaɾqiˈχaɾa
+tags: [v, tr, cls]
+forms:
+  - text: һабаҡихара
+    gloss: pfv
+  - text: һабаҡихив
+    gloss: pret
+  - text: һабарҡихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to reject
+      ru: отвергать
+    aliases:
+      en: [dany]

@@ -1,0 +1,18 @@
+headword: биһер
+ipa: biˈheɾ
+tags: [adv, vb, cls]
+etymology:
+  en: Possible from *бирьора* "to be".
+forms:
+  - text: биһер
+    gloss: adv
+definitions:
+  - translation:
+      en: entirely
+      ru: весь
+    aliases:
+      en: [total, all]
+    examples:
+      - text: ачӏе диһер цаҡҡа
+        translation:
+          en: bring all the wheat

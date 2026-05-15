@@ -1,0 +1,15 @@
+headword: һурцец
+ipa: huɾˈtsets
+tags: [n]
+forms:
+  - text: һурцец
+    gloss: abs
+  - text: һурцеци
+    gloss: obl
+  - text: һурцецне
+    gloss: pl
+definitions:
+  - translation:
+      en: kidney
+      ru: почка
+    tags: [body]

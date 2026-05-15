@@ -1,0 +1,16 @@
+headword: һереғ каргара
+ipa: heˌɾeʁ kaɾˈgaɾa
+tags: [v, ntr]
+forms:
+  - text: һереғ кагара
+    gloss: pfv
+  - text: һереғ кагур
+    gloss: pret
+  - text: һереғ каргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pursue
+      ru: преследовать
+    aliases:
+      en: [hunt, chase]

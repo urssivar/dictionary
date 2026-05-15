@@ -1,0 +1,16 @@
+headword: чӏимчӏин һабирара
+ipa: tʃʼimˌtʃʼin habiˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: чӏимчӏин һабарара
+    gloss: pfv
+  - text: чӏимчӏин һабарив
+    gloss: pret
+  - text: чӏимчӏин һабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to wrinkle
+      ru: морщить
+    aliases:
+      en: [crease]

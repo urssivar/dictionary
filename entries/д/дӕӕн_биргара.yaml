@@ -1,0 +1,16 @@
+headword: дӕӕн биргара
+ipa: dæˌæn biɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: дӕӕн бигара
+    gloss: pfv
+  - text: дӕӕн бижив
+    gloss: pret
+  - text: дӕӕн биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hide
+      ru: прятаться
+    aliases:
+      en: [conceal]

@@ -1,0 +1,30 @@
+headword: баӏ
+ipa: ˈbaʔ
+tags: [n]
+forms:
+  - text: баӏ
+    gloss: abs
+  - text: биӏре
+    gloss: pl
+definitions:
+  - translation:
+      en: edge
+      ru: край
+    aliases:
+      en: [rim]
+    examples:
+      - text: карватла баӏи кижил ви
+        translation:
+          en: he's sitting at the edge
+  - translation:
+      en: opportunity
+      ru: возможность
+    aliases:
+      en: [chance]
+    examples:
+      - text: баӏ бугун дила
+        translation:
+          en: i'm at despair
+      - text: баӏ ра даг дуцил
+        translation:
+          en: trying his best

@@ -1,0 +1,20 @@
+headword: һучӏара
+ipa: huˈtʃʼaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: һабурчӏара
+    gloss: pfv
+  - text: һабурчӏив
+    gloss: pret
+  - text: һучӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to climb up
+      ru: залезать
+    aliases:
+      en: [moun]
+    examples:
+      - text: ккалккуни һурчӏе
+        translation:
+          en: climb up the tree

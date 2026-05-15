@@ -1,0 +1,15 @@
+headword: ҡҡӕрттушкка
+ipa: qːæɾtːuʃˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: ҡҡӕрттушкка
+    gloss: abs
+  - text: ҡҡӕрттушккан
+    gloss: obl
+  - text: ҡҡӕрттушккне
+    gloss: pl
+definitions:
+  - translation:
+      en: potato
+      ru: картофель
+    tags: [nature, plant, food]

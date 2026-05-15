@@ -1,0 +1,16 @@
+headword: бижер цабирһора
+ipa: biˌʒeɾ tsabiɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: бижер цабиһора
+    gloss: pfv
+  - text: бижер цабиһӕв
+    gloss: pret
+  - text: бижер цабирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to traverse
+      ru: обходить
+    aliases:
+      en: [travel]

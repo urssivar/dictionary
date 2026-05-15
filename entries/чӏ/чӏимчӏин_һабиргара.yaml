@@ -1,0 +1,16 @@
+headword: чӏимчӏин һабиргара
+ipa: tʃʼimˌtʃʼin habiɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: чӏимчӏин һабигара
+    gloss: pfv
+  - text: чӏимчӏин һабижив
+    gloss: pret
+  - text: чӏимчӏин һабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to curl up
+      ru: заворачиваться
+    aliases:
+      en: [warp]

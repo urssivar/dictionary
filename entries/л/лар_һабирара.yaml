@@ -1,0 +1,18 @@
+headword: лар һабирара
+ipa: ˌlaɾ habiˈɾaɾa
+tags: [v, tr, cls]
+note:
+  en: "*тайҡ бирара*"
+forms:
+  - text: лар һабарара
+    gloss: pfv
+  - text: лар һабарив
+    gloss: pret
+  - text: лар һабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to kick
+      ru: лягать
+    aliases:
+      en: [foot, hit]

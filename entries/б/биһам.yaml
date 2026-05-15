@@ -1,0 +1,15 @@
+headword: биһам
+ipa: biˈham
+tags: [n, vb]
+etymology:
+  en: From *бильана* "to bind".
+forms:
+  - text: биһам
+    gloss: abs
+  - text: биһме
+    gloss: pl
+definitions:
+  - translation:
+      en: sheaf
+      ru: сноп
+    tags: [house, agriculture]

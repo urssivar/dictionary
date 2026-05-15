@@ -1,0 +1,16 @@
+headword: һисав дирара
+ipa: hiˌsaβ diˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: һисав барара
+    gloss: pfv
+  - text: һисав барив
+    gloss: pret
+  - text: һисав бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to compare
+      ru: сравнивать
+    aliases:
+      en: [compute]

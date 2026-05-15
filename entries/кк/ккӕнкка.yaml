@@ -1,0 +1,17 @@
+headword: ккӕнкка
+ipa: kːænˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: ккӕнкка
+    gloss: abs
+  - text: ккӕнккан
+    gloss: obl
+  - text: ккӕнккабе
+    gloss: pl
+definitions:
+  - translation:
+      en: ice skate
+      ru: конек
+    tags: [tool]
+    aliases:
+      en: [shoe]

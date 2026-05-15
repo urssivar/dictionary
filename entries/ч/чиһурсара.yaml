@@ -1,0 +1,16 @@
+headword: чиһурсара
+ipa: tʃihuɾˈsaɾa
+tags: [v, tr]
+forms:
+  - text: чиһасара
+    gloss: pfv
+  - text: чиһасив
+    gloss: pret
+  - text: чиһурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to commit
+      ru: обязываться
+    aliases:
+      en: [promise, oblige]

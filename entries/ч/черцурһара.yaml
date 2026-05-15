@@ -1,0 +1,16 @@
+headword: черцурһара
+ipa: tʃeɾtsuɾˈhaɾa
+tags: [v, tr]
+forms:
+  - text: черцаһара
+    gloss: pfv
+  - text: черцаһур
+    gloss: pret
+  - text: черцурһара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to unscrew
+      ru: откручивать
+    aliases:
+      en: [detach, twist, "off"]

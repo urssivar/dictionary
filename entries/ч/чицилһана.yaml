@@ -1,0 +1,16 @@
+headword: чицилһана
+ipa: tʃitsilˈhana
+tags: [v, ntr, cls]
+forms:
+  - text: чицабиһана
+    gloss: pfv
+  - text: чицабиһун
+    gloss: pret
+  - text: чицабилһана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to awaken
+      ru: пробуждаться
+    aliases:
+      en: [wake]

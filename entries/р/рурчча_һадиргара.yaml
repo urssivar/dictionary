@@ -1,0 +1,16 @@
+headword: рурчча һадиргара
+ipa: ˌɾuɾtʃːa hadiɾˈgaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: рурчча һабигара
+    gloss: pfv
+  - text: рурчча һабижив
+    gloss: pret
+  - text: рурчча һабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to boil up
+      ru: закипать
+    aliases:
+      en: [seethe]

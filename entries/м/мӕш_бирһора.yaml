@@ -1,0 +1,16 @@
+headword: мӕш бирһора
+ipa: ˌmæʃ biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: мӕш биһора
+    gloss: pfv
+  - text: мӕш биһӕв
+    gloss: pret
+  - text: мӕш бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to covet
+      ru: зариться
+    aliases:
+      en: [crave, yearn]

@@ -2,9 +2,9 @@
 
 ## Scope
 
-**Deverbal adjectives** — Kaitag preterites regularly function as adjectives (*бяръив* "cold" from *буръара* "to cool"). Add as a separate entry with `vb` tag and `derived_from` when frequent or lexicalized enough.
+**Deverbal adjectives** — Kaitag preterites regularly function as adjectives (*бӕрӏив* "cold" from *бурӏара* "to cool"). Add as a separate entry with `vb` tag and `derived_from` when frequent or lexicalized enough.
 
-**Skip** lexically transparent productive patterns: causatives (*X барара* "to make X"), inchoatives (*X бирьора* "to become X"), regular adverbs with *-ле*, etc. These are grammar, not lexicon. Exception: include compound verbs with non-compositional meaning (e.g. *алав биркара* "to evade", not literally "to occur around").
+**Skip** lexically transparent productive patterns: causatives (*X барара* "to make X"), inchoatives (*X бирһора* "to become X"), regular adverbs with *-ле*, etc. These are grammar, not lexicon. Exception: include compound verbs with non-compositional meaning (e.g. *алав биркара* "to evade", not literally "to occur around").
 
 ## Structure
 
@@ -174,7 +174,7 @@ Plain string array of dialectal/alternative forms. For variants with their own p
 
 ```yaml
 variants: [авба, бавба]
-variants: [тӏя / тӏял- / тӏяме, тӏяь / тӏяьу / тӏяьри]
+variants: [тӏӕ / тӏӕл- / тӏӕме, тӏӕһ / тӏӕһу / тӏӕһри]
 variants: [~ / барара / барив]
 ```
 
@@ -207,14 +207,14 @@ Write each morpheme transparently. Never reflect assimilation — consonantal, v
 
 Write the underlying root form recoverable from the paradigm. The geminate is real and surfaces before vowels; degemination before consonants is predictable and not reflected.
 
-- *биххяра*, *биххяв*, *биххне* (despite pronounced *бихне*) — *хх* written consistently throughout
+- *биххӕра*, *биххӕв*, *биххне* (despite pronounced *бихне*) — *хх* written consistently throughout
 
 ### Word Division (Interim Convention)
 
 Full standardization — compounds, clitics, hyphenation, apostrophe use — is deferred to v1.2 and requires a corpus. Until then, write all components separately regardless of lexicalization degree.
 
-- Compound verbs: *кумек барара*, *сар виьора*, *ул катара*
-- Compound nominals/adjectives: *миг бяръив*, *шяъ ҡерҡил*, *давла чев*
+- Compound verbs: *кумек барара*, *сар виһора*, *ул катара*
+- Compound nominals/adjectives: *миг бӕрӏив*, *шӕӏ ҡерҡил*, *давла чев*
 
 ## Checklist
 

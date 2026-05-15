@@ -1,0 +1,14 @@
+headword: ӕсккар
+ipa: æsˈkːaɾ
+tags: [n, loan, arabic]
+forms:
+  - text: ӕсккар
+    gloss: abs
+  - text: ӕсккарте
+    gloss: pl
+definitions:
+  - translation:
+      en: troop
+      ru: отряд
+    aliases:
+      en: [squad, army]

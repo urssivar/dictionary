@@ -1,0 +1,24 @@
+headword: һереғ
+ipa: heˈɾeʁ
+tags: [post, adj]
+note:
+  en: '*ьиряҡҡя*, *ьиряғ*'
+definitions:
+  - translation:
+      en: after
+      ru: следом, за
+    aliases:
+      en: [behind]
+    examples:
+      - text: уццила һереғ кицце
+        translation:
+          en: stand after your brother
+  - translation:
+      en: following
+      ru: следующий
+    aliases:
+      en: [next]
+    examples:
+      - text: һереғ бар
+        translation:
+          en: the following day

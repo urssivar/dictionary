@@ -1,0 +1,16 @@
+headword: цан һалугана
+ipa: tsan haluˈgana
+tags: [v, ntr, cls]
+forms:
+  - text: цан һабалгана
+    gloss: pfv
+  - text: цан һабалгун
+    gloss: pret
+  - text: цан һалугана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to live in harmony
+      ru: жить в ладу
+    aliases:
+      en: [prosper, well]

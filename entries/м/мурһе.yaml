@@ -1,0 +1,19 @@
+headword: мурһе
+ipa: muɾˈhe
+tags: [n, loan]
+note:
+  en: "*мурьи*"
+forms:
+  - text: мурһе
+    gloss: abs
+  - text: мурһел
+    gloss: obl
+definitions:
+  - translation:
+      en: jewelry
+      ru: драгоценности
+    aliases:
+      en: [gold]
+  - translation:
+      en: gold
+      ru: золото

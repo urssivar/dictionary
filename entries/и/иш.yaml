@@ -8,6 +8,6 @@ definitions:
     aliases:
       en: [mood, condition, situation]
     examples:
-      - text: ьелела иш абел
+      - text: һелела иш абел
         translation:
           en: there's no hope for him

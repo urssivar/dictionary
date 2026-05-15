@@ -1,0 +1,16 @@
+headword: ҡаршил бирһора
+ipa: qaɾˌʃil biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: ҡаршил биһӕв
+    gloss: pfv
+  - text: ҡаршил биһора
+    gloss: pret
+  - text: ҡаршил бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hinder
+      ru: препятствовать
+    aliases:
+      en: [prevent, impede]

@@ -1,0 +1,18 @@
+headword: кабирһора
+ipa: kabiɾˈhʷaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: кабиһора
+    gloss: pfv
+  - text: кабиһӕв
+    gloss: pret
+  - text: кабирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to engage in
+      ru: заниматься
+    examples:
+      - text: базил киһӕв
+        translation:
+          en: engaged in dance

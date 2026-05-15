@@ -1,0 +1,16 @@
+headword: черһабирара
+ipa: tʃeɾhabiˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: черһабарара
+    gloss: pfv
+  - text: черһабарив
+    gloss: pret
+  - text: черһабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to upend
+      ru: переворачивать, листать
+    aliases:
+      en: [turn, over, roll, coup]

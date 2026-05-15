@@ -1,0 +1,16 @@
+headword: пар һаргара
+ipa: ˌpaɾ haɾˈgaɾa
+tags: [v, ntr]
+forms:
+  - text: пар һагара
+    gloss: pfv
+  - text: пар һагур
+    gloss: pret
+  - text: пар һаргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to evaporate
+      ru: испаряться
+    aliases:
+      en: [disappear, steam]

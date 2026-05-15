@@ -1,0 +1,16 @@
+headword: чӕйникк
+ipa: tʃæjˈnikː
+tags: [n, loan, russian]
+forms:
+  - text: чӕйникк
+    gloss: abs
+  - text: чӕйниккан
+    gloss: loc
+  - text: чӕйникке
+    gloss: pl
+definitions:
+  - translation:
+      en: kettle
+      ru: чайник
+    aliases:
+      en: [tea, jug]

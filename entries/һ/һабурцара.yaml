@@ -1,0 +1,16 @@
+headword: һабурцара
+ipa: habuɾˈtsaɾa
+tags: [v, cls, tr]
+forms:
+  - text: һабуцара
+    gloss: pfv
+  - text: һабуцив
+    gloss: pret
+  - text: һабурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lift
+      ru: поднимать
+    aliases:
+      en: [take]

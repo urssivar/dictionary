@@ -1,0 +1,16 @@
+headword: һереғ булҡана
+ipa: heˌɾeʁ bulˈqana
+tags: [v, tr, cls]
+forms:
+  - text: һереғ буҡана
+    gloss: pfv
+  - text: һереғ буҡун
+    gloss: pret
+  - text: һереғ булҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hit
+      ru: задевать
+    aliases:
+      en: [touch]

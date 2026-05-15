@@ -10,7 +10,7 @@ definitions:
       en: [lack]
       ru: [нехватка]
     examples:
-      - text: Атта ҡил аккне дул абаьурда.
+      - text: Атта ҡил аккне дул абаһурда.
         translation:
           en: I did not know father is not home.
           ru: Я не знал, что отец не дома.
@@ -20,4 +20,4 @@ etymology:
   ru: Масдар от исторического глагола *\*аккора* (ср. *акку* "не").
 
 derived_from: ["*аккора"]
-see_also: [акку, биьне, аккре]
+see_also: [акку, биһне, аккре]

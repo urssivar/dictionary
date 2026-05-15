@@ -1,0 +1,13 @@
+headword: ӕртис
+ipa: æɾˈtis
+tags: [n, loan, russian]
+forms:
+  - text: ӕртис
+    gloss: abs
+  - text: ӕртисе
+    gloss: pl
+definitions:
+  - translation:
+      en: actor
+      ru: актёр
+    tags: [occupation]

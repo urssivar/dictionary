@@ -8,10 +8,10 @@ definitions:
       ru: ненависть
     tags: [emotion]
     examples:
-      - text: ивзағ ьадачӏив
+      - text: ивзағ һадачӏив
         translation:
           en: conceived a hatred
-      - text: Дила ьелей ивзағ би.
+      - text: Дила һелей ивзағ би.
         translation:
           en:
           ru:

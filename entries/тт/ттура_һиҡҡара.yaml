@@ -1,0 +1,16 @@
+headword: ттура һиҡҡара
+ipa: tːuˌɾa hiˈqːaɾa
+tags: [v, tr]
+forms:
+  - text: ттура һаҡҡара
+    gloss: pfv
+  - text: ттура һаҡҡив
+    gloss: pret
+  - text: ттура һиҡҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to bring out
+      ru: вытаскивать
+    aliases:
+      en: [pull, draw, extract]

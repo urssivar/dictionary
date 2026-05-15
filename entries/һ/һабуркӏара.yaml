@@ -1,0 +1,16 @@
+headword: һабуркӏара
+ipa: habuɾˈkʼaɾa
+tags: [v, tr, cls]
+forms:
+  - text: һаберкӏора
+    gloss: pfv
+  - text: һаберчӏив
+    gloss: pret
+  - text: һабуркӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rouse
+      ru: пробуждать
+    aliases:
+      en: [wake, sleep]

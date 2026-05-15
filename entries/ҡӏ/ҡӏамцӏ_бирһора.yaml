@@ -1,0 +1,16 @@
+headword: ҡӏамцӏ бирһора
+ipa: ˌqʼamtsʼ biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: ҡӏамцӏ биһора
+    gloss: pfv
+  - text: ҡӏамцӏ биһӕв
+    gloss: pret
+  - text: ҡӏамцӏ бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to turn sour
+      ru: прокисать
+    aliases:
+      en: [ferment]

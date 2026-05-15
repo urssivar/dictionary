@@ -1,0 +1,18 @@
+headword: ӕжи
+ipa: æˈʒi
+tags: [n, loan, turkic]
+forms:
+  - text: ӕжи
+    gloss: abs
+  - text: ӕжне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: respected elder woman
+      ru: уважаемая пожилая
+    tags: [kinship]
+    aliases:
+      en: [mrs]
+
+variants: [ӕйжу, ӕжа, ӕжу]

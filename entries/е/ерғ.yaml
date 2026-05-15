@@ -10,7 +10,7 @@ definitions:
       en: weather
       ru: погода
     examples:
-      - text: Ерғ вяьи биьяв.
+      - text: Ерғ вӕһи биһӕв.
         translation:
           en: The weather turned bad.
           ru: Погода испортилась.

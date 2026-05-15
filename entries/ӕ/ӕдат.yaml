@@ -1,0 +1,14 @@
+headword: ӕдат
+ipa: æˈdat
+tags: [n, loan, arabic]
+forms:
+  - text: ӕдат
+    gloss: abs
+  - text: ӕдате
+    gloss: pl
+definitions:
+  - translation:
+      en: custom
+      ru: обычай
+    aliases:
+      en: [tradition]

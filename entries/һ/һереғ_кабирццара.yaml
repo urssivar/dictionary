@@ -1,0 +1,16 @@
+headword: һереғ кабирццара
+ipa: heˌɾeʁ kabiɾˈtsːaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һереғ кабиццара
+    gloss: pfv
+  - text: һереғ кабиццур
+    gloss: pret
+  - text: һереғ кабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to support
+      ru: поддерживать, содействовать
+    aliases:
+      en: [facilitate]

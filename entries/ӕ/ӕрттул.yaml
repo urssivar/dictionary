@@ -1,0 +1,15 @@
+headword: ӕрттул
+ipa: æɾˈtːul
+tags: [n]
+forms:
+  - text: ӕрттул
+    gloss: abs
+  - text: ӕрттле
+    gloss: obl
+  - text: ӕрттлиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: thigh
+      ru: бедро
+    tags: [body]

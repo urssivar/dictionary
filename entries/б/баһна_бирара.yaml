@@ -1,0 +1,16 @@
+headword: баһна бирара
+ipa: bahˌna biˈɾaɾa
+tags: [v, cls, tr]
+forms:
+  - text: баһна барара
+    gloss: pfv
+  - text: баһна барив
+    gloss: pret
+  - text: баһна бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to accuse
+      ru: обвинять
+    examples:
+      - text: һелела бевкӏай и баһна варивде

@@ -1,0 +1,20 @@
+headword: ӕлда бирццара
+ipa: ˌælda biɾˈtsːaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: ӕлда биццара
+    gloss: pfv
+  - text: ӕлда бирццара
+    gloss: pret
+  - text: ӕлда бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to swing
+      ru: замахиваться
+    aliases:
+      en: [charge, prepare]
+    examples:
+      - text: ӕлда виццур хат цабӕҡив
+        translation:
+          en: swung his palm and

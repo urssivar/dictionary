@@ -1,0 +1,14 @@
+headword: барх цабирһора
+ipa: ˌbaɾχ tsabiɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: барх цабиһора
+    gloss: pfv
+  - text: барх цабиһӕв
+    gloss: pret
+  - text: барх цабирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to participate
+      ru: участвовать

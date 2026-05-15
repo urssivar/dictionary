@@ -1,0 +1,19 @@
+headword: биса һабиргара
+ipa: ˌbisːa biɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: биса бигара
+    gloss: pfv
+  - text: биса бижив
+    gloss: pret
+  - text: биса биргара
+    gloss: ipfv
+
+definitions:
+  - translation:
+      en: to burst into tears
+      ru: расплакаться
+    aliases:
+      en: [cry, weep]
+    examples:
+      - text: уцци вевчӏил рицци риса һарижив

@@ -1,0 +1,23 @@
+headword: алав һабирара
+ipa: aˌlaβ habiˈɾaɾa
+tags: [v, cls, tr]
+forms:
+  - text: һабарара
+    gloss: pfv
+  - text: һабарив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to envelop, to wrap
+      ru: окутывать, заворачивать
+    aliases:
+      en: [enclose, wrap]
+      ru: [обволакивать]
+    examples:
+      - text: Лузум алав һабара.
+        translation:
+          en: Wrap the dough.
+          ru: Заверни тесто.
+
+derived_from: [алав, бирара]

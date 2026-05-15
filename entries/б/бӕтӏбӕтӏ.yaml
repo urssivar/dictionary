@@ -1,0 +1,15 @@
+headword: бӕтӏбӕтӏ
+ipa: bætʼˈbætʼ
+tags: [n]
+note:
+  en: "*урдакк*"
+forms:
+  - text: бӕтӏбӕтӏ
+    gloss: abs
+  - text: бӕтӏбӕтӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: duck
+      ru: утка
+    tags: [bird, animal]

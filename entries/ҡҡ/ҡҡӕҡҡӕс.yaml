@@ -1,0 +1,15 @@
+headword: ҡҡӕҡҡӕс
+ipa: qːæˈqːæs
+tags: [n]
+note:
+  en: "*ҡҡяҡҡус*"
+forms:
+  - text: ҡҡӕҡҡӕс
+    gloss: abs
+  - text: ҡҡӕҡҡӕсе
+    gloss: pl
+definitions:
+  - translation:
+      en: hook
+      ru: крюк
+    tags: [tool]

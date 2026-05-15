@@ -1,0 +1,16 @@
+headword: ҡҡвӕрх
+ipa: ˈqːʷæɾχ
+tags: [n]
+note:
+  en: "*ҡҡялҡ*"
+forms:
+  - text: ҡҡвӕрх
+    gloss: abs
+  - text: ҡҡвӕрхне
+    gloss: pl
+definitions:
+  - translation:
+      en: swath
+      ru: прокос
+    aliases:
+      en: [row, line, range]

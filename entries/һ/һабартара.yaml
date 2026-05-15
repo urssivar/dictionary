@@ -1,0 +1,16 @@
+headword: һабартара
+ipa: habaɾˈtaɾa
+tags: [v, tr, cls]
+forms:
+  - text: һабатара
+    gloss: pfv
+  - text: һабатур
+    gloss: pret
+  - text: һабартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shove
+      ru: засовывать
+    aliases:
+      en: [put, in]

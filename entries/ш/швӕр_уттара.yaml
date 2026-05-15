@@ -1,0 +1,18 @@
+headword: швӕр уттара
+ipa: ˌʃʷæɾ uˈtːaɾa
+tags: [v, cls, ntr]
+note:
+  en: "*гур бикьора*"
+forms:
+  - text: швӕр берттара
+    gloss: pfv
+  - text: швӕр берттив
+    gloss: pret
+  - text: швӕр уттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dash
+      ru: проноситься
+    aliases:
+      en: [race, run]

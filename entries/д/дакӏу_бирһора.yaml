@@ -1,0 +1,14 @@
+headword: дакӏу бирһора
+ipa: daˌkʼu biɾˈhʷaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: дакӏу биһора
+    gloss: pfv
+  - text: дакӏу биһӕв
+    gloss: pret
+  - text: дакӏу бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to appear
+      ru: появляться

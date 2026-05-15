@@ -10,7 +10,7 @@ definitions:
     aliases:
       en: [cereals]
     examples:
-      - text: ьялла рисҡӏе
+      - text: һӕлла рисҡӏе
         translation:
           en: subsistence
           ru: пропитание

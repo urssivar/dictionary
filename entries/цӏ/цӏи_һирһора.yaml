@@ -1,0 +1,16 @@
+headword: цӏи һирһора
+ipa: ˌtsʼi hiɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: цӏи һабиһора
+    gloss: pfv
+  - text: цӏи һабиһӕв
+    gloss: pret
+  - text: цӏи һабирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to revive
+      ru: возрождаться
+    aliases:
+      en: [reborn, resurrect]

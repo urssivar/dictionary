@@ -1,0 +1,16 @@
+headword: кабилһана
+ipa: kabilˈhana
+tags: [v, tr, cls]
+forms:
+  - text: кабиһана
+    gloss: pfv
+  - text: кабиһун
+    gloss: pret
+  - text: кабилһана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tether
+      ru: привязывать
+    aliases:
+      en: [leash, tie]

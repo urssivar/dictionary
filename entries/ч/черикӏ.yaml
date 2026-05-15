@@ -10,9 +10,9 @@ definitions:
       en: [choosy, fussy]
       ru: [разборчивый, брезгливый]
     examples:
-      - text: Черикӏ уле суҡҡур бирьор.
+      - text: Черикӏ уле суҡҡур бирһор.
         translation:
           en: The fastidious eye goes blind.
           ru: Привиредлевый глаз ослепнет.
 
-derived_from: [чер ьабикӏара]
+derived_from: [чер һабикӏара]

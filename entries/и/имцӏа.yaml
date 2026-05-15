@@ -20,9 +20,9 @@ definitions:
     aliases:
       en: [major, main]
     examples:
-      - text: ьеж баццецци имцӏа гон миркне ди де
+      - text: һеж баццецци имцӏа гон миркне ди де
         translation:
           en: this months it was raining mostly
-      - text: имцӏа дяьне никӏна бирццул це, цацате бирццул акку
+      - text: имцӏа дӕһне никӏна бирццул це, цацате бирццул акку
         translation:
           en: the kids listen, mostly, but some do not

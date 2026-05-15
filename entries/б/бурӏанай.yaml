@@ -1,0 +1,20 @@
+headword: бурӏанай
+ipa: buɾʔaˈnaj
+tags: [n, vb]
+forms:
+  - text: бурӏанай
+    gloss: abs
+  - text: бурӏанайте
+    gloss: pl
+
+definitions:
+  - translation:
+      en: quagmire
+      ru: трясина
+    tags: [nature]
+    aliases:
+      en: [bog, swamp]
+      ru: [топь, болото]
+
+variants: [берӏла / берӏлан-]
+derived_from: [буӏара]

@@ -2,11 +2,11 @@ headword: ссеме
 ipa: ˈsːeme
 tags: [v, ntr, cls]
 forms:
-  - text: сабав биьора
+  - text: сабав биһора
     gloss: pfv
-  - text: сабав биьяв
+  - text: сабав биһӕв
     gloss: pret
-  - text: сабав бирьора
+  - text: сабав бирһора
     gloss: ipfv
 definitions:
   - translation:
@@ -15,6 +15,6 @@ definitions:
     aliases:
       en: [cure]
     examples:
-      - text: ьел шин сабав диьяв дами
+      - text: һел шин сабав диһӕв дами
         translation:
           en: that water healed me

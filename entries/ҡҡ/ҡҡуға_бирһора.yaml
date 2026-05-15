@@ -1,0 +1,16 @@
+headword: ҡҡуға бирһора
+ipa: ˌqːuʁa biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: ҡҡуға биһора
+    gloss: pfv
+  - text: ҡҡуға биһӕв
+    gloss: pret
+  - text: ҡҡуға бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rejoice
+      ru: радоваться
+    aliases:
+      en: [fun, joy]

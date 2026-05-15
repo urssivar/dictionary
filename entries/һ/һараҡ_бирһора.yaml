@@ -1,0 +1,15 @@
+headword: һараҡ бирһора
+ipa: haˌɾaq biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: биһора
+    gloss: pfv
+  - text: биһӕв
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to distance, to detach
+      ru: дистанцироваться, отделяться
+
+derived_from: [һараҡ, бирһора]

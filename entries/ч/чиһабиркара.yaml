@@ -1,0 +1,20 @@
+headword: чиһабиркара
+ipa: tʃihabiɾˈkaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: чиһабикара
+    gloss: pfv
+  - text: чиһабичив
+    gloss: pret
+  - text: чиһабиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to bother
+      ru: беспокоить
+    aliases:
+      en: [harass, interfere]
+    examples:
+      - text: шейтӏунте чиһадичив һелей
+        translation:
+          en: he's disgruntled

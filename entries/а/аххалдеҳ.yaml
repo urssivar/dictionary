@@ -10,7 +10,7 @@ definitions:
       en: [welcome]
       ru: [приём, радушие]
     examples:
-      - text: Ьелттал аххалдеҳ барьар.
+      - text: Ьелттал аххалдеҳ барһар.
         translation:
           en: They know hospitality.
           ru: Они знают гостеприимство.

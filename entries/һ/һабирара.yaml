@@ -1,0 +1,16 @@
+headword: һабирара
+ipa: habiˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: һабарара
+    gloss: pfv
+  - text: һабарив
+    gloss: pret
+  - text: һабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to put in
+      ru: закидывать
+    aliases:
+      en: [throw, add]

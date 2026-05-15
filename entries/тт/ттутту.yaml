@@ -14,6 +14,6 @@ definitions:
       ru: рот
     tags: [body]
     examples:
-      - text: "* ьабаҳан ттутту"
+      - text: "* һабаҳан ттутту"
         translation:
           en: gabber

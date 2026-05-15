@@ -1,0 +1,16 @@
+headword: курһара
+ipa: kuɾˈhaɾa
+tags: [v, tr]
+forms:
+  - text: каһара
+    gloss: pfv
+  - text: каһур
+    gloss: pret
+  - text: курһара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to string
+      ru: нанизывать
+    aliases:
+      en: [bead, thread]

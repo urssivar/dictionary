@@ -1,0 +1,16 @@
+headword: һеркирһора
+ipa: heɾkiɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һеркабиһора
+    gloss: pfv
+  - text: һеркабиһӕв
+    gloss: pret
+  - text: һеркабирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to thrive
+      ru: процветать, жить хорошо
+    aliases:
+      en: [prosper, live]

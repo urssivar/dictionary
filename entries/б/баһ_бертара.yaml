@@ -1,0 +1,18 @@
+headword: баһ бертара
+ipa: ˌbah beɾˈtaɾa
+tags: [v, cls, tr, ntr]
+forms:
+  - text: баһ бетара
+    gloss: pfv
+  - text: баһ бетур
+    gloss: pret
+  - text: баһ бертара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to undress
+      ru: раздеваться
+    aliases:
+      en: [take, "off"]
+    examples:
+      - text: Ваһ вете ваццара

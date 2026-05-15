@@ -1,0 +1,16 @@
+headword: нӕҡҡуй бурцара
+ipa: næˌqːuj buɾˈtsaɾa
+tags: [v, tr, cls]
+forms:
+  - text: нӕҡҡуй буцара
+    gloss: pfv
+  - text: нӕҡҡуй буцив
+    gloss: pret
+  - text: нӕҡҡуй бурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to take care of an animal
+      ru: ухаживать за животным
+    aliases:
+      en: [feed]

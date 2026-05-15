@@ -1,0 +1,16 @@
+headword: һиһ һабартара
+ipa: ˌhih habaɾˈtaɾa
+tags: [v, ntr]
+forms:
+  - text: һиһ һабатара
+    gloss: pfv
+  - text: һиһ һабатур
+    gloss: pret
+  - text: һиһ һабартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to take a break
+      ru: передыхать, делать перерыв
+    aliases:
+      en: [pause, rest]

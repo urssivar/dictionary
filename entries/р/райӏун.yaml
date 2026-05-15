@@ -1,0 +1,14 @@
+headword: райӏун
+ipa: ɾajˈʔun
+tags: [n, loan, russian]
+forms:
+  - text: райӏун
+    gloss: abs
+  - text: райӏунте
+    gloss: pl
+definitions:
+  - translation:
+      en: district
+      ru: район
+    aliases:
+      en: [area]

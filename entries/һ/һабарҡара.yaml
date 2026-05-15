@@ -1,0 +1,22 @@
+headword: һабарҡара
+ipa: habaɾˈqaɾa
+tags: [v, cls, tr]
+note:
+  en: "*ьабаҡа сар*"
+forms:
+  - text: һабаҡара
+    gloss: pfv
+  - text: һабаҡив
+    gloss: pret
+  - text: һабарҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cease
+      ru: прекращать
+    aliases:
+      en: [stop, rid, forskae]
+    examples:
+      - text: һадаҡа һелтти пишне
+        translation:
+          en: cease these actions

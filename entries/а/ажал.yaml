@@ -11,7 +11,7 @@ definitions:
       en: [death, fate, demise]
       ru: [смерть, судьба, кончина]
     examples:
-      - text: И ажалли вяҡ!
+      - text: И ажалли вӕҡ!
         translation:
           en: May you die!
           ru: Чтоб ты сдох!

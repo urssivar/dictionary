@@ -1,0 +1,18 @@
+headword: чер һабикӏара
+ipa: ˌtʃeɾ habiˈkʼaɾa
+tags: [v, tr, cls]
+forms:
+  - text: чер һабакӏара
+    gloss: pfv
+  - text: чер һабачӏив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to elect
+      ru: избирать
+    aliases:
+      en: [select]
+      ru: [выбирать]
+
+variants: [черикӏла бирара]

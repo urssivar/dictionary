@@ -1,0 +1,16 @@
+headword: хабар һурсара
+ipa: χaˌbaɾ huɾˈsaɾa
+tags: [v, tr, loan]
+forms:
+  - text: хабар һасара
+    gloss: pfv
+  - text: хабар һасив
+    gloss: pret
+  - text: хабар һурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to inquire
+      ru: расспрашивать, узнавать
+    aliases:
+      en: [question, ask]

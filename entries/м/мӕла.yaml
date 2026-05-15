@@ -1,0 +1,19 @@
+headword: мӕла
+ipa: ˈmæla
+tags: [n]
+note:
+  en: "*меъле*"
+forms:
+  - text: мӕла
+    gloss: abs
+  - text: мӕлбе
+    gloss: pl
+definitions:
+  - translation:
+      en: window
+      ru: окно
+    tags: [house]
+    examples:
+      - text: мӕлала бур
+        translation:
+          en: windowsill

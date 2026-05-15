@@ -1,0 +1,16 @@
+headword: ҡуртӏ һурғара
+ipa: ˌquɾtʼ huɾˈʁaɾa
+tags: [v, tr]
+forms:
+  - text: ҡуртӏ һағара
+    gloss: pfv
+  - text: ҡуртӏ һағив
+    gloss: pret
+  - text: ҡуртӏ һурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to regurgitate
+      ru: срыгивать
+    aliases:
+      en: [burp, vomit]

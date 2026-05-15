@@ -1,0 +1,20 @@
+headword: чибирһора
+ipa: tʃibiɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: чибиһора
+    gloss: pfv
+  - text: чибиһӕв
+    gloss: pret
+  - text: чибирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fight
+      ru: драться
+    aliases:
+      en: [brawl]
+    examples:
+      - text: хвӕ чибиһӕв дуццил
+        translation:
+          en: the dog fought me

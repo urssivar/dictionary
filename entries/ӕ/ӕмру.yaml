@@ -1,0 +1,30 @@
+headword: ӕмру
+ipa: ˈæmɾu
+tags: [n, loan, arabic]
+etymology:
+  en: "*янру*"
+forms:
+  - text: ӕмру
+    gloss: abs
+  - text: ӕмрул
+    gloss: obl
+definitions:
+  - translation:
+      en: age
+      ru: возраст
+    aliases:
+      en: [living]
+    examples:
+      - text: ӕмрулцци веғив
+        translation:
+          en: elderly
+  - translation:
+      en: life
+      ru: жизнь
+    examples:
+      - text: ӕмру деччив
+        translation:
+          en: lived long
+      - text: ӕмру деркӏора
+        translation:
+          en: to spend life

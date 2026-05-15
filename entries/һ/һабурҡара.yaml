@@ -1,0 +1,18 @@
+headword: һабурҡара
+ipa: habuɾˈqaɾa
+tags: [v, cls, tr]
+forms:
+  - text: һабӕҡара
+    gloss: "?"
+  - text: һабӕҡив
+    gloss: "?"
+  - text: һабурҡара
+    gloss: "?"
+definitions:
+  - translation:
+      en: to kick
+      ru: пинать
+    examples:
+      - text: туп һабӕҡа
+        translation:
+          en: kick the ball

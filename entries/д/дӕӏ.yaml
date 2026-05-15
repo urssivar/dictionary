@@ -1,0 +1,25 @@
+headword: дӕӏ
+ipa: ˈdæʔ
+tags: [n]
+forms:
+  - text: дӕӏ
+    gloss: abs
+  - text: дӕӏӕ
+    gloss: obl
+  - text: дӕӏре
+    gloss: pl
+definitions:
+  - translation:
+      en: face
+      ru: лицо
+    tags: [body]
+    examples:
+      - text: дӕӏӕцци дуҡана
+        translation:
+          en: say it to one's face
+      - text: дӕӏӕцци чиһара
+        translation:
+          en: to nourish
+      - text: дӕӏ лус дирул акку
+        translation:
+          en: pays no attention

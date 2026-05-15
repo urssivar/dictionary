@@ -3,19 +3,25 @@ ipa: ˈqʼal
 tags: [intj]
 
 definitions:
-    translation:
+  - translation:
       en: surely
       ru: ведь
     aliases:
       en: [of, course, indeed]
-  - note:
+  - translation:
+      en: ""
+      ru: ""
+    note:
       en: Expresses assurance.
+      ru: ""
     examples:
-      - text: вярунда кӏал
+      - text: вӕрунда кӏал
         translation:
           en: surely i went
-      - text: ьел ҡӏал
+          ru: ""
+      - text: һел ҡӏал
         translation:
           en: this is indeed
+          ru: ""
 
 variants: [ал, ҡӏали]

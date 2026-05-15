@@ -1,0 +1,19 @@
+headword: автт һабиркара
+ipa: ˌaβtː habiɾˈkaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һабикара
+    gloss: pfv
+  - text: һабичив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to quarrel
+      ru: враждовать
+    tags: [feeling]
+    aliases:
+      en: [to feud, to conflict]
+      ru: [конфликтовать, ссориться]
+
+derived_from: [автт, биркара]

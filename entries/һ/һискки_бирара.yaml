@@ -1,0 +1,20 @@
+headword: һискки бирара
+ipa: hisˌkːi biˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: һискки барара
+    gloss: pfv
+  - text: һискки барив
+    gloss: pret
+  - text: һискки бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to set on
+      ru: натравливать
+    aliases:
+      en: [pit]
+    examples:
+      - text: һелей хвӕ һискки барив
+        translation:
+          en: set the don on him

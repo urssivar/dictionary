@@ -1,0 +1,18 @@
+headword: бус калһана
+ipa: ˌbus kalˈhana
+tags: [v, ntr, cls]
+etymology:
+  en: The first part is the root of *бусана* "to sleep".
+forms:
+  - text: бус каһана
+    gloss: pfv
+  - text: бус каһун
+    gloss: pret
+  - text: бус калһана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fall asleep
+      ru: засыпать
+    examples:
+      - text: аххал ҳулум рус каһун

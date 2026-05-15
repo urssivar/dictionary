@@ -1,0 +1,16 @@
+headword: риштӕһ биргара
+ipa: ɾiʃˌtæh biɾˈgaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: риштӕһ бигара
+    gloss: pfv
+  - text: риштӕһ бижив
+    gloss: pret
+  - text: риштӕһ биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to leap
+      ru: делать рывок
+    aliases:
+      en: [jump, dash]

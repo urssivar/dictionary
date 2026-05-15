@@ -1,0 +1,14 @@
+headword: цӏирцӏир һабиргара
+ipa: tsʼiɾˌtsʼiɾ habiɾˈgaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: цӏирцӏир һабигара
+    gloss: pfv
+  - text: цӏирцӏир һабижив
+    gloss: pret
+  - text: цӏирцӏир һабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to overflow with liquid
+      ru: переполняться жидкостью

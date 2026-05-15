@@ -1,0 +1,16 @@
+headword: пӕш биргара
+ipa: ˌpæʃ biɾˈgaɾa
+tags: [v, ntr, cls]
+note:
+  en: "*шяш ~*"
+forms:
+  - text: пӕш бигара
+    gloss: pfv
+  - text: пӕш бижив
+    gloss: pret
+  - text: пӕш биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hiss
+      ru: шипеть

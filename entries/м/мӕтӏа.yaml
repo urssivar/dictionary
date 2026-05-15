@@ -1,0 +1,18 @@
+headword: мӕтӏа
+ipa: ˈmætʼa
+tags: [n]
+note:
+  en: "*кьаць*"
+forms:
+  - text: мӕтӏа
+    gloss: abs
+  - text: мӕтӏан
+    gloss: obl
+  - text: мӕтӏре
+    gloss: pl
+definitions:
+  - translation:
+      en: scrap
+      ru: клочок
+    aliases:
+      en: [blob, mass, clot]

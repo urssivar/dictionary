@@ -1,0 +1,12 @@
+headword: маӏ
+ipa: ˈmaʔ
+tags: [n]
+definitions:
+  - translation:
+      en: brain
+      ru: мозг
+    tags: [body]
+    examples:
+      - text: ликканла маӏ
+        translation:
+          en: marrow

@@ -1,0 +1,15 @@
+headword: чӕриҡҡ
+ipa: tʃæˈɾiqː
+tags: [n, loan]
+forms:
+  - text: чӕриҡҡ
+    gloss: abs
+  - text: чӕриҡҡе
+    gloss: pl
+definitions:
+  - translation:
+      en: charyk
+      ru: чарык
+    tags: [clothing]
+    aliases:
+      en: [boot]

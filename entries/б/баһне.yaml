@@ -1,0 +1,16 @@
+headword: баһне
+ipa: ˈbahne
+tags: [n, vb]
+forms:
+  - text: баһнел
+    gloss: obl
+
+definitions:
+  - translation:
+      en: info
+      ru: информация
+    aliases:
+      en: [data]
+      ru: [данные]
+
+derived_from: [барһара]

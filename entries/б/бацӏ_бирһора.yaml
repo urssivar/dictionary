@@ -1,0 +1,18 @@
+headword: бацӏ бирһора
+ipa: ˌbatsʼ biɾˈhʷaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: бацӏ биһора
+    gloss: pfv
+  - text: бацӏ биһӕв
+    gloss: pret
+  - text: бацӏ бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: пустеть
+    examples:
+      - text: Дӕһне аккол ҡале бацӏ биһӕв.
+  - translation:
+      en: to have a miscarriage
+      ru: иметь выкидыш

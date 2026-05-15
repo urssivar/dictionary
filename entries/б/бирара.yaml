@@ -15,8 +15,8 @@ definitions:
     aliases:
       en: [implement]
     examples:
-      - text: аттала риццил ца яь бицци хурег барив ҡӏал
-      - text: дул иранил бара, цӏил вя
+      - text: аттала риццил ца ӕһ бицци хурег барив ҡӏал
+      - text: дул иранил бара, цӏил вӕ
   - translation:
       en: to create, to birth
       ru: создавать, рожать
@@ -24,4 +24,4 @@ definitions:
       en: [make]
     examples:
       - text: рирси са дучче рарив
-      - text: нисала усттул ьел усттал дарив
+      - text: нисала усттул һел усттал дарив

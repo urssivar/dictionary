@@ -1,0 +1,16 @@
+headword: һабирццара
+ipa: habiɾˈtsːaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һабиццара
+    gloss: pfv
+  - text: һабиццур
+    gloss: pret
+  - text: һабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get up
+      ru: вставать
+    aliases:
+      en: [stand, rise]

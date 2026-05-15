@@ -1,0 +1,22 @@
+headword: һел дирара
+ipa: ˌhel diˈɾaɾa
+tags: [v, ntr]
+note:
+  en: Frozen class
+forms:
+  - text: һел дарара
+    gloss: pfv
+  - text: һел дарив
+    gloss: pret
+  - text: һел дирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pretend
+      ru: притворяться
+    aliases:
+      en: [play]
+    examples:
+      - text: авдалла һел дарив
+        translation:
+          en: played dumb

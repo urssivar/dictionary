@@ -1,0 +1,19 @@
+headword: һерко
+ipa: ˈheɾkʷa
+tags: [n, vb]
+note:
+  en: "*биҡре*"
+forms:
+  - text: һерко
+    gloss: abs
+  - text: һеркон
+    gloss: obl
+  - text: һеркне
+    gloss: pl
+definitions:
+  - translation:
+      en: snack
+      ru: закуска
+    tags: [food]
+    aliases:
+      en: [lunch]

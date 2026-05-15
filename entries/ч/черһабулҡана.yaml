@@ -1,0 +1,16 @@
+headword: черһабулҡана
+ipa: tʃeɾhabulˈqana
+tags: [v, cls, ntr]
+forms:
+  - text: черһабуҡана
+    gloss: pfv
+  - text: черһабуҡун
+    gloss: pret
+  - text: черһабулҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sprout
+      ru: прорастать
+    aliases:
+      en: [emerge, grow]

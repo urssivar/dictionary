@@ -1,0 +1,23 @@
+headword: һаручара
+ipa: haɾuˈtʃaɾa
+tags: [v, cls, tr]
+note:
+  en: "*ьаберчара*"
+forms:
+  - text: һабарчара
+    gloss: pfv
+  - text: һабарчур
+    gloss: pret
+  - text: һаручара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to wind up
+      ru: наматывать
+    aliases:
+      en: [coil]
+  - translation:
+      en: to ruffle
+      ru: лохматить
+    aliases:
+      en: [dishever, rough]

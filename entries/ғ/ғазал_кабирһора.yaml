@@ -1,0 +1,16 @@
+headword: ғазал кабирһора
+ipa: ˌʁazal kabiɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: ғазал кабиһора
+    gloss: pfv
+  - text: ғазал кабиһӕв
+    gloss: pret
+  - text: ғазал кабирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to struggle
+      ru: бороться
+    aliases:
+      en: [fight]

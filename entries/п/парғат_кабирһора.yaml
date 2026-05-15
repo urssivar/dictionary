@@ -1,0 +1,18 @@
+headword: парғат кабирһора
+ipa: paɾˌʁat kabiɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: парғат кабиһора
+    gloss: pfv
+  - text: парғат кабиһӕв
+    gloss: pret
+  - text: парғат кабирһора
+    gloss: ipfv
+definitions:
+  - note:
+      en: To die in bed, of disease or old age.
+    translation:
+      en: to pass away
+      ru: упокоиться
+    aliases:
+      en: [die]

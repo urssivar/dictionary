@@ -1,0 +1,16 @@
+headword: цӕлхана
+ipa: tsælˈχana
+tags: [v, cls, tr]
+forms:
+  - text: цабӕхана
+    gloss: pfv
+  - text: цабӕхун
+    gloss: pret
+  - text: цабӕлхана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to let in
+      ru: впускать
+    aliases:
+      en: [admit]

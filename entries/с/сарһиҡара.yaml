@@ -1,0 +1,16 @@
+headword: сарһиҡара
+ipa: saɾhiˈqaɾa
+tags: [v, tr]
+forms:
+  - text: сарһаҡара
+    gloss: pfv
+  - text: сарһаҡив
+    gloss: pret
+  - text: сарһиҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to guide
+      ru: руководить
+    aliases:
+      en: [host, lead]

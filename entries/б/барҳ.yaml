@@ -19,6 +19,6 @@ definitions:
     aliases:
       en: [correct, "true"]
     examples:
-      - text: ьел барҳле це
+      - text: һел барҳле це
         translation:
           en: that's right

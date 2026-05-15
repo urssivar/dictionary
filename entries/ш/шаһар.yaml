@@ -1,0 +1,14 @@
+headword: шаһар
+ipa: ʃaˈhaɾ
+tags: [n, loan]
+forms:
+  - text: шаһар
+    gloss: abs
+  - text: шаһарте
+    gloss: pl
+definitions:
+  - translation:
+      en: city
+      ru: город
+    aliases:
+      en: [town]

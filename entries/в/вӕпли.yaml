@@ -1,0 +1,14 @@
+headword: вӕпли
+ipa: ˈβæpli
+tags: [n, loan, russian]
+forms:
+  - text: вӕпли
+    gloss: abs
+  - text: вӕплибе
+    gloss: pl
+definitions:
+  - translation:
+      en: wafer
+      ru: вафли
+    aliases:
+      en: [waffles]

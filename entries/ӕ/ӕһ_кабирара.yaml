@@ -1,0 +1,16 @@
+headword: ӕһ кабирара
+ipa: ˌæh kabiˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: ӕһ кабарара
+    gloss: pfv
+  - text: ӕһ кабарив
+    gloss: pret
+  - text: ӕһ кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to improve
+      ru: улучшать
+    aliases:
+      en: [better]

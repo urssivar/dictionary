@@ -1,0 +1,16 @@
+headword: чиһабирццара
+ipa: tʃihabiɾˈtsːaɾa
+tags: [v, tr, cls]
+forms:
+  - text: чиһабиццара
+    gloss: pfv
+  - text: чиһабиццур
+    gloss: pret
+  - text: чиһабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to place
+      ru: располагать
+    aliases:
+      en: [put]

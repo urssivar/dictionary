@@ -1,0 +1,16 @@
+headword: ппӕрҡ биргара
+ipa: ˌpːæɾq biɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: ппӕрҡ бигара
+    gloss: pfv
+  - text: ппӕрҡ бижив
+    gloss: pret
+  - text: ппӕрҡ биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fly off
+      ru: отлетать
+    aliases:
+      en: [split, separate]

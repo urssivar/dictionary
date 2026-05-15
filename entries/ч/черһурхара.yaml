@@ -1,0 +1,16 @@
+headword: черһурхара
+ipa: tʃeɾhuɾˈχaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: черһерхора
+    gloss: pfv
+  - text: черһерхур
+    gloss: pret
+  - text: черһурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pass away
+      ru: скончаться
+    aliases:
+      en: [die]

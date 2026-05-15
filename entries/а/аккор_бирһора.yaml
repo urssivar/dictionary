@@ -1,0 +1,23 @@
+headword: аккор бирһора
+ipa: aˌkːʷaɾ biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: биһора
+    gloss: pfv
+  - text: биһӕв
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to go extinct
+      ru: вымирать
+    aliases:
+      en: [die out, disappear, vanish]
+      ru: [исчезать, пропадать, уходить]
+    examples:
+      - text: Дуццан бицӏе аккор диһӕв.
+        translation:
+          en: Wolves went extinct in the forest.
+          ru: В лесу вымерли волки.
+
+derived_from: [аккор, бирһора]

@@ -1,0 +1,14 @@
+headword: паһлигон
+ipa: pahliˈgʷan
+tags: [n, loan, persian]
+forms:
+  - text: паһлигон
+    gloss: abs
+  - text: паһлигонте
+    gloss: pl
+definitions:
+  - translation:
+      en: ropewaler
+      ru: канатоходец
+    aliases:
+      en: [cascadeur]

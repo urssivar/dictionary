@@ -1,0 +1,16 @@
+headword: вӕж һиҡӏара
+ipa: ˌβæʒ hiˈqʼaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: вӕж һаҡӏара
+    gloss: pfv
+  - text: вӕж һаҡӏив
+    gloss: pret
+  - text: вӕж һиҡӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to strew
+      ru: посыпать
+    aliases:
+      en: [sprinkle, dredge]

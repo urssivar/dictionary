@@ -1,0 +1,16 @@
+headword: ваһиз
+ipa: βaˈhiz
+tags: [n]
+note:
+  en: "*унць*"
+forms:
+  - text: ваһиз
+    gloss: abs
+  - text: ваһизе
+    gloss: pl
+definitions:
+  - translation:
+      en: godet
+      ru: клин
+    aliases:
+      en: [wedge, segment]

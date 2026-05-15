@@ -1,0 +1,15 @@
+headword: ҡҡвӕна
+ipa: ˈqːʷæna
+tags: [n]
+forms:
+  - text: ҡҡвӕна
+    gloss: abs
+  - text: ҡҡвӕнбе
+    gloss: pl
+definitions:
+  - translation:
+      en: raven
+      ru: ворон
+    tags: [animal, bird]
+    aliases:
+      en: [crow]

@@ -1,0 +1,16 @@
+headword: чиһабулҡана
+ipa: tʃihabulˈqana
+tags: [v, ntr, cls]
+forms:
+  - text: чиһабуҡана
+    gloss: pfv
+  - text: чиһабуҡун
+    gloss: pret
+  - text: чиһабулҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rage
+      ru: гневаться
+    aliases:
+      en: [fury]

@@ -1,0 +1,14 @@
+headword: гумцӕна
+ipa: gumtsæˈna
+tags: [v, cls, ntr]
+forms:
+  - text: гумцӕбун
+    gloss: pret
+  - text: гумцӕна
+    gloss: pfv
+definitions:
+  - translation:
+      en: to yield
+      ru: сдаваться, капитулировать
+    aliases:
+      en: [give, capitulate]

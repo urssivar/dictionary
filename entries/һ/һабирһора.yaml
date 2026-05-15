@@ -1,0 +1,25 @@
+headword: һабирһора
+ipa: habiɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һабиһора
+    gloss: pfv
+  - text: һабиһӕв
+    gloss: pret
+  - text: һабирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to originate
+      ru: происходить
+    aliases:
+      en: [hail]
+    examples:
+      - text: исттаккнала һариһӕв
+        translation:
+          en: she originated from the norble women
+  - translation:
+      en: to war
+      ru: воевать
+    aliases:
+      en: [fight, battle]

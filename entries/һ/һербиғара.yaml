@@ -1,0 +1,16 @@
+headword: һербиғара
+ipa: heɾbiˈʁaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һербеғара
+    gloss: pfv
+  - text: һербеғив
+    gloss: pret
+  - text: һербиғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to catch up
+      ru: догонять
+    aliases:
+      en: [run, down]

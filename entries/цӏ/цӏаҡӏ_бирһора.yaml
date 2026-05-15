@@ -1,0 +1,16 @@
+headword: цӏаҡӏ бирһора
+ipa: ˌtsʼaqʼ biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: цӏаҡӏ биһора
+    gloss: pfv
+  - text: цӏаҡӏ биһӕв
+    gloss: pret
+  - text: цӏаҡӏ бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to intensify
+      ru: усиливаться
+    aliases:
+      en: [grow]

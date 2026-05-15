@@ -1,0 +1,18 @@
+headword: таман бирһора
+ipa: taˌman biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: таман биһора
+    gloss: pfv
+  - text: таман биһӕв
+    gloss: pret
+  - text: таман бирһора
+    gloss: ipfv
+definitions:
+  - note:
+      en: To die after disease.
+    translation:
+      en: to succumb
+      ru: скончаться
+    aliases:
+      en: [die]

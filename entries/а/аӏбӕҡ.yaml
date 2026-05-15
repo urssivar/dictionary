@@ -1,0 +1,18 @@
+headword: аӏбӕҡ
+ipa: аʔbæq
+tags: [n]
+forms:
+  - text: аӏбӕҡе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: bungler, inept
+      ru: растяпа, неумеха
+    examples:
+      - text: Аӏбӕҡли дӕӏ ттуғ дарил велле бицӏал мӕрцца дуҡҡив.
+        translation:
+          en: While the bungler was staring, the wolves carried off the sheep.
+          ru: Пока растяпа таращился волки унесли овец.
+
+derived_from: [аӏ]

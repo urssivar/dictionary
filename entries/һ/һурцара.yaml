@@ -1,0 +1,14 @@
+headword: һурцара
+ipa: huɾˈtsaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һарцара
+    gloss: pfv
+  - text: һарцур
+    gloss: pret
+  - text: һурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fly
+      ru: лететь

@@ -1,0 +1,16 @@
+headword: ҡҡим һабиргара
+ipa: ˌqːim habiɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: ҡҡим һабигара
+    gloss: pfv
+  - text: ҡҡим һабижив
+    gloss: pret
+  - text: ҡҡим һабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to twist
+      ru: закручиваться
+    aliases:
+      en: [curve, bend]

@@ -1,0 +1,16 @@
+headword: чикабирһора
+ipa: tʃikabiɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: чикабиһора
+    gloss: pfv
+  - text: чикабиһӕв
+    gloss: pret
+  - text: чикабирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to begin
+      ru: начинаться
+    aliases:
+      en: [start]

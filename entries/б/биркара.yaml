@@ -15,14 +15,14 @@ definitions:
     aliases:
       en: [get]
     examples:
-      - text: ьелей яь ҳулум ричив
-      - text: цӏидеҳ дицил дами яь арц дичив 
+      - text: һелей ӕһ ҳулум ричив
+      - text: цӏидеҳ дицил дами ӕһ арц дичив
   - translation:
       en: to occur
       ru: наступать, оказываться
     aliases:
       en: [turn, arrive]
     examples:
-      - text: сяят швел дичил це
+      - text: сӕӕт швел дичил це
         translation:
           en: it's 5 o'clock already

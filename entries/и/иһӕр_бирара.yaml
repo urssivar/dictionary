@@ -1,0 +1,16 @@
+headword: иһӕр бирара
+ipa: iˌhæɾ biˈɾaɾa
+tags: [v, cls, tr]
+forms:
+  - text: иһӕр барара
+    gloss: pfv
+  - text: иһӕр барив
+    gloss: pret
+  - text: иһӕр бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cherish
+      ru: ценить
+    aliases:
+      en: [nourish]

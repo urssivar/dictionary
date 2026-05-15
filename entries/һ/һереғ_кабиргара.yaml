@@ -1,0 +1,16 @@
+headword: һереғ кабиргара
+ipa: heˌɾeʁ kabiɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һереғ кабигара
+    gloss: pfv
+  - text: һереғ кабижив
+    gloss: pret
+  - text: һереғ кабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to expect
+      ru: ожидать
+    aliases:
+      en: [wait, anticipate]

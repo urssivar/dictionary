@@ -1,0 +1,16 @@
+headword: һирцӏара
+ipa: hiɾˈtsʼaɾa
+tags: [v, tr, cls]
+forms:
+  - text: һицӏара
+    gloss: pfv
+  - text: һицӏив
+    gloss: pret
+  - text: һирцӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to scoop
+      ru: черпать
+    aliases:
+      en: [draw, ladle]

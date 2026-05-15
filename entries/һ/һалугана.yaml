@@ -1,0 +1,16 @@
+headword: һалугана
+ipa: haluˈgana
+tags: [v, tr, cls]
+forms:
+  - text: һабалгана
+    gloss: pfv
+  - text: һабалгун
+    gloss: pret
+  - text: һалугана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to disrupt
+      ru: нарушать
+    aliases:
+      en: [break]

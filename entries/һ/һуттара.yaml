@@ -1,0 +1,16 @@
+headword: һуттара
+ipa: huˈtːaɾa
+tags: [v, cls, tr]
+forms:
+  - text: һаберттара
+    gloss: pfv
+  - text: һаберттив
+    gloss: pret
+  - text: һуттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to demount
+      ru: демонтировать
+    aliases:
+      en: [apart, disassemble, dismantle]

@@ -1,0 +1,16 @@
+headword: сарбирһора
+ipa: saɾbiɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: сарбиһора
+    gloss: pfv
+  - text: сарбиһӕв
+    gloss: pret
+  - text: сарбирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to run away
+      ru: убегать
+    aliases:
+      en: [escape, flee]

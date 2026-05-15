@@ -1,0 +1,14 @@
+headword: ӕзав куркӏара
+ipa: æˌzaβ kuɾˈkʼaɾa
+tags: [v, cls, tr]
+forms:
+  - text: ӕзав каберкӏора
+    gloss: pfv
+  - text: ӕзав каберчӏив
+    gloss: pret
+  - text: ӕзав карукӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to torture
+      ru: пытать

@@ -13,7 +13,7 @@ definitions:
       en: [rest]
       ru: [отдых]
     examples:
-      - text: Вя, аттих бара.
+      - text: Вӕ, аттих бара.
         translation:
           en: Go, have a break.
           ru: Иди, сделай паузу.

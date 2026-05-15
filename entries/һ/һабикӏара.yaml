@@ -1,0 +1,16 @@
+headword: һабикӏара
+ipa: habiˈkʼaɾa
+tags: [v, cls, tr]
+forms:
+  - text: һабакӏара
+    gloss: abs
+  - text: һабачӏив
+    gloss: pret
+  - text: һабикӏара
+    gloss: pl
+definitions:
+  - translation:
+      en: to shove in
+      ru: всовывать
+    aliases:
+      en: [cram, thrust, push]

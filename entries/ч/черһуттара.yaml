@@ -1,0 +1,16 @@
+headword: черһуттара
+ipa: tʃeɾˈhutːaɾa
+tags: [v, tr, cls]
+forms:
+  - text: черһаберттара
+    gloss: pfv
+  - text: черһаберттив
+    gloss: pret
+  - text: черһуттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tear away
+      ru: срывать
+    aliases:
+      en: [pluck]

@@ -1,0 +1,14 @@
+headword: дӕӏӕ бурхара
+ipa: dæˌʔæ buɾˈχaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: дӕӏӕ берхора
+    gloss: pfv
+  - text: дӕӏӕ берхур
+    gloss: pret
+  - text: дӕӏӕ бурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to rampage
+      ru: буйствовать

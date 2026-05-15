@@ -1,0 +1,16 @@
+headword: һабиргара
+ipa: habiɾˈgaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: һабигара
+    gloss: pfv
+  - text: һабижив
+    gloss: pret
+  - text: һабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to perch
+      ru: сидеть на насесте
+    aliases:
+      en: [hold, sit, rest, land]

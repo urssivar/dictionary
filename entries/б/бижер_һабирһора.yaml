@@ -1,0 +1,16 @@
+headword: бижер һабирһора
+ipa: biˌʒeɾ habiɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: бижер һабиһора
+    gloss: pfv
+  - text: бижер һабиһӕв
+    gloss: pret
+  - text: бижер һабирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dive
+      ru: нырять
+    aliases:
+      en: [immerse, plunge]

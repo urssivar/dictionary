@@ -19,17 +19,17 @@ definitions:
       en: to catch
       ru: ловить
     examples:
-      - text: аттацци варх бялиҡҡе дурцаде
+      - text: аттацци варх бӕлиҡҡе дурцаде
   - translation:
       en: hire
     examples:
-      - text: устта урцанда бяъруме чидяҡяра
+      - text: устта урцанда бӕӏруме чидӕҡӕра
   - translation:
       en: to bear
       ru: переносить, выдерживать
     aliases:
       en: [tolerate, endure]
     examples:
-      - text: буцӏаре буцара авирьул
+      - text: буцӏаре буцара авирһул
         translation:
           en: can't bear cold weather

@@ -1,0 +1,16 @@
+headword: чиһиҡара
+ipa: tʃihiˈqaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: чиһаҡара
+    gloss: pfv
+  - text: чиһаҡив
+    gloss: pret
+  - text: чиһиҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to suffice
+      ru: быть достаточным
+    aliases:
+      en: [enough]

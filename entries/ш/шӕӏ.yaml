@@ -1,0 +1,16 @@
+headword: шӕӏ
+ipa: ˈʃæʔ
+tags: [n]
+forms:
+  - text: шӕӏ
+    gloss: abs
+  - text: шӕӏӕн
+    gloss: obl
+  - text: шӕӏбе
+    gloss: pl
+definitions:
+  - translation:
+      en: coal lump
+      ru: уголёк
+    aliases:
+      en: [soot]

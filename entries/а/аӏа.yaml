@@ -1,0 +1,18 @@
+headword: аӏа
+ipa: ˈaʔa
+tags: [intj]
+
+definitions:
+  - translation:
+      en: "no"
+      ru: нет
+    aliases:
+      en: [nope]
+      ru: [неа]
+    examples:
+      - text: И ҡил де у? Аӏа, аккоде.
+        translation:
+          en: Are you home? No, I'm not.
+          ru: Ты дома? Нет, меня нет.
+
+variants: [уӏу]

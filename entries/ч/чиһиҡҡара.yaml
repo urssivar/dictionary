@@ -1,0 +1,16 @@
+headword: чиһиҡҡара
+ipa: tʃihiˈqːaɾa
+tags: [v, tr]
+forms:
+  - text: чиһаҡҡара
+    gloss: pfv
+  - text: чиһаҡҡив
+    gloss: pret
+  - text: чиһиҡҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to transplant
+      ru: пересаживать
+    aliases:
+      en: [replant]

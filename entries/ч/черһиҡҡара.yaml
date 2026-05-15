@@ -1,0 +1,16 @@
+headword: черһиҡҡара
+ipa: tʃeɾhiˈqːaɾa
+tags: [v, tr]
+forms:
+  - text: черһаҡҡара
+    gloss: pfv
+  - text: черһаҡҡив
+    gloss: pret
+  - text: черһиҡҡара
+    gloss: ifpv
+definitions:
+  - translation:
+      en: to cancel
+      ru: отменять
+    aliases:
+      en: [withdraw, halt, cease]

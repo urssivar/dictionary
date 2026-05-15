@@ -1,0 +1,16 @@
+headword: һулғана
+ipa: hulˈʁana
+tags: [v, tr]
+forms:
+  - text: һалғана
+    gloss: pfv
+  - text: һалғун
+    gloss: pret
+  - text: һулғана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shut away
+      ru: запирать
+    aliases:
+      en: [close, lock]

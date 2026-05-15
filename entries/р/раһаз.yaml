@@ -1,0 +1,13 @@
+headword: раһаз
+ipa: ɾaˈhaz
+tags: [n, loan]
+forms:
+  - text: раһаз
+    gloss: abs
+  - text: раһазе
+    gloss: pl
+definitions:
+  - translation:
+      en: chain
+      ru: цепь
+    tags: [tool]

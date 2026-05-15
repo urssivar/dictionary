@@ -1,0 +1,14 @@
+headword: ғвӕр бирара
+ipa: ˌʁʷæɾ biˈɾaɾa
+tags: [v, cls, tr]
+forms:
+  - text: ғвӕр барара
+    gloss: pfv
+  - text: ғвӕр барив
+    gloss: pret
+  - text: ғвӕр бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to scratch
+      ru: царапать

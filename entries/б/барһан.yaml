@@ -1,0 +1,21 @@
+headword: барһан
+ipa: baɾˈhan
+tags: [n, vb, cls]
+etymology:
+  en: Oblg. of *барьара* "to know".
+forms:
+  - text: барһан
+    gloss: abs
+  - text: барһанил
+    gloss: obl
+  - text: барһанте
+    gloss: pl
+definitions:
+  - translation:
+      en: familiar
+      ru: знакомый
+    tags: []
+    aliases:
+      en: [friend, contact]
+    examples:
+      - text: һел дӕрһӕ дила варһан це

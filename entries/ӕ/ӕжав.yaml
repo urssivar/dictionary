@@ -1,0 +1,22 @@
+headword: ӕжав
+ipa: æˈʒaβ
+tags: [adj, det, loan]
+definitions:
+  - translation:
+      en: peculiar
+      ru: странный, необычный
+    aliases:
+      en: [strange, unusual]
+    examples:
+      - text: ӕжав хабар би ҡӏал
+        translation:
+          en: what a story
+  - translation:
+      en: such
+      ru: такой
+    aliases:
+      en: [so, very]
+    examples:
+      - text: ӕжав музи ҡӕр
+        translation:
+          en: such a sweet pear

@@ -1,0 +1,16 @@
+headword: һаттера
+ipa: haˈtːeɾa
+tags: [adv]
+
+definitions:
+  - translation:
+      en: more
+      ru: более
+    aliases:
+      en: [better, greater]
+      ru: [лучше, больше]
+    examples:
+      - text: Ьештти һаттера бицците це.
+        translation:
+          en: These are even more tasty.
+          ru: Эти ещё более вкусные.

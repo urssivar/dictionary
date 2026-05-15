@@ -1,0 +1,25 @@
+headword: бурӏара
+ipa: buɾˈʔaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: бӕрӏӕра
+    gloss: pfv
+  - text: бӕрӏив
+    gloss: pret
+  - text: бурӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cool down
+      ru: остывать
+    aliases:
+      en: [chill, flue]
+    examples:
+      - text: ӕшакк ттура буссӕӕт бурӏанне
+  - translation:
+      en: to catch a cold
+      ru: простывать
+    aliases:
+      en: [ill]
+    examples:
+      - text: са пич биршил вӕрӏивда

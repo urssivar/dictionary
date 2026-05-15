@@ -1,0 +1,18 @@
+headword: аһ һаһай
+ipa: ˈah haˌhaj
+tags: [intj]
+
+definitions:
+  - translation:
+      en: dammit
+      ru: ничего себе
+    aliases:
+      en: [what the hell, wtf, geez]
+      ru: [блин]
+    examples:
+      - text: Аһ һаһай, һежин ди пинцӏа!
+        translation:
+          en: Dammit, all this trash!
+          ru: Ничего себе, сколько здесь мусора!
+
+derived_from: [аһ]

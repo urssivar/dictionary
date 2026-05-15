@@ -1,0 +1,17 @@
+headword: ппиғӕ
+ipa: ˈpːiʁæ
+tags: [n]
+note:
+  en: "*кал*"
+forms:
+  - text: ппиғӕ
+    gloss: abs
+  - text: ппиғӕн
+    gloss: obl
+  - text: ппиғне
+    gloss: pl
+definitions:
+  - translation:
+      en: beetle
+      ru: жук
+    tags: [animal, insect]

@@ -1,0 +1,16 @@
+headword: һербирһора
+ipa: heɾbiɾˈhʷaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: һербиһора
+    gloss: pfv
+  - text: һербиһӕв
+    gloss: pret
+  - text: һербирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to live
+      ru: жить
+    aliases:
+      en: [dwell]

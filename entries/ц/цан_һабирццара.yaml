@@ -1,0 +1,16 @@
+headword: цан һабирццара
+ipa: ˌtsan habiɾˈtsːaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: цан һабиццара
+    gloss: pfv
+  - text: цан һабиццур
+    gloss: pret
+  - text: цан һабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to collaborate
+      ru: сотрудничать
+    aliases:
+      en: [join]

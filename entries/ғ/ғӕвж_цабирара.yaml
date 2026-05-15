@@ -1,0 +1,16 @@
+headword: ғӕвж цабирара
+ipa: ˌʁæβʒ tsabiˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: ғӕвж цабарара
+    gloss: pfv
+  - text: ғӕвж цабарив
+    gloss: pret
+  - text: ғӕвж цабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sweep away
+      ru: сметать
+    aliases:
+      en: [take, seize, rake]

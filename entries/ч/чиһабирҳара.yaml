@@ -1,0 +1,16 @@
+headword: чиһабирҳара
+ipa: tʃihabiɾˈxaɾa
+tags: [v, tr, cls]
+forms:
+  - text: чиһабиҳара
+    gloss: pfv
+  - text: чиһабишив
+    gloss: pret
+  - text: чиһабирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to upload
+      ru: нагружать
+    aliases:
+      en: [load, place]

@@ -1,0 +1,16 @@
+headword: лӕҡӏ биркара
+ipa: ˌlæqʼ biɾˈkaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: лӕҡӏ бикара
+    gloss: pfv
+  - text: лӕҡӏ бичив
+    gloss: pret
+  - text: лӕҡӏ биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to quit
+      ru: увольняться, покидать
+    aliases:
+      en: [leave]

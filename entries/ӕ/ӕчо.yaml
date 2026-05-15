@@ -1,0 +1,15 @@
+headword: ӕчо
+ipa: ˈætʃʷa
+tags: [n]
+note:
+  en: "*ячу*"
+forms:
+  - text: ӕчо
+    gloss: abs
+  - text: ӕчол
+    gloss: obl
+definitions:
+  - translation:
+      en: linen
+      ru: льняная ткань
+    tags: [clothing]

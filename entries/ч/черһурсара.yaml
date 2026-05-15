@@ -1,0 +1,21 @@
+headword: черһурсара
+ipa: tʃeɾhuɾˈsaɾa
+tags: [v, tr]
+forms:
+  - text: черһасара
+    gloss: pfv
+  - text: черһасив
+    gloss: pret
+  - text: черһурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to take off the head
+      ru: снимать с головы
+    aliases:
+      en: [remove, strip]
+  - translation:
+      en: to subtract
+      ru: отнимать
+    aliases:
+      en: [minus]

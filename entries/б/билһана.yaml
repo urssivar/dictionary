@@ -1,0 +1,16 @@
+headword: билһана
+ipa: bilˈhana
+tags: [v, tr, cls]
+forms:
+  - text: биһана
+    gloss: pfv
+  - text: биһун
+    gloss: pret
+  - text: билһана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tie
+      ru: завязывать
+    examples:
+      - text: дӕрһӕла чӕлте диһа

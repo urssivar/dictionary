@@ -1,0 +1,23 @@
+headword: абирһора
+ipa: abiɾˈhʷaɾa
+tags: [v, cls, ntr]
+
+definitions:
+  - translation:
+      en: to be ailing
+      ru: хворать
+    tags: [disease]
+    aliases:
+      en: [to be sick, to be ill, to ail]
+      ru: [болеть, недомогать]
+    examples:
+      - text: Ислен тин арирһул це.
+        translation:
+          en: She's been ailing for a while.
+          ru: Она уже давно хворает.
+
+etymology:
+  en: The negative of *бирьора* "to be able".
+  ru: Отрицательная форма от *бирьора* "мочь".
+
+derived_from: [бирһора]

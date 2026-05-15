@@ -1,0 +1,27 @@
+headword: кӕна
+ipa: kæˈna
+tags: [v, ntr, cls]
+note:
+  en: "*кянара*, *ҡяна*"
+forms:
+  - text: кӕна
+    gloss: pfv
+  - text: кӕбун
+    gloss: obl
+  - text: кӕбе
+    gloss: imp
+definitions:
+  - translation:
+      en: to go down
+      ru: идти вниз
+    aliases:
+      en: [descent]
+  - translation:
+      en: to get inflamed
+      ru: воспаляться
+    aliases:
+      en: [ill]
+    examples:
+      - text: сусме кӕдун
+        translation:
+          en: soar throat

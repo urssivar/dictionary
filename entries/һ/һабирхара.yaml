@@ -1,0 +1,21 @@
+headword: һабирхара
+ipa: habiɾˈχaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һабархара
+    gloss: pfv
+  - text: һабархив
+    gloss: pret
+  - text: һабирхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be busy
+      ru: быть занятым
+    aliases:
+      en: [hustle, act]
+  - translation:
+      en: to tangle
+      ru: спутывать
+    aliases:
+      en: [snarl, twine]

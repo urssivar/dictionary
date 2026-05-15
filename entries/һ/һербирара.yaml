@@ -1,0 +1,21 @@
+headword: һербирара
+ipa: heɾbiˈɾaɾa
+tags: [v, cls, tr]
+forms:
+  - text: һербарара
+    gloss: pfv
+  - text: һербарив
+    gloss: pret
+  - text: һербирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to maintain
+      ru: содержать
+    aliases:
+      en: [provide]
+  - translation:
+      en: to fatten up
+      ru: откармливать
+    aliases:
+      en: [feed]

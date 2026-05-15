@@ -1,0 +1,16 @@
+headword: ҡӕм биркара
+ipa: ˌqæm biɾˈkaɾa
+tags: [v, tr, cls]
+forms:
+  - text: ҡӕм бикара
+    gloss: pfv
+  - text: ҡӕм бичив
+    gloss: pret
+  - text: ҡӕм биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to grip
+      ru: хвататься
+    aliases:
+      en: [take, claw]

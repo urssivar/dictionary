@@ -1,0 +1,15 @@
+headword: һабарзаг
+ipa: habaɾˈzag
+tags: [n]
+note:
+  en: "*хабарза*"
+forms:
+  - text: һабарзаг
+    gloss: abs
+  - text: һабарзаге
+    gloss: pl
+definitions:
+  - translation:
+      en: melon
+      ru: дыня
+    tags: [nature, plant, food]

@@ -1,0 +1,20 @@
+headword: цабилһана
+ipa: tsabilˈhana
+tags: [v, tr, cls]
+forms:
+  - text: цабиһана
+    gloss: pfv
+  - text: цабиһун
+    gloss: pret
+  - text: цабилһана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fasten
+      ru: обвязывать
+    aliases:
+      en: [strap, tie]
+    examples:
+      - text: ппӕни цабиһа
+        translation:
+          en: fasten your belt

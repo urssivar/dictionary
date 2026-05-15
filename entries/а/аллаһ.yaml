@@ -1,0 +1,21 @@
+headword: Аллаһ
+ipa: alˈlah
+tags: [n, loan, arabic]
+
+definitions:
+  - translation:
+      en: Allah
+      ru: Аллах
+    tags: [religion]
+    aliases:
+      en: [God]
+      ru: [Бог]
+    examples:
+      - text: Аллаһли цере рат.
+        translation:
+          en: God keep her.
+          ru: Храни её Бог.
+
+etymology:
+  en: From Arabic اللّٰه (*allāh*).
+  ru: От арабского اللّٰه (*allāh*).

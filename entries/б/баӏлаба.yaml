@@ -1,0 +1,20 @@
+headword: баӏлаба
+ipa: baʔlaˈba
+tags: [n]
+etymology:
+  en: From *баъла баъи* "on the edge's edge".
+forms:
+  - text: баӏлаба
+    gloss: abs
+  - text: баӏлабне
+    gloss: pl
+definitions:
+  - translation:
+      en: extremity
+      ru: крайность
+    aliases:
+      en: [verge]
+    examples:
+      - text: баӏлабай макиргатте
+        translation:
+          en: don't sit on the very edge

@@ -1,0 +1,16 @@
+headword: тамаша бирһора
+ipa: tamaˌʃa biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: тамаша биһора
+    gloss: pfv
+  - text: тамаша биһӕв
+    gloss: pret
+  - text: тамаша бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be surprised
+      ru: удивляться
+    aliases:
+      en: [wonder]

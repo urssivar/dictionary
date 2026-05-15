@@ -1,0 +1,16 @@
+headword: һам цабиркара
+ipa: ˌham tsabiɾˈkaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һам цабикара
+    gloss: pfv
+  - text: һам цабичив
+    gloss: pret
+  - text: һам цабиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to recall
+      ru: вспоминать
+    aliases:
+      en: [remember]

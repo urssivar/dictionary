@@ -1,0 +1,17 @@
+headword: ӕлакош
+ipa: ælaˈkʷaʃ
+tags: [n]
+note:
+  en: |-
+    *аликиш*
+    *ьярьяр*, *путта*
+forms:
+  - text: ӕлакош
+    gloss: abs
+  - text: ӕлакоше
+    gloss: pl
+definitions:
+  - translation:
+      en: bat
+      ru: летучая мышь
+    tags: [animal]

@@ -1,0 +1,15 @@
+headword: пӕпӕйкка
+ipa: pæpæjˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: пӕпӕйкка
+    gloss: abs
+  - text: пӕпӕйккан
+    gloss: obl
+  - text: пӕпӕйккне
+    gloss: pl
+definitions:
+  - translation:
+      en: vest
+      ru: жилет
+    tags: [clothing]

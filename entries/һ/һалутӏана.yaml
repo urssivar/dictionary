@@ -1,0 +1,16 @@
+headword: һалутӏана
+ipa: haluˈtʼana
+tags: [v, tr, cls]
+forms:
+  - text: һабалтӏана
+    gloss: pfv
+  - text: һабалтӏун
+    gloss: pret
+  - text: һалутӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to unseam
+      ru: распарывать
+    aliases:
+      en: [rip]

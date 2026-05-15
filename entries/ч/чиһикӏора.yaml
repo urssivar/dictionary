@@ -1,0 +1,16 @@
+headword: чиһикӏора
+ipa: tʃihiˈkʼʷaɾa
+tags: [v, ntr]
+forms:
+  - text: чиһакӏора
+    gloss: pfv
+  - text: чиһачӏур
+    gloss: pret
+  - text: чиһикӏора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be born
+      ru: рождаться
+    aliases:
+      en: [mature]

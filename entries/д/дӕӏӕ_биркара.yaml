@@ -1,0 +1,16 @@
+headword: дӕӏӕ биркара
+ipa: dæˌʔæ biɾˈkaɾa
+tags: [v, ntr]
+forms:
+  - text: дӕӏӕ бикара
+    gloss: pfv
+  - text: дӕӏӕ бичив
+    gloss: pret
+  - text: дӕӏӕ биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stray
+      ru: плутать
+    aliases:
+      en: [astray, wander, lose]

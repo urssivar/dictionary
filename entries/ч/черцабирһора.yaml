@@ -1,0 +1,18 @@
+headword: черцабирһора
+ipa: tʃeɾtsabiɾˈhʷaɾa
+tags: [v, cls, ntr]
+note:
+  en: "*чербирьора*"
+forms:
+  - text: черцабиһора
+    gloss: pfv
+  - text: черцабиһӕв
+    gloss: pret
+  - text: черцабирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to come back
+      ru: возвращаться
+    aliases:
+      en: [return]

@@ -1,0 +1,22 @@
+headword: һиҡихара
+ipa: hiqiˈχaɾa
+tags: [v, ntr]
+etymology:
+  en: Caus. of *ьиҡара* "to be enough".
+forms:
+  - text: һаҡихара
+    gloss: pfv
+  - text: һаҡихив
+    gloss: pret
+  - text: һиҡихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to last
+      ru: длиться, дотягивать
+    aliases:
+      en: [persist, continue]
+    examples:
+      - text: һештти цӏидеҳ еви һиҡихара биккан це
+        translation:
+          en: these fruits should last until spring

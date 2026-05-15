@@ -1,0 +1,16 @@
+headword: һабалҡӏана
+ipa: habalˈqʼana
+tags: [v, tr, ntr, cls]
+forms:
+  - text: һабаҡӏана < балҡӏанна
+    gloss: pfv
+  - text: һабаҡӏун
+    gloss: pret
+  - text: һабалҡӏана < булҡӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to disturb
+      ru: тормошить
+    aliases:
+      en: [bother]

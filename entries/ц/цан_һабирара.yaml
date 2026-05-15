@@ -1,0 +1,16 @@
+headword: цан һабирара
+ipa: ˌtsan habiˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: цан һабарара
+    gloss: pfv
+  - text: цан һабарив
+    gloss: pret
+  - text: цан һабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to combine
+      ru: сочетать
+    aliases:
+      en: [join, connect]

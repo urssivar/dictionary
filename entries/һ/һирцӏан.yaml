@@ -1,0 +1,19 @@
+headword: һирцӏан
+ipa: hiɾˈtsʼan
+tags: [n, vb]
+etymology:
+  en: Obl. of *ьирцьара* "to scoop".
+note:
+  en: "*чумуч* (Kumyk)"
+forms:
+  - text: һирцӏан
+    gloss: abs
+  - text: һирцӏанте
+    gloss: pl
+definitions:
+  - translation:
+      en: ladle
+      ru: черпак
+    tags: [tool]
+    aliases:
+      en: [scoop, dipper]

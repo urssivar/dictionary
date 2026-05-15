@@ -1,0 +1,16 @@
+headword: черцабилһана
+ipa: tʃeɾtsabilˈhana
+tags: [v, cls, tr]
+forms:
+  - text: черцабиһана
+    gloss: pfv
+  - text: черцабиһун
+    gloss: pret
+  - text: черцабилһана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to unfasten
+      ru: отвязывать
+    aliases:
+      en: [loose, undo]

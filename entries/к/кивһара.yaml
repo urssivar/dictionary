@@ -1,0 +1,18 @@
+headword: кивһара
+ipa: kiβˈhaɾa
+tags: [v, tr]
+note:
+  en: "*кивьана*/*кувьана*"
+forms:
+  - text: кавһара
+    gloss: pfv
+  - text: кавһив
+    gloss: pret
+  - text: кивһара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to comb
+      ru: расчёсывать
+    aliases:
+      en: [hair, brush]

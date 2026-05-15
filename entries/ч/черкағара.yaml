@@ -20,6 +20,6 @@ definitions:
     aliases:
       en: [extract]
     examples:
-      - text: ьяжлачӏела удре черкаға
+      - text: һӕжлачӏела удре черкаға
         translation:
           en: extract the corn kernels

@@ -1,0 +1,18 @@
+headword: аӏ кабурҡара
+ipa: ˌaʔ kabuɾˈqaɾa
+tags: [v, ntr]
+forms:
+  - text: кабӕҡара
+    gloss: pfv
+  - text: кабӕҡив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to gawp
+      ru: таращиться
+    aliases:
+      en: [stare, watch, see]
+      ru: [глядеть, смотреть, видеть]
+
+derived_from: [аӏ, кабурҡара]

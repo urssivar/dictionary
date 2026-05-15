@@ -1,0 +1,18 @@
+headword: һабиғара
+ipa: habiˈʁaɾa
+tags: [v, ntr, cls]
+note:
+  en: "*ьебеғара*"
+forms:
+  - text: һабағара
+    gloss: pfv
+  - text: һабағив
+    gloss: pret
+  - text: һабиғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to amount
+      ru: составлять (в сумме)
+    aliases:
+      en: [total, sum]

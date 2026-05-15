@@ -1,0 +1,16 @@
+headword: һереғ биркара
+ipa: heˌɾeʁ biɾˈkaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һереғ бикара
+    gloss: pfv
+  - text: һереғ бичив
+    gloss: pret
+  - text: һереғ биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cling
+      ru: цепляться
+    aliases:
+      en: [attach, carry, stick]

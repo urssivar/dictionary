@@ -1,0 +1,16 @@
+headword: ҡалла бирһора
+ipa: ˌqalla biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: ҡалла биһора
+    gloss: pfv
+  - text: ҡалла биһӕв
+    gloss: pret
+  - text: ҡалла бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get married
+      ru: пожениться
+    aliases:
+      en: [family]

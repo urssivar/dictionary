@@ -1,0 +1,16 @@
+headword: гумһилтӏана
+ipa: gumhilˈtʼana
+tags: [v, ntr]
+forms:
+  - text: гумһитӏана
+    gloss: pfv
+  - text: гумһитӏун
+    gloss: pret
+  - text: гумһилтӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to worry
+      ru: волноваться
+    aliases:
+      en: [bother, excite]

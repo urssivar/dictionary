@@ -1,0 +1,13 @@
+headword: меһлукан
+ipa: mehluˈkan
+tags: [n, vb]
+forms:
+  - text: меһлукан
+    gloss: abs
+  - text: меһлуканте
+    gloss: pl
+definitions:
+  - translation:
+      en: file
+      ru: напильник
+    tags: [tool]

@@ -1,0 +1,15 @@
+headword: марһе
+ipa: ˈmaɾhe
+tags: [n]
+forms:
+  - text: марһе
+    gloss: abs
+  - text: марһиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: hayfield stripe
+      ru: полоса покоса
+    tags: [nature]
+    aliases:
+      en: [mow]

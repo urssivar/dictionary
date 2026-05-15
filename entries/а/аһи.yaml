@@ -1,0 +1,19 @@
+headword: аһи
+ipa: ˈahi
+tags: [n]
+
+definitions:
+  - translation:
+      en: weeping
+      ru: рыдание
+    tags: [feeling]
+    aliases:
+      en: [crying, sobbing, lamentation]
+      ru: [плач, всхлипывание]
+    examples:
+      - text: Аһи рикӏул ри.
+        translation:
+          en: She is weeping.
+          ru: Она рыдает.
+
+variants: [дисса-ҡвӕсса]

@@ -1,0 +1,16 @@
+headword: чӕһ биргара
+ipa: ˌtʃæh biɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: чӕһ бигара
+    gloss: pfv
+  - text: чӕһ бижив
+    gloss: pret
+  - text: чӕһ биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to spill
+      ru: разливаться
+    aliases:
+      en: [leak, flow]

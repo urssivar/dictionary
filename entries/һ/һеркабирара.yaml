@@ -1,0 +1,16 @@
+headword: һеркабирара
+ipa: heɾkabiˈɾaɾa
+tags: [v, cls, tr]
+forms:
+  - text: һеркабарара
+    gloss: pfv
+  - text: һеркабарив
+    gloss: pret
+  - text: һеркабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to nurture
+      ru: выхаживать
+    aliases:
+      en: [foster, nurse]

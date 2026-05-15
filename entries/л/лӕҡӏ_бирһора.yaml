@@ -1,0 +1,16 @@
+headword: лӕҡӏ бирһора
+ipa: ˌlæqʼ biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: лӕҡӏ биһора
+    gloss: pfv
+  - text: лӕҡӏ биһӕв
+    gloss: pret
+  - text: лӕҡӏ бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get out
+      ru: убираться
+    aliases:
+      en: [retire, leave]

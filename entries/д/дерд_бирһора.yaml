@@ -1,0 +1,20 @@
+headword: дерд бирһора
+ipa: ˌdeɾd biɾˈhʷaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: дерд биһора
+    gloss: pfv
+  - text: дерд биһӕв
+    gloss: pret
+  - text: дерд бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be fed with
+      ru: нахватываться
+    aliases:
+      en: [pall]
+    examples:
+      - text: дерд виһӕл да ицци
+        translation:
+          en: i am fed up with you

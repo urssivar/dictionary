@@ -1,0 +1,16 @@
+headword: сарһабикӏара
+ipa: saɾhabiˈkʼaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: сарһабакӏара
+    gloss: pfv
+  - text: сарһабачӏив
+    gloss: pret
+  - text: сарһабикӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to emerge
+      ru: возникать, появзяться
+    aliases:
+      en: [appear, rise, show]

@@ -1,0 +1,15 @@
+headword: һӕка
+ipa: hæˈka
+tags: [n]
+forms:
+  - text: һӕка
+    gloss: abs
+  - text: һӕкан
+    gloss: obl
+  - text: һӕкне
+    gloss: pl
+definitions:
+  - translation:
+      en: fur coat
+      ru: шуба
+    tags: [clothing]

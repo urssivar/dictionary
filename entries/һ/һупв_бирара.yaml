@@ -1,0 +1,14 @@
+headword: һупв бирара
+ipa: ˌhuɸ biˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: һупв барара
+    gloss: pfv
+  - text: һупв барив
+    gloss: pret
+  - text: һупв бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to blow
+      ru: дуть

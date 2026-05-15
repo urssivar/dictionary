@@ -1,0 +1,25 @@
+headword: бӕлӏӕна
+ipa: bælˈʔæna
+tags: [v, cls, tr]
+forms:
+  - text: бӕӏӕна
+    gloss: pfv
+  - text: бӕӏун
+    gloss: pret
+  - text: бӕлӏӕна
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to block
+      ru: блокировать
+    aliases:
+      en: [obstruct]
+    examples:
+      - text: дӕһнал ҳуне бӕӏун
+  - translation:
+      en: to seal
+      ru: запечатывать
+    aliases:
+      en: [shut]
+    examples:
+      - text: бӕӏӕ шуҡҡа

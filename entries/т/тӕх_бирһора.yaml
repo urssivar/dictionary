@@ -1,0 +1,17 @@
+headword: тӕх бирһора
+ipa: ˌtæχ biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: тӕх биһора
+    gloss: pret
+  - text: тӕх биһӕв
+    gloss: pret
+  - text: тӕх бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to catch a cold
+      ru: простывать
+    tags: [body]
+    aliases:
+      en: [ill, flu]

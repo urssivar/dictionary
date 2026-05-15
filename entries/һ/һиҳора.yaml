@@ -1,0 +1,16 @@
+headword: һиҳора
+ipa: hiˈxːʷaɾa
+tags: [v, ntr]
+forms:
+  - text: һаҳора
+    gloss: pfv
+  - text: һашур
+    gloss: pret
+  - text: һиҳора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to take off
+      ru: взлетать
+    aliases:
+      en: [fly]

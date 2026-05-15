@@ -1,0 +1,13 @@
+headword: һава
+ipa: ˈhaβa
+tags: [n, loan, arabic]
+definitions:
+  - translation:
+      en: air
+      ru: воздух
+    tags: [nature]
+  - translation:
+      en: climate
+      ru: климат
+    aliases:
+      en: [weather]

@@ -1,0 +1,19 @@
+headword: белһола
+ipa: belˈhʷala
+tags: [n, vb]
+etymology:
+  en: From *луьана* "to slaughter".
+forms:
+  - text: белһола
+    gloss: abs
+  - text: белһле
+    gloss: obl
+  - text: белһлуме
+    gloss: pl
+
+definitions:
+  - translation:
+      en: animal for slaughter
+      ru: скотина на забой
+    aliases:
+      en: [victim, sacrifice]

@@ -1,0 +1,16 @@
+headword: вай һурғара
+ipa: ˌβaj huɾˈʁaɾa
+tags: [v, tr]
+forms:
+  - text: вай һағара
+    gloss: pfv
+  - text: вай һағив
+    gloss: pret
+  - text: вай һурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to graze
+      ru: выпасывать
+    aliases:
+      en: [pasture]

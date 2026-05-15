@@ -1,0 +1,16 @@
+headword: бурӏихара
+ipa: buɾʔiˈχaɾa
+tags: [v, tr, cls]
+forms:
+  - text: бӕрӏӕхара
+    gloss: pfv
+  - text: бӕрӏӕхив
+    gloss: pret
+  - text: бурӏихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cool
+      ru: охлаждать
+    aliases:
+      en: [chill, refrigerate]

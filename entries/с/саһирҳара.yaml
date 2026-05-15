@@ -1,0 +1,16 @@
+headword: саһирҳара
+ipa: sahiɾˈxaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: саһабарҳара
+    gloss: pfv
+  - text: саһабаршив
+    gloss: pret
+  - text: саһабирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to straighten up
+      ru: выпрямиться, смирно
+    aliases:
+      en: [stand, at, attention]

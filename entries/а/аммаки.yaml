@@ -10,7 +10,7 @@ definitions:
       en: [however]
       ru: [всё же, но]
     examples:
-      - text: Ил дами ьелгон вяьице биивде, аммаки дул етти чер адаривда.
+      - text: Ил дами һелгон вӕһице биивде, аммаки дул етти чер адаривда.
         translation:
           en: You told me such bad things, but I didn’t give it back to you.
           ru: Ты мне такое плохое сказал, зато я тебе не вернул.

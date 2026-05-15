@@ -1,0 +1,14 @@
+headword: һӕбаш
+ipa: hæˈbaʃ
+tags: [n, loan, arabic]
+forms:
+  - text: һӕбаш
+    gloss: abs
+  - text: һӕбаше
+    gloss: pl
+definitions:
+  - translation:
+      en: mercenary
+      ru: наёмник
+    aliases:
+      en: [warrior, soldier]

@@ -1,0 +1,16 @@
+headword: һереғ һабулҡана
+ipa: heˌɾeʁ habulˈqana
+tags: [v, ntr, cls]
+forms:
+  - text: һереғ һабуҡана
+    gloss: pfv
+  - text: һереғ һабуҡун
+    gloss: pret
+  - text: һереғ һабулҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to showdown
+      ru: приходить с разборками
+    aliases:
+      en: [fight, conflict]

@@ -1,0 +1,16 @@
+headword: ҡҡӕмз
+ipa: ˈqːæmz
+tags: [n]
+forms:
+  - text: ҡҡӕмз
+    gloss: abs
+  - text: ҡҡӕмзин
+    gloss: obl
+  - text: ҡҡӕмзре
+    gloss: pl
+definitions:
+  - translation:
+      en: corner
+      ru: угол
+    aliases:
+      en: [edge]

@@ -1,0 +1,19 @@
+headword: һелдеҳна
+ipa: ˈheldexna
+tags: [conj]
+
+definitions:
+  - translation:
+      en: therefore
+      ru: потому
+    aliases:
+      en: [thanks, so, thus]
+      ru: [поэтому, так что, вот]
+    examples:
+      - text: Явра аулши, һелдеҳна зарал ра калгун.
+        translation:
+          en: He didn't work much, and therefore stayed healthy.
+          ru: Он много не работал, потому и остался здоровым.
+
+variants: [бидеҳи]
+derived_from: [һел, даҳ]

@@ -1,0 +1,16 @@
+headword: бурси бирһора
+ipa: buɾˌsi biɾˈhʷaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: бурси биһора
+    gloss: pfv
+  - text: бурси биһӕв
+    gloss: pret
+  - text: бурси бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to learn
+      ru: приучаться
+    aliases:
+      en: [study, accustom]

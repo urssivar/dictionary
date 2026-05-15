@@ -1,0 +1,14 @@
+headword: черһаргара
+ipa: tʃehaɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: черһагара
+    gloss: pfv
+  - text: черһагур
+    gloss: pret
+  - text: черһаргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to boil over
+      ru: убежать при кипении

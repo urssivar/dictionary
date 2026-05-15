@@ -13,18 +13,18 @@ definitions:
     aliases:
       en: [say]
     examples:
-      - text: ниҳола ғайли цигле бикӏор ей ьел?
+      - text: ниҳола ғайли цигле бикӏор ей һел?
         translation:
           en: how is it in our langauge?
-      - text: ьелттежил мабиратте, ду икӏул да
+      - text: һелттежил мабиратте, ду икӏул да
         translation:
           en: i mean
-      - text: на ци дичӏида йе агурилла ьереғ  
+      - text: на ци дичӏида йе агурилла һереғ
   - translation:
       en: to mean
       ru: иметь ввиду, думать
     aliases:
       en: [speak, communicate]
     examples:
-      - text: ду икӏул да, бажил абяяж
-        
+      - text: ду икӏул да, бажил абӕӕж
+

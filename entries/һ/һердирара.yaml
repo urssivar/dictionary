@@ -1,0 +1,27 @@
+headword: һердирара
+ipa: heɾdiˈɾaɾa
+tags: [v, tr]
+note:
+  en: Forzen class
+forms:
+  - text: һердарара
+    gloss: pfv
+  - text: һердарив
+    gloss: pret
+  - text: һердирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to repeat
+      ru: повторять
+    aliases:
+      en: [mimic]
+    examples:
+      - text: дила һердара
+        translation:
+          en: repeat after me
+  - translation:
+      en: to tease
+      ru: дразнить
+    aliases:
+      en: [bait]

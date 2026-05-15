@@ -1,0 +1,21 @@
+headword: һабулҡана
+ipa: hulˈqana
+tags: [v, ntr, cls]
+forms:
+  - text: һабуҡана
+    gloss: pfv
+  - text: һабуҡун
+    gloss: pret
+  - text: һабулҡана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to overwhelm
+      ru: сокрушать
+    aliases:
+      en: [win]
+  - translation:
+      en: to rise
+      ru: всходить
+    aliases:
+      en: [ascend]

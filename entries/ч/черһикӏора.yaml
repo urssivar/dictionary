@@ -1,0 +1,16 @@
+headword: черһикӏора
+ipa: tʃeɾhiˈkʼʷaɾa
+tags: [v, ntr]
+forms:
+  - text: черһакӏора
+    gloss: pfv
+  - text: черһачӏур
+    gloss: pret
+  - text: черһикӏора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to branch out
+      ru: отпочковываться
+    aliases:
+      en: [split]

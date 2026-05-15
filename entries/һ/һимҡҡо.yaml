@@ -1,0 +1,23 @@
+headword: һимҡҡо
+ipa: himˈqːʷa
+tags: [n]
+forms:
+  - text: һимҡҡо
+    gloss: abs
+  - text: һимҡҡон
+    gloss: obl
+  - text: һимҡҡне
+    gloss: pl
+definitions:
+  - note:
+      en: There's also *ғурға*.
+    translation:
+      en: whetstone
+      ru: точильный камень
+    aliases:
+      en: [hone, sharpener]
+  - translation:
+      en: block
+      ru: брусок, блок
+    aliases:
+      en: [rail, bar, timber]

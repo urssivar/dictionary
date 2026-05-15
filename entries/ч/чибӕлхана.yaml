@@ -1,0 +1,18 @@
+headword: чибӕлхана
+ipa: tʃibælˈχana
+tags: [v, ntr, cls]
+note:
+  en: "*чибяна*"
+forms:
+  - text: чибӕхана
+    gloss: pfv
+  - text: чибӕхун
+    gloss: pret
+  - text: чибӕлхана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to infect
+      ru: заражать
+    aliases:
+      en: [propagate, contaminate]

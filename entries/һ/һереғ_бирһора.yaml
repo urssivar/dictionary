@@ -1,0 +1,16 @@
+headword: һереғ бирһора
+ipa: heˌɾeʁ biɾˈhʷaɾa
+tags: [v, cls, tr]
+forms:
+  - text: һереғ биһора
+    gloss: pfv
+  - text: һереғ биһӕв
+    gloss: pret
+  - text: һереғ бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to chase
+      ru: гнаться
+    aliases:
+      en: [run]

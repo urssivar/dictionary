@@ -1,0 +1,15 @@
+headword: ҡҡӕцӏа
+ipa: qːæˈtsʼa
+tags: [n]
+forms:
+  - text: ҡҡӕцӏа
+    gloss: abs
+  - text: ҡҡӕцӏан
+    gloss: obl
+  - text: ҡҡӕцӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: tongs
+      ru: щипцы
+    tags: [tool]

@@ -1,0 +1,16 @@
+headword: пӕдӕркка
+ipa: pædæɾˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: пӕдӕркка
+    gloss: abs
+  - text: пӕдӕрккан
+    gloss: obl
+  - text: пӕдӕрккне
+    gloss: pl
+definitions:
+  - translation:
+      en: present
+      ru: подарок
+    aliases:
+      en: [gift]

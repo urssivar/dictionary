@@ -1,0 +1,16 @@
+headword: луһана
+ipa: luˈhana
+tags: [v, tr, cls]
+forms:
+  - text: белһона
+    gloss: pfv
+  - text: белһун
+    gloss: pret
+  - text: луһана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to slaughter
+      ru: зарезывать
+    aliases:
+      en: [kill, slay]

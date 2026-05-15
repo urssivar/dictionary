@@ -1,0 +1,16 @@
+headword: ччур һабирара
+ipa: ˌtʃːuɾ habiˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: ччур һабарара
+    gloss: pfv
+  - text: ччур һабарив
+    gloss: pret
+  - text: ччур һабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to twirl
+      ru: вертеть
+    aliases:
+      en: [turn]

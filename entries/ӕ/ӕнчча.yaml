@@ -1,0 +1,22 @@
+headword: ӕнчча
+ipa: ˈæntʃːa
+tags: [n]
+forms:
+  - text: ӕнчча
+    gloss: abs
+  - text: ӕнччин
+    gloss: obl
+definitions:
+  - translation:
+      en: clay
+      ru: глина
+    tags: [nature]
+    aliases:
+      en: [soil]
+    examples:
+      - text: цӏӕв ӕнчча
+        translation:
+          en: gypsum
+      - text: буршлила ӕнчча
+        translation:
+          en: gypsum

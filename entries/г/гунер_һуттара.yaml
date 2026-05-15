@@ -1,0 +1,14 @@
+headword: гунер һуттара
+ipa: guˌneɾ huˈtːaɾa
+tags: [v, tr, cls]
+forms:
+  - text: гунер һаберттара
+    gloss: pfv
+  - text: гунер һаберттив
+    gloss: pret
+  - text: гунер һуттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to root out
+      ru: вырывать с корнем

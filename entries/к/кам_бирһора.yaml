@@ -1,0 +1,16 @@
+headword: кам бирһора
+ipa: ˌkam biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: кам биһора
+    gloss: pfv
+  - text: кам биһӕв
+    gloss: pret
+  - text: кам бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to diminish
+      ru: уменьшаться
+    aliases:
+      en: [lower]

@@ -1,0 +1,18 @@
+headword: хатӏа бирһора
+ipa: χaˌtʼa biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: хатӏа биһора
+    gloss: pfv
+  - text: хатӏа биһӕв
+    gloss: pret
+  - text: хатӏа бирһора
+    gloss: ipfv
+definitions:
+  - note:
+      en: Not by natural cause, in accident or attack.
+    translation:
+      en: to decease
+      ru: погибать
+    aliases:
+      en: [perish, die]

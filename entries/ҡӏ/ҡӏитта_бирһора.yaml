@@ -1,0 +1,16 @@
+headword: ҡӏитта бирһора
+ipa: ˌqʼitːa biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: ҡӏитта биһора
+    gloss: pfv
+  - text: ҡӏитта биһӕв
+    gloss: pret
+  - text: ҡӏитта бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to confront
+      ru: противостоять
+    aliases:
+      en: [conflict, war]

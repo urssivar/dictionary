@@ -1,0 +1,16 @@
+headword: ҡвӕ чидирҳара
+ipa: ˌqʷæ tʃidiɾˈxaɾa
+tags: [v, tr]
+forms:
+  - text: ҡвӕ чидиҳара
+    gloss: pfv
+  - text: ҡвӕ чидишив
+    gloss: pret
+  - text: ҡвӕ чидирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to swear an oath
+      ru: присягать
+    aliases:
+      en: [allegiance, promise]

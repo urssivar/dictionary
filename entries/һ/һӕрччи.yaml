@@ -1,0 +1,13 @@
+headword: һӕрччи
+ipa: hæɾˈtʃːi
+tags: [n]
+forms:
+  - text: һӕрччи
+    gloss: abs, obl
+  - text: һӕрккан
+    gloss: dem
+definitions:
+  - translation:
+      en: khuchni
+      ru: хучни
+    tags: [toponym, settlement]

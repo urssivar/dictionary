@@ -1,0 +1,18 @@
+headword: ӕмал
+ipa: æˈmal
+tags: [n, loan, arabic]
+forms:
+  - text: ӕмал
+    gloss: abs
+  - text: ӕмалте
+    gloss: pl
+definitions:
+  - translation:
+      en: means
+      ru: способ
+    aliases:
+      en: [way]
+    examples:
+      - text: ӕмал бугун
+        translation:
+          en: stalemate

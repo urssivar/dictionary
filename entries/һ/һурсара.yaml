@@ -1,0 +1,21 @@
+headword: һурсара
+ipa: huɾˈsːaɾa
+tags: [v, tr]
+forms:
+  - text: һасара
+    gloss: pfv
+  - text: һасив
+    gloss: pret
+  - text: һурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pick
+      ru: поднимать, брать
+    aliases:
+      en: [take, choose]
+  - translation:
+      en: to buy
+      ru: покупать
+    aliases:
+      en: [acquire]

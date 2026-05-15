@@ -1,0 +1,17 @@
+headword: бурһара
+ipa: buɾˈhaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: бурһив
+    gloss: pret
+  - text: бурһара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stay safe
+      ru: сохраняться
+    aliases:
+      en: [keep]
+    examples:
+      - text: аллаһли урһабе и!
+      - text: рурһе

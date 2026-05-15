@@ -10,7 +10,7 @@ definitions:
       en: [so, in that case]
       ru: [ну так, в таком случае]
     examples:
-      - text: Абал, вяьил акку.
+      - text: Абал, вӕһил акку.
         translation:
           en: Well then, not bad.
           ru: Ну тогда неплохо.
@@ -19,6 +19,6 @@ etymology:
   en: Contracted from *абиьолли*, the negative conditional of *бирьора* "to be".
   ru: Сокращение от *абиьолли*, отрицательной условной формы *бирьора* "быть".
 
-variants: [абиьолли, абалле]
-derived_from: [бирьора]
+variants: [абиһолли, абалле]
+derived_from: [бирһора]
 see_also: [баал]

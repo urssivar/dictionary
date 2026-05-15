@@ -10,9 +10,9 @@ definitions:
     aliases:
       en: [together]
     examples:
-      - text: аттацци рарх ря
+      - text: аттацци рарх рӕ
         translation:
           en: go with father
-      - text: са ьел ра варх виде
+      - text: са һел ра варх виде
         translation:
           ru: вчера он тоже был вместе

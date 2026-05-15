@@ -1,0 +1,18 @@
+headword: һуна
+ipa: ˈhuna
+tags: [adv]
+note:
+  en: "*ҳуна*"
+forms:
+  - text: һуна
+    gloss: abs
+  - text: һунал
+    gloss: obl
+definitions:
+  - translation:
+      en: how much
+      ru: как много
+    examples:
+      - text: һуна дилкӏул ей һелтти һинце?
+        translation:
+          en: how much are these apples?

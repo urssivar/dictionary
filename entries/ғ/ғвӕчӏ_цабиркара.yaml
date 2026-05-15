@@ -1,0 +1,18 @@
+headword: ғвӕчӏ цабиркара
+ipa: ˌʁʷætʃʼ tsabiɾˈkaɾa
+tags: [v, ntr, cls]
+note:
+  en: "*ғвяччи биркара*"
+forms:
+  - text: ғвӕчӏ цабикара
+    gloss: pfv
+  - text: ғвӕчӏ цабичив
+    gloss: pret
+  - text: ғвӕчӏ цабиркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get close to
+      ru: прижиматься
+    aliases:
+      en: [hug, press, cuddle]

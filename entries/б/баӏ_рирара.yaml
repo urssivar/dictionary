@@ -1,0 +1,22 @@
+headword: баӏ рирара
+ipa: ˌbaʔ ɾiˈɾaɾa
+tags: [v, tr]
+note:
+  en: Can be either of class *д-* or *р-*.
+forms:
+  - text: баӏ рарара
+    gloss: pfv
+  - text: баӏ рарив
+    gloss: pret
+  - text: баӏ рирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to woo
+      ru: сватать
+    aliases:
+      en: [matchmake]
+    examples:
+      - text: дами баӏ дарара цӕбун
+        translation:
+          en: they came to woo me

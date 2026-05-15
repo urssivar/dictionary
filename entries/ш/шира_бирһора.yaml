@@ -1,0 +1,17 @@
+headword: шира бирһора
+ipa: ʃiˌɾa biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: шира биһора
+    gloss: pfv
+  - text: шира биһӕв
+    gloss: pret
+  - text: шира бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to camp
+      ru: размещаться
+  - translation:
+      en: to dismount
+      ru: спешиваться

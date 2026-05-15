@@ -1,0 +1,20 @@
+headword: һурццихара
+ipa: huɾtsːiˈχaɾa
+tags: [v, tr]
+forms:
+  - text: һарццихара
+    gloss: pfv
+  - text: һарццихур
+    gloss: pret
+  - text: һурццихара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to irritate
+      ru: раздражать
+    aliases:
+      en: [pester, bother]
+    examples:
+      - text: бекӏ маһурццихатт дила
+        translation:
+          en: do not annoy me

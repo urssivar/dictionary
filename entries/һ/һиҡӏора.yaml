@@ -1,0 +1,18 @@
+headword: һиҡӏора
+ipa: hiˈqʼʷaɾa
+tags: [v, tr, cls]
+note:
+  en: "*бирзара*"
+forms:
+  - text: һабирҡӏора
+    gloss: pfv
+  - text: һабирҡӏур
+    gloss: pret
+  - text: һиҡӏора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to untangle
+      ru: распутывать
+    aliases:
+      en: [unravel]

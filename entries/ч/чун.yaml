@@ -8,12 +8,12 @@ definitions:
       en: how many
       ru: сколько
     examples:
-      - text: cяят чунцци?
+      - text: cӕӕт чунцци?
         translation:
           en: at what hour?
       - text: чунжи йа?
         translation:
           en: what's the price?
-      - text: чун ьинце дажил ей?
+      - text: чун һинце дажил ей?
         translation:
           en: how many apples are needed?

@@ -1,0 +1,16 @@
+headword: чиһара
+ipa: tʃiˈhaɾa
+tags: [v, ntr]
+note:
+  en: "*чибиьара*"
+forms:
+  - text: чиһив
+    gloss: pret
+  - text: чиһара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to watch
+      ru: наблюдать
+    aliases:
+      en: [see, look]

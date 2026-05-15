@@ -1,0 +1,18 @@
+headword: һабуркӏара
+ipa: habuɾˈkʼaɾa
+tags: [v, tr, cls]
+note:
+  en: "*ьабалтьана*/*ьалутьана*"
+forms:
+  - text: һабаркӏара
+    gloss: pfv
+  - text: һабарчӏив
+    gloss: pret
+  - text: һабуркӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to uproot
+      ru: корчевать
+    aliases:
+      en: [pull, out]

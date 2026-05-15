@@ -1,0 +1,21 @@
+headword: баһутте
+ipa: baˈhutːe
+tags: [n, vb]
+forms:
+  - text: баһуттне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: experience, knowledge
+      ru: опыт, знание
+    aliases:
+      en: [education]
+      ru: [образование]
+    examples:
+      - text: Ьелецци баһутте би.
+        translation:
+          en: He has experience.
+          ru: У него есть опыт.
+
+derived_from: [барһара]

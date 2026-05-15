@@ -1,0 +1,19 @@
+headword: һереғ баҳара
+ipa: heˌɾeʁ baˈxaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: һереғ башив
+    gloss: pret
+  - text: һереғ баҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to follow
+      ru: следовать
+    aliases:
+      en: [track]
+  - translation:
+      en: to be of service
+      ru: услуживать
+    aliases:
+      en: [help, care]

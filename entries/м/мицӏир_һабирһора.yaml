@@ -1,0 +1,16 @@
+headword: мицӏир һабирһора
+ipa: miˌtsʼiɾ habiɾˈhʷaɾa
+tags: [v, cls, tr]
+forms:
+  - text: мицӏир һабиһора
+    gloss: pfv
+  - text: мицӏир һабиһӕв
+    gloss: pret
+  - text: мицӏир һабирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to revive
+      ru: оживать
+    aliases:
+      en: [resurrect]

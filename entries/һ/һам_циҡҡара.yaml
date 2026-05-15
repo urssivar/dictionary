@@ -1,0 +1,16 @@
+headword: һам циҡҡара
+ipa: ˌham tsiˈqːaɾa
+tags: [v, cls, tr]
+note:
+  en: "*ьам цабирчихара*"
+forms:
+  - text: һам цаҡҡара
+    gloss: pfv
+  - text: һам цаҡҡив
+    gloss: pret
+  - text: һам циҡҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to remind
+      ru: напоминать

@@ -1,0 +1,27 @@
+headword: барһара
+ipa: baɾˈhaɾa
+tags: [v, cls, tr]
+forms:
+  - text: баһара
+    gloss: pfv
+  - text: баһур
+    gloss: pret
+  - text: барһара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to know
+      ru: знать
+    aliases:
+      en: [learn]
+    examples:
+      - text: һел агне дул абаһурда
+        translation:
+          ru: я не знал, что это случилось
+  - translation:
+      en: to recognise
+      ru: узнавать
+    aliases:
+      en: [see]
+    examples:
+      - text: дул һел чиражив гон раһурда

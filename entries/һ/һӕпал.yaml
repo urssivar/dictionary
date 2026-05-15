@@ -1,0 +1,15 @@
+headword: һӕпал
+ipa: hæˈpal
+tags: [n]
+forms:
+  - text: һӕпал
+    gloss: abs
+  - text: һӕпле
+    gloss: pl
+definitions:
+  - translation:
+      en: hayrick
+      ru: копна
+    tags: [agriculture]
+    aliases:
+      en: [hay]

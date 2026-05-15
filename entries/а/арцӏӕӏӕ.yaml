@@ -1,0 +1,16 @@
+headword: арцӏӕӏӕ
+ipa: aɾtsʼæˈʔæ
+tags: [n, vb]
+forms:
+  - text: арцӏӕӏне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: weeder
+      ru: пропольщик
+    tags: [occupation, agriculture]
+
+variants: [арцӏиҡӏӕн]
+derived_from: [ирцӏара]
+see_also: [уттӕӏӕ]

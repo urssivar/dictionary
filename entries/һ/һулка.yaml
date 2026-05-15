@@ -1,0 +1,16 @@
+headword: һулка
+ipa: ˈhulka
+tags: [n, loan, turkic]
+forms:
+  - text: һулка
+    gloss: abs
+  - text: һулкан
+    gloss: obl
+  - text: һулкне
+    gloss: pl
+definitions:
+  - translation:
+      en: country
+      ru: страна
+    aliases:
+      en: [land]

@@ -1,0 +1,18 @@
+headword: һиччара
+ipa: hiˈtʃːaɾa
+tags: [v, cls, tr]
+note:
+  en: "*ьабиччур* (pret), *черьиччара*"
+forms:
+  - text: һабиччара
+    gloss: pfv
+  - text: һабиччив
+    gloss: pret
+  - text: һиччара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to carve
+      ru: вырезать
+    aliases:
+      en: [cut, out]

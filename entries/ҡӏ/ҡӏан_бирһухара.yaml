@@ -1,0 +1,16 @@
+headword: ҡӏан бирһухара
+ipa: ˌqʼan biɾhuˈχaɾa
+tags: [v, tr, cls]
+forms:
+  - text: ҡӏан биһухара
+    gloss: pfv
+  - text: ҡӏан биһухӕв
+    gloss: pret
+  - text: ҡӏан бирһухара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to delay
+      ru: задерживать
+    aliases:
+      en: [linger]

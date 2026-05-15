@@ -1,0 +1,14 @@
+headword: һаругара
+ipa: haɾuˈgaɾa
+tags: [v, cls, tr]
+forms:
+  - text: һабергора
+    gloss: pfv
+  - text: һабергур
+    gloss: pret
+  - text: һаругара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to round dough
+      ru: закруглять тесто

@@ -13,13 +13,13 @@ definitions:
       en: entity
       ru: сущность
     examples:
-      - text: ьурцан жан
+      - text: һурцан жан
         translation:
           en: a flying animal
   - translation:
       en: dear
       ru: дорогой
     examples:
-      - text: жан аллаь
+      - text: жан аллаһ
         translation:
           en: dear god

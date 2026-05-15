@@ -1,0 +1,16 @@
+headword: һам бурцара
+ipa: ˌham buɾˈtsaɾa
+tags: [v, ntr]
+forms:
+  - text: һам буцара
+    gloss: pfv
+  - text: һам буцив
+    gloss: pret
+  - text: һам бурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to withstand
+      ru: выдерживать
+    aliases:
+      en: [survive]

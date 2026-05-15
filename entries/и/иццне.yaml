@@ -11,7 +11,7 @@ definitions:
       ru: боль
     tags: [body]
     examples:
-      - text: Иццне цӏаҡӏ бирьул це.
+      - text: Иццне цӏаҡӏ бирһул це.
         translation:
           en: The pain is intensifying.
           ru: Боль усиливается.

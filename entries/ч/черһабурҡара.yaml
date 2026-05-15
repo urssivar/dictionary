@@ -1,0 +1,16 @@
+headword: черһабурҡара
+ipa: tʃeɾhabuɾˈqaɾa
+tags: [v, cls, tr]
+forms:
+  - text: черһабӕҡара
+    gloss: pfv
+  - text: черһабӕҡив
+    gloss: pret
+  - text: черһабурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to partition
+      ru: разгораживать
+    aliases:
+      en: [split, divide]

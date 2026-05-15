@@ -1,0 +1,16 @@
+headword: һадирҳара
+ipa: hadiɾˈxaɾa
+tags: [v, tr]
+forms:
+  - text: һадиҳара
+    gloss: pfv
+  - text: һадишив
+    gloss: pret
+  - text: һадирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to name
+      ru: нарекать, называть
+    aliases:
+      en: [call]

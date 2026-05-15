@@ -1,0 +1,17 @@
+headword: һиһ бертара
+ipa: ˌhih beɾˈtaɾa
+tags: [v, tr]
+forms:
+  - text: һиһ бетара
+    gloss: pfv
+  - text: һиһ бетур
+    gloss: pret
+  - text: һиһ бертара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to express
+      ru: выражать (отношение)
+    tags: [emotion]
+    aliases:
+      en: [attitude, opine]

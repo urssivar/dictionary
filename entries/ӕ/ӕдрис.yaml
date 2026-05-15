@@ -1,0 +1,12 @@
+headword: ӕдрис
+ipa: ædˈɾis
+tags: [n, loan, russian]
+forms:
+  - text: ӕдрис
+    gloss: abs
+  - text: ӕдрисе
+    gloss: pl
+definitions:
+  - translation:
+      en: address
+      ru: адрес

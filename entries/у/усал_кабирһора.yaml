@@ -1,0 +1,16 @@
+headword: усал кабирһора
+ipa: uˈsal kabiɾˌhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: усал кабиһора
+    gloss: pfv
+  - text: усал кабиһӕв
+    gloss: pret
+  - text: усал кабирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to peter
+      ru: скудеть
+    aliases:
+      en: [rare, thin, bad, poor]

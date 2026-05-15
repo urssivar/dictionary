@@ -1,0 +1,16 @@
+headword: меӏ кадирара
+ipa: ˌmeʔ kadiˈɾaɾa
+tags: [v, tr]
+forms:
+  - text: меӏ кадарара
+    gloss: pfv
+  - text: меӏ кадарив
+    gloss: pret
+  - text: меӏ кадирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to fool around
+      ru: дурачиться
+    aliases:
+      en: [tongue]

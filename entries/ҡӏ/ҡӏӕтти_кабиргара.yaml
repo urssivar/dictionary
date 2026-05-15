@@ -1,0 +1,14 @@
+headword: ҡӏӕтти кабиргара
+ipa: qʼæˌtːi kabiɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: ҡӏӕтти кабигара
+    gloss: pfv
+  - text: ҡӏӕтти кабижив
+    gloss: pret
+  - text: ҡӏӕтти кабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to choke
+      ru: давиться

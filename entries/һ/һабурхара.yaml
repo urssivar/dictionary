@@ -1,0 +1,16 @@
+headword: һабурхара
+ipa: habuɾˈχaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һаберхора
+    gloss: pfv
+  - text: һаберхур
+    gloss: pret
+  - text: һабурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to end
+      ru: кончаться
+    aliases:
+      en: [over, finish]

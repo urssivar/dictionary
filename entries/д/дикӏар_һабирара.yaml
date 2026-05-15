@@ -1,0 +1,16 @@
+headword: дикӏар һабирара
+ipa: diˌkʼaɾ habiˈɾaɾa
+tags: [v, cls, tr]
+forms:
+  - text: дикӏар һабарара
+    gloss: pfv
+  - text: дикӏар һабарив
+    gloss: pret
+  - text: дикӏар һабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to select
+      ru: выбирать
+    aliases:
+      en: [choose, filter]

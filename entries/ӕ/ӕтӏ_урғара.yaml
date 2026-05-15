@@ -1,0 +1,16 @@
+headword: ӕтӏ урғара
+ipa: ˌætʼ uɾˈʁaɾa
+tags: [v, tr]
+forms:
+  - text: ӕтӏ ағара
+    gloss: pfv
+  - text: ӕтӏ ағив
+    gloss: pret
+  - text: ӕтӏ урғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to demolish
+      ru: сносить
+    aliases:
+      en: [break, collapse]

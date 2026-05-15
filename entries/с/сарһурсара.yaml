@@ -1,0 +1,18 @@
+headword: сарһурсара
+ipa: saɾhuɾˈsaɾa
+tags: [v, ntr]
+note:
+  en: "*гунер ьурсара*"
+forms:
+  - text: сарһасара
+    gloss: pfv
+  - text: сарһасив
+    gloss: pret
+  - text: сарһурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to disappear
+      ru: пропадать, погибать, испаряться
+    aliases:
+      en: [evaporate, die]

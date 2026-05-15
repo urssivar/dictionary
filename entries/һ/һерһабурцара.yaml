@@ -1,0 +1,16 @@
+headword: һерһабурцара
+ipa: heɾhabuɾˈtsaɾa
+tags: [v, tr, cls]
+forms:
+  - text: һерһабуцара
+    gloss: pfv
+  - text: һерһабуцив
+    gloss: pret
+  - text: һерһабурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to endorse
+      ru: одобрять, поддерживать
+    aliases:
+      en: [help, aid, root]

@@ -1,0 +1,16 @@
+headword: һисав һурсара
+ipa: hiˌsaβ huɾˈsaɾa
+tags: [v, tr]
+forms:
+  - text: һисав һасара
+    gloss: pfv
+  - text: һисав һасив
+    gloss: pret
+  - text: һисав һурсара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to take into account
+      ru: учитывать
+    aliases:
+      en: [consider]

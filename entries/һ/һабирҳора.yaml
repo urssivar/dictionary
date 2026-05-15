@@ -1,0 +1,16 @@
+headword: һабирҳора
+ipa: habiɾˈxʷaɾa
+tags: [v, tr, cls]
+forms:
+  - text: һабиҳора
+    gloss: pfv
+  - text: һабишур
+    gloss: pret
+  - text: һабирҳора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hang out
+      ru: развешивать
+    aliases:
+      en: [peg]

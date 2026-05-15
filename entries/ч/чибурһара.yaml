@@ -1,0 +1,16 @@
+headword: чибурһара
+ipa: tʃibuɾˈhaɾa
+tags: [v, cls, tr]
+forms:
+  - text: чибарһара
+    gloss: pfv
+  - text: чибарһив
+    gloss: pret
+  - text: чибурһара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to patch
+      ru: нашивать
+    aliases:
+      en: [fix, sew]

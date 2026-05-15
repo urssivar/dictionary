@@ -1,0 +1,16 @@
+headword: кеп бирһора
+ipa: ˌkep biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: кеп биһора
+    gloss: pfv
+  - text: кеп биһӕв
+    gloss: pret
+  - text: кеп бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get high
+      ru: пьянеть
+    aliases:
+      en: [intoxicate]

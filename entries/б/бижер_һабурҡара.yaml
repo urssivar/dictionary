@@ -1,0 +1,16 @@
+headword: бижер һабурҡара
+ipa: biˌʒeɾ habuˈqaɾa
+tags: [v, cls, tr]
+forms:
+  - text: бижер һабӕҡара
+    gloss: pfv
+  - text: бижер һабӕҡив
+    gloss: pret
+  - text: бижер һабурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to immerse
+      ru: погружать
+    aliases:
+      en: [dunk, dip]

@@ -1,0 +1,16 @@
+headword: һурғара
+ipa: huɾˈʁaɾa
+tags: [v, tr]
+forms:
+  - text: һағара
+    gloss: pfv
+  - text: һағив
+    gloss: pret
+  - text: һурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to drive
+      ru: управлять, водить
+    aliases:
+      en: [lead]

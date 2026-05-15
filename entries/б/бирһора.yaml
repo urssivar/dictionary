@@ -1,0 +1,25 @@
+headword: бирһора
+ipa: biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: биһора
+    gloss: pfv
+  - text: биһӕв
+    gloss: pret
+  - text: бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to be
+      ru: быть
+    aliases:
+      en: [become]
+    examples:
+      - text: и ғурш ҡил вирһитте у
+  - translation:
+      en: to be able
+      ru: мочь
+    aliases:
+      en: [can]
+    examples:
+      - text: дул һел һана барара вирһул аккоде

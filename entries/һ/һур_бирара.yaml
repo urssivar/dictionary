@@ -1,0 +1,16 @@
+headword: һур бирара
+ipa: ˌhuɾ biˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: һур барара
+    gloss: pfv
+  - text: һур барив
+    gloss: pret
+  - text: һур бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to jolt
+      ru: потрясывать
+    aliases:
+      en: [jiggle, shake]

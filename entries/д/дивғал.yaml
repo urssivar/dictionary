@@ -19,7 +19,7 @@ definitions:
     aliases:
       en: [prayer]
     examples:
-      - text: ьабиграла дивғал
+      - text: һабиграла дивғал
         translation:
           en: fajr prayer
       - text: дажела дивғал

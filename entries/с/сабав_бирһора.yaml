@@ -1,0 +1,20 @@
+headword: сабав бирһора
+ipa: saˌbaβ biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: сабав биһора
+    gloss: pfv
+  - text: сабав биһӕв
+    gloss: pret
+  - text: сабав бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to heal
+      ru: исцелять
+    aliases:
+      en: [cure]
+    examples:
+      - text: һел шин сабав диһӕв дами
+        translation:
+          en: that water healed me

@@ -1,0 +1,19 @@
+headword: беза бирһора
+ipa: ˌbeza biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: бези биһора
+    gloss: pfv
+  - text: бази биһӕв
+    gloss: pret
+  - text: бези бирһора
+    gloss: ipfv
+variants: [бези]
+definitions:
+  - translation:
+      en: to calm down
+      ru: униматься
+    aliases:
+      en: [low, quiet, easy]
+    examples:
+      - text: аттал маймай варил дӕрһӕ беза виһӕв

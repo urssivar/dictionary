@@ -1,0 +1,19 @@
+headword: барх һабирһора
+ipa: ˌbaɾχ habiɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: барх һабиһора
+    gloss: pfv
+  - text: барх һабиһӕв
+    gloss: pret
+  - text: барх һабирһора
+    gloss: ipfv
+
+definitions:
+  - translation:
+      en: to confuse
+      ru: запутываться
+    aliases:
+      en: [tangle, snarl]
+    examples:
+      - text: Сукке дарх һадиһӕв дила

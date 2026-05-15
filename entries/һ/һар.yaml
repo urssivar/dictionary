@@ -1,0 +1,19 @@
+headword: һар
+ipa: ˈhaɾ
+tags: [det]
+definitions:
+  - translation:
+      en: each
+      ru: каждый
+    aliases:
+      en: [every]
+    examples:
+      - text: һар хурег һӕсив барив
+        translation:
+          en: tried each meal
+      - text: һар мусан
+        translation:
+          en: everywhere
+      - text: һар цикӏал
+        translation:
+          en: everything

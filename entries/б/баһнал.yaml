@@ -1,0 +1,22 @@
+headword: баһнал
+ipa: bahˈnal
+tags: [conj]
+
+definitions:
+  - translation:
+      en: because
+      ru: из-за
+    aliases:
+      en: [for, due, to]
+    examples:
+      - text: Ци баһнал?
+        translation:
+          en: Because of what?
+          ru: Из-за чего?
+      - text: Ду баһнал дила уртаҡҡ шаһарцци тта цағив.
+        translation:
+          en: My friend came from city for me.
+          ru: Мой друг приехал из города из-за меня.
+
+variants: [баһандан, баһнадин]
+derived_from: [баһна]

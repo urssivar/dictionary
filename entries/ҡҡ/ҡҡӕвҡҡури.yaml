@@ -1,0 +1,15 @@
+headword: ҡҡӕвҡҡури
+ipa: qːæβqːuˈɾi
+tags: [n]
+forms:
+  - text: ҡҡӕвҡҡури
+    gloss: abs
+  - text: ҡҡӕвҡҡурме
+    gloss: pl
+definitions:
+  - translation:
+      en: circumcision doctor
+      ru: врач по обрезанию
+    tags: [occupation]
+    aliases:
+      en: [surgeon, doctor]

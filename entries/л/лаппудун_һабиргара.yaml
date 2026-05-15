@@ -1,0 +1,16 @@
+headword: лаппудун һабиргара
+ipa: lapːuˌdun habiɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: лаппудун һабигара
+    gloss: pfv
+  - text: лаппудун һабижив
+    gloss: pret
+  - text: лаппудун һабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to tumble
+      ru: кувыркаться
+    aliases:
+      en: [somersault]

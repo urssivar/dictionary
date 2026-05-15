@@ -1,0 +1,16 @@
+headword: һереғ кабурхара
+ipa: heˌɾeʁ kabuɾˈχaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һереғ каберхора
+    gloss: pfv
+  - text: һереғ каберхур
+    gloss: pret
+  - text: һереғ кабурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to accompany
+      ru: сопровождать
+    aliases:
+      en: [escort]

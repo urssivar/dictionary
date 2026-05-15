@@ -1,0 +1,12 @@
+headword: пар һабаҳара
+ipa: ˌpaɾ habaˈxaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: пар һабаҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to steam
+      ru: париться
+    aliases:
+      en: [disappear, steam, vapor]

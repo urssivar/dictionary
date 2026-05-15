@@ -1,0 +1,17 @@
+headword: билһала
+ipa: bilˈhala
+tags: [n, vb]
+etymology:
+  en: From *бильана* "to tie".
+forms:
+  - text: билһала
+    gloss: abs
+  - text: билһлуме
+    gloss: pl
+definitions:
+  - translation:
+      en: bundle
+      ru: сверток
+    tags: [tool]
+    aliases:
+      en: [pack]

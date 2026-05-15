@@ -1,0 +1,23 @@
+headword: алав һабурцара
+ipa: aˌlaβ habuɾˈtsaɾa
+tags: [v, cls, tr]
+forms:
+  - text: һабуцара
+    gloss: pfv
+  - text: һабуцив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to surround
+      ru: окружать
+    aliases:
+      en: [encircle]
+      ru: [обводить]
+    examples:
+      - text: Уба цинна дӕһнал алав һаруцил разил риххул це.
+        translation:
+          en: The mother is kept happy surrounded by her children.
+          ru: Мать окружена своими детьми и чувствует себя счастливо.
+
+derived_from: [алав, бурцара]

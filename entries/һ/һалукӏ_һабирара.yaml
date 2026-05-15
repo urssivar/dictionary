@@ -1,0 +1,16 @@
+headword: һалукӏ һабирара
+ipa: haˌlukʼ habiˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: һалукӏ һабарара
+    gloss: pfv
+  - text: һалукӏ һабарив
+    gloss: pret
+  - text: һалукӏ һабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to move
+      ru: расшевеливать
+    aliases:
+      en: [stir, shake]

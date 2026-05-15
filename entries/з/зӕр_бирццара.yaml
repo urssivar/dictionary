@@ -1,0 +1,16 @@
+headword: зӕр бирццара
+ipa: ˌzæɾ biɾˈtsːaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: зӕр биццара
+    gloss: pfv
+  - text: зӕр биццур
+    gloss: pret
+  - text: зӕр бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to dazzle
+      ru: ослеплять
+    aliases:
+      en: [shine, glow]

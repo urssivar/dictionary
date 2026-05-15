@@ -1,0 +1,16 @@
+headword: гунер һабирҳора
+ipa: guˌneɾ habiɾˈxʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: гунер һабиҳора
+    gloss: pfv
+  - text: гунер һабишур
+    gloss: pret
+  - text: гунер һабирҳора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to exterminate
+      ru: истреблять
+    aliases:
+      en: [eradicate, destroy, decimate]

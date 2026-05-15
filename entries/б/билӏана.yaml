@@ -1,0 +1,18 @@
+headword: билӏана
+ipa: bilˈʔana
+tags: [v, cls, tr]
+note:
+  en: "*билъяна*"
+forms:
+  - text: биӏана
+    gloss: pfv
+  - text: биӏун
+    gloss: pret
+  - text: билӏана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to steal
+      ru: красть
+    examples:
+      - text: ҡҡачиғал шилла еҡӏе биӏун

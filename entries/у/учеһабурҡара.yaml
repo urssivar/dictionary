@@ -1,0 +1,16 @@
+headword: учеһабурҡара
+ipa: utʃehabuɾˈqaɾa
+tags: [v, tr, ntr, cls]
+forms:
+  - text: учеһабӕҡара
+    gloss: pfv
+  - text: учеһабӕҡив
+    gloss: pret
+  - text: учеһабурҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to organize
+      ru: организовывать
+    aliases:
+      en: [tide, ready]

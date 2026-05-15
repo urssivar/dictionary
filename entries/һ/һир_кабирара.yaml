@@ -1,0 +1,16 @@
+headword: һир кабирара
+ipa: ˌhiɾ kabiˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: һир кабарара
+    gloss: pfv
+  - text: һир кабарив
+    gloss: pret
+  - text: һир кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to instigate
+      ru: подстрекать
+    aliases:
+      en: [incite]

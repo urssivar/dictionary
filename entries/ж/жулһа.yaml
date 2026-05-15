@@ -1,0 +1,17 @@
+headword: жулһа
+ipa: ˈʒulha
+tags: [n]
+note:
+  en: "*кур*, *дурҡьал*"
+forms:
+  - text: жулһа
+    gloss: abs
+  - text: жулһан
+    gloss: obl
+  - text: жулһме
+    gloss: pl
+definitions:
+  - translation:
+      en: loom
+      ru: ткацкий станок
+    tags: [tool]

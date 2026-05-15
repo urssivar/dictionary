@@ -1,0 +1,16 @@
+headword: тӏутӏу бирһора
+ipa: tʼuˌtʼu biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: тӏутӏу биһора
+    gloss: pfv
+  - text: тӏутӏу биһӕв
+    gloss: pret
+  - text: тӏутӏу бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to scatter
+      ru: рассеиваться
+    aliases:
+      en: [disband, break, dissipate]

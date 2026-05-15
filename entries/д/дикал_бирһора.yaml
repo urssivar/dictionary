@@ -1,0 +1,14 @@
+headword: дикал бирһора
+ipa: diˌkal biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: дикал биһора
+    gloss: pfv
+  - text: дикал биһӕв
+    gloss: pret
+  - text: дикал бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to laugh
+      ru: смеяться

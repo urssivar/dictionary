@@ -1,0 +1,20 @@
+headword: баһна
+ipa: ˈbahna
+tags: [n, loan]
+forms:
+  - text: баһна
+    gloss: abs
+  - text: баһниппе
+    gloss: pl
+definitions:
+  - translation:
+      en: reason
+      ru: повод
+    aliases:
+      en: [case]
+    examples:
+      - text: ду ижин угара баһна бейкку
+  - translation:
+      en: guilt
+    examples:
+      - text: баһна аккол туснаҡҡцци катур

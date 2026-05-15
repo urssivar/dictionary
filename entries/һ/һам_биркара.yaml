@@ -1,0 +1,18 @@
+headword: һам биркара
+ipa: ˌham biɾˈkaɾa
+tags: [v, ntr, cls]
+note:
+  en: "*пикре цабиркара*"
+forms:
+  - text: һам бикара
+    gloss: pfv
+  - text: һам бичив
+    gloss: pret
+  - text: һам биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to imagine
+      ru: представляться, думаться
+    aliases:
+      en: [think, believe]

@@ -1,0 +1,17 @@
+headword: ппиһам
+ipa: pːiˈham
+tags: [n]
+note:
+  en: "*жутьен*"
+forms:
+  - text: ппиһам
+    gloss: abs
+  - text: ппиһме
+    gloss: pl
+definitions:
+  - translation:
+      en: eyelash
+      ru: ресница
+    tags: [body]
+    aliases:
+      en: [hair]

@@ -1,0 +1,16 @@
+headword: һаттила
+ipa: haˈtːila
+tags: [n]
+etymology:
+  en: From *ьатт* "upward".
+forms:
+  - text: һаттила
+    gloss: abs
+  - text: һаттилал
+    gloss: obl
+definitions:
+  - translation:
+      en: ascent
+      ru: подъем
+    aliases:
+      en: [climb]

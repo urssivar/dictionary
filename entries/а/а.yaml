@@ -7,7 +7,7 @@ definitions:
       en: but, and
       ru: а, но
     examples:
-      - text: Дул ьеж биранда, а ил ьел бара.
+      - text: Дул һеж биранда, а ил һел бара.
         translation:
           en: I will do this, and you do that.
           ru: Я сделаю это, а ты сделай то.

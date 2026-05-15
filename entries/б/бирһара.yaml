@@ -1,0 +1,18 @@
+headword: бирһара
+ipa: biɾˈhaɾa
+tags: [v, tr, cls]
+forms:
+  - text: берһара
+    gloss: pfv
+  - text: берһив
+    gloss: pret
+  - text: бирһара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to strike
+      ru: ударять
+    aliases:
+      en: [hit]
+    examples:
+      - text: уццил тӏӕлли хахбецӏи берһив

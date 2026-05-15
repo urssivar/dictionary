@@ -1,0 +1,18 @@
+headword: нӕлбикк
+ipa: nælˈbikː
+tags: [n, loan, turkic]
+note:
+  en: "*чяйла сукра*, *бицьнуҳ*, *бушҡҡап*"
+forms:
+  - text: нӕлбикк
+    gloss: abs
+  - text: нӕлбиккан
+    gloss: loc
+  - text: нӕлбикке
+    gloss: pl
+definitions:
+  - translation:
+      en: saucer
+      ru: блюдце
+    aliases:
+      en: [plate]

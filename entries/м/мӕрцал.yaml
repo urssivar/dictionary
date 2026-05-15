@@ -1,0 +1,16 @@
+headword: мӕрцал
+ipa: ˈmæɾtsal
+tags: [n]
+forms:
+  - text: мӕрцал
+    gloss: abs
+  - text: мӕрцле
+    gloss: obl
+  - text: мӕрцлиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: wall
+      ru: стена, кладка
+    aliases:
+      en: [masonry]

@@ -1,0 +1,16 @@
+headword: саһицӏара
+ipa: sahiˈtsʼaɾa
+tags: [v, ntr]
+forms:
+  - text: саһацӏара
+    gloss: pfv
+  - text: саһацӏив
+    gloss: pret
+  - text: саһицӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to quicken
+      ru: убыстряться
+    aliases:
+      en: [speed, accelerate]

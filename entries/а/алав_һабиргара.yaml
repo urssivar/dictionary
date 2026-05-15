@@ -1,0 +1,23 @@
+headword: алав һабиргара
+ipa: aˌlaβ habiɾˈgaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: һабигара
+    gloss: pfv
+  - text: һабижив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to cooperate, to contribute
+      ru: сотрудничать, содействовать
+    aliases:
+      en: [unite, work together]
+      ru: [объединяться, сработаться]
+    examples:
+      - text: Рирсбе алав һабижил азбар унзу барив.
+        translation:
+          en: The girls worked together and cleaned the yard.
+          ru: Девушки совместно работая почистили двор.
+
+derived_from: [алав, биргара]

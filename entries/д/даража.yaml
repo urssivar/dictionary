@@ -13,6 +13,6 @@ definitions:
     aliases:
       en: [state]
     examples:
-      - text: ьел даражай веғил
+      - text: һел даражай веғил
         translation:
           en: have arrived at such situation

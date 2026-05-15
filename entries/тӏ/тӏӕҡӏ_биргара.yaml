@@ -1,0 +1,14 @@
+headword: тӏӕҡӏ биргара
+ipa: ˌtʼæqʼ biɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: тӏӕҡӏ бигара
+    gloss: pfv
+  - text: тӏӕҡӏ бижив
+    gloss: pret
+  - text: тӏӕҡӏ биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to crack
+      ru: трескаться

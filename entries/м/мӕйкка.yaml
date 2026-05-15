@@ -1,0 +1,14 @@
+headword: мӕйкка
+ipa: mæjˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: мӕйкка
+    gloss: abs
+  - text: мӕйккан
+    gloss: obl, loc
+  - text: мӕйккне
+    gloss: pl
+definitions:
+  - translation:
+      en: sleeveless shirt
+      ru: майка

@@ -1,0 +1,20 @@
+headword: хайре бирһора
+ipa: ˌχajɾe biɾˈhʷaɾa
+tags: [v, ntr]
+forms:
+  - text: хайре биһора
+    gloss: pfv
+  - text: хайре биһӕв
+    gloss: pret
+  - text: хайре бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to may
+      ru: мочь
+    aliases:
+      en: [permit, let, can]
+    examples:
+      - text: дӕна хайре бирһор
+        translation:
+          en: we may go

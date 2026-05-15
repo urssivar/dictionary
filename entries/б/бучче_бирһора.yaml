@@ -1,0 +1,18 @@
+headword: бучче бирһора
+ipa: ˌbutʃːe biɾˈhʷaɾa
+tags: [v, ntr, cls]
+etymology:
+  en: Related to *буччара* "to drink".
+forms:
+  - text: бучче биһора
+    gloss: pfv
+  - text: бучче биһӕв
+    gloss: pret
+  - text: бучче бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get drunk
+      ru: пьянеть
+    aliases:
+      en: [intoxicate, high]

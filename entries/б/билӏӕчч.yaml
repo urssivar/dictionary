@@ -1,0 +1,15 @@
+headword: билӏӕчч
+ipa: bilˈʔætʃː
+tags: [n, vb]
+etymology:
+  en: From *билъана* "to steal".
+forms:
+  - text: билӏӕчч
+    gloss: abs
+  - text: билӏӕчче
+    gloss: pl
+definitions:
+  - translation:
+      en: thief
+      ru: вор
+    tags: [occupation]

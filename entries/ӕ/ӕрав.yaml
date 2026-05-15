@@ -1,0 +1,17 @@
+headword: ӕрав
+ipa: æˈɾaβ
+tags: [n, adj, loan, arabic]
+forms:
+  - text: ӕрав
+    gloss: abs
+  - text: ӕравте
+    gloss: pl
+definitions:
+  - translation:
+      en: arab
+      ru: араб, арабский
+    tags: [demonym]
+    examples:
+      - text: ӕрав даһаг
+        translation:
+          en: horrible

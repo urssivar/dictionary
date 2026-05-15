@@ -1,0 +1,19 @@
+headword: бӕвғре
+ipa: ˈbæβʁɾe
+tags: [n, vb]
+etymology:
+  en: From *бивғара* "to crush".
+forms:
+  - text: бӕвғре
+    gloss: abs
+  - text: бӕвғрин
+    gloss: obl
+  - text: бӕвғриппе
+    gloss: pl
+definitions:
+  - note:
+      en: Traditional Kaitag dish.
+    translation:
+      en: nut sauce
+      ru: ореховый соус
+    tags: [food]

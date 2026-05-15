@@ -1,0 +1,15 @@
+headword: ҡӏӕлта
+ipa: ˈqʼælta
+tags: [n]
+forms:
+  - text: ҡӏӕлта
+    gloss: abs
+  - text: ҡӏӕлтан
+    gloss: obl
+  - text: ҡӏӕлтиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: torch
+      ru: факел
+    tags: [tool]

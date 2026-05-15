@@ -1,0 +1,13 @@
+headword: зӕнг
+ipa: ˈzæng
+tags: [n]
+definitions:
+  - translation:
+      en: call
+      ru: звонок
+    aliases:
+      en: [ringing]
+    examples:
+      - text: зӕнг бара ила уцций
+        translation:
+          en: call your brother

@@ -1,0 +1,13 @@
+headword: жӕлтта
+ipa: ˈʒæltːa
+tags: [n]
+forms:
+  - text: жӕлтта
+    gloss: abs
+  - text: жӕлттне
+    gloss: pl
+definitions:
+  - translation:
+      en: swallow
+      ru: ласточка
+    tags: [animal, bird]

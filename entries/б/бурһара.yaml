@@ -1,0 +1,18 @@
+headword: бурһара
+ipa: buɾˈhaɾa
+tags: [v, cls, tr]
+forms:
+  - text: барһара
+    gloss: pfv
+  - text: барһив
+    gloss: pret
+  - text: бурһара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to sew
+      ru: шить
+    aliases:
+      en: [stitch]
+    examples:
+      - text: һеж йулған абабал барһур

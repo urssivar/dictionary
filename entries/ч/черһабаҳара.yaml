@@ -1,0 +1,16 @@
+headword: черһабаҳара
+ipa: tʃeɾhabaˈxaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: черһабаҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to vomit
+      ru: вырывать, блевать
+    aliases:
+      en: [puke]
+    examples:
+      - text: черһадаҳул це дила
+        translation:
+          en: i'm vomiting

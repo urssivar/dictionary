@@ -1,0 +1,14 @@
+headword: чирдӕх
+ipa: tʃiɾˈdæχ
+tags: [n, loan, russian]
+forms:
+  - text: чирдӕх
+    gloss: abs
+  - text: чирдӕхе
+    gloss: pl
+definitions:
+  - translation:
+      en: attic
+      ru: чердак
+    aliases:
+      en: [loft, garret, room]

@@ -1,0 +1,16 @@
+headword: нуһру
+ipa: ˈnuhɾu
+tags: [n, loan, persian]
+note:
+  en: "*наьру*"
+forms:
+  - text: нуһру
+    gloss: abs
+  - text: нуһунде
+    gloss: pl
+definitions:
+  - translation:
+      en: seal
+      ru: печать
+    aliases:
+      en: [stamp, sign]

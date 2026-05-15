@@ -1,0 +1,16 @@
+headword: биж һурғара
+ipa: ˌbiʒ huɾˈʁaɾa
+tags: [v, tr, cls]
+forms:
+  - text: биж һағара
+    gloss: pfv
+  - text: биж һағив
+    gloss: pret
+  - text: биж һурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to drive in
+      ru: загонять
+    aliases:
+      en: [huddle]
