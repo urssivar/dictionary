@@ -1,0 +1,16 @@
+headword: аҳлиӏән
+ipa: axliˈʔæn
+tags: [n]
+forms:
+  - text: аҳлиӏне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: bird
+      ru: птица
+    tags: [bird]
+
+variants: [аҳлиҡӏә]
+derived_from: ["*аҳора"]
+see_also: [һиҳора, бежлиӏә]

@@ -10,9 +10,9 @@ definitions:
     aliases:
       en: [broken, bad]
     examples:
-      - text: урши зай виһӕв
+      - text: урши зай виһәв
         translation:
           en: the boy got spoiled
-      - text: машин зай биһӕв
+      - text: машин зай биһәв
         translation:
           en: the car stopped working

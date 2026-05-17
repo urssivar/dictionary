@@ -1,0 +1,18 @@
+headword: бәӏ урғара
+ipa: ˌbæʔ uɾˈʁaɾa
+tags: [v, tr, cls]
+forms:
+  - text: бәӏ ағара
+    gloss: pfv
+  - text: бәӏ ағив
+    gloss: pret
+  - text: бәӏ урғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to aim
+      ru: нацеливать, направлять
+    aliases:
+      en: [direct, rotate, steer]
+    examples:
+      - text: шин ккалккунжи дәӏ аға

@@ -1,0 +1,16 @@
+headword: дәӏә урғара
+ipa: dæˌʔæ uɾˈʁaɾa
+tags: [v, tr]
+forms:
+  - text: дәӏә ағара
+    gloss: pfv
+  - text: дәӏә ағив
+    gloss: pret
+  - text: дәӏә урғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to baffle
+      ru: сбивать с толку
+    aliases:
+      en: [perflex, bewilder]

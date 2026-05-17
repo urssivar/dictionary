@@ -1,0 +1,16 @@
+headword: дәән бирҳара
+ipa: dæˌæn biɾˈxaɾa
+tags: [v, tr, cls]
+forms:
+  - text: дәән биҳара
+    gloss: pfv
+  - text: дәән бишив
+    gloss: pret
+  - text: дәән бирҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to hide
+      ru: прятать
+    aliases:
+      en: [conceal]

@@ -1,0 +1,16 @@
+headword: тәһ биргара
+ipa: ˌtæh biɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: тәһ бигара
+    gloss: pfv
+  - text: тәһ бижив
+    gloss: pret
+  - text: тәһ биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to jump
+      ru: прыгать
+    aliases:
+      en: [hop]

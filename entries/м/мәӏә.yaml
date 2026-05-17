@@ -1,0 +1,17 @@
+headword: мәӏә
+ipa: ˈmæʔæ
+tags: [n]
+note:
+  en: "*мяҡья*, *миҡьвяҡьвя*"
+forms:
+  - text: мәӏә
+    gloss: abs
+  - text: мәӏән
+    gloss: obl
+  - text: милӏә
+    gloss: pl
+definitions:
+  - translation:
+      en: egg
+      ru: яйцо
+    tags: [food]

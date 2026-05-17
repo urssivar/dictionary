@@ -1,0 +1,16 @@
+headword: һәна
+ipa: hæˈna
+tags: [v, ntr, cls]
+note:
+  en: "*ьянара*"
+forms:
+  - text: һәна
+    gloss: pfv
+  - text: һәбун
+    gloss: obl
+  - text: һәбе
+    gloss: imp
+definitions:
+  - translation:
+      en: to go up
+      ru: идти наверх

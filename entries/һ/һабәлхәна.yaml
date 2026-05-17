@@ -1,0 +1,16 @@
+headword: һабәлхәна
+ipa: habælˈχæna
+tags: [v, tr, cls]
+forms:
+  - text: һабәхән
+    gloss: pfv
+  - text: һабәхун
+    gloss: pret
+  - text: һабәлхәна
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to invoke
+      ru: вызывать
+    aliases:
+      en: [call, out]

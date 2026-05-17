@@ -1,0 +1,15 @@
+headword: вәӏлур
+ipa: βæʔˈluɾ
+tags: [n, loan]
+note:
+  en: "*валле*"
+forms:
+  - text: вәӏлур
+    gloss: abs
+  - text: вәӏлурте
+    gloss: pl
+definitions:
+  - translation:
+      en: camel
+      ru: верблюд
+    tags: [animal]

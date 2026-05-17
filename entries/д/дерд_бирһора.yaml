@@ -4,7 +4,7 @@ tags: [v, cls, ntr]
 forms:
   - text: дерд биһора
     gloss: pfv
-  - text: дерд биһӕв
+  - text: дерд биһәв
     gloss: pret
   - text: дерд бирһора
     gloss: ipfv
@@ -15,6 +15,6 @@ definitions:
     aliases:
       en: [pall]
     examples:
-      - text: дерд виһӕл да ицци
+      - text: дерд виһәл да ицци
         translation:
           en: i am fed up with you

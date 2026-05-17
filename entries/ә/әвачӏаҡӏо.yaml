@@ -1,0 +1,17 @@
+headword: әвачӏаҡӏо
+ipa: ˈæβatʃʼaqʼʷa
+tags: [n]
+forms:
+  - text: әвачӏаҡӏон
+    gloss: pl
+
+definitions:
+  - translation:
+      en: layered bread
+      ru: слоёный хлеб
+    tags: [food]
+    aliases:
+      en: [puff]
+
+derived_from: [әва, чӏаҡӏо]
+variants: [берккуре, һәлбуч]

@@ -2,9 +2,9 @@ headword: кабурҡара
 ipa: kabuɾˈqaɾa
 tags: [v]
 forms:
-  - text: кабӕҡара
+  - text: кабәҡара
     gloss: pfv
-  - text: кабӕҡив
+  - text: кабәҡив
     gloss: pret
   - text: кабурҡара
     gloss: ipfv
@@ -15,6 +15,6 @@ definitions:
     aliases:
       en: [nail]
     examples:
-      - text: ғӕлме кадӕҡив
+      - text: ғәлме кадәҡив
         translation:
           en: hammered the nails

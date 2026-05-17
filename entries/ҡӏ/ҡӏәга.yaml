@@ -1,0 +1,17 @@
+headword: ҡӏәга
+ipa: ˈqʼæga
+tags: [n]
+forms:
+  - text: ҡӏәга
+    gloss: abs
+  - text: ҡӏәган
+    gloss: obl
+  - text: ҡӏәгне
+    gloss: pl
+definitions:
+  - translation:
+      en: pole
+      ru: жердь
+    tags: [tool]
+    aliases:
+      en: [beam]

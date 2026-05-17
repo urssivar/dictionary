@@ -4,7 +4,7 @@ tags: [v, ntr, cls]
 forms:
   - text: барх биһора
     gloss: pfv
-  - text: барх биһӕв
+  - text: барх биһәв
     gloss: pret
   - text: барх бирһора
     gloss: ipfv
@@ -14,4 +14,4 @@ definitions:
       en: to deal with
       ru: иметь дело;
     examples:
-      - text: Ьелттаццил варх мавирһотте и
+      - text: Һелттаццил варх мавирһотте и

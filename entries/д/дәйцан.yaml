@@ -1,0 +1,12 @@
+headword: дәйцан
+ipa: dæjˈtsan
+tags: [n, vb]
+forms:
+  - text: дәйцан
+    gloss: abs
+  - text: дәйцанте
+    gloss: pl
+definitions:
+  - translation:
+      en: washbasin
+      ru: умывальник

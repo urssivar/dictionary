@@ -1,0 +1,18 @@
+headword: ҡәрш
+ipa: ˈqæɾʃ
+tags: [n]
+forms:
+  - text: ҡәрш
+    gloss: abs
+  - text: ҡәршре
+    gloss: pl
+definitions:
+  - translation:
+      en: cleft
+      ru: расщелина
+    aliases:
+      en: [split, rip, tear]
+    examples:
+      - text: ҡәрш берттив
+        translation:
+          en: to cleave

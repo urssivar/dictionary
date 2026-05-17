@@ -4,7 +4,7 @@ tags: [v, ntr, cls]
 forms:
   - text: биһора
     gloss: pfv
-  - text: биһӕв
+  - text: биһәв
     gloss: pret
 
 definitions:
@@ -13,7 +13,7 @@ definitions:
       ru: разонравиться
     tags: [feeling]
     examples:
-      - text: Ьел дами авикк виһӕв.
+      - text: Һел дами авикк виһәв.
         translation:
           en:
           ru:

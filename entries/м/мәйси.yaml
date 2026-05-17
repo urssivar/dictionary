@@ -1,0 +1,17 @@
+headword: мәйси
+ipa: mæjˈsi
+tags: [n]
+forms:
+  - text: мәйси
+    gloss: abs
+  - text: мәйсин
+    gloss: obl
+  - text: мәйсне
+    gloss: pl
+definitions:
+  - translation:
+      en: jurab
+      ru: джураб
+    tags: [clothing]
+    aliases:
+      en: [sock]

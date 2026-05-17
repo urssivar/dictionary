@@ -2,9 +2,9 @@ headword: бурҡара
 ipa: buɾˈqaɾa
 tags: [v, tr, cls]
 forms:
-  - text: бӕҡара
+  - text: бәҡара
     gloss: pfv
-  - text: бӕҡив
+  - text: бәҡив
     gloss: pret
   - text: бурҡара
     gloss: ipfv
@@ -13,21 +13,21 @@ definitions:
       en: to churn
       ru: взбивать
     examples:
-      - text: нег дӕҡара
+      - text: нег дәҡара
         translation:
           en: to churn milk
   - translation:
       en: to wound
       ru: ранить
     examples:
-      - text: и һӕрһӕнли вӕҡ!
+      - text: и һәрһәнли вәҡ!
   - translation:
       en: to carry out
       ru: выполнять
     aliases:
       en: [perform, do, act]
     examples:
-      - text: шутрацци дӕҡа
+      - text: шутрацци дәҡа
         translation:
           en: do [the math] on the abacus
       - text: аже дурҡанда

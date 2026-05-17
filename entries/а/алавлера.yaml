@@ -10,7 +10,7 @@ definitions:
       en: [about, round]
       ru: [кругом, округ]
     examples:
-      - text: Алавлера мавӕв!
+      - text: Алавлера мавәв!
         translation:
           en: No way, may he not go!
           ru: Ни за что, пусть не идёт!

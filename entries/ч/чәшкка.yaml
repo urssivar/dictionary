@@ -1,0 +1,15 @@
+headword: чәшкка
+ipa: tʃæʃˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: чәшкка
+    gloss: abs
+  - text: чәшккан
+    gloss: loc, obl
+  - text: чәшккне
+    gloss: pl
+definitions:
+  - translation:
+      en: cup
+      ru: чашка
+    tags: [tool]

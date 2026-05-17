@@ -1,0 +1,16 @@
+headword: әһ кабирһора
+ipa: ˌæh kabiɾˈhʷaɾa
+tags: [v, tr, cls]
+forms:
+  - text: әһ кабиһора
+    gloss: pfv
+  - text: әһ кабиһәв
+    gloss: pret
+  - text: әһ кабирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to recover
+      ru: восстаналиваться
+    aliases:
+      en: [heal, well, better]

@@ -1,0 +1,16 @@
+headword: тӏәҡӏ урғара
+ipa: ˌtʼæqʼ uɾˈʁaɾa
+tags: [v, tr]
+forms:
+  - text: тӏәҡӏ ағара
+    gloss: pfv
+  - text: тӏәҡӏ ағив
+    gloss: pret
+  - text: тӏәҡӏ урғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cleave
+      ru: рассекать
+    aliases:
+      en: [split]

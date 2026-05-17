@@ -1,0 +1,16 @@
+headword: хәр
+ipa: ˈχæɾ
+tags: [n]
+note:
+  en: "*дере*"
+forms:
+  - text: хәр
+    gloss: abs
+  - text: хәрме
+    gloss: pl
+definitions:
+  - translation:
+      en: boundary
+      ru: межа
+    aliases:
+      en: [border, region]

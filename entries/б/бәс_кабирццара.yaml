@@ -1,0 +1,19 @@
+headword: бәс кабирццара
+ipa: ˌbæs kabiɾˈtsːaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: бәс кабиццара
+    gloss: "?"
+  - text: бәс кабиццур
+    gloss: "?"
+  - text: бәс кабирццара
+    gloss: "?"
+definitions:
+  - translation:
+      en: to uphold
+      ru: отстаивать, заступился
+    aliases:
+      en: [defend, advocate, stand]
+    examples:
+      - text: цинна рицций бәс киццур
+    gloss: "?"

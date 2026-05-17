@@ -1,0 +1,16 @@
+headword: вәһи цабартара
+ipa: βæˌhi tsabaɾˈtaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: вәһи цабатара
+    gloss: pfv
+  - text: вәһи цабатур
+    gloss: pret
+  - text: вәһи цабартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lose consciousness
+      ru: потерять сознание
+    aliases:
+      en: [faint]

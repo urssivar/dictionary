@@ -1,0 +1,17 @@
+headword: бирӏәра
+ipa: biɾˈʔæɾa
+tags: [v, cls, tr]
+forms:
+  - text: бирӏәв
+    gloss: pret
+  - text: бирӏәра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to deceive
+      ru: обманывать
+    aliases:
+      en: [trick]
+    examples:
+      - text: вирӏәл дәрһә цака
+      - text: ил ду вирӏул де

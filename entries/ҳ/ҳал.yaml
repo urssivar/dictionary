@@ -7,9 +7,9 @@ definitions:
       en: for
       ru: для
     examples:
-      - text: ци ҳал цӕунде йа?
+      - text: ци ҳал цәунде йа?
         translation:
           en: what did you come for?
-      - text: уцци ҳал цӕунда
+      - text: уцци ҳал цәунда
         translation:
           en: i came for my brother

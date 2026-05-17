@@ -1,0 +1,20 @@
+headword: әвку
+ipa: ˈæβku
+tags: [n]
+etymology:
+  en: |-
+    From *яв* "three" + *кув* "language".
+    There's also attested *аркур* "talk" in Erckert. Could be a contamination.
+note:
+  en: "*явкур*"
+forms:
+  - text: әвку
+    gloss: abs
+  - text: әвкурме
+    gloss: pl
+definitions:
+  - translation:
+      en: verse
+      ru: стих
+    aliases:
+      en: [poetry]

@@ -1,0 +1,16 @@
+headword: мәғла бурцара
+ipa: ˌmæʁla buɾˈtsaɾa
+tags: [v, tr, cls]
+forms:
+  - text: мәғла буцара
+    gloss: pfv
+  - text: мәғла буцив
+    gloss: pret
+  - text: мәғла бурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to conceal
+      ru: утаивать
+    aliases:
+      en: [hide, mask, withhold]

@@ -1,0 +1,15 @@
+headword: әкӏа
+ipa: æˈkʼa
+tags: [n]
+forms:
+  - text: әкӏа
+    gloss: abs
+  - text: әкӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: fine
+      ru: штраф
+    tags: [social]
+    aliases:
+      en: [penalty]

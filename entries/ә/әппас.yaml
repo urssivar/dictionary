@@ -1,0 +1,14 @@
+headword: әппас
+ipa: æˈpːas
+tags: [n, loan, persian]
+forms:
+  - text: әппас
+    gloss: abs
+  - text: әпписне
+    gloss: pl
+definitions:
+  - translation:
+      en: coin
+      ru: монета
+    aliases:
+      en: [penny]

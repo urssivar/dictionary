@@ -4,7 +4,7 @@ tags: [v, cls, ntr]
 forms:
   - text: бацӏ биһора
     gloss: pfv
-  - text: бацӏ биһӕв
+  - text: бацӏ биһәв
     gloss: pret
   - text: бацӏ бирһора
     gloss: ipfv
@@ -12,7 +12,7 @@ definitions:
   - translation:
       en: пустеть
     examples:
-      - text: Дӕһне аккол ҡале бацӏ биһӕв.
+      - text: Дәһне аккол ҡале бацӏ биһәв.
   - translation:
       en: to have a miscarriage
       ru: иметь выкидыш

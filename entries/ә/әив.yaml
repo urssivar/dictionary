@@ -1,0 +1,21 @@
+headword: әив
+ipa: æˈiβ
+tags: [n, loan, arabic]
+forms:
+  - text: әив
+    gloss: abs
+  - text: әивте
+    gloss: pl
+definitions:
+  - translation:
+      en: blame
+      ru: порицание
+    aliases:
+      en: [guilt]
+    examples:
+      - text: әив мабиратте дами
+        translation:
+          en: don't blame me
+      - text: әив де
+        translation:
+          en: it was a pity

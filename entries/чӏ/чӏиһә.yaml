@@ -1,0 +1,17 @@
+headword: чӏиһә
+ipa: ˈtʃʼihæ
+tags: [n]
+forms:
+  - text: чӏиһә
+    gloss: abs
+  - text: чӏиһән
+    gloss: obl
+  - text: чӏиһме
+    gloss: pl
+definitions:
+  - translation:
+      en: culinary scoop
+      ru: ковш, кулинарный совок
+    tags: [tool]
+    aliases:
+      en: [ladle]

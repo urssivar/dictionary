@@ -1,0 +1,18 @@
+headword: бәӏ кургара
+ipa: ˌbæʔ kuɾˈgaɾa
+tags: [v, tr, cls]
+note:
+  en: "*кьапь бирара*"
+forms:
+  - text: бәӏ кагара
+    gloss: pfv
+  - text: бәӏ кагур
+    gloss: pret
+  - text: бәӏ кургара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cover
+      ru: накрывать
+    examples:
+      - text: Әшакк бәӏ кага гунадеҳ бужихара

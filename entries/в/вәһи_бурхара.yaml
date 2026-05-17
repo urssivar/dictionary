@@ -1,0 +1,16 @@
+headword: вәһи бурхара
+ipa: βæˌhi buɾˈχaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: вәһи берхора
+    gloss: pfv
+  - text: вәһи берхур
+    gloss: pret
+  - text: вәһи бурхара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to corrupt
+      ru: развращаться
+    aliases:
+      en: [deprave, bad]

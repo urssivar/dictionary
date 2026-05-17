@@ -1,0 +1,15 @@
+headword: ғвәр цабирара
+ipa: ˌʁʷæɾ tsabiˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: ғвәр цабарара
+    gloss: pfv
+  - text: ғвәр цабарив
+    gloss: pret
+  - text: ғвәр цабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to cross out
+      ru: перечёркивать
+    tags: []

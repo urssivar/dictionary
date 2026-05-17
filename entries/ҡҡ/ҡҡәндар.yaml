@@ -1,0 +1,19 @@
+headword: ҡҡәндар
+ipa: qːænˈdaɾ
+tags: [n]
+note:
+  en: "*ҡҡини*"
+forms:
+  - text: ҡҡәндар
+    gloss: abs
+  - text: ҡҡәндре
+    gloss: obl
+  - text: ҡҡәндриппе
+    gloss: pl
+definitions:
+  - translation:
+      en: carrying vessel
+      ru: водоносный кувшин
+    tags: [tool]
+    aliases:
+      en: [jug]

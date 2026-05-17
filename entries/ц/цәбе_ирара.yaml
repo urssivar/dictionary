@@ -1,0 +1,16 @@
+headword: цәбе ирара
+ipa: ˌtsæbe iˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: цәбе биара
+    gloss: pfv
+  - text: цәбе биив
+    gloss: pret
+  - text: цәбе ирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to call
+      ru: звать
+    aliases:
+      en: [ask, invite]

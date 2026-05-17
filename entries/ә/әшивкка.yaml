@@ -1,0 +1,13 @@
+headword: әшивкка
+ipa: æʃiβˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: әшивккан
+    gloss: obl
+  - text: әшивккне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: error
+      ru: ошибка

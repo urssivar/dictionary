@@ -1,0 +1,17 @@
+headword: сәәт
+ipa: sæˈæt
+tags: [n, loan, arabic]
+forms:
+  - text: сәәт
+    gloss: abs
+  - text: сәәте
+    gloss: pl
+definitions:
+  - translation:
+      en: hour
+      ru: час
+    tags: [time]
+  - translation:
+      en: clock
+      ru: часы
+    tags: [tool]

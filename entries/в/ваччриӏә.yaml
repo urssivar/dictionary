@@ -1,0 +1,15 @@
+headword: ваччриӏә
+ipa: βatʃːɾiˈʔæ
+tags: [n]
+forms:
+  - text: ваччриӏә
+    gloss: abs
+  - text: ваччриӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: dealer
+      ru: торговец
+    tags: [occupation]
+    aliases:
+      en: [trader, dealer]

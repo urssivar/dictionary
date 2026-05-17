@@ -1,0 +1,14 @@
+headword: дәӏә
+ipa: dæˈʔæ
+tags: [n]
+forms:
+  - text: дәӏә
+    gloss: abs
+  - text: дәӏәл
+    gloss: obl
+definitions:
+  - translation:
+      en: deadly cold
+      ru: смертельный холод
+    aliases:
+      en: [hypothermia]

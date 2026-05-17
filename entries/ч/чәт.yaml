@@ -1,0 +1,17 @@
+headword: чәт
+ipa: ˈtʃæt
+tags: [n]
+forms:
+  - text: чәт
+    gloss: abs
+  - text: чәтан
+    gloss: obl
+
+definitions:
+  - translation:
+      en: bog
+      ru: топь
+    tags: [nature]
+    aliases:
+      en: [swamp]
+      ru: [болото]

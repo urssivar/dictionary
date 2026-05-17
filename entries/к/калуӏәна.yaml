@@ -1,0 +1,20 @@
+headword: калуӏәна
+ipa: kaluˈʔæna
+tags: [v, cls, ntr]
+forms:
+  - text: кабәлӏәна
+    gloss: pfv
+  - text: кабәлӏун
+    gloss: pret
+  - text: калуӏәна
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to soften
+      ru: распариться, размягчиться
+    aliases:
+      en: [relax, crumble]
+    examples:
+      - text: кабәлӏун бацбикӏ
+        translation:
+          en: softened pie

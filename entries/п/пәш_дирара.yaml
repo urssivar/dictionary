@@ -1,0 +1,18 @@
+headword: пәш дирара
+ipa: ˌpæʃ diˈɾaɾa
+tags: [v, tr]
+note:
+  en: "*пяс ~*"
+forms:
+  - text: пәш дарара
+    gloss: pfv
+  - text: пәш дарив
+    gloss: pret
+  - text: пәш дирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to spray
+      ru: пшикать
+    aliases:
+      en: [pulverize]

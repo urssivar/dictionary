@@ -1,0 +1,16 @@
+headword: ҡҡәпп цабирара
+ipa: ˌqːæpː tsabiˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: ҡҡәпп цабарара
+    gloss: pfv
+  - text: ҡҡәпп цабарив
+    gloss: pret
+  - text: ҡҡәпп цабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pull out
+      ru: выхватывать
+    aliases:
+      en: [pluck]

@@ -1,0 +1,14 @@
+headword: чиһәна
+ipa: tʃihæˈna
+tags: [v, cls, ntr]
+forms:
+  - text: чиһәбун
+    gloss: pret
+  - text: чиһәна
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to come out
+      ru: выступать
+    aliases:
+      en: [protrude]

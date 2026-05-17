@@ -1,0 +1,13 @@
+headword: кирхәй
+ipa: kiɾˈχæj
+tags: [adj]
+definitions:
+  - translation:
+      en: stray
+      ru: бродячий
+    aliases:
+      en: [homeless, wandering]
+    examples:
+      - text: кирхәй хвә
+        translation:
+          en: stray dog

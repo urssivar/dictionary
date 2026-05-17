@@ -20,7 +20,7 @@ definitions:
       ru: длинный хвост
     tags: [tool]
     examples:
-      - text: йӕбула арже
+      - text: йәбула арже
         translation:
           en: horse tail
           ru: хвост лошади

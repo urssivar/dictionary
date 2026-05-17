@@ -1,0 +1,16 @@
+headword: пӏәҡӏра бирара
+ipa: pʼæqʼˌɾa biˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: пӏәҡӏра барара
+    gloss: pfv
+  - text: пӏәҡӏра барив
+    gloss: pret
+  - text: пӏәҡӏра бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to whack
+      ru: колотить
+    aliases:
+      en: [beat, hit, pound]

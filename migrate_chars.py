@@ -1,15 +1,17 @@
 #!/usr/bin/env python3
-"""Replace я→ӕ, ь→һ, ъ→ӏ in Kaitag-language fields and filenames."""
+"""Replace ӕ→ә (+ missed uppercase Я→Ә, Ь→Һ) in Kaitag-language fields and filenames."""
 
 import os
 import sys
 from pathlib import Path
 from ruamel.yaml import YAML
 
-TRANS = str.maketrans({'я': 'ӕ', 'ь': 'һ', 'ъ': 'ӏ'})
+TRANS = str.maketrans({'ӕ': 'ә', 'Ӕ': 'Ә', 'Я': 'Ә', 'Ь': 'Һ'})
+
 
 def r(s):
     return s.translate(TRANS) if isinstance(s, str) else s
+
 
 def process(data):
     if 'headword' in data:
@@ -29,6 +31,7 @@ def process(data):
         for ex in defn.get('examples') or []:
             if 'text' in ex:
                 ex['text'] = r(ex['text'])
+
 
 yaml = YAML()
 yaml.preserve_quotes = True
@@ -64,6 +67,14 @@ for yaml_file in sorted(entries_root.rglob('*.yaml')):
         new_path = yaml_file.parent / new_name
         yaml_file.rename(new_path)
         renamed += 1
+
+# Rename letter directories
+for letter_dir in sorted(entries_root.iterdir()):
+    if letter_dir.is_dir():
+        new_name = letter_dir.name.translate(TRANS)
+        if new_name != letter_dir.name:
+            letter_dir.rename(letter_dir.parent / new_name)
+            renamed += 1
 
 print(f"Modified {modified} files, renamed {renamed} files.")
 if errors:

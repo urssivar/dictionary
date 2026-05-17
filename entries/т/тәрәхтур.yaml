@@ -1,0 +1,12 @@
+headword: тәрәхтур
+ipa: tæɾæχˈtuɾ
+tags: [n, loan, russian]
+forms:
+  - text: тәрәхтур
+    gloss: abs
+  - text: тәрәхтурте
+    gloss: pl
+definitions:
+  - translation:
+      en: tractor
+      ru: трактор

@@ -1,0 +1,19 @@
+headword: вәз
+ipa: ˈβæz
+tags: [n]
+forms:
+  - text: вәз
+    gloss: abs
+  - text: вәзан
+    gloss: loc
+definitions:
+  - translation:
+      en: drizzle
+      ru: морось
+    tags: [nature]
+    aliases:
+      en: [rain]
+    examples:
+      - text: вәз кабикӏул це
+        translation:
+          en: it's drizzling

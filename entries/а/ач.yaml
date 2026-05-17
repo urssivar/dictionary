@@ -11,7 +11,7 @@ definitions:
         translation:
           en: Open the door!
           ru: Открой дверь!
-      - text: Жуже ач биһӕв.
+      - text: Жуже ач биһәв.
         translation:
           en: The flower blooms.
           ru: Цветок распустился.
@@ -20,4 +20,4 @@ etymology:
   en: From Kumyk *ачмакъ* "to open".
   ru: От кумыкского *ачмакъ* "открывать".
 
-variants: [ӕч]
+variants: [әч]

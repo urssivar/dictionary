@@ -1,0 +1,17 @@
+headword: нәҡҡ
+ipa: ˈnæqː
+tags: [n]
+forms:
+  - text: нәҡҡ
+    gloss: abs
+  - text: нәҡҡу
+    gloss: obl
+  - text: нәҡҡбе
+    gloss: pl
+definitions:
+  - translation:
+      en: hand
+      ru: рука
+    tags: [body]
+    aliases:
+      en: [arm]

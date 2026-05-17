@@ -1,0 +1,21 @@
+headword: әһ кабирццара
+ipa: ˌæh kabiɾˈtsːaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: әһ кабиццара
+    gloss: pfv
+  - text: әһ кабиццур
+    gloss: pret
+  - text: әһ кабирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to like
+      ru: нравиться
+    tags: [emotion]
+    aliases:
+      en: [fond]
+    examples:
+      - text: дам һеж ҡати әһ кабирццул акку
+        translation:
+          en: i don't like this hat

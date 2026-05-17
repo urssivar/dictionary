@@ -10,7 +10,7 @@ definitions:
       en: [swap, instead]
       ru: [вместо]
     examples:
-      - text: Ьеж белҡӏун диссуй барс ила дис һакка.
+      - text: Һеж белҡӏун диссуй барс ила дис һакка.
         translation:
           en: Give me your knife in place of this broken one.
           ru: Дай твой нож взамен этому сломанному.

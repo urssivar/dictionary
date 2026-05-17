@@ -1,0 +1,14 @@
+headword: әй кабиргара
+ipa: ˌæj kabiɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: әй кабигара
+    gloss: pfv
+  - text: әй кабижив
+    gloss: pret
+  - text: әй кабиргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to spread across
+      ru: распространяться

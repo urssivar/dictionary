@@ -1,0 +1,16 @@
+headword: ләпӏ һабирара
+ipa: ˌlæpʼ habiˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: ләпӏ һабарара
+    gloss: pfv
+  - text: ләпӏ һабарив
+    gloss: pret
+  - text: ләпӏ һабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to wag
+      ru: вилять
+    aliases:
+      en: [wiggle]

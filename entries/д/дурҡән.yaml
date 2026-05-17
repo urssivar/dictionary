@@ -1,0 +1,14 @@
+headword: дурҡән
+ipa: duɾˈqæn
+tags: [n, vb]
+forms:
+  - text: дурҡән
+    gloss: pl
+  - text: дурҡәнте
+    gloss: abs
+definitions:
+  - translation:
+      en: blender
+      ru: смеситель, миксер
+    aliases:
+      en: [mixer]

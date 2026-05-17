@@ -1,0 +1,17 @@
+headword: Баршамәӏи
+ipa: baɾʃaˈmæʔi
+tags: [n]
+forms:
+  - text: Баршамәӏган
+    gloss: dnz.sg
+  - text: Баршамәӏгала
+    gloss: atr, dnz.pl
+
+definitions:
+  - translation:
+      en: v. Barshamay
+      ru: с. Баршамай
+    tags: [placename]
+    aliases:
+      en: [village]
+      ru: [село]

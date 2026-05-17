@@ -1,0 +1,16 @@
+headword: һәк бирһора
+ipa: ˌhæk biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һәк биһора
+    gloss: pfv
+  - text: һәк биһәв
+    gloss: pret
+  - text: һәк бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to boast
+      ru: кичиться
+    aliases:
+      en: [parade]

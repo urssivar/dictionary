@@ -13,7 +13,7 @@ definitions:
       en: [education]
       ru: [образование]
     examples:
-      - text: Ьелецци баһутте би.
+      - text: Һелецци баһутте би.
         translation:
           en: He has experience.
           ru: У него есть опыт.

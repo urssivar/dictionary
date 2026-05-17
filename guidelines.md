@@ -2,9 +2,9 @@
 
 ## Scope
 
-**Deverbal adjectives** — Kaitag preterites regularly function as adjectives (*бӕрӏив* "cold" from *бурӏара* "to cool"). Add as a separate entry with `vb` tag and `derived_from` when frequent or lexicalized enough.
+**Deverbal adjectives** — Kaitag preterites regularly function as adjectives (_бәрӏив_ "cold" from _бурӏара_ "to cool"). Add as a separate entry with `vb` tag and `derived_from` when frequent or lexicalized enough.
 
-**Skip** lexically transparent productive patterns: causatives (*X барара* "to make X"), inchoatives (*X бирһора* "to become X"), regular adverbs with *-ле*, etc. These are grammar, not lexicon. Exception: include compound verbs with non-compositional meaning (e.g. *алав биркара* "to evade", not literally "to occur around").
+**Skip** lexically transparent productive patterns: causatives (_X барара_ "to make X"), inchoatives (_X бирһора_ "to become X"), regular adverbs with _-ле_, etc. These are grammar, not lexicon. Exception: include compound verbs with non-compositional meaning (e.g. _алав биркара_ "to evade", not literally "to occur around").
 
 ## Structure
 
@@ -56,7 +56,7 @@ For spelling conventions, see [Orthography](#orthography) below. For the alphabe
 - Nouns: absolutive singular
 - Verbs: imperfective infinitive
 - Copulas / person-agreeing words: 3rd person singular
-- Words with class agreement: neutral *-б-* class marker; tag with `cls`
+- Words with class agreement: neutral _-б-_ class marker; tag with `cls`
 
 **Forms** — only list what differs from the headword. Omit `forms` entirely if nothing does. Use Leipzig abbreviations (<https://en.wikipedia.org/wiki/List_of_glossing_abbreviations>). Use `.` for portmanteau glosses (`1.sg.pst`), `,` for syncretism (`obl, loc` / `1, 2.pl`).
 
@@ -166,7 +166,7 @@ etymology:
 
 Formulae: `The negative of *verb* "gloss".` / `Negative present participle of *verb* "gloss".`
 
-Formatting: *italics* for cited forms, "double quotes" for glosses, (parentheses) for supplementary notes.
+Formatting: _italics_ for cited forms, "double quotes" for glosses, (parentheses) for supplementary notes.
 
 ### `variants`
 
@@ -174,7 +174,7 @@ Plain string array of dialectal/alternative forms. For variants with their own p
 
 ```yaml
 variants: [авба, бавба]
-variants: [тӏӕ / тӏӕл- / тӏӕме, тӏӕһ / тӏӕһу / тӏӕһри]
+variants: [тӏә / тӏәл- / тӏәме, тӏәһ / тӏәһу / тӏәһри]
 variants: [~ / барара / барив]
 ```
 
@@ -192,37 +192,37 @@ Spelling follows morpheme structure, not surface phonology. Predictable alternat
 
 Write what surfaces in the citation form or in lexicalized derived words. Etymological spelling is not used.
 
-- *дис* (abs), despite geminate resurfacing in *диссу-* (obl)
-- *ахле* (pl), despite the geminate in *аххал* (abs) — forms written as they surface
-- *шимбе* (pl) — suffix *-бе* assimilated the root sonorant of *шин* (sg)
+- _дис_ (abs), despite geminate resurfacing in _диссу-_ (obl)
+- _ахле_ (pl), despite the geminate in _аххал_ (abs) — forms written as they surface
+- _шимбе_ (pl) — suffix _-бе_ assimilated the root sonorant of _шин_ (sg)
 
 ### Inflectional Morpheme Boundaries
 
 Write each morpheme transparently. Never reflect assimilation — consonantal, vocalic, or nasal — at morpheme boundaries.
 
-- *машинла*, *чӏвел-ра*, *азирна* — case suffixes written transparently
-- *а-*/*ма-* negation, *ца-*/*ка-*/*ьа-* prefixes, *-их-* causative — written consistently regardless of context: *барихара*, *барихив*, *мабарихелде*
+- _машинла_, _чӏвел-ра_, _азирна_ — case suffixes written transparently
+- _а-_/_ма-_ negation, _ца-_/_ка-_/_ьа-_ prefixes, _-их-_ causative — written consistently regardless of context: _барихара_, _барихив_, _мабарихелде_
 
 ### Verb Paradigm Roots
 
 Write the underlying root form recoverable from the paradigm. The geminate is real and surfaces before vowels; degemination before consonants is predictable and not reflected.
 
-- *биххӕра*, *биххӕв*, *биххне* (despite pronounced *бихне*) — *хх* written consistently throughout
+- _биххәра_, _биххәв_, _биххне_ (despite pronounced _бихне_) — _хх_ written consistently throughout
 
 ### Word Division (Interim Convention)
 
 Full standardization — compounds, clitics, hyphenation, apostrophe use — is deferred to v1.2 and requires a corpus. Until then, write all components separately regardless of lexicalization degree.
 
-- Compound verbs: *кумек барара*, *сар виһора*, *ул катара*
-- Compound nominals/adjectives: *миг бӕрӏив*, *шӕӏ ҡерҡил*, *давла чев*
+- Compound verbs: _кумек барара_, _сар виһора_, _ул катара_
+- Compound nominals/adjectives: _миг бәрӏив_, _шәӏ ҡерҡил_, _давла чев_
 
 ## Checklist
 
 - [ ] Headword uses correct citation form?
 - [ ] Forms don't repeat the headword?
 - [ ] Compound verbs: verbal part only?
-- [ ] Neutral *-б-* class marker in headword and forms?
+- [ ] Neutral _-б-_ class marker in headword and forms?
 - [ ] Etymology or just derived_from?
 - [ ] Aliases: correct POS, not redundant?
-- [ ] *Italics* for cited forms, "quotes" for glosses?
+- [ ] _Italics_ for cited forms, "quotes" for glosses?
 - [ ] Components written separately (word division)?

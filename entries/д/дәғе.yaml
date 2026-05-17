@@ -1,0 +1,16 @@
+headword: дәғе
+ipa: ˈdæʁe
+tags: [n]
+note:
+  en: "*деғе*"
+forms:
+  - text: дәғе
+    gloss: abs
+  - text: дәғиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: fence
+      ru: деревянный забор
+    aliases:
+      en: [barrier]

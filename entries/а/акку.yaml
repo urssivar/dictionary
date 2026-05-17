@@ -18,7 +18,7 @@ definitions:
       en: not
       ru: не
     examples:
-      - text: Ьел тухтур акку.
+      - text: Һел тухтур акку.
         translation:
           en: He's not a doctor.
           ru: Он не доктор.

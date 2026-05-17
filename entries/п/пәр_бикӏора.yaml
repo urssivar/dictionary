@@ -1,0 +1,20 @@
+headword: пәр бикӏора
+ipa: ˌpæɾ biˈkʼʷaɾa
+tags: [v, ntr, cls]
+note:
+  en: "*пярпяр ~*"
+forms:
+  - text: пәр бикӏора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shine
+      ru: сиять
+    aliases:
+      en: [glow, bright]
+    examples:
+      - text: дирцив палтар пәр дикӏул де
+        translation:
+          en: the washed clothes were shining
+
+# пярпярле?

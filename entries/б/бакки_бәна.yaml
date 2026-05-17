@@ -1,0 +1,14 @@
+headword: бакки бәна
+ipa: baˌkːi bæˈna
+tags: [v, cls, ntr]
+forms:
+  - text: бакки бәна
+    gloss: pfv
+  - text: бакки бәрун
+    gloss: pret
+  - text: бакки бәнне
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to enter
+      ru: войти

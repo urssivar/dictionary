@@ -4,7 +4,7 @@ tags: [v, ntr, cls]
 forms:
   - text: бези биһора
     gloss: pfv
-  - text: бази биһӕв
+  - text: бази биһәв
     gloss: pret
   - text: бези бирһора
     gloss: ipfv
@@ -16,4 +16,4 @@ definitions:
     aliases:
       en: [low, quiet, easy]
     examples:
-      - text: аттал маймай варил дӕрһӕ беза виһӕв
+      - text: аттал маймай варил дәрһә беза виһәв

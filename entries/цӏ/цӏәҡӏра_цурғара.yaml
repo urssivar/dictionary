@@ -1,0 +1,18 @@
+headword: цӏәҡӏра цурғара
+ipa: tsʼæqʼˈɾa tsuɾˈʁaɾa
+tags: [v, tr]
+note:
+  en: "*цьяғра ~*"
+forms:
+  - text: цӏәҡӏра цағара
+    gloss: pfv
+  - text: цӏәҡӏра цағив
+    gloss: pret
+  - text: цӏәҡӏра цурғара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to heat up
+      ru: раскалять
+    aliases:
+      en: [hot]

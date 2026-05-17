@@ -1,0 +1,13 @@
+headword: һәмшар
+ipa: hæmˈʃaɾ
+tags: [n, adj, loan]
+forms:
+  - text: һәмшар
+    gloss: abs
+  - text: һәмшарте
+    gloss: pl
+definitions:
+  - translation:
+      en: persian
+      ru: иранец
+    tags: [demonym]

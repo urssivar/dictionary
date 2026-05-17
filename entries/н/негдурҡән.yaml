@@ -1,0 +1,15 @@
+headword: негдурҡән
+ipa: negduɾˈqæn
+tags: [n, vb]
+etymology:
+  en: Lit. "milk-churner".
+forms:
+  - text: негдурҡән
+    gloss: abs
+  - text: негдурҡәнте
+    gloss: pl
+definitions:
+  - translation:
+      en: churn
+      ru: маслобойка
+    tags: [tool]

@@ -1,0 +1,14 @@
+headword: тилгирәм
+ipa: tilgiˈɾæm
+tags: [n, loan, russian]
+forms:
+  - text: тилгирәм
+    gloss: abs
+  - text: тилгирәмте
+    gloss: pl
+definitions:
+  - translation:
+      en: telegram
+      ru: телеграмма
+    aliases:
+      en: [message]

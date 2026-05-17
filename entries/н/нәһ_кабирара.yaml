@@ -1,0 +1,16 @@
+headword: нәһ кабирара
+ipa: ˌnæh kabiˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: нәһ кабарара
+    gloss: pfv
+  - text: нәһ кабарив
+    gloss: pret
+  - text: нәһ кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to humiliate
+      ru: унижать
+    aliases:
+      en: [stoop, demean]

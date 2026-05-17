@@ -1,0 +1,19 @@
+headword: бәрх итӏара
+ipa: ˌbæɾχ iˈtʼaɾa
+tags: [v, tr, ntr, cls]
+forms:
+  - text: бәрх атӏара
+    gloss: pfv
+  - text: бәрх атӏив
+    gloss: pret
+  - text: бәрх итӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: overturn
+      ru: опрокидывать
+    aliases:
+      en: [upset, topple, tip, over]
+    examples:
+      - text: тәшкка бәрх атӏа
+      - text: машин бәрх атӏив

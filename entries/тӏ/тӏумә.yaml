@@ -1,0 +1,15 @@
+headword: тӏумә
+ipa: ˈtʼumæ
+tags: [n]
+note:
+  en: "*писи тьимяр*"
+forms:
+  - text: тӏумә
+    gloss: abs
+  - text: тӏумре
+    gloss: pl
+definitions:
+  - translation:
+      en: owl
+      ru: сова
+    tags: [animal, bird]

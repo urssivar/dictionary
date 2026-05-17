@@ -1,0 +1,18 @@
+headword: вәһши
+ipa: βæhˈʃi
+tags: [n]
+forms:
+  - text: вәһшибе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: ignorant
+      ru: невежественный
+    examples:
+      - text: цикӏан абарһан, вәһши халкӏ
+        translation:
+          en: ignorant people who know nothing
+          ru: ничего не знающие, невежественные люди
+
+see_also: [даҡдаһ]

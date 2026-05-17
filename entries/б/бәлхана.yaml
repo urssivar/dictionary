@@ -1,0 +1,18 @@
+headword: бәлхана
+ipa: bælˈχana
+tags: [v, cls, tr]
+forms:
+  - text: бәхана
+    gloss: pfv
+  - text: бәхун
+    gloss: pret
+  - text: бәлхана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to let out
+      ru: выпускать
+    aliases:
+      en: [release]
+    examples:
+      - text: һәйгонте ижал ттура мадәлхәтте

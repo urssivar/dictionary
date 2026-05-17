@@ -1,0 +1,17 @@
+headword: тӏә
+ipa: ˈtʼæ
+tags: [n]
+note:
+  en: "*тьяь*"
+forms:
+  - text: тӏә
+    gloss: abs
+  - text: тӏәл
+    gloss: obl
+  - text: тӏәме
+    gloss: pl
+definitions:
+  - translation:
+      en: leg
+      ru: нога
+    tags: [body]

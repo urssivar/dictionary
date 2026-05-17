@@ -1,0 +1,14 @@
+headword: һәж
+ipa: ˈhæʒ
+tags: [n, loan, arabic]
+forms:
+  - text: һәж
+    gloss: abs
+  - text: һәжни
+    gloss: loc
+definitions:
+  - translation:
+      en: hajj
+      ru: хадж
+    aliases:
+      en: [pilgrimage]

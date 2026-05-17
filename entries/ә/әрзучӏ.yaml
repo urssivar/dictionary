@@ -1,0 +1,16 @@
+headword: әрзучӏ
+ipa: æɾˈzutʃʼ
+tags: [n]
+note:
+  en: "*ярзукь*, *арзач*"
+forms:
+  - text: әрзучӏ
+    gloss: abs
+  - text: әрзучӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: snitch
+      ru: ябеда
+    aliases:
+      en: [plaintiff, complainant]

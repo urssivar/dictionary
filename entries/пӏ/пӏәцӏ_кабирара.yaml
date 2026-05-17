@@ -1,0 +1,14 @@
+headword: пӏәцӏ кабирара
+ipa: ˌpʼætsʼ kabiˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: пӏәцӏ кабарара
+    gloss: pfv
+  - text: пӏәцӏ кабарив
+    gloss: pret
+  - text: пӏәцӏ кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to flatten
+      ru: сплющивать

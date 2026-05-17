@@ -4,7 +4,7 @@ tags: [v, ntr, cls]
 forms:
   - text: цӏи кабиһора
     gloss: pfv
-  - text: цӏи кабиһӕв
+  - text: цӏи кабиһәв
     gloss: pret
   - text: цӏи кабирһора
     gloss: ipfv
@@ -15,6 +15,6 @@ definitions:
     aliases:
       en: [update]
     examples:
-      - text: бацц цӏи кабиһӕв
+      - text: бацц цӏи кабиһәв
         translation:
           en: it's new moon

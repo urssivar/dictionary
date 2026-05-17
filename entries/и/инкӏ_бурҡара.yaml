@@ -4,9 +4,9 @@ tags: [v, ntr, cls]
 note:
   en: "*сағли биркара*"
 forms:
-  - text: инкӏ бӕҡара
+  - text: инкӏ бәҡара
     gloss: pfv
-  - text: инкӏ бӕҡив
+  - text: инкӏ бәҡив
     gloss: pret
   - text: инкӏ бурҡара
     gloss: ipfv
@@ -17,6 +17,6 @@ definitions:
     aliases:
       en: [meet, find]
     examples:
-      - text: инҡӏ рӕҡив дами
+      - text: инҡӏ рәҡив дами
         translation:
           en: i run across her

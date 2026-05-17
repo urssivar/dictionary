@@ -1,0 +1,15 @@
+headword: әнччишин
+ipa: æntʃːiˈʃin
+tags: [n]
+etymology:
+  en: Lit. *clay-water*.
+forms:
+  - text: әнччишин
+    gloss: abs
+  - text: әнччишине
+    gloss: obl
+definitions:
+  - translation:
+      en: whitewash
+      ru: побелка
+    tags: [house]

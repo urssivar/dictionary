@@ -1,0 +1,15 @@
+headword: ғвәре
+ipa: ˈʁʷæɾe
+tags: [n]
+forms:
+  - text: ғвәре
+    gloss: abs
+  - text: ғвәрин
+    gloss: obl
+  - text: ғвәринде
+    gloss: pl
+definitions:
+  - translation:
+      en: rabbit
+      ru: заяц
+    tags: [animal]

@@ -1,0 +1,16 @@
+headword: ләшккан
+ipa: læʃˈkːan
+tags: [n]
+note:
+  en: "*дасмал*, *палтинцца*"
+forms:
+  - text: ләшккан
+    gloss: abs
+  - text: ләшккне
+    gloss: pl
+definitions:
+  - translation:
+      en: towel
+      ru: полотенце
+    aliases:
+      en: [napkin]

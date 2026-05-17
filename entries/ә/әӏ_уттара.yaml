@@ -1,0 +1,16 @@
+headword: әӏ уттара
+ipa: ˌæʔ uˈtːaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: әӏ берттара
+    gloss: pfv
+  - text: әӏ берттив
+    gloss: pret
+  - text: әӏ уттара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to yawn
+      ru: разверзаться
+    aliases:
+      en: [разверзаться]

@@ -1,0 +1,18 @@
+headword: ккуккумәв
+ipa: kːukːuˈmæβ
+tags: [n]
+forms:
+  - text: ккуккумәв
+    gloss: abs
+  - text: ккуккумәвте
+    gloss: pl
+definitions:
+  - translation:
+      en: eagle-owl
+      ru: филин
+    tags: [animal, bird]
+  - translation:
+      en: bogeyman
+      ru: пугало
+    aliases:
+      en: [caricature, gorgon, fright]

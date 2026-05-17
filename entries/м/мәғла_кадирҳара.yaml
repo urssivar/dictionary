@@ -1,0 +1,16 @@
+headword: мәғла кадирҳара
+ipa: mæʁˌla kadiɾˈxaɾa
+tags: [v, tr, cls]
+forms:
+  - text: мәғла кадиҳара
+    gloss: pfv
+  - text: мәғла кадишив
+    gloss: pret
+  - text: мәғла кадирҳара
+    gloss: ipvf
+definitions:
+  - translation:
+      en: to stock up
+      ru: запасать
+    aliases:
+      en: [reserve]

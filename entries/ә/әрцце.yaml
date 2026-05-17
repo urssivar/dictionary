@@ -1,0 +1,17 @@
+headword: әрцце
+ipa: ˈæɾtsːe
+tags: [n]
+note:
+  en: "*ьиць* (?)"
+forms:
+  - text: әрцце
+    gloss: abs
+  - text: әрццин
+    gloss: obl
+definitions:
+  - translation:
+      en: greater burdock
+      ru: репейник
+    tags: [nature, plant]
+    aliases:
+      en: [arctium, lappa]

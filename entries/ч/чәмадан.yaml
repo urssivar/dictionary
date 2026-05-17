@@ -1,0 +1,12 @@
+headword: чәмадан
+ipa: tʃæmaˈdan
+tags: [n, loan, russian]
+forms:
+  - text: чәмадан
+    gloss: abs
+  - text: чәмаданте
+    gloss: pl
+definitions:
+  - translation:
+      en: suitcase
+      ru: чемодан

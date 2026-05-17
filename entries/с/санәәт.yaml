@@ -1,0 +1,14 @@
+headword: санәәт
+ipa: saˈnææt
+tags: [n, loan, arabic]
+forms:
+  - text: санәәт
+    gloss: abs
+  - text: санәәте
+    gloss: pl
+definitions:
+  - translation:
+      en: profession
+      ru: профессия
+    aliases:
+      en: [occupation]
