@@ -1,0 +1,15 @@
+headword: ҡӏӕвцӏукӏ
+ipa: qʼæβˈtsʼukʼ
+tags: [n]
+forms:
+  - text: ҡӏӕвцӏукӏ
+    gloss: abs
+  - text: ҡӏӕвцӏукӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: lavash
+      ru: лаваш
+    tags: [food]
+    aliases:
+      en: [flatbread, bread]

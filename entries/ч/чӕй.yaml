@@ -1,0 +1,13 @@
+headword: чӕй
+ipa: ˈtʃæj
+tags: [n, loan]
+forms:
+  - text: чӕй
+    gloss: abs
+  - text: чӕйре
+    gloss: pl
+definitions:
+  - translation:
+      en: tea
+      ru: чай
+    tags: [food]

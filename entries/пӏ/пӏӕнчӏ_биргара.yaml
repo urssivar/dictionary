@@ -1,0 +1,18 @@
+headword: пӏӕнчӏ биргара
+ipa: ˌpʼæntʃʼ biɾˈgaɾa
+tags: [v, ntr, cls]
+note:
+  en: "*чьинть ~*"
+forms:
+  - text: пӏӕнчӏ бигара
+    gloss: ipfv
+  - text: пӏӕнчӏ бижив
+    gloss: pret
+  - text: пӏӕнчӏ биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to splash
+      ru: брызгаться
+    aliases:
+      en: [squirt]

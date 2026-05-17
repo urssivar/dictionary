@@ -1,0 +1,16 @@
+headword: чикабӕлхана
+ipa: tʃikabælˈχana
+tags: [v, cls, tr]
+forms:
+  - text: чикабӕхана
+    gloss: pfv
+  - text: чикабӕхун
+    gloss: pret
+  - text: чикабӕлхана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to copy
+      ru: копировать
+    aliases:
+      en: [transfer]

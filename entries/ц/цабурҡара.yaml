@@ -2,9 +2,9 @@ headword: цабурҡара
 ipa: tsabuɾˈqaɾa
 tags: [v, cls, tr]
 forms:
-  - text: цабәҡара
+  - text: цабӕҡара
     gloss: pfv
-  - text: цабәҡив
+  - text: цабӕҡив
     gloss: pret
   - text: цабурҡара
     gloss: ipfv
@@ -13,9 +13,9 @@ definitions:
       en: to hit
       ru: ударять
     examples:
-      - text: машинли царәҡив
+      - text: машинли царӕҡив
         translation:
           en: she was hit by a car
-      - text: цабәҡа һелей!
+      - text: цабӕҡа һелей!
         translation:
           en: hit him!

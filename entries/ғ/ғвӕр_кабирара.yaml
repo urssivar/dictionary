@@ -1,0 +1,16 @@
+headword: ғвӕр кабирара
+ipa: ˌʁʷæɾ kabiˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: ғвӕр кабарара
+    gloss: pfv
+  - text: ғвӕр кабарив
+    gloss: pret
+  - text: ғвӕр кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to remove bark
+      ru: снимать кору
+    aliases:
+      en: [peel, skin]

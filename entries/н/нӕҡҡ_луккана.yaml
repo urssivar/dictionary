@@ -1,0 +1,20 @@
+headword: нӕҡҡ луккана
+ipa: ˌnæqː luˈkːana
+tags: [n, v]
+forms:
+  - text: нӕҡҡ беккара
+    gloss: pfv
+  - text: нӕҡҡ беччив
+    gloss: pret
+  - text: нӕҡҡ луккана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to handshake
+      ru: давать салам, приветствовать
+    aliases:
+      en: [greet]
+    examples:
+      - text: ацций нӕҡҡ беччивде у?
+        translation:
+          en: did you greet your uncle?

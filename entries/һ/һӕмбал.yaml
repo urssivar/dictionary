@@ -1,0 +1,14 @@
+headword: һӕмбал
+ipa: hæmˈbal
+tags: [n, loan, persian]
+forms:
+  - text: һӕмбал
+    gloss: abs
+  - text: һӕмбалте
+    gloss: pl
+definitions:
+  - translation:
+      en: porter
+      ru: носильщик
+    aliases:
+      en: [assistant, usher, janitor]

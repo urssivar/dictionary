@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Replace ӕ→ә (+ missed uppercase Я→Ә, Ь→Һ) in Kaitag-language fields and filenames."""
+"""Replace ә→ӕ, Ә→Ӕ in Kaitag-language fields and filenames."""
 
 import os
 import sys
 from pathlib import Path
 from ruamel.yaml import YAML
 
-TRANS = str.maketrans({'ӕ': 'ә', 'Ӕ': 'Ә', 'Я': 'Ә', 'Ь': 'Һ'})
+TRANS = str.maketrans({'ә': 'ӕ', 'Ә': 'Ӕ'})
 
 
 def r(s):

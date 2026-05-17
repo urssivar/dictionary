@@ -1,0 +1,18 @@
+headword: ӕчу
+ipa: ˈætʃu
+tags: [n]
+forms:
+  - text: ӕчу
+    gloss: abs
+  - text: ӕчул
+    gloss: obl
+  - text: ӕчули
+    gloss: loc
+  - text: ӕчурбе
+    gloss: pl
+definitions:
+  - translation:
+      en: job
+      ru: работа
+    aliases:
+      en: [work]

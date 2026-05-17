@@ -1,0 +1,15 @@
+headword: ттӕм
+ipa: ˈtːæm
+tags: [n]
+forms:
+  - text: ттӕм
+    gloss: abs
+  - text: ттӕмре
+    gloss: pl
+definitions:
+  - translation:
+      en: trap
+      ru: ловушка
+    tags: [tool]
+    aliases:
+      en: [snare]

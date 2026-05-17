@@ -1,0 +1,19 @@
+headword: ҡҡӕмҡҡӕ
+ipa: ˈqːæmqːæ
+tags: [n]
+forms:
+  - text: ҡҡӕмҡҡӕ
+    gloss: abs
+  - text: ҡҡӕмҡҡӕн
+    gloss: obl
+  - text: ҡҡӕмҡҡне
+    gloss: pl
+definitions:
+  - translation:
+      en: pitchfork
+      ru: вилы
+    tags: [tool]
+  - translation:
+      en: 2 meters
+      ru: 2 метра
+    tags: [measure]

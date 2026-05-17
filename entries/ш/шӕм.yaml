@@ -1,0 +1,13 @@
+headword: шӕм
+ipa: ˈʃæm
+tags: [n, loan, turkic]
+forms:
+  - text: шӕм
+    gloss: abs
+  - text: шӕмре
+    gloss: pl
+definitions:
+  - translation:
+      en: candle
+      ru: свеча
+    tags: [tool]

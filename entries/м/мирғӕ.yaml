@@ -1,0 +1,17 @@
+headword: мирғӕ
+ipa: miɾˈʁæ
+tags: [n]
+note:
+  en: "*пьелкьа*"
+forms:
+  - text: мирғӕ
+    gloss: abs
+  - text: мирғӕн
+    gloss: obl
+  - text: мирғӕппе
+    gloss: pl
+definitions:
+  - translation:
+      en: stick
+      ru: палка
+    tags: [tool]

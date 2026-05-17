@@ -1,0 +1,13 @@
+headword: ттамриҡӕ
+ipa: tːamɾiˈqæ
+tags: [n]
+forms:
+  - text: ттамриҡӕ
+    gloss: abs
+  - text: ттамриҡне
+    gloss: pl
+definitions:
+  - translation:
+      en: drummer
+      ru: барабанщик
+    tags: [occupation]

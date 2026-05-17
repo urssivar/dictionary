@@ -1,0 +1,18 @@
+headword: бӕлчӏун биркара
+ipa: bælˌtʃʼun biɾˈkaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: бӕлчӏун бикара
+    gloss: pfv
+  - text: бӕлчӏун бичив
+    gloss: pret
+  - text: бӕлчӏун биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to deviate
+      ru: отклоняться
+    aliases:
+      en: [stray]
+    examples:
+      - text: ила муҡӏ бӕлчӏун бичив

@@ -1,0 +1,21 @@
+headword: ӕлһӕд
+ipa: ælˈhæd
+tags: [n, loan, arabic]
+etymology:
+  en: From Arabic *الأحد* "Sunday" (cf. *яльядбар* "Sunday").
+note:
+  en: "*жумяъ*"
+forms:
+  - text: ӕлһӕд
+    gloss: abs
+  - text: ӕлһӕде
+    gloss: pl
+definitions:
+  - translation:
+      en: week
+      ru: неделя
+    tags: [time]
+    examples:
+      - text: чӏвел ӕлһӕд дегур
+        translation:
+          en: two weeks passed

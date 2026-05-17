@@ -1,0 +1,18 @@
+headword: цирҡҡӕра
+ipa: tsiɾˈqːæɾa
+tags: [v, tr]
+forms:
+  - text: цирҡҡӕв
+    gloss: pret
+  - text: цирҡҡӕра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to appropriate
+      ru: присваивать
+    aliases:
+      en: [assign, confer]
+    examples:
+      - text: дуне цирҡҡӕв
+        translation:
+          en: went around the world

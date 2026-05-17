@@ -1,0 +1,14 @@
+headword: мӕтӕццикк
+ipa: mætæˈtsːikː
+tags: [n, loan, russian]
+forms:
+  - text: мӕтӕццикк
+    gloss: abs
+  - text: мӕтӕццикке
+    gloss: pl
+definitions:
+  - translation:
+      en: motorbike
+      ru: мотоцикл
+    aliases:
+      en: [bike]

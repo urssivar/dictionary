@@ -1,0 +1,16 @@
+headword: биччӕ
+ipa: ˈbitʃːæ
+tags: [n]
+forms:
+  - text: биччӕ
+    gloss: abs
+  - text: биччӕн
+    gloss: obl
+definitions:
+  - translation:
+      en: swill
+      ru: пойло
+    aliases:
+      en: [slop]
+    examples:
+      - text: хвӕдала биччӕ

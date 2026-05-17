@@ -1,0 +1,16 @@
+headword: мӕғӕ биркара
+ipa: mæˌʁæ biɾˈkaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: мӕғӕ бикара
+    gloss: pfv
+  - text: мӕғӕ бичив
+    gloss: pret
+  - text: мӕғӕ биркара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to lag
+      ru: отставать
+    aliases:
+      en: [fall, behind]

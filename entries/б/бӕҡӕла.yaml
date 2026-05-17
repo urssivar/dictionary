@@ -1,0 +1,19 @@
+headword: бӕҡӕла
+ipa: bæˈqæla
+tags: [n]
+etymology:
+  en: From *бурҡяра* "to churn".
+note:
+  en: "*чьеме*, *чьями*"
+forms:
+  - text: бӕҡӕла
+    gloss: abs
+  - text: бӕҡле
+    gloss: obl
+  - text: бӕҡлиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: butter
+      ru: сливочное масло
+    tags: [food]

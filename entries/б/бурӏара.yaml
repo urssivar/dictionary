@@ -2,9 +2,9 @@ headword: бурӏара
 ipa: buɾˈʔaɾa
 tags: [v, ntr, cls]
 forms:
-  - text: бәрӏәра
+  - text: бӕрӏӕра
     gloss: pfv
-  - text: бәрӏив
+  - text: бӕрӏив
     gloss: pret
   - text: бурӏара
     gloss: ipfv
@@ -15,11 +15,11 @@ definitions:
     aliases:
       en: [chill, flue]
     examples:
-      - text: әшакк ттура буссәәт бурӏанне
+      - text: ӕшакк ттура буссӕӕт бурӏанне
   - translation:
       en: to catch a cold
       ru: простывать
     aliases:
       en: [ill]
     examples:
-      - text: са пич биршил вәрӏивда
+      - text: са пич биршил вӕрӏивда

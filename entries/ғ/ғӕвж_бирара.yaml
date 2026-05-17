@@ -1,0 +1,16 @@
+headword: ғӕвж бирара
+ipa: ˌʁæβʒ biˈɾaɾa
+tags: [v, tr, cls]
+note:
+  en: "*ҡявш ~*"
+forms:
+  - text: ғӕвж барара
+    gloss: pfv
+  - text: ғӕвж барив
+    gloss: pret
+  - text: ғӕвж бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to scratch
+      ru: чесать

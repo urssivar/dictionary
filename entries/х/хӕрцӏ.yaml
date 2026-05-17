@@ -1,0 +1,13 @@
+headword: хӕрцӏ
+ipa: ˈχæɾtsʼ
+tags: [n]
+forms:
+  - text: хӕрцӏ
+    gloss: abs
+  - text: хӕрцӏре
+    gloss: pl
+definitions:
+  - translation:
+      en: marten
+      ru: куница
+    tags: [animal]

@@ -1,0 +1,16 @@
+headword: чӏӕпӏ һабирара
+ipa: ˌtʃʼæpʼ habiˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: чӏӕпӏ һабарара
+    gloss: pfv
+  - text: чӏӕпӏ һабарив
+    gloss: pret
+  - text: чӏӕпӏ һабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to pump out
+      ru: выкачивать
+    aliases:
+      en: [dry]

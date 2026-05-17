@@ -1,0 +1,15 @@
+headword: ӕппа иҡара
+ipa: æˌpːa iˈqaɾa
+tags: [v, tr]
+forms:
+  - text: ӕппа аҡара
+    gloss: pfv
+  - text: ӕппа аҡив
+    gloss: pret
+  - text: ӕппа иҡара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to put on one's back
+      ru: усадить на спину
+    tags: [child]

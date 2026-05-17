@@ -1,0 +1,16 @@
+headword: ӕһ кабирһухара
+ipa: ˌæh kabiɾˈhuχaɾa
+tags: [v, tr, cls]
+forms:
+  - text: ӕһ кабиһухара
+    gloss: pfv
+  - text: ӕһ кабиһухӕв
+    gloss: pret
+  - text: ӕһ кабирһухара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to appease
+      ru: задабривать
+    aliases:
+      en: [pacify, conciliate]

@@ -1,0 +1,15 @@
+headword: тӕйҡӏи
+ipa: tæjˈqʼi
+tags: [n]
+forms:
+  - text: тӕйҡӏи
+    gloss: abs
+  - text: тӕйҡӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: foal
+      ru: жеребёнок
+    tags: [animal]
+    aliases:
+      en: [horse]

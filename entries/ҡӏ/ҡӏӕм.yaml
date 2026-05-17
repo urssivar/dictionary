@@ -1,0 +1,15 @@
+headword: ҡӏӕм
+ipa: ˈqʼæm
+tags: [n]
+forms:
+  - text: ҡӏӕм
+    gloss: abs
+  - text: ҡӏӕмре
+    gloss: pl
+definitions:
+  - translation:
+      en: lacrimal caruncle
+      ru: слезное мясцо
+    tags: [body]
+    aliases:
+      en: [eye]

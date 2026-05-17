@@ -16,10 +16,10 @@ definitions:
     aliases:
       en: [as]
     examples:
-      - text: бизи гон тәһ вижив
+      - text: бизи гон тӕһ вижив
         translation:
           en: jumped like a cat
-      - text: шилцци әһле це шаһарцци гон аккол
+      - text: шилцци ӕһле це шаһарцци гон аккол
         translation:
           en: it's good in the village unlike in the city
       - text: марка барара гон це

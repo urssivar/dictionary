@@ -1,0 +1,15 @@
+headword: ӕтӏнучӏ
+ipa: ætʼˈnutʃʼ
+tags: [n]
+note:
+  en: "*архитьла шве*"
+forms:
+  - text: ӕтӏнучӏ
+    gloss: abs
+  - text: ӕтӏнучӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: heron
+      ru: цапля
+    tags: [bird, animal]

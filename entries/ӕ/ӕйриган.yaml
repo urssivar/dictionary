@@ -1,0 +1,15 @@
+headword: ӕйриган
+ipa: æjɾiˈgan
+tags: [n]
+note:
+  en: "*яйриъя*"
+forms:
+  - text: ӕйриган
+    gloss: abs
+  - text: ӕйригне
+    gloss: pl
+definitions:
+  - translation:
+      en: hunter
+      ru: охотник
+    tags: [occupation]

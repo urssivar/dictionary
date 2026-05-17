@@ -1,0 +1,17 @@
+headword: ваҡҡӕтӏа
+ipa: βaˈqːætʼa
+tags: [n]
+etymology:
+  en: From *ваҡҡа* "skull" + *ятьа* "frog".
+forms:
+  - text: ваҡҡӕтӏа
+    gloss: abs
+  - text: ваҡҡӕтӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: turtle
+      ru: черепаха
+    tags: [animal]
+    aliases:
+      en: [frog]

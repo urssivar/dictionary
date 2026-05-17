@@ -1,0 +1,16 @@
+headword: мӕршуткка
+ipa: mæɾʃutˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: мӕршуткка
+    gloss: abs
+  - text: мӕршутккан
+    gloss: obl
+  - text: мӕршутккне
+    gloss: pl
+definitions:
+  - translation:
+      en: minibus
+      ru: микроавтобус
+    aliases:
+      en: [bus, car]

@@ -1,0 +1,17 @@
+headword: чӕч
+ipa: ˈtʃætʃ
+tags: [n]
+note:
+  en: "*пасҡьо*"
+forms:
+  - text: чӕч
+    gloss: abs
+  - text: чӕчре
+    gloss: pl
+definitions:
+  - translation:
+      en: haircut
+      ru: причёска
+    tags: [body]
+    aliases:
+      en: [hairstyle]

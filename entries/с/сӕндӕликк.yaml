@@ -1,0 +1,15 @@
+headword: сӕндӕликк
+ipa: sændæˈlikː
+tags: [n, loan, russian]
+forms:
+  - text: сӕндӕликк
+    gloss: abs
+  - text: сӕндӕликке
+    gloss: pl
+definitions:
+  - translation:
+      en: sandal
+      ru: сандаль
+    tags: [clothing]
+    aliases:
+      en: [shoe]

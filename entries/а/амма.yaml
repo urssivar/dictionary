@@ -10,7 +10,7 @@ definitions:
       en: [though, and]
       ru: [хотя, а]
     examples:
-      - text: И һелин вәрунде, амма ҡкуллуҡҡ таман абаривде.
+      - text: И һелин вӕрунде, амма ҡкуллуҡҡ таман абаривде.
         translation:
           en: You went there, but you didn't finish the job.
           ru: Ты пошёл туда, но не завершил дело.

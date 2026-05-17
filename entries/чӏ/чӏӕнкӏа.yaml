@@ -1,0 +1,18 @@
+headword: чӏӕнкӏа
+ipa: tʃʼænˈkʼa
+tags: [n]
+note:
+  en: "*чьянкьне* (pl)"
+forms:
+  - text: чӏӕнкӏа
+    gloss: abs
+  - text: чӏӕнкӏан
+    gloss: obl
+  - text: чӏӕнкӏиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: palas carpet
+      ru: палас
+    aliases:
+      en: [flat, rug]

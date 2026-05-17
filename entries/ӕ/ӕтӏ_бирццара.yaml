@@ -1,0 +1,16 @@
+headword: ӕтӏ бирццара
+ipa: ˌætʼ biɾˈtsːaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: ӕтӏ биццара
+    gloss: pfv
+  - text: ӕтӏ биццур
+    gloss: pret
+  - text: ӕтӏ бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to collapse
+      ru: обрушиваться
+    aliases:
+      en: [fall, destroy]

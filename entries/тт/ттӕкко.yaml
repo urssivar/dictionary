@@ -1,0 +1,15 @@
+headword: ттӕкко
+ipa: ˈtːækːʷa
+tags: [n]
+forms:
+  - text: ттӕкко
+    gloss: abs
+  - text: ттӕккне
+    gloss: pl
+definitions:
+  - translation:
+      en: donkey kid
+      ru: ослёнок
+    tags: [animal]
+    aliases:
+      en: [pony, colt, foal]

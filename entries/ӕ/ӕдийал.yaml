@@ -1,0 +1,13 @@
+headword: ӕдийал
+ipa: ædiˈjal
+tags: [n, loan, russian]
+forms:
+  - text: ӕдийал
+    gloss: abs
+  - text: ӕдийалте
+    gloss: pl
+definitions:
+  - translation:
+      en: blanket
+      ru: одеяло
+    tags: [clothing]

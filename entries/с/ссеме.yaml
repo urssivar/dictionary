@@ -4,7 +4,7 @@ tags: [v, ntr, cls]
 forms:
   - text: сабав биһора
     gloss: pfv
-  - text: сабав биһәв
+  - text: сабав биһӕв
     gloss: pret
   - text: сабав бирһора
     gloss: ipfv
@@ -15,6 +15,6 @@ definitions:
     aliases:
       en: [cure]
     examples:
-      - text: һел шин сабав диһәв дами
+      - text: һел шин сабав диһӕв дами
         translation:
           en: that water healed me

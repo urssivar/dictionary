@@ -1,0 +1,16 @@
+headword: ӕмал аргара
+ipa: æˌmal aɾˈgaɾa
+tags: [v, ntr]
+forms:
+  - text: ӕмал агара
+    gloss: pfv
+  - text: ӕмал агур
+    gloss: pret
+  - text: ӕмал аргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get by
+      ru: обходиться, удаваться
+    aliases:
+      en: [resolve, manage, survive]

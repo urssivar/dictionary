@@ -1,0 +1,14 @@
+headword: ҡӏвӕтӏ биргара
+ipa: ˌqʼʷætʼ biɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: ҡӏвӕтӏ бигара
+    gloss: pfv
+  - text: ҡӏвӕтӏ бижив
+    gloss: pret
+  - text: ҡӏвӕтӏ биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to suffocate
+      ru: задыхаться

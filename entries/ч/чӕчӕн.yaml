@@ -1,0 +1,13 @@
+headword: чӕчӕн
+ipa: tʃæˈtʃæn
+tags: [n, adj, loan, russian]
+forms:
+  - text: чӕчӕн
+    gloss: abs
+  - text: чӕчӕнте
+    gloss: pl
+definitions:
+  - translation:
+      en: chechen
+      ru: чеченец, чеченский
+    tags: [demonym]

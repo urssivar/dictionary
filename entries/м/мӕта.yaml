@@ -1,0 +1,20 @@
+headword: мӕта
+ipa: ˈmæta
+tags: [n]
+note:
+  en: "*мятай*"
+forms:
+  - text: мӕта
+    gloss: abs
+  - text: мӕтне
+    gloss: pl
+definitions:
+  - translation:
+      en: game
+      ru: игра
+    aliases:
+      en: [play]
+    examples:
+      - text: ҡале-мӕта
+        translation:
+          en: house-building game

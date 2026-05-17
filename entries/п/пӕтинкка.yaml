@@ -1,0 +1,19 @@
+headword: пӕтинкка
+ipa: pætinˈkːa
+tags: [n, loan, russian]
+note:
+  en: |-
+    *пятьянкке*
+    *пашмаҡҡ*
+forms:
+  - text: пӕтинкка
+    gloss: abs
+  - text: пӕтинккан
+    gloss: obl, loc
+  - text: пӕтинккне
+    gloss: pl
+definitions:
+  - translation:
+      en: boot
+      ru: ботинок
+    tags: [clothing]

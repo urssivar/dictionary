@@ -1,0 +1,15 @@
+headword: ӕмицц
+ipa: æˈmitsː
+tags: [n]
+forms:
+  - text: ӕмицц
+    gloss: abs
+  - text: ӕмицце
+    gloss: pl
+definitions:
+  - translation:
+      en: gadfly
+      ru: овод
+    tags: [animal, insect]
+    aliases:
+      en: [fly]

@@ -1,0 +1,15 @@
+headword: ччиғӕтӏ
+ipa: tʃːiˈʁætʼ
+tags: [n]
+forms:
+  - text: ччиғӕтӏ
+    gloss: abs
+  - text: ччиғӕтӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: vulture
+      ru: стервятник
+    tags: [animal, bird]
+    aliases:
+      en: [lammergeier]

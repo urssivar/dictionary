@@ -4,7 +4,7 @@ tags: [v, ntr, cls]
 forms:
   - text: биһора
     gloss: pfv
-  - text: биһәв
+  - text: биһӕв
     gloss: pret
 
 definitions:
@@ -15,7 +15,7 @@ definitions:
       en: [die out, disappear, vanish]
       ru: [исчезать, пропадать, уходить]
     examples:
-      - text: Дуццан бицӏе аккор диһәв.
+      - text: Дуццан бицӏе аккор диһӕв.
         translation:
           en: Wolves went extinct in the forest.
           ru: В лесу вымерли волки.

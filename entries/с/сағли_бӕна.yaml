@@ -1,0 +1,12 @@
+headword: сағли бӕна
+ipa: saʁˌli bæˈna
+tags: [v, ntr, cls]
+forms:
+  - text: сағли бӕна
+    gloss: pfv
+definitions:
+  - translation:
+      en: to welcome
+      ru: встречать, приветствовать
+    aliases:
+      en: [meet, greet]

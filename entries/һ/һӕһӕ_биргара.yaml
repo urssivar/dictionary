@@ -1,0 +1,18 @@
+headword: һӕһӕ биргара
+ipa: hæˌhæ biɾˈgaɾa
+tags: [v, ntr, cls]
+note:
+  en: "*дикалтьи булҡана*"
+forms:
+  - text: һӕһӕ бигара
+    gloss: pfv
+  - text: һӕһӕ бижив
+    gloss: pret
+  - text: һӕһӕ биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to giggle
+      ru: хихикать
+    aliases:
+      en: [laugh, joke]

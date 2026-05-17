@@ -4,7 +4,7 @@ tags: [v, ntr, cls]
 forms:
   - text: чибиһора
     gloss: pfv
-  - text: чибиһәв
+  - text: чибиһӕв
     gloss: pret
   - text: чибирһора
     gloss: ipfv
@@ -15,6 +15,6 @@ definitions:
     aliases:
       en: [brawl]
     examples:
-      - text: хвә чибиһәв дуццил
+      - text: хвӕ чибиһӕв дуццил
         translation:
           en: the dog fought me

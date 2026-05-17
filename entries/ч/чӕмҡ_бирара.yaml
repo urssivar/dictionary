@@ -1,0 +1,18 @@
+headword: чӕмҡ бирара
+ipa: ˌtʃæmq biˈɾaɾa
+tags: [v, cls, tr]
+note:
+  en: "*чявҡ ~*"
+forms:
+  - text: чӕмҡ барара
+    gloss: pfv
+  - text: чӕмҡ барив
+    gloss: pret
+  - text: чӕмҡ бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shake (liquid)
+      ru: взбалтывать
+    aliases:
+      en: [stir]

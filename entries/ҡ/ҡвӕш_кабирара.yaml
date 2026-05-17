@@ -1,0 +1,16 @@
+headword: ҡвӕш кабирара
+ipa: ˌqʷæʃ kabiˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: ҡвӕш кабарара
+    gloss: pfv
+  - text: ҡвӕш кабарив
+    gloss: pret
+  - text: ҡвӕш кабирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stroke
+      ru: гладить
+    aliases:
+      en: [pet]

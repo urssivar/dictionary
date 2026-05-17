@@ -1,0 +1,16 @@
+headword: тӕшкка
+ipa: tæʃˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: тӕшккан
+    gloss: obl
+  - text: тӕшккне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: wheelbarrow
+      ru: тачка
+    aliases:
+      em: [car, barrow]
+      ru: [тележка]

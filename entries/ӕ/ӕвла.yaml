@@ -1,0 +1,14 @@
+headword: ӕвла
+ipa: ˈæβla
+tags: [n]
+forms:
+  - text: ӕвла
+    gloss: abs
+  - text: ӕвлан
+    gloss: obl
+  - text: ӕвлуме
+    gloss: pl
+definitions:
+  - translation:
+      en: number three
+      ru: тройка
