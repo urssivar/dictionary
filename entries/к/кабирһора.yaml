@@ -4,7 +4,7 @@ tags: [v, cls, ntr]
 forms:
   - text: кабиһора
     gloss: pfv
-  - text: кабиһӕв
+  - text: кабиһәв
     gloss: pret
   - text: кабирһора
     gloss: ipfv
@@ -13,6 +13,6 @@ definitions:
       en: to engage in
       ru: заниматься
     examples:
-      - text: базил киһӕв
+      - text: базил киһәв
         translation:
           en: engaged in dance

@@ -1,0 +1,18 @@
+headword: бәӏ бирццара
+ipa: ˌbæʔ biɾˈtsːaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: бәӏ биццара
+    gloss: pfv
+  - text: бәӏ биццур
+    gloss: pret
+  - text: бәӏ бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to gravitate
+      ru: стремиться
+    aliases:
+      en: [aspire, trend, seek]
+    examples:
+      - text: әһ һав вәӏ вицце

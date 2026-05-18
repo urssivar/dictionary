@@ -4,7 +4,7 @@ tags: [v, ntr]
 forms:
   - text: хайре биһора
     gloss: pfv
-  - text: хайре биһӕв
+  - text: хайре биһәв
     gloss: pret
   - text: хайре бирһора
     gloss: ipfv
@@ -15,6 +15,6 @@ definitions:
     aliases:
       en: [permit, let, can]
     examples:
-      - text: дӕна хайре бирһор
+      - text: дәна хайре бирһор
         translation:
           en: we may go

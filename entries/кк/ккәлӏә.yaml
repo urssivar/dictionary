@@ -1,0 +1,16 @@
+headword: ккәлӏә
+ipa: ˈkːælʔæ
+tags: [n, loan, arabic]
+forms:
+  - text: ккәлӏә
+    gloss: abs
+  - text: ккәлӏән
+    gloss: obl
+  - text: ккәлӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: castle
+      ru: дворец
+    aliases:
+      en: [palace]

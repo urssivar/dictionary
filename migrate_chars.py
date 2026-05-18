@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Replace ә→ӕ, Ә→Ӕ in Kaitag-language fields and filenames."""
+"""Replace ә→ә, Ә→Ә in Kaitag-language fields and filenames."""
 
 import os
 import sys
 from pathlib import Path
 from ruamel.yaml import YAML
 
-TRANS = str.maketrans({'ә': 'ӕ', 'Ә': 'Ӕ'})
+TRANS = str.maketrans({'ә': 'ә', 'Ә': 'Ә'})
 
 
 def r(s):

@@ -10,7 +10,7 @@ definitions:
       en: [addle, bad]
       ru: [тухлый, испорченный]
     examples:
-      - text: Нерғ цӏиг биһӕв.
+      - text: Нерғ цӏиг биһәв.
         translation:
           en: The soup went rancid.
           ru: Суп прогорк.

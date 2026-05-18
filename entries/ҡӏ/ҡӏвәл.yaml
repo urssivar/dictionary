@@ -1,0 +1,15 @@
+headword: ҡӏвәл
+ipa: ˈqʼʷæl
+tags: [n]
+forms:
+  - text: ҡӏвәл
+    gloss: abs
+  - text: ҡӏвәлу
+    gloss: obl
+  - text: ҡӏвәле
+    gloss: pl
+definitions:
+  - translation:
+      en: cow
+      ru: корова
+    tags: [animal]

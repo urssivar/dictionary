@@ -1,0 +1,12 @@
+headword: сәдиг
+ipa: ˈsædig
+tags: [n, loan, russian]
+forms:
+  - text: сәдиг
+    gloss: abs
+  - text: сәдиге
+    gloss: pl
+definitions:
+  - translation:
+      en: kindergarten
+      ru: детский сад

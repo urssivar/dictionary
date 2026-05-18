@@ -1,0 +1,18 @@
+headword: һәӏле
+ipa: ˈhæʔle
+tags: [adv]
+
+definitions:
+  - translation:
+      en: exceptionally, unusually
+      ru: исключительно, необычайно
+    aliases:
+      en: [very, especially, strongly]
+      ru: [очень, особенно, сильно]
+    examples:
+      - text: һәӏле ччакко рирси
+        translation:
+          en: unusually beautiful girl
+          ru: необычайно красивая девушка
+
+variants: [һәҡӏле]

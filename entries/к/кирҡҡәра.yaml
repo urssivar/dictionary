@@ -1,0 +1,18 @@
+headword: кирҡҡәра
+ipa: kiɾˈqːæɾa
+tags: [v, tr]
+forms:
+  - text: кирҡҡәв
+    gloss: pret
+  - text: кирҡҡәра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to splotch
+      ru: размазывать
+    aliases:
+      en: [dirt, smear]
+    examples:
+      - text: кирҡҡәв дәӏ
+        translation:
+          en: unpleasant person

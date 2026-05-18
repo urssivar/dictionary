@@ -1,0 +1,20 @@
+headword: абәрҡҡур
+ipa: abæɾˈqːuɾ
+tags: [adj, cls, vb]
+forms:
+  - text: абәрҡҡул
+    gloss: adv
+
+definitions:
+  - translation:
+      en: uncultured
+      ru: невоспитанный
+    aliases:
+      en: [boorish, rude]
+      ru: [бескультурный, грубый]
+
+etymology:
+  en: The negative preterite of *руҡҡяра* "to educate, to bring up".
+  ru: Отрицательный претерит от *руҡҡяра* "воспитывать".
+
+derived_from: [руҡҡәра]

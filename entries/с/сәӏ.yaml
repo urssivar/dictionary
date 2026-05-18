@@ -1,0 +1,15 @@
+headword: сәӏ
+ipa: ˈsæʔ
+tags: [n, loan, arabic]
+forms:
+  - text: сәӏ
+    gloss: abs
+  - text: сәӏре
+    gloss: pl
+definitions:
+  - note:
+      en: Traditionally used for measuring zakat on Ramadan.
+    translation:
+      en: 2.5-kilo
+      ru: 2.5 кг
+    tags: [tool, measure]

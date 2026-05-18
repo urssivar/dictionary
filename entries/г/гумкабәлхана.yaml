@@ -1,0 +1,16 @@
+headword: гумкабәлхана
+ipa: gumkabælˈχana
+tags: [v, cls, tr]
+forms:
+  - text: гумкабәхана
+    gloss: pfv
+  - text: гумкабәхун
+    gloss: pret
+  - text: гумкабәлхана
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to defeat
+      ru: побеждать
+    aliases:
+      en: [win]

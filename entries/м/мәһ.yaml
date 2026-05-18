@@ -1,0 +1,15 @@
+headword: мәһ
+ipa: ˈmæh
+tags: [n]
+note:
+  en: "*няь*"
+forms:
+  - text: мәһ
+    gloss: abs
+  - text: мәһбе
+    gloss: pl
+definitions:
+  - translation:
+      en: whey
+      ru: сыворотка
+    tags: [food]

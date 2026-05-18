@@ -1,0 +1,14 @@
+headword: шәвҳ дирара
+ipa: ˌʃæβx diˈɾaɾa
+tags: [v, tr]
+forms:
+  - text: шәвҳ дарара
+    gloss: pfv
+  - text: шәвҳ дарив
+    gloss: pret
+  - text: шәвҳ дирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to row
+      ru: грести

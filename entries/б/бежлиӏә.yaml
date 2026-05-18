@@ -1,0 +1,17 @@
+headword: бежлиӏә
+ipa: beʒliˈʔæ
+tags: [n]
+etymology:
+  en: From *беж* "herd" (cf. *ваччриъя* "trader").
+forms:
+  - text: бежлиӏә
+    gloss: abs
+  - text: бежлиӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: herdsman
+      ru: скотовод (крс)
+    tags: [agriculture, occupation]
+    aliases:
+      en: [cowboy]

@@ -1,0 +1,16 @@
+headword: ишҡәра
+ipa: iʃˈqæɾa
+tags: [v, tr]
+forms:
+  - text: ишҡәв
+    gloss: pret
+  - text: ишҡәра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to skin, to peel off
+      ru: снимать кожу, отслаиваться
+    aliases:
+      en: [peel]
+
+variants: [ҡәрш буҡҡив]

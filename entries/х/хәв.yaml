@@ -1,0 +1,14 @@
+headword: хәв
+ipa: ˈχæβ
+tags: [n]
+forms:
+  - text: хәв
+    gloss: abs
+  - text: хәрбе
+    gloss: pl
+definitions:
+  - translation:
+      en: grave
+      ru: могила
+    aliases:
+      en: [tomb]

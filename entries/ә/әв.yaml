@@ -1,0 +1,14 @@
+headword: әв
+ipa: ˈæβ
+tags: [n]
+forms:
+  - text: әв
+    gloss: abs
+  - text: әвне
+    gloss: pl
+definitions:
+  - translation:
+      en: noose
+      ru: петля
+    aliases:
+      en: [loop]

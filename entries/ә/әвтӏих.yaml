@@ -1,0 +1,13 @@
+headword: әвтӏих
+ipa: æβˈtʼiχ
+tags: [n]
+forms:
+  - text: әвтӏих
+    gloss: abs
+  - text: әвтӏихе
+    gloss: pl
+definitions:
+  - translation:
+      en: trident
+      ru: трезубец
+    tags: [tool]

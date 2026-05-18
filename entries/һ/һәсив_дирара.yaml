@@ -1,0 +1,16 @@
+headword: һәсив дирара
+ipa: hæˌsiβ diˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: һәсив барара
+    gloss: pfv
+  - text: һәсив барив
+    gloss: pret
+  - text: һәсив бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to try
+      ru: пробовать
+    aliases:
+      en: [check]

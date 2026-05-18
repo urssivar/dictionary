@@ -1,0 +1,18 @@
+headword: виһәж
+ipa: βiˈhæʒ
+tags: [adj, cls, vb]
+etymology:
+  en: Hyp. of *бирьора* "to be" (cf. *бяяж* "likely").
+forms:
+  - text: биһәж
+    gloss: adj
+definitions:
+  - translation:
+      en: proper
+      ru: подобающий
+    aliases:
+      en: [right, appropriate, worthy]
+    examples:
+      - text: илгон бурсара етти биһәжле акку
+        translation:
+          en: it's not worthy for you to say this

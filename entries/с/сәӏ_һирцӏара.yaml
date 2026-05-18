@@ -1,0 +1,14 @@
+headword: сәӏ һирцӏара
+ipa: ˌsæʔ hiɾˈtsʼaɾa
+tags: [v, tr, cls]
+forms:
+  - text: сәӏ һицӏара
+    gloss: pfv
+  - text: сәӏ һицӏив
+    gloss: pret
+  - text: сәӏ һирцӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to distribute
+      ru: распределять

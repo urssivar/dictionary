@@ -1,0 +1,13 @@
+headword: әчча
+ipa: ˈætʃːa
+tags: [n]
+forms:
+  - text: әчча
+    gloss: abs
+  - text: әччне
+    gloss: pl
+definitions:
+  - translation:
+      en: she-goat
+      ru: коза
+    tags: [animal]

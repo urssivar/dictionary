@@ -1,0 +1,16 @@
+headword: чӏәвар
+ipa: tʃʼæˈβaɾ
+tags: [n]
+forms:
+  - text: чӏәвар
+    gloss: abs
+  - text: чӏәвре
+    gloss: obl
+  - text: чӏәвруме
+    gloss: pl
+definitions:
+  - translation:
+      en: floor
+      ru: пол
+    aliases:
+      en: [ground]

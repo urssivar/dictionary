@@ -1,0 +1,16 @@
+headword: пәһ
+ipa: ˈpæh
+tags: [n]
+forms:
+  - text: пәһ
+    gloss: abs
+  - text: пәһән
+    gloss: obl
+definitions:
+  - translation:
+      en: dust
+      ru: пыль
+    examples:
+      - text: пәһле верҡӏе ишккар
+        translation:
+          en: get lost from here

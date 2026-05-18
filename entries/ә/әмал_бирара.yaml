@@ -1,0 +1,16 @@
+headword: әмал бирара
+ipa: æˌmal biˈɾaɾa
+tags: [v, tr]
+forms:
+  - text: әмал барара
+    gloss: pfv
+  - text: әмал барив
+    gloss: pret
+  - text: әмал бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to settle
+      ru: решать, улаживать
+    aliases:
+      en: [resolve]

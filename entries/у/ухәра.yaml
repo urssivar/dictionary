@@ -1,0 +1,16 @@
+headword: ухәра
+ipa: uˈχːæɾa
+tags: [v, tr, cls]
+forms:
+  - text: бурхәра
+    gloss: pfv
+  - text: бурхәв
+    gloss: pret
+  - text: ухәра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to ram
+      ru: таранить
+    aliases:
+      en: [push, thrust]

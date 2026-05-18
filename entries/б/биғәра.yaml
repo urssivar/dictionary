@@ -1,0 +1,16 @@
+headword: биғәра
+ipa: biˈʁæɾa
+tags: [v, cls, ntr]
+forms:
+  - text: биғәв
+    gloss: pret
+  - text: биғәра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get exhausted
+      ru: истощаться
+    aliases:
+      en: [tire]
+    examples:
+      - text: Ду декӏ әчу бирул виғәвда.

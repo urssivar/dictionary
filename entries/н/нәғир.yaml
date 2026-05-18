@@ -1,0 +1,14 @@
+headword: нәғир
+ipa: næˈʁiɾ
+tags: [n]
+forms:
+  - text: нәғир
+    gloss: abs
+  - text: нәғирте
+    gloss: pl
+definitions:
+  - translation:
+      en: whim
+      ru: прихоть
+    aliases:
+      en: [wish, want, desire]

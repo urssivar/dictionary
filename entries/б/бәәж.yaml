@@ -1,0 +1,27 @@
+headword: бәәж
+ipa: ˈbææʒ
+tags: [cop, vb]
+etymology:
+  en: From hyp. of *бирьора* "to be" (cf. *биьяж* "probable").
+note:
+  en: "*биьяж*, *биьяй*"
+forms:
+  - text: бәәда
+    gloss: 1, 2 pl
+  - text: бәәде
+    gloss: 2 abs, pst
+  - text: бәәж
+    gloss: "3"
+definitions:
+  - translation:
+      en: likely
+      ru: скорее всего
+    aliases:
+      en: [maybe, perhaps, probalby]
+    examples:
+      - text: һеж тилпун убала бәәж
+        translation:
+          en: this phone is likely mother's
+      - text: атта ҡил вәәж
+        translation:
+          en: father is likely at home

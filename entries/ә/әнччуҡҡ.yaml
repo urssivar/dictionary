@@ -1,0 +1,17 @@
+headword: әнччуҡҡ
+ipa: ænˈtʃːuqː
+tags: [n]
+etymology:
+  en: From *янчча* "clay".
+forms:
+  - text: әнччуҡҡ
+    gloss: abs
+  - text: әнччуҡҡан
+    gloss: loc
+  - text: әнччуҡҡе
+    gloss: pl
+definitions:
+  - translation:
+      en: quarry
+      ru: карьер
+    tags: [nature]

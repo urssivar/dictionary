@@ -1,0 +1,14 @@
+headword: рәәт
+ipa: ɾæˈæt
+tags: [n]
+forms:
+  - text: рәәт
+    gloss: abs
+  - text: рәәте
+    gloss: pl
+definitions:
+  - translation:
+      en: serf
+      ru: крепостной
+    aliases:
+      en: [slave]

@@ -1,0 +1,15 @@
+headword: тусҡҡәка
+ipa: tusˈqːæka
+tags: [n]
+forms:
+  - text: тусҡҡәка
+    gloss: abs
+  - text: тусҡҡәкне
+    gloss: pl
+definitions:
+  - translation:
+      en: slug
+      ru: слизень
+    tags: [animal, insect]
+    aliases:
+      en: [snail]

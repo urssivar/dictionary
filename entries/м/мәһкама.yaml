@@ -1,0 +1,13 @@
+headword: мәһкама
+ipa: mæhˈkama
+tags: [n, loan, arabic]
+definitions:
+  - translation:
+      en: region
+      ru: регион
+    aliases:
+      en: [area, zone]
+    examples:
+      - text: шурккантла мәһкама
+        translation:
+          en: the region of shurkant

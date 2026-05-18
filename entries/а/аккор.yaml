@@ -16,7 +16,7 @@ definitions:
       en: [missing, lacking, -less]
       ru: [не имеющий, лишённый]
     examples:
-      - text: Арц аккол мавӕтте.
+      - text: Арц аккол мавәтте.
         translation:
           en: Don't go without money.
           ru: Без денег не иди.
@@ -45,4 +45,4 @@ etymology:
   ru: Настоящее общее от исторического глагола *\*аккора* (ср. *акку* "не").
 
 derived_from: ["*аккора"]
-see_also: [йӕһ_аккор, буцӏар, акку]
+see_also: [йәһ_аккор, буцӏар, акку]

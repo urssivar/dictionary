@@ -1,0 +1,15 @@
+headword: жәғжәғи
+ipa: ʒæʁʒæˈʁi
+tags: [n]
+forms:
+  - text: жәғжәғи
+    gloss: abs
+  - text: жәғжәғне
+    gloss: pl
+definitions:
+  - translation:
+      en: cicada
+      ru: цикада
+    tags: [animal, insect]
+    aliases:
+      en: [cicadidae]

@@ -1,0 +1,15 @@
+headword: чәли
+ipa: tʃæˈli
+tags: [n, loan, turkic]
+forms:
+  - text: чәлин
+    gloss: obl
+  - text: чәлиппе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: wattle
+      ru: плетёнь
+    aliases:
+      en: [fence, pen]

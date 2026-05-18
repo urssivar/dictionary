@@ -1,0 +1,16 @@
+headword: зәм бирццара
+ipa: ˌzæm biɾˈtsːaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: зәм биццара
+    gloss: pfv
+  - text: зәм биццур
+    gloss: pret
+  - text: зәм бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to clear up (weather)
+      ru: проясняться (погода)
+    aliases:
+      en: [clean]

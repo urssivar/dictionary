@@ -1,0 +1,14 @@
+headword: әмуз
+ipa: æˈmuz
+tags: [n]
+etymology:
+  en: From *яв* "tri-" + *муза* "peak".
+forms:
+  - text: әмуз
+    gloss: abs
+  - text: әмузе
+    gloss: pl
+definitions:
+  - translation:
+      en: triangle
+      ru: треугольник

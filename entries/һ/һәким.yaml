@@ -1,0 +1,14 @@
+headword: һәким
+ipa: hæˈkim
+tags: [n, loan, arabic]
+forms:
+  - text: һәким
+    gloss: abs
+  - text: һәкимте
+    gloss: pl
+definitions:
+  - translation:
+      en: official
+      ru: чиновник
+    aliases:
+      en: [officer]

@@ -1,0 +1,16 @@
+headword: урккәҡ
+ipa: uɾˈkːæq
+tags: [n]
+forms:
+  - text: урккәҡе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: interval
+      ru: промежуток
+    aliases:
+      en: [span]
+      ru: [отрезок]
+
+derived_from: [уркка]

@@ -1,0 +1,19 @@
+headword: зәнҡҡәр
+ipa: zænˈqːæɾ
+tags: [n]
+forms:
+  - text: зәнҡҡәр
+    gloss: abs
+  - text: зәнҡҡәрте
+    gloss: pl
+definitions:
+  - translation:
+      en: bell
+      ru: колокол
+    tags: [tool]
+    aliases:
+      en: [tocsin]
+    examples:
+      - text: зәнҡҡәр бикӏул це
+        translation:
+          en: it's ringing

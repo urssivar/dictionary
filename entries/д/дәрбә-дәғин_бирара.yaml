@@ -1,0 +1,16 @@
+headword: дәрбә-дәғин бирара
+ipa: ˌdæɾbæ-dæˌʁin biˈɾaɾa
+tags: [v, cls, tr]
+forms:
+  - text: дәрбә-дәғин барара
+    gloss: pfv
+  - text: дәрбә-дәғин барив
+    gloss: pret
+  - text: дәрбә-дәғин бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to obliterate
+      ru: полностью разрушить
+    aliases:
+      en: [crush, smash, destroy]

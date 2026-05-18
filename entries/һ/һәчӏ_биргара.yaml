@@ -1,0 +1,16 @@
+headword: һәчӏ биргара
+ipa: ˌhætʃʼ biɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һәчӏ бигара
+    gloss: pfv
+  - text: һәчӏ бижив
+    gloss: pret
+  - text: һәчӏ биргара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to slide
+      ru: скользить
+    aliases:
+      en: [slip, glide]

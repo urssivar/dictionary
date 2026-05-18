@@ -1,0 +1,15 @@
+headword: әшакк
+ipa: æˈʃakː
+tags: [n]
+forms:
+  - text: әшакк
+    gloss: abs
+  - text: әшаккан
+    gloss: loc, obl
+  - text: әшакке
+    gloss: pl
+definitions:
+  - translation:
+      en: pot
+      ru: кастрюля
+    tags: [tool, house]

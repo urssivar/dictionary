@@ -1,0 +1,17 @@
+headword: Бәртаһа
+ipa: ˈbæɾtaha
+tags: [n]
+forms:
+  - text: Бәртаһан
+    gloss: dnz.sg
+  - text: Бәртаһала
+    gloss: atr, dnz.pl
+
+definitions:
+  - translation:
+      en: v. Bartuga
+      ru: с. Бартуга
+    tags: [placename]
+    aliases:
+      en: [village]
+      ru: [село]

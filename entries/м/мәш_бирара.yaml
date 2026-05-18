@@ -1,0 +1,20 @@
+headword: мәш бирара
+ipa: ˈmæʃ
+tags: [v, tr, cls]
+forms:
+  - text: мәш барара
+    gloss: pfv
+  - text: мәш барив
+    gloss: pret
+  - text: мәш бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to flaunt
+      ru: хвастать
+    aliases:
+      en: [show, "off"]
+    examples:
+      - text: цинела машин мәш барив
+        translation:
+          en: he flaunted his car

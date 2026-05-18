@@ -1,0 +1,13 @@
+headword: жәлтта
+ipa: ˈʒæltːa
+tags: [n]
+forms:
+  - text: жәлтта
+    gloss: abs
+  - text: жәлттне
+    gloss: pl
+definitions:
+  - translation:
+      en: swallow
+      ru: ласточка
+    tags: [animal, bird]

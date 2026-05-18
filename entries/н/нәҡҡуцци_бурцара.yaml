@@ -1,0 +1,16 @@
+headword: нәҡҡуцци бурцара
+ipa: næˌqːutsːi buɾˈtsaɾa
+tags: [v, tr, cls]
+forms:
+  - text: нәҡҡуцци буцара
+    gloss: pfv
+  - text: нәҡҡуцци буцив
+    gloss: pret
+  - text: нәҡҡуцци бурцара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to control
+      ru: контролировать
+    aliases:
+      en: [manage, rule]

@@ -1,0 +1,15 @@
+headword: ппәрҡучӏ
+ipa: pːæɾˈqutʃʼ
+tags: [n]
+etymology:
+  en: Probably related to *ппярҡ* "sling".
+forms:
+  - text: ппәрҡучӏ
+    gloss: abs
+  - text: ппәрҡучӏе
+    gloss: pl
+definitions:
+  - translation:
+      en: slingshot
+      ru: рогатка
+    tags: [tool]

@@ -1,0 +1,15 @@
+headword: сикниӏә
+ipa: sikniˈʔæ
+tags: [n]
+note:
+  en: "*сикниҡья*"
+forms:
+  - text: сикниӏә
+    gloss: abs
+  - text: сикниӏне
+    gloss: pl
+definitions:
+  - translation:
+      en: matchmaker
+      ru: сваха
+    tags: [occupation]

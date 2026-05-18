@@ -1,0 +1,17 @@
+headword: дәҡнуш
+ipa: dæqˈnuʃ
+tags: [n]
+etymology:
+  en: From *дяҡя* "injury", cf. *дяьнуш* "uterus".
+forms:
+  - text: дәҡнуш
+    gloss: abs
+  - text: дәҡнуше
+    gloss: pl
+definitions:
+  - translation:
+      en: physician
+      ru: лекарь
+    tags: [occupation]
+    aliases:
+      en: [medic, healer]

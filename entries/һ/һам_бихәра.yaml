@@ -1,0 +1,14 @@
+headword: һам бихәра
+ipa: ˌham biˈχæɾa
+tags: [v, cls, tr]
+forms:
+  - text: һам бихәв
+    gloss: pret
+  - text: һам бихәра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to remember
+      ru: запоминать
+    aliases:
+      en: [memorize]

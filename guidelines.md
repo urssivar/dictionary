@@ -2,7 +2,7 @@
 
 ## Scope
 
-**Deverbal adjectives** — Kaitag preterites regularly function as adjectives (_бӕрӏив_ "cold" from _бурӏара_ "to cool"). Add as a separate entry with `vb` tag and `derived_from` when frequent or lexicalized enough.
+**Deverbal adjectives** — Kaitag preterites regularly function as adjectives (_бәрӏив_ "cold" from _бурӏара_ "to cool"). Add as a separate entry with `vb` tag and `derived_from` when frequent or lexicalized enough.
 
 **Skip** lexically transparent productive patterns: causatives (_X барара_ "to make X"), inchoatives (_X бирһора_ "to become X"), regular adverbs with _-ле_, etc. These are grammar, not lexicon. Exception: include compound verbs with non-compositional meaning (e.g. _алав биркара_ "to evade", not literally "to occur around").
 
@@ -174,7 +174,7 @@ Plain string array of dialectal/alternative forms. For variants with their own p
 
 ```yaml
 variants: [авба, бавба]
-variants: [тӏӕ / тӏӕл- / тӏӕме, тӏӕһ / тӏӕһу / тӏӕһри]
+variants: [тӏә / тӏәл- / тӏәме, тӏәһ / тӏәһу / тӏәһри]
 variants: [~ / барара / барив]
 ```
 
@@ -207,14 +207,14 @@ Write each morpheme transparently. Never reflect assimilation — consonantal, v
 
 Write the underlying root form recoverable from the paradigm. The geminate is real and surfaces before vowels; degemination before consonants is predictable and not reflected.
 
-- _биххӕра_, _биххӕв_, _биххне_ (despite pronounced _бихне_) — _хх_ written consistently throughout
+- _биххәра_, _биххәв_, _биххне_ (despite pronounced _бихне_) — _хх_ written consistently throughout
 
 ### Word Division (Interim Convention)
 
 Full standardization — compounds, clitics, hyphenation, apostrophe use — is deferred to v1.2 and requires a corpus. Until then, write all components separately regardless of lexicalization degree.
 
 - Compound verbs: _кумек барара_, _сар виһора_, _ул катара_
-- Compound nominals/adjectives: _миг бӕрӏив_, _шӕӏ ҡерҡил_, _давла чев_
+- Compound nominals/adjectives: _миг бәрӏив_, _шәӏ ҡерҡил_, _давла чев_
 
 ## Checklist
 

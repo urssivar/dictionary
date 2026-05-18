@@ -1,0 +1,16 @@
+headword: пәрта
+ipa: ˈpæɾta
+tags: [n, loan, russian]
+forms:
+  - text: пәрта
+    gloss: abs
+  - text: пәртан
+    gloss: obl, loc
+  - text: пәртне
+    gloss: pl
+definitions:
+  - translation:
+      en: desk
+      ru: парта
+    aliases:
+      en: [table]

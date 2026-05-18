@@ -1,0 +1,14 @@
+headword: ттура цәна
+ipa: tːuˌɾa tsæˈna
+tags: [v, ntr, cls]
+forms:
+  - text: ттура цәна
+    gloss: pfv
+  - text: ттура цәбун
+    gloss: pret
+  - text: ттура цәнне
+    gloss: prog
+definitions:
+  - translation:
+      en: to exit
+      ru: выходить

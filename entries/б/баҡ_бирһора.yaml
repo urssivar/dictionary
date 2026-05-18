@@ -4,7 +4,7 @@ tags: [v, cls, ntr]
 forms:
   - text: баҡ биһора
     gloss: pfv
-  - text: баҡ биһӕв
+  - text: баҡ биһәв
     gloss: pret
   - text: баҡ бирһора
     gloss: ipfv
@@ -15,6 +15,6 @@ definitions:
     aliases:
       en: [spread]
     examples:
-      - text: жаҡӏайзре даҡ диһӕл це
+      - text: жаҡӏайзре даҡ диһәл це
         translation:
           en: mosquitoes have multiplied

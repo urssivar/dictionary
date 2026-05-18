@@ -1,0 +1,14 @@
+headword: бәӏ бирара
+ipa: ˌbæʔ biˈɾaɾa
+tags: [v, cls, tr]
+forms:
+  - text: бәӏ барара
+    gloss: pfv
+  - text: бәӏ барив
+    gloss: pret
+  - text: бәӏ бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to bewitch
+      ru: привораживать

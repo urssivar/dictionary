@@ -17,12 +17,12 @@ definitions:
       en: if
       ru: если
     examples:
-      - text: уба ҡил рел раал ду ра цӕнда
+      - text: уба ҡил рел раал ду ра цәнда
         translation:
           en: if mother is still at home i will come too
-      - text: илттел баал вӕв
+      - text: илттел баал вәв
         translation:
           en: if so, let him go
-      - text: убацци ҳар веға, абаал аттаса вӕ
+      - text: убацци ҳар веға, абаал аттаса вә
         translation:
           en: ask mother, else go to father

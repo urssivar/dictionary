@@ -1,0 +1,16 @@
+headword: әрп
+ipa: ˈæɾp
+tags: [n, loan, arabic]
+note:
+  en: "*ьярп*"
+forms:
+  - text: әрп
+    gloss: abs
+  - text: әрпле
+    gloss: pl
+definitions:
+  - translation:
+      en: letter
+      ru: буква
+    aliases:
+      en: [character, symbol]

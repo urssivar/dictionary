@@ -1,0 +1,16 @@
+headword: һабувӏәна
+ipa: habuβˈʔæna
+tags: [v, ntr, cls]
+forms:
+  - text: һабәвӏәна
+    gloss: pfv
+  - text: һабәвӏун
+    gloss: pret
+  - text: һабувӏәна
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get turbid
+      ru: мутнеть
+    aliases:
+      en: [cloudy, dirty]

@@ -1,0 +1,15 @@
+headword: әм
+ipa: ˈæm
+tags: [n]
+forms:
+  - text: әм
+    gloss: abs
+  - text: әмре
+    gloss: pl
+definitions:
+  - translation:
+      en: aperture
+      ru: отверстие
+    tags: []
+    aliases:
+      en: [port, slot, hole]

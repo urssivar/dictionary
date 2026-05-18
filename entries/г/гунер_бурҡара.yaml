@@ -2,9 +2,9 @@ headword: гунер бурҡара
 ipa: guˌneɾ buɾˈqaɾa
 tags: [v, tr, cls]
 forms:
-  - text: гунер бӕҡара
+  - text: гунер бәҡара
     gloss: pfv
-  - text: гунер бӕҡив
+  - text: гунер бәҡив
     gloss: pret
   - text: гунер бурҡара
     gloss: ipfv
@@ -13,6 +13,6 @@ definitions:
       en: to utilize
       ru: пользоваться
     examples:
-      - text: гунер бӕҡив ккуртте
+      - text: гунер бәҡив ккуртте
         translation:
           en: second-hand dress

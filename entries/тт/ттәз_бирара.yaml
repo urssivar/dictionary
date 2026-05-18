@@ -1,0 +1,16 @@
+headword: ттәз бирара
+ipa: ˌtːæz biˈɾaɾa
+tags: [v, cls, tr]
+forms:
+  - text: ттәз барара
+    gloss: pfv
+  - text: ттәз барив
+    gloss: pret
+  - text: ттәз бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to move apart
+      ru: раздвигать
+    aliases:
+      en: [extend]

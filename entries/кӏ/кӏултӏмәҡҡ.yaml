@@ -1,0 +1,17 @@
+headword: кӏултӏмәҡҡ
+ipa: kʼultʼˈmæqː
+tags: [n]
+note:
+  en: "*мянду*"
+forms:
+  - text: кӏултӏмәҡҡ
+    gloss: abs
+  - text: кӏултӏмәҡҡе
+    gloss: pl
+definitions:
+  - translation:
+      en: glutton
+      ru: обжора
+    tags: [slur]
+    aliases:
+      en: [guzzler, eater]

@@ -1,0 +1,16 @@
+headword: ғәв бирццара
+ipa: ˌʁæβ biɾˈtsːaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: ғәв биццара
+    gloss: pfv
+  - text: ғәв биццур
+    gloss: pret
+  - text: ғәв бирццара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shut up
+      ru: умолкать
+    aliases:
+      en: [quiet, silent]

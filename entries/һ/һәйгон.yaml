@@ -1,0 +1,19 @@
+headword: һәйгон
+ipa: hæjˈgʷan
+tags: [n, loan, arabic]
+note:
+  en: "*мицьир мас*"
+forms:
+  - text: һәйгон
+    gloss: abs
+  - text: һәйгонте
+    gloss: pl
+definitions:
+  - translation:
+      en: cattle
+      ru: скот
+    tags: [animal]
+    examples:
+      - text: аллаһла һәйгон
+        translation:
+          en: "* simpleton"

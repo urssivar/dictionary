@@ -1,0 +1,14 @@
+headword: ҡӏәйцӏ баҳара
+ipa: ˌqʼæjtsʼ baˈxaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: ҡӏәйцӏ башив
+    gloss: pret
+  - text: ҡӏәйцӏ баҳара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to stroll
+      ru: прогуливаться
+    aliases:
+      en: [walk]

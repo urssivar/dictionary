@@ -4,7 +4,7 @@ tags: [v, ntr, cls]
 forms:
   - text: барх һабиһора
     gloss: pfv
-  - text: барх һабиһӕв
+  - text: барх һабиһәв
     gloss: pret
   - text: барх һабирһора
     gloss: ipfv
@@ -16,4 +16,4 @@ definitions:
     aliases:
       en: [tangle, snarl]
     examples:
-      - text: Сукке дарх һадиһӕв дила
+      - text: Сукке дарх һадиһәв дила

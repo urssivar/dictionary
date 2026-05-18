@@ -1,0 +1,17 @@
+headword: Бәжуле
+ipa: bæˈʒule
+tags: [n]
+forms:
+  - text: Бәжликан
+    gloss: dnz.sg
+  - text: Бәжличила
+    gloss: atr, dnz.pl
+
+definitions:
+  - translation:
+      en: v. Bazhluk
+      ru: с. Бажлук
+    tags: [placename]
+    aliases:
+      en: [village]
+      ru: [село]

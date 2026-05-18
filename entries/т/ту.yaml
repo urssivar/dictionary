@@ -13,7 +13,7 @@ definitions:
       ru: плевок
     tags: [body]
     examples:
-      - text: Ту кадӕҡил вегур.
+      - text: Ту кадәҡил вегур.
         translation:
           en:
           ru: Наплевал и ушёл.

@@ -10,7 +10,7 @@ definitions:
       en: [so, in that case]
       ru: [ну так, в таком случае]
     examples:
-      - text: Абал, вӕһил акку.
+      - text: Абал, вәһил акку.
         translation:
           en: Well then, not bad.
           ru: Ну тогда неплохо.

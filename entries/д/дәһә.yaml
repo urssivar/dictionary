@@ -1,0 +1,15 @@
+headword: дәһә
+ipa: ˈdæhæ
+tags: [n]
+note:
+  en: "*дуья*, *дяь*"
+forms:
+  - text: дәһә
+    gloss: abs
+  - text: дәһәл
+    gloss: obl
+definitions:
+  - translation:
+      en: snow
+      ru: снег
+    tags: [nature]

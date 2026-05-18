@@ -1,0 +1,14 @@
+headword: әрз
+ipa: ˈæɾz
+tags: [n, loan, arabic]
+forms:
+  - text: әрз
+    gloss: abs
+  - text: әрзне
+    gloss: pl
+definitions:
+  - translation:
+      en: complaint
+      ru: жалоба
+    aliases:
+      en: [slander, claim, appeal]

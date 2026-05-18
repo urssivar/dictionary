@@ -13,6 +13,6 @@ definitions:
     aliases:
       en: [repeat, increment, once]
     examples:
-      - text: сахсара вӕ
+      - text: сахсара вә
         translation:
           en: go again

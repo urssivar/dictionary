@@ -1,0 +1,16 @@
+headword: пәһ бирара
+ipa: ˌpæh biˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: пәһ барара
+    gloss: pfv
+  - text: пәһ барив
+    gloss: pret
+  - text: пәһ бирара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to shake out
+      ru: вытряхивать
+    aliases:
+      en: [clean, empty]

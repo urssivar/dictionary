@@ -10,7 +10,7 @@ definitions:
       en: [thanks, so, thus]
       ru: [поэтому, так что, вот]
     examples:
-      - text: Ӕвра аулши, һелдеҳна зарал ра калгун.
+      - text: Әвра аулши, һелдеҳна зарал ра калгун.
         translation:
           en: He didn't work much, and therefore stayed healthy.
           ru: Он много не работал, потому и остался здоровым.

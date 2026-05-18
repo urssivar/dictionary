@@ -1,0 +1,19 @@
+headword: бивғәра
+ipa: biβˈʁæɾa
+tags: [v, cls, tr]
+forms:
+  - text: бәвғәра
+    gloss: pfv
+  - text: бәвғив
+    gloss: pret
+  - text: бивғәра
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to smash
+      ru: раздавливать
+    aliases:
+      en: [crush]
+    examples:
+      - text: нерғицци кадара чух дәвға
+      - text: машин бәвғив

@@ -1,0 +1,18 @@
+headword: ләӏун китӏара
+ipa: læˌʔun kiˈtʼaɾa
+tags: [v, tr]
+etymology:
+  en: Lit. "to pour into ear", the "ear" is in old locative.
+forms:
+  - text: ләӏун катӏара
+    gloss: pfv
+  - text: ләӏун катӏив
+    gloss: pret
+  - text: ләӏун китӏара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to expound
+      ru: разъяснять, растолковывать
+    aliases:
+      en: [explain]

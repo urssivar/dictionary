@@ -1,0 +1,18 @@
+headword: әвка бирһора
+ipa: æβˌka biɾˈhʷaɾa
+tags: [v, ntr, cls]
+note:
+  en: "*буҡье бирьора*, *азир куц бирьора*"
+forms:
+  - text: әвка биһора
+    gloss: pfv
+  - text: әвка биһәв
+    gloss: pret
+  - text: әвка бирһора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to get tormented
+      ru: измучиваться
+    aliases:
+      en: [exhaust, fatigue]

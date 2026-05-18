@@ -14,7 +14,7 @@ definitions:
     aliases:
       en: [work, operate]
     examples:
-      - text: тилпун буццул акку, зай биһӕл бӕӕж
+      - text: тилпун буццул акку, зай биһәл бәәж
         translation:
           en: child doesn't grow
   - translation:
@@ -23,9 +23,9 @@ definitions:
     aliases:
       en: [mve, advance]
     examples:
-      - text: сӕӕт чӏулжи буццул це
+      - text: сәәт чӏулжи буццул це
         translation:
           ru: начало второго
-      - text: дӕрһӕ уццул акку
+      - text: дәрһә уццул акку
         translation:
           en: the child is not growing

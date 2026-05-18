@@ -1,0 +1,16 @@
+headword: ҡӏвәтӏ бирҳора
+ipa: ˌqʼʷætʼ biɾˈxʷaɾa
+tags: [v, tr, cls]
+forms:
+  - text: ҡӏвәтӏ биҳора
+    gloss: pfv
+  - text: ҡӏвәтӏ бишур
+    gloss: pret
+  - text: ҡӏвәтӏ бирҳора
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to strangle
+      ru: душить
+    aliases:
+      en: [choke, suffocate]

@@ -1,0 +1,27 @@
+headword: цәна
+ipa: tsæˈna
+tags: [v, cls, ntr]
+note:
+  en: "*цянара*"
+forms:
+  - text: цәна
+    gloss: pfv
+  - text: цәбун
+    gloss: pret
+  - text: цәбе
+    gloss: imp
+  - text: цәнне
+    gloss: prog
+  - text: мацәтте
+    gloss: proh
+definitions:
+  - translation:
+      en: to come
+      ru: прийти
+    examples:
+      - text: цә нисацци кигара
+        translation:
+          en: come to sit with us
+      - text: уцци цәнне це
+        translation:
+          en: brother is coming

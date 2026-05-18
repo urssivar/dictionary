@@ -1,0 +1,16 @@
+headword: һәлал бартара
+ipa: hæˌlal baɾˈtaɾa
+tags: [v, tr, cls]
+forms:
+  - text: һәлал батара
+    gloss: pfv
+  - text: һәлал батур
+    gloss: pret
+  - text: һәлал бартара
+    gloss: ipfv
+definitions:
+  - translation:
+      en: to gift
+      ru: даровать
+    aliases:
+      en: [present, grant]

@@ -1,0 +1,16 @@
+headword: дәҡә
+ipa: ˈdæqæ
+tags: [n, vb]
+etymology:
+  en: From *бурҡяра* "to wound".
+forms:
+  - text: дәҡә
+    gloss: abs
+  - text: дәҡи
+    gloss: obl
+  - text: дәҡиппе
+    gloss: pl
+definitions:
+  - translation:
+      en: wound
+      ru: рана
