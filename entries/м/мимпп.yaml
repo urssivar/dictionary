@@ -1,5 +1,5 @@
-headword: ант
-ipa: ˈant
+headword: мимпп
+ipa: ˈmimpː
 tags: [n]
 
 definitions:
@@ -10,9 +10,9 @@ definitions:
       en: [peep, beep]
       ru: [пик]
     examples:
-      - text: Ант аҡара ра аватур.
+      - text: Мимпп аҡара ра аватур.
         translation:
           en: Didn't let him even make a sound.
           ru: Не дал ему даже пикнуть.
 
-variants: [мимпп]
+variants: [ант]

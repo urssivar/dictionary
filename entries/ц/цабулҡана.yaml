@@ -14,3 +14,6 @@ definitions:
       ru: плохо относиться
     aliases:
       en: [abuse]
+  - translation:
+      en: blow
+      ru: дуть

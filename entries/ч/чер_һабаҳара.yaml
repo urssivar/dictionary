@@ -1,0 +1,27 @@
+headword: чер һабаҳара
+ipa: ˌtʃeɾ habaˈxaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һабашив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to erupt
+      ru: извергать
+    aliases:
+      en: [puke]
+    examples:
+      - text: дубур чер һабаҳул це
+        translation:
+          en:
+          ru:
+  - translation:
+      en: to puke
+      ru: блевать
+    examples:
+      - text: чер һадаҳул це дила
+        translation:
+          en: i'm vomiting
+
+variants: [~ һитӏара / ~ һатӏара / ~ һатӏив]

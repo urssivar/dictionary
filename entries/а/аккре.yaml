@@ -7,11 +7,17 @@ forms:
 
 definitions:
   - translation:
-      en: nonsense
-      ru: чушь
+      en: nonsense, non-existent
+      ru: чушь, несуществующий
     aliases:
       en: [fiction, lies, falsehood]
       ru: [неправда, ложь]
+    examples:
+      - text: Аккунде мадурса!
+        translation:
+          en: Don't talk nonsense!
+          ru: Не неси чушь!
 
+variants: [аккор цикӏал, аккорил / аккорте]
 derived_from: ["*аккора"]
-see_also: [аҡре]
+see_also: [һаҡре]

@@ -6,6 +6,15 @@ definitions:
   - translation:
       en: thousand
       ru: тысяча
+    examples:
+      - text: Азирна биивда — ирғул акку.
+        translation:
+          en:
+          ru:
+      - text: Азир бала дакӏ.
+        translation:
+          en:
+          ru:
 
 etymology:
   en: From Persian هزار (*hazâr*) "thousand".

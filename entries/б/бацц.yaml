@@ -8,13 +8,8 @@ forms:
     gloss: obl
   - text: биццре
     gloss: pl
+
 definitions:
-  - translation:
-      en: moon
-      ru: луна
-    tags: [nature]
-    examples:
-      - text: Бацц чибигул йе?
   - translation:
       en: month
       ru: месяц

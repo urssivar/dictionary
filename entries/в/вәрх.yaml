@@ -8,8 +8,3 @@ definitions:
       ru: грохот
     aliases:
       en: [call, address]
-    examples:
-      - text: Вәрх кадижил дивҳне кадичив.
-        translation:
-          en: Clattering the dishes fell.
-          ru: Грохотая посуда упала.

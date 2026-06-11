@@ -1,0 +1,22 @@
+headword: чи бигара
+ipa: ˌtʃi biˈgaɾa
+tags: [v, cls, tr]
+forms:
+  - text: багара
+    gloss: pfv
+  - text: бажив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to see
+      ru: видеть
+    aliases:
+      en: [look]
+    examples:
+      - text: чи биганцци абиккар
+        translation:
+          en: I can't stand it
+          ru: терпеть не могу
+
+### чибаг, чибагала

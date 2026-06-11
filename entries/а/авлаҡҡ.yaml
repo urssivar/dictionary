@@ -13,6 +13,11 @@ definitions:
     aliases:
       en: [plain, field]
       ru: [равнина, поле]
+    examples:
+      - text: Еҡӏе би авлаҡҡи буккун.
+        translation:
+          en: The herd grazes in the valley.
+          ru: Стадо посётся на долине.
 
 etymology:
   en: From Kumyk *авлакъ* "field, open land".

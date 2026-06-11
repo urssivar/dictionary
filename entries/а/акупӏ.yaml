@@ -1,6 +1,9 @@
-headword: акуп
-ipa: aˈkup
+headword: акупӏ
+ipa: aˈkupʼ
 tags: [n, loan, russian]
+forms:
+  - text: акупӏе
+    gloss: pl
 
 definitions:
   - translation:

@@ -13,6 +13,11 @@ definitions:
     aliases:
       en: [courtyard, enclosure, compound]
       ru: [двор, подворье, огороженное пространство]
+    examples:
+      - text: Букӏмел ила ккуртте азбарцци буҡҡил це.
+        translation:
+          en: The wind has carried your shirt into the yard.
+          ru: Ветер унёс твою рубашку во двор.
 
 etymology:
   en: From Kumyk *абзар* "yard", possibly from Persian ابزار (*abzâr*) "tool, instrument".

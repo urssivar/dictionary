@@ -6,18 +6,10 @@ forms:
     gloss: abs
   - text: иғниппе
     gloss: pl
+
 definitions:
   - translation:
       en: necessity
       ru: необходимость
     aliases:
       en: [need]
-    examples:
-      - text: иғне бәҡил цәун
-        translation:
-          en: came as a need arose
-  - translation:
-      en: device
-      ru: принадлежность, прибор
-    aliases:
-      en: [utensil, tool, gear]

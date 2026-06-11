@@ -2,12 +2,11 @@ headword: тӏутӏу бирара
 ipa: tʼuˌtʼu biˈɾaɾa
 tags: [v, tr, cls]
 forms:
-  - text: тӏутӏу барара
+  - text: барара
     gloss: pfv
-  - text: тӏутӏу барив
+  - text: барив
     gloss: pret
-  - text: тӏутӏу бирара
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to scatter
@@ -19,3 +18,6 @@ definitions:
       ru: прогонять
     aliases:
       en: [expel]
+  - translation:
+      en: to waste
+      ru: тратить напрасно

@@ -15,6 +15,11 @@ definitions:
     aliases:
       en: [fireplace, fire]
       ru: [огонь, костёр]
+    examples:
+      - text: Аҡҡинцци цӏа һабиҡӏун це.
+        translation:
+          en: A fire is lit in the hearth.
+          ru: Огонь разожжён в очаге.
 
 variants: [әҡҡи]
 see_also: [цӏиппа]

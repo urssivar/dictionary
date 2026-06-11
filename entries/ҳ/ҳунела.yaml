@@ -1,11 +1,7 @@
 headword: ҳунела
 ipa: xuˈnela
 tags: [n]
-etymology:
-  en: Gen. of *ҳуне* "road".
 forms:
-  - text: ҳунела
-    gloss: abs
   - text: ҳунелал
     gloss: obl
 definitions:
@@ -14,3 +10,9 @@ definitions:
       ru: гостинец
     aliases:
       en: [gift]
+
+etymology:
+  en: Gen. of *ҳуне* "road".
+
+variants: [ҳунесала]
+derived_from: [ҳуне]

@@ -13,7 +13,11 @@ definitions:
     aliases:
       en: [vehicle]
       ru: [транспорт]
-
+    examples:
+      - text: Дәһне авттабузли цачив.
+        translation:
+          en: The bus brought the children.
+          ru: Автобус привёз детей.
 etymology:
   en: From Russian *автобус* "bus".
   ru: От русского *автобус*.

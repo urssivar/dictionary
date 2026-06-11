@@ -1,0 +1,15 @@
+headword: урух акӏара
+ipa: uˌɾuχ aˈkʼaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: ачӏив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to get scared
+      ru: пугаться
+    aliases:
+      en: [afraid]
+
+variants: [бикӏара / бакӏара / бачӏив]

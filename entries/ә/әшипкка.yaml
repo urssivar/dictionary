@@ -1,0 +1,16 @@
+headword: әшипкка
+ipa: æʃipˈkːa
+tags: [n, loan russian]
+forms:
+  - text: әшипккан
+    gloss: obl
+  - text: әшипккне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: oversight, error
+      ru: упущение, оплошность
+    aliases:
+      en: [mistake]
+      ru: [ошибка]

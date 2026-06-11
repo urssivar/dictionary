@@ -9,3 +9,8 @@ definitions:
     aliases:
       en: [simultaneous, concurrent]
       ru: [одновременный]
+    examples:
+      - text: Авттле кадиццай.
+        translation:
+          en: Line up.
+          ru: Встаньте по линии.

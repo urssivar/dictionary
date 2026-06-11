@@ -19,5 +19,15 @@ definitions:
         translation:
           en: Забили забор и огородили огород.
           ru: They put up a fence and enclosed the garden.
+  - translation:
+      en: to hug (gently)
+      ru: приобнимать (мягко)
+    aliases:
+      en: [embrace, hold]
+    examples:
+      - text: Аттал цинна дәһне алав цабарив.
+        translation:
+          en: The father hugged his children.
+          ru: Отец приобнял своих детей.
 
 derived_from: [алав, бирара]

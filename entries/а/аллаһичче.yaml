@@ -10,7 +10,7 @@ definitions:
       - text: Аллаһичче ватаба ду!
         translation:
           en: For God's sake leave me alone!
-          ru: Ради Бога, оставьте меня в покое!
+          ru: Ради Бога оставьте меня в покое!
 
-variants: [Аллаһ виччен]
+variants: [Аллаһ виччен, Аллаһ ичченне]
 derived_from: [аллаһ, биккара]

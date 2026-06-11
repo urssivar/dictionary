@@ -1,6 +1,9 @@
 headword: айланди
 ipa: ajlanˈdi
 tags: [n, loan, turkic]
+forms:
+  - text: айландил
+    gloss: obl
 
 definitions:
   - translation:
@@ -10,6 +13,11 @@ definitions:
     aliases:
       en: [round dance, circle dance]
       ru: [хоровод, круговой танец]
+    examples:
+      - text: Айландилжи цәбун бази барара.
+        translation:
+          en: Came to the circle to dance.
+          ru: Пришли на круг танцевать.
 
 etymology:
   en: From Kumyk *айландыр* "rotation".

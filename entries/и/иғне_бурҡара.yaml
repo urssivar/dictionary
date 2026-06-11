@@ -1,0 +1,19 @@
+headword: иғне бурҡара
+ipa: ˈiʁne
+tags: [v, ntr]
+forms:
+  - text: бәҡара
+    gloss: pfv
+  - text: бәҡив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: be in need
+      ru: нуждаться
+    aliases:
+      en: [need]
+    examples:
+      - text: иғне бәҡил цәун
+        translation:
+          en: came as a need arose

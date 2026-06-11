@@ -9,12 +9,12 @@ forms:
 
 definitions:
   - translation:
-      en: to line up, to align
-      ru: выравниваться, выстраиваться
+      en: to catch up, to align
+      ru: равняться
     examples:
-      - text: автт биццул дуцӏ бижив
+      - text: Автт биццул дуцӏ бижив.
         translation:
-          en: they lined up and run
-          ru: выровнялись и побежали
+          en: They catched up and run.
+          ru: Сравнялись и побежали.
 
 derived_from: [автт, "*бирццара"]

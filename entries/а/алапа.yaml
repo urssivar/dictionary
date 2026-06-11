@@ -9,8 +9,11 @@ definitions:
   - translation:
       en: wage
       ru: оплата
+    aliases:
+      en: [payment, price]
+      ru: [зарплата, цена]
     examples:
-      - text: Барив әчулла алапа һассив
+      - text: Усттал цинел таман барив әчулла алапа һассив.
         translation:
-          en: I will do this, and you do that.
-          ru: Я сделаю это, а ты сделай то.
+          en: The master took the wage for his finished work.
+          ru: Мастер взял оплату за свою завершённую работу.

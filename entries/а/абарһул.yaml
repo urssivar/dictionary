@@ -1,5 +1,5 @@
-headword: абарһул
-ipa: ˈabaɾhul
+headword: абаһул
+ipa: ˈabahul
 tags: [adv, vb]
 
 definitions:
@@ -10,13 +10,14 @@ definitions:
       en: [accidentally, unintentionally]
       ru: [случайно, невольно]
     examples:
-      - text: абарһул барив
+      - text: абаһул барив
         translation:
           en: did inadvertently
           ru: сделал нечаянно
 
 etymology:
-  en: The negative progressive of *барьара* "to know".
-  ru: Отрицательная продолженная форма от *барьара* "знать".
+  en: The negative past participle of *барьара* "to know".
+  ru: Отрицательное прошедшее деепричастие от *барьара* "знать".
 
+variants: [абарһул] 
 derived_from: [барһара]

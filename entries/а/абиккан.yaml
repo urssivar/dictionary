@@ -2,8 +2,6 @@ headword: абиккан
 ipa: abiˈkːan
 tags: [n, vb]
 forms:
-  - text: абикканил
-    gloss: obl
   - text: адикканте
     gloss: pl
 
@@ -31,5 +29,3 @@ etymology:
 
 derived_from: [биккара]
 see_also: [биккан]
-
-#? абикк барив karatsan

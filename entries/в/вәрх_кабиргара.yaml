@@ -1,0 +1,20 @@
+headword: вәрх кабиргара
+ipa: ˈβæɾχ
+tags: [v, ntr, cls]
+forms:
+  - text: кабигара
+    gloss: pfv
+  - text: кабижив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to clatter
+      ru: грохотать
+    aliases:
+      en: [call, address]
+    examples:
+      - text: Вәрх кадижил дивҳне кадичив.
+        translation:
+          en: Clattering the dishes fell.
+          ru: Грохотая посуда упала.

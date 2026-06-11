@@ -15,7 +15,7 @@ definitions:
     examples:
       - text: Һел дами авикк виһәв.
         translation:
-          en:
-          ru:
+          en: I came to dislike him.
+          ru: Он мне разонравился.
 
 derived_from: [биккара, бирһора]

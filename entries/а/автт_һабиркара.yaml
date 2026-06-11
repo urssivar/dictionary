@@ -9,11 +9,11 @@ forms:
 
 definitions:
   - translation:
-      en: to quarrel
-      ru: враждовать
+      en: to feud, to be in strife,
+      ru: междуусобить, ссориться
     tags: [feeling]
     aliases:
-      en: [to feud, to conflict]
-      ru: [конфликтовать, ссориться]
+      en: [to conflict]
+      ru: [конфликтовать]
 
 derived_from: [автт, биркара]

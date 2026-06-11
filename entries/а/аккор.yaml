@@ -16,7 +16,7 @@ definitions:
       en: [missing, lacking, -less]
       ru: [не имеющий, лишённый]
     examples:
-      - text: Арц аккол мавәтте.
+      - text: Арц аккол мавә.
         translation:
           en: Don't go without money.
           ru: Без денег не иди.
@@ -30,7 +30,7 @@ definitions:
           ru: неправильный
   - translation:
       en: absent
-      ru: отсутствующий
+      ru: отсутствующий 
     aliases:
       en: [absent]
       ru: [нет]

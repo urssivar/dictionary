@@ -1,15 +1,18 @@
-headword: шукру
-ipa: ˈʃukɾu
+headword: шикур
+ipa: ˈʃikuɾ
 tags: [n, loan, arabic]
+
 definitions:
-  - note:
-      en: Specifically to God.
-    translation:
-      en: gratitude
-      ru: благодарность (Богу)
+  - translation:
+      en: gratitude to God
+      ru: благодарность Богу
     aliases:
       en: [praise]
+      ru: [хвала]
     examples:
-      - text: аллаһцци шукру
+      - text: Аллаһцци шикур!
         translation:
-          en: thank god
+          en: Thank God!
+          ru: Слава Богу!
+
+variants: [шукур, шикру, шукру]

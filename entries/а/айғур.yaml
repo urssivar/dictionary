@@ -13,7 +13,14 @@ definitions:
     aliases:
       en: [stud, steed, horse]
       ru: [конь, скакун, лошадь]
+    examples:
+      - text: Айғури мәртта вижил вегур.
+        translation:
+          en: Mounted a stallion and rode away.
+          ru: Оседлал жеребца и ускакал.
 
 etymology:
   en: From Kumyk *айгъыр* "stallion".
   ru: От кумыкского *айгъыр* "жеребец".
+
+variants: [айғур-йәбу]

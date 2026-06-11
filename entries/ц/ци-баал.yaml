@@ -1,13 +1,13 @@
 headword: ци-баал
 ipa: ˈtsi-ˌbaal
 tags: [pro]
-etymology:
-  en: From *ци* "what" + *баал* "if".
-note:
-  en: |-
-    *ци-боъра*, *ци-биьоллира*
-    *ци-биьов* (from optative)
+
 definitions:
   - translation:
       en: whatever
       ru: что-нибудь
+
+etymology:
+  en: From *ци* "what" + *баал* "if".
+
+variants: [ци-биһоллира, ци-баӏра, ци-биьов, ци-баав]

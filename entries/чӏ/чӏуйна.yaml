@@ -7,9 +7,9 @@ definitions:
       en: twice
       ru: дважды
     examples:
-      - text: чӏуйналццил виһәв
+      - text: чӏуйналли виһәв
         translation:
-          en:
+          en: did in two tries
           ru: смог с двух попыток
 
 variants: [чӏугна]

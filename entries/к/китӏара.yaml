@@ -6,11 +6,15 @@ forms:
     gloss: pfv
   - text: катӏив
     gloss: pret
-  - text: китӏара
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to pour
       ru: наливать
     aliases:
       en: [water]
+  - translation:
+      en: to announce
+      ru: объявлять
+    aliases:
+      en: [declare, proclaim, call]

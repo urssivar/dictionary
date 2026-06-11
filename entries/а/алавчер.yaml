@@ -1,13 +1,18 @@
 headword: алавчер
-ipa: aˈlaβtʃeɾ
+ipa: alaβˈtʃeɾ
 tags: [post]
 
 definitions:
   - translation:
-      en: all round
+      en: all around
       ru: кругом
     aliases:
       en: [about, round]
-      ru: [кругом, округ]
+      ru: [вокруг]
+    examples:
+      - text: Барккара вирһул аккоде, алавчер ул бета.
+        translation:
+          en: I cannot find it, look all around.
+          ru: Я не могу найти, посмотри кругом.
 
 derived_from: [алав]

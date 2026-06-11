@@ -1,20 +1,25 @@
 headword: йел
 ipa: ˈjel
 tags: [ptcl]
-note:
-  en: Pronounced *йел*/*йал* after vowels, *ал*/*ел* otherwise.
 forms:
   - text: йал
     gloss: "?"
-  - text: '''ал'
+  - text: "'ал"
     gloss: "?"
-  - text: '''ел'
+  - text: "'ел"
     gloss: "?"
 definitions:
   - translation:
-      en: '[rhetorical question]'
-      ru: '[риторический вопрос]'
+      en: "[rhetorical question]"
+      ru: "[риторический вопрос]"
     examples:
       - text: кон регур йел
         translation:
-          en: '[i wonder] where did she go'
+          en: "[i wonder] where did she go"
+
+note:
+  en: Pronounced *йел*/*йал* after vowels, *ал*/*ел* otherwise.
+
+variants: [йал, \'ел, \'ал, \'л]
+
+### чуй әһле йел чул барһар \ whether

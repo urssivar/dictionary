@@ -9,15 +9,15 @@ forms:
 
 definitions:
   - translation:
-      en: to dupe
-      ru: одурачивать
+      en: to bewilder
+      ru: сбивать с толку
     aliases:
-      en: [fool, trick, deceive]
-      ru: [обманывать, разыгрывать]
+      en: [baffle, perplex]
+      ru: [смущать, озадачивать]
     examples:
       - text: Нишшала пишнал ду авдал варивда.
         translation:
           en: Your actions fooled me.
-          ru: Ваши действия меня одурачили.
+          ru: Ваши действия сбили меня с толку.
 
 derived_from: [авдал, бирара]

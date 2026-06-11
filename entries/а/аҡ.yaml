@@ -15,3 +15,8 @@ definitions:
     aliases:
       en: [garden, grape]
       ru: [сад, виноград]
+    examples:
+      - text: Һана шилла аҡацци дәнне да дулшана. 
+        translation:
+          en: Now we are going in the village vineyard to work.
+          ru: Сейчас мы идём работать на сельский виноградник.

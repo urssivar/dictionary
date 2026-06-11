@@ -1,0 +1,16 @@
+headword: бацц
+ipa: ˈbatsː
+tags: [n]
+forms:
+  - text: бацц
+    gloss: abs
+  - text: биццре
+    gloss: pl
+
+definitions:
+  - translation:
+      en: moon
+      ru: луна
+    tags: [nature]
+    examples:
+      - text: Бацц чибигул йе?

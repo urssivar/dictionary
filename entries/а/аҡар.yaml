@@ -1,0 +1,26 @@
+headword: аҡар
+ipa: ˈaqar
+tags: [n]
+forms:
+  - text: аҡрун
+    gloss: obl
+  - text: аҡарте
+    gloss: pl
+
+definitions:
+  - translation:
+      en: entry, opening
+      ru: проход
+    tags: [structure]
+    aliases:
+      en: [entrace, passage]
+      ru: [вход]
+    examples:
+      - text: Әбал ҡӏвәл диж дерһил дәғинцци аҡар барив.
+        translation:
+          en: Three cows ran and made an opening in the fence.
+          ru: Три коровы с разбегу создали проход в заборе.
+
+variants: [аҡре]
+derived_from: [иҡара]
+see_also: [бетӏре]

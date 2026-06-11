@@ -9,3 +9,8 @@ definitions:
     aliases:
       en: [about, round]
       ru: [кругом, округ]
+    examples:
+      - text: Дәһне ҡалла алав дуцӏ бикӏул биде.
+        translation:
+          en: The children were running around the house.
+          ru: Дети бегали вокруг дома.

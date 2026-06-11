@@ -22,10 +22,14 @@ definitions:
         translation:
           en: He's not a doctor.
           ru: Он не доктор.
-      - text: Дул барһул аккоде.
+      - text: Ил барһул аккотте у?
         translation:
-          en: I do not know
-          ru: Я не знаю.
+          en: Don't you know?
+          ru: Ты не знаешь?
+      - text: Ду ҡил аччу сса.
+        translation:
+          en: I was not home yesterday.
+          ru: Вчера я был не дома.
 
 etymology:
   en: Habitual present of the historic verb *\*аккора*. The past tense's form developed from *аккви* → *аччви* → *аччу*.

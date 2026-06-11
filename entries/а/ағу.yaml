@@ -12,6 +12,11 @@ definitions:
     aliases:
       en: [poison]
       ru: [отрава]
+    examples:
+      - text: ағу чев цӏецӏе
+        translation:
+          en: venomous snake
+          ru: ядовитая змея
 
 etymology:
   en: From Kumyk *агъу* or Azerbaijani *ağı* "poison".

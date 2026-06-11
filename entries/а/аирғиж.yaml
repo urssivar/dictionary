@@ -4,11 +4,11 @@ tags: [adj, vb]
 
 definitions:
   - translation:
-      en: obscure
-      ru: неясный
+      en: obscure, incomprehensible
+      ru: неясный, непонятный
     aliases:
-      en: [incomprehensible, opaque]
-      ru: [непонятный, темный]
+      en: [opaque]
+      ru: [темный]
 
 etymology:
   en: Negative hypothetical participle of *ирғара* "to understand".

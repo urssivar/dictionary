@@ -1,0 +1,13 @@
+headword: ҡҡиин бурҡара
+ipa: qːiˈin
+tags: [v, ntr, cls]
+forms:
+  - text: бәҡара
+    gloss: pfv
+  - text: бәҡив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to have difficulty
+      ru: затрудняться
