@@ -10,6 +10,7 @@ import jsonschema
 from utils.paths import ROOT
 from utils.loaders import load_alphabet, load_valid_tags, resolve_headword_ref
 from utils.text import get_first_letter
+from utils.etymology import check_etymology
 
 
 def main():
@@ -88,6 +89,9 @@ def main():
             unknown = [t for t in all_tags if t not in valid_tags]
             if unknown:
                 errors.append(f"unknown tags: {', '.join(unknown)}")
+
+            # Etymology prose-convention check
+            errors += check_etymology(data.get('etymology'))
 
             # Schema check
             try:

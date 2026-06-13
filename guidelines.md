@@ -130,9 +130,15 @@ definitions:
 
 ### `etymology`
 
-Include for loanwords and non-obvious formations. Omit for transparent derivations (use `derived_from` instead) and for derived forms whose base loanword already has its own entry.
+Include for loanwords and non-obvious internal formations. Omit for transparent derivations (use `derived_from`) and for derived forms whose base loanword already has its own entry.
 
-**Arabic/Persian:**
+One sentence per language: capitalized, ending in a period. If a sentence must open with a cited form, that form stays lowercase (_*ахрей* does not occur independently._).
+
+**Formatting** — _italics_ for cited forms (reconstructions take a leading `*`, escaped `\*` in Markdown); "double quotes" for glosses; (parentheses) for supplementary notes; `cf.` / `ср.` for comparanda; `→` for sound change. In glosses, a comma separates synonyms of one sense ("manners, etiquette"); a semicolon separates distinct senses ("to be; to be able").
+
+#### Loanwords
+
+Cite the source form and gloss it. Two principles: transliterate only Perso-Arabic-script sources, and gloss the source unless the reader is presumed to know it — a Russian reader needs no gloss for a Russian word, so `ru` omits it.
 
 ```yaml
 etymology:
@@ -140,15 +146,11 @@ etymology:
   ru: От арабского أَبَد (*ʔabad*) "вечность".
 ```
 
-**Russian** — no transcription in English; no translation in Russian:
-
 ```yaml
 etymology:
   en: From Russian *обои* "wallpaper" (pl.), reanalyzed as singular.
   ru: От русского *обои* (мн. ч.), переосмыслено как ед. ч.
 ```
-
-**Turkic in Cyrillic** — no transcription; Cyrillic for Kumyk, Latin for Azerbaijani:
 
 ```yaml
 etymology:
@@ -156,7 +158,7 @@ etymology:
   ru: От кумыкского *гьав* или азербайджанского *ov* "охота".
 ```
 
-**Chains:**
+**Chains** — name the immediate donor with "from", the ultimate origin with "ultimately from" / "восходит к". Don't let a bare ", from" stand in the ultimate slot.
 
 ```yaml
 etymology:
@@ -164,9 +166,41 @@ etymology:
   ru: От кумыкского *авара* "беспокойство", восходит к персидскому آواره (*âvâre*) "бродяга".
 ```
 
-Formulae: `The negative of *verb* "gloss".` / `Negative present participle of *verb* "gloss".`
+#### Internal derivations
 
-Formatting: _italics_ for cited forms, "double quotes" for glosses, (parentheses) for supplementary notes.
+Name the morphological relationship with a grammatical term and gloss only the **base lexeme**. Intermediate forms are identified by category, not glossed — the category is recoverable and lint-checkable; a free gloss is neither.
+
+```yaml
+etymology:
+  en: Negative of *бартара* "to let, allow".
+  ru: Отрицательная форма от *бартара* "давать, оставлять".
+```
+
+```yaml
+etymology:
+  en: Contraction of *абиьолли*, the negative conditional of *бирьора* "to be; to be able".
+  ru: Сокращение от *абиьолли*, отрицательной условной формы *бирьора* "быть; мочь".
+```
+
+The leading label is a bare noun phrase — `Negative of`, `Contraction of`, `Negative present participle of` — with no "The" or "From". An embedded appositive keeps its natural article (`the negative conditional of`).
+
+Grammatical terms come from a closed set; `en` and `ru` must name the **same** category (surface phrasing follows each language's idiom):
+
+| en                   | ru                           |
+| -------------------- | ---------------------------- |
+| participle           | причастие                    |
+| converb              | деепричастие                 |
+| masdar / verbal noun | масдар                       |
+| preterite            | претерит                     |
+| habitual present     | настоящее общее              |
+| conditional          | условная форма               |
+| negative conditional | отрицательная условная форма |
+
+A participle (adjectival) is not a converb (adverbial); never pair _participle_ with _деепричастие_ or _converb_ with _причастие_.
+
+#### Uncertainty
+
+Hedge with a fixed ladder, paired across languages: high "Probably" / "Вероятно", medium "Possibly" / "Возможно", low "Perhaps related to" / "Может быть связано с".
 
 ### `variants`
 
@@ -201,7 +235,7 @@ Write what surfaces in the citation form or in lexicalized derived words. Etymol
 Write each morpheme transparently. Never reflect assimilation — consonantal, vocalic, or nasal — at morpheme boundaries.
 
 - _машинла_, _чӏвел-ра_, _азирна_ — case suffixes written transparently
-- _а-_/_ма-_ negation, _ца-_/_ка-_/_ьа-_ prefixes, _-их-_ causative — written consistently regardless of context: _барихара_, _барихив_, _мабарихелде_
+- _а-_/_ма-_ negation, _ца-_/_ка-_/_һа-_ prefixes, _-их-_ causative — written consistently regardless of context: _барихара_, _барихив_, _мабарихелде_
 
 ### Verb Paradigm Roots
 
@@ -223,6 +257,8 @@ Full standardization — compounds, clitics, hyphenation, apostrophe use — is 
 - [ ] Compound verbs: verbal part only?
 - [ ] Neutral _-б-_ class marker in headword and forms?
 - [ ] Etymology or just derived_from?
+- [ ] Etymology: `en`/`ru` name the same grammatical category?
+- [ ] Etymology: source glossed per the loanword table; grammatical terms from the closed set?
 - [ ] Aliases: correct POS, not redundant?
 - [ ] _Italics_ for cited forms, "quotes" for glosses?
 - [ ] Components written separately (word division)?
