@@ -9,6 +9,11 @@ definitions:
     aliases:
       en: [guardianship, care]
       ru: [опека, попечительство]
+    examples:
+      - text: Шамилли цинна урши аманат варил Әруссай веччив.
+        translation:
+          en:
+          ru:
 
 etymology:
   en: From Arabic أَمَانَة (*ʔamāna*) "trust, reliability".

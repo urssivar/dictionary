@@ -8,8 +8,8 @@ forms:
     gloss: pl
 definitions:
   - translation:
-      en: vulture
-      ru: стервятник
+      en:
+      ru: грач
     tags: [animal, bird]
     aliases:
       en: [lammergeier]

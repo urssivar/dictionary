@@ -1,0 +1,20 @@
+headword: чей
+ipa: ˈtʃej
+tags: [adv]
+
+definitions:
+  - translation:
+      en: after
+      ru: после
+    examples:
+      - text: налла чей
+        translation:
+          en: from now on; henceforth
+          ru: с этих пор; отныне
+      - text: Ҡил цағив чей булчӏанда.
+        translation:
+          en:
+          ru: Я прочту после приезда домой.
+
+derived_from: [че]
+variants: [че, чейтта]

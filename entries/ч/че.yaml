@@ -1,14 +1,13 @@
 headword: че
 ipa: ˈtʃe
 tags: [adv]
-note:
-  en: "*чев*"
+
 definitions:
   - translation:
       en: above
       ru: сверху, наверх
     aliases:
       en: [up, over]
-  - translation:
-      en: after
-      ru: после
+
+variants: [чев]
+see_also: [чевчи]

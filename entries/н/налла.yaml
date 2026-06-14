@@ -1,15 +1,18 @@
 headword: налла
 ipa: ˈnalla
 tags: [adv]
-etymology:
-  en: From *на* "now".
+
 definitions:
   - translation:
       en: so far
-      ru: пока
+      ru: пока что
     aliases:
       en: [still]
+      ru: [ещё]
     examples:
-      - text: налла булшун це
+      - text: Налла булшун це.
         translation:
-          en: it's working so far
+          en: It's working so far.
+          ru: Пока что работает.
+
+derived_from: [на]

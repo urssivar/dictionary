@@ -14,11 +14,16 @@ definitions:
     aliases:
       en: [to sleep, to nap]
       ru: [спать, дремать]
+    examples:
+      - text: Ҳуней чиһе, анкӏ макирга.
+        translation:
+          en:
+          ru:
 
 etymology:
-  en: The first element shares a root with *анкьала* "sleep".
-  ru: Первый элемент имеет общий корень с *анкьала* "сон".
+  en: Shares the root with *анкӏала* "sleep".
+  ru: Общий корень с *анкӏала* "сон".
 
-variants: [чибуссана]
+variants: [~ кабаҳара, чи буссана]
 derived_from: ["*анкӏ", кабиргара]
 see_also: [анкӏала]

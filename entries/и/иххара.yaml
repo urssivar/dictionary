@@ -1,16 +1,17 @@
-headword: ухәра
-ipa: uˈχːæɾa
+headword: иххара
+ipa: iˈχːaɾa
 tags: [v, tr, cls]
 forms:
-  - text: бурхәра
+  - text: бирххара
     gloss: pfv
-  - text: бурхәв
+  - text: бирххур
     gloss: pret
-  - text: ухәра
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to ram
       ru: таранить
     aliases:
       en: [push, thrust]
+
+variants: [уххәра / бурххәра / бурххәв]

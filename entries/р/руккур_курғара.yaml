@@ -1,8 +1,7 @@
 headword: руккур курғара
 ipa: ɾuˌkːuɾ kuɾˈʁaɾa
 tags: [v, tr, cls]
-note:
-  en: "*руттур ~*"
+
 forms:
   - text: руккур кағара
     gloss: pfv
@@ -16,3 +15,5 @@ definitions:
       ru: катить
     aliases:
       en: [move, wheel]
+
+variants: [руттур ~, ккудур ~]

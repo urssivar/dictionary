@@ -1,13 +1,10 @@
 headword: ҡӏецӏ
 ipa: ˈqʼetsʼ
 tags: [n]
-note:
-  en: "*хирар нез*"
 forms:
-  - text: ҡӏецӏ
-    gloss: abs
   - text: ҡӏицӏре
     gloss: pl
+
 definitions:
   - translation:
       en: aphid

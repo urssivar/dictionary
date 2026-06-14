@@ -1,0 +1,23 @@
+headword: аккор бирара
+ipa: aˌkːʷaɾ biˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: барара
+    gloss: pfv
+  - text: барив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to exterminate
+      ru: истреблять
+    aliases:
+      en: [kill, destroy, eliminate]
+      ru: [убивать, уничтожать, ликвидировать]
+    examples:
+      - text: Дарманла дарил сукке ппиғне аккор дарив.
+        translation:
+          en: Treated them with drug and destroyed all the beetles.
+          ru: Обработал лекарством и истребил всех жуков.
+
+derived_from: [аккор, бирһора]

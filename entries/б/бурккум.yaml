@@ -1,10 +1,14 @@
 headword: бурккум
 ipa: buɾˈkːum
 tags: [n]
-note:
-  en: '*лаппикьан*, *ццирцциккан*, *пьирпьир*'
+forms:
+  - text: бурккумте
+    gloss: pl
+
 definitions:
   - translation:
       en: butterfly
       ru: бабочка
     tags: [animal, insect]
+
+variants: [бурккун, лаппикӏан, ццирцциккан, пӏирпӏир]

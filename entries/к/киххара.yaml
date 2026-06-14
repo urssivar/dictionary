@@ -1,16 +1,17 @@
-headword: кухәра
-ipa: kuˈχːæɾa
+headword: киххара
+ipa: kiˈχːaɾa
 tags: [v, tr, cls]
 forms:
-  - text: кабурхәра
+  - text: кабирххара
     gloss: pfv
-  - text: кабурхәв
+  - text: кабирххур
     gloss: pret
-  - text: кухәра
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to thrust
       ru: вонзать
     aliases:
       en: [stick, push]
+
+derived_from: [иххара]

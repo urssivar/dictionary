@@ -9,12 +9,12 @@ definitions:
     examples:
       - text: Азирна биивда — ирғул акку.
         translation:
-          en:
-          ru:
+          en: I said it a thousand times — doesn't understand.
+          ru: Тысячу раз я сказал — не понимает.
       - text: Азир бала дакӏ.
         translation:
-          en:
-          ru:
+          en: A thousand troubles on you!
+          ru: Тысяча бед на тебя!
 
 etymology:
   en: From Persian هزار (*hazâr*) "thousand".

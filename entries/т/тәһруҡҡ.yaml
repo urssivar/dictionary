@@ -1,15 +1,14 @@
-headword: тәһруҡҡ
-ipa: tæhˈɾuqː
+headword: тәһрукӏ
+ipa: tæhˈɾukʼ
 tags: [n]
-note:
-  en: "*тяьбуҡҡ*"
 forms:
-  - text: тәһруҡҡ
-    gloss: abs
-  - text: тәһруҡҡе
+  - text: тәһрукӏе
     gloss: pl
+
 definitions:
   - translation:
       en: grasshopper
       ru: кузнечик
     tags: [nature, animal, insect]
+
+variants: [тәһбуҡҡ]

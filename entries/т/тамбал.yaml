@@ -6,9 +6,12 @@ forms:
     gloss: abs
   - text: тамбалте
     gloss: pl
+
 definitions:
   - translation:
       en: slacker
       ru: бездельник
     aliases:
       en: [idler, lazy]
+
+variants: [тамбар]

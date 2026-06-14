@@ -1,0 +1,22 @@
+headword: албатти
+ipa: albaˈtːi
+tags: [n, loan, turkic]
+forms:
+  - text: албаттне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: devil
+      ru: дьявол
+    tags: [religion]
+    aliases:
+      en: [satan, demon, evil spirit]
+      ru: [сатана, демон, злой дух]
+    examples:
+      - text: албатти гон
+        translation:
+          en: like a hurricane (about a woman)
+          ru: как ураган (о женщине)
+
+variants: [албастти]

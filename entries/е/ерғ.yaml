@@ -14,5 +14,21 @@ definitions:
         translation:
           en: The weather turned bad.
           ru: Погода испортилась.
+  - translation:
+      en: season, period, time
+      ru: сезон, пора, время
+    examples:
+      - text: ца ерғла
+        translation:
+          en: contemporary
+          ru: одного времени
+      - text: һел ерғи
+        translation:
+          en: by that time
+          ru: к тому времени
+      - text: дуссела ирғбе
+        translation:
+          en: seasons of the year
+          ru: времена года
 
-derived_from: [арғ]
+variants: [арғ, еғ]

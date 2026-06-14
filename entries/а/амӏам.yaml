@@ -10,7 +10,7 @@ definitions:
       en: [stammer]
       ru: [заикаться]
     examples:
-      - text: амӏам һижив
+      - text: амӏам һижив > ...
         translation:
           en: he stuttered
           ru: он заикнулся

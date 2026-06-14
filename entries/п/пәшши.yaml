@@ -1,0 +1,16 @@
+headword: пәшши
+ipa: pæˈʃːi
+tags: [adj]
+
+definitions:
+  - translation:
+      en: vulture
+      ru: стервятник
+    tags: [animal, bird]
+    aliases:
+      en: [lammergeier]
+    examples:
+      - text: пәшши гон
+        translation:
+          en: sickly
+          ru: нездоровый, бледный

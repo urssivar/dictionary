@@ -4,12 +4,9 @@ tags: [n, loan, arabic]
 
 definitions:
   - translation:
-      en: Allah
-      ru: Аллах
+      en: Allah, god
+      ru: Аллах, бог
     tags: [religion]
-    aliases:
-      en: [God]
-      ru: [Бог]
     examples:
       - text: Аллаһли цере рат.
         translation:

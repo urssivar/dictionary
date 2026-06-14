@@ -7,8 +7,16 @@ forms:
 
 definitions:
   - translation:
-      en: taunt
-      ru: подколка
+      en: reproach
+      ru: упрёк
     aliases:
       en: [mockery, tease]
       ru: [издёвка, насмешка]
+    note:
+      en:
+      ru: напоминание о прошлых упущениях
+    examples:
+      - text: анццуҡҡ бирхур
+        translation:
+          en:
+          ru:

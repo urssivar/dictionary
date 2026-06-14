@@ -1,6 +1,7 @@
 headword: уркка
 ipa: uɾˈkːa
-tags: [adv]
+tags: [adv, n]
+
 definitions:
   - translation:
       en: between
@@ -8,11 +9,14 @@ definitions:
     aliases:
       en: [among]
   - translation:
-      en: in a moment
-      ru: в моменте
+      en: moment, instant
+      ru: момент, мгновение
     examples:
-      - text: һел уркка һелтти ра цабағив
+      - text: Һел уркка һелтти ра цабағив.
         translation:
-          en: in that moment they too arrived
-
-### ца уркка, в один момент \ уркка момент, мн.ч.?
+          en: At that moment they arrived too.
+          ru: В тот момент и они приехали.
+      - text: Бизи биде, цӏил ца уркка берҡӏив.
+        translation:
+          en: There was a cat, then one moment it disappeared.
+          ru: Была кошка, потом в один момент исчезла.

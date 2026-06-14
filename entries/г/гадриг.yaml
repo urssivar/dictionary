@@ -1,15 +1,14 @@
-headword: гидар
-ipa: giˈdaɾ
+headword: гадриг
+ipa: gadˈɾig
 tags: [n]
-note:
-  en: "*ҡҡанда*"
 forms:
-  - text: гидар
-    gloss: abs
-  - text: гидре
+  - text: гадриге
     gloss: pl
+    
 definitions:
   - translation:
       en: bug
       ru: клоп
     tags: [nature, animal, insect]
+
+variants: [гидар, хирар]

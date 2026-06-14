@@ -1,0 +1,21 @@
+headword: антаҡҡ
+ipa: anˈtaqː
+tags: [n]
+forms:
+  - text: антаҡҡе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: 
+      ru: забвычивый человек
+    aliases:
+      en: [forgetfulness]
+      ru: [забывчивость]
+    examples:
+      - text: антаҡҡ виһәв
+        translation:
+          en: forgot
+          ru: стал забывчивым
+
+variants: [антуҡӏ]

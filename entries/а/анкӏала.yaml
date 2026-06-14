@@ -19,6 +19,10 @@ definitions:
         translation:
           en: got some sleep
           ru: поспал
+      - text: анкӏлецци тарх цаҳул
+        translation:
+          en: вздрагивает во сне
+          ru: поспал
 
 derived_from: ["*анкӏ"]
 see_also: [анкӏ_кабиргара, иццала]

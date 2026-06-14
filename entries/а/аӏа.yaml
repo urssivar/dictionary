@@ -10,9 +10,11 @@ definitions:
       en: [nope]
       ru: [неа]
     examples:
-      - text: И ҡил де у? Аӏа, аккоде.
+      - text: Аӏа, ҡил аккоде.
         translation:
-          en: Are you home? No, I'm not.
-          ru: Ты дома? Нет, меня нет.
+          en: No, I'm not home.
+          ru: Нет, я не дома.
 
 variants: [уӏу]
+
+### уӏ, аӏ

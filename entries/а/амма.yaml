@@ -10,10 +10,12 @@ definitions:
       en: [though, and]
       ru: [хотя, а]
     examples:
-      - text: И һелин вәрунде, амма ҡкуллуҡҡ таман абаривде.
+      - text: Чи важивда, амма ғай куҡана аагур.
         translation:
-          en: You went there, but you didn't finish the job.
-          ru: Ты пошёл туда, но не завершил дело.
+          
+      - text: Амма и әһ мейдам аккоде.
+        translation:
+
 etymology:
   en: From Arabic أَمَّا (*ʔammā*) "as for".
   ru: От арабского أَمَّا (*ʔammā*) "что касается".

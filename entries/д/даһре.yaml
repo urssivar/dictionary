@@ -1,11 +1,18 @@
 headword: даһре
 ipa: ˈdahɾe
-tags: [n]
-etymology:
-  en: From *барьара* "to know".
+tags: [n, vb]
+
 definitions:
   - translation:
       en: mind
       ru: разум
     aliases:
       en: [head, brain, mind]
+  - translation:
+      en: knowledge
+      ru: знание
+    aliases:
+      en: [data, info]
+      ru: [информация]
+
+derived_from: [барһара]
