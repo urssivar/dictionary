@@ -208,8 +208,8 @@ Plain string array of dialectal/alternative forms. For variants with their own p
 
 ```yaml
 variants: [авба, бавба]
-variants: [тӏә / тӏәл- / тӏәме, тӏәһ / тӏәһу / тӏәһри]
-variants: [~ / барара / барив]
+variants: [тӏә/тӏәл-/тӏәме, тӏәһ/тӏәһу-/тӏәһри]
+variants: [~/барара/барив]
 ```
 
 ### `derived_from` & `see_also`
