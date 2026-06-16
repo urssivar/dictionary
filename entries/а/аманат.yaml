@@ -12,8 +12,8 @@ definitions:
     examples:
       - text: Шамилли цинна урши аманат варил Әруссай веччив.
         translation:
-          en:
-          ru:
+          en: Shamil gave his son as collateral to the Russians.
+          ru: Шамиль отдал своего сына в залог русским. 
 
 etymology:
   en: From Arabic أَمَانَة (*ʔamāna*) "trust, reliability".

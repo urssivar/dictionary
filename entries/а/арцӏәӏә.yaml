@@ -1,8 +1,10 @@
 headword: арцӏәӏә
-ipa: aɾtsʼæˈʔæ
+ipa: aɾˈtsʼæʔæ
 tags: [n, vb]
 forms:
-  - text: арцӏәӏне
+  - text: арцӏәӏән
+    gloss: obl
+  - text: арцӏиӏне
     gloss: pl
 
 definitions:

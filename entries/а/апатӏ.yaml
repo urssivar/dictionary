@@ -8,4 +8,9 @@ forms:
 definitions:
   - translation:
       en: measure
-      ru: мера
+      ru: мера, предел
+    examples:
+      - text: Һар цикӏалла цинна апатӏ бирһор.
+        translation:
+          en:
+          ru:

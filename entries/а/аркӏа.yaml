@@ -1,12 +1,20 @@
 headword: аркӏа
 ipa: aɾˈkʼa
-tags: [adj]
+tags: [n adj]
+forms:
+  - text: аркӏабе
+    gloss: pl
 
 definitions:
   - translation:
-      en: barren
-      ru: яловой
+      en: barren, infertile
+      ru: яловой, бесплодный
     tags: [agriculture]
     aliases:
-      en: [sterile, infertile]
-      ru: [бесплодный, неплодный]
+      en: [infertile]
+      ru: [неплодный]
+    examples:
+      - text: Идус аркӏал калгун һеж ҡӏвәл.
+        translation:
+          en:
+          ru: В этмо году эта корова была без приплода.

@@ -2,18 +2,13 @@ headword: дум
 ipa: ˈdum
 tags: [n]
 forms:
-  - text: дум
-    gloss: abs
   - text: думре
     gloss: pl
+
 definitions:
   - translation:
       en: shore
       ru: берег
-    tags: [nature]
-    aliases:
-      en: [coast, bank]
-    examples:
-      - text: еркӏла дум
-        translation:
-          en: river bank
+  - translation:
+      en: boundary (of an object)
+      ru: граница (объекта)

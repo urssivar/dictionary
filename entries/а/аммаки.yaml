@@ -4,11 +4,11 @@ tags: [conj]
 
 definitions:
   - translation:
-      en: but, yet still
-      ru: зато, но всё же
+      en: but, yet
+      ru: зато, всё же
     aliases:
-      en: [however]
-      ru: [всё же, но]
+      en: [however, still]
+      ru: [однако, но]
     examples:
       - text: Ил дами һелгон вәһице биивде, аммаки дул етти чер адаривда.
         translation:

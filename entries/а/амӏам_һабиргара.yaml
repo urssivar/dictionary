@@ -1,0 +1,28 @@
+headword: амӏам һабиргара
+ipa: amˌʔam habiɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һабигара
+    gloss: pfv
+  - text: һабижив
+    gloss: pret
+  - text: бикӏора
+    gloss: hab
+
+definitions:
+  - translation:
+      en: to stutter
+      ru: заикаться
+    aliases:
+      en: [stammer]
+    examples:
+      - text: Амӏам икӏон мейдам це һеж.
+        translation:
+          en: 
+          ru: Он заикающийся.
+
+etymology:
+  en: Probably onomatopoeia.
+  ru: Вероятно, звукоподражание.
+
+derived_from: ["*амӏам", биргара]

@@ -8,9 +8,10 @@ forms:
     gloss: abs
   - text: хәрме
     gloss: pl
+
 definitions:
   - translation:
-      en: boundary
-      ru: межа
+      en: borderland
+      ru: пограничье
     aliases:
       en: [border, region]

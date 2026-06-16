@@ -1,12 +1,13 @@
 headword: ав
 ipa: ˈaβ
-tags: [n, loan, turkic]
-
+tags: [n]
+      
 definitions:
   - translation:
-      en: prey
-      ru: добыча
-
-etymology:
-  en: From Kumyk *гьав* or Azerbaijani *ov* "hunt".
-  ru: От кумыкского *гьав* или азербайджанского *ov* "охота".
+      en: howl
+      ru: вой (волчий)
+    examples:
+      - text: Сса дучче бицӏе ав дикӏул де.
+        translation:
+          en: 
+          ru: 

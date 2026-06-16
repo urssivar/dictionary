@@ -1,7 +1,10 @@
 headword: ва
 ipa: ˈβa
-tags: [intj]
+tags: [n, intj]
 definitions:
+  - translation:
+      en: call, adress
+      ru: обращение, зов
   - translation:
       en: o
       ru: о

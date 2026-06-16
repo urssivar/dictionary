@@ -1,13 +1,17 @@
 headword: зәнг
 ipa: ˈzæng
 tags: [n]
+
 definitions:
   - translation:
-      en: call
-      ru: звонок
+      en: call, ring
+      ru: звонок, телефонный вызов
     aliases:
       en: [ringing]
     examples:
-      - text: зәнг бара ила уцций
+      - text: Зәнг дара ила уцций.
         translation:
-          en: call your brother
+          en: Call your brother.
+          ru: Позвони твоему брату.
+
+variants: [зәнғ]

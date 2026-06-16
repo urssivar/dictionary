@@ -9,11 +9,11 @@ forms:
 
 definitions:
   - translation:
-      en: to harass
-      ru: изводить
+      en: to harass, to pester
+      ru: изводить, досаждать
     aliases:
-      en: [to bother, to pester]
-      ru: [донимать, досаждать]
+      en: [to bother, to damage]
+      ru: [донимать, наносить урон]
     examples:
       - text: Чикнал ниссала тӏутӏи адартар.
         translation:

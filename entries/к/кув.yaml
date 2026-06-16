@@ -2,11 +2,10 @@ headword: кув
 ipa: ˈkuβ
 tags: [n]
 forms:
-  - text: кув
-    gloss: abs
   - text: кувре
     gloss: pl
+
 definitions:
   - translation:
-      en: language
-      ru: язык
+      en: speech
+      ru: речь

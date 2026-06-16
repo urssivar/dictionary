@@ -12,3 +12,8 @@ definitions:
     aliases:
       en: [axle, shaft]
       ru: [вал]
+    examples:
+      - text: 
+        translation:
+          en: 
+          ru: 

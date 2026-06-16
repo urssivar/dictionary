@@ -14,7 +14,7 @@ definitions:
       en: [round dance, circle dance]
       ru: [хоровод, круговой танец]
     examples:
-      - text: Айландилжи цәбун бази барара.
+      - text: Айландили цәбун бази барара.
         translation:
           en: Came to the circle to dance.
           ru: Пришли на круг танцевать.

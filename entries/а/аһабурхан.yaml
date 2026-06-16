@@ -1,8 +1,8 @@
-headword: акабурхан
-ipa: akabuɾˈχːan
+headword: аһабурхан
+ipa: ahabuɾˈχːan
 tags: [adj, vb]
 forms:
-  - text: акабурхул
+  - text: аһабурхул
     gloss: adv
 
 definitions:
@@ -13,9 +13,10 @@ definitions:
       en: [endless, infinite]
       ru: [бесконечный, вечный]
     examples:
-      - text: акабурхан әчу
+      - text: аһабурхан әчу
         translation:
           en: unending work
           ru: нескончаемая работа
 
-derived_from: [кабурхара]
+variants: [акабурхан]
+derived_from: [һабурхара]

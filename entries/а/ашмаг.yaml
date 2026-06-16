@@ -13,3 +13,8 @@ definitions:
     aliases:
       en: [hijab]
       ru: [хиджаб]
+    examples:
+      - text: Гунев ҳумрал цӏәв ашмаге диҡҡи.
+        translation:
+          en: 
+          ru: 

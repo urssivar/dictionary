@@ -1,0 +1,21 @@
+headword: арһе
+ipa: ˈaɾhe
+tags: [n]
+forms:
+  - text: арһин
+    gloss: obl
+  - text: арһиппе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: saw
+      ru: пила
+    tags: [tool]
+    examples:
+      - text: Арһинццил хор чӏубаг барив.
+        translation:
+          en:
+          ru: 
+
+variants: [арһни/арһнил-/арһнибе]

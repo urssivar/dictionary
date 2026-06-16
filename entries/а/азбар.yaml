@@ -14,7 +14,7 @@ definitions:
       en: [courtyard, enclosure, compound]
       ru: [двор, подворье, огороженное пространство]
     examples:
-      - text: Букӏмел ила ккуртте азбарцци буҡҡил це.
+      - text: Букӏмел ила ккуртте азбари буҡҡил це.
         translation:
           en: The wind has carried your shirt into the yard.
           ru: Ветер унёс твою рубашку во двор.

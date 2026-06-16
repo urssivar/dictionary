@@ -2,15 +2,14 @@ headword: ва иҡара
 ipa: ˌβa iˈqaɾa
 tags: [v, tr, cls]
 forms:
-  - text: ва аҡара
+  - text: аҡара
     gloss: pfv
-  - text: ва аҡив
+  - text: аҡив
     gloss: pret
-  - text: ва иҡара
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to address
-      ru: обращаться
+      ru: обращаться, взывать
     aliases:
       en: [call]

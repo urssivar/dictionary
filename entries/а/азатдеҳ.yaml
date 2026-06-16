@@ -1,0 +1,15 @@
+headword: азатдеҳ
+ipa: azatˈdex
+tags: [n]
+
+definitions:
+  - translation:
+      en: freedom
+      ru: свобода
+    examples:
+      - text: Азатдеҳ гон цикӏал бейкку.
+        translation:
+          en: There's nothing like freedom.
+          ru: Нет ничего подобного свободе.
+
+derived_from: [азат]

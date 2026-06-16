@@ -2,14 +2,21 @@ headword: арцӏе
 ipa: ˈaɾtsʼe
 tags: [n, vb]
 forms:
-  - text: арцӏин
+  - text: арцӏе
+    gloss: nom, loc
+  - text: арцӏи
     gloss: obl
 
 definitions:
   - translation:
-      en: weed
-      ru: сорняки
+      en: weeding
+      ru: прополка
     tags: [agriculture, plant]
+    examples:
+      - text: арцӏе вәнара
+        translation:
+          en:
+          ru: пойти на прополку
 
 derived_from: [ирцӏара]
 see_also: [арше]

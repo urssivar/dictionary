@@ -7,15 +7,15 @@ forms:
 
 definitions:
   - translation:
-      en: 
-      ru: забвычивый человек
+      en: forgetful person
+      ru: забывчивый человек
     aliases:
-      en: [forgetfulness]
-      ru: [забывчивость]
+      en: [dementia]
+      ru: [деменция]
     examples:
       - text: антаҡҡ виһәв
         translation:
-          en: forgot
+          en: he became forgetful
           ru: стал забывчивым
 
 variants: [антуҡӏ]

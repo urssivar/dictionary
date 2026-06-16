@@ -1,16 +1,18 @@
 headword: нуғат
 ipa: nuˈʁat
 tags: [n, loan, arabic]
-etymology:
-  en: From Arabic *لغة* "language".
 forms:
-  - text: нуғат
-    gloss: abs
   - text: нуғате
     gloss: pl
+
 definitions:
   - translation:
       en: accent
       ru: акцент
     aliases:
       en: [lect, speech, language, dialect]
+
+etymology:
+  en: From Arabic *لغة* "language".
+
+variants: [луғат]

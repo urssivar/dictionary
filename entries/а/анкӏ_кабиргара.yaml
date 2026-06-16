@@ -6,10 +6,12 @@ forms:
     gloss: pfv
   - text: кабижив
     gloss: pret
+  - text: кабаҳара
+    gloss: hab
 
 definitions:
   - translation:
-      en: to doze
+      en: to doze off
       ru: кимарить
     aliases:
       en: [to sleep, to nap]
@@ -17,13 +19,13 @@ definitions:
     examples:
       - text: Ҳуней чиһе, анкӏ макирга.
         translation:
-          en:
-          ru:
+          en: Watch the road, don't doze off.
+          ru: Следи за дорогой, не кимарь.
 
 etymology:
   en: Shares the root with *анкӏала* "sleep".
   ru: Общий корень с *анкӏала* "сон".
 
-variants: [~ кабаҳара, чи буссана]
-derived_from: ["*анкӏ", кабиргара]
+variants: [чи буссана]
+derived_from: ["*анкӏ", биргара, баҳара]
 see_also: [анкӏала]

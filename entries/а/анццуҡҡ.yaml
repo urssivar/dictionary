@@ -13,10 +13,10 @@ definitions:
       en: [mockery, tease]
       ru: [издёвка, насмешка]
     note:
-      en:
-      ru: напоминание о прошлых упущениях
+      en: a reminder of past failures
+      ru: напоминание о прошлых неудачах
     examples:
-      - text: анццуҡҡ бирхур
+      - text: Цинна уршила чевтта анццуҡҡ бирххур һелей.
         translation:
-          en:
-          ru:
+          en: Reproached him about his son.
+          ru: Упрекнул его насчёт его сына.

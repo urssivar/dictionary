@@ -1,31 +1,29 @@
-headword: абиккан
-ipa: abiˈkːan
-tags: [n, vb]
+headword: абиккан аргара
+ipa: abiˌkːan aɾˈgaɾa
+tags: [v, ntr]
 forms:
-  - text: адикканте
-    gloss: pl
+  - text: агара
+    gloss: pfv
+  - text: агур
+    gloss: pret
 
 definitions:
   - translation:
-      en: disappointment
-      ru: огорчение
+      en:
+      ru: быть в неудобном положении
     tags: [feeling]
     aliases:
       en: [letdown, disillusionment]
       ru: [разочарование, расстройство]
     examples:
-      - text: абиккан агур
+      - text: Абиккан агул бәәде, цӏил чер дерхой икӏул цағив.
         translation:
-          en: got disappointed
-          ru: разочаровался
-      - text: Ил һелей абиккан баривде.
-        translation:
-          en: You disappointed him.
-          ru: Ты огорчил его.
+          en:
+          ru:
 
 etymology:
   en: Negative present participle of *биккара* "to want" (cf. *биккан* "wish").
   ru: Отрицательное настоящее причастие от *биккара* "хотеть" (ср. *биккан* "желание").
 
-derived_from: [биккара]
+derived_from: [биккара, аргара]
 see_also: [биккан]

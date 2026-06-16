@@ -15,6 +15,11 @@ definitions:
     aliases:
       en: [handle, knob, helve]
       ru: [ручка, держатель]
+    examples:
+      - text: Арже буцил беретта берһив.
+        translation:
+          en:
+          ru: Схватил за рукоять и ударил топором.
   - translation:
       en: long tail
       ru: длинный хвост

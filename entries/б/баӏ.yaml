@@ -16,6 +16,13 @@ definitions:
       - text: карватла баӏи кижил ви
         translation:
           en: he's sitting at the edge
+      - text: еркӏла баӏи
+        translation:
+          en: on the river bank
+          ru: на берегу реки
+  - translation:
+      en: beginning
+      ru: начало
   - translation:
       en: opportunity
       ru: возможность
@@ -28,3 +35,4 @@ definitions:
       - text: баӏ ра даг дуцил
         translation:
           en: trying his best
+          ru:

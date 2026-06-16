@@ -25,4 +25,4 @@ definitions:
           ru: Выплюнь мокроту.
 
 variants: [тутукӏле]
-derived_from: ["*ах"]
+derived_from: ["*ах", ту]

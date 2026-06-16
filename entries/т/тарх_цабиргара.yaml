@@ -1,15 +1,14 @@
 headword: тарх цабиргара
 ipa: ˌtaɾχ tsabiɾˈgaɾa
 tags: [v, ntr, cls]
-note:
-  en: "*тяь ~*"
 forms:
-  - text: тарх цабигара
+  - text: цабигара
     gloss: pfv
-  - text: тарх цабижив
+  - text: цабижив
     gloss: pret
-  - text: тарх цабиргара
-    gloss: ipfv
+  - text: цабаҳара
+    gloss: hab
+
 definitions:
   - translation:
       en: to startle
@@ -19,3 +18,5 @@ definitions:
   - translation:
       en: to wake up abruptly
       ru: просыпаться резко
+
+variants: [тәһ ~]

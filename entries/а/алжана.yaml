@@ -16,10 +16,10 @@ definitions:
       en: [paradise]
       ru: [небеса]
     examples:
-      - text: Алжаналцци веғав цей.
+      - text: Алжанали реғав цере.
         translation:
-          en: May he go to heaven.
-          ru: Пусть он попадёт в рай.
+          en: May she go to heaven.
+          ru: Пусть она попадёт в рай.
 
 etymology:
   en: From Arabic الجَنَّة (*al-janna*) "heaven".

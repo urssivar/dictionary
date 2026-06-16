@@ -10,7 +10,7 @@ definitions:
       en: [accidentally, unintentionally]
       ru: [случайно, невольно]
     examples:
-      - text: абаһул барив
+      - text: абарһул барив
         translation:
           en: did inadvertently
           ru: сделал нечаянно

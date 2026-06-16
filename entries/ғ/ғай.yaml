@@ -1,14 +1,22 @@
 headword: ғай
 ipa: ˈʁaj
-tags: [n, linguistics]
-note:
-  en: '*ғой*'
+tags: [n]
+forms:
+  - text: ғайре
+    gloss: pl
+
 definitions:
   - translation:
-      en: speech
-      ru: речь
-    aliases:
-      en: [phrase, word, language]
+      en: language
+      ru: язык
+    examples:
+      - text: ниҳҳа ғай
+        translation:
+          en: родной язык
+          ru: mother tongue
+  - translation:
+      en: speech, words
+      ru: речь, слова
     examples:
       - text: ғай дейкку
         translation:
@@ -22,3 +30,5 @@ definitions:
       - text: әвра ғай дарив
         translation:
           en: talked too much
+
+variants: [ғой]

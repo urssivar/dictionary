@@ -3,10 +3,10 @@ ipa: baˈla
 tags: [n, loan]
 definitions:
   - translation:
-      en: misfortune
+      en: trouble
       ru: беда
     aliases:
-      en: [trouble, problem]
+      en: [misfortune, problem]
     examples:
       - text: бекӏи бала
         translation:

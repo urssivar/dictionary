@@ -7,10 +7,18 @@ definitions:
       en: poplar
       ru: тополь
     tags: [tree]
+    examples:
+      - text: цӏәв ахтирекк
+        translation:
+          en: silver poplar (white poplar)
+          ru: тополь белый (тополь серебристый)
+      - text: шан ахитеркк
+        translation:
+          en: black poplar (cottonwood)
+          ru: тополь чёрный (осокорь)
 
 etymology:
   en: From Kumyk *акътерек* "aspen".
   ru: От кумыкского *акътерек* "осина".
-note:
-  en: Also *шан ахтирекк*, *цӏяв ахтирекк* for specific poplar species.
-  ru: Также *шан ахтирекк*, *цӏяв ахтирекк* для конкретных видов тополя.
+
+### сан ?

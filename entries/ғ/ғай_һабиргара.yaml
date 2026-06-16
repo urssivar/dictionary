@@ -2,12 +2,11 @@ headword: ғай һабиргара
 ipa: ˌʁaj habiɾˈgaɾa
 tags: [v, ntr, cls]
 forms:
-  - text: ғай һабигара
+  - text: һабигара
     gloss: pfv
-  - text: ғай һабижив
+  - text: һабижив
     gloss: pret
-  - text: ғай һабиргара
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to squabble

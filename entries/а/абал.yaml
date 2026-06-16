@@ -4,15 +4,15 @@ tags: [conj, vb]
 
 definitions:
   - translation:
-      en: well then
-      ru: ну тогда
+      en: well, then
+      ru: ну, тогда
     aliases:
       en: [so, in that case]
       ru: [ну так, в таком случае]
     examples:
-      - text: Абал, вәһил акку.
+      - text: Абал вәһил акку.
         translation:
-          en: Well then, not bad.
+          en: Well then not bad.
           ru: Ну тогда неплохо.
 
 etymology:

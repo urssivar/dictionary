@@ -1,10 +1,10 @@
 headword: саламкур
 ipa: salamˈkuɾ
 tags: [n]
-etymology:
-  en: The first part is Arabic loan, the *кур* is likely related to *кув* "language", cf. *цьику* "news".
-note:
-  en: "*йяхшихуш*"
+forms:
+  - text: саламкурте
+    gloss: pl
+
 definitions:
   - note:
       en: Asking how someone's doing, etc.
@@ -17,3 +17,8 @@ definitions:
       - text: вә саламкур дара һелттай
         translation:
           en: go greet them
+
+etymology:
+  en: The first part is Arabic loan, the *кур* is likely related to *кув* "language", cf. *цьику* "news".
+
+variants: [саламкув, йәхшихуш]

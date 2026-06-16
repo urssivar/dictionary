@@ -2,17 +2,24 @@ headword: арше
 ipa: ˈaɾʃe
 tags: [n, vb]
 forms:
-  - text: аршин
+  - text: арше
+    gloss: nom, loc
+  - text: арши
     gloss: obl
 
 definitions:
   - translation:
-      en: reaping, crop
-      ru: жатва, нива
+      en: reaping
+      ru: жатва
     tags: [agriculture]
     aliases:
       en: [field]
       ru: [поле]
+    examples:
+      - text: аршила ҡу
+        translation:
+          en: ripe field
+          ru: нива, созревшее поле
 
 derived_from: [ирҳара]
 see_also: [арцӏе]

@@ -1,0 +1,13 @@
+headword: жамла
+ipa: ˈʒamla
+tags: [n, loan, arabic]
+forms:
+  - text: жамлан
+    gloss: obl
+  - text: жамлубе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: sentence (grammar)
+      ru: предложение (грамматика)

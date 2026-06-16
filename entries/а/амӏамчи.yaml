@@ -10,4 +10,4 @@ definitions:
       en: stutterer
       ru: заика
 
-derived_from: [амӏам]
+derived_from: ["*амӏам"]

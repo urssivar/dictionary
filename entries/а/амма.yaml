@@ -12,9 +12,12 @@ definitions:
     examples:
       - text: Чи важивда, амма ғай куҡана аагур.
         translation:
-          
-      - text: Амма и әһ мейдам аккоде.
+          en: Saw him, but couldn't discuss.
+          ru: Увидел его, но обсудить не получилось.
+      - text: Амма и ра әһ мейдам аккотте.
         translation:
+          en: But you are not a good person either.
+          ru: Но и ты не хороший человек.
 
 etymology:
   en: From Arabic أَمَّا (*ʔammā*) "as for".

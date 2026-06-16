@@ -4,11 +4,16 @@ tags: [n, vb]
 
 definitions:
   - translation:
-      en: trouble
-      ru: неприятность
+      en: nuisance, disappointment
+      ru: неприятность, разачарование
     tags: [feeling]
     aliases:
-      en: [misfortune, distress]
-      ru: [неудача, страдание]
+      en: [trouble, distress]
+      ru: [беда, страдание]
+    examples:
+      - text: Рирсила абиккандеҳ чи бичив кулпети.
+        translation:
+          en: 
+          ru: На семью выпала неприятность, связанная с дочкой.
 
 derived_from: [абиккан]

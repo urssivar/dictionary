@@ -1,0 +1,15 @@
+headword: хвәр уттара
+ipa:
+tags: [v, ntr, cls]
+forms:
+  - text: хабар
+    gloss: abs
+  - text: хабарте
+    gloss: pl
+
+definitions:
+  - translation:
+      en:
+      ru: подсказываться
+    aliases:
+      en: [news]

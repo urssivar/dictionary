@@ -2,13 +2,17 @@ headword: арх
 ipa: ˈaɾχ
 tags: [n]
 forms:
+  - text: архни
+    gloss: loc
   - text: ирхре
     gloss: pl
 
 definitions:
   - translation:
-      en: track
-      ru: колея
-    aliases:
-      en: [furrow, ditch]
-      ru: [борозда, канава]
+      en:
+      ru: расщелина, теснина
+    examples:
+      - text: архни
+        translation:
+          en: Хвәр верттил архни кагур.
+          ru:
