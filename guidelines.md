@@ -38,8 +38,8 @@ note:
 etymology:
 
 # Block 4: Links
-variants:
 derived_from:
+variants:
 see_also:
 ```
 

@@ -35,8 +35,8 @@ etymology:
   ru: Редупликация *аба* "мама" (ср. *аттаба* "бабушка по отцу").
 
 # Block 4: Links
-variants: [авба, бавба]
 derived_from: [уба]
+variants: [авба, бавба]
 see_also: [аттаба]
 ```
 

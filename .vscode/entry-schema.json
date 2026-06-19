@@ -120,15 +120,15 @@
       "description": "Word origin for loanwords and non-obvious formations",
       "$ref": "#/definitions/bilingualText"
     },
-    "variants": {
-      "description": "Dialectal or alternative forms",
+    "derived_from": {
+      "description": "Source headwords this entry is derived from",
       "type": "array",
       "items": {
         "type": "string"
       }
     },
-    "derived_from": {
-      "description": "Source headwords this entry is derived from",
+    "variants": {
+      "description": "Dialectal or alternative forms",
       "type": "array",
       "items": {
         "type": "string"
