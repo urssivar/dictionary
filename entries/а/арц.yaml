@@ -13,18 +13,20 @@ definitions:
       en: [currency, cash]
       ru: [валюта, наличные]
     examples:
-      - text: Арцла ҡӏимат абел. #?
+      - text: Арцла ҡӏимат абел.
         translation:
           en: Money no longer has cost.
-          ru: У денег больше нет стоимости. (инфляция)
+          ru: У денег больше нет стоимости.
+      - text: Тукенчий чӏаҡӏонла арц деччивда.
+        translation:
+          en: Paid the seller for the bread.
+          ru: Оплатил продавцу за хлеб.
   - translation:
       en: silver
       ru: серебро
     tags: [material]
     examples:
-      - text: арцла белесса \ кулехха ?
+      - text: арцла белесса
         translation:
-          en: 
-          ru: 
-
-#? тукенчицци арц деччив чӏаҡӏонла
+          en: silver bracelet
+          ru: серебряный браслет

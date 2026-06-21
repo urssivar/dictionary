@@ -18,7 +18,7 @@ definitions:
     examples:
       - text: Арже буцил беретта берһив.
         translation:
-          en:
+          en: He grabbed the handle and struck with the axe.
           ru: Схватил за рукоять и ударил топором.
   - translation:
       en: long tail
@@ -28,4 +28,6 @@ definitions:
       - text: йәбула арже
         translation:
           en: horse tail
-          ru: хвост лошади
+          ru: лошадиный хвост
+
+#? стебель цветка, пшеницы

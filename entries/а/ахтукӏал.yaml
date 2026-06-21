@@ -9,17 +9,14 @@ forms:
 
 definitions:
   - translation:
-      en: phlegm
-      ru: мокрота
+      en: sputum, phlegm
+      ru: мокрота, слизь
     tags: [body]
-    aliases:
-      en: [sputum]
-      ru: [слизь]
     examples:
       - text: Ахтукӏле ах дарил ту дара.
         translation:
-          en: Spit out the phlegm.
-          ru: Выплюнь мокроту.
+          en: Cough up and spit out the phlegm.
+          ru: Откархни и выплюнь мокроту.
 
 etymology:
   en: usually plural

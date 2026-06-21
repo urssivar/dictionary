@@ -15,10 +15,10 @@ definitions:
       en: [call]
       ru: [призыв]
     examples:
-      - text: акбер катӏив
+      - text: акбер катӏара
         translation:
-          en: read adhah
-          ru: прочли азан
+          en: to read adhah
+          ru: прочесть азан
 
 etymology:
   en: From Arabic أَكْبَر (*ʔakbar*) "greatest".

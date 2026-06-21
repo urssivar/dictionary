@@ -1,6 +1,9 @@
 headword: адав
 ipa: aˈdaβ
 tags: [n, loan, arabic]
+forms:
+  - text: адавте
+    gloss: pl
 
 definitions:
   - translation:
@@ -14,5 +17,3 @@ definitions:
 etymology:
   en: From Arabic أَدَب (*ʔadab*) "manners, etiquette".
   ru: От арабского أَدَب (*ʔadab*) "манеры, этикет".
-
-#? ex, pl

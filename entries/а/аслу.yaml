@@ -9,8 +9,8 @@ forms:
 
 definitions:
   - translation:
-      en: framework, hull
-      ru: каркас, корпус
+      en: origin, genesis
+      ru: источник, происхождение
     aliases:
       en: [body, shell, skeleton]
       ru: [остов, рама, скелет, база]

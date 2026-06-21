@@ -27,7 +27,7 @@ definitions:
     examples:
       - text: Аттал цинна дәһне алав цабарив.
         translation:
-          en: The father hugged his children.
+          en: The father gently hugged his children.
           ru: Отец приобнял своих детей.
 
 derived_from: [алав, бирара]

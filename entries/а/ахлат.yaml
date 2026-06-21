@@ -1,5 +1,5 @@
-headword: ахлат
-ipa: aχˈlat
+headword: ахлатт
+ipa: aχˈlatː
 tags: [n]
 
 definitions:
@@ -11,12 +11,9 @@ definitions:
       ru: обычно за делом
     tags: [culture]
     examples:
-      - text: Ахлат даҳанда.
+      - text: ахлатт вәнара
         translation:
-          en: We'll pay a visit.
-          ru: Мы навестим.
-
+          en: to pay a visit
+          ru: навещать
 
 derived_from: [аххал]
-
-#? аттаса ахлат ?

@@ -1,7 +1,9 @@
 headword: ажал
 ipa: aˈʒal
 tags: [n, loan, arabic]
-#? pl
+forms:
+  - text: ажалте
+    gloss: pl
 
 definitions:
   - translation:

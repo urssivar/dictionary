@@ -10,3 +10,8 @@ definitions:
     aliases:
       en: [outbreak, plague]
       ru: [вспышка, мор]
+    examples:
+      - text: Аринжли баҡил укка бевчӏихив.
+        translation:
+          en: The epidemic killed many people.
+          ru: Эпидемия погубила многих людей.

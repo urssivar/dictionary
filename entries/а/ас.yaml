@@ -4,8 +4,8 @@ tags: [n]
 
 definitions:
   - translation:
-      en: status
-      ru: статус
+      en: status, rank
+      ru: статус, ранг
     aliases:
-      en: [rank, privilege]
-      ru: [ранг, привилегия]
+      en: [privilege]
+      ru: [привилегия]

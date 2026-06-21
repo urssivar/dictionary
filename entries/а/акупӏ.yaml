@@ -8,17 +8,19 @@ forms:
 definitions:
   - translation:
       en: trench
-      ru: окоп
+      ru: траншея
     tags: [structure]
     aliases:
       en: [entrenchment, foxhole]
-      ru: [траншея]
+      ru: [окоп]
     examples:
       - text: акупӏ һабирҡҡора #?
-        translation: #? акупӏи ?
-          en: 
-          ru: 
+        translation: #? акупӏи кичив ?
+          en: to dig a trench
+          ru: выкопать окоп
 
 etymology:
   en: From Russian *окоп* "trench".
   ru: От русского *окоп*.
+
+variants: [акуп]

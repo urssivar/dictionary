@@ -9,13 +9,16 @@ forms:
 
 definitions:
   - translation:
-      en: to feud, to be in strife
-      ru: междуусобить, ссориться
+      en: to feud, to clash
+      ru: междуусобить, сталкиваться
     tags: [feeling]
     aliases:
       en: [to conflict]
       ru: [конфликтовать]
+    examples:
+      - text: Шшанте мурбе ҳал автт һабичив.
+        translation:
+          en: The villagers clashed over hayfields.
+          ru: Сельчане столкнулись из-за сенокосов.
 
 derived_from: [автт, биркара]
-
-#? шшиме гонзурбала чевтта автт һадичил де.

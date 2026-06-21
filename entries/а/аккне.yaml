@@ -8,7 +8,7 @@ forms:
 definitions:
   - translation:
       en: absence
-      ru: отсутствие
+      ru: отсутствие #? һеж ҡӏамцӏ аккне
     aliases:
       en: [lack]
       ru: [нехватка]
@@ -22,6 +22,6 @@ etymology:
   en: Masdar from the historic verb *\*аккора* (cf. *акку* "not").
   ru: Масдар от исторического глагола *\*аккора* (ср. *акку* "не").
 
-variants: [аккре]
 derived_from: ["*аккора"]
+variants: [аккре]
 see_also: [акку, биһне, аккре]

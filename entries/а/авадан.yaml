@@ -4,8 +4,13 @@ tags: [adj, loan, iranian]
 
 definitions:
   - translation:
-      en: fruitful
-      ru: плодородный
+      en: spacious
+      ru: просторный
+    examples:
+      - text: авадан дуне
+        translation:
+          en: раздолье
+          ru: expanse
   - translation:
       en: luxurious, rich
       ru: роскошный, богатый
@@ -21,5 +26,3 @@ definitions:
 etymology:
   en: From Persian آبادان (*ābādān*) "thriving, prosperous".
   ru: От персидского آبادان (*ābādān*) "процветающий".
-
-#? def1?

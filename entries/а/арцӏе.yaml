@@ -15,7 +15,7 @@ definitions:
     examples:
       - text: арцӏе вәнара
         translation:
-          en:
+          en: to go weeding
           ru: пойти на прополку
 
 derived_from: [ирцӏара]

@@ -16,10 +16,10 @@ definitions:
       en: [entrace, passage]
       ru: [вход]
     examples:
-      - text: Ҡӏвәл биж берһил дәғинцци аҡар барив.
+      - text: Ҡӏвәл биж берһил дәғинцци аҡар барив. #? дәғини
         translation:
           en: The cow ran and made an opening in the fence.
           ru: Корова с разбегу создали проход в заборе.
 
-variants: [аҡре]
 derived_from: [иҡара]
+variants: [аҡре]

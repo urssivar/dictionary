@@ -12,13 +12,13 @@ definitions:
       en: to part, to say goodbye
       ru: прощаться, расходиться
     aliases:
-      en: [leave, separate]
+      en: [to leave, to separate]
       ru: [расставаться, уходить]
     examples:
-      - text: Миҡҡла һереғ укка акка аҡил бегур.
+      - text: Миҡҡла һереғ укка акка аҡил бегур. #?
         translation:
           en: After the wedding, people said goodbye and left.
           ru: После свадьбы люди попрощались и ушли.
 
-variants: [~ биҡара/беҡара/беҡив]
 derived_from: [акка, иҡара]
+variants: [~ биҡара/беҡара/беҡив]

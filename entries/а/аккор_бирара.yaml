@@ -9,11 +9,11 @@ forms:
 
 definitions:
   - translation:
-      en: to exterminate
-      ru: истреблять
+      en: to exterminate, to destroy
+      ru: истреблять, уничтожать
     aliases:
-      en: [kill, destroy, eliminate]
-      ru: [убивать, уничтожать, ликвидировать]
+      en: [to kill, to eliminate]
+      ru: [убивать, ликвидировать]
     examples:
       - text: Дарманла дарил сукке ппиғне аккор дарив.
         translation:

@@ -1,6 +1,6 @@
 headword: аркӏа
 ipa: aɾˈkʼa
-tags: [n adj]
+tags: [n]
 forms:
   - text: аркӏабе
     gloss: pl
@@ -14,5 +14,3 @@ definitions:
         translation:
           en: This year this cow was without offspring.
           ru: В этом году эта корова была без приплода.
-
-#? about land

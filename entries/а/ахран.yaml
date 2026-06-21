@@ -7,12 +7,12 @@ forms:
 
 definitions:
   - translation:
-      en: security guard
-      ru: охранник
+      en: watchman
+      ru: сторож
     tags: [occupation]
     aliases:
-      en: [guard, watchman]
-      ru: [сторож]
+      en: [guard, security]
+      ru: [страж, охранник]
 
 etymology:
   en: From Russian *охрана* "security".

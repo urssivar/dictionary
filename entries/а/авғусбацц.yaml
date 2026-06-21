@@ -15,8 +15,11 @@ definitions:
     aliases:
       en: [month]
       ru: [месяц]
-
-#? авғусбаццей чин до августа
+    examples:
+      - text: Авғусбаццей барил әһле де.
+        translation:
+          en: It would be good to do it before August.
+          ru: До августа хорошо бы сделать.
 
 etymology:
   en: From Russian *август* "August" and Kaitag *бацц* "month".

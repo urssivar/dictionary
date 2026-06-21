@@ -8,9 +8,9 @@ forms:
 definitions:
   - translation:
       en: measure, system
-      ru: мера, система
+      ru: мера, система #?
     examples:
       - text: Һар цикӏалла цинна апатӏ бирһор.
         translation:
-          en:
-          ru:
+          en: Everything has its measure.
+          ru: У всего есть своя мера.
