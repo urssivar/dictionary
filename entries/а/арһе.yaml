@@ -15,7 +15,9 @@ definitions:
     examples:
       - text: Арһинццил хор чӏубаг барив.
         translation:
-          en:
-          ru: 
+          en: Halved the log with a saw.
+          ru: Распилил бревно пополам пилой.
 
 variants: [арһни/арһнил-/арһнибе]
+
+#? чӏубаг цирсив ?

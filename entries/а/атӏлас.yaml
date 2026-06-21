@@ -1,15 +1,18 @@
 headword: атӏлас
-ipa: atʼˈlas
+ipa: ˈatʼlas
 tags: [n, loan, arabic]
+forms:
+  - text: атӏлассе
+    gloss: pl
 
 definitions:
   - translation:
-      en: atlas silk
-      ru: атласная ткань
+      en: atlas (fabric)
+      ru: атлас (ткань)
     tags: [fabric]
     aliases:
-      en: [silk]
-      ru: [шёлк]
+      en: [silk, satin]
+      ru: [шёлк, сатин]
 
 etymology:
   en: From Arabic أَطْلَس (*ʔaṭlas*) "satin".

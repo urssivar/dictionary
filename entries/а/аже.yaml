@@ -16,7 +16,9 @@ definitions:
       en: [tune, song, music]
       ru: [напев, мотив, музыка]
     examples:
-      - text: Аже диҡӏул да
+      - text: Аже диҡӏул це.
         translation:
-          en: I'm hearing a melody.
-          ru: Я слышу мелодию.
+          en: A melody is heard.
+          ru: Слышна мелодия.
+
+#? слышна \ я слышу

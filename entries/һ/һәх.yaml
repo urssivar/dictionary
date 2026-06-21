@@ -1,0 +1,23 @@
+headword: һәх
+ipa: ˈhæχ
+tags: [pro]
+forms:
+  - text: һәх
+    gloss: abs
+  - text: һәхе
+    gloss: obl
+  - text: һәхтти
+    gloss: pl
+
+definitions:
+  - translation:
+      en: aforementioned
+      ru: вышеупомянутый
+    aliases:
+      en: [that, it]
+
+etymology:
+  en: Recent semantic shift of the original meaning *that down there* (cf. *ьет* "that").
+
+derived_from: [һех]
+variants: [һех]

@@ -7,14 +7,12 @@ forms:
 
 definitions:
   - translation:
-      en: barren, infertile
-      ru: яловой, бесплодный
-    tags: [agriculture]
-    aliases:
-      en: [infertile]
-      ru: [неплодный]
+      en: unfertilized, infertile
+      ru: яловый, бесплодный
     examples:
       - text: Идус аркӏал калгун һеж ҡӏвәл.
         translation:
-          en:
-          ru: В этмо году эта корова была без приплода.
+          en: This year this cow was without offspring.
+          ru: В этом году эта корова была без приплода.
+
+#? about land

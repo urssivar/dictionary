@@ -1,0 +1,15 @@
+headword: ахирравара
+ipa: aχiɾɾaˈβaɾa
+tags: [conj]
+
+definitions:
+  - translation:
+      en: in the end, after all
+      ru: в конце концов
+    examples:
+      - text: Ахирравара цинна муради веғив.
+        translation:
+          en: In the end he achieved his goal.
+          ru: В конце концов он достиг своей цели.
+
+derived_from: [ахир]

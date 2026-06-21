@@ -12,8 +12,8 @@ definitions:
       en: to nap
       ru: дремать
     aliases:
-      en: [to doze, to snooze]
-      ru: [вздремнуть]
+      en: [to sleep, to doze, to snooze]
+      ru: [спать, кимарить]
     examples:
       - text: Нишшай һереғ кижил ахрей вичивда.
         translation:

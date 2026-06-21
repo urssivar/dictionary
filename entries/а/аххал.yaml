@@ -7,13 +7,33 @@ forms:
 
 definitions:
   - translation:
+      en: person, fellow
+      ru: человек
+    note:
+      en: Also a form of address, known or not. An adult but not elderly, by default a middle-aged man; narrowed by a following word, e.g. *урши* "guy".
+      ru: Также обращение, к знакомому или нет. Взрослый, но не пожилой, по умолчанию мужчина средних лет; уточняется следующим словом, напр. *урши* "парень".
+    examples:
+      - text: Һет аххалли беччив.
+        translation:
+          en: That man gave it.
+          ru: Тот дядёнька дал.
+      - text: Һей, аххал рирси!
+        translation:
+          en: Hey, young lady!
+          ru: Эй, девушка!
+  - translation:
       en: guest
       ru: гость
     aliases:
       en: [visitor]
-      ru: [посетитель, кунак]
+      ru: [посетитель]
+    examples:
+      - text: Ахле чӏулцци цабиғанте це.
+        translation:
+          en: Guests are expected to arrive at two.
+          ru: Гости должны прибыть в два.
   - translation:
-      en: kunak
+      en: kunak (sworn guest-friend)
       ru: кунак
     examples:
       - text: Һет шшилцци ниссала әһ ахле би.
@@ -21,4 +41,6 @@ definitions:
           en: We have good kunaks in that village.
           ru: В том селе у нас есть хорошие кунаки.
 
-### человек ?
+#? ҡҡунаҡҡ, -ғ
+#? def to male ?
+#? урши / дәрһә

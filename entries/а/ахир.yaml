@@ -11,12 +11,15 @@ definitions:
       ru: конец
     aliases:
       en: [finish, conclusion]
-      ru: [финал, окончание, завершение]
+      ru: [финал, завершение]
+    examples:
+      - text: хабарла ахир
+        translation:
+          en: the story's end
+          ru: конец рассказа
 
 etymology:
   en: From Arabic آخِر (*ʔāḵir*) "last".
   ru: От арабского آخِر (*ʔāḵir*) "последний".
 
 variants: [әхир]
-
-### АХИР-АВАР

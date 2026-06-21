@@ -1,0 +1,16 @@
+headword: акка
+ipa: aˈkːa
+tags: [n]
+forms:
+  - text: аккал
+    gloss: obl
+  - text: аккабе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: parting, farewell
+      ru: прощание
+    aliases:
+      en: [bye]
+      ru: [пока]

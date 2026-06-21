@@ -15,7 +15,14 @@ definitions:
     aliases:
       en: [month]
       ru: [месяц]
+    examples:
+      - text: Идус ахтәбирбацц гунал цабағив.
+        translation:
+          en: This year October came warm.
+          ru: В этом году октябрь настал тёплым.
 
 etymology:
   en: From Russian *октябрь* "October".
   ru: От русского *октябрь*.
+
+variants: [ухтәбир]

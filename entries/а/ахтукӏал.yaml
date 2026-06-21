@@ -2,7 +2,7 @@ headword: ахтукӏал
 ipa: aχˈtukʼal
 tags: [n, pl]
 forms:
-  - text: ахтукӏлан-
+  - text: ахтукӏлан
     gloss: obl
   - text: ахтукӏле
     gloss: pl
@@ -15,14 +15,15 @@ definitions:
     aliases:
       en: [sputum]
       ru: [слизь]
-    note:
-      en: usually plural
-      ru: обычно во множественном
     examples:
-      - text: Ахтукӏле ту дара.
+      - text: Ахтукӏле ах дарил ту дара.
         translation:
           en: Spit out the phlegm.
           ru: Выплюнь мокроту.
+
+etymology:
+  en: usually plural
+  ru: обычно мн. ч.
 
 variants: [тутукӏле]
 derived_from: ["*ах", ту]

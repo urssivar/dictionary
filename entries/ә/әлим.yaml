@@ -6,6 +6,7 @@ forms:
     gloss: abs
   - text: әлимте
     gloss: pl
+
 definitions:
   - translation:
       en: scholar
@@ -13,3 +14,5 @@ definitions:
     tags: [occupation]
     aliases:
       en: [scientist]
+
+variants: [муәллим]

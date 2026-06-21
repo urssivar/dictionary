@@ -2,7 +2,7 @@ headword: аӏ
 ipa: aʔ
 tags: [n]
 forms:
-  - text: аӏбе
+  - text: аӏре
     gloss: pl
 
 definitions:
@@ -10,5 +10,10 @@ definitions:
       en: palate
       ru: нёбо
     tags: [body]
+    examples:
+      - text: аӏ ғвәчӏ һабарара
+        translation:
+          en: to press on the palate (to relieve swelling)
+          ru: надавить на нёбо (для снятия отёка)
 
-variants: [әӏ, аӏгула, кӏавгула]
+variants: [әӏ]

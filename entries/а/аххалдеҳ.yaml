@@ -1,6 +1,9 @@
 headword: аххалдеҳ
 ipa: aχːalˈdex
 tags: [n]
+forms:
+  - text: аххалдеҳҳе
+    gloss: pl
 
 definitions:
   - translation:
@@ -10,9 +13,9 @@ definitions:
       en: [welcome]
       ru: [приём, радушие]
     examples:
-      - text: Һелттал аххалдеҳ барһар.
+      - text: Һелттал цәәһ аххалдеҳ дирар.
         translation:
-          en: They know hospitality.
-          ru: Они знают гостеприимство.
+          en: They are very hospitable.
+          ru: Они весьма гостеприимны.
 
 derived_from: [аххал]

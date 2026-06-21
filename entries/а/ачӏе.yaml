@@ -2,8 +2,8 @@ headword: ачӏе
 ipa: ˈatʃʼe
 tags: [n]
 forms:
-  - text: ачӏне
-    gloss: pl
+  - text: ачӏел
+    gloss: obl
 
 definitions:
   - translation:
@@ -13,3 +13,10 @@ definitions:
     aliases:
       en: [grain]
       ru: [зерно]
+    examples:
+      - text: ачӏе декӏона
+        translation:
+          en: to mill the wheat
+          ru: смолоть пшеницу
+
+variants: [~/ачӏен-]

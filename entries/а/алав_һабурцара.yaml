@@ -17,7 +17,7 @@ definitions:
     examples:
       - text: Уба цинна дәһнал алав һаруцил разил риххул це.
         translation:
-          en: The mother is kept happy surrounded by her children.
-          ru: Мать окружена своими детьми и чувствует себя счастливо.
+          en: Children surround their mother and keep her happy.
+          ru: Дети окружают свою мать и хранят её счастливой.
 
 derived_from: [алав, бурцара]

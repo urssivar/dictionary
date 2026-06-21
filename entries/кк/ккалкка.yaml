@@ -2,12 +2,11 @@ headword: ккалкка
 ipa: ˈkːalkːa
 tags: [n]
 forms:
-  - text: ккалкка
-    gloss: abs
   - text: ккалккан
     gloss: obl
   - text: ккилккне
     gloss: pl
+
 definitions:
   - translation:
       en: tree

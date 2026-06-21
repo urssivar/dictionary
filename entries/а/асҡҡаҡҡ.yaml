@@ -12,3 +12,8 @@ definitions:
     aliases:
       en: [miserable, pitiful]
       ru: [жалкий, несчастный]
+    examples:
+      - text: Дәвцци вәрун асҡҡаҡҡ агул цағив.
+        translation:
+          en: He went to war and returned disabled.
+          ru: Ушёл на войну и вернулся инвалидом.

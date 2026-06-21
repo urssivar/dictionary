@@ -9,20 +9,16 @@ forms:
 
 definitions:
   - translation:
-      en: to part
-      ru: расходиться
+      en: to part, to say goodbye
+      ru: прощаться, расходиться
     aliases:
-      en: [part ways, leave, separate]
-      ru: [расставаться, уходить, разойтись]
+      en: [leave, separate]
+      ru: [расставаться, уходить]
     examples:
-      - text: Миҡҡла һереғ укка акка аҡив.
+      - text: Миҡҡла һереғ укка акка аҡил бегур.
         translation:
-          en: People parted after the wedding.
-          ru: Люди разошлись после свадьбы.
+          en: After the wedding, people said goodbye and left.
+          ru: После свадьбы люди попрощались и ушли.
 
-note:
-  en: "*акка* does not occur independently and its meaning is unclear."
-  ru: "*акка* не встречается самостоятельно и его значение неясно."
-
-variants: [биҡара/беҡара/беҡив]
-derived_from: [иҡара]
+variants: [~ биҡара/беҡара/беҡив]
+derived_from: [акка, иҡара]

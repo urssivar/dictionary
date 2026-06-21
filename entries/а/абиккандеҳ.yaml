@@ -1,6 +1,9 @@
 headword: абиккандеҳ
 ipa: abikːanˈdex
 tags: [n, vb]
+forms:
+  - text: абиккандеҳҳе
+    gloss: pl
 
 definitions:
   - translation:
@@ -13,7 +16,7 @@ definitions:
     examples:
       - text: Рирсила абиккандеҳ чи бичив кулпети.
         translation:
-          en: 
-          ru: На семью выпала неприятность, связанная с дочкой.
+          en: The family faced trouble with their daughter.
+          ru: Семья столкнулась с неприятностью из-за дочери.
 
 derived_from: [абиккан]

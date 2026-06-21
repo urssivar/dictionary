@@ -16,10 +16,10 @@ definitions:
     aliases:
       en: [stammer]
     examples:
-      - text: Амӏам икӏон мейдам це һеж.
+      - text: Амӏам икӏон це һеж мейдам.
         translation:
-          en: 
-          ru: Он заикающийся.
+          en: This man stutters.
+          ru: Этот человек заикается.
 
 etymology:
   en: Probably onomatopoeia.

@@ -13,11 +13,11 @@ definitions:
           ru: У тебя разве есть кошка?
   - translation:
       en: emphatic particle (come on, already, now)
-      ru: просительно частица (же, давай, ну)
+      ru: усилительная частица (же, давай, ну)
     examples:
       - text: Бурса атте.
         translation:
-          en: Tell it, come on.
+          en: Come on, tell me.
           ru: Расскажи же.
 
 variants: [атти]

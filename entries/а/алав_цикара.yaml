@@ -9,15 +9,17 @@ forms:
 
 definitions:
   - translation:
-      en: to navigate
-      ru: подводить
+      en: to navigate, to stree
+      ru: подводить, направлять
     aliases:
-      en: [steer, influence]
-      ru: [направлять, влиять]
+      en: [influence]
+      ru: [влиять]
     examples:
       - text: Ихтилат циней баживцци алав цачив.
         translation:
           en: Navigated the conversation to where he needed.
-          ru: Подвёл разговор куда ему надо было.
+          ru: Подвёл беседу куда ему надо было.
 
 derived_from: [алав, бикара]
+
+#? баживи, бигани

@@ -1,0 +1,20 @@
+headword: чи цабирҳора
+ipa:
+tags: [v, tr, cls]
+forms:
+  - text: цабиҳора
+    gloss: pfv
+  - text: цабишур
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to have herpes
+      ru: нарываться (о герпесе)
+    aliases:
+      en: [load, place]
+    examples:
+      - text: миса-чӏунтӏ чи цабишур
+        translation:
+          en:
+          ru:

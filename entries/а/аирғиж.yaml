@@ -4,11 +4,16 @@ tags: [adj, vb]
 
 definitions:
   - translation:
-      en: obscure, incomprehensible
-      ru: неясный, непонятный
+      en: incomprehensible, unclear
+      ru: непонятный, неясный
     aliases:
-      en: [opaque]
-      ru: [темный]
+      en: [opaque, obscure]
+      ru: [темный, смутный]
+    examples:
+      - text: Дами аирғиж ғай.
+        translation:
+          en: A language incomprehensible to me
+          ru: Непонятный для меня язык. #?
 
 etymology:
   en: Negative hypothetical participle of *ирғара* "to understand".

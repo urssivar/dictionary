@@ -1,18 +1,22 @@
-headword: аччут
-ipa: aˈtʃːut
+headword: аччутӏ
+ipa: aˈtʃːutʼ
 tags: [n, loan, russian]
 forms:
-  - text: аччуте
+  - text: аччутӏе
     gloss: pl
 
 definitions:
   - translation:
       en: report
-      ru: отчёт
+      ru: доклад
     aliases:
       en: [account]
-      ru: [доклад]
-
+      ru: [отчёт]
+    examples:
+      - text: Аччутӏе һәдур дарара әнел це.
+        translation:
+          en:
+          ru:
 etymology:
   en: From Russian *отчёт* "report".
   ru: От русского *отчёт*.

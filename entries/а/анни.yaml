@@ -11,7 +11,7 @@ definitions:
       ru: [недомогание]
     tags: [child, feeling]
     examples:
-      - text: Анни агур у етти?
+      - text: Анни агур у?
         translation:
           en: Did it hurt?
           ru: Больно стало?

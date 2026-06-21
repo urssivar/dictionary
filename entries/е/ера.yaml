@@ -1,8 +1,7 @@
 headword: ера
 ipa: eˈɾa
 tags: [ptcl]
-note:
-  en: '*еран*'
+
 definitions:
   - translation:
       en: at least
@@ -13,3 +12,5 @@ definitions:
       - text: чӏаҡӏо ера бекка бизий
         translation:
           en: give the cat at least some bread
+
+variants: [еран, арра]

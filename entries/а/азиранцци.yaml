@@ -4,16 +4,16 @@ tags: [adv]
 
 definitions:
   - translation:
-      en: in great numbers
-      ru: в великом множестве
+      en: among countless others
+      ru: среди бесчисленного множества
     aliases:
-      en: [countless, innumerable, by the thousands]
-      ru: [бесчисленное множество, тысячи, множество]
+      en: [innumerable, thousands]
+      ru: [неисчислимый, тысячи]
     examples:
-      - text: азиранцци вейкку
+      - text: Азиранцци һелгон вейкку.
         translation:
-          en: no [such one] among innumerable [others]
-          ru: нет [такого] среди тысяч [других]
+          en: There is no such one among countless others.
+          ru: Такого нет среди бесчисленного множества других.
 
 derived_from: [азир]
 see_also: [суккенцци]

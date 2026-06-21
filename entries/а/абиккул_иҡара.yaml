@@ -9,16 +9,20 @@ forms:
 
 definitions:
   - translation:
-      en: to take offense
-      ru: оскорбляться
+      en: to take offense, to feel insulted
+      ru: оскорбляться, обижаться
     tags: [feeling]
     aliases:
-      en: [to be offended, to feel insulted, to get upset]
-      ru: [обидеться, расстроиться]
+      en: [to be offended, to get upset]
+      ru: [расстраиваться]
     examples:
-      - text: Ду ацәун ҡҡелла аттай абиккул аҡив
+      - text: Ду ацәун ҡҡелла циней абиккул аҡив #?
         translation:
-          en: Father took offense because I didn't come.
-          ru: Отец оскорбился из-за того, что я не пришёл.
+          en: He took offense because I didn't come.
+          ru: Он обиделся из-за того, что я не пришёл.
+
+etymology:
+  en: Negative converb of *биккара* "to want".
+  ru: Отрицательное деепричастие от *биккара* "хотеть".
 
 derived_from: [биккара, иҡара]

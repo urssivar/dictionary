@@ -1,0 +1,23 @@
+headword: ашккар цабирара
+ipa: aʃˌkːaɾ tsabiˈɾaɾa
+tags: [v, cls, tr]
+forms:
+  - text: цабарара
+    gloss: pfv
+  - text: цабарив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to reveal, to uncover
+      ru: выявлять, раскрывать
+    aliases:
+      en: [detect, identify]
+      ru: [обнаруживать, находить]
+    examples:
+      - text: Милицӏал вәһибарҡӏ ашккар цабарив.
+        translation:
+          en: The police uncovered the crime.
+          ru: Полиция раскрыла преступление.
+
+derived_from: [ашккар, бирара]

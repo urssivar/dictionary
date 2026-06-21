@@ -12,7 +12,19 @@ definitions:
     aliases:
       en: [currency, cash]
       ru: [валюта, наличные]
+    examples:
+      - text: Арцла ҡӏимат абел. #?
+        translation:
+          en: Money no longer has cost.
+          ru: У денег больше нет стоимости. (инфляция)
   - translation:
       en: silver
       ru: серебро
     tags: [material]
+    examples:
+      - text: арцла белесса \ кулехха ?
+        translation:
+          en: 
+          ru: 
+
+#? тукенчицци арц деччив чӏаҡӏонла

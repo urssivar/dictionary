@@ -9,7 +9,7 @@ forms:
 
 definitions:
   - translation:
-      en: to feud, to be in strife,
+      en: to feud, to be in strife
       ru: междуусобить, ссориться
     tags: [feeling]
     aliases:
@@ -17,3 +17,5 @@ definitions:
       ru: [конфликтовать]
 
 derived_from: [автт, биркара]
+
+#? шшиме гонзурбала чевтта автт һадичил де.

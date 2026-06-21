@@ -5,7 +5,7 @@ tags: [n]
 definitions:
   - translation:
       en: cancer
-      ru: рак
+      ru: рак (болезнь)
     tags: [disease]
     aliases:
       en: [tumor]

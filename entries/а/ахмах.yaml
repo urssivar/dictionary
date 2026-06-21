@@ -13,6 +13,11 @@ definitions:
       en: [fool, moron]
       ru: [дурак, болван]
     tags: [pejorative]
+    examples:
+      - text: Маһ һештти ахмахе.
+        translation:
+          en: Well, what idiots.
+          ru: Ну какие же идиоты.
 
 etymology:
   en: From Arabic أَحْمَق (*ʔaḥmaq*) "stupid".

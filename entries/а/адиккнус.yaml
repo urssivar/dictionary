@@ -10,12 +10,12 @@ definitions:
       en: inhospitable person
       ru: негостеприимный человек
     aliases:
-      en: [unwelcoming person, unfriendly host]
+      en: [unwelcoming, unfriendly]
       ru: [недоброжелательный, неприятный]
 
 etymology:
-  en: From the negative of *биккара* "to want" (cf. *буснус* "sleepy person").
-  ru: От отрицательной формы *биккара* "хотеть" (ср. *буснус* "соня").
+  en: From the negative stem of *биккара* "to want" (cf. *буснус* "sleepy person").
+  ru: От отрицательной основы глагола *биккара* "хотеть" (ср. *буснус* "соня").
 
 derived_from: [биккара]
-see_also: [буснус]
+see_also: [буснус, абикк бирһора]

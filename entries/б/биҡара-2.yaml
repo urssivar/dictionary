@@ -1,13 +1,12 @@
-headword: берҡара
-ipa: beɾˈqaɾa
+headword: биҡара
+ipa: biˈqaɾa
 tags: [v, tr, cls]
 forms:
   - text: беҡара
     gloss: pfv
   - text: беҡив
     gloss: pret
-  - text: берҡара
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to complete
@@ -15,10 +14,8 @@ definitions:
     aliases:
       en: [end, finish]
     examples:
-      - text: Аллаһли ҡӏабул дарав нишал деҡив дунцра
+      - text: Аллаһли ҡӏабул дарав нишшал деҡив дунцра
         translation:
           en: completed fasting
 
-
-### биҡара, биҡара to move to ?
-### беҡара pass аҡара finish / биҡул ?
+### бирҡара ipfv

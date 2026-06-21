@@ -15,9 +15,9 @@ definitions:
       en: [hedge, prevaricate]
       ru: [избегать, увиливать]
     examples:
-      - text: Һәрһәнцци тта алав вичив.
+      - text: Һәрһәни тта алав вичив.
         translation:
           en: He dodged a bullet.
-          ru: Он уклонился от пули.
+          ru: Уклонился от пули.
 
-derived_from: [алав, бикара]
+derived_from: [алав, биркара]

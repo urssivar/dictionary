@@ -4,11 +4,10 @@ tags: [adj, vb]
 
 definitions:
   - translation:
-      en: probable
-      ru: вероятный
+      en: probable, possible
+      ru: вероятный, возможный
     aliases:
-      en: [likely, possible]
-      ru: [возможный]
+      en: [likely]
     examples:
       - text: Ижал марка ажижле це.
         translation:

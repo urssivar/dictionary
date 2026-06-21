@@ -4,12 +4,16 @@ tags: [adj, loan, iranian]
 
 definitions:
   - translation:
-      en: explicit
-      ru: явный
-    aliases:
-      en: [clear]
-      ru: [ясный]
+      en: explicit, clear
+      ru: явный, ясный
+    examples:
+      - text: Сар ил диӏунте һана ашккар диһәв.
+        translation:
+          en: What you stole earlier has now become clear.
+          ru: То что ты украл раньше сейчас стало явным.
 
 etymology:
   en: From Persian آشكار (*âškâr*) "obvious".
   ru: От персидского آشكار (*âškâr*) "очевидный".
+
+variants: [ашкӏар]

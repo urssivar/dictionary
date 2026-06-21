@@ -12,6 +12,9 @@ definitions:
       en: to come to dislike
       ru: разонравиться
     tags: [feeling]
+    aliases:
+      en: [to get disenchanted, to get disappointed]
+      ru: [разочароваться]
     examples:
       - text: Һел дами авикк виһәв.
         translation:

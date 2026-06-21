@@ -7,13 +7,15 @@ forms:
 
 definitions:
   - translation:
-      en: wage
-      ru: оплата
+      en: wage, payment
+      ru: оплата, плата
     aliases:
-      en: [payment, price]
+      en: [price]
       ru: [зарплата, цена]
     examples:
-      - text: Усттал цинел таман барив әчулла алапа һассив.
+      - text: Усттал цинела әчулла алапа һассив.
         translation:
-          en: The master took the wage for his finished work.
-          ru: Мастер взял оплату за свою завершённую работу.
+          en: The master took the wage for his work.
+          ru: Мастер взял оплату за свою работу.
+
+#? pl ?

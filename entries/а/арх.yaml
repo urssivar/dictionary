@@ -9,10 +9,12 @@ forms:
 
 definitions:
   - translation:
-      en:
+      en: crevice, gorge
       ru: расщелина, теснина
     examples:
-      - text: архни
+      - text: Хвәр верттил архни кагур.
         translation:
-          en: Хвәр верттил архни кагур.
-          ru:
+          en: Slipped and fell into a crevice.
+          ru: Соскользнул и провалился в расщелину.
+
+#? архи

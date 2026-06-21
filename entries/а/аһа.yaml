@@ -4,10 +4,10 @@ tags: [intj]
 
 definitions:
   - translation:
-      en: yeah
-      ru: ага
+      en: yes
+      ru: да
     aliases:
       en: [yep, uh-huh, mhm]
       ru: [да, угу]
 
-variants: [уһу]
+variants: [уһу] < yeah

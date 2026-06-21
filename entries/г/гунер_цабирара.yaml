@@ -1,0 +1,14 @@
+headword: гунер цабирара
+ipa: ˈga
+tags: [n]
+forms:
+  - text: цабарара
+    gloss: abs
+  - text: цабирара
+    gloss: obl
+
+definitions:
+  - translation:
+      en: to make public
+      ru: обнародовать
+    tags: [time]

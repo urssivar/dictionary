@@ -1,0 +1,22 @@
+headword: ахту дирара
+ipa: aχˌtu diˈɾaɾa
+tags: [v, tr]
+forms:
+  - text: дарара
+    gloss: pfv
+  - text: дарив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to stop caring, to abandon, to reject
+      ru: переставать забоититься, бросать, отвергать
+    examples:
+      - text: Әсси виһәл әчули ахту дарил вегур.
+        translation:
+          en: He got angry, gave up on work, and left.
+          ru: Разозлился, наплевал на работу, и ушёл.
+
+variants: [~ чи кабурҡара]
+derived_from: ["*ах", ту, бирара]
+see_also: [ахтукӏал]

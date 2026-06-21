@@ -10,9 +10,11 @@ definitions:
       en: [about, round]
       ru: [вокруг]
     examples:
-      - text: Барккара вирһул аккоде, алавчер ул бета.
+      - text: Барккара вирһул аккоде, ил ра алавчер ул бета.
         translation:
-          en: I cannot find it, look all around.
-          ru: Я не могу найти, посмотри кругом.
+          en: I can't find it, look all around too.
+          ru: Я не могу найти, ты тоже посмотри кругом.
 
 derived_from: [алав]
+
+#? ҡалла алавчер /> adv

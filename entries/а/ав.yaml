@@ -1,13 +1,17 @@
 headword: ав
 ipa: ˈaβ
 tags: [n]
-      
+
 definitions:
   - translation:
-      en: howl
+      en: howl (of a wolf)
       ru: вой (волчий)
     examples:
       - text: Сса дучче бицӏе ав дикӏул де.
         translation:
-          en: 
-          ru: 
+          en: Last night the wolves howled.
+          ru: Вчерашней ночью волки выли.
+
+see_also: [һаву]
+
+#? aw?

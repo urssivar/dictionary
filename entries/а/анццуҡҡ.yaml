@@ -7,14 +7,11 @@ forms:
 
 definitions:
   - translation:
-      en: reproach
-      ru: упрёк
+      en: reproach (over past failures)
+      ru: упрёк (напоминание о прошлых неудачах)
     aliases:
       en: [mockery, tease]
       ru: [издёвка, насмешка]
-    note:
-      en: a reminder of past failures
-      ru: напоминание о прошлых неудачах
     examples:
       - text: Цинна уршила чевтта анццуҡҡ бирххур һелей.
         translation:

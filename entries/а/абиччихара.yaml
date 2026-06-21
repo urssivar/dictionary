@@ -15,9 +15,12 @@ definitions:
         translation:
           en: I hate these things.
           ru: Я ненавижу эти вещи.
-    
+
 etymology:
-  en: The negative of *биччихара* "to love".
+  en: Negative of *биччихара* "to love".
   ru: Отрицательная форма от *биччихара* "любить".
 
 derived_from: [биччихара]
+variants: [абиччихора]
+
+#? абиччихивда

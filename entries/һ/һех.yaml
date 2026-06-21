@@ -1,20 +1,15 @@
 headword: һех
 ipa: ˈheχ
 tags: [pro]
-etymology:
-  en: Recent semantic shift of the original meaning *that down there* (cf. *ьет* "that").
-note:
-  en: "*ьях*"
 forms:
-  - text: һех
-    gloss: abs
   - text: һехе
     gloss: obl
   - text: һехтти
     gloss: pl
+
 definitions:
   - translation:
-      en: aforementioned
-      ru: вышеупомянутый
+      en: that below
+      ru: тот внизу
     aliases:
       en: [that, it]

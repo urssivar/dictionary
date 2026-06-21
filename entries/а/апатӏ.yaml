@@ -7,8 +7,8 @@ forms:
 
 definitions:
   - translation:
-      en: measure
-      ru: мера, предел
+      en: measure, system
+      ru: мера, система
     examples:
       - text: Һар цикӏалла цинна апатӏ бирһор.
         translation:

@@ -7,11 +7,16 @@ forms:
 
 definitions:
   - translation:
-      en: impression
-      ru: впечатление
+      en: impression, effect
+      ru: впечатление, эффект
     aliases:
-      en: [impact, effect]
-      ru: [воздействие, эффект]
+      en: [impact]
+      ru: [воздействие]
+    examples:
+      - text: Һелела ғайли дами хула асар барив.
+        translation:
+          en: His words made a great impression on me.
+          ru: Его слова оказали на меня большое впечатление.
 
 etymology:
   en: From Persian اثر (*asar*), from Arabic أَثَر (*ʔaṯar*) "trace, impression".

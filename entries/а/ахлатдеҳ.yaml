@@ -1,0 +1,19 @@
+headword: ахлатдеҳ
+ipa: aχlatˈdex
+tags: [n]
+
+definitions:
+  - translation:
+      en: decorum at a visit
+      ru: приличие в гостях
+    note:
+      en: usually for a business
+      ru: обычно для дела
+    tags: [culture]
+    examples:
+      - text: Әһ ҳунела цаҡҡил ахлатдеҳ дарив.
+        translation:
+          en: They brought a nice gift and showed respect.
+          ru: Принесли хороший гостинец и оказали уважение.
+
+derived_from: [ахлат]

@@ -1,6 +1,9 @@
 headword: ахтар
 ipa: aχˈtaɾ
 tags: [n, loan, turkic]
+forms:
+  - text: ахтарте
+    gloss: pl
 
 definitions:
   - translation:
@@ -19,4 +22,4 @@ etymology:
   en: From Kumyk *ахтармакъ* "to search".
   ru: От кумыкского *ахтармакъ* "искать".
 
-variants: [ахтарди]
+variants: [ахтарди/ахтардибе]

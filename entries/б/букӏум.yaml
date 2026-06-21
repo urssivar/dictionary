@@ -13,3 +13,8 @@ definitions:
       en: wind
       ru: ветер
     tags: [nature]
+    examples:
+      - text: Букӏмел дила ҡати буҡҡил це.
+        translation:
+          en: The wind has carried my hat away.
+          ru: Ветер унёс мою шапку.

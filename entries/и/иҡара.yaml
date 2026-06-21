@@ -6,8 +6,7 @@ forms:
     gloss: pfv
   - text: аҡив
     gloss: pret
-  - text: иҡара
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to pass

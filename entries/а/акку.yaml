@@ -5,7 +5,7 @@ forms:
   - text: аккоде
     gloss: "1"
   - text: аккотте
-    gloss: "2.sg"
+    gloss: 2.sg
   - text: аккотта
     gloss: 2.pl
   - text: акку
@@ -15,8 +15,8 @@ forms:
 
 definitions:
   - translation:
-      en: not
-      ru: не
+      en: not, is not
+      ru: не, не является
     examples:
       - text: Һел тухтур акку.
         translation:

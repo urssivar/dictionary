@@ -1,0 +1,25 @@
+headword: абуццан
+ipa: abuˈtsːan
+tags: [adj, vb, cls]
+forms:
+  - text: абуццул
+    gloss: pl
+
+definitions:
+  - translation:
+      en: faulty, malfunctioning
+      ru: неисправный, повреждённый
+    aliases:
+      en: [non-working, broken]
+      ru: [нерабочий, сломанный]
+    examples:
+      - text: Сәәт абуццан биһәл це.
+        translation:
+          en: The clock has become faulty.
+          ru: Часы стали неисправными.
+
+etymology:
+  en: Negative present participle of *буццара* "to function, to work".
+  ru: Отрицательное настоящее причастие от *буццара* "функционировать, работать".
+
+derived_from: [буццара]

@@ -4,10 +4,15 @@ tags: [adv]
 
 definitions:
   - translation:
-      en: at last
+      en: at last, finally
       ru: наконец
     aliases:
       en: [eventually]
       ru: [в итоге]
+    examples:
+      - text: Ахирра цағивде на ера.
+        translation:
+          en: Finally you've arrived, at least now.
+          ru: Наконец хоть сейчас ты прибыл.
 
 derived_from: [ахир]

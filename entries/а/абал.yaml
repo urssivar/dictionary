@@ -4,21 +4,21 @@ tags: [conj, vb]
 
 definitions:
   - translation:
-      en: well, then
-      ru: ну, тогда
+      en: consequential particle (well, then)
+      ru: следственная частица (ну, тогда)
     aliases:
       en: [so, in that case]
       ru: [ну так, в таком случае]
     examples:
       - text: Абал вәһил акку.
         translation:
-          en: Well then not bad.
-          ru: Ну тогда неплохо.
+          en: Well then, not bad.
+          ru: Ну, тогда неплохо.
 
 etymology:
-  en: Contraction of *абиһолли*, negative conditional of *бирһора* "to be; to be able".
-  ru: Сокращение от *абиһолли*, отрицательной условной формы от *бирһора* "быть; мочь".
+  en: Contraction of *абиһолли*, negative conditional of *бирһора* "to be".
+  ru: Сокращение от *абиһолли*, отрицательной условной формы от *бирһора* "быть".
 
-variants: [абиһолли, абалле]
 derived_from: [бирһора]
+variants: [абиһолли, абалле]
 see_also: [баал]

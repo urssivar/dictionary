@@ -7,8 +7,8 @@ definitions:
       en: fruitful
       ru: плодородный
   - translation:
-      en: rich
-      ru: богатый
+      en: luxurious, rich
+      ru: роскошный, богатый
     aliases:
       en: [wealthy]
       ru: [состоятельный]
@@ -21,3 +21,5 @@ definitions:
 etymology:
   en: From Persian آبادان (*ābādān*) "thriving, prosperous".
   ru: От персидского آبادان (*ābādān*) "процветающий".
+
+#? def1?

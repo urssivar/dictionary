@@ -13,9 +13,9 @@ definitions:
       en: [dementia]
       ru: [деменция]
     examples:
-      - text: антаҡҡ виһәв
+      - text: антаҡҡ виһора
         translation:
-          en: he became forgetful
-          ru: стал забывчивым
+          en: to become forgetful
+          ru: стать забывчивым
 
 variants: [антуҡӏ]

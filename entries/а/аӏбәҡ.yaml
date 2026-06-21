@@ -7,12 +7,10 @@ forms:
 
 definitions:
   - translation:
-      en: bungler, inept
-      ru: растяпа, неумеха
-    examples:
-      - text: Аӏбәҡли дәӏ ттуғ дарил велле бицӏал мәрцца дуҡҡив.
-        translation:
-          en: While the bungler was staring, the wolves carried off the sheep.
-          ru: Пока растяпа таращился волки унесли овец.
+      en: a person with Down syndrome
+      ru: человек с синдромом Дауна
+  - translation:
+      en: bungler
+      ru: растяпа
 
 derived_from: [аӏ]

@@ -19,7 +19,7 @@ definitions:
         translation:
           en: got some sleep
           ru: поспал
-      - text: анкӏлецци тарх цаҳул
+      - text: анкӏлецци тарх цаҳул #? анкӏлей
         translation:
           en: вздрагивает во сне
           ru: поспал

@@ -9,17 +9,17 @@ forms:
 
 definitions:
   - translation:
-      en:
-      ru: быть в неудобном положении
+      en: to feel awkward, to be embarrassed
+      ru: чувствовать себя неловко, смущаться
     tags: [feeling]
     aliases:
-      en: [letdown, disillusionment]
-      ru: [разочарование, расстройство]
+      en: [inconvenience, disillusionment]
+      ru: [неудобство, расстройство]
     examples:
       - text: Абиккан агул бәәде, цӏил чер дерхой икӏул цағив.
         translation:
-          en:
-          ru:
+          en: Apparently he felt embarrassed, then he came asking for forgiveness.
+          ru: Видимо ему стало неловко, потом пришёл прося прощения.
 
 etymology:
   en: Negative present participle of *биккара* "to want" (cf. *биккан* "wish").

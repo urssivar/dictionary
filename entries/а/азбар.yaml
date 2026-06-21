@@ -14,10 +14,10 @@ definitions:
       en: [courtyard, enclosure, compound]
       ru: [двор, подворье, огороженное пространство]
     examples:
-      - text: Букӏмел ила ккуртте азбари буҡҡил це.
+      - text: Машин азбари цака.
         translation:
-          en: The wind has carried your shirt into the yard.
-          ru: Ветер унёс твою рубашку во двор.
+          en: Drive the car into the yard.
+          ru: Загони машину во двор.
 
 etymology:
   en: From Kumyk *абзар* "yard", possibly from Persian ابزار (*abzâr*) "tool, instrument".

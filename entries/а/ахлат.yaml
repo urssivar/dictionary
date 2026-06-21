@@ -10,5 +10,13 @@ definitions:
       en: usually for a business
       ru: обычно за делом
     tags: [culture]
+    examples:
+      - text: Ахлат даҳанда.
+        translation:
+          en: We'll pay a visit.
+          ru: Мы навестим.
+
 
 derived_from: [аххал]
+
+#? аттаса ахлат ?

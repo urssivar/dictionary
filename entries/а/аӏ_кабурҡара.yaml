@@ -9,10 +9,15 @@ forms:
 
 definitions:
   - translation:
-      en: to gawp
-      ru: таращиться
+      en: to gawp, to stare
+      ru: таращиться, глядеть
     aliases:
-      en: [stare, watch, see]
-      ru: [глядеть, смотреть, видеть]
+      en: [watch, see]
+      ru: [смотреть]
+    examples:
+      - text: Урши аӏ кәҡил велле, бицӏал мәрцца дуҡҡив.
+        translation:
+          en: While the boy was gawping, the wolves carried off the sheep.
+          ru: Пока мальчик таращился, волки унесли овец.
 
-derived_from: [аӏ, кабурҡара]
+derived_from: [аӏ, бурҡара]

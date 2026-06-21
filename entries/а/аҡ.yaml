@@ -16,7 +16,9 @@ definitions:
       en: [garden, grape]
       ru: [сад, виноград]
     examples:
-      - text: Һана шилла аҡацци дәнне да дулшана. 
+      - text: Аҡацци дәнне да дулшана.
         translation:
-          en: Now we are going in the village vineyard to work.
-          ru: Сейчас мы идём работать на сельский виноградник.
+          en: We're going to work in the vineyard.
+          ru: Мы идём работать на виноградник.
+
+#? аҡи, аҡай ?

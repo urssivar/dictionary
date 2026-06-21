@@ -14,9 +14,9 @@ definitions:
       en: [satan, demon, evil spirit]
       ru: [сатана, демон, злой дух]
     examples:
-      - text: албатти гон
+      - text: албатти гон ҳулум
         translation:
-          en: like a hurricane (about a woman)
-          ru: как ураган (о женщине)
+          en: woman like a hurricane
+          ru: женщина словно ураган
 
 variants: [албастти]

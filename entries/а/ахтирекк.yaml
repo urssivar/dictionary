@@ -1,6 +1,9 @@
 headword: ахтирекк
 ipa: aχtiˈɾekː
 tags: [n, loan, turkic]
+forms:
+  - text: ахтирекке
+    gloss: pl
 
 definitions:
   - translation:
@@ -12,7 +15,7 @@ definitions:
         translation:
           en: silver poplar (white poplar)
           ru: тополь белый (тополь серебристый)
-      - text: шан ахитеркк
+      - text: шан ахтирекк
         translation:
           en: black poplar (cottonwood)
           ru: тополь чёрный (осокорь)
@@ -20,5 +23,3 @@ definitions:
 etymology:
   en: From Kumyk *акътерек* "aspen".
   ru: От кумыкского *акътерек* "осина".
-
-### сан ?

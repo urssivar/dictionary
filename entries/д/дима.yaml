@@ -2,12 +2,10 @@ headword: дима
 ipa: diˈma
 tags: [n]
 forms:
-  - text: димре
+  - text: димабе
     gloss: pl
 
 definitions:
   - translation:
-      en: word
-      ru: слово
-
-variants: [дум, див]
+      en: call
+      ru: зов

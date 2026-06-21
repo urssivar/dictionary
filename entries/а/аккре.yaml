@@ -18,6 +18,6 @@ definitions:
           en: Don't talk nonsense!
           ru: Не неси чушь!
 
-variants: [аккор цикӏал, аккорил / аккорте]
+variants: [аккор цикӏал, аккорил]
 derived_from: ["*аккора"]
 see_also: [һаҡре]

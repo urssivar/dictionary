@@ -13,6 +13,11 @@ definitions:
     aliases:
       en: [entrenchment, foxhole]
       ru: [траншея]
+    examples:
+      - text: акупӏ һабирҡҡора #?
+        translation: #? акупӏи ?
+          en: 
+          ru: 
 
 etymology:
   en: From Russian *окоп* "trench".
