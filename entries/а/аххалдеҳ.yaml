@@ -9,6 +9,7 @@ definitions:
   - translation:
       en: hospitality
       ru: гостеприимство
+    tags: [culture]
     aliases:
       en: [welcome]
       ru: [приём, радушие]

@@ -11,6 +11,7 @@ definitions:
   - translation:
       en: community, cohort
       ru: сообщество, когорта
+    tags: [society]
     aliases:
       en: [people, group, generation]
       ru: [люди, группа, поколение]
@@ -21,5 +22,5 @@ definitions:
           ru: Пусть она будет из обитателей рая.
 
 etymology:
-  en: From Arabic أَهْل (*ʔahl*) "people".
-  ru: От арабского أَهْل (*ʔahl*) "люди".
+  en: From Arabic أَهْل (*ʔahl*) "family; people".
+  ru: От арабского أَهْل (*ʔahl*) "семья; люди".

@@ -4,5 +4,10 @@ tags: [intj, loan, iranian]
 
 definitions:
   - translation:
-      en: affirmative particle (right?, isn't it?)
-      ru: утвердительная частица (да же?, правда?)
+      en: presentative particle (here, that's it, this is why)
+      ru: указательная частица (вот, вот так)
+    examples:
+      - text: Һел ҡҡелла ашна.
+        translation:
+          en: And that's why.
+          ru: Вот из-за этого.

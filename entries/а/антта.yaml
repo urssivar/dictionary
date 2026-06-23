@@ -11,7 +11,7 @@ definitions:
   - translation:
       en: forehead
       ru: лоб
+    tags: [body]
     aliases:
       en: [face]
       ru: [лицо]
-    tags: [body]

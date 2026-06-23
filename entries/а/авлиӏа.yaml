@@ -9,10 +9,10 @@ definitions:
   - translation:
       en: insane person
       ru: умалишённый
+    tags: [pejorative]
     aliases:
       en: [madman, lunatic]
       ru: [сумасшедший, безумец]
-    tags: [pejorative]
 
 etymology:
   en: From Arabic أولياء (*awliyāʾ*) "the beloved of God".

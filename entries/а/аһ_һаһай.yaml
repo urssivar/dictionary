@@ -4,15 +4,12 @@ tags: [intj]
 
 definitions:
   - translation:
-      en: dammit
-      ru: ничего себе
-    aliases:
-      en: [what the hell, wtf, geez]
-      ru: [блин]
+      en: dismay or astonishment (oh my, good grief, dammit)
+      ru: досада или удивление (ну надо же, ничего себе, блин)
     examples:
       - text: Аһ һаһай, һежин ди пинцӏа!
         translation:
-          en: Dammit, all this trash!
-          ru: Ничего себе, сколько здесь мусора!
+          en: Good grief, all this trash!
+          ru: Ну надо же, сколько здесь мусора!
 
 derived_from: [аһ]

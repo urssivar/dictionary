@@ -15,8 +15,9 @@ definitions:
     examples:
       - text: Аччутӏе һәдур дарара әнел це.
         translation:
-          en:
-          ru:
+          en: We need to prepare reports.
+          ru: Надо подготовить доклады.
+
 etymology:
   en: From Russian *отчёт* "report".
   ru: От русского *отчёт*.

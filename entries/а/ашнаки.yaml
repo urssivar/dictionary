@@ -12,5 +12,6 @@ definitions:
     aliases:
       en: [friend]
       ru: [друг]
+    tags: [culture]
 
 derived_from: [ашна]

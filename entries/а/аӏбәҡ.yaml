@@ -7,10 +7,12 @@ forms:
 
 definitions:
   - translation:
-      en: a person with Down syndrome
+      en: person with Down syndrome
       ru: человек с синдромом Дауна
+    tags: [disease]
   - translation:
       en: bungler
       ru: растяпа
+    tags: [pejorative]
 
-derived_from: [аӏ]
+derived_from: [аӏ, бурҡара]

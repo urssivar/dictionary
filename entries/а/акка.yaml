@@ -10,7 +10,8 @@ forms:
 definitions:
   - translation:
       en: parting, farewell
-      ru: прощание
+      ru: прощание, расставание
+    tags: [culture]
     aliases:
       en: [bye]
       ru: [пока]

@@ -13,6 +13,7 @@ definitions:
   - translation:
       en: to stutter
       ru: заикаться
+    tags: [disease]
     aliases:
       en: [stammer]
     examples:

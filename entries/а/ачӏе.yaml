@@ -4,19 +4,33 @@ tags: [n]
 forms:
   - text: ачӏел
     gloss: obl
+  - text: ачӏне
+    gloss: pl
 
 definitions:
   - translation:
       en: wheat
       ru: пшеница
-    tags: [plant, food]
+    tags: [plant]
     aliases:
       en: [grain]
       ru: [зерно]
+    note:
+      en: no plural form
+      ru: без формы мн. ч.
     examples:
-      - text: ачӏе декӏона
+      - text: Һештти ачӏе декӏо.
         translation:
-          en: to mill the wheat
-          ru: смолоть пшеницу
+          en: Grind this wheat.
+          ru: Перемоли эту пшеницу.
+  - translation:
+      en: wheat field
+      ru: пшеничное поле
+    tags: [agriculture]
+    examples:
+      - text: шшантала ачӏне
+        translation:
+          en: wheat fields of villagers
+          ru: пшеничные поля сельчан
 
-variants: [~/ачӏен-]
+variants: [~/ачӏен-/~]

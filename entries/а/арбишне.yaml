@@ -6,6 +6,7 @@ definitions:
   - translation:
       en: women's part of the wedding
       ru: женская часть свадьбы
+    tags: [culture]
     note:
       en: A woman didn't celebrate her wedding; on Saturday her family prepared halva and sweets and invited their relatives, and on Sunday the groom's side took her.
       ru: Женщине не играли свадьбу; в субботу её семья халву и сладости и приглашали родственников, а воскресенье её забирала сторона жениха.

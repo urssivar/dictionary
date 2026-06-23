@@ -1,0 +1,16 @@
+headword: чибиссун
+ipa: tʃibiˈsːun
+tags: [adj, cls, vb]
+forms:
+  - text: чибиссун
+    gloss: adj, adv
+
+definitions:
+  - translation:
+      en: persistent
+      ru: упорный
+  - translation:
+      en: listless
+      ru: вялый ### ?
+    aliases:
+      en: [slow, lethargic, languid]

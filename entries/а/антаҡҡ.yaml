@@ -11,7 +11,7 @@ definitions:
       ru: забывчивый человек
     aliases:
       en: [dementia]
-      ru: [деменция]
+      ru: [деменция] #?
     examples:
       - text: антаҡҡ виһора
         translation:

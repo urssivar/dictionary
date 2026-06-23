@@ -1,0 +1,15 @@
+headword: ттәнг биргара
+ipa: ˌtːæng biɾˈgaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: бигара
+    gloss: pfv
+  - text: бижив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to spring, to open up instantly
+      ru: пружинить, резко раскрываться
+
+derived_from: [биргара]

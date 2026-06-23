@@ -11,7 +11,7 @@ definitions:
   - translation:
       en: vineyard
       ru: виноградник
-    tags: [agriculture]
+    tags: [agriculture, structure]
     aliases:
       en: [garden, grape]
       ru: [сад, виноград]

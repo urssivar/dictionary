@@ -9,7 +9,7 @@ forms:
 
 definitions:
   - translation:
-      en: to navigate, to stree
+      en: to navigate, to steer
       ru: подводить, направлять
     aliases:
       en: [influence]
@@ -21,5 +21,3 @@ definitions:
           ru: Подвёл беседу куда ему надо было.
 
 derived_from: [алав, бикара]
-
-#? баживи, бигани

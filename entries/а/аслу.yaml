@@ -12,5 +12,9 @@ definitions:
       en: origin, genesis
       ru: источник, происхождение
     aliases:
-      en: [body, shell, skeleton]
-      ru: [остов, рама, скелет, база]
+      en: [base, source]
+      ru: [база]
+
+etymology:
+  en: From Arabic أَصْل (*ʔaṣl*) "origin; source".
+  ru: От арабского أَصْل (*ʔaṣl*) "земля; происхождение".

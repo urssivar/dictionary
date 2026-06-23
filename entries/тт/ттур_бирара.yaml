@@ -1,0 +1,16 @@
+headword: ттур бирара
+ipa: ˌtːuɾ biˈɾaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: барара
+    gloss: pfv
+  - text: барив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to compromise, to reveal a secret
+      ru: компрометировать, раскрывать секрет
+
+derived_from: [ттура, бирара]
+variants: [ттура биҡҡара]

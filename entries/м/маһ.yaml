@@ -1,0 +1,17 @@
+headword: маь
+ipa: ˈmah
+tags: [intj]
+
+definitions:
+  - translation:
+      en: ha
+      ru: ха
+    aliases:
+      en: [wow, really]
+    examples:
+      - text: маһ, дул һел барһул аччу
+        translation:
+          en: ha, i didn't know that
+      - text: маһ маһ, бизне чи биһәл це
+
+variants: [маӏ]

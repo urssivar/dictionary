@@ -12,15 +12,14 @@ definitions:
       en: sputum, phlegm
       ru: мокрота, слизь
     tags: [body]
+    note:
+      en: usually plural
+      ru: обычно во мн. ч.
     examples:
       - text: Ахтукӏле ах дарил ту дара.
         translation:
           en: Cough up and spit out the phlegm.
           ru: Откархни и выплюнь мокроту.
-
-etymology:
-  en: usually plural
-  ru: обычно мн. ч.
 
 variants: [тутукӏле]
 derived_from: ["*ах", ту]

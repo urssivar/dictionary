@@ -9,7 +9,7 @@ definitions:
   - translation:
       en: shawl
       ru: шаль
-    tags: [clothing]
+    tags: [clothing, culture]
     aliases:
       en: [hijab]
       ru: [хиджаб]

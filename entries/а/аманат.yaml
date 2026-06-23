@@ -6,6 +6,7 @@ definitions:
   - translation:
       en: custody
       ru: попечение
+    tags: [culture]
     aliases:
       en: [guardianship, care]
       ru: [опека, попечительство]
@@ -13,7 +14,7 @@ definitions:
       - text: Шамилли цинна урши аманат варил Әруссай веччив.
         translation:
           en: Shamil gave his son as collateral to the Russians.
-          ru: Шамиль отдал своего сына в залог русским. 
+          ru: Шамиль отдал своего сына в залог русским.
 
 etymology:
   en: From Arabic أَمَانَة (*ʔamāna*) "trust, reliability".

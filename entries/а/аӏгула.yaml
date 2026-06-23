@@ -9,8 +9,8 @@ forms:
 
 definitions:
   - translation:
-      en: palate
-      ru: нёбо
+      en: uvula
+      ru: нёбный язычок
     tags: [body]
 
 derived_from: [аӏ, "*гу"]

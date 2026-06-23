@@ -9,6 +9,7 @@ definitions:
   - translation:
       en: authority
       ru: власть
+    tag: [culture]
     aliases:
       en: [power, influence]
       ru: [влияние, сила]

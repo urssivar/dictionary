@@ -11,7 +11,7 @@ definitions:
   - translation:
       en: weeding
       ru: прополка
-    tags: [agriculture, plant]
+    tags: [agriculture]
     examples:
       - text: арцӏе вәнара
         translation:

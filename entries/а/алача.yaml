@@ -6,7 +6,7 @@ definitions:
   - translation:
       en: cherry plum
       ru: алыча
-    tags: [tree, fruit]
+    tags: [tree, fruit] #? аличне trees ?
     aliases:
       en: [plum]
       ru: [слива]

@@ -9,6 +9,7 @@ definitions:
   - translation:
       en: golden coin
       ru: золотая монета
+    tags: [culture]
     aliases:
       en: [money]
       ru: [деньги]

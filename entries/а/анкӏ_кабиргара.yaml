@@ -13,6 +13,7 @@ definitions:
   - translation:
       en: to doze off
       ru: кимарить
+    tags: [feeling]
     aliases:
       en: [to sleep, to nap]
       ru: [спать, дремать]

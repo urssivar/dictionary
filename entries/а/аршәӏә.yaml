@@ -11,7 +11,7 @@ definitions:
   - translation:
       en: reaper
       ru: жнец
-    tags: [occupation]
+    tags: [occupation, agriculture]
 
 variants: [аршиҡӏән]
 derived_from: [ирҳара]

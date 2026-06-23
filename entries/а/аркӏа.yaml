@@ -9,6 +9,7 @@ definitions:
   - translation:
       en: unfertilized, infertile
       ru: яловый, бесплодный
+    tags: [agriculture]
     examples:
       - text: Идус аркӏал калгун һеж ҡӏвәл.
         translation:

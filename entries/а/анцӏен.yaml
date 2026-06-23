@@ -9,7 +9,7 @@ definitions:
   - translation:
       en: heifer
       ru: тёлка
-    tags: [animal]
+    tags: [agriculture, animal]
     aliases:
       en: [cow, cattle]
       ru: [корова, скот]

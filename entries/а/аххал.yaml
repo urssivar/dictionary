@@ -35,6 +35,7 @@ definitions:
   - translation:
       en: kunak (sworn guest-friend)
       ru: кунак
+    tags: [culture]
     examples:
       - text: Һет шшилцци ниссала әһ ахле би.
         translation:

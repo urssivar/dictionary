@@ -13,7 +13,7 @@ definitions:
       en: [price]
       ru: [зарплата, цена]
     examples:
-      - text: Усттал цинела әчулла алапа һассив.
+      - text: Усттал цинна әчулла алапа һассив.
         translation:
           en: The master took the wage for his work.
           ru: Мастер взял оплату за свою работу.

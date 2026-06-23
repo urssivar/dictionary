@@ -9,10 +9,10 @@ definitions:
   - translation:
       en: fool, stupid
       ru: глупец, тупой
+    tags: [pejorative]
     aliases:
       en: [idiot, simpleton]
       ru: [дурак, идиот]
-    tags: [pejorative]
 
 etymology:
   en: From Arabic أبدال (*abdāl*) "God's saint".

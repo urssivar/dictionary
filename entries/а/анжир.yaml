@@ -8,7 +8,18 @@ definitions:
   - translation:
       en: fig
       ru: инжир
-    tags: [tree, fruit]
+    tags: [fruit]
+    aliases:
+      ru: [фига]
+    note:
+      en: no plural form
+      ru: без формы мн. ч.
+  - translation:
+      en: fig tree
+      ru: инжировое дерево
+    aliases:
+      ru: [смоковница]
+    tags: [tree]
 
 etymology:
   en: From Persian انجیر (*anjir*) "fig".

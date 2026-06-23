@@ -13,14 +13,14 @@ definitions:
       en: [currency, cash]
       ru: [валюта, наличные]
     examples:
-      - text: Арцла ҡӏимат абел.
-        translation:
-          en: Money no longer has cost.
-          ru: У денег больше нет стоимости.
       - text: Тукенчий чӏаҡӏонла арц деччивда.
         translation:
-          en: Paid the seller for the bread.
-          ru: Оплатил продавцу за хлеб.
+          en: I paid the seller for the bread.
+          ru: Я оплатил продавцу за хлеб.
+      - text: Арцла ҡӏимат бейкку.
+        translation:
+          en: Money has no cost. (about inflation)
+          ru: У денег нет стоимости. (про инфляцию)
   - translation:
       en: silver
       ru: серебро

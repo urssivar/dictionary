@@ -6,10 +6,10 @@ definitions:
   - translation:
       en: pain
       ru: боль
+    tags: [child, feeling]
     aliases:
       en: [ache, hurt]
       ru: [недомогание]
-    tags: [child, feeling]
     examples:
       - text: Анни агур у?
         translation:

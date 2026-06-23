@@ -9,6 +9,7 @@ definitions:
   - translation:
       en: impression, effect
       ru: впечатление, эффект
+    tags: [feeling]
     aliases:
       en: [impact]
       ru: [воздействие]

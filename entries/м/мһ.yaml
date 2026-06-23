@@ -1,10 +1,8 @@
 headword: мһ
 ipa: mh
 tags: [intj]
+
 definitions:
   - translation:
-      en: mhm
-      ru: мм
-    aliases:
-      en: ["yes", yeah]
-      ru: [да, ага]
+      en: mhm, mm-hm (yes)
+      ru: мгм, угу (да)

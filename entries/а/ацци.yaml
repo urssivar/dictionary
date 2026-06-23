@@ -2,14 +2,14 @@ headword: ацци
 ipa: aˈtsːi
 tags: [n]
 forms:
-  - text: аццне
+  - text: аццне #? аццбе
     gloss: pl
 
 definitions:
   - translation:
       en: respected elder man
       ru: уважаемый пожилой
-    tags: [culture]
+    tags: [ culture]
     aliases:
       en: [elder]
       ru: [старший]

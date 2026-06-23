@@ -12,7 +12,7 @@ definitions:
     examples:
       - text: Дами аирғиж ғай.
         translation:
-          en: A language incomprehensible to me
+          en: A language incomprehensible to me.
           ru: Непонятный для меня язык. #?
 
 etymology:

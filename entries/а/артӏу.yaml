@@ -9,6 +9,7 @@ definitions:
   - translation:
       en: frivolous woman
       ru: легкомысленная женщина
+    tag: [pejorative]
     aliases:
       en: [stupid, fool]
       ru: [дура]

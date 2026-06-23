@@ -9,3 +9,4 @@ definitions:
   - translation:
       en: mutilation, disability
       ru: увечье, инвалидность
+    tags: [disease]

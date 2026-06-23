@@ -23,11 +23,11 @@ definitions:
   - translation:
       en: long tail
       ru: длинный хвост
-    tags: [tool]
+    tags: [body]
     examples:
       - text: йәбула арже
         translation:
           en: horse tail
           ru: лошадиный хвост
 
-#? стебель цветка, пшеницы
+#? стебель цветка, пшеницы; вал машины

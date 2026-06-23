@@ -6,8 +6,17 @@ definitions:
   - translation:
       en: free from vegetation
       ru: свободный от растительности
+    aliases:
+      en: [clearing]
+      ru: [поляна]
     examples:
       - text: Һехин ачуҡле це, һехин майда би.
         translation:
-          en:
-          ru:
+          en: There are no trees down there, there is a clearing down there.
+          ru: Там внизу нет деревьев, там внизу есть поляна.
+
+etymology:
+  en: Possible from Kumyk *ачыкъ* "open, clear".
+  ru: Возможно от кумыкского *ачыкъ* "открытый, ясный".
+
+see_also: [әчиҡ]

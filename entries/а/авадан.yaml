@@ -7,7 +7,7 @@ definitions:
       en: spacious
       ru: просторный
     examples:
-      - text: авадан дуне
+      - text: авадан дуне #? аваданакк 
         translation:
           en: раздолье
           ru: expanse

@@ -10,7 +10,12 @@ definitions:
       en: bird
       ru: птица
     tags: [bird]
+    examples:
+      - text: Әрҡӏо ра ҡҡвәна ра аҳлиӏне це.
+        translation:
+          en: И курица, и ворона — птицы.
+          ru: Both the chicken and the crow are birds.
 
-variants: [аҳлиҡӏә]
 derived_from: ["*аҳора"]
-see_also: [һиҳора, бежлиӏә]
+variants: [аҳлиҡӏә]
+see_also: [һиҳора]

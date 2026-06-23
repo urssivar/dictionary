@@ -1,11 +1,13 @@
 headword: һм
 ipa: hm
 tags: [intj]
+
 definitions:
   - translation:
-      en: hmm
-      ru: хм
+      en: hmm (thinking, considering)
+      ru: хм (раздумье)
     examples:
-      - text: һу, белки
+      - text: һм, белки
         translation:
           en: hmm, maybe
+          ru: хм, может быть
