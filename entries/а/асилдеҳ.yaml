@@ -1,6 +1,9 @@
-headword: ас
-ipa: ˈas
+headword: асилдеҳ
+ipa: asilˈdex
 tags: [n]
+forms:
+  - text: asildexːe
+    gloss: pl
 
 definitions:
   - translation:
@@ -10,4 +13,4 @@ definitions:
       en: [privilege]
       ru: [привилегия]
 
-#? асилдеҳ
+derived_from: [асил]

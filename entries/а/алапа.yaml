@@ -4,6 +4,8 @@ tags: [n, loan]
 forms:
   - text: алапан
     gloss: obl
+  - text: алапне
+    gloss: pl
 
 definitions:
   - translation:
@@ -17,5 +19,3 @@ definitions:
         translation:
           en: The master took the wage for his work.
           ru: Мастер взял оплату за свою работу.
-
-#? pl ?

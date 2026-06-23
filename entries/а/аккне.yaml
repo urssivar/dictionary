@@ -8,15 +8,19 @@ forms:
 definitions:
   - translation:
       en: absence
-      ru: отсутствие #? һеж ҡӏамцӏ аккне
+      ru: отсутствие
     aliases:
       en: [lack]
       ru: [нехватка]
     examples:
-      - text: Атта ҡил аккне дул абаһурда.
+      - text: Ҡил диг аккне дул абаһурда.
         translation:
-          en: I did not know father is not home.
-          ru: Я не знал, что отец не дома.
+          en: I didn't know there was no meat at home.
+          ru: Я не знал, что дома нет мяса.
+      - text: Ду зәипле аккне царацци мабурса.
+        translation:
+          en: Don't tell others that I'm not sick.
+          ru: Не рассказывай другим, что я не болен.
 
 etymology:
   en: Masdar from the historic verb *\*аккора* (cf. *акку* "not").

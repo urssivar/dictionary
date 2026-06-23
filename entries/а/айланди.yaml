@@ -14,16 +14,13 @@ definitions:
       en: [round dance, circle dance]
       ru: [хоровод, круговой танец]
     examples:
-      - text: Айландили цәбун бази барара.
+      - text: Айландили базил кабиһәв.
         translation:
-          en: Came to the circle to dance.
-          ru: Пришли на круг танцевать.
+          en: They started dancing on the circle.
+          ru: Стали танцевать на круге.
 
 etymology:
   en: From Kumyk *айландыр* "rotation".
   ru: От кумыкского *айландыр* "вращение".
 
 variants: [ҡҡайландир]
-
-#? айландили бази барив
-#? pl, айлан ?

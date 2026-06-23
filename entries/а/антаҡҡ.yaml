@@ -7,11 +7,8 @@ forms:
 
 definitions:
   - translation:
-      en: forgetful person
-      ru: забывчивый человек
-    aliases:
-      en: [dementia]
-      ru: [деменция] #?
+      en: forgetful, absent-minded person
+      ru: забывчивый, рассеянный человек
     examples:
       - text: антаҡҡ виһора
         translation:

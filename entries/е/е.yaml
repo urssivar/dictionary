@@ -1,9 +1,10 @@
 headword: е
 ipa: ˈe
 tags: [intj]
-note:
-  en: '*еь*'
+
 definitions:
   - translation:
-      en: 'yes'
+      en: "yes"
       ru: да
+
+variants: [еӏ, еһ]

@@ -14,7 +14,7 @@ definitions:
       en: [courtyard, enclosure, compound]
       ru: [двор, подворье, огороженное пространство]
     examples:
-      - text: Машин азбари цака. #?
+      - text: Машин азбари цака.
         translation:
           en: Drive the car into the yard.
           ru: Загони машину во двор.

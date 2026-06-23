@@ -14,8 +14,8 @@ definitions:
       en: [entrenchment, foxhole]
       ru: [окоп]
     examples:
-      - text: акупӏ һабирҡҡора #?
-        translation: #? акупӏи кичив ?
+      - text: акупӏ һабирҡҡора
+        translation:
           en: to dig a trench
           ru: выкопать окоп
 

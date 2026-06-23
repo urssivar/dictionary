@@ -4,13 +4,17 @@ tags: [adj, loan, iranian]
 
 definitions:
   - translation:
-      en: spacious
-      ru: просторный
+      en: spacious, extensive
+      ru: просторный, обширный
     examples:
-      - text: авадан дуне #? аваданакк 
+      - text: авадан дуне
         translation:
-          en: раздолье
-          ru: expanse
+          en: expanse
+          ru: раздолье
+      - text: авадан чархла ваһ
+        translation:
+          en: big man (about body)
+          ru: крупный человек (о теле)
   - translation:
       en: luxurious, rich
       ru: роскошный, богатый

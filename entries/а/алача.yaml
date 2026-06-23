@@ -1,15 +1,25 @@
 headword: алача
 ipa: aˈlatʃa
 tags: [n, loan, iranian]
+forms:
+  - text: алачне
+    gloss: pl
 
 definitions:
   - translation:
       en: cherry plum
       ru: алыча
-    tags: [tree, fruit] #? аличне trees ?
+    tags: [fruit]
     aliases:
       en: [plum]
       ru: [слива]
+    note:
+      en: no plural form
+      ru: без формы мн. ч.
+  - translation:
+      en: cherry plum tree
+      ru: алычовое дерево
+    tags: [tree]
 
 etymology:
   en: From Persian آلوچه (*âluče*) "damson, plum".

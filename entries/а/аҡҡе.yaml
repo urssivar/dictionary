@@ -2,8 +2,8 @@ headword: аҡҡе
 ipa: ˈaqːe
 tags: [n]
 forms:
-  - text: аҡҡин
-    gloss: obl
+  - text: аҡҡе
+    gloss: nom, loc
   - text: аҡҡне
     gloss: pl
 
@@ -16,12 +16,10 @@ definitions:
       en: [fireplace, fire]
       ru: [огонь, костёр]
     examples:
-      - text: Аҡҡинцци цӏа һабиҡӏун це.
+      - text: Аҡҡе цӏа һабиҡӏун це.
         translation:
           en: A fire is lit in the hearth.
           ru: Огонь разожжён в очаге.
 
 variants: [әҡҡи]
 see_also: [цӏиппа]
-
-#? loc, obl

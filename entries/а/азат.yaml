@@ -4,15 +4,12 @@ tags: [adj, loan, turkic]
 
 definitions:
   - translation:
-      en: free
-      ru: свободный
+      en: free, independent
+      ru: свободный, независимый
     aliases:
-      en: [independent, unimpeded]
-      ru: [независимый, вольный]
+      en: [unimpeded]
+      ru: [вольный]
 
 etymology:
   en: From Kumyk *азат*, ultimately from Persian آزاد (*āzād*) "free".
   ru: От кумыкского *азат*, восходит к персидскому آزاد (*āzād*) "свободный".
-
-#? независимый, циндеҳ, цейдеҳ ?
-#? азаттил?

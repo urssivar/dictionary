@@ -9,9 +9,12 @@ definitions:
     aliases:
       en: [lease]
       ru: [наём]
+    examples:
+      - text: ариндли һассара
+        translation:
+          en: to rent
+          ru: взять в аренду
 
 etymology:
   en: From Russian *аренда* "rent".
   ru: От русского *аренда*.
-
-#? ариндли ассив

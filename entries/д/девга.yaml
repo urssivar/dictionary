@@ -10,3 +10,8 @@ definitions:
   - translation:
       en: closed
       ru: закрытый
+    examples:
+      - text: девга бигара
+        translation:
+          en:
+          ru: закрыться, укрыться

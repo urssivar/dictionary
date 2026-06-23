@@ -1,6 +1,9 @@
-headword: адаһре
-ipa: ˈadahɾe
+headword: адаһрей
+ipa: adahˈɾej
 tags: [n, vb]
+forms:
+  - text: адаһрейте
+    gloss: pl
 
 definitions:
   - translation:
@@ -11,6 +14,5 @@ etymology:
   en: From the negative of *барьара* "to know".
   ru: От отрицательной формы *барьара* "знать".
 
+variants: [адаһре/адаһрел-/адаһрибе, адаһунде]
 derived_from: [барһара]
-
-#? obl, адаһунде, ex

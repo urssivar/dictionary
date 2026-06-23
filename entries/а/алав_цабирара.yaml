@@ -15,7 +15,7 @@ definitions:
       en: [fence, encircle, surround]
       ru: [окружить, обнести, изгородить]
     examples:
-      - text: Дәғә кабәҡил ҡу алав цабараба.
+      - text: Дәғә кабәҡил ҡу алав цабарабай.
         translation:
           en: Давайте поставим забор и огородим сад.
           ru: Let's put up a fence and enclose the garden.
@@ -32,6 +32,3 @@ definitions:
           ru: Отец приобнял своих детей.
 
 derived_from: [алав, бирара]
-
-#? цабарав 1.opt ?
-#? full paradigm, 2pl -й?

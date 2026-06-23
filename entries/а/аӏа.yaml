@@ -6,13 +6,8 @@ definitions:
   - translation:
       en: "no"
       ru: нет
-    aliases:
-      en: [nope]
-      ru: [неа]
     examples:
       - text: Аӏа, ҡил аккоде.
         translation:
           en: No, I'm not home.
           ru: Нет, я не дома.
-
-variants: [уӏу]

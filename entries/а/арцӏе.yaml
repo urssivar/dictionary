@@ -6,6 +6,8 @@ forms:
     gloss: nom, loc
   - text: арцӏи
     gloss: obl
+  - text: арцӏне
+    gloss: pl
 
 definitions:
   - translation:
@@ -17,6 +19,14 @@ definitions:
         translation:
           en: to go weeding
           ru: пойти на прополку
+  - translation:
+      en: overgrown field
+      ru: заросшее поле
+    examples:
+      - text: Даҡил арцӏне чи дичил це дами идус.
+        translation:
+          en: Lots of overgrown fields this year for me.
+          ru: Много заросших полей в этом году для меня.
 
 derived_from: [ирцӏара]
 see_also: [арше]

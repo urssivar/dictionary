@@ -1,8 +1,9 @@
 headword: анжир
 ipa: anˈʒiɾ
 tags: [n, loan, iranian]
-
-#? tree pl
+forms:
+  - text: анжирте
+    gloss: pl
 
 definitions:
   - translation:

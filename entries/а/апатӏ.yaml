@@ -7,8 +7,11 @@ forms:
 
 definitions:
   - translation:
-      en: measure, system
-      ru: мера, система #?
+      en: norm, order
+      ru: норма, порядок
+    aliases:
+      en: [system, measure]
+      ru: [система, мера]
     examples:
       - text: Һар цикӏалла цинна апатӏ бирһор.
         translation:

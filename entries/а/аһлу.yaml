@@ -11,7 +11,6 @@ definitions:
   - translation:
       en: community, cohort
       ru: сообщество, когорта
-    tags: [society]
     aliases:
       en: [people, group, generation]
       ru: [люди, группа, поколение]
