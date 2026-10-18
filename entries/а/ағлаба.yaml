@@ -16,7 +16,7 @@ definitions:
       en: [skillet, kitchenware]
       ru: [посуда]
     examples:
-      - text: Ағлабан ккарттушкка дерцӏа.
+      - text: Ағлабан ккарттуш дерцӏа.
         translation:
           en: Fry potatoes in a pan.
           ru: Пожарь картшку в сковородке.

@@ -1,0 +1,13 @@
+headword: чав
+ipa: ˈtʃaβ
+tags: [n]
+
+definitions:
+  - translation:
+      en: rumor
+      ru: слух
+    examples:
+      - text: Чав бегур.
+        translation:
+          en: A rumor started.
+          ru: Пошёл слух.

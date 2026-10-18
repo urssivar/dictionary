@@ -1,10 +1,14 @@
 headword: зен
 ipa: ˈzen
 tags: [n]
-note:
-  en: '*зера*'
+
 definitions:
   - translation:
       en: farmland
       ru: сельхоз угодья
     tags: [nature]
+    examples:
+      - text: зенцци баҳан һәйгон
+        translation:
+          en: livestock [incorrectly] entering agricultural land (instead of pasture)
+          ru: скот, [неверно] захаживающий в сельхоз угодья (вместо пастбищ)

@@ -1,17 +1,21 @@
-headword: билекко
-ipa: bileˈkːʷa
+headword: Билекко
+ipa: biˈlekːʷa
 tags: [n]
 forms:
-  - text: билеккон
-    gloss: "?"
-  - text: билеккола
-    gloss: "?"
+  - text: Билеккон
+    gloss: dnz.sg
+  - text: Билеккне
+    gloss: dnz.pl
 
 definitions:
   - translation:
-      en: lakia
-      ru: лакия
-    tags: [toponym]
+      en: Lakia
+      ru: Лакия
+    tags: [placename, people]
     examples:
-      - text: атта билекконхалса це
-      - text: һеж шилцци чӏвел билеккола кулпет һербирһор
+      - text: Атта Билекконхалса це.
+      - text: Һеж шилцци чӏвел Билеккола кулпет һер бирһор.
+
+note:
+  en: Also *Баҡҡарихал*.
+  ru: Ещё *Баҡҡарихал*.

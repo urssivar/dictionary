@@ -1,0 +1,15 @@
+headword: әбал ибил
+ipa: ˈæbal iˌbil
+tags: [adj, n, num]
+
+definitions:
+  - translation:
+      en: third
+      ru: третий
+    examples:
+      - text: Рирсси әбал ибил ккаласцци це.
+        translation:
+          en: The girl is in third grade.
+          ru: Девочка учится в третьем классе.
+
+variants: [әвибил, ~ ив, ~ бив, ~ бибил, ~/~ ивте]

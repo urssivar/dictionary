@@ -1,10 +1,11 @@
-headword: чӏурчӏур
-ipa: tʃʼuɾˈtʃʼuɾ
+headword: чӏурчӏул
+ipa: tʃʼuɾˈtʃʼul
 tags: [n]
-note:
-  en: '*аринж*'
+
 definitions:
   - translation:
       en: measles
       ru: корь
     tags: [body, disease]
+
+variants: [чӏурчӏур, аринж]

@@ -2,13 +2,17 @@ headword: әв
 ipa: ˈæβ
 tags: [n]
 forms:
-  - text: әв
-    gloss: abs
-  - text: әвне
+  - text: әбе
     gloss: pl
+
 definitions:
   - translation:
       en: noose
       ru: петля
     aliases:
       en: [loop]
+    examples:
+      - text: Халчани әбе чи кадиҳо.
+        translation:
+          en: Secure the loops on the carpet.
+          ru: Зафиксируй петли на ковре.

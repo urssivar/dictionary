@@ -2,11 +2,15 @@ headword: әбал
 ipa: ˈæbal
 tags: [num]
 forms:
-  - text: әбал
-    gloss: card
   - text: әв
     gloss: root, obl
+
 definitions:
   - translation:
       en: three
       ru: три
+    examples:
+      - text: чиркала ссәәт әвцци
+        translation:
+          en: at three o'clock in the morning
+          ru: в три часа ночи

@@ -1,0 +1,19 @@
+headword: капари
+ipa: kapaˈɾi
+tags: [n]
+forms:
+  - text: капарин
+    gloss: obl
+  - text: капарибе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: large agricultural field
+      ru: большое сельхоз поле
+    tags: [agriculture]
+    examples:
+      - text: капари ирҳа
+        translation:
+          en: 
+          ru: 

@@ -1,0 +1,16 @@
+headword: холел
+ipa: χʷaˈlel
+tags: [n]
+forms:
+  - text: холелте
+    gloss: pl
+
+definitions:
+  - translation:
+      en: senior
+      ru: старший
+    aliases:
+      en: [elder]
+
+derived_from: [хула]
+variants: [холаил, хулел]

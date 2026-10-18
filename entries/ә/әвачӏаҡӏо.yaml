@@ -3,15 +3,20 @@ ipa: ˈæβatʃʼaqʼʷa
 tags: [n]
 forms:
   - text: әвачӏаҡӏон
+    gloss: obl
+  - text: әвачӏиҡӏне
     gloss: pl
 
 definitions:
   - translation:
-      en: layered bread
+      en: puff bread
       ru: слоёный хлеб
     tags: [food]
-    aliases:
-      en: [puff]
+    examples:
+      - text: Дуҡҡа һештти әвачӏаҡӏо.
+        translation:
+          en: Take these puff breads.
+          ru: Отнеси эти слоеные хлеба.
 
 derived_from: [әва, чӏаҡӏо]
-variants: [берккуре, һәлбуч]
+variants: [кимрәҡҡ, берккуре]

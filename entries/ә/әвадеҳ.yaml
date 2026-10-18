@@ -1,9 +1,19 @@
 headword: әвадеҳ
 ipa: æβaˈdex
 tags: [n]
+forms:
+  - text: әвадеҳҳе
+    gloss: pl
+
 definitions:
   - translation:
-      en: grease
+      en: fat, grease
       ru: жир
-    aliases:
-      en: [fat, oil]
+    tags: [food]
+    examples:
+      - text: Нерғицци әвадеҳ камле це.
+        translation:
+          en: There is little fat in the soup.
+          ru: В супе мало жира.
+
+derived_from: [әва]

@@ -1,11 +1,20 @@
-headword: холле
-ipa: ˈχʷalle
+headword: хол
+ipa: ˈχʷal
 tags: [adv]
-etymology:
-  en: Might be related to *хула* "big".
+
 definitions:
   - translation:
       en: much
       ru: много (неисч.)
     aliases:
       en: [lot]
+    examples:
+      - text: Хол ккашил макадира
+        translation:
+          en:
+          ru:
+
+variants: [холле]
+etymology:
+  en: Might be related to *хула* "big, great".
+  ru: Может быть связано с *хула* "большой, великий".

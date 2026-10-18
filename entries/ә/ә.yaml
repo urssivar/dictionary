@@ -1,0 +1,24 @@
+headword: ә
+ipa: ˈæ
+tags: [n]
+forms:
+  - text: әл
+    gloss: obl
+
+definitions:
+  - translation:
+      en: yell, screaming
+      ru: ор, крик
+    examples:
+      - text: Ттура ди әлли ду ҡҡелей вишурда.
+        translation:
+          en: The screaming on the street woke me up.
+          ru: Я проснулся от ора на улице.
+      - text: Цили ә дикӏул да йе нишша?
+        translation:
+          en: Why are you yelling?
+          ru: Почему вы орёте?
+      - text: ә диҳора
+        translation:
+          en: to yell
+          ru: вскринуть

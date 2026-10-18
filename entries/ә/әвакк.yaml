@@ -1,8 +1,19 @@
 headword: әвакк
 ipa: æˈβakː
 tags: [n]
+forms:
+  - text: әваккурбе
+    gloss: pl
+
 definitions:
   - translation:
-      en: fertile soil
-      ru: плодородная почва
-    tags: [nature]
+      en: black soil (chernozem)
+      ru: чернозём
+    tags: [nature, agriculture]
+    examples:
+      - text: дубурла әваккурбе
+        translation:
+          en: mountain chernozems
+          ru: горные чернозёмы
+
+derived_from: [әва]

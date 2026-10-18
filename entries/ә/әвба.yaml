@@ -1,7 +1,15 @@
 headword: әвба
 ipa: æβˈba
 tags: [num, cls]
+
 definitions:
   - translation:
       en: three groups
       ru: три группы
+    examples:
+      - text: Һеж ере әвба ахле цабағив.
+        translation:
+          en: This afternoon guests came three times.
+          ru: Сегодня днём гости приходили трижды.
+
+derived_from: [әбал]

@@ -1,10 +1,18 @@
 headword: әва
-ipa: æˈβa
+ipa: ˈæβa
 tags: [adj]
+
 definitions:
   - translation:
-      en: oily
-      ru: жирный
+      en: oily, fatty
+      ru: жирный, масляный
     tags: [food, body]
-    aliases:
-      en: [greasy]
+    examples:
+      - text: Читтинег әвал це.
+        translation:
+          en: Sour cream is fatty.
+          ru: Сметана жирна.
+      - text: Дигулли дила нәҡҡбе әва диһухәв.
+        translation:
+          en: The meat made my hands greasy.
+          ru: Из-за мяса мои руки стали жирными.

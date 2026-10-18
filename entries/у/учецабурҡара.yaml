@@ -1,0 +1,15 @@
+headword: учецабурҡара
+ipa: utʃetsabuɾˈqaɾa
+tags: [v, tr, ntr, cls]
+forms:
+  - text: учецабәҡара
+    gloss: pfv
+  - text: учецабәҡив
+    gloss: pret
+  - text: учецабурҡара
+    gloss: ipfv
+
+definitions:
+  - translation:
+      en: to organize, to assemble
+      ru: организовывать, собирать

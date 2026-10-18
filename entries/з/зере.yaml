@@ -1,0 +1,18 @@
+headword: зере
+ipa: ˈzeɾe
+tags: [n]
+forms:
+  - text: зирбе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: fallow (unsown field)
+      ru: пар (незасеянное поле)
+    examples:
+      - text: Идус зерала ҡуцци ккарттуш кабатур.
+        translation:
+          en: This year, potatoes were planted in fallow.
+          ru: В этом году картошку посадили на паре.
+
+variants: [зера]

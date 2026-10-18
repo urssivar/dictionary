@@ -1,0 +1,16 @@
+headword: пурсат
+ipa: puɾˈsat
+tags: [n, loan, arabic]
+forms:
+  - text: пурсате
+    gloss: pl
+
+definitions:
+  - translation:
+      en: convenient time, opportunity
+      ru: удобное время, возможность
+    examples:
+      - text: Пурсат абичив һел цаҡҡара.
+        translation:
+          en:
+          ru:

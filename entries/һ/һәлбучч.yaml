@@ -1,0 +1,14 @@
+headword: һәлбучч
+ipa: hælˈbutʃː
+tags: [n]
+forms:
+  - text: һәлбучче
+    gloss: pl
+
+definitions:
+  - translation:
+      en: puff bread with fat
+      ru: слоёный хлеб с жиром
+    tags: [food]
+    
+derived_from: [һәле]

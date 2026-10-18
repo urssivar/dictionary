@@ -1,14 +1,15 @@
-headword: швел
-ipa: ˈʃʷel
+headword: швеел
+ipa: ˈʃʷeʔel
 tags: [num]
 forms:
-  - text: швел
-    gloss: card
-  - text: шул
-    gloss: obl
   - text: шу
     gloss: root
+  - text: шул
+    gloss: obl
+
 definitions:
   - translation:
       en: five
       ru: пять
+
+variants: [швел, швал]

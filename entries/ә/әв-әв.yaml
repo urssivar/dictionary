@@ -1,7 +1,16 @@
 headword: әв-әв
 ipa: ˈæβ-æβ
 tags: [adv, num]
+
 definitions:
   - translation:
       en: by three
       ru: по три
+    examples:
+      - text: Һештти ҡҡампите әв-әв дуртӏа.
+        translation:
+          en: Give these candies out in threes.
+          ru: Раздай эти конфеты по три штуки.
+
+derived_from: [әбал]
+variants: [әв-әвле]

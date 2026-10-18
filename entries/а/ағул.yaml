@@ -1,0 +1,14 @@
+headword: Ағул
+ipa: aˈʁul
+tags: [n]
+forms:
+  - text: Ағуллан
+    gloss: dnz.sg
+  - text: Ағулла
+    gloss: dnz.pl
+
+definitions:
+  - translation:
+      en: Agul
+      ru: Агул
+    tags: [placename, people]

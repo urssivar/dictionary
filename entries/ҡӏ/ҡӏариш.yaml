@@ -1,14 +1,12 @@
 headword: ҡӏариш
 ipa: qʼaˈɾiʃ
 tags: [n]
-note:
-  en: "*дуклуш*"
 forms:
-  - text: ҡӏариш
-    gloss: abs
   - text: ҡӏаришне
     gloss: pl
+
 definitions:
   - translation:
       en: shepherd
       ru: пастух
+    tags: [occupation]

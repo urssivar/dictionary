@@ -6,14 +6,13 @@ forms:
     gloss: obl
   - text: Иғдикӏан
     gloss: dnz.sg
+  - text: Иғдичӏила
+    gloss: dnz.pl
 
 definitions:
   - translation:
       en: Adaga (village)
       ru: Адага (село)
     tags: [placename]
-    aliases:
-      en: [village]
-      ru: [село]
 
 variants: [Адағай]

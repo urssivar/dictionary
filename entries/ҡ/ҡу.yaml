@@ -6,11 +6,10 @@ forms:
     gloss: abs
   - text: ҡубе
     gloss: pl
+
 definitions:
   - translation:
-      en: kitchen garden
-      ru: огород
+      en: agricultural field
+      ru: сельхоз поле
     aliases:
       en: [field, farm]
-
-#? агаруд

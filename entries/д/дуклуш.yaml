@@ -1,0 +1,16 @@
+headword: дуклуш
+ipa: dukˈluʃ
+tags: [n]
+forms:
+  - text: дуклушне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: strong leather
+      ru: прочная кожа
+    tags: [occupation]
+
+derived_from: [бикара]
+variants: [дукруш, букӏун]
+see_also: [ҡӏариш, дәҡнуш]

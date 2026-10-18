@@ -1,0 +1,19 @@
+headword: әва бирара
+ipa: ˌæβa biˈɾaɾa
+tags: [n, tr, cls]
+forms:
+  - text: барара
+    gloss: pfv
+  - text: барив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to fertilize
+      ru: удабривать
+    tags: [agriculture]
+    examples:
+      - text: Дек цачил ҡу әва барив.
+        translation:
+          en: They brought manure and fertilized the field.
+          ru: Привезли навоз и удобрили поле.

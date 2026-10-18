@@ -1,0 +1,16 @@
+headword: Шшинал
+ipa: ʃːiˈnal
+tags: [n]
+forms:
+  - text: Шшилан
+    gloss: dnz.sg
+  - text: Шшине
+    gloss: dnz.pl
+
+definitions:
+  - translation:
+      en: Tabasaran
+      ru: Табасаран
+    tags: [placename, people]
+
+variants: [~/~/Шшиле]
