@@ -1,10 +1,19 @@
-headword: әвзурме
-ipa: æβzuɾˈme
-tags: [n, pl]
-etymology:
-  en: From *яв* "tri-" + pl. of *зуре* "star".
+headword: әвзур
+ipa: æβˈzuɾ
+tags: [n]
+forms:
+  - text: әвзурме
+    gloss: pl
+
 definitions:
   - translation:
       en: constellation
       ru: созвездие
     tags: [nature]
+    examples:
+      - text: Әрбичӏила әвзур
+        translation:
+          en: constellation Kubachi
+          ru: кубачинское созвездие
+
+derived_from: [әбал, зуре]

@@ -1,9 +1,19 @@
 headword: әвҡӏәрәҡӏ
 ipa: æβqʼæˈɾæqʼ
 tags: [adj]
+
 definitions:
   - translation:
-      en: fruitful
-      ru: урожайный
-    aliases:
-      en: [branchy, lush]
+      en: substantial, abundant
+      ru: содержательный, обильный
+    examples:
+      - text: Ккалкка әвҡӏәрәҡӏле берҡил це.
+        translation:
+          en: The tree blossomed plentifully.
+          ru: Дерево обильно зацвело.
+      - text: әвҡӏәрәҡӏ такалип
+        translation:
+          en: substantial greeting
+          ru: содержательное приветствие
+
+derived_from: [әбал]

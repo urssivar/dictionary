@@ -1,9 +1,13 @@
 headword: әвбаг
 ipa: æβˈbag
 tags: [adj]
+
 definitions:
   - translation:
       en: ternary
       ru: троичный
     aliases:
       en: [three, triple]
+      ru: [три, тройственный]
+
+derived_from: [әбал, баг]

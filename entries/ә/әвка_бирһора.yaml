@@ -1,18 +1,21 @@
 headword: әвка бирһора
 ipa: æβˌka biɾˈhʷaɾa
 tags: [v, ntr, cls]
-note:
-  en: "*буҡье бирьора*, *азир куц бирьора*"
 forms:
-  - text: әвка биһора
+  - text: биһора
     gloss: pfv
-  - text: әвка биһәв
+  - text: биһәв
     gloss: pret
-  - text: әвка бирһора
-    gloss: ipfv
+
 definitions:
   - translation:
-      en: to get tormented
-      ru: измучиваться
-    aliases:
-      en: [exhaust, fatigue]
+      en: to be exhausted, to be extremely tired
+      ru: измучиваться, предельно уставать
+    examples:
+      - text: Улшун әвка виһәвда.
+        translation:
+          en: I was exhausted working.
+          ru: Я измучился работая.
+
+derived_from: [әбал, бирһора]
+variants: [буҡӏе ~]

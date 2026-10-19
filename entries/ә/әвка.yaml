@@ -1,7 +1,15 @@
 headword: әвка
 ipa: æβˈka
 tags: [adj]
+
 definitions:
   - translation:
       en: triple
-      ru: тройной
+      ru: тройной, трёхслойный
+    examples:
+      - text: Ҡағар чӏуркал камле це, әвка кабара.
+        translation:
+          en: Twice is not enough, fold the paper three times.
+          ru: В два раза не хватает, в три раза сложи.
+      
+derived_from: [әбал]

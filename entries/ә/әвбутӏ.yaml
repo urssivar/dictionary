@@ -1,12 +1,18 @@
 headword: әвбутӏ
-ipa: ˈæβbutʼ
+ipa: æβˈbutʼ
 tags: [n]
 forms:
-  - text: әвбутӏ
-    gloss: abs
-  - text: әвбутӏе
+  - text: әвбутӏне
     gloss: pl
+
 definitions:
   - translation:
       en: one third
       ru: треть
+    examples:
+      - text: әвбутӏла чӏвел бутӏа
+        translation:
+          en: two thirds
+          ru: две трети
+
+derived_from: [әбал, бутӏа]

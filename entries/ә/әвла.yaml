@@ -11,3 +11,10 @@ definitions:
   - translation:
       en: number three
       ru: тройка
+    examples:
+      - text: Һеж ил барив әчули әвла аккор кабатара авирһид дул.
+        translation:
+          en: For this work you’ve done, I can only give you a three.
+          ru: За эту проделанную тобой работу я могу поставить только тройку.
+
+derived_from: [әбал]

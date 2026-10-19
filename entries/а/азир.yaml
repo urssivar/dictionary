@@ -15,6 +15,10 @@ definitions:
         translation:
           en: A thousand troubles on you!
           ru: Тысяча бед на тебя!
+      - text: Ца ғай аужив, ссәәтла уркка азир куц киһәв.
+        translation:
+          en: He didn’t stay on one word, he changed his mind many times over the course of an hour.
+          ru: На одном слове не остался, в течение часа многократно менял мнение.
 
 etymology:
   en: From Persian هزار (*hazâr*) "thousand".

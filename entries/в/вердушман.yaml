@@ -1,0 +1,13 @@
+headword: вердушман
+ipa: βeɾduʃˈman
+tags: [n]
+forms:
+  - text: вердушманте
+    gloss: pl
+
+definitions:
+  - translation:
+      en: blood enemy
+      ru: кровник
+
+derived_from: [верал, душман]

@@ -2,13 +2,12 @@ headword: әвҡҡатт
 ipa: æβˈqːatː
 tags: [n]
 forms:
-  - text: әвҡҡатт
-    gloss: abs
   - text: әвҡҡиттре
     gloss: pl
+
 definitions:
   - translation:
-      en: crossroad
-      ru: перекрёсток
-    aliases:
-      en: [intersection, junction]
+      en: crossroad, junction
+      ru: перекрёсток, распутье
+
+derived_from: [әбал, ҡҡатт]

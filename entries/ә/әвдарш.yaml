@@ -1,7 +1,10 @@
 headword: әвдарш
 ipa: æβˈdaɾʃ
 tags: [num]
+
 definitions:
   - translation:
       en: three hundreds
       ru: триста
+
+derived_from: [әбал, даршшал]
