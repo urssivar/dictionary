@@ -2,13 +2,19 @@ headword: әдат
 ipa: æˈdat
 tags: [n, loan, arabic]
 forms:
-  - text: әдат
-    gloss: abs
   - text: әдате
     gloss: pl
+
 definitions:
   - translation:
-      en: custom
-      ru: обычай
-    aliases:
-      en: [tradition]
+      en: custom, practice
+      ru: обычай, практика
+    examples:
+      - text: һана әдате
+        translation:
+          en: current customs
+          ru: нынешние обычаи
+      - text: Ца әдати гон миҡҡ барив.
+        translation:
+          en: They held a wedding, as if just for the sake of appearances.
+          ru: Сыграли свадьбу будто для приличия.

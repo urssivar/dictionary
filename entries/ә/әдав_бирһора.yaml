@@ -1,0 +1,24 @@
+headword: әдав бирһора
+ipa: æˌdaβ biɾˈhʷaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: биһора
+    gloss: pfv
+  - text: биһәв
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to shed a tear, to be moved to tears
+      ru: прослезиться, растрогаться
+    tags: [emotion]
+    aliases:
+      en: [to cry]
+      ru: [плакать]
+    examples:
+      - text: Рирсси ҳади луккан ҡҡел, атта әдав виһәв.
+        translation:
+          en: The father was moved to tears when he gave his daughter away in marriage.
+          ru: Отец растрогался, когда выдавал дочь замуж.
+
+derived_from: [әдав, бирһора]

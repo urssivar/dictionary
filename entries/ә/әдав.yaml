@@ -1,14 +1,23 @@
 headword: әдав
 ipa: æˈdaβ
 tags: [n, loan]
+
 definitions:
   - translation:
-      en: discomfort
-      ru: неудобство
+      en: inconvenience, discomfort
+      ru: неудобство, дискомфорт
     tags: [emotion]
-    aliases:
-      en: [anguish]
     examples:
-      - text: дам һеж вачаг әдавле це
+      - text: Чакма цӏаҡӏле әдавле це, дуҡҡара гон акку.
         translation:
-          en: these pants are uncomfortable for me
+          en: The boots are very uncomfortable; they can’t be worn.
+          ru: Сапоги очень неудобны; не поносить.
+  - translation:
+      en: sadness, grief
+      ru: печаль, горе
+    tags: [emotion]
+    examples:
+      - text: Ваһла һеккил вевкӏне ерин әдав цикӏал це.
+        translation:
+          en: The death of a close one is an incredibly difficult experience, morally speaking.
+          ru: Смерть близкого человека совершенно печальная вещь.

@@ -1,0 +1,15 @@
+headword: әвнатт
+ipa: æβˈnatː
+tags: [n]
+
+definitions:
+  - translation:
+      en: trio
+      ru: группа из трёх
+    examples:
+      - text: И әвнатт вар!
+        translation:
+          en: May you be hacked into three pieces.
+          ru: Пусть тебя разрубят на три куска.
+
+derived_from: [әбал]

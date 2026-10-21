@@ -2,12 +2,13 @@ headword: әвтӏих
 ipa: æβˈtʼiχ
 tags: [n]
 forms:
-  - text: әвтӏих
-    gloss: abs
-  - text: әвтӏихе
+  - text: әвтӏиххе
     gloss: pl
+
 definitions:
   - translation:
       en: trident
       ru: трезубец
     tags: [tool]
+
+derived_from: [әбал]

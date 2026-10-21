@@ -1,6 +1,6 @@
 headword: әвбаг
 ipa: æβˈbag
-tags: [adj]
+tags: [adj, cls]
 
 definitions:
   - translation:
@@ -9,5 +9,10 @@ definitions:
     aliases:
       en: [three, triple]
       ru: [три, тройственный]
+    examples:
+      - text: Чӏәҡӏо әвбагле кабалға.
+        translation:
+          en: Cut the bread into thirds.
+          ru: Разрежь хлеб натрое.
 
 derived_from: [әбал, баг]
