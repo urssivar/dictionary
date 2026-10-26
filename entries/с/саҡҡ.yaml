@@ -1,8 +1,7 @@
-headword: саҡ
-ipa: ˈsaq
+headword: саҡҡ
+ipa: ˈsaqː
 tags: [adv]
-note:
-  en: "*цайбил*"
+
 definitions:
   - translation:
       en: once
@@ -14,3 +13,6 @@ definitions:
       - text: саҡ беччивда
         translation:
           en: gave once
+
+derived_from: [ца]
+variants: [цайна]

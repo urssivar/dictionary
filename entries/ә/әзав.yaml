@@ -1,9 +1,19 @@
 headword: әзав
 ipa: æˈzaβ
-tags: [n, loan]
+tags: [n, loan, arabic]
+
 definitions:
   - translation:
       en: torture
       ru: пытка
-    aliases:
-      en: [torment]
+    examples:
+      - text: әзав кабирара
+        translation:
+          en: to torture
+          ru: пытать
+
+etymology:
+  en: From Arabic عَذَاب (*ʕaḏāb*) "torture, torment".
+  ru: От арабского عَذَاب (*ʕaḏāb*) "пытка, мучение".
+
+see_also: [әдав]

@@ -1,9 +1,18 @@
 headword: әйре
 ipa: ˈæjɾe
 tags: [n]
-note:
-  en: '*яир*'
+forms:
+  - text: әйре
+    gloss: nom, loc
+
 definitions:
   - translation:
       en: hunt
       ru: охота
+    examples:
+      - text: Миргле әйре це.
+        translation:
+          en: Men out hunting.
+          ru: Мужчины на охоте.
+
+variants: [әӏир]

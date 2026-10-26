@@ -1,15 +1,19 @@
 headword: әкӏа
-ipa: æˈkʼa
+ipa: ˈækʼa
 tags: [n]
 forms:
-  - text: әкӏа
-    gloss: abs
+  - text: әкӏан
+    gloss: pl
   - text: әкӏне
     gloss: pl
+
 definitions:
   - translation:
       en: fine
       ru: штраф
     tags: [social]
-    aliases:
-      en: [penalty]
+    examples:
+      - text: Милицӏал ду әкӏалла варивда.
+        translation:
+          en: The police fined me.
+          ru: Полицейские меня оштрафовали.

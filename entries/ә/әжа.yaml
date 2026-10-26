@@ -2,17 +2,21 @@ headword: әжи
 ipa: æˈʒi
 tags: [n, loan, turkic]
 forms:
-  - text: әжи
-    gloss: abs
-  - text: әжне
+  - text: әжихал
     gloss: pl
 
 definitions:
   - translation:
       en: respected elder woman
       ru: уважаемая пожилая
-    tags: [kinship]
+    tags: [culture]
     aliases:
-      en: [mrs]
+      en: [mrs, aunt, old]
+      ru: [тетя, старуха]
+    examples:
+      - text: Һеж әжи ниссала умра це.
+        translation:
+          en: This elderly woman is our neighbor.
+          ru: Эта пожилая женщина — наша соседка.
 
-variants: [әйжу, әжа, әжу]
+variants: [әйжи, әжа]

@@ -9,5 +9,14 @@ definitions:
     tags: [emotion]
     aliases:
       en: [dignity]
+    examples:
+      - text: һәй аман
+        translation:
+          en:
+          ru: ойойой
+      - text: һәй әӏив де
+        translation:
+          en:
+          ru: как же жаль
 
 variants: [әй]

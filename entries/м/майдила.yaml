@@ -2,12 +2,11 @@ headword: майдила
 ipa: majˈdila
 tags: [n]
 forms:
-  - text: майдила
-    gloss: abs
   - text: майдилал
     gloss: obl
   - text: майдилабе
     gloss: pl
+
 definitions:
   - translation:
       en: site

@@ -1,11 +1,15 @@
 headword: әлда
 ipa: ˈælda
 tags: [adj]
-note:
-  en: '*инда*'
+
 definitions:
   - translation:
       en: horizontal
       ru: горизонтальный
-    aliases:
-      en: [lie]
+    examples:
+      - text: Һеж хор әлдал бета.
+        translation:
+          en: Lay this log down horizontally.
+          ru: Проложи это бревно горизонтально.
+
+variant: [инда]

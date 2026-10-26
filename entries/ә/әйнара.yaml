@@ -1,13 +1,19 @@
 headword: әйнара
 ipa: ˈæjnaɾa
 tags: [adv]
-etymology:
-  en: Related to *ябал* "three".
-note:
-  en: '*ягнара*'
+
 definitions:
   - translation:
-      en: constantly
-      ru: постоянно
+      en: repeatedly, more than once
+      ru: неоднократно, не раз
     aliases:
-      en: [frequent, often, oftentime, over, repeatedly]
+      en: [often]
+      ru: [часто]
+    examples:
+      - text: Әйнара етти кумек баривда, саҡҡ-ра ил абаһурде.
+        translation:
+          en: I helped you more than once, yet you never even knew.
+          ru: Я не раз тебе помогал, а ты даже не знал об этом.
+
+derived_from: [әвна]
+variants: [әгнара]

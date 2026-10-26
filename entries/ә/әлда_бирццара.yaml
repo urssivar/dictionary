@@ -2,19 +2,17 @@ headword: әлда бирццара
 ipa: ˌælda biɾˈtsːaɾa
 tags: [v, ntr, cls]
 forms:
-  - text: әлда биццара
+  - text: биццара
     gloss: pfv
-  - text: әлда бирццара
+  - text: биццур
     gloss: pret
-  - text: әлда бирццара
-    gloss: ipfv
+
 definitions:
   - translation:
-      en: to swing
-      ru: замахиваться
-    aliases:
-      en: [charge, prepare]
+      en: to wind up (for a swing or a blow)
+      ru: замахиваться (для удара)
     examples:
-      - text: әлда виццур хат цабәҡив
+      - text: Әлда виццул ххат цабәҡив.
         translation:
-          en: swung his palm and
+          en: He wound up and delivered a slap.
+          ru: Размахнулся и дал пощечину.

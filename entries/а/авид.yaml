@@ -1,0 +1,16 @@
+headword: авид
+ipa: aˈβid
+tags: [n]
+forms:
+  - text: авиде
+    gloss: pl
+
+definitions:
+  - translation:
+      en: circle
+      ru: круг
+    examples:
+      - text: Сукке биде кадиццул миҡҡла авиди.
+        translation:
+          en: Everyone stood in a wedding circle.
+          ru: Все стояли в свадебном кругу.

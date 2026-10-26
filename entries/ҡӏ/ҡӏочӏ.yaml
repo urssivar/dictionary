@@ -6,9 +6,15 @@ forms:
     gloss: abs
   - text: ҡӏочӏан
     gloss: obl
+
 definitions:
   - translation:
       en: charred lump
       ru: обгорелый кусок
     aliases:
       en: [burn]
+    examples:
+      - text: Чӏаҡӏо ҡӏочӏ барив.
+        translation:
+          en: 
+          ru: 

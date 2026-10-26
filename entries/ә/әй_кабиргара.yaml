@@ -2,13 +2,19 @@ headword: әй кабиргара
 ipa: ˌæj kabiɾˈgaɾa
 tags: [v, ntr, cls]
 forms:
-  - text: әй кабигара
+  - text: кабигара
     gloss: pfv
-  - text: әй кабижив
+  - text: кабижив
     gloss: pret
-  - text: әй кабиргара
-    gloss: ipfv
+
 definitions:
   - translation:
-      en: to spread across
-      ru: распространяться
+      en: to spread, to sprawl
+      ru: распространяться, расползаться
+    examples:
+      - text: Еҡӏе майдани ттакӏин әй кабижив.
+        translation:
+          en: The herd spread out across the field.
+          ru: Стадо распространилось по полю.
+
+derived_from: [әй, биргара]

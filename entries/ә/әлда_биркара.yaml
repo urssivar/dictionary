@@ -2,15 +2,17 @@ headword: әлда биркара
 ipa: ˌælda biɾˈkaɾa
 tags: [v, cls, ntr]
 forms:
-  - text: әлда бикара
+  - text: бикара
     gloss: pfv
-  - text: әлда бичив
+  - text: бичив
     gloss: pret
-  - text: әлда биркара
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to lie down
-      ru: прилегать
-    aliases:
-      en: [rest]
+      ru: ложиться
+    examples:
+      - text: Бизи халчани әлда бичив.
+        translation:
+          en: The cat lay down on the carpet.
+          ru: Кошка прилегла на ковре.

@@ -1,11 +1,10 @@
 headword: әҡӏлу чев
 ipa: ˌæqʼlu ˈtʃeβ
 tags: [adj]
-note:
-  en: "*яҡьлукар*"
+
 definitions:
   - translation:
-      en: clever
-      ru: умный
-    aliases:
-      en: [smart, reasonable]
+      en: clever, reasonable
+      ru: умный, разумный
+
+derived_from: [әҡӏлу, чев]

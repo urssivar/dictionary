@@ -1,21 +1,21 @@
 headword: әла
 ipa: ˈæla
 tags: [n]
-note:
-  en: "*ялай*, *ула*"
 forms:
-  - text: әла
-    gloss: abs
-  - text: әлан
+  - text: әлун
     gloss: obl
   - text: әлме
     gloss: pl
+
 definitions:
   - translation:
       en: wheel
       ru: колес
-    tags: [tech]
+    tags: [technology]
     examples:
-      - text: аттал әла давкк барив
+      - text: Аттал әла давкк барив.
         translation:
-          en: father fixed the wheel
+          en: Father fixed the wheel.
+          ru: Отец починил колесо.
+
+variants: [әлай, ~/әлан/~, ула, гӏула]

@@ -4,6 +4,11 @@ tags: [intj]
 
 definitions:
   - translation:
-      en: damn!
-      ru: блин!, чёрт!
-
+      en: expression of irritation (well, I mean)
+      ru: выражение раздражения (ну, так-то)
+    tags: [emotion]
+    examples:
+      - text: Әйғавза, һел ҡҡапп ил цаҡҡил ден дикӏал ци биде йе атте.
+        translation:
+          en: Honestly, if you had brought this cargo, it wouldn’t have been a big deal either.
+          ru: Ну, этот груз если ты принёс бы, то тоже ничего страшного не было бы.

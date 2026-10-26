@@ -1,9 +1,27 @@
 headword: әзиз
 ipa: æˈziz
 tags: [adj, loan, arabic]
+
 definitions:
   - translation:
-      en: beloved
-      ru: любимый
+      en: beloved, close, dear
+      ru: любимый, близкий, дорогой
     aliases:
       en: [dear, darling]
+    examples:
+      - text: И убала баһ әзизил де.
+        translation:
+          en: You are Mom’s favorite.
+          ru: Ты у мамы самый любимый.
+  - translation:
+      en: pampered, fragile, vulnerable
+      ru: изнеженный, хрупкий, уязвимый
+    examples:
+      - text: Әзизил ра ви ҡӏал һеж никӏоце; ккач рикара урухле да зәип виркар рикӏул.
+        translation:
+          en: This child is so vulnerable; I’m afraid to even touch him, lest he get sick.
+          ru: Какой же этот ребёнок уязвимый; боюсь дотронуться, а то заболеет.
+
+etymology:
+  en: From Arabic عَزِيز (*ʕazīz*) "precious, dear".
+  ru: От арабского عَزِيز (*ʕazīz*) "драгоценный, дорогой".

@@ -1,0 +1,14 @@
+headword: чи цабурҳҳара
+ipa: tʃi tsabuɾˈxːaɾa
+tags: [n, loan, arabic]
+forms:
+  - text: цабарҳҳара
+    gloss: pfv
+  - text: цабаршшив
+    gloss: pret
+
+definitions:
+  - translation:
+      en:
+      ru: восстанавливаться
+    tags: [food]

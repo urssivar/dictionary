@@ -1,11 +1,19 @@
 headword: инжитт
 ipa: inˈʒitː
 tags: [n]
-note:
-  en: '*инжитти*'
+
 definitions:
   - translation:
-      en: torment
-      ru: мучение
-    aliases:
-      en: [excruciation]
+      en: bother, fatigue, fuss
+      ru: беспокойство, утомление, хлопота
+    examples:
+      - text: Һештти мура диҡҡул цӏаҡӏле инжитт диһәвда.
+        translation:
+          en: We got very tired from hauling this hay.
+          ru: Таская это сено мы сильно утомились.
+      - text: И инжитт рарара биккул аччу, һелей һәре абиӏивда.
+        translation:
+          en: I didn’t want to bother you, so I didn’t ask you to come up.
+          ru: Я не хотел тебя беспокоить, поэтому не позвал подняться.
+
+variants: [инжитти]

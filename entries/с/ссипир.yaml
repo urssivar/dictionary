@@ -1,0 +1,13 @@
+headword: ссипир
+ipa: sːiˈpiɾ
+tags: [num, loan, arabic]
+
+definitions:
+  - translation:
+      en: zero
+      ru: ноль
+    aliases:
+      en: ["null", nil]
+      ru: [нуль]
+
+variants: [нул]

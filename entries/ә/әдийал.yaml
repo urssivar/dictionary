@@ -2,12 +2,15 @@ headword: әдийал
 ipa: ædiˈjal
 tags: [n, loan, russian]
 forms:
-  - text: әдийал
-    gloss: abs
   - text: әдийалте
     gloss: pl
+
 definitions:
   - translation:
       en: blanket
       ru: одеяло
     tags: [clothing]
+
+etymology:
+  en: From Russian *одеяло* "blanket".
+  ru: От русского *одеяло*.

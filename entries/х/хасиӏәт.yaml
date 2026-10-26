@@ -1,6 +1,10 @@
-headword: хасәәт
-ipa: χaˈsææt
+headword: хасиӏәт
+ipa: χaˈsiʔæt
 tags: [n, loan, arabic]
+forms:
+  - text: хасиӏәте
+    gloss: pl
+
 definitions:
   - translation:
       en: character

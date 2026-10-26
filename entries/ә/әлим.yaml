@@ -2,17 +2,13 @@ headword: әлим
 ipa: æˈlim
 tags: [n, loan, arabic]
 forms:
-  - text: әлим
-    gloss: abs
   - text: әлимте
     gloss: pl
 
 definitions:
   - translation:
-      en: scholar
+      en: scholar, scientist
       ru: ученый
     tags: [occupation]
-    aliases:
-      en: [scientist]
 
-variants: [муәллим]
+variants: [муӏәллим]

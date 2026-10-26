@@ -1,11 +1,12 @@
-headword: майдан
-ipa: majˈdan
+headword: майда
+ipa: ˈmajda
 tags: [n, loan]
 forms:
   - text: майдан
-    gloss: abs
-  - text: майданте
+    gloss: obl
+  - text: майдунте
     gloss: pl
+
 definitions:
   - translation:
       en: field

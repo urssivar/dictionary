@@ -1,10 +1,7 @@
 headword: сахсара
 ipa: ˈsaχsaɾa
 tags: [adv]
-etymology:
-  en: From *саҡ* "once" + *цара* "other".
-note:
-  en: '*бейғи* (from Kumyk)'
+
 definitions:
   - translation:
       en: again
@@ -18,3 +15,6 @@ definitions:
           en: go again
 
 ### сахсал?
+
+derived_from: [саҡҡ, цара]
+variants: [саҡҡцара, цайнацара, бейғи]

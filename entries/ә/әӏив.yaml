@@ -1,0 +1,27 @@
+headword: әӏив
+ipa: ˈæʔiβ
+tags: [n, loan, arabic]
+forms:
+  - text: әӏивте
+    gloss: pl
+
+definitions:
+  - translation:
+      en: reproach
+      ru: осуждение, упрёк
+    aliases:
+      en: [guilt]
+      ru: [вина]
+    examples:
+      - text: Ца аккол хурег абаривда, әӏив мабирай дами.
+        translation:
+          en: I only prepared one dish — please don’t judge me.
+          ru: Приготовила лишь одно блюда, не осуждайте меня.
+      - text: Әӏив де гум катара жаһил әмрулцци.
+        translation:
+          en: It was a pity to bury him so young.
+          ru: Жаль было хоронить его в молодом возрасте.
+
+etymology:
+  en: From Arabic عَيْب (*ʕayb*) "shame, disgrace".
+  ru: От арабского عَيْب (*ʕayb*) "стыд, позор".

@@ -1,9 +1,24 @@
 headword: әламат
 ipa: ælaˈmat
 tags: [n, loan, arabic]
+forms:
+  - text: әламате
+    gloss: pl
+
 definitions:
   - translation:
-      en: multitude
-      ru: множество
-    aliases:
-      en: [many, lot]
+      en: multitude, many
+      ru: множество, много
+    examples:
+      - text: Ижал ци әламат халкӏла йе һеж базари бите?
+        translation:
+          en: Why are there so many people at this market today?
+          ru: Почему сегодня так много людей на этом базаре?
+  - translation:
+      en: wonder
+      ru: чудо
+    examples:
+      - text: Әламат абирһор у һелгон цикӏал агул баһал?
+        translation:
+          en: Isn’t it a miracle if something like that has happened?
+          ru: Разве это не чудо, если такое случилось?

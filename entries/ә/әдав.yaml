@@ -13,11 +13,17 @@ definitions:
           en: The boots are very uncomfortable; they can’t be worn.
           ru: Сапоги очень неудобны; не поносить.
   - translation:
-      en: sadness, grief
-      ru: печаль, горе
+      en: sadness, heaviness, grief
+      ru: печаль, тягость, горе
     tags: [emotion]
     examples:
       - text: Ваһла һеккил вевкӏне ерин әдав цикӏал це.
         translation:
           en: The death of a close one is an incredibly difficult experience, morally speaking.
           ru: Смерть близкого человека совершенно печальная вещь.
+
+etymology:
+  en: From Arabic عَذَاب (*ʕaḏāb*) "torture, torment".
+  ru: От арабского عَذَاب (*ʕaḏāb*) "пытка, мучение".
+
+see_also: [әзав]

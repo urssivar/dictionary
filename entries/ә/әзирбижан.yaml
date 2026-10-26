@@ -1,8 +1,18 @@
-headword: әзирбижан
+headword: Әзирбижан
 ipa: æziɾbiˈʒan
 tags: [n, loan]
+
 definitions:
   - translation:
-      en: azerbaijan
-      ru: азербайджат
+      en: Әzerbaijan
+      ru: Азербайджан
     tags: [toponym]
+    examples:
+      - text: Шшилцци душмандеҳ чи дичил, Әзирбижанцци гунер бегур.
+        translation:
+          en: In their village, they became caught up in a blood feud, so they relocated to Azerbaijan.
+          ru: В селе с ними случилась кровная месть, и они переселились в Азербайджан.
+  - translation:
+      en: Azerbaijani
+      ru: азербайджанец
+    tags: [people]

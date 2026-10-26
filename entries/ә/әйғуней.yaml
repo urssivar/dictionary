@@ -4,6 +4,13 @@ tags: [intj]
 
 definitions:
   - translation:
-      en: pity!
-      ru: жаль!
+      en: expression of irritation or annoyance (damn!)
+      ru: выражение раздражения или досады (блин!)
+    tags: [emotion]
+    examples:
+      - text: Әйғуней, и ра ви де ҡӏал сатти цирххул!
+        translation:
+          en: Damn, you’re getting in the way too, you know!
+          ru: Блин, вот ты тоже мешаешься ведь!
 
+variants: [әйғунейал]

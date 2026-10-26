@@ -1,8 +1,7 @@
-headword: саҡла
-ipa: ˈsaqla
+headword: саҡҡла
+ipa: ˈsaqːla
 tags: [adv]
-etymology:
-  en: From *саҡ* "once".
+
 definitions:
   - translation:
       en: yet
@@ -16,3 +15,5 @@ definitions:
       - text: саҡла һеж бара
         translation:
           en: do this for now
+
+derived_from: [саҡҡ]

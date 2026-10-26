@@ -1,9 +1,12 @@
-headword: сеҡ
-ipa: ˈseq
+headword: сах
+ipa: ˈsaχ
 tags: [adj, loan, turkic]
+
 definitions:
   - translation:
       en: vigilant
       ru: бдительный
     aliases:
       en: [alert]
+
+variants: [саҡ, сеҡ]

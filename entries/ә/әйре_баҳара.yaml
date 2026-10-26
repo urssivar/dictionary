@@ -1,7 +1,13 @@
 headword: әйре баҳара
 ipa: ˌæjɾe baˈxaɾa
 tags: [v, cls, ntr]
+
 definitions:
   - translation:
       en: to hunt
       ru: охотиться
+    examples:
+      - text: Ккуртта ирҡӏнай әйре баҳанил це.
+        translation:
+          en: A fox hunts chickens.
+          ru: Лиса охотится на кур.

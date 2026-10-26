@@ -2,11 +2,19 @@ headword: әдрис
 ipa: ædˈɾis
 tags: [n, loan, russian]
 forms:
-  - text: әдрис
-    gloss: abs
-  - text: әдрисе
+  - text: әдриссе
     gloss: pl
+
 definitions:
   - translation:
       en: address
       ru: адрес
+    examples:
+      - text: Ҡағартай әдриссе делкӏун деса.
+        translation:
+          en: Write the addresses on the letters and send them.
+          ru: Напиши адреса на письмах и отправь их.
+
+etymology:
+  en: From Russian *адрес* "address".
+  ru: От русского *адрес*.

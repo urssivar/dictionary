@@ -1,9 +1,15 @@
-headword: тӏабәәт
-ipa: tʼaˈbææt
+headword: тӏабәӏәт
+ipa: tʼaˈbæʔæt
 tags: [n, loan, arabic]
+forms:
+  - text: тӏабәӏәт
+    gloss: pl
+
 definitions:
   - translation:
       en: nature
       ru: природа
     aliases:
       en: [environment]
+
+variants: [тӏабиӏәт]

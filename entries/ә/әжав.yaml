@@ -1,22 +1,25 @@
 headword: әжав
 ipa: æˈʒaβ
 tags: [adj, det, loan]
+
 definitions:
   - translation:
-      en: peculiar
+      en: weird, unusual
       ru: странный, необычный
-    aliases:
-      en: [strange, unusual]
     examples:
-      - text: әжав хабар би ҡӏал
+      - text: Әжав хабар би ҡӏал.
         translation:
-          en: what a story
+          en: What an unusual story.
+          ru: Какая же необычная история.
   - translation:
-      en: such
-      ru: такой
-    aliases:
-      en: [so, very]
+      en: such, so
+      ru: такой, так
     examples:
       - text: әжав музи ҡәр
         translation:
           en: such a sweet pear
+          ru: такая сладкая груша
+
+etymology:
+  en: From Arabic عَجَب (*ʕajab*) "wonder, marvel".
+  ru: От арабского عَجَب (*ʕajab*) "чудо, диво".

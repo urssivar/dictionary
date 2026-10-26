@@ -4,11 +4,8 @@ tags: [n, loan, arabic]
 
 definitions:
   - translation:
-      en: chaotic
-      ru: хаотичный
-    aliases:
-      en: [disorder, bedlam]
-      ru: [беспорядок, суматоха]
+      en: chaos, disorder
+      ru: хаос, беспорядок
 
 etymology:
   en: From Arabic يَأْجُوج وَمَأْجُوج (*yaʔjūj wa-maʔjūj*) "Gog and Magog".

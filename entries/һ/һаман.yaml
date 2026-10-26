@@ -1,15 +1,15 @@
 headword: һаман
 ipa: haˈman
 tags: [adv]
-note:
-  en: '*ьараман*'
+
 definitions:
   - translation:
-      en: always
-      ru: всегда
+      en: often
+      ru: часто
     tags: [time]
     examples:
       - text: һаман дурсид ду урший
         translation:
           en: i always tell my son
 
+variants: [һараман]

@@ -1,8 +1,16 @@
 headword: әлам
 ipa: æˈlam
 tags: [n, loan, arabic]
+forms:
+  - text: әламте
+    gloss: pl
 
 definitions:
   - translation:
       en: population
       ru: население
+    examples:
+      - text: әламла укка
+        translation:
+          en: all the people
+          ru: весь люд

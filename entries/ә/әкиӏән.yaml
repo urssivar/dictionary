@@ -1,8 +1,13 @@
-headword: әкиән
-ipa: ækiˈæn
+headword: акиӏән
+ipa: akiˈʔæn
 tags: [n, loan, russian]
+forms:
+  - text: акиӏәнте
+    gloss: pl
+
 definitions:
   - translation:
       en: ocean
       ru: океан
     tags: [nature]
+
