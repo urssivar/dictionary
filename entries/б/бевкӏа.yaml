@@ -1,8 +1,9 @@
 headword: бевкӏа
 ipa: ˈbeβkʼa
 tags: [n, vb]
-etymology:
-  en: From *бувкьара* "to die".
+forms:
+  - text: бевкӏунде
+    gloss: pl
 
 definitions:
   - translation:
@@ -10,3 +11,5 @@ definitions:
       ru: смерть
     examples:
       - text: бевкӏала хабар
+
+variants: [бевкӏара]

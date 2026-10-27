@@ -1,0 +1,16 @@
+headword: әм кәнара
+ipa: ˌæm kæˈnaɾa
+tags: [n, ntr, cls]
+
+definitions:
+  - translation:
+      en: to slouch; to bend outward
+      ru: сутулиться; выгибаться наружу
+    examples:
+      - text: Ци де йе и әм кәун?
+        translation:
+          en: Why are you slouching?
+          ru: Почему ты сутулишься?
+
+derived_from: [әм, бәнара]
+variants: [ҡҡәм ~, гӏим бирццара]

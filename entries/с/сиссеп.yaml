@@ -1,12 +1,11 @@
-headword: сисеп
+headword: сиссеп
 ipa: siˈsːep
 tags: [n]
-note:
-  en: "*сисам*"
+
 definitions:
   - translation:
       en: alpine leek
       ru: лук победный
     tags: [nature, plant]
-    aliases:
-      en: [allium, victorialis, victory, onion]
+
+variants: [сиссам]

@@ -2,15 +2,19 @@ headword: әлӏәм цабиргара
 ipa: ælˌʔæm tsabiɾˈgaɾa
 tags: [v, ntr, cls]
 forms:
-  - text: әлӏәм цабигара
+  - text: цабигара
     gloss: pfv
-  - text: әлӏәм цабижив
+  - text: цабижив
     gloss: pret
-  - text: әлӏәм цабиргара
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to coil up
       ru: скручиваться
-    aliases:
-      en: [twist, rotate]
+    examples:
+      - text: Мәлӏум әлӏәм цабижил де баригу.
+        translation:
+          en: The snake was coiled up and lying in the sun.
+          ru: Змей скрутился и лежал под солнцем.
+
+derived_from: [әлӏәм, биргара]

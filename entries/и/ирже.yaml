@@ -1,15 +1,12 @@
 headword: ирже
 ipa: ˈiɾʒe
 tags: [n]
-note:
-  en: |-
-    *ирзе*, *ург*
-    *чьала*
 forms:
-  - text: ирже
+  - text: иржин
     gloss: abs
   - text: иржме
     gloss: pl
+
 definitions:
   - translation:
       en: arrow

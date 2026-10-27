@@ -1,6 +1,12 @@
 headword: әлһәдбар
 ipa: ælˈhædbaɾ
 tags: [n, loan, arabic]
+forms:
+  - text: әлһәдбари
+    gloss: obl
+  - text: әлһәдбирме
+    gloss: pl
+
 definitions:
   - translation:
       en: sunday
@@ -8,3 +14,11 @@ definitions:
     tags: [time]
     aliases:
       en: [day, week]
+      ru: [день, недель]
+    examples:
+      - text: Һеж әлһәдбарий биранда.
+        translation:
+          en: I’ll have it done by this Sunday.
+          ru: К этому воскресенью сделаю.
+
+derived_from: [әлһәд, бар]

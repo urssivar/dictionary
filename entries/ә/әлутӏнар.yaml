@@ -1,8 +1,16 @@
 headword: әлутӏнар
 ipa: ælutʼˈnaɾ
-tags: [adj]
+tags: [n]
+forms:
+  - text: әлутӏнарте
+    gloss: pl
 
 definitions:
   - translation:
       en: polka dot
       ru: в горошек
+    examples:
+      - text: әлутӏнар ккуртте
+        translation:
+          en: polka-dot dress
+          ru: платье в горошек

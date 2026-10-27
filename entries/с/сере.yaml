@@ -1,8 +1,7 @@
-headword: һәнк
-ipa: ˈhænk
+headword: сере
+ipa: ˈseɾe
 tags: [n]
-note:
-  en: "*ьянкур*"
+
 definitions:
   - translation:
       en: ramson
@@ -10,3 +9,5 @@ definitions:
     tags: [plant]
     aliases:
       en: [allium, ursinum, wild, garlic]
+
+variants: [һәнкур, һәнклу]
