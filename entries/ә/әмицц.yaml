@@ -2,10 +2,9 @@ headword: әмицц
 ipa: æˈmitsː
 tags: [n]
 forms:
-  - text: әмицц
-    gloss: abs
   - text: әмицце
     gloss: pl
+
 definitions:
   - translation:
       en: gadfly
@@ -13,3 +12,6 @@ definitions:
     tags: [animal, insect]
     aliases:
       en: [fly]
+      ru: [муха]
+
+variants: [әницц]

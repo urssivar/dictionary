@@ -7,5 +7,10 @@ forms:
 
 definitions:
   - translation:
-      en: fold
-      ru: складка
+      en: fold, curve, ripple
+      ru: складка, изгиб, волна
+    examples:
+      - text: әм һабижив
+        translation:
+          en: The cow arched its back due to stomach pain.
+          ru: Из-за боли в животе корова выгнулась.

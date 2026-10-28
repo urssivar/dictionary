@@ -6,5 +6,10 @@ definitions:
   - translation:
       en: to bend outward
       ru: изгибаться внутрь
+    examples:
+      - text: Варкк иццул ҡӏвәл әм һәбун.
+        translation:
+          en: The cow arched its back due to stomach pain.
+          ru: Из-за боли в животе корова выгнулась.
 
 derived_from: [әм, бәнара]

@@ -1,9 +1,15 @@
 headword: әмал аккор
 ipa: æˌmal aˈkːʷaɾ
 tags: [adj]
+
 definitions:
   - translation:
-      en: hopeless
-      ru: безвыходный
-    aliases:
-      en: [desperate]
+      en: hopeless, desperate
+      ru: безвыходный, отчаянный
+    examples:
+      - text: Һеж һейсе әмал аккор цикӏал акку ғавза.
+        translation:
+          en: Wow, this situation actually isn't as hopeless as it seems.
+          ru: Вау, а ведь это не настолько безвыходная ситуация.
+
+derived_from: [әмал, аккор]

@@ -1,0 +1,15 @@
+headword: әмулте
+ipa: æmulˈte
+tags: [n, pl, loan]
+
+definitions:
+  - translation:
+      en: trick, ruse
+      ru: хитрость, уловка
+    examples:
+      - text: Һежел даҡил әмулте дарһар.
+        translation:
+          en: He knows many tricks.
+          ru: Он знает много хитростей.
+
+see_also: [әмал]

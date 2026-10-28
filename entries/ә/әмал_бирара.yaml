@@ -1,16 +1,20 @@
 headword: әмал бирара
 ipa: æˌmal biˈɾaɾa
-tags: [v, tr]
+tags: [v, tr, cls]
 forms:
-  - text: әмал барара
+  - text: барара
     gloss: pfv
-  - text: әмал барив
+  - text: барив
     gloss: pret
-  - text: әмал бирара
-    gloss: ipfv
+
 definitions:
   - translation:
-      en: to settle
-      ru: решать, улаживать
-    aliases:
-      en: [resolve]
+      en: to settle, to manage
+      ru: улаживать, разрешать
+    examples:
+      - text: Дул әмал баривда.
+        translation:
+          en: I managed.
+          ru: Я справился.
+
+derived_from: [әмал, бирара]

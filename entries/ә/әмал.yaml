@@ -2,17 +2,23 @@ headword: әмал
 ipa: æˈmal
 tags: [n, loan, arabic]
 forms:
-  - text: әмал
-    gloss: abs
   - text: әмалте
     gloss: pl
+
 definitions:
   - translation:
-      en: means
-      ru: способ
-    aliases:
-      en: [way]
+      en: method, way out, option
+      ru: способ, выход, вариант
     examples:
-      - text: әмал бугун
+      - text: Ца әмал буркканда һелей ра.
         translation:
-          en: stalemate
+          en: We’ll find a way to deal with this situation.
+          ru: Найдём способ разобраться с этой ситуацией.
+      - text: На һежин цара әмал бейкку.
+        translation:
+          en: There are no other options left here.
+          ru: Здесь уже больше вариантов нет.
+      - text: Дила әмал бугун де.
+        translation:
+          en: My way of life was shattered.
+          ru: Мой уклад был разрушен.

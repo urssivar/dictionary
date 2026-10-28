@@ -1,30 +1,32 @@
 headword: әмру
 ipa: ˈæmɾu
 tags: [n, loan, arabic]
-etymology:
-  en: "*янру*"
 forms:
-  - text: әмру
-    gloss: abs
   - text: әмрул
     gloss: obl
+  - text: әмрубе
+    gloss: pl
+
 definitions:
   - translation:
       en: age
       ru: возраст
-    aliases:
-      en: [living]
     examples:
       - text: әмрулцци веғив
         translation:
-          en: elderly
+          en: пожилой
+          ru: elderly
   - translation:
       en: life
       ru: жизнь
     examples:
-      - text: әмру деччив
+      - text: Дуҡен әмру!
         translation:
-          en: lived long
-      - text: әмру деркӏора
+          en: Long life!
+          ru: Долгой жизни!
+      - text: Әмру деркӏора кукил акку.
         translation:
-          en: to spend life
+          en: Living a life is not easy.
+          ru: Прожить жизнь — нелегко.
+
+variants: [әнру]

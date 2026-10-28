@@ -1,0 +1,18 @@
+headword: әм һабиргара
+ipa: ˌæm habiɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: һабигара
+    gloss: pfv
+  - text: һабижив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to fold, to ripple, to curve
+      ru: складывать, волниться, изгибаться
+    examples:
+      - text: Халчанла баӏ әм һабижив.
+        translation:
+          en: The edge of the carpet folded up.
+          ru: Край ковра изогнулся.

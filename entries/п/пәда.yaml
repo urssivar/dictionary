@@ -2,10 +2,12 @@ headword: пәда
 ipa: ˈpæda
 tags: [n]
 forms:
-  - text: пәдабе
+  - text: пәдне
     gloss: pl
 
 definitions:
   - translation:
       en: extravagant person
       ru: расточительный человек
+
+variants: [~/пәдабе]

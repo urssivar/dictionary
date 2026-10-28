@@ -6,10 +6,14 @@ forms:
     gloss: abs
   - text: ҡӏәмре
     gloss: pl
+
 definitions:
   - translation:
-      en: lacrimal caruncle
-      ru: слезное мясцо
-    tags: [body]
-    aliases:
-      en: [eye]
+      en: end piece
+      ru: краюшек
+    examples:
+      - text: уленла ҡӏәм
+        translation:
+          translation:
+            en: lacrimal caruncle
+            ru: слезное мясцо
