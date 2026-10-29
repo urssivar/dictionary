@@ -2,7 +2,7 @@ headword: әвакк
 ipa: æˈβakː
 tags: [n]
 forms:
-  - text: әваккурбе
+  - text: әвакке
     gloss: pl
 
 definitions:
@@ -11,9 +11,10 @@ definitions:
       ru: чернозём
     tags: [nature, agriculture]
     examples:
-      - text: дубурла әваккурбе
+      - text: дубурла әвакке
         translation:
           en: mountain chernozems
           ru: горные чернозёмы
 
 derived_from: [әва]
+variants: [~/әваккурбе]

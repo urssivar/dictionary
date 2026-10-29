@@ -5,6 +5,12 @@ tags: [adv]
 definitions:
   - translation:
       en: must
-      ru: должен
+      ru: надо
+    examples:
+      - text: Әнел аччу.
+        translation:
+          en: You mustn't have.
+          ru: Не надо было.
 
+derived_from: [әӏни]
 variants: [әӏнил]

@@ -1,11 +1,12 @@
-headword: әнглиз
+headword: Әнглиз
 ipa: ængˈliz
 tags: [n, adj, loan, russian]
 forms:
-  - text: әнглиз
+  - text: Әнглиз
     gloss: abs
-  - text: әнглизе
+  - text: Әнглизе
     gloss: pl
+
 definitions:
   - translation:
       en: english

@@ -1,18 +1,20 @@
 headword: әнтӏи һабартара
 ipa: ænˌtʼi habaɾˈtaɾa
 tags: [v, cls, tr]
-note:
-  en: The nominal part is unclear
 forms:
-  - text: әнтӏи һабатара
+  - text: һабатара
     gloss: pfv
-  - text: әнтӏи һабатур
+  - text: һабатур
     gloss: pret
-  - text: әнтӏи һабартара
-    gloss: ipfv
+
 definitions:
   - translation:
-      en: to pamper
-      ru: баловать
-    aliases:
-      en: [indulge, spoil]
+      en: to pamper, to spoil
+      ru: баловать, изнеживать
+    examples:
+      - text: һар һакка биӏивил малукка, әнтӏи маһарта.
+        translation:
+          en: Don’t give him everything he asks for; don’t spoil him.
+          ru: Не давай всё, о чём просит, не балуй его.
+
+derived_from: [әнтӏи, бартара]

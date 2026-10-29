@@ -1,9 +1,13 @@
 headword: әнкӏа
 ipa: ænˈkʼa
 tags: [n]
+
 definitions:
   - translation:
       en: soft bark
       ru: мягкая кора
     aliases:
-      en: [tree, skin]
+      en: [tree]
+      ru: [дерево]
+
+derived_from: [әнкӏ]

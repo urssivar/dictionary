@@ -1,9 +1,19 @@
 headword: әнди
 ipa: ænˈdi
 tags: [n]
+forms:
+  - text: әндибе
+    gloss: pl
+
 definitions:
   - translation:
       en: headboard
       ru: изголовье
     aliases:
       en: [pillow, bed]
+      ru: [подушка, кровать]
+    examples:
+      - text: Цацара гута кабишшил әнди чеҡ бара.
+        translation:
+          en: Add another pillow and raise the head end.
+          ru: Положи ещё одну подушку и подними изголовье.

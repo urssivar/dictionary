@@ -1,0 +1,18 @@
+headword: абурккан
+ipa: abuɾˈkːan
+tags: [adj, cls, vb]
+forms:
+  - text: абулккул
+    gloss: adv
+
+definitions:
+  - translation:
+      en: rare, uncommon
+      ru: редкий, редкостный
+    examples:
+      - text: Гунев һеж холтӏиҡӏвәш абурккан де.
+        translation:
+          en: In the past, this was a rare fabric.
+          ru: В прошлом это была редкая ткань.
+
+derived_from: [бурккара]

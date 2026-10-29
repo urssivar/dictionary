@@ -2,21 +2,34 @@ headword: әнчча
 ipa: ˈæntʃːa
 tags: [n]
 forms:
-  - text: әнчча
-    gloss: abs
   - text: әнччин
     gloss: obl
+  - text: әнччирбе
+    gloss: pl
+
 definitions:
   - translation:
       en: clay
       ru: глина
     tags: [nature]
-    aliases:
-      en: [soil]
     examples:
       - text: цӏәв әнчча
         translation:
           en: gypsum
-      - text: буршлила әнчча
+          ru: гипс
+      - text: Буршлила әнчча
         translation:
-          en: gypsum
+          en: clay from Bashlykent (gypsum)
+          ru: башлыкентская глина (гипс)
+      - text: итӏин әнчча
+        translation:
+          en: red clay
+          ru: красная глина
+  - translation:
+      en: soil
+      ru: почва
+    examples:
+      - text: Һеж ҡуцци цикӏал аарган әнчча це.
+        translation:
+          en: The soil in this field is infertile.
+          ru: В этом поле неплодорожная почва.

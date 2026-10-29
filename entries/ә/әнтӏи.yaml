@@ -1,9 +1,13 @@
 headword: әнтӏи
 ipa: ænˈtʼi
 tags: [adj]
+
 definitions:
   - translation:
-      en: effete
-      ru: изнеженный
-    aliases:
-      en: [pampered, sybaritic]
+      en: spoiled, pampered
+      ru: избалованный, изнеженный
+    examples:
+      - text: Цӏаҡӏле әнтӏице це.
+        translation:
+          en: Extremely spoiled.
+          ru: Сильно избалованный.

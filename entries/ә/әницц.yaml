@@ -2,12 +2,11 @@ headword: әницц
 ipa: æˈnitsː
 tags: [n]
 forms:
-  - text: әницц
-    gloss: abs
   - text: әнцце
     gloss: obl
-  - text: әнццирбе
+  - text: әнцциппе
     gloss: pl
+
 definitions:
   - translation:
       en: spring
@@ -15,3 +14,9 @@ definitions:
     tags: [nature]
     aliases:
       en: [water, source]
+      ru: [вода, источник]
+    examples:
+      - text: Әнццела һехав ччакко шшамул ди дачӏил.
+        translation:
+          en: Below the spring, there grows some good-quality mint.
+          ru: Там ниже родника растёт добротная мята.
