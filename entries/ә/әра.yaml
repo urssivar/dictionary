@@ -2,13 +2,17 @@ headword: әра
 ipa: ˈæɾa
 tags: [n]
 forms:
-  - text: әра
-    gloss: abs
   - text: әран
     gloss: obl
+  - text: әрме
+    gloss: pl
+
 definitions:
   - translation:
-      en: mud
-      ru: грязь
-    aliases:
-      en: [slush]
+      en: slush, mud
+      ru: слякоть, грязь
+    examples:
+      - text: Нисса әранцци дәссунда.
+        translation:
+          en: We got bogged down in the mud.
+          ru: Мы завязли в грязи.

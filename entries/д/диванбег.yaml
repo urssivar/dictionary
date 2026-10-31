@@ -2,13 +2,13 @@ headword: диванбег
 ipa: diβanˈbeg
 tags: [n, loan]
 forms:
-  - text: диванбег
-    gloss: abs
   - text: диванбегме
     gloss: pl
+
 definitions:
   - translation:
-      en: assembly host
-      ru: ведущий собрания
-    aliases:
-      en: [leader, moderator, minister]
+      en: judge 
+      ru: судья
+
+derived_from: [диван]
+variants: [ссудийа]

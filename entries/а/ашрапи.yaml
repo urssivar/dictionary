@@ -7,13 +7,18 @@ forms:
 
 definitions:
   - translation:
-      en: golden coin
-      ru: золотая монета
+      en: silver coin
+      ru: серебрянная монета
     tags: [culture]
     aliases:
       en: [money]
       ru: [деньги]
-
+    examples:
+      - text: Ашрапне чи дижил.
+        translation:
+          en: 
+          ru: 
+            
 etymology:
   en: From Arabic أَشْرَفِيّ (*ʔašrafiyy*) "ashrafi" (historical gold coin).
   ru: От арабского أَشْرَفِيّ (*ʔašrafiyy*) "ашрафи" (историческая золотая монета).

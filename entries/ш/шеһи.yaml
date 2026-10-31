@@ -2,13 +2,13 @@ headword: шеһи
 ipa: ʃeˈhi
 tags: [n, loan]
 forms:
-  - text: шеһи
-    gloss: abs
   - text: шеһне
     gloss: pl
+
 definitions:
   - translation:
-      en: five cents
-      ru: 5 копеек
+      en: penny
+      ru: грошь
     aliases:
-      en: [nickel]
+      en: [coin]
+      ru: [монета]

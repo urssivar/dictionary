@@ -1,0 +1,15 @@
+headword: икла
+ipa: ˈikla
+tags: [n, vb]
+
+definitions:
+  - translation:
+      en: paint
+      ru: краска
+    examples:
+      - text: иклала ҡати
+        translation:
+          en: inking roller
+          ru: красящий валик
+
+derived_from: [икара]

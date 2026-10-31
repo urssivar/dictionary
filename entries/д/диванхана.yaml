@@ -1,0 +1,17 @@
+headword: диванхана
+ipa: diβanˈχana
+tags: [n, loan, persian]
+forms:
+  - text: диванханал
+    gloss: obl
+  - text: диванханре
+    gloss: pl
+
+definitions:
+  - translation:
+      en: court
+      ru: суд (место)
+    tags: [social]
+
+derived_from: [диван, хана]
+variants: [ссуд/ссудре]

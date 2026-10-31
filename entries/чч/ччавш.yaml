@@ -2,11 +2,10 @@ headword: ччавш
 ipa: ˈtʃːaβʃ
 tags: [n]
 forms:
-  - text: ччавш
-    gloss: abs
   - text: ччавше
     gloss: pl
+
 definitions:
   - translation:
-      en: herald
-      ru: глашатай
+      en: host, master of ceremonies
+      ru: ведущий, тамада

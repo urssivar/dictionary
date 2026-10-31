@@ -2,11 +2,10 @@ headword: нухратӏ
 ipa: nuχˈɾatʼ
 tags: [n, loan, persian]
 forms:
-  - text: нухратӏ
-    gloss: abs
   - text: нухратӏе
     gloss: pl
+
 definitions:
   - translation:
-      en: silver coin
-      ru: серебрянная монета
+      en: golden coin
+      ru: золотая монета

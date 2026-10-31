@@ -1,7 +1,13 @@
 headword: әпа
-ipa: æˈpa
+ipa: ˈæpa
 tags: [n, loan, arabic]
+
 definitions:
   - translation:
       en: forgiveness of sins
       ru: прощение грехов
+    examples:
+      - text: Әпа барав цинна.
+        translation:
+          en: May the Almighty forgive him.
+          ru: Пусть Всевывышний простит его.

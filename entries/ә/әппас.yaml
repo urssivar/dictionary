@@ -2,13 +2,17 @@ headword: әппас
 ipa: æˈpːas
 tags: [n, loan, persian]
 forms:
-  - text: әппас
-    gloss: abs
   - text: әпписне
     gloss: pl
+    
 definitions:
   - translation:
       en: coin
       ru: монета
-    aliases:
-      en: [penny]
+    examples:
+      - text: дурҡа әпписне
+        translation:
+          en: valuable coins
+          ru: дорогие монеты
+
+variants: [әппасси]

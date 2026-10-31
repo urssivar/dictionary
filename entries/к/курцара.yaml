@@ -1,0 +1,15 @@
+headword: курцара
+ipa: kuɾˈtsaɾa
+tags: [v, cls, ntr]
+forms:
+  - text: кабарцара
+    gloss: pfv
+  - text: кабарцив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to be satisfied, to calm down
+      ru: удовлетворяться, успокаиваться
+
+derived_from: [урцара]

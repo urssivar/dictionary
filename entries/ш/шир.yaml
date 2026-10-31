@@ -1,11 +1,11 @@
 headword: шир
 ipa: ˈʃiɾ
 tags: [n, loan]
-note:
-  en: '*караскка*'
+
 definitions:
   - translation:
-      en: paint
-      ru: краска
+      en: varnish
+      ru: лак
     aliases:
-      en: [color, dye]
+      en: [paint, dye]
+      ru: [краска]

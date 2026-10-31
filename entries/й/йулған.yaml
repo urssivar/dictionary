@@ -1,17 +1,14 @@
 headword: йулған
 ipa: julˈʁan
 tags: [n, loan, kumyk]
-etymology:
-  en: From Kumyk *ювургъан*.
-note:
-  en: "*йурған*, *мирғон*, *бирғон*"
 forms:
-  - text: йулған
-    gloss: abs
   - text: йулғанте
     gloss: pl
+
 definitions:
   - translation:
-      en: quilt
-      ru: стёганное одеяло
+      en: quilt, blanket
+      ru: одеяло (стёганное)
     tags: [clothing]
+
+variants: [йурған, мирғон, бирғон]

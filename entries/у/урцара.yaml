@@ -4,10 +4,9 @@ tags: [v, cls, ntr]
 forms:
   - text: берцара
     gloss: pfv
-  - text: берцур
+  - text: берцив
     gloss: pret
-  - text: бурцара
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to escape

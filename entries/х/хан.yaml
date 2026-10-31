@@ -2,13 +2,10 @@ headword: хан
 ipa: ˈχan
 tags: [n, loan, turkic]
 forms:
-  - text: хан
-    gloss: abs
   - text: ханре
     gloss: pl
+
 definitions:
   - translation:
-      en: ruler
-      ru: правитель
-    aliases:
-      en: [lord, feudal]
+      en: feudal lord
+      ru: феодал

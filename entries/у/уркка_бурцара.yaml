@@ -1,0 +1,16 @@
+headword: уркка бурцара
+ipa: uɾˌkːa buɾˈtsaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: буцара
+    gloss: pfv
+  - text: буцив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to jam, to get stuck
+      ru: заедать, застревать
+
+derived_from: [уркка, бурцара]
+variants: [биж бувттана]

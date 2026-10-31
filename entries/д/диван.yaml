@@ -1,15 +1,12 @@
 headword: диван
 ipa: diˈβan
-tags: [n, loan, arabic]
+tags: [n, loan, persian]
 forms:
-  - text: диван
-    gloss: abs
   - text: диванте
     gloss: pl
+
 definitions:
   - translation:
-      en: assembly
-      ru: собрание
+      en: trial
+      ru: суд (процесс)
     tags: [social]
-    aliases:
-      en: [court, gathering, meeting]

@@ -1,0 +1,15 @@
+headword: бәлссана
+ipa: bælˈsːana
+tags: [v, ntr, cls]
+forms:
+  - text: бәссана
+    gloss: pfv
+  - text: бәссун
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to bog down
+      ru: завязать, застревать
+
+variants: [биж бурцара]

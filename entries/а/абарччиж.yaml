@@ -1,0 +1,16 @@
+headword: абарччиж
+ipa: abaɾˈtʃːiʒ
+tags: [adj, cls, vb]
+
+definitions:
+  - translation:
+      en: uncommon, rare
+      ru: редкостный, редкий
+    examples:
+      - text: Гунев һеж холтӏиҡӏвәш абарччижил де.
+        translation:
+          en: In the past, this fabric was uncommon.
+          ru: В прошлом это была редкая ткань.
+
+derived_from: [бурккара]
+variants: [абурккан]

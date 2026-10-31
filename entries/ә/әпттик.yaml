@@ -1,11 +1,10 @@
-headword: әпттик
-ipa: æpˈtːik
+headword: әпттикк
+ipa: æpˈtːikː
 tags: [n, loan, russian]
 forms:
-  - text: әпттик
-    gloss: abs
-  - text: әпттикне
+  - text: әпттикке
     gloss: pl
+
 definitions:
   - translation:
       en: pharmacy

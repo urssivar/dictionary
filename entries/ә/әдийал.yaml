@@ -7,8 +7,8 @@ forms:
 
 definitions:
   - translation:
-      en: blanket
-      ru: одеяло
+      en: bedcover, blanket
+      ru: покрывало, одеяло
     tags: [clothing]
 
 etymology:

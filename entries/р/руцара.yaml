@@ -1,0 +1,15 @@
+headword: руцара
+ipa: ɾuˈtsaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: берцара
+    gloss: pfv
+  - text: берцур
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to get stuck
+      ru: застревать
+
+variants: [биж бирццара]

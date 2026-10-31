@@ -1,11 +1,11 @@
 headword: цӏунут
 ipa: tsʼuˈnut
 tags: [n]
-note:
-  en: ST2021
+forms:
+  - text: цӏунуте
+    gloss: pl
+
 definitions:
   - translation:
-      en: axle
+      en: axis, pivot
       ru: ось
-    aliases:
-      en: [axis, pivot, shaft]

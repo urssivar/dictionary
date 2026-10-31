@@ -1,0 +1,17 @@
+headword: Әприлбацц
+ipa: æpˈɾilbatsː
+tags: [n, loan, russian]
+forms:
+  - text: Әприлбацце
+    gloss: obl
+  - text: Әприлбиццре
+    gloss: pl
+
+definitions:
+  - translation:
+      en: april
+      ru: апрель
+    aliases:
+      en: [month]
+
+derived_from: [бацц]

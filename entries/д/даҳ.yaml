@@ -1,18 +1,14 @@
 headword: даҳ
 ipa: ˈdax
 tags: [conj]
-etymology:
-  en: Might be from *белҳона* "to sow".
+
 definitions:
   - translation:
-      en: due to
-      ru: потому что
+      en: despite, although
+      ru: несмотря, хотя
     aliases:
       en: [because, thanks, for]
     examples:
-      - text: марка бил даҳ дуживда
-        translation:
-          en: we stayed due to rain
+      - text: Ттура һейсе буххал даҳ, ду уживда.
 
-### марка бил даҳ цәунда
-### марка даҳ ?
+variants: [ҳҳал, ҳҳарра]

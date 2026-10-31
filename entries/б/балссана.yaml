@@ -1,15 +1,12 @@
-headword: балсана
-ipa: balˈsana
+headword: балссана
+ipa: balˈsːana
 tags: [v, tr, cls]
-note:
-  en: "*бялсана*"
 forms:
-  - text: басана
+  - text: бассана
     gloss: pfv
-  - text: басун
+  - text: бассун
     gloss: pret
-  - text: балсана
-    gloss: ipfv
+ 
 definitions:
   - translation:
       en: to mold

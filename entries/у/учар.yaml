@@ -2,13 +2,15 @@ headword: учар
 ipa: uˈtʃaɾ
 tags: [n]
 forms:
-  - text: учар
-    gloss: abs
   - text: учарте
     gloss: pl
+
 definitions:
   - translation:
       en: venue
       ru: годекан, место сбора
     aliases:
       en: [scene]
+
+derived_from: ["*уче"]
+variants: [учер]

@@ -2,14 +2,20 @@ headword: әппа иҡара
 ipa: æˌpːa iˈqaɾa
 tags: [v, tr]
 forms:
-  - text: әппа аҡара
+  - text: аҡара
     gloss: pfv
-  - text: әппа аҡив
+  - text: аҡив
     gloss: pret
-  - text: әппа иҡара
-    gloss: ipfv
+
 definitions:
   - translation:
       en: to put on one's back
       ru: усадить на спину
     tags: [child]
+    examples:
+      - text: Һари, әппа аҡе.
+        translation:
+          en: Come on, hop on my back.
+          ru: А ну, садись на спину. 
+
+variants: [аппа ~]

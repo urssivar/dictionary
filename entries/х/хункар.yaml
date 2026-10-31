@@ -2,13 +2,10 @@ headword: хункар
 ipa: χunˈkaɾ
 tags: [n, loan, turkic]
 forms:
-  - text: хункар
-    gloss: abs
   - text: хункарте
     gloss: pl
+
 definitions:
   - translation:
-      en: courier
-      ru: гонец
-    aliases:
-      en: [herald, ambassador, messenger]
+      en: monarch, sovereign
+      ru: монарх, суверен
