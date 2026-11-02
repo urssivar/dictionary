@@ -2,13 +2,19 @@ headword: әрз
 ipa: ˈæɾz
 tags: [n, loan, arabic]
 forms:
-  - text: әрз
-    gloss: abs
+  - text: әрза
+    gloss: obl
   - text: әрзне
     gloss: pl
+
 definitions:
   - translation:
-      en: complaint
-      ru: жалоба
-    aliases:
-      en: [slander, claim, appeal]
+      en: complaint, claim
+      ru: жалоба, претензия
+    examples:
+      - text: Һелел дами әрз барив.
+        translation:
+          en: He complained about me.
+          ru: Он на меня пожаловался.
+
+variants: [әрза]

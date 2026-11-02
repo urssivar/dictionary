@@ -1,5 +1,5 @@
-headword: урцара
-ipa: uɾˈtsaɾa
+headword: буцара
+ipa: buˈtsaɾa
 tags: [v, cls, ntr]
 forms:
   - text: берцара
@@ -14,6 +14,6 @@ definitions:
     aliases:
       en: [save]
     examples:
-      - text: ттутту буцал бекӏ бурцар
+      - text: ттутту буцал бекӏ буцар
         translation:
           en: who keeps his mouth will keep his head

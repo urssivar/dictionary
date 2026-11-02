@@ -1,0 +1,18 @@
+headword: Әрбичӏе
+ipa: æɾˈbitʃʼe
+tags: [n]
+forms:
+  - text: Әрбичӏи
+    gloss: obl
+  - text: Әрбикӏан
+    gloss: dnz.sg
+  - text: Әрбичӏила
+    gloss: dnz.pl
+
+definitions:
+  - translation:
+      en: Kubachi (village)
+      ru: Кубачи (село)
+    tags: [placename, people]
+
+variants: [Әрбачӏе]

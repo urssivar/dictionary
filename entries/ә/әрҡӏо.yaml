@@ -2,14 +2,13 @@ headword: әрҡӏо
 ipa: ˈæɾqʼʷa
 tags: [n]
 forms:
-  - text: әрҡӏо
-    gloss: abs
-  - text: ирҡӏвә
+  - text: ирҡӏне
     gloss: pl
+
 definitions:
   - translation:
       en: chicken
       ru: курица
-    tags: [animal]
-    aliases:
-      en: [hen]
+    tags: [animal, agriculture]
+
+variants: [~/ирҡӏвә]

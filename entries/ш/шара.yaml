@@ -2,12 +2,11 @@ headword: шара
 ipa: ˈʃaɾa
 tags: [n]
 forms:
-  - text: шара
-    gloss: abs
   - text: шаран
     gloss: obl, loc
   - text: ширбе
     gloss: pl
+
 definitions:
   - translation:
       en: puddle
@@ -21,3 +20,6 @@ definitions:
     tags: [nature]
     aliases:
       en: [pond]
+  - translation:
+      en: garden bed
+      ru: грядка

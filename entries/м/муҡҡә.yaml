@@ -9,6 +9,12 @@ forms:
 
 definitions:
   - translation:
+      en: peg
+      ru: колышек
+    tags: [tool]
+  - translation:
       en: hanger
       ru: вешалка
     tags: [tool]
+
+variants: [ҡҡәртта/ҡҡарттан-/ҡҡәрттиппе]

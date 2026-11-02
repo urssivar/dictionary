@@ -2,16 +2,13 @@ headword: чӏале
 ipa: ˈtʃʼale
 tags: [n]
 forms:
-  - text: чӏале
-    gloss: abs
   - text: чӏалин
     gloss: obl
   - text: чӏилме
     gloss: pl
+
 definitions:
   - translation:
-      en: shoot
-      ru: побег
+      en: shoot, sprout
+      ru: побег, росток
     tags: [nature]
-    aliases:
-      en: [branch, plant]

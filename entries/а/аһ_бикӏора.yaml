@@ -4,10 +4,15 @@ tags: [v, ntr, cls]
 
 definitions:
   - translation:
-      en: to be unwell, to moan
-      ru: недомогать, стонать
+      en: to moan, to be unwell
+      ru: стонать, недомогать
     aliases:
       en: [to be sick]
       ru: [болеть]
+    examples:
+      - text: Әрти һәйгон цӏаҡӏле аһ бикӏул це, хол буҡен абиҡҡар.
+        translation:
+          en: The spotted cow is moaning a lot and won't last long.
+          ru: Пятнистая корова сильно стонет, долго не протянет.
 
 derived_from: [аһ, бикӏора]

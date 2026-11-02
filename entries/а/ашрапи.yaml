@@ -10,14 +10,11 @@ definitions:
       en: silver coin
       ru: серебрянная монета
     tags: [culture]
-    aliases:
-      en: [money]
-      ru: [деньги]
     examples:
-      - text: Ашрапне чи дижил.
+      - text: Ашрапне ккурттени кивҡун.
         translation:
-          en: 
-          ru: 
+          en: They hung silver coins on the dress.
+          ru: Повесили серебряные монеты на платье.
             
 etymology:
   en: From Arabic أَشْرَفِيّ (*ʔašrafiyy*) "ashrafi" (historical gold coin).

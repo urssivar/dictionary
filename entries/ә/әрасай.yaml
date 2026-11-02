@@ -1,8 +1,14 @@
-headword: әрасай
+headword: Әрасай
 ipa: æɾaˈsaj
 tags: [n, loan]
+
 definitions:
   - translation:
-      en: russia
-      ru: россия
-    tags: [toponym]
+      en: Russia
+      ru: Россия
+    tags: [placename]
+    examples:
+      - text: Әрасайи вегур улчӏана.
+        translation:
+          en: He went to Russia to study.
+          ru: Он оправился в Россию учиться.

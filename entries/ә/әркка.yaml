@@ -1,9 +1,13 @@
 headword: әркка
-ipa: æɾˈkːa
+ipa: ˈæɾkːa
 tags: [adj]
+
 definitions:
   - translation:
-      en: ill
-      ru: больной
-    aliases:
-      en: [sick]
+      en: sick, unwell
+      ru: больной, недомогающий
+    examples:
+      - text: Ҡуцци вәрӏил әркка виһәвда.
+        translation:
+          en: I caught a cold out in the field and now I’m sick.
+          ru: Простыл в поле и теперь болею.

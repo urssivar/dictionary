@@ -1,15 +1,12 @@
 headword: чӏәнкӏа
 ipa: tʃʼænˈkʼa
 tags: [n]
-note:
-  en: "*чьянкьне* (pl)"
 forms:
-  - text: чӏәнкӏа
-    gloss: abs
   - text: чӏәнкӏан
     gloss: obl
   - text: чӏәнкӏиппе
     gloss: pl
+
 definitions:
   - translation:
       en: palas carpet

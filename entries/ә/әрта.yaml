@@ -2,12 +2,16 @@ headword: әрта
 ipa: ˈæɾta
 tags: [n]
 forms:
-  - text: әрта
-    gloss: abs
   - text: әртне
     gloss: pl
+
 definitions:
   - translation:
       en: weasel
       ru: ласка
     tags: [animal]
+    examples:
+      - text: Шиҡне кадишул це, һел әртала әчу це.
+        translation:
+          en: The chicks were killed; this is the work of a weasel.
+          ru: Цыплят убили, это работа ласки.

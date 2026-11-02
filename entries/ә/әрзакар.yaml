@@ -1,0 +1,16 @@
+headword: әрзакар
+ipa: æɾzaˈkaɾ
+tags: [n]
+forms:
+  - text: әрзакарте
+    gloss: pl
+
+definitions:
+  - translation:
+      en: prosecutor
+      ru: обвинитель
+    aliases:
+      en: [plaintiff]
+      ru: [истец]
+
+derived_from: [әрз]

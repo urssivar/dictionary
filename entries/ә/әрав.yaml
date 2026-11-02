@@ -1,17 +1,12 @@
-headword: әрав
+headword: Әрав
 ipa: æˈɾaβ
 tags: [n, adj, loan, arabic]
 forms:
-  - text: әрав
-    gloss: abs
-  - text: әравте
+  - text: Әравла
     gloss: pl
+
 definitions:
   - translation:
-      en: arab
+      en: Arab
       ru: араб, арабский
-    tags: [demonym]
-    examples:
-      - text: әрав даһаг
-        translation:
-          en: horrible
+    tags: [people]

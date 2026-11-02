@@ -1,0 +1,14 @@
+headword: чӏиме
+ipa: ˈtʃʼime
+tags: [n]
+forms:
+  - text: чӏимин
+    gloss: abs
+  - text: чӏимре
+    gloss: pl
+
+definitions:
+  - translation:
+      en: toothpick
+      ru: зубочистка
+    tags: [tool]

@@ -1,0 +1,18 @@
+headword: агаһ
+ipa: aˈgah
+tags: [n, vb]
+forms:
+  - text: агаһе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: result, outcome
+      ru: результат, исход
+    examples:
+      - text: Баһара биккул де, ци агаһ би йел?
+        translation:
+          en: I wanted to find out — what's the result?
+          ru: Хотел узнал, какой результат?
+
+derived_from: [аргара]
