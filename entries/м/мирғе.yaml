@@ -6,5 +6,8 @@ definitions:
   - translation:
       en: plank
       ru: планка
-
+    aliases:
+      en: [stick]
+      ru: [палка]
+      
 see_also: [мирғә]

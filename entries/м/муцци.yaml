@@ -1,12 +1,9 @@
 headword: муцци
 ipa: muˈtsːi
 tags: [n]
-note:
-  en: ST2021
+
 definitions:
   - translation:
-      en: arrowhead
-      ru: наконечник
+      en: spearhead, point, tip
+      ru: наконечник, острие
     tags: [tool]
-    aliases:
-      en: [tip]

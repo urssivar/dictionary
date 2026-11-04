@@ -1,19 +1,21 @@
 headword: кказа
-ipa: kːaˈza
+ipa: ˈkːaza
 tags: [n]
-note:
-  en: "*газа*, *ккацца*"
 forms:
-  - text: кказа
-    gloss: abs
   - text: кказан
     gloss: obl
   - text: ккизне
     gloss: pl
+
 definitions:
   - translation:
       en: hoe
       ru: мотыга
     tags: [agriculture, tool]
-    aliases:
-      en: [pick]
+    examples:
+      - text: әрус кказа
+        translation:
+          en: wide hoe
+          ru: широкая мотыга
+
+variants: [газа, ккацца]

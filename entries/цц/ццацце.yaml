@@ -2,8 +2,6 @@ headword: ццацце
 ipa: ˈtsːatsːe
 tags: [n]
 forms:
-  - text: ццацце
-    gloss: abs
   - text: ццаццин
     gloss: obl
   - text: цциццбе
@@ -11,8 +9,7 @@ forms:
 
 definitions:
   - translation:
-      en: splinter
-      ru: заноза
-    aliases:
-      en: [sliver, thorn]
-      ru: [щепка, колючка]
+      en: stud, spike
+      ru: шип, спилька
+
+variants: [ццецци]

@@ -2,17 +2,18 @@ headword: ттәппруг
 ipa: tːæpːˈɾug
 tags: [n]
 forms:
-  - text: ттәппруг
-    gloss: abs
   - text: ттәппруге
     gloss: pl
+
 definitions:
   - translation:
-      en: rod
-      ru: прут
+      en: fishing rod
+      ru: удочка
     aliases:
       en: [stick]
+      ru: [палка]
     examples:
       - text: бәлиҡҡе дурцан ттәппруг
         translation:
           en: finshing rod
+          ru: удочка для ловли рыб

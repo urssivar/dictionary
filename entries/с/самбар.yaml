@@ -1,12 +1,9 @@
 headword: самбар
 ipa: samˈbaɾ
 tags: [n]
-note:
-  en: '*ьуркан*'
+
 definitions:
   - translation:
-      en: lasso
-      ru: аркан
+      en: lasso, noose
+      ru: аркан, лассо
     tags: [tool]
-    aliases:
-      en: [noose]

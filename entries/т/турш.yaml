@@ -1,12 +1,11 @@
 headword: турш
 ipa: ˈtuɾʃ
 tags: [n]
-note:
-  en: "*ҡьай*, *невш*"
+
 definitions:
   - translation:
       en: radish
       ru: редька
     tags: [nature, plant, food]
-    aliases:
-      en: [daikon]
+
+variants: [живғитӏи, буҡу невш]

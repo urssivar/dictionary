@@ -1,0 +1,18 @@
+headword: әрххә
+ipa: ˈæɾχːæ
+tags: [n]
+forms:
+  - text: әрххәл
+    gloss: obl
+  - text: әрхне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: trip, mission
+      ru: поездка, миссия
+    examples:
+      - text: Ғурш шаһарцци әрххәли дашид.
+        translation:
+          en: We have a trip to the city tomorrow.
+          ru: Завтра у нас поездка в город.

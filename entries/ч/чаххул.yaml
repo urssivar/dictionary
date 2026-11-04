@@ -1,14 +1,14 @@
-headword: чахул
+headword: чаххул
 ipa: tʃaˈχːul
 tags: [n]
 forms:
-  - text: чахул
-    gloss: abs
   - text: чихле
     gloss: pl
+
 definitions:
   - translation:
-      en: thorn
+      en: thorn, barb
       ru: колючка
-    aliases:
-      en: [prickle]
+  - translation:
+      en: splinter
+      ru: заноза

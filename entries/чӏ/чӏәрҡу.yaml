@@ -2,13 +2,14 @@ headword: чӏәрҡу
 ipa: tʃʼæɾˈqu
 tags: [n]
 forms:
-  - text: чӏәрҡу
-    gloss: abs
   - text: чӏәрҡне
     gloss: pl
+
 definitions:
   - translation:
-      en: birch rod
-      ru: розга
+      en: birch rod, lash
+      ru: розга, плеть
     aliases:
-      en: [whip, punish]
+      en: [whip]
+      ru: [кнут]
+    tags: [tool]

@@ -1,0 +1,17 @@
+headword: әрх
+ipa: ˈæɾχ
+tags: [n]
+forms:
+  - text: ирхне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: snot
+      ru: сопля
+    tags: [body]
+    note:
+      en: Usually plural.
+      ru: Обычно во мн. ч.
+
+variants: [~/әрхне]

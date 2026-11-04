@@ -1,0 +1,16 @@
+headword: арцце
+ipa: ˈaɾtsːe
+tags: [n]
+forms:
+  - text: арцци
+    gloss: obl
+  - text: арццне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: greater burdock (arctium lappa)
+      ru: репейник (arctium lappa)
+    tags: [nature, plant, bush]
+
+variants: [әрцци]

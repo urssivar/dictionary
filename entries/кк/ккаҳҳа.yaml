@@ -1,17 +1,14 @@
-headword: ккаҳ
-ipa: ˈkːax
+headword: ккаҳҳа
+ipa: ˈkːaxːa
 tags: [n]
-note:
-  en: ST2021
 forms:
-  - text: ккаҳ
-    gloss: abs
   - text: ккиҳре
     gloss: pl
+
 definitions:
   - translation:
       en: sting
       ru: жало
     tags: [animal]
-    aliases:
-      en: [dart]
+
+variants: [кка/ккал-/ккиме]

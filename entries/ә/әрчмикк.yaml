@@ -2,14 +2,16 @@ headword: әрчмикк
 ipa: æɾtʃˈmikː
 tags: [n]
 forms:
-  - text: әрчмикк
-    gloss: abs
   - text: әрчмикке
     gloss: pl
+
 definitions:
   - translation:
-      en: whip
-      ru: плеть
+      en: whip, lash
+      ru: кнут, хлыст
     tags: [tool]
-    aliases:
-      en: [lash]
+    examples:
+      - text: Йәбуй әрчмикке чи кадәҡив.
+        translation:
+          en: They urged the horse on with a whip.
+          ru: Погнали лошадь кнутом.

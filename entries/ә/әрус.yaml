@@ -1,15 +1,11 @@
-headword: әрус
+headword: Әрус
 ipa: æˈɾus
 tags: [n, adj, loan]
 forms:
-  - text: әрус
-    gloss: abs
-  - text: әрусе
+  - text: Әруссе
     gloss: pl
+
 definitions:
   - translation:
-      en: russian
+      en: Russian
       ru: русский
-  - translation:
-      en: christian
-      ru: христианин
