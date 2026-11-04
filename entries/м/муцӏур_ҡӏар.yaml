@@ -7,6 +7,6 @@ definitions:
   - translation:
       en: horsetail
       ru: хвощ
-    tags: [nature, plant, grass]
+    tags: [nature, plant]
     aliases:
       en: [equisetum]

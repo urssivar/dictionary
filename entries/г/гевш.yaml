@@ -12,6 +12,6 @@ definitions:
   - translation:
       en: foundation
       ru: фундамент
-    tags: [tech, house]
+    tags: [structure]
     aliases:
       en: [groundwork, base]

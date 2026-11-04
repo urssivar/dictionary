@@ -9,7 +9,7 @@ definitions:
   - translation:
       en: cherry plum
       ru: алыча
-    tags: [fruit]
+    tags: [nature, food]
     aliases:
       en: [plum]
       ru: [слива]
@@ -19,7 +19,7 @@ definitions:
   - translation:
       en: cherry plum tree
       ru: алычовое дерево
-    tags: [tree]
+    tags: [nature, plant]
 
 etymology:
   en: From Persian آلوچه (*âluče*) "damson, plum".

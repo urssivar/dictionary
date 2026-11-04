@@ -11,7 +11,7 @@ definitions:
   - translation:
       en: wheel
       ru: колес
-    tags: [technology]
+    tags: [tool]
     examples:
       - text: Аттал әла давкк барив.
         translation:

@@ -10,7 +10,7 @@ definitions:
   - translation:
       en: to function
       ru: функционировать
-    tags: [tech]
+    tags: [tool]
     aliases:
       en: [work, operate]
     examples:

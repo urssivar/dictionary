@@ -6,6 +6,6 @@ definitions:
   - translation:
       en: reedgrass
       ru: вейник
-    tags: [nature, plant, grass]
+    tags: [nature, plant]
 
 derived_from: [мугул, мура]

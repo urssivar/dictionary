@@ -9,7 +9,7 @@ definitions:
   - translation:
       en: atlas (fabric)
       ru: атлас (ткань)
-    tags: [fabric]
+    tags: [material]
     aliases:
       en: [silk, satin]
       ru: [шёлк, сатин]

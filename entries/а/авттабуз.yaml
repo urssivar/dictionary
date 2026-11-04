@@ -9,7 +9,7 @@ definitions:
   - translation:
       en: bus
       ru: автобус
-    tags: [technology]
+    tags: [tool]
     aliases:
       en: [vehicle]
       ru: [транспорт]

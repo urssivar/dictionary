@@ -6,6 +6,6 @@ definitions:
   - translation:
       en: thistle
       ru: чертополох
-    tags: [nature, plant, grass]
+    tags: [nature, plant]
     aliases:
       en: [carduus]

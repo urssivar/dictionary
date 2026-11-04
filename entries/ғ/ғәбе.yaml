@@ -6,7 +6,7 @@ definitions:
   - translation:
       en: parsnip chervil
       ru: бутень
-    tags: [nature, plant, food, bush]
+    tags: [nature, plant, food]
     aliases:
       en: [potato]
 

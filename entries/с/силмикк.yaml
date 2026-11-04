@@ -10,8 +10,8 @@ definitions:
   - translation:
       en: hazelnut
       ru: фундук
-    tags: [food]
+    tags: [nature, food]
   - translation:
       en: hazel
       ru: лещина
-    tags: [nature, tree]
+    tags: [nature, plant]

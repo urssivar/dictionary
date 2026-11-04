@@ -7,6 +7,6 @@ definitions:
   - translation:
       en: fern
       ru: папоротник
-    tags: [nature, plant, bush]
+    tags: [nature, plant]
     aliases:
       en: [bracken]

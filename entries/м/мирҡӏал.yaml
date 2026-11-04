@@ -9,7 +9,7 @@ definitions:
   - translation:
       en: wormwood
       ru: полынь
-    tags: [nature, plant, grass]
+    tags: [nature, plant]
     aliases:
       en: [artemisia, sagebrush]
 

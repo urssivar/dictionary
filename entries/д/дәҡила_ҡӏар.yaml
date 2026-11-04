@@ -9,6 +9,6 @@ definitions:
   - translation:
       en: plantain
       ru: подорожник
-    tags: [nature, plant, grass]
+    tags: [nature, plant]
     aliases:
       en: [plantago]

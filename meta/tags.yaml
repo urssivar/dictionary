@@ -99,27 +99,9 @@ semantic:
   animal: # animals (general category)
     en: animal
     ru: животное
-  bird: # birds specifically
-    en: bird
-    ru: птица
-  insect: # insects and arthropods
-    en: insect
-    ru: насекомое
   plant: # plants (general - non-woody plants, bushes, flowers, grasses)
     en: plant
     ru: растение
-  tree: # trees (woody plants)
-    en: tree
-    ru: дерево
-  fruit: # fruits
-    en: fruit
-    ru: фрукт
-  vegetable: # vegetables
-    en: vegetable
-    ru: овощ
-  berry: # berries
-    en: berry
-    ru: ягода
 
   # Human & society
   kinship: # family relations and kinship terms
@@ -145,9 +127,6 @@ semantic:
   clothing: # clothing and garments
     en: clothing
     ru: одежда
-  fabric: # cloth and fabric materials
-    en: fabric
-    ru: ткань
   food: # food and drink
     en: food
     ru: еда
@@ -167,9 +146,6 @@ semantic:
   agriculture: # agriculture and farming
     en: agriculture
     ru: сельское хозяйство
-  technology: # modern mechanical/electrical innovations
-    en: technology
-    ru: технология
 
   # Physical & abstract
   body: # body parts and anatomy

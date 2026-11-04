@@ -10,7 +10,7 @@ definitions:
   - translation:
       en: apple
       ru: яблоко
-    tags: [plant, tree, food, fruit]
+    tags: [nature, plant, food]
     examples:
       - text: ғәрбар һинце
         translation:

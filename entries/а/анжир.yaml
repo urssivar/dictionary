@@ -9,7 +9,7 @@ definitions:
   - translation:
       en: fig
       ru: инжир
-    tags: [fruit]
+    tags: [nature, food]
     aliases:
       ru: [фига]
     note:
@@ -20,7 +20,7 @@ definitions:
       ru: инжировое дерево
     aliases:
       ru: [смоковница]
-    tags: [tree]
+    tags: [nature, plant]
 
 etymology:
   en: From Persian انجیر (*anjir*) "fig".
