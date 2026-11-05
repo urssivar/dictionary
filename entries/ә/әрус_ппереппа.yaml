@@ -10,5 +10,10 @@ definitions:
     aliases:
       en: [needle]
       ru: [иголка]
+    examples:
+      - text: Әрус ппереппа девга бара уле ааччихара.
+        translation:
+          en: Fasten the safety pin so you don’t get jinxed.
+          ru: Закрой булавку чтобы не сглазили.
 
 variants: [әрус, ппереппа]

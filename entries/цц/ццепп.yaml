@@ -2,19 +2,14 @@ headword: ццепп
 ipa: ˈtsːepː
 tags: [n, loan, russian]
 forms:
-  - text: ццепп
-    gloss: abs
   - text: цциппре
     gloss: pl
 
 definitions:
   - translation:
-      en: chain
-      ru: цепочка
+      en: zipper
+      ru: застёжка-молния
     tags: [clothing]
-    aliases:
-      en: [necklace]
-      ru: [цепь]
 
 etymology:
   en: From Russian *цепь* "chain".

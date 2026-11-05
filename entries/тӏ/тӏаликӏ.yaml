@@ -2,11 +2,13 @@ headword: тӏаликӏ
 ipa: tʼaˈlikʼ
 tags: [n]
 forms:
-  - text: тӏаликӏ
-    gloss: abs
   - text: тӏаликӏе
     gloss: pl
+
 definitions:
+  - translation:
+      en: strap
+      ru: ремешок, завязка
   - translation:
       en: stalk
       ru: плодоножка

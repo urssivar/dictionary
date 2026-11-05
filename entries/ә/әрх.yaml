@@ -13,5 +13,10 @@ definitions:
     note:
       en: Usually plural.
       ru: Обычно во мн. ч.
+    examples:
+      - text: Һелтти ирхне ҡвәш дара.
+        translation:
+          en: Wipe away that snot.
+          ru: Вытери эти сопли.
 
 variants: [~/әрхне]

@@ -1,8 +1,7 @@
 headword: баһ
 ipa: ˈbah
-tags: [adj]
-note:
-  en: '*баьла*'
+tags: [adv]
+
 definitions:
   - translation:
       en: the most
@@ -11,3 +10,8 @@ definitions:
       - text: Дитацци тта баһ дурҡаце асив
         translation:
           en: brought the most expensive one
+  - translation:
+      en: just now
+      ru: только что
+    
+variants: [баһла]

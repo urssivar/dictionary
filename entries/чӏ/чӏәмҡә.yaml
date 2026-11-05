@@ -9,5 +9,9 @@ forms:
 
 definitions:
   - translation:
-      en: sapling
-      ru: саженец
+      en: shoot, twig
+      ru: побег, веточка
+    tags: [nature]
+    aliases:
+      en: [branch]
+      ru: [ветка]

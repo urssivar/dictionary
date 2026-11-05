@@ -1,8 +1,11 @@
 headword: ҡҡаш
 ipa: ˈqːaʃ
 tags: [n]
+forms:
+  - text: ҡҡишре
+    gloss: pl
 
 definitions:
   - translation:
-      en: knob, handle
-      ru: ручка, набалдашник
+      en: handrail, handhold
+      ru: поручень

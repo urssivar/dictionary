@@ -1,11 +1,10 @@
-headword: жигриг
-ipa: ʒigˈɾig
+headword: ччигриг
+ipa: tʃːigˈɾig
 tags: [n]
 forms:
-  - text: жигриг
-    gloss: abs
-  - text: жигриге
+  - text: ччигриге
     gloss: pl
+
 definitions:
   - translation:
       en: pole
@@ -13,3 +12,5 @@ definitions:
     tags: [tool]
     aliases:
       en: [stick]
+
+variants: [жигриг]

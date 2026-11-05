@@ -9,8 +9,8 @@ forms:
 
 definitions:
   - translation:
-      en: shoot, twig
-      ru: побег, веточка
+      en: outgrowth, sprout
+      ru: отросток, росток
     tags: [nature]
     aliases:
       en: [branch]

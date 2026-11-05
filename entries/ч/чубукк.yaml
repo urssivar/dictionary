@@ -2,10 +2,9 @@ headword: чубукк
 ipa: tʃuˈbukː
 tags: [n]
 forms:
-  - text: чубукк
-    gloss: abs
   - text: чубукке
     gloss: pl
+
 definitions:
   - translation:
       en: sapling
