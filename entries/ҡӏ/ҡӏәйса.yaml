@@ -1,17 +1,14 @@
-headword: ҡӏәйса
-ipa: qʼæjˈsa
+headword: ҡӏәйсса
+ipa: ˈqʼæjsːa
 tags: [n, loan, arabic]
 forms:
-  - text: ҡӏәйса
-    gloss: abs
-  - text: ҡӏәйсан
+  - text: ҡӏәйсcан
     gloss: obl
   - text: ҡӏәйсне
     gloss: pl
+
 definitions:
   - translation:
-      en: staff
-      ru: посох
+      en: crutch
+      ru: костыль
     tags: [tool]
-    aliases:
-      en: [crutch]

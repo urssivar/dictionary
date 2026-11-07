@@ -1,0 +1,21 @@
+headword: баӏ
+ipa: ˈbaʔ
+tags: [n]
+forms:
+  - text: биӏре
+    gloss: pl
+
+definitions:
+  - translation:
+      en: opportunity
+      ru: возможность
+    aliases:
+      en: [chance]
+    examples:
+      - text: баӏ бугун дила
+        translation:
+          en: i'm at despair
+      - text: баӏ ра даг дуцил
+        translation:
+          en: trying his best
+          ru:

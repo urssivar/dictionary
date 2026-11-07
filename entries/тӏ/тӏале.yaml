@@ -1,13 +1,12 @@
-headword: тӏеле
-ipa: ˈtʼele
+headword: тӏале
+ipa: ˈtʼale
 tags: [n]
 forms:
-  - text: тӏеле
-    gloss: abs
-  - text: тӏелин
+  - text: тӏалин
     gloss: obl
   - text: тӏилме
     gloss: pl
+
 definitions:
   - translation:
       en: handle

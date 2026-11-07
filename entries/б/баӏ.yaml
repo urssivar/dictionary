@@ -2,10 +2,9 @@ headword: баӏ
 ipa: ˈbaʔ
 tags: [n]
 forms:
-  - text: баӏ
-    gloss: abs
-  - text: биӏре
+  - text: биӏруме
     gloss: pl
+
 definitions:
   - translation:
       en: edge
@@ -23,16 +22,3 @@ definitions:
   - translation:
       en: beginning
       ru: начало
-  - translation:
-      en: opportunity
-      ru: возможность
-    aliases:
-      en: [chance]
-    examples:
-      - text: баӏ бугун дила
-        translation:
-          en: i'm at despair
-      - text: баӏ ра даг дуцил
-        translation:
-          en: trying his best
-          ru:

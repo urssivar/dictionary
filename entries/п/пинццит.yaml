@@ -1,0 +1,12 @@
+headword: пинццит
+ipa: pinˈtsːit
+tags: [n, loan, russian]
+forms:
+  - text: пинцците
+    gloss: pl
+
+definitions:
+  - translation:
+      en: tweezers
+      ru: пинцет
+    tags: [tool]

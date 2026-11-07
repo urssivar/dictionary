@@ -1,11 +1,10 @@
-headword: парццинт
-ipa: paɾˈtsːint
+headword: ппарццинт
+ipa: pːaɾˈtsːint
 tags: [n, loan, russian]
 forms:
-  - text: парццинт
-    gloss: abs
-  - text: парццинте
+  - text: ппарццинте
     gloss: pl
+
 definitions:
   - translation:
       en: percent

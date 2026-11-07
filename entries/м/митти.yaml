@@ -1,0 +1,14 @@
+headword: митти
+ipa: miˈtːi
+tags: [n]
+forms:
+  - text: миттин
+    gloss: obl
+  - text: миттне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: hymen
+      ru: гимен
+    tags: [body]

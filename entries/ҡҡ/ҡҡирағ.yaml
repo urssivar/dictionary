@@ -7,7 +7,5 @@ forms:
 
 definitions:
   - translation:
-      en: rim
-      ru: обод
-    aliases:
-      en: [perimeter, border]
+      en: outskirts, periphery
+      ru: окраина, периферия

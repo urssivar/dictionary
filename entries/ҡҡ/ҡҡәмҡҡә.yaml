@@ -2,12 +2,11 @@ headword: ҡҡәмҡҡә
 ipa: ˈqːæmqːæ
 tags: [n]
 forms:
-  - text: ҡҡәмҡҡә
-    gloss: abs
   - text: ҡҡәмҡҡән
     gloss: obl
   - text: ҡҡәмҡҡне
     gloss: pl
+
 definitions:
   - translation:
       en: pitchfork
@@ -17,3 +16,5 @@ definitions:
       en: 2 meters
       ru: 2 метра
     tags: [measure]
+
+see_also: [ҡӏәга]

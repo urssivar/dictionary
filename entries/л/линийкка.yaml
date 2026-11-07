@@ -1,0 +1,14 @@
+headword: линийкка
+ipa: linijˈkːa
+tags: [n, loan, russian]
+forms:
+  - text: линийккан
+    gloss: abs
+  - text: линийккне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: ruler
+      ru: линейка
+    tags: [tool]

@@ -1,8 +1,19 @@
 headword: әрш
 ipa: ˈæɾʃ
 tags: [n]
+forms:
+  - text: әршре
+    gloss: pl
+
 definitions:
   - translation:
       en: fat tail
       ru: курдюк
-    tags: [food, animal, body]
+    tags: [food]
+    examples:
+      - text: Ғәв бизил баҡил әрш букан.
+        translation:
+          en: The silent cat eats a lot of fat tail.
+          ru: Молчаливая кошка ест много курдюка.
+
+variants: [әш]
