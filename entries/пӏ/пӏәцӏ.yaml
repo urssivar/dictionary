@@ -1,17 +1,8 @@
 headword: пӏәцӏ
 ipa: ˈpʼætsʼ
-tags: [n, adj]
-forms:
-  - text: пӏәцӏ
-    gloss: abs
-  - text: пӏәцӏне
-    gloss: pl
+tags: [adj]
+
 definitions:
-  - translation:
-      en: imprint
-      ru: отпечаток
-    aliases:
-      en: [stamp, mark, print]
   - translation:
       en: sticky
       ru: липкий

@@ -7,7 +7,7 @@ forms:
 
 definitions:
   - translation:
-      en: pole
+      en: bar, pole
       ru: шест
     tags: [tool]
     aliases:

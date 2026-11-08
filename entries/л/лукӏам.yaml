@@ -2,14 +2,11 @@ headword: лукӏам
 ipa: luˈkʼam
 tags: [n]
 forms:
-  - text: лукӏам
-    gloss: abs
   - text: лукӏме
     gloss: pl
+
 definitions:
   - translation:
-      en: bar
-      ru: перекладина
+      en: joist
+      ru: прогон, балка
     tags: [tool]
-    aliases:
-      en: [wood]

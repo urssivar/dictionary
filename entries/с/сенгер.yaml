@@ -2,13 +2,12 @@ headword: сенгер
 ipa: senˈgeɾ
 tags: [n, loan, persian]
 forms:
-  - text: сенгер
-    gloss: abs
   - text: сенгерте
     gloss: pl
+
 definitions:
   - translation:
-      en: fortification
-      ru: укрепление
+      en: fortification, barricade
+      ru: укрепление, баррикада
     aliases:
       en: [barricade]

@@ -1,8 +1,11 @@
 headword: ғири
 ipa: ʁiˈɾi
 tags: [n]
+forms:
+  - text: ғирибе
+    gloss: pl
 
 definitions:
   - translation:
-      en: thick log
-      ru: толстая балка
+      en: log
+      ru: бревно

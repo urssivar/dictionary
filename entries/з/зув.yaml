@@ -1,0 +1,14 @@
+headword: зув
+ipa: ˈzuβ
+tags: [n, loan, russian]
+
+definitions:
+  - translation:
+      en: thyroid gland
+      ru: щитовидная железа
+    tags: [body]
+    examples:
+      - text: зув кәбун
+        translation:
+          en: goiter
+          ru: зоб (болезнь)

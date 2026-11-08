@@ -7,8 +7,8 @@ forms:
 
 definitions:
   - translation:
-      en: pole
-      ru: жердь
+      en: rod, bar
+      ru: стержень 
     tags: [tool]
 
-variants: [ҡӏәга, кӏига]
+variants: [ҡӏәга]

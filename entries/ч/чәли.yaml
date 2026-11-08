@@ -9,7 +9,5 @@ forms:
 
 definitions:
   - translation:
-      en: wattle
-      ru: плетёнь
-    aliases:
-      en: [fence, pen]
+      en: pen, enclosure
+      ru: загон

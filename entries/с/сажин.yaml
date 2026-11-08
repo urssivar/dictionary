@@ -1,0 +1,14 @@
+headword: сажин
+ipa: saˈʒin
+tags: [n]
+forms:
+  - text: сажинте
+    gloss: pl
+
+definitions:
+  - translation:
+      en: heap, pile
+      ru: груда, ворох
+    aliases:
+      en: [pile]
+      ru: [куча]

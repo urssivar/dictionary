@@ -1,13 +1,10 @@
 headword: маҡлиҡҡ
 ipa: maqˈliqː
 tags: [n]
-variants: [ҡалтикан, ххулуте]
-
 forms:
-  - text: маҡлиҡҡ
-    gloss: abs
   - text: маҡлиҡҡе
     gloss: pl
+
 definitions:
   - translation:
       en: flat club
@@ -15,3 +12,5 @@ definitions:
     tags: [tool]
     aliases:
       en: [bat]
+
+variants: [ҡалтикан, ххулуте]

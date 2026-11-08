@@ -1,15 +1,17 @@
 headword: зириз
 ipa: ziˈɾiz
 tags: [n]
-note:
-  en: "*ццумазриз*, *ццумуҡь зириз*"
 forms:
-  - text: зириз
-    gloss: abs
-  - text: зиризе
+  - text: зирзе
+    gloss: obl 
+  - text: зирзме
     gloss: pl
+
 definitions:
   - translation:
-      en: furuncle
-      ru: фурункул
+      en: tiny drop of liquid
+      ru: капелька жидкости
+  - translation:
+      en: exudate
+      ru: экссудат
     tags: [body]

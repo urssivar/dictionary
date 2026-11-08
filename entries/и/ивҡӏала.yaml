@@ -1,0 +1,15 @@
+headword: ивҡӏала
+ipa: iβˈqʼala
+tags: [n, vb, cls]
+forms:
+  - text: ивҡӏле
+    gloss: obl
+  - text: ивҡӏлиппе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: prop, support
+      ru: подпорка, опора
+
+derived_from: [ивҡӏара]

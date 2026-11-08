@@ -1,14 +1,13 @@
-headword: ҡәшикӏал
+headword: ҡәшшикӏал
 ipa: qæˈʃːikʼal
 tags: [n]
 forms:
-  - text: ҡәшикӏал
-    gloss: abs
-  - text: ҡәшикӏле
+  - text: ҡәшшикӏлан
+    gloss: obl
+  - text: ҡәшшикӏле
     gloss: pl
+
 definitions:
   - translation:
       en: crossbar
       ru: перекладина
-    aliases:
-      en: [rail, bar]

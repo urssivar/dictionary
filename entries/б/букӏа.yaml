@@ -2,17 +2,14 @@ headword: букӏа
 ipa: ˈbukʼa
 tags: [n]
 forms:
-  - text: букӏа
-    gloss: abs
   - text: букӏал
     gloss: obl
   - text: букӏурбе
     gloss: pl
+
 definitions:
   - translation:
-      en: heap
+      en: pile
       ru: куча
-    aliases:
-      en: [pile]
     examples:
       - text: дәһила букӏа

@@ -1,0 +1,15 @@
+headword: дирҡӏ бирҳҳара
+ipa: ˌdiɾqʼ biɾˈxːaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: биҳҳара
+    gloss: pfv
+  - text: бишшив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to level out
+      ru: выравниваться
+
+derived_from: [дирҡӏ, бирҳҳара]

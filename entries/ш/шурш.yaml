@@ -1,16 +1,13 @@
 headword: шурш
 ipa: ˈʃuɾʃ
 tags: [n]
-note:
-  en: There's also *шуршун* "window" in Shari.
 forms:
-  - text: шурш
-    gloss: abs
   - text: шуршме
     gloss: pl
 definitions:
   - translation:
-      en: slot
-      ru: ниша
-    aliases:
-      en: [notch]
+      en: slot, alcove, niche
+      ru: ниша, выемка
+
+note:
+  en: There's also *шуршун* "window" in Shari.

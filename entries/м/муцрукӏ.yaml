@@ -2,13 +2,13 @@ headword: муцрукӏ
 ipa: mutsˈɾukʼ
 tags: [n]
 forms:
-  - text: муцрукӏ
-    gloss: abs
   - text: муцрукӏе
     gloss: pl
+
 definitions:
   - translation:
       en: porch
       ru: крыльцо
     aliases:
       en: [stairs]
+      ru: [лестница]

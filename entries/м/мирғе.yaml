@@ -1,6 +1,9 @@
 headword: мирғе
 ipa: ˈmiɾʁe
 tags: [n]
+forms:
+  - text: мирғне
+    gloss: pl
 
 definitions:
   - translation:
@@ -9,5 +12,5 @@ definitions:
     aliases:
       en: [stick]
       ru: [палка]
-      
+
 see_also: [мирғә]

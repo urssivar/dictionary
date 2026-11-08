@@ -1,16 +1,15 @@
 headword: миччер
 ipa: miˈtʃːeɾ
 tags: [n]
-note:
-  en: "*миккери*"
 forms:
-  - text: миччер
-    gloss: abs
   - text: миччре
     gloss: obl
   - text: миччриппе
     gloss: pl
+
 definitions:
   - translation:
       en: stairs
       ru: лестница
+
+variants: [миккери]

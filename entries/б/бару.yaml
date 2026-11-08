@@ -2,13 +2,10 @@ headword: бару
 ipa: baˈɾu
 tags: [n, loan, iranian]
 forms:
-  - text: бару
-    gloss: abs
   - text: барне
     gloss: pl
+
 definitions:
   - translation:
-      en: stone fence
-      ru: каменный забор
-    aliases:
-      en: [fort]
+      en: fortress wall
+      ru: крепостная стена

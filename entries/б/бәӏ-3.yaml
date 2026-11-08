@@ -2,12 +2,11 @@ headword: бәӏ
 ipa: ˈbæʔ
 tags: [n]
 forms:
-  - text: бәӏ
-    gloss: abs
   - text: бәӏә
     gloss: obl
   - text: бәӏруме
     gloss: pl
+    
 definitions:
   - translation:
       en: wall
@@ -22,3 +21,5 @@ definitions:
     tags: [nature]
     aliases:
       en: [bank, hull]
+
+variants: [~/~/бәурме]

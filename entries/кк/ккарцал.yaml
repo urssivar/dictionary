@@ -1,18 +1,15 @@
 headword: ккарцал
 ipa: ˈkːaɾtsal
 tags: [n]
-note:
-  en: "*ккацул*"
 forms:
-  - text: ккарцал
-    gloss: abs
   - text: ккарцле
     gloss: obl
-  - text: ккарцлиппе
+  - text: ккирцлиппе
     gloss: pl
+
 definitions:
   - translation:
-      en: pillar
+      en: column
       ru: колонна
-    aliases:
-      en: [post, column]
+
+variants: [ккацул/ккицле]

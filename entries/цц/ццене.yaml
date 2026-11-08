@@ -1,0 +1,15 @@
+headword: ццене
+ipa: ˈtsːene
+tags: [n]
+forms:
+  - text: цценуппе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: ladder
+      ru: стремянка
+    tags: [tool]
+    aliases:
+      en: [stairs]
+      ru: [лестница]

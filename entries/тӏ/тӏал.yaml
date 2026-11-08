@@ -2,15 +2,12 @@ headword: тӏал
 ipa: ˈtʼal
 tags: [n]
 forms:
-  - text: тӏал
-    gloss: abs
   - text: тӏала
     gloss: obl
   - text: тӏиле
     gloss: pl
+
 definitions:
   - translation:
-      en: column
+      en: post, pillar
       ru: столб
-    aliases:
-      en: [post, pillar]

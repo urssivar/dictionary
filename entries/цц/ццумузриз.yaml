@@ -1,0 +1,15 @@
+headword: ццумузриз
+ipa: tsːumuzˈɾiz
+tags: [n]
+forms:
+  - text: ццумузризме
+    gloss: pl
+
+definitions:
+  - translation:
+      en: acne, pimple
+      ru: прыщ, акне
+    tags: [body, disease]
+
+derived_from: [зириз]
+variants: [ццумазириз, ццумуҡӏ/ццумуҡӏме]

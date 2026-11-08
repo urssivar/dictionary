@@ -1,15 +1,14 @@
 headword: бакӏре
 ipa: ˈbakʼɾe
 tags: [n, vb]
-etymology:
-  en: From *бикьара* "to grow".
 forms:
-  - text: бакӏре
-    gloss: abs
   - text: бакӏунде
     gloss: pl
+
 definitions:
   - translation:
-      en: abscess
-      ru: нарыв
+      en: abscess, boil
+      ru: фурункул, нарыв
     tags: [body]
+
+derived_from: [бикӏара]

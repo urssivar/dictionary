@@ -2,13 +2,12 @@ headword: ҡҡанав
 ipa: qːaˈnaβ
 tags: [n, loan, turkic]
 forms:
-  - text: ҡҡанав
-    gloss: abs
   - text: ҡҡанавте
     gloss: pl
+
 definitions:
   - translation:
-      en: moat
-      ru: ров
+      en: ditch, moat
+      ru: ров, кювет
     aliases:
       en: [trench, ditch]

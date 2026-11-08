@@ -1,0 +1,18 @@
+headword: пурхгула
+ipa: puɾχˈgula
+tags: [n]
+forms:
+  - text: пурхгу
+    gloss: loc
+  - text: пурхгулал
+    gloss: obl
+  - text: пурхгулабе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: shed, awning, sunshade
+      ru: навес, укрытие
+
+derived_from: [бурхха]
+variants: [бурхгу]

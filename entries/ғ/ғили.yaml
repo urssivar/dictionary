@@ -2,16 +2,13 @@ headword: ғили
 ipa: ʁiˈli
 tags: [n]
 forms:
-  - text: ғили
-    gloss: abs
   - text: ғилин
     gloss: obl
   - text: ғилме
     gloss: pl
+
 definitions:
   - translation:
-      en: clasp
-      ru: застежка
+      en: clasp, fastener
+      ru: застежка, зажим
     tags: [tool]
-    aliases:
-      en: [fastener, snap, zip]

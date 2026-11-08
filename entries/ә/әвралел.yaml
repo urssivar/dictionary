@@ -1,0 +1,16 @@
+headword: әвралел
+ipa: æβˈɾalel
+tags: [adv]
+
+definitions:
+  - translation:
+      en: for a long time
+      ru: долго
+    examples:
+      - text: Әвралел ружив ҡӏал.
+        translation:
+          en: Oh for how long did she stay
+          ru: Как же долго она осталась.
+
+derived_from: [әвра]
+variants: [әвранжи, баҡинна, баҡинжи, ххолле]

@@ -1,0 +1,16 @@
+headword: цциххен
+ipa: tsːiˈχːen
+tags: [n]
+forms:
+  - text: ццихне
+    gloss: obl
+  - text: цциххниппе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: main beam, load-bearing pillar
+      ru: матица, несущий столб
+    tags: [structure]
+
+variants: [цциххан]
