@@ -2,10 +2,11 @@ headword: ҡҡатт
 ipa: ˈqːatː
 tags: [n]
 forms:
-  - text: ҡҡатт
-    gloss: abs
+  - text: ҡҡатту
+    gloss: obl
   - text: ҡҡиттре
     gloss: pl
+
 definitions:
   - translation:
       en: trunk
@@ -16,3 +17,9 @@ definitions:
       - text: "* ҡҡаттцци ца ҡәр гон агурда"
         translation:
           en: very angry
+  - translation:
+      en: stump
+      ru: пень
+    tags: [nature]
+    aliases:
+      en: [stub]

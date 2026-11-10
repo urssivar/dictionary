@@ -1,0 +1,16 @@
+headword: ттакӏ уттара
+ipa: ˌtːakʼ uˈtːaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: берттара
+    gloss: pfv
+  - text: берттив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to be dumbfounded, to be shocked
+      ru: ошарашиваться, шокироваться
+
+derived_from: [ттакӏ, уттара]
+variants: [ккакк бирццара]

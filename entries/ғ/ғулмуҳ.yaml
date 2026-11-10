@@ -2,14 +2,14 @@ headword: ғулмуҳ
 ipa: ʁulˈmux
 tags: [n]
 forms:
-  - text: ғулмуҳ
-    gloss: abs
-  - text: ғулмуҳе
+  - text: ғулмуҳҳе
     gloss: pl
+
 definitions:
   - translation:
-      en: valve
-      ru: задвижка
+      en: hasp for a padlock
+      ru: петля для навесного замка
     tags: [tool]
     aliases:
       en: [lock]
+      ru: [замок]

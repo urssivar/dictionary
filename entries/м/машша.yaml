@@ -1,0 +1,15 @@
+headword: машша
+ipa: ˈmaʃːa
+tags: [n, loan, turkic]
+forms:
+  - text: машширбе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: grove
+      ru: роща
+    tags: [nature]
+    aliases:
+      en: [forest]
+      ru: [лес]

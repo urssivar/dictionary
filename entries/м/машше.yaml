@@ -1,0 +1,14 @@
+headword: машше
+ipa: ˈmaʃːe
+tags: [n]
+forms:
+  - text: машшин
+    gloss: obl
+  - text: машне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: hut
+      ru: шалаш
+    tags: [structure]

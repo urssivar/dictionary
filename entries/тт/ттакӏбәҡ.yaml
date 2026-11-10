@@ -1,0 +1,17 @@
+headword: ттакӏбәҡ
+ipa: tʼaˈkʼa
+tags: [n]
+forms:
+  - text: ттакӏбәҡе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: blockhead
+      ru: болван
+    aliases:
+      en: [stupid]
+      ru: [дурак]
+
+derived_from: [ттакӏ, бурҡара]
+variants: [ттакӏа/ттакӏне]

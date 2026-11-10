@@ -9,9 +9,9 @@ forms:
 
 definitions:
   - translation:
-      en: fence
+      en: fence, wattle
       ru: ограда, плетень
     aliases:
       en: [structure]
 
-variants: [деғе/деғле-, ~/~/дәғирбе]
+variants: [деғе/деғле-, ~/~/дәғирбе, забур/забурте]

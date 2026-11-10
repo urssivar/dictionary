@@ -1,0 +1,26 @@
+headword: ахмаҡӏ
+ipa: aχˈmaqʼ
+tags: [n, loan, arabic]
+forms:
+  - text: ахмаҡӏе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: fool
+      ru: глупец
+    aliases:
+      en: [stupid]
+      ru: [дурак]
+    tags: [pejorative]
+    examples:
+      - text: Маһ һештти ахмаҡӏе.
+        translation:
+          en: Well, what fools.
+          ru: Ну какие же глупцы.
+
+etymology:
+  en: From Arabic أَحْمَق (*ʔaḥmaq*) "stupid".
+  ru: От арабского أَحْمَق (*ʔaḥmaq*) "глупый".
+
+variants: [ахмах/ахмаххе]

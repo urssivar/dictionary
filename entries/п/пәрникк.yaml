@@ -1,0 +1,12 @@
+headword: пәрникк
+ipa: pæɾˈnikː
+tags: [n, loan, russian]
+forms:
+  - text: пәрникке
+    gloss: pl
+
+definitions:
+  - translation:
+      en: greenhouse
+      ru: парник
+    tags: [structure, agriculture]

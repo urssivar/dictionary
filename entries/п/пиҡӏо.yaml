@@ -2,15 +2,12 @@ headword: пиҡӏо
 ipa: ˈpiqʼʷa
 tags: [n]
 forms:
-  - text: пиҡӏо
-    gloss: abs
   - text: пиҡӏон
     gloss: obl
   - text: пиҡӏне
     gloss: pl
+
 definitions:
   - translation:
-      en: burrow
-      ru: нора
-    aliases:
-      en: [lair, den, hole]
+      en: burrow, lair, den
+      ru: нора, логово, берлога

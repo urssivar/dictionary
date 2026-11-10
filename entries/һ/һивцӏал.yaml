@@ -1,16 +1,15 @@
 headword: һивцӏал
-ipa: hiβˈtsʼal
+ipa: ˈhiβtsʼal
 tags: [n]
-note:
-  en: "*уцьала*, *цьибицьари*"
 forms:
-  - text: һивцӏал
-    gloss: abs
   - text: һивцӏле
     gloss: pl
+
 definitions:
   - translation:
       en: fragment
       ru: осколок
     aliases:
       en: [sliver, splinter]
+
+variants: [уцӏала, цӏибицӏари]

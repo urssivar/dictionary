@@ -1,0 +1,14 @@
+headword: машшабег
+ipa: maʃːabˈeg
+tags: [n, loan, turkic]
+forms:
+  - text: машшабегме
+    gloss: pl
+
+definitions:
+  - translation:
+      en: forester, ranger
+      ru: лесничий, лесник
+    tags: [occupation]
+
+derived_from: [машша, бег]

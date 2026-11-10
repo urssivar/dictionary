@@ -2,13 +2,10 @@ headword: ҡҡатав
 ipa: qːaˈtaβ
 tags: [n, loan, turkic]
 forms:
-  - text: ҡҡатав
-    gloss: abs
   - text: ҡҡатавте
     gloss: pl
+
 definitions:
   - translation:
-      en: layer
-      ru: слой
-    aliases:
-      en: [stratum]
+      en: stratum, layer
+      ru: пласт, наслоение

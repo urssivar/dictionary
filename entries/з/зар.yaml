@@ -1,6 +1,11 @@
 headword: зар
 ipa: ˈzaɾ
 tags: [n]
+forms:
+  - text: зара
+    gloss: obl
+  - text: зарте
+    gloss: pl
 
 definitions:
   - translation:

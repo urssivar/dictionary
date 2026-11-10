@@ -7,12 +7,9 @@ forms:
 
 definitions:
   - translation:
-      en: fool, stupid
-      ru: глупец, тупой
+      en: stupid
+      ru: дурак
     tags: [pejorative]
-    aliases:
-      en: [idiot, simpleton]
-      ru: [дурак, идиот]
 
 etymology:
   en: From Arabic أبدال (*abdāl*) "God's saint".

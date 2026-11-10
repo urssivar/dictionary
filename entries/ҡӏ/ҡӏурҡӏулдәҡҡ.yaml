@@ -1,14 +1,16 @@
-headword: ҡӏурҡӏулдәҡҡ
-ipa: qʼuɾqʼulˈdæqː
+headword: ҡӏурҡӏулдәҡ
+ipa: qʼuɾqʼulˈdæq
 tags: [n]
 forms:
-  - text: ҡӏурҡӏулдәҡҡ
-    gloss: abs
-  - text: ҡӏурҡӏулдәҡҡе
+  - text: ҡӏурҡӏулдәҡе
     gloss: pl
+
 definitions:
   - translation:
-      en: bulkhead
-      ru: перегородка
+      en: bulkhead, partition
+      ru: перегородка, переборка
     aliases:
-      en: [wall, division]
+      en: [wall]
+      ru: [стена]
+
+variants: [ҡӏурҡӏул, бурҡара]

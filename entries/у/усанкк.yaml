@@ -1,7 +1,16 @@
 headword: усанкк
 ipa: uˈsankː
 tags: [n]
+forms:
+  - text: усанкке
+    gloss: pl
+
 definitions:
   - translation:
       en: camp
-      ru: привал
+      ru: привал, лагерь
+    examples:
+      - text: усанккла ххвә
+        translation:
+          en: 
+          ru: 

@@ -2,12 +2,15 @@ headword: кӏарант
 ipa: kʼaˈɾant
 tags: [n, loan, russian]
 forms:
-  - text: кӏарант
-    gloss: abs
   - text: кӏаранте
     gloss: pl
+
 definitions:
   - translation:
-      en: tap
-      ru: крант
+      en: faucet, mixer tap
+      ru: кран, смеситель
+    tags: [tool]
+  - translation:
+      en: valve
+      ru: винтиль
     tags: [tool]
