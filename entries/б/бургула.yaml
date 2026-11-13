@@ -2,15 +2,12 @@ headword: бургула
 ipa: buɾˈgula
 tags: [n]
 forms:
-  - text: бургула
-    gloss: abs
   - text: бургле
     gloss: obl
   - text: бурглиппе
     gloss: pl
+
 definitions:
   - translation:
-      en: lair
-      ru: логово
-    aliases:
-      en: [lie, camp]
+      en: lair, cache
+      ru: логово, схрон

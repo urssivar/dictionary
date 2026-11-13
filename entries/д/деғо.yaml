@@ -1,16 +1,15 @@
 headword: деғо
 ipa: ˈdeʁʷa
 tags: [n]
-note:
-  en: |-
-    *дуға*
-    *бурхгу*
 forms:
-  - text: деғо
-    gloss: abs
   - text: деғон
     gloss: loc
+  - text: деғирбе
+    gloss: pl
+
 definitions:
   - translation:
       en: covered yard
       ru: крытый двор
+
+variants: [дуға]

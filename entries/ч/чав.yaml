@@ -1,12 +1,19 @@
 headword: чав
 ipa: ˈtʃaβ
 tags: [n]
+forms:
+  - text: чавре
+    gloss: pl
 
 definitions:
   - translation:
-      en: rumor
-      ru: слух
+      en: message, communication
+      ru: сообщение, послание
     examples:
+      - text: Чав бесун.
+        translation:
+          en: Send a message.
+          ru: Сослание
       - text: Чав бегур.
         translation:
           en: A rumor started.

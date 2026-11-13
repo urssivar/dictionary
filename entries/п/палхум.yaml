@@ -2,10 +2,9 @@ headword: палхум
 ipa: palˈχum
 tags: [n, loan, russian]
 forms:
-  - text: палхум
-    gloss: abs
   - text: палхумте
     gloss: pl
+
 definitions:
   - translation:
       en: balcony

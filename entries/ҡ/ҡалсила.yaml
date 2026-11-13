@@ -1,16 +1,15 @@
 headword: ҡалсила
 ipa: qalˈsila
 tags: [n]
-etymology:
-  en: From *ҡале* "home" + *-сала* "front"
 forms:
-  - text: ҡалсила
-    gloss: abs
+  - text: ҡалсле
+    gloss: obl
   - text: ҡалслиппе
     gloss: pl
+
 definitions:
   - translation:
-      en: sidewalk
-      ru: тротуар
-    aliases:
-      en: [path, walk]
+      en: roadside, sidewalk
+      ru: обочина, тротуар
+      
+derived_from: [ҡале]

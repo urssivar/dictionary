@@ -1,9 +1,13 @@
 headword: ҡарҡле
 ipa: ˈqaɾqle
 tags: [n]
+forms:
+  - text: ҡарҡлиппе
+    gloss: pl
+
 definitions:
   - translation:
       en: room's center
       ru: центр комнаты
-    aliases:
-      en: [place, office]
+
+variants: [ҡарҡи]

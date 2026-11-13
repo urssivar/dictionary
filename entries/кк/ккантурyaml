@@ -1,0 +1,12 @@
+headword: ккантур
+ipa: kːanˈtuɾ
+tags: [n, loan, russian]
+forms:
+  - text: ккантурте
+    gloss: pl
+
+definitions:
+  - translation:
+      en: office, workspace
+      ru: офис, рабочее место
+    tags: [structure]

@@ -7,10 +7,8 @@ forms:
 
 definitions:
   - translation:
-      en: venue
-      ru: годекан, место сбора
-    aliases:
-      en: [scene]
+      en: venue, scene, assembly place
+      ru: годекан, сцена, место сбора
 
 derived_from: ["*уче"]
 variants: [учер]

@@ -7,8 +7,8 @@ forms:
 
 definitions:
   - translation:
-      en: hasp for a padlock
-      ru: петля для навесного замка
+      en: clasp, hasp
+      ru: застёжка, петля
     tags: [tool]
     aliases:
       en: [lock]

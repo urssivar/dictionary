@@ -1,0 +1,19 @@
+headword: ххолаҡил
+ipa: χːʷalaˈqil
+tags: [n]
+forms:
+  - text: ххолаҡил
+    gloss: loc
+  - text: ххолаҡилбе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: hall
+      ru: зал
+    aliases:
+      en: [room]
+      ru: [комната]
+
+derived_from: [ххола, ҡил]
+variants: [ххолаҡале]

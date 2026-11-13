@@ -2,13 +2,10 @@ headword: ппадвал
 ipa: pːadˈβal
 tags: [n, loan, russian]
 forms:
-  - text: ппадвал
-    gloss: abs
   - text: ппадвалте
     gloss: pl
+
 definitions:
   - translation:
       en: basement
       ru: подвал
-    aliases:
-      en: [cellar]

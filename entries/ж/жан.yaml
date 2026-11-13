@@ -1,6 +1,10 @@
 headword: жан
 ipa: ˈʒan
 tags: [n, loan]
+forms:
+  - text: жанре
+    gloss: pl
+
 definitions:
   - translation:
       en: vitality

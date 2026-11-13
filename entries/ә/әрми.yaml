@@ -1,9 +1,11 @@
-headword: әрме
-ipa: ˈæɾme
+headword: әрми
+ipa: ˈæɾmi
 tags: [n, loan, russian]
 forms:
-  - text: әрми
+  - text: әрмил
     gloss: obl
+  - text: әрмибе
+    gloss: pl
 
 definitions:
   - translation:

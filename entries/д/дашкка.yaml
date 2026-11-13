@@ -1,6 +1,12 @@
 headword: дашкка
 ipa: ˈdaʃkːa
 tags: [n]
+forms:
+  - text: дашккан
+    gloss: pl
+  - text: дашккре
+    gloss: pl
+
 definitions:
   - translation:
       en: square

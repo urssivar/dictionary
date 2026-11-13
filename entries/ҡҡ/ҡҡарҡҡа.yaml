@@ -2,12 +2,11 @@ headword: ҡҡарҡҡа
 ipa: ˈqːaɾqːa
 tags: [n]
 forms:
-  - text: ҡҡарҡҡа
-    gloss: abs
-  - text: ҡҡарҡҡун
+  - text: ҡҡарҡҡу
     gloss: obl
   - text: ҡҡирҡкне
     gloss: pl
+
 definitions:
   - translation:
       en: stone
@@ -15,3 +14,5 @@ definitions:
     tags: [nature]
     aliases:
       en: [rock]
+
+variants: [~/ҡҡарҡҡан-/~]

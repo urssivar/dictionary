@@ -1,13 +1,10 @@
 headword: женигор
 ipa: ʒeniˈgʷaɾ
 tags: [n, loan, persian]
-note:
-  en: "*мицьир жан*"
 forms:
-  - text: женигор
-    gloss: abs
-  - text: женигорте
+  - text: женигре
     gloss: pl
+
 definitions:
   - translation:
       en: beast

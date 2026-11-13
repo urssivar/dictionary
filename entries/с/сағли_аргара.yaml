@@ -1,0 +1,13 @@
+headword: сағли аргара
+ipa: saʁˌli arˈgara
+tags: [v, ntr, cls]
+forms:
+  - text: агара
+    gloss: pfv
+  - text: агур
+    gloss: pret
+    
+definitions:
+  - translation:
+      en: to appear, to seem
+      ru: мерещиться, казаться

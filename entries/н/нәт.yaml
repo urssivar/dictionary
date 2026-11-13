@@ -1,8 +1,13 @@
 headword: нәт
 ipa: ˈnæt
 tags: [n]
+forms:
+  - text: нәтре
+    gloss: pl
 
 definitions:
   - translation:
       en: ball
       ru: мяч
+
+variants: [ҡҡәва]

@@ -11,3 +11,10 @@ definitions:
   - translation:
       en: stretcher
       ru: носилки
+  - translation:
+      en: ladder
+      ru: стремянка
+    tags: [tool]
+    aliases:
+      en: [stairs]
+      ru: [лестница]

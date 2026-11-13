@@ -1,16 +1,15 @@
 headword: чӏитӏ
 ipa: tʃʼiˈtʼ
 tags: [n]
-note:
-  en: "*замар*"
 forms:
-  - text: чӏитӏа
-    gloss: abs
   - text: чӏитӏан
     gloss: obl, loc
+  - text: чӏитӏре
+    gloss: pl
+
 definitions:
   - translation:
       en: chimney
       ru: дымоход
-    aliases:
-      en: [vent]
+
+variants: [замари]

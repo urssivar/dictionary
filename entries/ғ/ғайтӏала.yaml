@@ -1,16 +1,16 @@
 headword: ғайтӏала
 ipa: ʁajˈtʼala
 tags: [n]
-etymology:
-  en: From *ғай* "speech", cf. *шиҡьутьала* "activity".
 forms:
-  - text: ғайтӏала
+  - text: ғайтӏле
     gloss: abs
-  - text: ғайтӏалал
+  - text: ғайтӏлуме
     gloss: obl
+
 definitions:
   - translation:
-      en: discord
-      ru: раздор
-    aliases:
-      en: [strife, disagreement]
+      en: chatter, talk
+      ru: болтовня, разговор
+      
+derived_from: [ғай]
+variants: [ғайатӏала]

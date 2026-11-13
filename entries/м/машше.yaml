@@ -9,6 +9,6 @@ forms:
 
 definitions:
   - translation:
-      en: hut
-      ru: шалаш
+      en: shack, hut
+      ru: лачуга, шалаш
     tags: [structure]

@@ -1,7 +1,19 @@
 headword: береғо
 ipa: beˈɾeʁʷa
 tags: [n]
+forms:
+  - text: берғо
+    gloss: obl
+  - text: бирғме
+    gloss: pl
+
 definitions:
+  - translation:
+      en: beehive
+      ru: улей
+  - translation:
+      en: lair, den
+      ru: берлога, логово
   - translation:
       en: 2 kilo volume
       ru: 2 кг.

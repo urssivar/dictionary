@@ -1,0 +1,19 @@
+headword: гуниҡил
+ipa: guniˈqil
+tags: [n]
+forms:
+  - text: гуниҡил
+    gloss: loc
+  - text: гуниҡилбе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: pantry
+      ru: кладовка
+    aliases:
+      en: [room]
+      ru: [комната]
+
+derived_from: [гуни, ҡил]
+variants: [ғукла ҡале, кӏурсбай]

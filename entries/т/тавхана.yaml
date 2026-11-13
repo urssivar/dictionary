@@ -1,7 +1,15 @@
 headword: тавхана
 ipa: taβˈχana
 tags: [n, loan]
+forms:
+  - text: тавханал
+    gloss: obl
+  - text: тавханте
+    gloss: pl
+
 definitions:
   - translation:
       en: guest room
       ru: гостевая комната
+
+derived_from: [тав, хана]
