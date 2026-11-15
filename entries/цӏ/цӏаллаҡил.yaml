@@ -1,0 +1,16 @@
+headword: цӏаллаҡил
+ipa: tsʼallaˈqil
+tags: [n]
+forms:
+  - text: цӏаллаҡил
+    gloss: loc
+  - text: цӏаллаҡилбе
+    gloss: pl
+    
+definitions:
+  - translation:
+      en: living room-kitchen
+      ru: гостиная-кухня
+
+derived_from: [цӏа, тав]
+variants: [тавла ҡале]

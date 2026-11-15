@@ -1,6 +1,11 @@
-headword: арцце мицц
-ipa: ˌaɾtsːe ˈmitsː
+headword: арццимицц
+ipa: aɾtsːiˈmitsː
 tags: [n]
+forms:
+  - text: арццимиццан
+    gloss: obl
+  - text: арццимиццре
+    gloss: pl
 
 definitions:
   - translation:

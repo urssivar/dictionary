@@ -2,10 +2,11 @@ headword: мицц
 ipa: ˈmitsː
 tags: [n]
 forms:
-  - text: мицц
-    gloss: abs
   - text: миццан
+    gloss: obl
+  - text: миццре
     gloss: pl
+
 definitions:
   - translation:
       en: nettle

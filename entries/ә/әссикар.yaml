@@ -1,0 +1,19 @@
+headword: әсcикар
+ipa: æsːiˈkaɾ
+tags: [n]
+forms:
+  - text: әссикарте
+    gloss: pl
+
+definitions:
+  - translation:
+      en: angry man
+      ru: злой человек
+    examples:
+      - text: Һелгон әссикар авирһотте ҡӏал и — цикӏал агурил би у?
+        translation:
+          en: You’ve never been this angry before — did something happen?
+          ru: Ты ведь не бывал таким злым — что-то случилось?
+
+derived_from: [әсси]
+variants: [әсси бизи]

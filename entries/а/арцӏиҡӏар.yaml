@@ -1,0 +1,16 @@
+headword: арцӏиҡӏар
+ipa: aɾtsʼiˈqʼaɾ
+tags: [n]
+forms:
+  - text: арцӏиҡӏаран
+    gloss: obl
+  - text: арцӏиҡӏартме
+    gloss: pl
+
+definitions:
+  - translation:
+      en: weed
+      ru: сорняк
+    tags: [agriculture, plant]
+
+derived_from: [арцӏе, ҡӏар]

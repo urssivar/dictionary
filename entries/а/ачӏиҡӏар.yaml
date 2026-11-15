@@ -1,0 +1,16 @@
+headword: ачӏиҡӏар
+ipa: atʃʼiˈqʼaɾ
+tags: [n]
+forms:
+  - text: ачӏиҡӏаран
+    gloss: obl
+  - text: ачӏиҡӏартме
+    gloss: pl
+
+definitions:
+  - translation:
+      en: sedge
+      ru: осока
+    tags: [plant]
+
+derived_from: [ачӏе, ҡӏар]

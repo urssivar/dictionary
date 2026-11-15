@@ -1,18 +1,15 @@
 headword: биццала
 ipa: biˈtsːala
 tags: [n, vb]
-etymology:
-  en: From *биццара* "to bathe".
 forms:
-  - text: биццала
-    gloss: abs
   - text: биццле
     gloss: obl
   - text: биццлуме
     gloss: pl
+
 definitions:
   - translation:
       en: bath
       ru: ванна
-    aliases:
-      en: [tub]
+
+variants: [вәнна]

@@ -7,5 +7,10 @@ definitions:
       en: scales
       ru: чешуя
     tags: [body]
+    examples:
+      - text: бәлиҡҡала әпписнар кам
+        translation:
+          en: fish scales skin
+          ru: рыбья кожа-чешуя
 
 derived_from: [әппас]

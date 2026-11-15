@@ -1,0 +1,15 @@
+headword: әсcидеҳ
+ipa: æsːiˈdex
+tags: [n]
+
+definitions:
+  - translation:
+      en: anger
+      ru: злость
+    examples:
+      - text: Ила әссидеҳли биран бейкку.
+        translation:
+          en: Your anger is useless.
+          ru: Твоя злость бесполезна.
+
+derived_from: [әсси]

@@ -1,11 +1,12 @@
-headword: секцци
-ipa: ˈsektsːi
+headword: сеҳцци
+ipa: sexˈtsːi
 tags: [n, loan, russian]
 forms:
-  - text: секцци
-    gloss: abs
-  - text: секццибе
+  - text: сеҳццил
+    gloss: obl
+  - text: сеҳццибе
     gloss: pl
+
 definitions:
   - translation:
       en: apartment

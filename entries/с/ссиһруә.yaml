@@ -1,11 +1,12 @@
-headword: сиһруӏә
-ipa: sihɾuˈʔæ
+headword: ссиһруә
+ipa: sːihɾuˈæ
 tags: [n]
 forms:
-  - text: сиһруӏә
-    gloss: abs
-  - text: сиһруӏне
+  - text: ссиһруән
+    gloss: obl
+  - text: ссиһруӏне
     gloss: pl
+
 definitions:
   - translation:
       en: wizard

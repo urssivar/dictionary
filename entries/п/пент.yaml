@@ -1,0 +1,13 @@
+headword: пент
+ipa: ˈpent
+tags: [n]
+forms:
+  - text: пентре
+    gloss: pl
+
+definitions:
+  - translation:
+      en: space, room
+      ru: помещение, комната
+
+variants: [бент, хана]

@@ -11,5 +11,10 @@ definitions:
   - translation:
       en: veranda
       ru: веранда
-
+    examples:
+      - text: уркка ссаҡла
+        translation:
+          en: corridor
+          ru: коридор
+            
 variants: [ссаҡала, ссеҡәла]

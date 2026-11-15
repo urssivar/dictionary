@@ -4,13 +4,10 @@ tags: [n]
 etymology:
   en: From *чьу-* "bi-" + *тья* "leg".
 forms:
-  - text: чӏутӏәғ
-    gloss: abs
   - text: чӏутӏәғе
     gloss: pl
+
 definitions:
   - translation:
-      en: branching
-      ru: разветвление
-    aliases:
-      en: [fork]
+      en: fork, branching
+      ru: рогатина, разветвление

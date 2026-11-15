@@ -1,0 +1,25 @@
+headword: әсси
+ipa: æˈsːi
+tags: [adj, n]
+
+definitions:
+  - translation:
+      en: angry
+      ru: злой
+    tags: [emotion]
+    examples:
+      - text: әсси кабурцара
+        translation:
+          en: to harbor a grudge
+          ru: держать злобу
+      - text: Һәхел дурсивтал атта әсси варив.
+        translation:
+          en: What he told angered his father.
+          ru: Рассказанное им разозлило отца.
+      - text: И әсси виһнелли һел аагур.
+        translation:
+          en: It didn’t work out because you’re mean.
+          ru: Из-за того, что ты злой, это не получилось.
+  - translation:
+      en: ressentiment
+      ru: ресентимент

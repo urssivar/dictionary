@@ -1,0 +1,13 @@
+headword: кухни
+ipa: ˈkuχni
+tags: [n, loan, russian]
+forms:
+  - text: кухнил
+    gloss: obl
+  - text: кухнибе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: kitchen
+      ru: кухня

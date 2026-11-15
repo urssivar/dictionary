@@ -1,0 +1,16 @@
+headword: әсси чев
+ipa: æˌsːi ˈtʃeβ
+tags: [adj]
+
+definitions:
+  - translation:
+      en: vindictive, resentful
+      ru: злопамятный, обидчивый
+    tags: [emotion]
+    examples:
+      - text: Цӏаҡӏле әсси чев мейдам це, циней барив вәһице һам биххән.
+        translation:
+          en: A person who holds a deep grudge, remembering the harm done to them.
+          ru: Очень злопамятный человек, помнит себе сделанное зло.
+
+derived_from: [әсси, чев]

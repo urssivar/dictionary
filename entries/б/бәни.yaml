@@ -1,0 +1,13 @@
+headword: бәни
+ipa: ˈbæni
+tags: [n, loan, russian]
+forms:
+  - text: бәнил
+    gloss: obl
+  - text: бәнибе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: bathroom
+      ru: ванная
