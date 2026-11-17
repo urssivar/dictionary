@@ -60,12 +60,9 @@ python d.py export              # create files to export/
 
 ## Version History
 
-**v1.1 (2026, in progress):** Open-source YAML repository with editorial guidelines and tooling. Enriching entries with cross-references, usage examples, semantic tags, aliases, etymologies, and notes. Migrated to [Kaitag script v1.2](https://github.com/urssivar/script). In collaboration with **Gasanov M. R.** from Kirki village.
-
-- Letter **а**: complete (~175 entries)
-- Remaining letters: in progress — priority is clarifying meanings and capturing examples
-
 **[Future](https://github.com/urssivar/dictionary/issues/2):** orthographic standard, corpus stats, lexicographic review, morphological annotation and paradigm generation, and more.
+
+**v1.1 (Q4 2027, in progress):** Open-source YAML repository with editorial guidelines and tooling. Enriching entries with cross-references, usage examples, semantic tags, aliases, etymologies, and notes. Migrated to [Kaitag script v1.2](https://github.com/urssivar/script). In collaboration with **Gasanov M. R.** from Kirki village.
 
 **[v1.0 (May 2025)](https://github.com/urssivar/dictionary/releases/tag/v1.0):** Import of JSON source from Bazur dictionary, converted to YAML files. Output features: accented headwords, grammatical forms, POS tags, dialectal variants. In collaboration with prof. **Gasanova U. U.**, based on her dissertation's Shilyagi village wordlist (2012). Additional references: **Temirbulatova S. M.** (2004, 2008, 2021), **Gabibova K. M.** (2009).
 
