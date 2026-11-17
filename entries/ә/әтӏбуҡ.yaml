@@ -1,0 +1,19 @@
+headword: әтӏбуҡ
+ipa: ætʼˈbuq
+tags: [n]
+forms:
+  - text: әтӏбуҡе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: landslide, mudflow
+      ru: оползень, сель
+    tags: [nature]
+    examples:
+      - text: Әтӏбуҡ биж кабуҡун ҡале буҡҡив.
+        translation:
+          en: A mudflow burst in and carried away the house.
+          ru: Сель нахлынул и унёс дом.
+
+derived_from: ["*әтӏ", булҡана]

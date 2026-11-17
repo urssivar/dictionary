@@ -1,14 +1,15 @@
-headword: усттул
-ipa: usˈtːul
+headword: усттур
+ipa: usˈtːuɾ
 tags: [n, loan, russian]
 forms:
-  - text: усттул
-    gloss: abs
-  - text: усттулте
+  - text: усттурте
     gloss: pl
+
 definitions:
   - translation:
       en: table
       ru: стол
     aliases:
       en: [desk]
+
+variants: [усттул]

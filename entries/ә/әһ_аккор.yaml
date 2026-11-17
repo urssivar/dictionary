@@ -1,9 +1,15 @@
 headword: әһ аккор
 ipa: ˌæh aˈkːʷaɾ
 tags: [adj]
+
 definitions:
   - translation:
-      en: unwell
-      ru: нездоровый
-    aliases:
-      en: [ailing]
+      en: useless
+      ru: бесполезный
+    examples:
+      - text: Цилла-ра әһ аккор це. 
+        translation:
+          en: He's completely useless.
+          ru: Он совсем бесполезный.
+            
+derived_from: [әһ, аккор]

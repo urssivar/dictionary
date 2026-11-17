@@ -1,0 +1,20 @@
+headword: әһ бирара
+ipa: ˌæh biˈɾaɾa
+tags: [v, tr, cls]
+forms:
+  - text: барара
+    gloss: pfv
+  - text: барив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to improve, to correct
+      ru: улучшать, поправлять
+    examples:
+      - text: Миркнала һереғ шшантала ҳҳуне әһ барив. 
+        translation:
+          en: After the rains, the villagers corrected the road.
+          ru: После дождей сельчане поправили дорогу.
+
+derived_from: [әһ, бирара]

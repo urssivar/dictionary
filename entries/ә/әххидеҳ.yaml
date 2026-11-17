@@ -1,0 +1,18 @@
+headword: әхидеҳ
+ipa: æχːiˈdex
+tags: [n]
+forms:
+  - text: әххидеҳҳе
+    gloss: pl
+
+definitions:
+  - translation:
+      en: good, use, benefit
+      ru: благо, польза
+    examples:
+      - text: Һеж дәрһәцци тта ххол әххидеҳ чи бажив һелттал.
+        translation:
+          en: They saw a lot of good from this child.
+          ru: Они увидели много хорошего от этого ребёнка.
+
+derived_from: [әххи]

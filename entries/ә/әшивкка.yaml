@@ -11,5 +11,11 @@ definitions:
   - translation:
       en: error
       ru: ошибка
-
+  - translation:
+      en: oversight, error
+      ru: упущение, оплошность
+    aliases:
+      en: [mistake]
+      ru: [ошибка]
+      
 variants: [әшипкка]

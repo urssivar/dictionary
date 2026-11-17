@@ -1,14 +1,21 @@
 headword: әһ
 ipa: ˈæh
-tags: [adj]
+tags: [adj, n]
+
 definitions:
   - translation:
-      en: kind
-      ru: добрый
-    aliases:
-      en: [good, nice]
+      en: kind, fine
+      ru: добрый, хороший
+    examples:
+      - text: Ниссала умра цӏаҡӏле әһ мейдам де, исле вевчӏив.
+        translation:
+          en: Our neighbor was a very kind man; he died early.
+          ru: Наш сосед был очень добрым человеком, рано умер.
   - translation:
-      en: fine
-      ru: хороший
-    aliases:
-      en: [good]
+      en: kindness, benefactor
+      ru: доброта, благодетель
+    examples:
+      - text: Һешттила ххола уццила әһ сукке никӏо уццбай чи берххур.
+        translation:
+          en: The kindness of their older brother reached all the younger brothers.
+          ru: Доброта их старшего брата достигла до всех младших братьев.

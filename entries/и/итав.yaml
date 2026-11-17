@@ -1,13 +1,11 @@
 headword: итав
 ipa: ˈitaβ
 tags: [adv]
-etymology:
-  en: From *ьет* "that" + *ьав* "towards". There're also attested *итбе*, *ижбе* with comparative meanings "closer", "farther".
-note:
-  en: "*итев*, *ьетав*, *ьетебе*"
+
 definitions:
   - translation:
-      en: thither
-      ru: туда, в ту сторону
-    aliases:
-      en: [there, wards]
+      en: further away, thither
+      ru: подальше, дальше
+
+derived_from: [һетав]
+variants: [итбе]

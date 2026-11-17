@@ -1,0 +1,20 @@
+headword: әтӏур урғара
+ipa: æˌtʼuɾ uɾˈʁaɾa
+tags: [v, tr]
+forms:
+  - text: ағара
+    gloss: pfv
+  - text: ағив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to knock over, to overturn
+      ru: опрокидывать, переворачивать
+    examples:
+      - text: Мургул әсси виһәл усттур әтӏур ағив.
+        translation:
+          en: The man got angry and knocked over the table.
+          ru: Мужчина разозлился и опрокинул стол.
+
+derived_from: ["*әтӏ", урғара]

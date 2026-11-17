@@ -2,15 +2,19 @@ headword: әтӏ урғара
 ipa: ˌætʼ uɾˈʁaɾa
 tags: [v, tr]
 forms:
-  - text: әтӏ ағара
+  - text: ағара
     gloss: pfv
-  - text: әтӏ ағив
+  - text: ағив
     gloss: pret
-  - text: әтӏ урғара
-    gloss: ipfv
+
 definitions:
   - translation:
-      en: to demolish
-      ru: сносить
-    aliases:
-      en: [break, collapse]
+      en: to demolish, to collapse
+      ru: сносить, обрушать
+    examples:
+      - text: Чӏуллелли чи биссун бәӏ әтӏ ағив. 
+        translation:
+          en: The two of them leaned against the wall and collapsed it.
+          ru: Прислонились вдвоем и обрушили стену.
+
+derived_from: ["*әтӏ", урғара]

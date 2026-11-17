@@ -1,17 +1,15 @@
 headword: ижав
 ipa: ˈiʒaβ
 tags: [adv]
-etymology:
-  en: From *ьеж* "this" + *ьав* "towards". Cf. *итав* "thither".
-note:
-  en: '*ижев*, *ьежав*, *ьежебе*'
+
 definitions:
   - translation:
-      en: hither
-      ru: сюда, в эту сторону
-    aliases:
-      en: [closer]
+      en: closer, nearer, hither
+      ru: поближе, ближе
     examples:
       - text: ижев цака
         translation:
           en: bring hither
+
+derived_from: [һежав]
+variants: [ижбе]

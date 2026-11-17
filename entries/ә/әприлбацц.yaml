@@ -9,10 +9,10 @@ forms:
 
 definitions:
   - translation:
-      en: april
+      en: April
       ru: апрель
     aliases:
       en: [month]
 
 derived_from: [бацц]
-variants: [Әприл]
+variants: [Әприл/Әприлте]

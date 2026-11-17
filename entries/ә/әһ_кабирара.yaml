@@ -2,15 +2,19 @@ headword: әһ кабирара
 ipa: ˌæh kabiˈɾaɾa
 tags: [v, tr, cls]
 forms:
-  - text: әһ кабарара
+  - text: кабарара
     gloss: pfv
-  - text: әһ кабарив
+  - text: кабарив
     gloss: pret
-  - text: әһ кабирара
-    gloss: ipfv
+
 definitions:
   - translation:
-      en: to improve
-      ru: улучшать
-    aliases:
-      en: [better]
+      en: to heal, to cure
+      ru: лечить, исцелять
+    examples:
+      - text: Баццел аккол әһ карара абиһәв; цӏаҡӏле зәипле де.
+        translation:
+          en: It took a whole month to cure him; he had been very ill.
+          ru: Лишь за месяц смогли вылечить; сильно болел.
+
+derived_from: [әһ, бирара]

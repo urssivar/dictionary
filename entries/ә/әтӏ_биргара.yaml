@@ -1,0 +1,21 @@
+headword: әтӏ биргара
+ipa: ˌætʼ biɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: бигара
+    gloss: pfv
+  - text: бижив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to collapse, to fall
+      ru: обрушаться, падать
+    examples:
+      - text: Букӏум цабуҡун ескки цуга әтӏ бижив.
+        translation:
+          en: The wind blew, and the old hayloft collapsed.
+          ru: Подул ветер и старый сеновал обрушился.
+
+derived_from: ["*әтӏ", биргара]
+variants: [~ бирццара/биццара/биццур]

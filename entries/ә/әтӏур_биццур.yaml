@@ -1,0 +1,20 @@
+headword: әтӏур бирццара
+ipa: æˌtʼuɾ biɾˈtsːaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: биццара
+    gloss: pfv
+  - text: биццур
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to overturn, to tip over
+      ru: опрокидываться
+    examples:
+      - text: Уркуле ҡҡарҡҡуй һереғ бичил әтӏур биццур.
+        translation:
+          en: The cart hit a rock and overturned.
+          ru: Телега задела камень и опрокинулась.
+            
+derived_from: ["*әтӏ", урғара]

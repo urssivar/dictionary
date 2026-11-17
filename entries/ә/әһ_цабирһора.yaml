@@ -1,0 +1,20 @@
+headword: әһ цабирһора
+ipa: ˌæh tsabiɾˈhʷaɾa
+tags: [v, tr, cls]
+forms:
+  - text: цабиһора
+    gloss: pfv
+  - text: цабиһәв
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to get better, to show improvement
+      ru: поправляться, идти на улучшение
+    examples:
+      - text: Укулте дарив тин әһ цирһул чи киһәв.
+        translation:
+          en: After the injections, he began to recover.
+          ru: После уколов начал идти на поправку.
+
+derived_from: [әһ, бирһора]

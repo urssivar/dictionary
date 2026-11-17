@@ -13,11 +13,11 @@ definitions:
       en: [guilt]
       ru: [вина]
     examples:
-      - text: Ца аккол хурег абаривда, әӏив мабирай дами.
+      - text: Ца аккол хурег абаривда, әив мабирай дами.
         translation:
           en: I only prepared one dish — please don’t judge me.
           ru: Приготовила лишь одно блюда, не осуждайте меня.
-      - text: Әӏив де гум катара жаһил әмрулцци.
+      - text: Әив де гум катара жаһил әмрулцци.
         translation:
           en: It was a pity to bury him so young.
           ru: Жаль было хоронить его в молодом возрасте.

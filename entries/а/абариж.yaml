@@ -1,0 +1,15 @@
+headword: абариж
+ipa: abaˈɾiʒ
+tags: [adj, vb, cls]
+
+definitions:
+  - translation:
+      en: impossible, unachievable
+      ru: невозможный, невыполнимый
+    examples:
+      - text: Дила пикре һәсивле, һелел абарил әчу це һеж.
+        translation:
+          en: I believe this is an impossible job for him.
+          ru: Я полагаю, для него это невозможная работа.
+
+derived_from: [бирара]

@@ -2,15 +2,19 @@ headword: әһ кабирһухара
 ipa: ˌæh kabiɾˈhuχaɾa
 tags: [v, tr, cls]
 forms:
-  - text: әһ кабиһухара
+  - text: кабиһухара
     gloss: pfv
-  - text: әһ кабиһухәв
+  - text: кабиһухәв
     gloss: pret
-  - text: әһ кабирһухара
-    gloss: ipfv
+
 definitions:
   - translation:
-      en: to appease
-      ru: задабривать
-    aliases:
-      en: [pacify, conciliate]
+      en: to appease, to cajole
+      ru: задабривать, ублажать
+    examples:
+      - text: Һел ила ушттил әһ кариһухара биччеттен, цәәһ ҡҡампитала пәшкка цаҡҡил бекка.
+        translation:
+          en: If you want to appease your teacher, bring her a box of nice chocolates.
+          ru: Если ты хочешь задобрить эту твою учительницу, принеси и дай ей пачку хороших конфет.
+            
+derived_from: [әһ, бирһухара]

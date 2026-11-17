@@ -1,10 +1,10 @@
-headword: авғусбацц
+headword: Авғусбацц
 ipa: aβˈʁusbatsː
 tags: [n, loan, russian]
 forms:
-  - text: авғусбацце
+  - text: Авғусбацце
     gloss: obl
-  - text: авғусбиццре
+  - text: Авғусбиццре
     gloss: pl
 
 definitions:
@@ -25,5 +25,5 @@ etymology:
   en: From Russian *август* "August" and Kaitag *бацц* "month".
   ru: От русского *август* и кайтагского *бацц* "месяц".
 
-variants: [авғустт]
+variants: [Авғус/Авғуссе, Авғустт/Авғустте]
 derived_from: [бацц]

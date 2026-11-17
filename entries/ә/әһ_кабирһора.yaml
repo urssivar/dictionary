@@ -2,15 +2,19 @@ headword: әһ кабирһора
 ipa: ˌæh kabiɾˈhʷaɾa
 tags: [v, tr, cls]
 forms:
-  - text: әһ кабиһора
+  - text: кабиһора
     gloss: pfv
-  - text: әһ кабиһәв
+  - text: кабиһәв
     gloss: pret
-  - text: әһ кабирһора
-    gloss: ipfv
+
 definitions:
   - translation:
-      en: to recover
-      ru: восстаналиваться
-    aliases:
-      en: [heal, well, better]
+      en: to recover, to heal
+      ru: выздоравливать
+    examples:
+      - text: Зәипле калгун де, на әһ киһәл це.
+        translation:
+          en: He was ill, but he has recovered.
+          ru: Он болел, но уже выздоровел.
+
+derived_from: [әһ, бирһора]

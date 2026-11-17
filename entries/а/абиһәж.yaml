@@ -1,0 +1,15 @@
+headword: абиһәж
+ipa: abiˈhæʒ
+tags: [adj, vb, cls]
+
+definitions:
+  - translation:
+      en: inappropriate, unworthy
+      ru: неподобающий, недостойный
+    examples:
+      - text: Ниссай абиһәж ихтилат де һелин.
+        translation:
+          en: The conversation there was inappropriate for us.
+          ru: Там была неподобающая нам беседа.
+
+derived_from: [бирһора]

@@ -1,12 +1,15 @@
 headword: әххәл
-ipa: æχˈχæl
+ipa: ˈæχχæl
 tags: [intj]
 
 definitions:
   - translation:
-      en: good!
-      ru: хорошо!
-    aliases:
-      en: [ok, fine, cool]
+      en: good!, great!
+      ru: хорошо!, отлично!
+    examples:
+      - text: Әххәл, урссул да!
+        translation:
+          en: Great, I’ll take it!
+          ru: Отлично, покупаю!
 
-variants: [йәхши]
+derived_from: [әххи]

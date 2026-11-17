@@ -1,15 +1,15 @@
-headword: әлһәдбар
+headword: Әлһәдбар
 ipa: ælˈhædbaɾ
 tags: [n, loan, arabic]
 forms:
-  - text: әлһәдбари
+  - text: Әлһәдбари
     gloss: obl
-  - text: әлһәдбирме
+  - text: Әлһәдбирме
     gloss: pl
 
 definitions:
   - translation:
-      en: sunday
+      en: Sunday
       ru: воскресенье
     tags: [time]
     aliases:
@@ -22,3 +22,4 @@ definitions:
           ru: К этому воскресенью сделаю.
 
 derived_from: [әлһәд, бар]
+variants: [Әлһәд/Әлһәде]

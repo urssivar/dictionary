@@ -1,7 +1,17 @@
 headword: әәй
 ipa: æˈæj
-tags: [adj, child]
+tags: [n]
+forms:
+  - text: әәйте
+    gloss: pl
+
 definitions:
   - translation:
-      en: bad
-      ru: плохой
+      en: bad, dirty
+      ru: плохой, грязный
+    tags: [child]
+    examples:
+      - text: һабаҡа, әәйла це!
+        translation:
+          en: Leave it, it's bad!
+          ru: Оставь, плохое!
