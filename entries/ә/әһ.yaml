@@ -12,10 +12,10 @@ definitions:
           en: Our neighbor was a very kind man; he died early.
           ru: Наш сосед был очень добрым человеком, рано умер.
   - translation:
-      en: kindness, good
-      ru: доброта, благо
+      en: benefit, grace
+      ru: польза, благодать
     examples:
       - text: Һешттила ххола уццила әһ сукке никӏо уццбай чи берххур.
         translation:
-          en: The kindness of their older brother reached all the younger brothers.
-          ru: Доброта их старшего брата достигла до всех младших братьев.
+          en: The good of their older brother reached all the younger brothers.
+          ru: Благо их старшего брата достигла до всех младших братьев.

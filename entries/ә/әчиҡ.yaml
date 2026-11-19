@@ -1,9 +1,13 @@
 headword: әчиҡ
 ipa: æˈtʃiq
 tags: [adj, loan, turkic]
+
 definitions:
   - translation:
-      en: exposed
-      ru: выставленный, открытый
-    aliases:
-      en: [explicit]
+      en: clear, explicit
+      ru: понятный, ясный
+    examples:
+      - text: Һел цикӏал дами әчиҡле це.
+        translation:
+          en: That is clear to me.
+          ru: Это мне понятно.

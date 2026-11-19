@@ -1,14 +1,18 @@
 headword: әһғавза
 ipa: ˈæhʁaβza
 tags: [n]
-etymology:
-  en: Lit. *good lionheart*.
 forms:
-  - text: әһғавза
-    gloss: abs
   - text: әһғивзне
     gloss: pl
+
 definitions:
   - translation:
-      en: hero
-      ru: герой
+      en: mensch, good man
+      ru: настоящий мужчина
+    examples:
+      - text: Әһғавза вирһи нишшала ххолатта.
+        translation:
+          en: Your grandfather was a real man.
+          ru: Ваш дедушка был настоящим мужчиной.
+
+derived_from: [әһ, ғавза]

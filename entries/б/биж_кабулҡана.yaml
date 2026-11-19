@@ -1,0 +1,13 @@
+headword: биж кабулҡана
+ipa: ˌbiʒ kabulˈqana
+tags: [v, ntr, cls]
+forms:
+  - text: кабуҡана
+    gloss: pfv
+  - text: кабуҡун
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to surge in
+      ru: нахлынывать

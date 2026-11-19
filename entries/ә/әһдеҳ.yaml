@@ -1,9 +1,18 @@
 headword: әһдеҳ
 ipa: æhˈdex
 tags: [n]
+forms:
+  - text: әһдеҳҳе
+    gloss: pl
+
 definitions:
   - translation:
-      en: good
-      ru: добро
-    aliases:
-      en: [kindness]
+      en: good, favor, benefit
+      ru: добро, услуга, польза
+    examples:
+      - text: Ца әһдеҳ бара кко, ғавза.
+        translation:
+          en: Be so kind as to do me a favor.
+          ru: Будь добр, окажи одну услугу.
+
+derived_from: [әһ]

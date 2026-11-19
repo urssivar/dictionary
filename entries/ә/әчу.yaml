@@ -2,17 +2,29 @@ headword: әчу
 ipa: ˈætʃu
 tags: [n]
 forms:
-  - text: әчу
-    gloss: abs
   - text: әчул
     gloss: obl
   - text: әчули
     gloss: loc
   - text: әчурбе
     gloss: pl
+
 definitions:
   - translation:
-      en: job
+      en: work
       ru: работа
-    aliases:
-      en: [work]
+    examples:
+      - text: Ижал әвра әчу дарил варццул вәәж.
+        translation:
+          en: He did a lot of work today and is evidently tired.
+          ru: Сегодня много работы сделал и видимо устал.
+      - text: Әчулцци виж куцил ви.
+        translation:
+          en: He is swamped with work.
+          ru: Он утопает в работе.
+      - text: Әчулла баӏи ациғар.
+        translation:
+          en: He doesn't go near the work.
+          ru: Он не приближается к работе.
+
+variants: [әчве/әчурбе]

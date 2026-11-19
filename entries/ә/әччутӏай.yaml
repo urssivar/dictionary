@@ -2,11 +2,13 @@ headword: әччутӏай
 ipa: ætʃːuˈtʼaj
 tags: [n]
 forms:
-  - text: әччутӏай
-    gloss: abs
   - text: әччутӏне
     gloss: pl
+
 definitions:
   - translation:
       en: goatling female
       ru: козочка
+    tags: [animal, agriculture]
+
+derived_from: [әччу]

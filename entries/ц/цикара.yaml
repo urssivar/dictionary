@@ -2,15 +2,20 @@ headword: цикара
 ipa: tsiˈkaɾa
 tags: [v, tr]
 forms:
-  - text: циркара
+  - text: цакара
     gloss: pfv
-  - text: цирчив
+  - text: цачив
     gloss: pret
   - text: цикара
     gloss: ipfv
 definitions:
   - translation:
-      en: to roll out
-      ru: раскатывать
+      en: to bring
+      ru: приводить
     aliases:
-      en: [flatten, cruss]
+      en: [lead, take]
+    examples:
+      - text: Цачив Аллаһли дукаба
+        translation:
+          en: 
+          ru: 

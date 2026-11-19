@@ -1,0 +1,13 @@
+headword: лавч кабиргара
+ipa: ˌlaβtʃ kabiɾˈgaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: кабигара
+    gloss: pfv
+  - text: кабижив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to hang down
+      ru: свисать

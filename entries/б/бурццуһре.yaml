@@ -1,0 +1,16 @@
+headword: Бурццуһре
+ipa: buɾˈtsːuhɾe
+tags: [n]
+forms:
+  - text: Бурццуһри
+    gloss: obl
+  - text: Бурццуһран
+    gloss: dnz.sg
+  - text: Бурццуһрила
+    gloss: dnz.pl
+
+definitions:
+  - translation:
+      en: Burtsu (village)
+      ru: Бурцу (село)
+    tags: [placename]

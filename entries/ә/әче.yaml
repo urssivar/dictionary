@@ -1,0 +1,16 @@
+headword: әче
+ipa: ˈætʃе
+tags: [n]
+forms:
+  - text: әчел
+    gloss: obl
+  - text: әчне
+    gloss: pl
+
+definitions:
+  - translation:
+      en: hemp fabric
+      ru: конопляная ткань
+    tags: [clothing]
+
+variants: [әчве/әчвне, әчо]

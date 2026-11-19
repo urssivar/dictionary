@@ -4,13 +4,12 @@ tags: [adj]
 
 definitions:
   - translation:
-      en: noble, dignified
-      ru: благородный, достойный
-    aliases:
-      en: [aristocratic, worthy]
-      ru: [аристократичный, высокородный]
+      en: worthy, deserving, superior
+      ru: достойный, заслуживающий, превосходный
     examples:
       - text: Һәх цилла асилил йе?
         translation:
           en: How is he better?
           ru: Он чем лучше?
+
+derived_from: [ас]

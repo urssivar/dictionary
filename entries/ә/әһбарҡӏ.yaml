@@ -1,12 +1,13 @@
 headword: әһбарҡӏ
-ipa: æhˈbaɾqʼ
+ipa: ˈæhbaɾqʼ
 tags: [n]
 forms:
-  - text: әһбарҡӏ
-    gloss: abs
-  - text: әһбарҡӏе
+  - text: әһбарҡӏре
     gloss: pl
+
 definitions:
   - translation:
-      en: good deed
-      ru: благодеяние
+      en: feat
+      ru: подвиг
+
+derived_from: [әһ, барҡӏ]

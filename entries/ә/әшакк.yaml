@@ -2,14 +2,20 @@ headword: әшакк
 ipa: æˈʃakː
 tags: [n]
 forms:
-  - text: әшакк
-    gloss: abs
   - text: әшаккан
-    gloss: loc, obl
-  - text: әшакке
+    gloss: loc
+  - text: әшикке
     gloss: pl
+
 definitions:
   - translation:
       en: pot
       ru: кастрюля
-    tags: [tool, house]
+    tags: [tool]
+    examples:
+      - text: Әшакки бурта чи кабиҳҳа.
+        translation:
+          en: Put the lid on the pot.
+          ru: Накрой кастрюлю крышкой.
+
+variants: [әшаккне-]

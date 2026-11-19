@@ -1,0 +1,15 @@
+headword: биж кабурцара
+ipa: ˌbiʒ kabuɾˈtsaɾa
+tags: [v, ntr, cls]
+forms:
+  - text: кабуцара
+    gloss: pfv
+  - text: кабуцив
+    gloss: pret
+
+definitions:
+  - translation:
+      en: to be swamped
+      ru: утопать
+
+variants: [~ куцара/кабарцара/кабарцур]

@@ -1,0 +1,18 @@
+headword: әһссәәт
+ipa: ˈæhsːææt
+tags: [n]
+forms:
+  - text: әһссәәте
+    gloss: pl
+
+definitions:
+  - translation:
+      en: well-being, fortune
+      ru: благополучие, удача
+    examples:
+      - text: Әһссәәт бирһов нишшай!
+        translation:
+          en: May everything go well for you!
+          ru: Пусть всё у вас будет хорошо!
+
+derived_from: [әһ, ссәәт]

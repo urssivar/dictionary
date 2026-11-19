@@ -4,9 +4,13 @@ tags: [intj]
 
 definitions:
   - translation:
-      en: okay
-      ru: ладно
-    aliases:
-      en: [ok, fine, cool]
+      en: okay, alright, fine
+      ru: ладно, хорошо, ок
+    examples:
+      - text: Әһле, дул һел биранда.
+        translation:
+          en: Alright, I’ll do it.
+          ru: Хорошо, я это сделаю.
 
+derived_from: [әһ]
 variants: [йәхши]

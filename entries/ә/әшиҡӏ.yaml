@@ -1,9 +1,13 @@
 headword: әшиҡӏ
 ipa: æˈʃiqʼ
 tags: [adj, loan, arabic]
+
 definitions:
   - translation:
-      en: enamored
-      ru: влюбленный
-    aliases:
-      en: [love]
+      en: enamored, enchanted
+      ru: очарованный, влюблённый
+    examples:
+      - text: Ду һәх рирссий цӏәҡӏле әшиҡӏ виһәвда.
+        translation:
+          en: I was very charmed by this girl.
+          ru: Я был очень очарован той девушкой.

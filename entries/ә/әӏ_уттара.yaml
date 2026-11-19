@@ -2,15 +2,23 @@ headword: әӏ уттара
 ipa: ˌæʔ uˈtːaɾa
 tags: [v, ntr, cls]
 forms:
-  - text: әӏ берттара
+  - text: берттара
     gloss: pfv
-  - text: әӏ берттив
+  - text: берттив
     gloss: pret
-  - text: әӏ уттара
-    gloss: ipfv
+
 definitions:
   - translation:
-      en: to yawn
-      ru: разверзаться
-    aliases:
-      en: [разверзаться]
+      en: to gape open, to open up, to tear open
+      ru: разверзаться, раскрываться, разрываться
+    examples:
+      - text: Наҡҡуй кабичив дәҡә әӏ берттил це, чи цәнне акку.
+        translation:
+          en: The wound on the arm is open and not healing.
+          ru: Нанесённая на руку рана раскрыта и не затягивается.
+      - text: Курссум даҡӏун шилла чев би тум әӏ берттив.
+        translation:
+          en: After the earthquake, the high ground above the village split open.
+          ru: После землетрясения возвышенность над селом разверзлась.
+
+derived_from: [уттара]

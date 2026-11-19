@@ -1,4 +1,4 @@
-headword: әхидеҳ
+headword: әххидеҳ
 ipa: æχːiˈdex
 tags: [n]
 forms:
@@ -7,12 +7,12 @@ forms:
 
 definitions:
   - translation:
-      en: good, use, benefit
-      ru: благо, польза
+      en: use, suitability, quality
+      ru: польза, подходящесть, добротность
     examples:
-      - text: Һеж дәрһәцци тта ххол әххидеҳ чи бажив һелттал.
+      - text: Һеж ҳҳулуми һеж кӏанала ра әххидеҳ.
         translation:
-          en: They saw a lot of good from this child.
-          ru: Они увидели много хорошего от этого ребёнка.
+          en: How good this headscarf looks on this woman.
+          ru: Как же хорош этот платок для этой женщины.
 
 derived_from: [әххи]

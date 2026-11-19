@@ -1,9 +1,18 @@
 headword: әһзулладеҳ
 ipa: æhzullaˈdex
 tags: [n]
+forms:
+  - text: әһзулладеҳҳе
+    gloss: pl
+
 definitions:
   - translation:
-      en: sycophancy
-      ru: подхалимство
-    aliases:
-      en: [subservience]
+      en: reputation, social perception
+      ru: репутация, социальное восприятие
+    examples:
+      - text: Ил һел баривде әһзулладеҳ һассара.
+        translation:
+          en: You did this to improve your reputation.
+          ru: Ты сделал это, чтобы улучшить свою репутацию.
+
+derived_from: [әһ, зу]

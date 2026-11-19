@@ -2,14 +2,24 @@ headword: әһзулла һабиргара
 ipa: æhˌzulla habiɾˈgaɾa
 tags: [v, ntr, cls]
 forms:
-  - text: әһзулла һабигара
+  - text: һабигара
     gloss: pfv
-  - text: әһзулла һабижив
+  - text: һабижив
     gloss: pret
-  - text: әһзулла һабиргара
-    gloss: ipfv
+
 definitions:
   - translation:
-      en: to flatter
-      ru: льстить
-    tags: [emotion]
+      en: to exaggerate merits, to embellish, to flatter
+      ru: преувеличивать достоинства, преукрашивать, льстить
+    examples:
+      - text: Уккала массай әһзулла һирган.
+        translation:
+          en: Someone who uses other people’s property while trying to appear amiable.
+          ru: Использующий имущество других людей, пытаясь показаться любезным.
+      - text: Цинна дирихтури әһзулла һижив.
+        translation:
+          en: He embellished his achievements when speaking to the director.
+          ru: Он преукрасил свои дела перед директором.
+
+derived_from: [әһ, зу, биргара]
+variants: [~ һабиғара/һабағара/һабағив]

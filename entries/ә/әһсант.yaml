@@ -1,7 +1,13 @@
 headword: әһсант
-ipa: æhˈsant
+ipa: ˈæhsant
 tags: [n]
+forms:
+  - text: әһсанте
+    gloss: pl
+
 definitions:
   - translation:
-      en: virtue
+      en: virtue, good quality
       ru: добродетель, хорошее качество
+
+derived_from: [әһ]

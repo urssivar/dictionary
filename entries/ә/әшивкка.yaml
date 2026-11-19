@@ -9,13 +9,12 @@ forms:
 
 definitions:
   - translation:
-      en: error
-      ru: ошибка
-  - translation:
-      en: oversight, error
-      ru: упущение, оплошность
-    aliases:
-      en: [mistake]
-      ru: [ошибка]
-      
+      en: error, typo
+      ru: ошибка, опечатка
+    examples:
+      - text: Һеж ил белкӏунилцци әшивкка би һежин.
+        translation:
+          en: There is an error here in this writing of yours.
+          ru: Здесь в этой твоей записи есть ошибка.
+
 variants: [әшипкка]

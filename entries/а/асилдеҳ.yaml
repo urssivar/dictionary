@@ -7,10 +7,7 @@ forms:
 
 definitions:
   - translation:
-      en: status, rank
-      ru: статус, ранг
-    aliases:
-      en: [privilege]
-      ru: [привилегия]
+      en: dignity, rank, privilege
+      ru: достоинство, ранг, привилегия
 
 derived_from: [асил]
