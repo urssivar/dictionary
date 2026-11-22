@@ -3,11 +3,17 @@
 
 def get_first_letter(word, alphabet_tokens):
     word = word.lower()
+    letter_chars = {c for t in alphabet_tokens for c in t}
+    # Skip leading non-letters (affix dashes, apostrophes): "-деҳ" → "д".
+    i = 0
+    while i < len(word) and word[i] not in letter_chars:
+        i += 1
+    word = word[i:]
     for letter in alphabet_tokens:
         if word.startswith(letter):
             return letter
     print(f'⚠️ unknown first letter in "{word}"')
-    return word[0]
+    return word[0] if word else ''
 
 
 def mark_stress(entry, vowels):
@@ -75,8 +81,7 @@ def mark_stress(entry, vowels):
 
 
 def create_tokenizer(alphabet, alphabet_tokens):
-    alphabet_full = ['-', ' ', '_'] + alphabet
-    letter_order = {letter: i for i, letter in enumerate(alphabet_full)}
+    letter_order = {letter: i for i, letter in enumerate(alphabet)}
 
     def tokenize(word):
         i = 0
@@ -98,7 +103,8 @@ def create_tokenizer(alphabet, alphabet_tokens):
     def sorting_key(entry):
         headword = entry['id'].lower()
         try:
-            return [letter_order.get(t, 999) for t in tokenize(headword)]
+            # Only letters count: affixes cluster with their base word.
+            return [letter_order[t] for t in tokenize(headword) if t in letter_order]
         except Exception:
             return [0]
 
