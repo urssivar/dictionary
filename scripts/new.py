@@ -3,8 +3,7 @@
 
 import sys
 from utils.paths import ROOT
-from utils.loaders import load_alphabet
-from utils.text import get_first_letter
+from utils.text import first_letter
 
 
 def main():
@@ -13,10 +12,8 @@ def main():
         sys.exit(1)
 
     headword = sys.argv[1]
-    _, alphabet_tokens, _, _ = load_alphabet()
 
-    letter = get_first_letter(headword, alphabet_tokens)
-    letter_dir = ROOT / 'entries' / letter
+    letter_dir = ROOT / 'entries' / first_letter(headword)
     letter_dir.mkdir(parents=True, exist_ok=True)
 
     slug = headword.replace(' ', '_')

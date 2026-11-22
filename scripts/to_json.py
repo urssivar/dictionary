@@ -2,19 +2,20 @@
 """Convert Kaitag YAML entries to complete JSON archive (unprocessed format for research/tools)."""
 
 import json
-from utils import ROOT, load_alphabet, load_entries
+from utils.paths import ROOT
+from utils.meta import load_alphabet
+from utils.entries import load_entries
+from utils.text import sorting_key
 
 
 def main():
     output_path = ROOT / 'export' / 'dictionary.json'
 
-    alphabet, _, _, sorting_key = load_alphabet()
-    entries_by_letter, total_entries, skipped_entries = load_entries(alphabet)
+    entries_by_letter, total_entries, skipped_entries = load_entries()
 
     entries = []
-    for letter in alphabet:
-        for e in entries_by_letter.get(letter, []):
-            entries.append(e)
+    for letter in load_alphabet()['alphabet']:
+        entries.extend(entries_by_letter.get(letter, []))
     entries.sort(key=sorting_key)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)

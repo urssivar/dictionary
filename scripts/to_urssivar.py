@@ -2,21 +2,22 @@
 """Convert Kaitag YAML entries to JSON for static website (optimized format)."""
 
 import json
-import re
-from utils import ROOT, load_alphabet, load_grammar_tags, mark_stress, load_entries, resolve_headword_ref
+from utils.paths import ROOT
+from utils.meta import load_alphabet, grammar_tag_map
+from utils.entries import load_entries, clean_id, resolve_headword_ref
+from utils.text import sorting_key, mark_stress
 
 
-def resolve_headword_links(headword_refs, alphabet_tokens):
+def resolve_headword_links(headword_refs):
     result = []
     for ref in headword_refs or []:
-        path = resolve_headword_ref(ref, alphabet_tokens)
+        path = resolve_headword_ref(ref)
         if path is None:
             print(f"⚠️ ref not found: {ref}")
             continue
         if path is not True:
-            clean = re.sub(r'-\d+$', '', ref).replace('_', ' ')
             result.append({
-                'headword': clean,
+                'headword': clean_id(ref),
                 'link': f"{path.parent.name}#{path.stem}"
             })
     return result
@@ -47,10 +48,11 @@ def transform_definitions(definitions):
     return result
 
 
-def convert_entry(yaml_entry, vowels, tag_map, alphabet_tokens):
+def convert_entry(yaml_entry):
+    tag_map = grammar_tag_map()
     result = {
         'id': yaml_entry['id'],
-        'headword': mark_stress(yaml_entry, vowels),
+        'headword': mark_stress(yaml_entry),
     }
 
     if 'tags' in yaml_entry:
@@ -81,13 +83,12 @@ def convert_entry(yaml_entry, vowels, tag_map, alphabet_tokens):
         result['note'] = yaml_entry['note']
 
     if yaml_entry.get('derived_from'):
-        links = resolve_headword_links(
-            yaml_entry['derived_from'], alphabet_tokens)
+        links = resolve_headword_links(yaml_entry['derived_from'])
         if links:
             result['derived_from'] = links
 
     if yaml_entry.get('see_also'):
-        links = resolve_headword_links(yaml_entry['see_also'], alphabet_tokens)
+        links = resolve_headword_links(yaml_entry['see_also'])
         if links:
             result['see_also'] = links
 
@@ -97,16 +98,12 @@ def convert_entry(yaml_entry, vowels, tag_map, alphabet_tokens):
 def main():
     output_path = ROOT / 'export' / 'dictionary-urssivar.json'
 
-    alphabet, alphabet_tokens, vowels, sorting_key = load_alphabet()
-    tag_map = load_grammar_tags()
-    entries_by_letter, total_entries, skipped_entries = load_entries(alphabet)
+    entries_by_letter, total_entries, skipped_entries = load_entries()
 
     converted_entries = {}
-    for letter in alphabet:
-        converted = [
-            convert_entry(entry, vowels, tag_map, alphabet_tokens)
-            for entry in entries_by_letter.get(letter, [])
-        ]
+    for letter in load_alphabet()['alphabet']:
+        converted = [convert_entry(entry)
+                     for entry in entries_by_letter.get(letter, [])]
         converted.sort(key=sorting_key)
         converted_entries[letter] = converted
 

@@ -2,12 +2,10 @@
 """Convert Kaitag YAML entries to CSV for linguistic researchers."""
 
 import csv
-import re
-from utils import ROOT, load_alphabet, load_entries
-
-
-def normalize_ref(ref):
-    return re.sub(r'-\d+$', '', ref).replace('_', ' ')
+from utils.paths import ROOT
+from utils.meta import load_alphabet
+from utils.entries import load_entries, clean_id
+from utils.text import sorting_key
 
 
 FIELDNAMES = ['headword', 'ipa', 'tags', 'forms', 'translation',
@@ -96,24 +94,23 @@ def convert_entry(entry):
         'examples': '\n\n'.join(ex_blocks),
         'note': '\n\n'.join(note_parts),
         'variants': ', '.join(entry.get('variants') or []),
-        'derived_from': ', '.join(normalize_ref(r) for r in (entry.get('derived_from') or [])),
-        'see_also': ', '.join(normalize_ref(r) for r in (entry.get('see_also') or [])),
+        'derived_from': ', '.join(clean_id(r) for r in (entry.get('derived_from') or [])),
+        'see_also': ', '.join(clean_id(r) for r in (entry.get('see_also') or [])),
     }
 
 
 def main():
     output_path = ROOT / 'export' / 'dictionary.csv'
 
-    alphabet, _, _, sorting_key = load_alphabet()
-    entries_by_letter, total_entries, skipped_entries = load_entries(alphabet)
+    entries_by_letter, total_entries, skipped_entries = load_entries()
 
-    all_entries = []
-    for letter in alphabet:
+    rows = []
+    for letter in load_alphabet()['alphabet']:
         raw = entries_by_letter.get(letter, [])
         raw.sort(key=sorting_key)
         for e in raw:
             try:
-                all_entries.append(convert_entry(e))
+                rows.append(convert_entry(e))
             except Exception as err:
                 skipped_entries += 1
                 print(f"⚠️ {e.get('headword', '?')}: {err}")
@@ -122,7 +119,7 @@ def main():
     with open(output_path, 'w', newline='', encoding='utf-8-sig') as f:
         writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
         writer.writeheader()
-        writer.writerows(all_entries)
+        writer.writerows(rows)
 
     skipped = f", {skipped_entries} skipped" if skipped_entries else ""
     print(f"\n✔️ {total_entries} entries{skipped} → {output_path}")

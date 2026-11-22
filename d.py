@@ -49,5 +49,10 @@ p_val.set_defaults(fn=cmd_validate)
 p_exp = sub.add_parser('export', help='build all export formats')
 p_exp.set_defaults(fn=cmd_export)
 
+# 'new' takes a headword that may start with '-' (affix entries) — treat
+# everything after 'new' as positional.
+if len(sys.argv) > 1 and sys.argv[1] == 'new' and '--' not in sys.argv[2:]:
+    sys.argv.insert(2, '--')
+
 args = parser.parse_args()
 args.fn(args)

@@ -1,25 +1,75 @@
 #!/usr/bin/env python3
+"""Text helpers over the Kaitag alphabet. All read meta via utils.meta's cached
+loaders — no alphabet arguments needed anywhere."""
+from functools import lru_cache
+
+from utils.meta import load_alphabet
 
 
-def get_first_letter(word, alphabet_tokens):
+@lru_cache(maxsize=1)
+def _graphemes():
+    return list(load_alphabet()['alphabet'].keys())
+
+
+@lru_cache(maxsize=1)
+def _tokens():
+    return sorted(_graphemes(), key=len, reverse=True)
+
+
+@lru_cache(maxsize=1)
+def _letter_order():
+    return {g: i for i, g in enumerate(_graphemes())}
+
+
+@lru_cache(maxsize=1)
+def _letter_chars():
+    return frozenset(c for g in _graphemes() for c in g)
+
+
+@lru_cache(maxsize=1)
+def _vowels():
+    return {info['ipa']: g for g, info in load_alphabet()['alphabet'].items()
+            if info['type'] == 'vowel'}
+
+
+def first_letter(word):
+    """First grapheme of a headword, skipping leading non-letters: '-деҳ' → 'д'."""
     word = word.lower()
-    letter_chars = {c for t in alphabet_tokens for c in t}
-    # Skip leading non-letters (affix dashes, apostrophes): "-деҳ" → "д".
+    chars = _letter_chars()
     i = 0
-    while i < len(word) and word[i] not in letter_chars:
+    while i < len(word) and word[i] not in chars:
         i += 1
     word = word[i:]
-    for letter in alphabet_tokens:
-        if word.startswith(letter):
-            return letter
+    for t in _tokens():
+        if word.startswith(t):
+            return t
     print(f'⚠️ unknown first letter in "{word}"')
     return word[0] if word else ''
 
 
-def mark_stress(entry, vowels):
+def tokenize(word):
+    word = word.lower()
+    toks = _tokens()
+    out = []
+    i = 0
+    while i < len(word):
+        tok = next((t for t in toks if word.startswith(t, i)), word[i])
+        out.append(tok)
+        i += len(tok)
+    return out
+
+
+def sorting_key(entry):
+    """Sort by letters only, so affixes cluster with their base word."""
+    order = _letter_order()
+    return [order[t] for t in tokenize(entry['id'].lower()) if t in order]
+
+
+def mark_stress(entry):
     if 'ipa' not in entry or not entry['ipa']:
         return entry['headword']
 
+    vowels = _vowels()
     headword = entry['headword']
     ipa = entry['ipa'].replace('ˈ', "'").replace('ˌ', "'")
 
@@ -78,34 +128,3 @@ def mark_stress(entry, vowels):
                 needs_stress = False
 
     return headword
-
-
-def create_tokenizer(alphabet, alphabet_tokens):
-    letter_order = {letter: i for i, letter in enumerate(alphabet)}
-
-    def tokenize(word):
-        i = 0
-        tokens = []
-        word = word.lower()
-        while i < len(word):
-            matched = False
-            for letter in alphabet_tokens:
-                if word[i:].startswith(letter):
-                    tokens.append(letter)
-                    i += len(letter)
-                    matched = True
-                    break
-            if not matched:
-                tokens.append(word[i])
-                i += 1
-        return tokens
-
-    def sorting_key(entry):
-        headword = entry['id'].lower()
-        try:
-            # Only letters count: affixes cluster with their base word.
-            return [letter_order[t] for t in tokenize(headword) if t in letter_order]
-        except Exception:
-            return [0]
-
-    return sorting_key
