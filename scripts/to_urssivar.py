@@ -3,7 +3,7 @@
 
 import json
 from utils.paths import ROOT
-from utils.meta import load_alphabet, grammar_tag_map
+from utils.meta import letters, grammar_tag_map
 from utils.entries import load_entries, clean_id, resolve_headword_ref
 from utils.text import sorting_key, mark_stress
 
@@ -101,7 +101,7 @@ def main():
     entries_by_letter, total_entries, skipped_entries = load_entries()
 
     converted_entries = {}
-    for letter in load_alphabet()['alphabet']:
+    for letter in letters():
         converted = [convert_entry(entry)
                      for entry in entries_by_letter.get(letter, [])]
         converted.sort(key=sorting_key)

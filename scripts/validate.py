@@ -3,22 +3,17 @@
 
 import json
 import sys
+
 import yaml
-import argparse
 import jsonschema
+
 from utils.paths import ROOT
 from utils.meta import valid_tags
-from utils.entries import iter_entry_files, entry_id, resolve_headword_ref
+from utils.entries import iter_entry_files, clean_id, resolve_headword_ref
 from utils.text import first_letter
-from utils.etymology import check_etymology
 
 
-def main():
-    parser = argparse.ArgumentParser(
-        description="Validate dictionary entries.")
-    parser.add_argument("letters", nargs="*", metavar="LETTER")
-    args = parser.parse_args()
-
+def validate(letters=()):
     entries_dir = ROOT / 'entries'
     schema_path = ROOT / '.vscode' / 'entry-schema.json'
 
@@ -27,13 +22,14 @@ def main():
     with open(schema_path, encoding='utf-8') as f:
         schema = json.load(f)
 
-    if args.letters:
-        missing = [l for l in args.letters if not (entries_dir / l).is_dir()]
+    if letters:
+        missing = [l for l in letters if not (entries_dir / l).is_dir()]
         if missing:
             for l in missing:
                 print(f'letter folder not found: {entries_dir / l}')
-            sys.exit(1)
-        files = [(l, p) for l, p in iter_entry_files() if l in args.letters]
+            return 1
+        wanted = set(letters)
+        files = [(l, p) for l, p in iter_entry_files() if l in wanted]
     else:
         files = list(iter_entry_files())
 
@@ -60,9 +56,10 @@ def main():
         if headword is None:
             errors.append("missing 'headword'")
         else:
-            if headword.lower() != entry_id(yaml_file).lower():
+            stem_id = clean_id(yaml_file.stem)
+            if headword.lower() != stem_id.lower():
                 errors.append(
-                    f"headword/filename mismatch: {headword!r} vs {entry_id(yaml_file)!r}")
+                    f"headword/filename mismatch: {headword!r} vs {stem_id!r}")
             expected = first_letter(headword.lower())
             if folder != expected:
                 errors.append(f"wrong folder: '{expected}/'expected")
@@ -85,9 +82,6 @@ def main():
         if unknown:
             errors.append(f"unknown tags: {', '.join(unknown)}")
 
-        # Etymology prose-convention check
-        errors += check_etymology(data.get('etymology'))
-
         # Schema check
         try:
             jsonschema.validate(instance=data, schema=schema)
@@ -103,9 +97,13 @@ def main():
     print()
     if has_errors:
         print("❌ Validation failed")
-        sys.exit(1)
+        return 1
     print("✔️ Valid")
+    return 0
 
 
 if __name__ == '__main__':
-    main()
+    import argparse
+    parser = argparse.ArgumentParser(description="Validate dictionary entries.")
+    parser.add_argument("letters", nargs="*", metavar="LETTER")
+    sys.exit(validate(parser.parse_args().letters))

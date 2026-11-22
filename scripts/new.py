@@ -2,17 +2,12 @@
 """Create a new dictionary entry file."""
 
 import sys
+
 from utils.paths import ROOT
 from utils.text import first_letter
 
 
-def main():
-    if len(sys.argv) < 2:
-        print("Usage: python d.py new <headword>")
-        sys.exit(1)
-
-    headword = sys.argv[1]
-
+def new(headword):
     letter_dir = ROOT / 'entries' / first_letter(headword)
     letter_dir.mkdir(parents=True, exist_ok=True)
 
@@ -37,4 +32,7 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    if len(sys.argv) < 2:
+        print("Usage: python scripts/new.py <headword>")
+        sys.exit(1)
+    new(sys.argv[1])

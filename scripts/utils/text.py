@@ -1,55 +1,26 @@
 #!/usr/bin/env python3
-"""Text helpers over the Kaitag alphabet. All read meta via utils.meta's cached
-loaders — no alphabet arguments needed anywhere."""
-from functools import lru_cache
-
-from utils.meta import load_alphabet
-
-
-@lru_cache(maxsize=1)
-def _graphemes():
-    return list(load_alphabet()['alphabet'].keys())
-
-
-@lru_cache(maxsize=1)
-def _tokens():
-    return sorted(_graphemes(), key=len, reverse=True)
-
-
-@lru_cache(maxsize=1)
-def _letter_order():
-    return {g: i for i, g in enumerate(_graphemes())}
-
-
-@lru_cache(maxsize=1)
-def _letter_chars():
-    return frozenset(c for g in _graphemes() for c in g)
-
-
-@lru_cache(maxsize=1)
-def _vowels():
-    return {info['ipa']: g for g, info in load_alphabet()['alphabet'].items()
-            if info['type'] == 'vowel'}
+"""Text helpers over the Kaitag alphabet (read from utils.meta's cached loaders)."""
+from utils.meta import load_alphabet, letters
 
 
 def first_letter(word):
     """First grapheme of a headword, skipping leading non-letters: '-деҳ' → 'д'."""
     word = word.lower()
-    chars = _letter_chars()
+    chars = {c for g in letters() for c in g}
     i = 0
     while i < len(word) and word[i] not in chars:
         i += 1
     word = word[i:]
-    for t in _tokens():
+    for t in sorted(letters(), key=len, reverse=True):
         if word.startswith(t):
             return t
     print(f'⚠️ unknown first letter in "{word}"')
     return word[0] if word else ''
 
 
-def tokenize(word):
+def _tokenize(word):
     word = word.lower()
-    toks = _tokens()
+    toks = sorted(letters(), key=len, reverse=True)
     out = []
     i = 0
     while i < len(word):
@@ -61,22 +32,22 @@ def tokenize(word):
 
 def sorting_key(entry):
     """Sort by letters only, so affixes cluster with their base word."""
-    order = _letter_order()
-    return [order[t] for t in tokenize(entry['id'].lower()) if t in order]
+    order = {g: i for i, g in enumerate(letters())}
+    return [order[t] for t in _tokenize(entry['id'].lower()) if t in order]
 
 
 def mark_stress(entry):
-    if 'ipa' not in entry or not entry['ipa']:
+    ipa = entry.get('ipa')
+    if not ipa:
         return entry['headword']
 
-    vowels = _vowels()
+    alpha = load_alphabet()['alphabet']
+    vowels = {info['ipa']: g for g, info in alpha.items() if info['type'] == 'vowel'}
     headword = entry['headword']
-    ipa = entry['ipa'].replace('ˈ', "'").replace('ˌ', "'")
+    ipa = ipa.replace('ˈ', "'").replace('ˌ', "'")
 
-    # Sort longest-first so multi-char tokens (e.g. ʷa → о) match before substrings
-    vowel_tokens = sorted(vowels.keys(), key=len, reverse=True)
-
-    # Tokenize IPA once into (string, type) pairs
+    # Tokenize IPA into (text, type); vowel tokens longest-first (ʷa → о)
+    vowel_tokens = sorted(vowels, key=len, reverse=True)
     tokens = []
     i = 0
     while i < len(ipa):
@@ -87,7 +58,7 @@ def mark_stress(entry):
             tokens.append((ipa[i], 'sep'))
             i += 1
         else:
-            tok = next((t for t in vowel_tokens if ipa[i:i + len(t)] == t), None)
+            tok = next((t for t in vowel_tokens if ipa.startswith(t, i)), None)
             if tok:
                 tokens.append((tok, 'vowel'))
                 i += len(tok)
@@ -95,7 +66,7 @@ def mark_stress(entry):
                 tokens.append((ipa[i], 'other'))
                 i += 1
 
-    # Pass 1: drop stress markers from monosyllabic words
+    # Drop stress markers in monosyllabic (space/dash-delimited) segments
     stress_at = None
     v_count = 0
     for i, (tok, typ) in enumerate(tokens):
@@ -112,7 +83,7 @@ def mark_stress(entry):
     if not any(typ == 'stress' for _, typ in tokens):
         return headword
 
-    # Pass 2: insert combining accent after the stressed vowel in the headword
+    # Insert combining accent after the stressed vowel in the headword
     i_vowel = -1
     needs_stress = False
     for tok, typ in tokens:

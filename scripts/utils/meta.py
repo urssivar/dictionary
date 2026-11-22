@@ -20,6 +20,12 @@ def load_alphabet():
 
 
 @lru_cache(maxsize=1)
+def letters():
+    """Graphemes in alphabet order (the letter folder names)."""
+    return list(load_alphabet()['alphabet'].keys())
+
+
+@lru_cache(maxsize=1)
 def load_tags():
     """Raw meta/tags.yaml taxonomy."""
     with open(ROOT / 'meta' / 'tags.yaml', encoding='utf-8') as f:

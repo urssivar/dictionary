@@ -3,7 +3,7 @@
 
 import csv
 from utils.paths import ROOT
-from utils.meta import load_alphabet
+from utils.meta import letters
 from utils.entries import load_entries, clean_id
 from utils.text import sorting_key
 
@@ -105,7 +105,7 @@ def main():
     entries_by_letter, total_entries, skipped_entries = load_entries()
 
     rows = []
-    for letter in load_alphabet()['alphabet']:
+    for letter in letters():
         raw = entries_by_letter.get(letter, [])
         raw.sort(key=sorting_key)
         for e in raw:

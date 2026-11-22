@@ -6,7 +6,7 @@ import re
 import yaml
 
 from utils.paths import ROOT
-from utils.meta import load_alphabet
+from utils.meta import letters
 from utils.text import first_letter
 
 
@@ -15,13 +15,9 @@ def clean_id(name):
     return re.sub(r'-\d+$', '', name).replace('_', ' ')
 
 
-def entry_id(path):
-    return clean_id(path.stem)
-
-
 def iter_entry_files():
     """Yield (letter, path) for every entry file, in letter then name order."""
-    for letter in load_alphabet()['alphabet']:
+    for letter in letters():
         letter_dir = ROOT / 'entries' / letter
         if letter_dir.is_dir():
             for path in sorted(letter_dir.glob('*.yaml')):
@@ -31,7 +27,7 @@ def iter_entry_files():
 def load_entries():
     """Entries grouped by letter folder: {letter: [entry dicts with 'id']},
     plus (total, skipped). Unreadable files are reported and skipped."""
-    entries_by_letter = {letter: [] for letter in load_alphabet()['alphabet']}
+    entries_by_letter = {letter: [] for letter in letters()}
     total_entries = 0
     skipped_entries = 0
 

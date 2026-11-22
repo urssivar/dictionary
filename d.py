@@ -2,8 +2,8 @@
 """Dictionary CLI. Usage: python d.py <command> [args]"""
 
 import argparse
-import sys
 import os
+import sys
 
 # Auto-activate venv if present and not already active
 _dir = os.path.dirname(os.path.abspath(__file__))
@@ -14,40 +14,19 @@ if os.path.exists(_venv_python) and sys.prefix == sys.base_prefix:
 # Add scripts/ to path so imports work
 sys.path.insert(0, os.path.join(_dir, 'scripts'))
 
-
-def cmd_new(args):
-    from new import main as new_main
-    sys.argv = ['new', args.headword]
-    new_main()
-
-
-def cmd_validate(args):
-    from validate import main as validate_main
-    sys.argv = ['validate'] + args.letters
-    validate_main()
-
-
-def cmd_export(args):
-    from export import main as export_main
-    export_main()
-
-
 parser = argparse.ArgumentParser(
     prog='d.py', description='Kaitag dictionary tools')
 sub = parser.add_subparsers(dest='command', required=True)
 
-p_new = sub.add_parser('new', help='create a new entry file with ID')
+p_new = sub.add_parser('new', help='create a new entry file')
 p_new.add_argument('headword', help='headword for the new entry')
-p_new.set_defaults(fn=cmd_new)
 
 p_val = sub.add_parser(
-    'validate', help='validate entries: structure, IDs, tags, schema')
+    'validate', help='validate entries: structure, tags, refs, schema')
 p_val.add_argument('letters', nargs='*',
                    help='letter folders to check (default: all)')
-p_val.set_defaults(fn=cmd_validate)
 
-p_exp = sub.add_parser('export', help='build all export formats')
-p_exp.set_defaults(fn=cmd_export)
+sub.add_parser('export', help='build all export formats')
 
 # 'new' takes a headword that may start with '-' (affix entries) — treat
 # everything after 'new' as positional.
@@ -55,4 +34,13 @@ if len(sys.argv) > 1 and sys.argv[1] == 'new' and '--' not in sys.argv[2:]:
     sys.argv.insert(2, '--')
 
 args = parser.parse_args()
-args.fn(args)
+
+if args.command == 'new':
+    from new import new
+    new(args.headword)
+elif args.command == 'validate':
+    from validate import validate
+    sys.exit(validate(args.letters))
+elif args.command == 'export':
+    from export import main
+    main()
