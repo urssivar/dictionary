@@ -49,6 +49,9 @@ grammar:
   pl: # plural form
     en: pl
     ru: мн.
+  aff: # affix (prefix/suffix; direction shown by the dash in the headword)
+    en: affix
+    ru: аффикс
   # Grammatical feature tags (internal use only, not exported to JSON)
   vb: # verbal noun/deverbal (отглагольное существительное)
     en: vb

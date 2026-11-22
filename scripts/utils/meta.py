@@ -47,7 +47,7 @@ def valid_tags():
 def grammar_tag_map():
     exportable = {
         'n', 'v', 'adj', 'adv', 'conj', 'prep', 'post',
-        'intj', 'pro', 'num', 'cop', 'ptcl', 'det', 'cls', 'pl'
+        'intj', 'pro', 'num', 'cop', 'ptcl', 'det', 'cls', 'pl', 'aff'
     }
     return {
         short: {'en': tag['en'], 'ru': tag['ru']}
