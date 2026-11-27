@@ -19,12 +19,9 @@ grammar:
   conj: # conjunction
     en: conj
     ru: союз
-  prep: # preposition
-    en: prep
-    ru: предл.
-  post: # postposition
-    en: post
-    ru: посл.
+  adp: # adposition (pre- or postposition)
+    en: adp
+    ru: адл.
   intj: # interjection
     en: intj
     ru: межд.
@@ -50,8 +47,11 @@ grammar:
     en: pl
     ru: мн.
   aff: # affix (prefix/suffix; direction shown by the dash in the headword)
-    en: affix
-    ru: аффикс
+    en: aff
+    ru: афф.
+  cv: # coverb — bound component of a compound verb; never occurs standalone
+    en: cv
+    ru: ков.
   # Grammatical feature tags (internal use only, not exported to JSON)
   vb: # verbal noun/deverbal (отглагольное существительное)
     en: vb
@@ -86,8 +86,8 @@ etymology:
 
 # Used at top-level to indicate register, dialect, or special usage
 register:
-  child: # child language (baby talk, nursery words)
-    en: child language
+  baby: # baby talk (nursery words)
+    en: baby talk
     ru: детская речь
   pejorative: # disparaging or contemptuous terms
     en: pejorative
@@ -163,9 +163,9 @@ semantic:
   time: # time and temporal concepts
     en: time
     ru: время
-  unit: # units of measurement
-    en: unit
-    ru: единица
+  measure: # units of measurement
+    en: measure
+    ru: ед. изм.
 
   # Belief & worldview
   religion: # religion and religious concepts

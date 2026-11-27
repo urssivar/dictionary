@@ -44,10 +44,11 @@ def valid_tags():
 
 
 @lru_cache(maxsize=1)
-def grammar_tag_map():
+def export_tag_map():
+    """Grammar (POS) tags exported to JSON for the static site."""
     exportable = {
-        'n', 'v', 'adj', 'adv', 'conj', 'prep', 'post',
-        'intj', 'pro', 'num', 'cop', 'ptcl', 'det', 'cls', 'pl', 'aff'
+        'n', 'v', 'adj', 'adv', 'conj', 'adp',
+        'intj', 'pro', 'num', 'cop', 'ptcl', 'det', 'cls', 'pl', 'aff', 'cv'
     }
     return {
         short: {'en': tag['en'], 'ru': tag['ru']}

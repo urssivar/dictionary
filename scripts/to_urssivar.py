@@ -3,7 +3,7 @@
 
 import json
 from utils.paths import ROOT
-from utils.meta import letters, grammar_tag_map
+from utils.meta import letters, export_tag_map
 from utils.entries import load_entries, clean_id, resolve_headword_ref
 from utils.text import sorting_key, mark_stress
 
@@ -49,7 +49,7 @@ def transform_definitions(definitions):
 
 
 def convert_entry(yaml_entry):
-    tag_map = grammar_tag_map()
+    tag_map = export_tag_map()
     result = {
         'id': yaml_entry['id'],
         'headword': mark_stress(yaml_entry),
